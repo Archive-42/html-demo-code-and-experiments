@@ -12,8 +12,7 @@ By submitting an Issue to this repository, you agree to the terms within the [Au
 
 > A clear and concise description of what you want to happen.
 
-Alternatives and current work-arounds
--------------------------------------
+## Alternatives and current work-arounds
 
 > A clear and concise description of any alternatives you’ve considered or any work-arounds that are currently in place.
 

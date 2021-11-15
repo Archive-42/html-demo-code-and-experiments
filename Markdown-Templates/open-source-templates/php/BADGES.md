@@ -1,5 +1,4 @@
-PHP Badges
-==========
+# PHP Badges
 
 [![License](https://poser.pugx.org/auth0/open-source-template/license)](https://packagist.org/packages/auth0/open-source-template)
 
@@ -7,8 +6,7 @@ PHP Badges
 
 [![Latest Stable Version](https://poser.pugx.org/auth0/open-source-template/v/stable)](https://packagist.org/packages/auth0/open-source-template)
 
-WordPress Badges
-----------------
+## WordPress Badges
 
 [![WordPress plugin downloads](https://img.shields.io/wordpress/plugin/dt/auth0-open-source-template.svg)](https://wordpress.org/plugins/auth0-open-source-template/)
 

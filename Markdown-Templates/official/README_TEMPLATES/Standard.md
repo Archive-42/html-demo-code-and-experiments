@@ -4,30 +4,27 @@
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-------------------------------------------------------------------------
+---
 
-Few lines describing your project.  
+Few lines describing your project.
 
-📝 Table of Contents
--------------------
+## 📝 Table of Contents
 
--   [About](#about)
--   [Getting Started](#getting_started)
--   [Deployment](#deployment)
--   [Usage](#usage)
--   [Built Using](#built_using)
--   [TODO](../TODO.md)
--   [Contributing](../CONTRIBUTING.md)
--   [Authors](#authors)
--   [Acknowledgments](#acknowledgement)
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Built Using](#built_using)
+- [TODO](../TODO.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
 
-🧐 About <span id="about"></span>
---------------------------------
+## 🧐 About <span id="about"></span>
 
 Write about 1-2 paragraphs describing the purpose of your project.
 
-🏁 Getting Started <span id="getting_started"></span>
-----------------------------------------------------
+## 🏁 Getting Started <span id="getting_started"></span>
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
@@ -51,8 +48,7 @@ And repeat
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-🔧 Running the tests <span id="tests"></span>
---------------------------------------------
+## 🔧 Running the tests <span id="tests"></span>
 
 Explain how to run the automated tests for this system.
 
@@ -68,34 +64,29 @@ Explain what these tests test and why
 
     Give an example
 
-🎈 Usage <span id="usage"></span>
---------------------------------
+## 🎈 Usage <span id="usage"></span>
 
 Add notes about how to use the system.
 
-🚀 Deployment <span id="deployment"></span>
-------------------------------------------
+## 🚀 Deployment <span id="deployment"></span>
 
 Add additional notes about how to deploy this on a live system.
 
-⛏️ Built Using <span id="built_using"></span>
----------------------------------------------
+## ⛏️ Built Using <span id="built_using"></span>
 
--   [MongoDB](https://www.mongodb.com/) - Database
--   [Express](https://expressjs.com/) - Server Framework
--   [VueJs](https://vuejs.org/) - Web Framework
--   [NodeJs](https://nodejs.org/en/) - Server Environment
+- [MongoDB](https://www.mongodb.com/) - Database
+- [Express](https://expressjs.com/) - Server Framework
+- [VueJs](https://vuejs.org/) - Web Framework
+- [NodeJs](https://nodejs.org/en/) - Server Environment
 
-✍️ Authors <span id="authors"></span>
--------------------------------------
+## ✍️ Authors <span id="authors"></span>
 
--   <span class="citation" data-cites="kylelobo">\[@kylelobo\]</span>(https://github.com/kylelobo) - Idea & Initial work
+- <span class="citation" data-cites="kylelobo">\[@kylelobo\]</span>(https://github.com/kylelobo) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
-🎉 Acknowledgements <span id="acknowledgement"></span>
------------------------------------------------------
+## 🎉 Acknowledgements <span id="acknowledgement"></span>
 
--   Hat tip to anyone whose code was used
--   Inspiration
--   References
+- Hat tip to anyone whose code was used
+- Inspiration
+- References

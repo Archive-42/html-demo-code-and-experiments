@@ -1,18 +1,15 @@
-Auth0 Open Source Template
-==========================
+# Auth0 Open Source Template
 
 This repo contains sample files to be used in Auth0 open source software repositories. These files are guidelines that can be used in an Auth0 or any open source project to ensure that the project is described properly, the contribution process is clear, and additional tools like CI, coverage monitors, and quality checkers are configured properly.
 
-Table of Contents
------------------
+## Table of Contents
 
--   [Getting Started](#getting-started)
--   [Contribution](#contribution)
--   [Thank You](#thank-you)
--   [License](#license)
+- [Getting Started](#getting-started)
+- [Contribution](#contribution)
+- [Thank You](#thank-you)
+- [License](#license)
 
-Getting Started
----------------
+## Getting Started
 
 This repo can be cloned, modified, then re-purposed for new open source projects. It can also be used piecemeal to improve existing repos.
 
@@ -22,21 +19,21 @@ The core of open source repo quality is the `README.md` file that’s displayed 
 
 Most sections within this file should be considered required, even if that section contains a link to a more relevant page. Certain sections will contain repo-specific information and should be modified as needed:
 
--   Description (below the title)
--   Badges
--   Documentation
--   Installation
--   Getting Started
--   Thank you
--   License
+- Description (below the title)
+- Badges
+- Documentation
+- Installation
+- Getting Started
+- Thank you
+- License
 
 Other sections should be used as-is with minimal changes:
 
--   Table of Contents
--   Contribution
--   Support + Feedback
--   Vulnerability Reporting
--   What is Auth0?
+- Table of Contents
+- Contribution
+- Support + Feedback
+- Vulnerability Reporting
+- What is Auth0?
 
 ### Modify templates in `.github`
 
@@ -54,27 +51,24 @@ This file contains files that will be excluded from git. Modify as needed based 
 
 Additional template files have been included here for the specific technology that we work with. These should be considered as guidelines and not enforced in any way.
 
-Contribution
-------------
+## Contribution
 
 We appreciate feedback and contribution to this template! Before you get started, please see the following:
 
--   [Auth0’s general contribution guidelines](GENERAL-CONTRIBUTING.md)
--   [Auth0’s code of conduct guidelines](CODE-OF-CONDUCT.md)
+- [Auth0’s general contribution guidelines](GENERAL-CONTRIBUTING.md)
+- [Auth0’s code of conduct guidelines](CODE-OF-CONDUCT.md)
 
-Thank You!
-----------
+## Thank You!
 
 A big thank you to all of our sources of inspiration!
 
--   <span class="citation" data-cites="Roshanjossey">\[First Contributions by @Roshanjossey\]</span>(https://github.com/Roshanjossey/first-contributions)
--   [First Timers Only](https://www.firsttimersonly.com/)
--   [Sane Github Labels](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63)
--   <span class="citation" data-cites="matiassingers">\[Awesome README by @matiassingers\]</span>(https://github.com/matiassingers/awesome-readme)
+- <span class="citation" data-cites="Roshanjossey">\[First Contributions by @Roshanjossey\]</span>(https://github.com/Roshanjossey/first-contributions)
+- [First Timers Only](https://www.firsttimersonly.com/)
+- [Sane Github Labels](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63)
+- <span class="citation" data-cites="matiassingers">\[Awesome README by @matiassingers\]</span>(https://github.com/matiassingers/awesome-readme)
 
 … and many more!
 
-License
--------
+## License
 
 This repo is covered under [The MIT License](LICENSE).

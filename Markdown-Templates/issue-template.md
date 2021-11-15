@@ -1,13 +1,9 @@
-Version
--------
+## Version
 
-Development Environment
------------------------
+## Development Environment
 
-Current Behavior
-----------------
+## Current Behavior
 
     // Write example code
 
-Expected Behavior
------------------
+## Expected Behavior

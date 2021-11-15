@@ -1,28 +1,23 @@
-Contribution
-============
+# Contribution
 
 Please read [Auth0’s contribution guidelines](https://github.com/auth0/open-source-template/blob/master/GENERAL-CONTRIBUTING.md).
 
-Documentation
--------------
+## Documentation
 
--   PR for docs site update, if needed
--   Code-level documentation expectations
-    -   100% documentation coverage for PRs
-    -   Include links to relevant Auth0 doc pages
+- PR for docs site update, if needed
+- Code-level documentation expectations
+  - 100% documentation coverage for PRs
+  - Include links to relevant Auth0 doc pages
 
-Assets compilation
-------------------
+## Assets compilation
 
 Information about compiling CSS, JS, SVG, etc.
 
-Environment setup
------------------
+## Environment setup
 
 Link to [README installation](README.md#installation) steps and include anything additional needed to contribute to the project.
 
-Testing
--------
+## Testing
 
 ### Adding tests
 
@@ -37,17 +32,14 @@ Any additional information needed to run the test suite. Include `bash`-formatte
 
 Also include any information about essential manual tests.
 
-Code quality tools
-------------------
+## Code quality tools
 
 Information about scripts to run before committing.
 
-CI Information
---------------
+## CI Information
 
 What CI checks for and how to pass.
 
-Repo-specific PR guidelines
----------------------------
+## Repo-specific PR guidelines
 
 Anything not covered in the general guidelines linked above.

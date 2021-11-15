@@ -1,115 +1,111 @@
-Repo Utils
-==========
+# Repo Utils
 
-------------------------------------------------------------------------
+---
 
-[blog templates](https://bgoonz.github.io/repo-utils/)
-------------------------------------------------------
+## [blog templates](https://bgoonz.github.io/repo-utils/)
 
-------------------------------------------------------------------------
+---
 
 ![logo](https://avatars.githubusercontent.com/u/66654881?s=460&u=fa9d2cc45bc228dd9b7d3dee6d4653f940fab35a&v=4)
 
-MY REPO UTILITIES NPM PACKAGE
-=============================
+# MY REPO UTILITIES NPM PACKAGE
 
 ### This code is not exclusivley written by me … it is just a list of files I use often during website development… use at your own risk
 
-Copy-2-Clipboard:
------------------
+## Copy-2-Clipboard:
 
 ![](./images/copy-2-clip.PNG)
 
-------------------------------------------------------------------------
+---
 
-Git-Html Preview-Tool:
-----------------------
+## Git-Html Preview-Tool:
 
 ![](images/git-preview.gif)
 
-------------------------------------------------------------------------
+---
 
-Markdown Templates:
--------------------
+## Markdown Templates:
 
 ![](images/markdown-template.png)
 
-------------------------------------------------------------------------
+---
 
-Text Tools:
------------
+## Text Tools:
 
 ![](images/TexTools.PNG)
 
-------------------------------------------------------------------------
+---
 
-Automatic Table Of Contents Generator:
---------------------------------------
+## Automatic Table Of Contents Generator:
 
 ![](images/toc.PNG)
 
-------------------------------------------------------------------------
+---
 
-Text-File-2-JS-Array:
----------------------
+## Text-File-2-JS-Array:
 
 ![](images/text-file-2-JS-Array.PNG)
 
-------------------------------------------------------------------------
+---
 
 ### Usage:
 
     npm i repo-utils
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 \#Useful Commands!
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 || || V
 
 1. Download Links of a specific file extension from website
------------------------------------------------------------
+
+---
 
      wget -r -A.pdf https://overapi.com/gitwget --wait=2 --level=inf --limit-rate=20K --recursive --page-requisites --user-agent=Mozilla --no-parent --convert-links --adjust-extension --no-clobber -e robots=off
 
 2. Download Website for ofline use…
------------------------------------
+
+---
 
     sudo apt install httrack
     httrack --ext-depth=2 _**url**_
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 3. Recursivley remove files named cookies.txt
----------------------------------------------
+
+---
 
     find . -name cookies.txt -type f -exec rm -rf {} \;
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 4. Recursivley remove lines of text contaning the string badFolder from files in the working directory.
--------------------------------------------------------------------------------------------------------
+
+---
 
     find . -type f -exec sed -i '/badFolder/d' ./* {} \;
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-5. Recursivley Install node\_modules
-------------------------------------
+5. Recursivley Install node_modules
+
+---
 
     npm i -g recursive-install
 
@@ -117,12 +113,13 @@ Text-File-2-JS-Array:
 
     npm-recursive-install
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 6. Recursivley Exicute any sequence of commands
------------------------------------------------
+
+---
 
     function RecurseDirs ()
     {
@@ -145,30 +142,33 @@ Text-File-2-JS-Array:
     }
     RecurseDirs "./"
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-7. Copy any text between &lt;**script**&gt; tags in a file called *example.html* to be inserted into a new file: *out.js*
--------------------------------------------------------------------------------------------------------------------------
+7. Copy any text between &lt;**script**&gt; tags in a file called _example.html_ to be inserted into a new file: _out.js_
+
+---
 
     sed -n -e '/<script>/,/<\/script>/p' example.html >out.js
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-8. Recursivley Delete node\_modules folders
--------------------------------------------
+8. Recursivley Delete node_modules folders
+
+---
 
     find . -name 'node_modules' -type d -print -prune -exec rm -rf '{}' +
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 9. Sanatize file and folder names to remove illegal characters and reserved words.
-----------------------------------------------------------------------------------
+
+---
 
     sanitize() {
       shopt -s extglob;
@@ -193,21 +193,23 @@ Text-File-2-JS-Array:
 
     sanitize_dir '/path/to/somewhere'
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 10. Start postgresql in terminal
---------------------------------
+
+---
 
      sudo -u postgres psql
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 11. Add closing body and script tags to each html file in working directory.
-----------------------------------------------------------------------------
+
+---
 
     for f in * ; do
       mv "$f" "$f.html"
@@ -216,12 +218,13 @@ Text-File-2-JS-Array:
     </form>
       </body></html>" | tee -a *.html
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 12. Batch Download Videos
--------------------------
+
+---
 
     #!/bin/bash
 
@@ -240,12 +243,13 @@ Text-File-2-JS-Array:
           num=$(($num+1))
     done
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 13. Change File Extension from ‘.txt’ to .doc for all files in working directory.
----------------------------------------------------------------------------------
+
+---
 
       sudo apt install rename
 
@@ -253,47 +257,46 @@ Text-File-2-JS-Array:
     rename 's/\.txt$/.doc/' *.txt
 
 14. Recursivley change any file with extension .js.download to .js
-------------------------------------------------------------------
+
+---
 
     find . -name "*.\.js\.download" -exec rename 's/\.js\.download$/.js/' '{}' +
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 15. Copy folder structure including only files of a specific extension into an ouput Folder
--------------------------------------------------------------------------------------------
+
+---
 
     find . -name '*.md' | cpio -pdm './../outputFolder'
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-**PANDOC!!!**
-=============
+# **PANDOC!!!**
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 > sudo apt install pandoc
 >
 > 1\`\`\`bash pandoc -s file.txt -o file.rtf—
 
-
     pandoc *.md> -o _example.html
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
     find ./ -iname "*.html" -type f -exec sh -c 'pandoc "${0}" -o "${0%.html}.md"' {} \;
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
-
+---
 
     find ./ -iname "*.md" -type f -exec sh -c 'pandoc "${0}" -o "${0%.md}.html"' {} \;
 
@@ -314,9 +317,9 @@ Text-File-2-JS-Array:
     </form>
       </body></html>" | tee -a *.html
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
     for x in "./"/*/; do
       (cd "$x"
@@ -325,21 +328,21 @@ Text-File-2-JS-Array:
       )
     done
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
     find . -size +75M -a -print -a -exec rm -f {} \;
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
     find . \( -name ".git" -o -name ".gitignore" -o -name ".gitmodules" -o -name ".gitattributes" \) -exec rm -rf -- {} +
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 > check what you are about to delete before deleting:
 
@@ -349,9 +352,9 @@ Text-File-2-JS-Array:
 
     find . -name "*.zip" -type f -print -delete#!/bin/sh
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
     find ./ | sed -E -e 's/([^ ]+[ ]+){8}//' | grep -i "\.*$">files
     listing="files"
@@ -450,9 +453,9 @@ Text-File-2-JS-Array:
 
     cmd $listing --sort=extension >>$html
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
     sudo apt install uniq
 
@@ -460,15 +463,15 @@ Text-File-2-JS-Array:
 
     uniq -u input.txt output.txt
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
     git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch assets/_website-components/0-DOJO/widgets-master/output/info/stats.json' HEAD
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
     find ./ | grep -i "\.html*$"
     ls -R './' | awk '
@@ -476,18 +479,17 @@ Text-File-2-JS-Array:
     /:$/&&!f{sub(/:$/,"");s=$0;f=1;next}
     NF&&f{ print s"/"$0 }'>listing.md
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-Recursivley remove from all html files any lines contaning the string “badText”
-===============================================================================
+# Recursivley remove from all html files any lines contaning the string “badText”
 
     find . -type f -exec sed -i '/badText/d' ./*.html {} \;
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 \#install unzip:
 
@@ -496,16 +498,15 @@ Recursivley remove from all html files any lines contaning the string “badText
     # recursivley unzip all zip files into a folder by the same name:
     find . -name "*.zip" | while read filename; do unzip -o -d "`dirname "$filename"`" "$filename"; done;
 
-------------------------------------------------------------------------
+---
 
-recursivley delete .zip files when done:
-========================================
+# recursivley delete .zip files when done:
 
     find . -name "*.zip" -type f -print -delete
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
     n=1;
     max=50;
@@ -514,21 +515,19 @@ recursivley delete .zip files when done:
       n=`expr "$n" + 1`;
     done
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
       git config --global credential.helper store
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
-
+---
 
     sed -i '/target-string/d' ./js-in-one-page.html
 
-examples:
-=========
+# examples:
 
     sed -i '/\.git/d' ./index.html
 
@@ -537,9 +536,9 @@ examples:
 
     find . -type f -a \( -name "*.html" -o -name "*.js" -o -name "*.css" -o -name "*.md" \) -a -exec sed -i  '/BADSTRING/d' '{}' +
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
     # recursivley remove empty files
 
@@ -550,28 +549,25 @@ examples:
     # recursivley remove empty folders
     find . -empty -type d -print -delete
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-recursively remove .git folder, .gitignore file and .gitmodules file and .gitattributes file
-============================================================================================
+# recursively remove .git folder, .gitignore file and .gitmodules file and .gitattributes file
 
     find . \( -name ".git" -o -name ".gitignore" -o -name ".gitmodules" -o -name ".gitattributes" \) -exec rm -rf -- {} +
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-Recursivley remove security, release, changelog, License & contributing files
-=============================================================================
-
+# Recursivley remove security, release, changelog, License & contributing files
 
     find . \( -name "*SECURITY.txt" -o -name "*RELEASE.txt" -o  -name "*CHANGELOG.txt" -o -name "*LICENSE.txt" -o -name "*CONTRIBUTING.txt" -name "*HISTORY.md" -o -name "*LICENSE" -o -name "*SECURITY.md" -o -name "*RELEASE.md" -o  -name "*CHANGELOG.md" -o -name "*LICENSE.md" -o -name "*CODE_OF_CONDUCT.md" -o -name "*CONTRIBUTING.md" \) -exec rm -rf -- {} +
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 \#\#
 

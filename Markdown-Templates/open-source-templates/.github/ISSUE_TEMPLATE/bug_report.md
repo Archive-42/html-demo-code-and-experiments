@@ -14,16 +14,16 @@ By submitting an Issue to this repository, you agree to the terms within the [Au
 >
 > Where applicable, please include:
 >
-> -   Code sample to reproduce the issue
-> -   Log files (redact/remove sensitive information)
-> -   Application settings (redact/remove sensitive information)
-> -   Screenshots
+> - Code sample to reproduce the issue
+> - Log files (redact/remove sensitive information)
+> - Application settings (redact/remove sensitive information)
+> - Screenshots
 
 ### Environment
 
 > Please provide the following:
 
--   **Version of this library used:**
--   **Version of the platform or framework used, if applicable:**
--   **Other relevant versions (language, server software, OS, browser):**
--   **Other modules/plugins/libraries that might be involved:**
+- **Version of this library used:**
+- **Version of the platform or framework used, if applicable:**
+- **Other relevant versions (language, server software, OS, browser):**
+- **Other modules/plugins/libraries that might be involved:**

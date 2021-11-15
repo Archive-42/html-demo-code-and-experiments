@@ -1,21 +1,17 @@
-Project Title
-=============
+# Project Title
 
-Table of Contents
------------------
+## Table of Contents
 
--   [About](#about)
--   [Getting Started](#getting_started)
--   [Usage](#usage)
--   [Contributing](../CONTRIBUTING.md)
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Usage](#usage)
+- [Contributing](../CONTRIBUTING.md)
 
-About <span id="about"></span>
-------------------------------
+## About <span id="about"></span>
 
 Write about 1-2 paragraphs describing the purpose of your project.
 
-Getting Started <span id="getting_started"></span>
---------------------------------------------------
+## Getting Started <span id="getting_started"></span>
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
@@ -39,7 +35,6 @@ And repeat
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-Usage <span id="usage"></span>
-------------------------------
+## Usage <span id="usage"></span>
 
 Add notes about how to use the system.

@@ -4308,14 +4308,9 @@ try {
       };
       plugin.settings = {};
       var items_with_submenus = $(
-        "li.mega-menu-megamenu.mega-menu-item-has-children," +
-          "li.mega-menu-flyout.mega-menu-item-has-children," +
-          "li.mega-menu-tabbed > ul.mega-sub-menu > li.mega-menu-item-has-children," +
-          "li.mega-menu-flyout li.mega-menu-item-has-children",
         menu
       );
       var collapse_children_parents = $(
-        "li.mega-menu-megamenu li.mega-menu-item-has-children.mega-collapse-children > a.mega-menu-link",
         menu
       );
       plugin.addAnimatingClass = function (element) {
@@ -4337,13 +4332,11 @@ try {
       };
       plugin.expandMobileSubMenus = function () {
         $(
-          ".mega-menu-item-has-children.mega-expand-on-mobile > a.mega-menu-link",
           $menu
         ).each(function () {
           plugin.showPanel($(this));
         });
         if (plugin.settings.mobile_state == "expand_all") {
-          $(".mega-menu-item-has-children > a.mega-menu-link", $menu).each(
             function () {
               plugin.showPanel($(this));
             }
@@ -4351,11 +4344,6 @@ try {
         }
         if (plugin.settings.mobile_state == "expand_active") {
           $(
-            "li.mega-current-menu-ancestor.mega-menu-item-has-children > a.mega-menu-link," +
-              "li.mega-current-menu-item.mega-menu-item-has-children > a.mega-menu-link" +
-              "li.mega-current-menu-parent.mega-menu-item-has-children > a.mega-menu-link" +
-              "li.mega-current_page_ancestor.mega-menu-item-has-children > a.mega-menu-link" +
-              "li.mega-current_page_item.mega-menu-item-has-children > a.mega-menu-link",
             $menu
           ).each(function () {
             plugin.showPanel($(this));
@@ -4773,13 +4761,11 @@ try {
             $menu.hasClass("mega-menu-horizontal")
           ) {
             var next_top_level_item = $("> .mega-toggle-on", $menu)
-              .nextAll("li.mega-menu-item:visible")
               .find("> a.mega-menu-link, .mega-search input[type=text]")
               .first();
             if (next_top_level_item.length === 0) {
               next_top_level_item = $(":focus", $menu)
                 .parent()
-                .nextAll("li.mega-menu-item:visible")
                 .find("> a.mega-menu-link, .mega-search input[type=text]")
                 .first();
             }
@@ -4800,13 +4786,11 @@ try {
             $menu.hasClass("mega-menu-horizontal")
           ) {
             var prev_top_level_item = $("> .mega-toggle-on", $menu)
-              .prevAll("li.mega-menu-item:visible")
               .find("> a.mega-menu-link, .mega-search input[type=text]")
               .last();
             if (prev_top_level_item.length === 0) {
               prev_top_level_item = $(":focus", $menu)
                 .parent()
-                .prevAll("li.mega-menu-item:visible")
                 .find("> a.mega-menu-link, .mega-search input[type=text]")
                 .last();
             }
@@ -4836,7 +4820,6 @@ try {
       };
       plugin.unbindAllEvents = function () {
         $(
-          "ul.mega-sub-menu, li.mega-menu-item, li.mega-menu-row, li.mega-menu-column, a.mega-menu-link, span.mega-indicator",
           menu
         )
           .off()
