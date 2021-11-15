@@ -1,0 +1,174 @@
+html.revert,
+bodyaddress.revert,
+blockquote.revert,
+body.revert,
+dd.revert,
+div.revert,
+dl.revert,
+dt.revert,
+fieldset.revert,
+form.revert,
+frame.revert,
+frameset.revert,
+h1.revert,
+h2.revert,
+h3.revert,
+h4.revert,
+h5.revert,
+h6.revert,
+noframes.revert,
+ol.revert,
+p.revert,
+ul.revert,
+center.revert,
+dir.revert,
+hr.revert,
+menu.revert,
+pre.revert {
+    display: block;
+    unicode-bidi: embed;
+}
+li.revert { display: list-item }
+head.revert { display: none }
+table.revert { display: table }
+tr.revert { display: table-row }
+thead.revert { display: table-header-group }
+tbody.revert { display: table-row-group }
+tfoot.revert { display: table-footer-group }
+col.revert { display: table-column }
+colgroup.revert { display: table-column-group }
+td.revert,
+th.revert { display: table-cell }
+caption.revert { display: table-caption }
+th.revert {
+    font-weight: bolder;
+    text-align: center;
+}
+caption.revert { text-align: center }
+body.revert { margin: 8px }
+h1.revert {
+    font-size: 2em;
+    margin: .67em 0;
+}
+h2.revert {
+    font-size: 1.5em;
+    margin: .75em 0;
+}
+h3.revert{
+    font-size: 1.17em;
+    margin: .83em 0;
+}
+h4.revert,
+p.revert,
+blockquote.revert,
+ul.revert,
+fieldset.revert,
+form.revert,
+ol.revert,
+dl.revert,
+dir.revert,
+menu.revert { margin: 1.12em 0 }
+h5.revert {
+    font-size: .83em;
+    margin: 1.5em 0;
+}
+h6.revert {
+    font-size: .75em;
+    margin: 1.67em 0;
+}
+h1.revert,
+h2.revert,
+h3.revert,
+h4.revert,
+h5.revert,
+h6.revert,
+b.revert,
+strong.revert { font-weight: bolder }
+blockquote.revert {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+i.revert,
+cite.revert,
+em.revert,
+var.revert,
+address.revert { font-style: italic }
+pre.revert,
+tt.revert,
+code.revert,
+kbd.revert,
+samp.revert { font-family: monospace }
+pre.revert { white-space: pre }
+button.revert,
+textarea.revert,
+input.revert,
+select.revert { display: inline-block }
+big.revert { font-size: 1.17em }
+small.revert,
+sub.revert,
+sup.revert { font-size: .83em }
+sub.revert { vertical-align: sub }
+sup.revert { vertical-align: super }
+table.revert { border-spacing: 2px }
+thead.revert,
+tbody.revert,
+tfoot.revert { vertical-align: middle }
+td.revert,
+th.revert,
+tr.revert { vertical-align: inherit }
+s.revert,
+strike.revert,
+del.revert{ text-decoration: line-through }
+hr.revert { border: 1px inset }
+ol.revert,
+ul.revert,
+dir.revert,
+menu.revert,
+dd.revert { margin-left: 40px }
+ol.revert { list-style-type: decimal }
+ol ul.revert,ol.revert  ul,
+ul ol.revert,ul.revert  ol,
+ul ul.revert,ul.revert  ul,
+ol ol.revert, ol.revert  ol{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+u.revert,
+ins.revert { text-decoration: underline }
+br.revert:before {
+    content: "\A";
+    white-space: pre-line;
+}
+center.revert { text-align: center }
+:link,
+:visited { text-decoration: underline }
+:focus { outline: thin dotted invert }
+/* Begin bidirectionality settings (do not change) */
+BDO.revert[DIR="ltr"] {
+    direction: ltr;
+    unicode-bidi: bidi-override;
+}
+BDO.revert[DIR="rtl"] {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+*.revert[DIR="ltr"] {
+    direction: ltr;
+    unicode-bidi: embed;
+}
+*.revert[DIR="rtl"] {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+@media print { 
+    h1.revert { page-break-before: always }
+    h1.revert,
+    h2.revert,
+    h3.revert,
+    h4.revert,
+    h5.revert,
+    h6.revert { page-break-after: avoid }
+    ul.revert,
+    ol.revert,
+    dl.revert { page-break-before: avoid }
+}
