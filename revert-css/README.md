@@ -10,4 +10,3 @@ revert.css (repository) also includes the default CSS styles from:
 4. Opera
 5. Internet Explorer 6-9+
 
-Created as a result of: http://stackoverflow.com/questions/22509640/
