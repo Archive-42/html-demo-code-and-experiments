@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [HTML Web Forms Tutorial For Coding Beginners](https://html.com/forms/) / HTML Form Code For Beginners (And When To Use It)
 
-`HTML Form Code For Beginners (And When To Use It)`
-===================================================
+# `HTML Form Code For Beginners (And When To Use It)`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -29,16 +26,15 @@ semantic | structural
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> HTML Forms](#HTML_Forms)
-    -   [<span class="toc_number toc_depth_2">2.1</span> How standard HTML forms work](#How_standard_HTML_forms_work)
-    -   [<span class="toc_number toc_depth_2">2.2</span> Web applications and forms without &lt;form&gt;](#Web_applications_and_forms_without_ltformgt)
--   [<span class="toc_number toc_depth_1">3</span> Learning more about forms](#Learning_more_about_forms)
--   [<span class="toc_number toc_depth_1">4</span> Browser Support for form](#Browser_Support_for_form)
--   [<span class="toc_number toc_depth_1">5</span> Attributes of form](#Attributes_of_form)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> HTML Forms](#HTML_Forms)
+  - [<span class="toc_number toc_depth_2">2.1</span> How standard HTML forms work](#How_standard_HTML_forms_work)
+  - [<span class="toc_number toc_depth_2">2.2</span> Web applications and forms without &lt;form&gt;](#Web_applications_and_forms_without_ltformgt)
+- [<span class="toc_number toc_depth_1">3</span> Learning more about forms](#Learning_more_about_forms)
+- [<span class="toc_number toc_depth_1">4</span> Browser Support for form](#Browser_Support_for_form)
+- [<span class="toc_number toc_depth_1">5</span> Attributes of form](#Attributes_of_form)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <form action="" method="GET">
      <label for="name">Name</label>
@@ -50,8 +46,7 @@ Name
 
 <span class="underline"></span>
 
-<span id="HTML_Forms">HTML Forms</span>
----------------------------------------
+## <span id="HTML_Forms">HTML Forms</span>
 
 Whether you want to create a simple email signup, a moderately complex checkout and payment page, or a richly interactive web application, you will be using the HTML form elements, the most important of which is `<form>`.
 
@@ -71,14 +66,13 @@ The vast majority of online forms work this way, and it is why you get sent to a
 
 ### <span id="Web_applications_and_forms_without_ltformgt">Web applications and forms without `<form>`</span>
 
-Modern interactive web applications use [Javascript](https://html.com/javascript/) to run *asynchronous HTTP requests*, or “behind the scenes” calls to the server which do not reload the page. They aren’t relying on the HTML `<form>` element’s built-in behavior, because they aren’t bundling up a bunch of user data and sending it all at once.
+Modern interactive web applications use [Javascript](https://html.com/javascript/) to run _asynchronous HTTP requests_, or “behind the scenes” calls to the server which do not reload the page. They aren’t relying on the HTML `<form>` element’s built-in behavior, because they aren’t bundling up a bunch of user data and sending it all at once.
 
 For this reason, many (though not all) HTML+JS web apps don’t use the `<form>` element at all, or they just use it as a kind of container for various types of fields and input elements. In this case, you won’t see the `method` and `action` attributes being used.
 
-<span id="Learning_more_about_forms">Learning more about forms</span>
----------------------------------------------------------------------
+## <span id="Learning_more_about_forms">Learning more about forms</span>
 
-There are a lot of form-related elements — different kinds of buttons, inputs, selectors for various types, feedback mechanisms… all sorts of things. there are also a lot of complications when it comes to styling forms, making them work on different size screens, and making them accessible for people with disabilities. In short: forms are *complicated*, maybe the most complicated aspect of HTML.
+There are a lot of form-related elements — different kinds of buttons, inputs, selectors for various types, feedback mechanisms… all sorts of things. there are also a lot of complications when it comes to styling forms, making them work on different size screens, and making them accessible for people with disabilities. In short: forms are _complicated_, maybe the most complicated aspect of HTML.
 
 See our [main forms index page for links to all of our form-related tutorials and documentation](https://html.com/tags/form/).
 
@@ -96,8 +90,7 @@ See our [main forms index page for links to all of our form-related tutorials an
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_form">Browser Support for form</span>
--------------------------------------------------------------------
+## <span id="Browser_Support_for_form">Browser Support for form</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -135,8 +128,7 @@ See our [main forms index page for links to all of our form-related tutorials an
 
 <span class="browser-supported">All</span>
 
-<span id="Attributes_of_form">Attributes of form</span>
--------------------------------------------------------
+## <span id="Attributes_of_form">Attributes of form</span>
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/attributes/form-target/" class="linked-name">&lt;form target=""&gt;</a><br />
 </td><td></td><td>Specifies the browser context in which the form's response should be displayed.</td></tr><tr class="even"><td><a href="https://html.com/attributes/form-action/" class="linked-name">action</a><br />
@@ -147,8 +139,7 @@ See our [main forms index page for links to all of our form-related tutorials an
 </td><td></td><td>Runs a script when the Reset button is clicked.</td></tr><tr class="odd"><td><a href="https://html.com/attributes/form-name/" class="linked-name deprecated">name</a><br />
 </td><td></td><td>The `name` attribute is deprecated when used with the `form` element. Use `id` instead.</td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](https://html.com/resources/citation-guide/)
 
@@ -160,11 +151,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

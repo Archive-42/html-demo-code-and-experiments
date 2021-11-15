@@ -12,11 +12,11 @@ Watch now
 
 <span class="jsx-417518970"></span><span class="jsx-417518970"></span><span class="jsx-417518970"></span>
 
--   <span class="jsx-4202792971 mainnav-item">Products</span>
--   <span class="jsx-4202792971 mainnav-item">Customers</span>
--   <span class="jsx-4202792971 mainnav-item">Learn</span>
--   <span class="jsx-4202792971 mainnav-item">Company</span>
--   <span class="jsx-4202792971 mainnav-item">Pricing</span>
+- <span class="jsx-4202792971 mainnav-item">Products</span>
+- <span class="jsx-4202792971 mainnav-item">Customers</span>
+- <span class="jsx-4202792971 mainnav-item">Learn</span>
+- <span class="jsx-4202792971 mainnav-item">Company</span>
+- <span class="jsx-4202792971 mainnav-item">Pricing</span>
 
 <a href="https://cloud.elastic.co/registration" class="jsx-2041509563 btn-primary btn-small">Try Free</a>
 
@@ -26,8 +26,7 @@ Have questions?<a href="https://www.elastic.co/contact?storm=global-header-en" c
 
 <a href="#" class="jsx-2473504352">Products</a>
 
-Solutions
----------
+## Solutions
 
 <a href="https://www.elastic.co/enterprise-search" class="jsx-2388155758 subnav-item item-link grid-2"></a>
 
@@ -53,8 +52,7 @@ Elastic Security
 
 SIEM, endpoint, and threat hunting
 
-Elastic (ELK) Stack
--------------------
+## Elastic (ELK) Stack
 
 <a href="https://www.elastic.co/elastic-stack" class="jsx-2473504352 d-block"></a>
 
@@ -74,8 +72,7 @@ Elastic Cloud
 
 Managed Elasticsearch service
 
-New
----
+## New
 
 <a href="https://www.elastic.co/blog/whats-new-elastic-7-15-0?storm=nav-products-new" class="jsx-2473504352"><img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blte740cf6f221a391d/6149e4a7ee502d0e1337d474/blog-thumbnail-generic-release.png" class="jsx-2473504352 img-fluid m-b-base-tight" /></a>
 
@@ -143,8 +140,7 @@ Training
 
 Critical skill-building and certification
 
-Featured topics
----------------
+## Featured topics
 
 <a href="https://www.elastic.co/guide/en/elastic-stack/current/upgrading-elastic-stack.html" class="jsx-2388155758 subnav-item grid-1"></a>
 
@@ -214,8 +210,7 @@ Awards
 
 Recognizing remarkable work
 
-News
-----
+## News
 
 <a href="https://www.elastic.co/blog/whats-new-elastic-7-15-0" class="jsx-2388155758 subnav-item grid-1"></a>
 
@@ -243,10 +238,10 @@ Elastic is a search company.
 
 Watch video
 
--   <a href="https://www.elastic.co/contact?storm=global-header-en" class="nav-link">Contact</a>
--   <a href="https://cloud.elastic.co/" class="btn-secondary btn-small">Login</a>
--   <a href="https://cloud.elastic.co/registration" class="btn-primary btn-small">Try Free</a>
--   <span id="searchbar"><span class="jsx-3029841567 nav-link button icon"></span></span>
+- <a href="https://www.elastic.co/contact?storm=global-header-en" class="nav-link">Contact</a>
+- <a href="https://cloud.elastic.co/" class="btn-secondary btn-small">Login</a>
+- <a href="https://cloud.elastic.co/registration" class="btn-primary btn-small">Try Free</a>
+- <span id="searchbar"><span class="jsx-3029841567 nav-link button icon"></span></span>
 
 <img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt828ad4d02a8cb337/5f32ce1f1967337e7590d429/particle-large-teal.svg" class="jsx-2234127300" />
 
@@ -264,15 +259,13 @@ Watch video
 
 <span id="crawl-systems-go" class="jsx-3758713709"></span>
 
-Crawl systems GO
-================
+# Crawl systems GO
 
 Effortless search implementation and website content ingestion with the native web crawler — now generally available in 7.15.
 
 <a href="http://cloud.elastic.co/registration?elektra=home&amp;storm=hero&amp;rogue=web-crawler" class="button btn-primary btn-large">Get started</a>
 
-Analyst Reports
----------------
+## Analyst Reports
 
 <span id="2021-gartner-magic-quadrant-for" class="jsx-3758713709"></span>
 
@@ -282,8 +275,7 @@ Elastic is a new entrant and has been recognized as a Challenger in the 2021 Gar
 
 <a href="https://www.elastic.co/campaigns/gartner-magic-quadrant-for-insight-engines-report?elektra=home&amp;storm=sub1" class="jsx-1410414304 stretched-link"><img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt15311b032320b709/5f24031e327a6201d7eb7e6f/arrow.svg" alt="arrow" class="jsx-1410414304 img-fluid" /></a>
 
-Events & Webinars
------------------
+## Events & Webinars
 
 <span id="rsvp.-or-watch-now." class="jsx-3758713709"></span>
 
@@ -293,8 +285,7 @@ Search for upcoming events and browse on-demand content from past events, includ
 
 <a href="https://www.elastic.co/events/?elektra=home&amp;storm=sub2" class="jsx-1410414304 stretched-link"><img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt15311b032320b709/5f24031e327a6201d7eb7e6f/arrow.svg" alt="arrow" class="jsx-1410414304 img-fluid" /></a>
 
-What's New
-----------
+## What's New
 
 <span id="elastic-and-optimyze" class="jsx-3758713709"></span>
 
@@ -306,8 +297,7 @@ Elastic and Optimyze join forces to deliver "always on" continuous profiling of 
 
 <span id="whats-new-in-7.15" class="jsx-3758713709"></span>
 
-What’s new in 7.15
-------------------
+## What’s new in 7.15
 
 With the general availability of the Elastic App Search web crawler and tighter integration with Google Cloud, Elastic 7.15 enables our customers and community to more quickly create powerful new search experiences, to ingest data more quickly and securely, and to more easily put their data to work with the power of search.
 
@@ -321,8 +311,7 @@ Learn more
 
 <span id="our-customers-bring-search-to-life" class="jsx-3758713709"></span>
 
-Our customers bring search to life
-----------------------------------
+## Our customers bring search to life
 
 From startups to the global 2000, Elastic powers search solutions for thousands of companies worldwide to find documents, monitor infrastructure, protect against security threats, and more.
 
@@ -342,8 +331,7 @@ View all customers
 
 <span id="search.-observe.-protect." class="jsx-3758713709"></span>
 
-Search. Observe. Protect.
--------------------------
+## Search. Observe. Protect.
 
 We offer solutions for enterprise search, observability, and security that are built on a single, flexible technology stack that can be deployed anywhere.
 
@@ -359,8 +347,7 @@ View all products
 
 <span id="run-on-elastic-cloud-your-way" class="jsx-3758713709"></span>
 
-Run on Elastic Cloud, your way
-------------------------------
+## Run on Elastic Cloud, your way
 
 Run where and how you want. Deploy on Google Cloud, Microsoft Azure, and Amazon Web Services with Elastic Cloud. We deliver the complete Elasticsearch experience with flexible pricing.
 
@@ -382,8 +369,7 @@ Learn more
 
 <span id="search-everything-anywhere" class="jsx-3758713709"></span>
 
-Search everything, anywhere
----------------------------
+## Search everything, anywhere
 
 Easily implement powerful, modern search experiences for your busy team. Quickly add pre-tuned search to your website, app, or ecommerce store. Search it all, simply.
 
@@ -405,8 +391,7 @@ We have a mix of two important things — a fast, powerful search engine from El
 
 <span id="observe-your-entire-ecosystem" class="jsx-3758713709"></span>
 
-Observe your entire ecosystem
------------------------------
+## Observe your entire ecosystem
 
 Unify logs, metrics, traces, and more in a scalable stack that's free, open, and built for speed. Monitor every element in your infrastructure to quickly resolve issues and consistently deliver exceptional digital experiences.
 
@@ -428,8 +413,7 @@ Elastic provides the backbone for Volvo Group Connected Solutions’ fleet of 1 
 
 <span id="protect-against-security-threats" class="jsx-3758713709"></span>
 
-Protect against security threats
---------------------------------
+## Protect against security threats
 
 Unify prevention, detection, and response to combat threats at scale. Operationalize any security use case: SIEM, malware prevention, threat hunting, cloud monitoring, and more.
 
@@ -445,8 +429,7 @@ Elastic made it possible for us to build our cyber security and defense platform
 
 <span id="the-products-that-started-it-all" class="jsx-3758713709"></span>
 
-The products that started it all
---------------------------------
+## The products that started it all
 
 All of our solutions are powered by the speed, scale, and flexibility of the Elastic (ELK) Stack.
 
@@ -472,8 +455,7 @@ Learn more
 
 <span id="scale-up--your-expertise" class="jsx-3758713709"></span>
 
-Scale up your expertise
------------------------
+## Scale up your expertise
 
 You're up, running, and ready for more. From creating machine learning jobs to custom visualizations in Kibana, there's way more to explore.
 
@@ -529,8 +511,7 @@ Watch video
 
 <span id="more-about-elastic" class="jsx-3758713709"></span>
 
-More about Elastic
-------------------
+## More about Elastic
 
 <span id="were-hiring" class="jsx-3758713709"></span>
 
@@ -560,47 +541,47 @@ Our company is built around free and open which builds a community that keeps ev
 
 Follow Us
 
--   <a href="https://www.twitter.com/elastic" id="footer_twitter"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt341fed86979a9fbb/5eb00c76b8a6356e4ddc1180/footer-icon-twitter.svg" class="jsx-2279596177 img-fluid" /></a>
--   <a href="https://www.facebook.com/elastic.co" id="footer_facebook"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt75566c5278ad68da/5eb00c59d238e314f259fbea/footer-icon-facebook.svg" class="jsx-2279596177 img-fluid" /></a>
--   <a href="https://www.youtube.com/user/elasticsearch" id="footer_youtube"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt7c28b18be98b1af8/5eb00ca908d37e6d82ef7655/footer-icon-youtube.svg" class="jsx-2279596177 img-fluid" /></a>
--   <a href="https://www.linkedin.com/company/elastic-co" id="footer_linkedin"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blte7cfb1a091901ce1/5eb00c925751b2150e57a9d6/footer-icon-linkedin.svg" class="jsx-2279596177 img-fluid" /></a>
+- <a href="https://www.twitter.com/elastic" id="footer_twitter"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt341fed86979a9fbb/5eb00c76b8a6356e4ddc1180/footer-icon-twitter.svg" class="jsx-2279596177 img-fluid" /></a>
+- <a href="https://www.facebook.com/elastic.co" id="footer_facebook"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt75566c5278ad68da/5eb00c59d238e314f259fbea/footer-icon-facebook.svg" class="jsx-2279596177 img-fluid" /></a>
+- <a href="https://www.youtube.com/user/elasticsearch" id="footer_youtube"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt7c28b18be98b1af8/5eb00ca908d37e6d82ef7655/footer-icon-youtube.svg" class="jsx-2279596177 img-fluid" /></a>
+- <a href="https://www.linkedin.com/company/elastic-co" id="footer_linkedin"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blte7cfb1a091901ce1/5eb00c925751b2150e57a9d6/footer-icon-linkedin.svg" class="jsx-2279596177 img-fluid" /></a>
 
 ### Products & Solutions
 
--   [Enterprise Search](https://www.elastic.co/enterprise-search)
--   [Observability](https://www.elastic.co/observability)
--   [Security](https://www.elastic.co/security)
--   [Elastic Stack](https://www.elastic.co/elastic-stack)
--   [Elasticsearch](https://www.elastic.co/elasticsearch)
--   [Kibana](https://www.elastic.co/kibana)
--   [Logstash](https://www.elastic.co/logstash)
--   [Beats](https://www.elastic.co/beats)
--   [Elastic Agent](https://www.elastic.co/elastic-agent)
--   [Subscriptions](https://www.elastic.co/subscriptions)
--   [Pricing](https://www.elastic.co/pricing)
+- [Enterprise Search](https://www.elastic.co/enterprise-search)
+- [Observability](https://www.elastic.co/observability)
+- [Security](https://www.elastic.co/security)
+- [Elastic Stack](https://www.elastic.co/elastic-stack)
+- [Elasticsearch](https://www.elastic.co/elasticsearch)
+- [Kibana](https://www.elastic.co/kibana)
+- [Logstash](https://www.elastic.co/logstash)
+- [Beats](https://www.elastic.co/beats)
+- [Elastic Agent](https://www.elastic.co/elastic-agent)
+- [Subscriptions](https://www.elastic.co/subscriptions)
+- [Pricing](https://www.elastic.co/pricing)
 
 ### Company
 
--   [Careers](https://www.elastic.co/about/careers/)<span class="jsx-2279596177">We're hiring</span>
--   [Board of Directors](https://www.elastic.co/about/teams/board)
--   [Contact](https://www.elastic.co/contact)
+- [Careers](https://www.elastic.co/about/careers/)<span class="jsx-2279596177">We're hiring</span>
+- [Board of Directors](https://www.elastic.co/about/teams/board)
+- [Contact](https://www.elastic.co/contact)
 
 ### Resources
 
--   [ElasticON Global](https://www.elastic.co/elasticon/global)
--   [Documentation](https://www.elastic.co/guide/index.html)
--   [What is the ELK Stack?](https://www.elastic.co/what-is/elk-stack)
--   [What is Elasticsearch?](https://www.elastic.co/what-is/elasticsearch)
--   [Migrating from Splunk](https://www.elastic.co/splunk-replacement)
--   [Compare AWS Elasticsearch](https://www.elastic.co/aws-elasticsearch-service)
--   [US Public Sector](https://www.elastic.co/industries/public-sector)
+- [ElasticON Global](https://www.elastic.co/elasticon/global)
+- [Documentation](https://www.elastic.co/guide/index.html)
+- [What is the ELK Stack?](https://www.elastic.co/what-is/elk-stack)
+- [What is Elasticsearch?](https://www.elastic.co/what-is/elasticsearch)
+- [Migrating from Splunk](https://www.elastic.co/splunk-replacement)
+- [Compare AWS Elasticsearch](https://www.elastic.co/aws-elasticsearch-service)
+- [US Public Sector](https://www.elastic.co/industries/public-sector)
 
 Follow Us
 
--   <a href="https://www.twitter.com/elastic" id="footer_twitter"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt341fed86979a9fbb/5eb00c76b8a6356e4ddc1180/footer-icon-twitter.svg" class="jsx-2279596177 img-fluid" /></a>
--   <a href="https://www.facebook.com/elastic.co" id="footer_facebook"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt75566c5278ad68da/5eb00c59d238e314f259fbea/footer-icon-facebook.svg" class="jsx-2279596177 img-fluid" /></a>
--   <a href="https://www.youtube.com/user/elasticsearch" id="footer_youtube"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt7c28b18be98b1af8/5eb00ca908d37e6d82ef7655/footer-icon-youtube.svg" class="jsx-2279596177 img-fluid" /></a>
--   <a href="https://www.linkedin.com/company/elastic-co" id="footer_linkedin"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blte7cfb1a091901ce1/5eb00c925751b2150e57a9d6/footer-icon-linkedin.svg" class="jsx-2279596177 img-fluid" /></a>
+- <a href="https://www.twitter.com/elastic" id="footer_twitter"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt341fed86979a9fbb/5eb00c76b8a6356e4ddc1180/footer-icon-twitter.svg" class="jsx-2279596177 img-fluid" /></a>
+- <a href="https://www.facebook.com/elastic.co" id="footer_facebook"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt75566c5278ad68da/5eb00c59d238e314f259fbea/footer-icon-facebook.svg" class="jsx-2279596177 img-fluid" /></a>
+- <a href="https://www.youtube.com/user/elasticsearch" id="footer_youtube"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt7c28b18be98b1af8/5eb00ca908d37e6d82ef7655/footer-icon-youtube.svg" class="jsx-2279596177 img-fluid" /></a>
+- <a href="https://www.linkedin.com/company/elastic-co" id="footer_linkedin"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blte7cfb1a091901ce1/5eb00c925751b2150e57a9d6/footer-icon-linkedin.svg" class="jsx-2279596177 img-fluid" /></a>
 
 Language
 
@@ -608,11 +589,11 @@ Deutsch English Español Français 日本語 한국어 简体中文 Português
 
 <a href="https://www.elastic.co/" class="jsx-2279596177"><img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt5d10f3a91df97d15/5c30744829d13af10bc2abd4/logo-elastic-vertical-reverse.svg" class="jsx-2279596177 img-responsive" /></a>
 
--   [Trademarks](https://www.elastic.co/legal/trademarks)
--   [Terms of Use](https://www.elastic.co/legal/terms-of-use)
--   [Privacy](https://www.elastic.co/legal/privacy-statement)
--   [Brand](https://www.elastic.co/brand)
--   [Sitemap](https://www.elastic.co/sitemap)
+- [Trademarks](https://www.elastic.co/legal/trademarks)
+- [Terms of Use](https://www.elastic.co/legal/terms-of-use)
+- [Privacy](https://www.elastic.co/legal/privacy-statement)
+- [Brand](https://www.elastic.co/brand)
+- [Sitemap](https://www.elastic.co/sitemap)
 
 © 2021. Elasticsearch B.V. All Rights Reserved
 

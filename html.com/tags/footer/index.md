@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 New in HTML5.
 
-`<footer> HTML Tag`
-===================
+# `<footer> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/), [New](https://html.com/new/)</span>
 
@@ -31,19 +28,17 @@ semantic
 
 <span class="underline"></span>
 
-Using `<footer>`
-----------------
+## Using `<footer>`
 
 The obvious place for the `<footer>` element is at the bottom of a web page. Most sites have a footer (with copyright, contact, and other info), and now, thanks to [HTML5](https://html.com/html5/), you can create this with the semantic-meaningful `<footer>` element instead of a meaningless [`<div>`](https://html.com/tags/div/).
 
-    <!DOCTYPE html> <html>  <head>   .   .   .  </head>  <body>   <header>    <h1><!-- Site or Page Title --></h1>    <nav><!-- main navigation --> </nav>   </header>   <main>    <article>     <!-- main article content -->    </article>   </main>   <aside>    <!-- sidebar -->   </aside>   <footer>    <section>     <!-- Copyright Info -->    </section>    <address>     <!-- Contact Info -->    </address>   </footer>   <script>// Javascript </script>  </body> </html> 
+    <!DOCTYPE html> <html>  <head>   .   .   .  </head>  <body>   <header>    <h1><!-- Site or Page Title --></h1>    <nav><!-- main navigation --> </nav>   </header>   <main>    <article>     <!-- main article content -->    </article>   </main>   <aside>    <!-- sidebar -->   </aside>   <footer>    <section>     <!-- Copyright Info -->    </section>    <address>     <!-- Contact Info -->    </address>   </footer>   <script>// Javascript </script>  </body> </html>
 
 You can also use `<footer>` to define a footer for any section of content, not just the page as a whole. (The [`<header>`](https://html.com/tags/header/) element works this way as well.)
 
-    <article>  <header>   <h2>Title of Article</h2>   by Author's Name  </header>  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultricies interdum egestas. Cras placerat lacinia vulputate. Curabitur mattis diam ac est volutpat laoreet.</p>  <footer>   <dl>    <dt>Published</dt>    <dd>13 November 2015</dd>    <dt>Tags</dt>    <dd>Sample Posts, Fake Latin, Semantic Markup</dd>   </dl>  </footer> </article> 
+    <article>  <header>   <h2>Title of Article</h2>   by Author's Name  </header>  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultricies interdum egestas. Cras placerat lacinia vulputate. Curabitur mattis diam ac est volutpat laoreet.</p>  <footer>   <dl>    <dt>Published</dt>    <dd>13 November 2015</dd>    <dt>Tags</dt>    <dd>Sample Posts, Fake Latin, Semantic Markup</dd>   </dl>  </footer> </article>
 
-Title of Article
-----------------
+## Title of Article
 
 by Author’s Name
 
@@ -57,7 +52,7 @@ Tags
 
 Sample Posts, Fake Latin, Semantic Markup
 
-The important thing to remember is that the `<footer>` is related to its *parent element*. If it inside an [`<article>`](https://html.com/tags/article/) element, then it is the footer of that article. If it is the last element inside the [`<body>`](https://html.com/tags/body/) element, then it is the footer of the page as a whole. For more information about this and related elements, see our [tutorial on semantic document structure](https://html.com/tags/).
+The important thing to remember is that the `<footer>` is related to its _parent element_. If it inside an [`<article>`](https://html.com/tags/article/) element, then it is the footer of that article. If it is the last element inside the [`<body>`](https://html.com/tags/body/) element, then it is the footer of the page as a whole. For more information about this and related elements, see our [tutorial on semantic document structure](https://html.com/tags/).
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -73,8 +68,7 @@ The important thing to remember is that the `<footer>` is related to its *parent
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Browser Support for footer
---------------------------
+## Browser Support for footer
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -112,8 +106,7 @@ Browser Support for footer
 
 <span class="browser-supported">43</span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`HTML Figure Element: Here’s How It Identifies Self-Contained Content`](https://html.com/tags/figure/)
 
@@ -125,11 +118,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

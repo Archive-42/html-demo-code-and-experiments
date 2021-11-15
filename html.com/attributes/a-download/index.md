@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 New in HTML5.
 
-`Using <a> To Download Rather Than Open Linked Resource`
-========================================================
+# `Using <a> To Download Rather Than Open Linked Resource`
 
 In <span class="post-meta-category">[HTML Attributes](https://html.com/attributes/), [New](https://html.com/new/)</span>
 
@@ -23,8 +20,7 @@ Attribute of
 What does `Using <a> To Download Rather Than Open Linked Resource` do?  
 Directs the browser to download the linked resource rather than opening it.
 
-Code Example
-------------
+## Code Example
 
     <a href="/wp-content/uploads/flamingo.jpg" download>Download this picture of a flamingo.</a>
 
@@ -32,10 +28,9 @@ Code Example
 
 <span class="underline"></span>
 
-Force a download
-----------------
+## Force a download
 
-When using this attribute, you are forcing a particular behavior on the user, which they may or may not prefer. Therefore, be extremely judicious in employing this attribute. It probably should *not* be used for any type of content that can be viewed in the browser, including PDFs and most images. Users can always choose to download these resources rather than opening them in the browser. If you specify `download`, you take away their choice to view it in the browser.
+When using this attribute, you are forcing a particular behavior on the user, which they may or may not prefer. Therefore, be extremely judicious in employing this attribute. It probably should _not_ be used for any type of content that can be viewed in the browser, including PDFs and most images. Users can always choose to download these resources rather than opening them in the browser. If you specify `download`, you take away their choice to view it in the browser.
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -51,8 +46,7 @@ When using this attribute, you are forcing a particular behavior on the user, wh
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Browser Support for download
-----------------------------
+## Browser Support for download
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -90,8 +84,7 @@ Browser Support for download
 
 <span class="browser-supported">34</span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`<img crossorigin=””>`](https://html.com/attributes/img-crossorigin/)
 
@@ -103,11 +96,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

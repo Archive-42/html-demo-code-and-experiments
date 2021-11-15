@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [HTML Web Forms Tutorial For Coding Beginners](https://html.com/forms/) / &lt;legend&gt; HTML Tag
 
-`<legend> HTML Tag`
-===================
+# `<legend> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -29,13 +26,12 @@ textual
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> Titles for Form Sections](#Titles_for_Form_Sections)
--   [<span class="toc_number toc_depth_1">3</span> Browser Support for legend](#Browser_Support_for_legend)
--   [<span class="toc_number toc_depth_1">4</span> Attributes of legend](#Attributes_of_legend)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> Titles for Form Sections](#Titles_for_Form_Sections)
+- [<span class="toc_number toc_depth_1">3</span> Browser Support for legend](#Browser_Support_for_legend)
+- [<span class="toc_number toc_depth_1">4</span> Attributes of legend](#Attributes_of_legend)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <form>
      <fieldset>
@@ -47,14 +43,13 @@ Contents
      </fieldset>
     </form>
 
-Personal Information Name  
-  
-Date of Birth  
+Personal Information Name
+
+Date of Birth
 
 <span class="underline"></span>
 
-<span id="Titles_for_Form_Sections">Titles for Form Sections</span>
--------------------------------------------------------------------
+## <span id="Titles_for_Form_Sections">Titles for Form Sections</span>
 
 The `<legend>` element provides titles for form sections, providing a nice alternative to the [`<h*>` headline elements](https://html.com/tags/heading/). They are designed to be used with the [`<fieldset>` element](https://html.com/tags/fieldset/), and (strictly speaking) should only be used inside of one. Organizing form fields into `<fieldset>` groups, with appropriate `<legend>` captions can help make complicated forms more attractive and easier to use. For other tips on working with forms see our [form design](https://html.com/forms/form-styling-design/) and [form usability](https://html.com/forms/usability-accessibility/) [tutorials](https://html.com/).
 
@@ -72,8 +67,7 @@ The `<legend>` element provides titles for form sections, providing a nice alter
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_legend">Browser Support for legend</span>
------------------------------------------------------------------------
+## <span id="Browser_Support_for_legend">Browser Support for legend</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -111,16 +105,14 @@ The `<legend>` element provides titles for form sections, providing a nice alter
 
 <span class="browser-supported">All</span>
 
-<span id="Attributes_of_legend">Attributes of legend</span>
------------------------------------------------------------
+## <span id="Attributes_of_legend">Attributes of legend</span>
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/attributes/legend-align/" class="linked-name deprecated">align</a><br />
 </td><td></td><td>Was used to specify the placement of the legend element. Deprecated. Use CSS instead.</td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
-[<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`How To Use  In HTML`](https://html.com/attributes/img-src/)
+[<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`How To Use In HTML`](https://html.com/attributes/img-src/)
 
 [`<td nowrap>`<span class="nav-link-label"><span class="genericon genericon-next"></span></span>](https://html.com/attributes/td-nowrap/)
 
@@ -130,11 +122,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

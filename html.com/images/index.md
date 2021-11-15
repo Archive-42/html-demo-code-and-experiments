@@ -1,19 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
 [HTML](https://html.com/)  /  Web Images: Best Practices and HTML Code In One Useful Guide
 
-Web Images: Best Practices and HTML Code In One Useful Guide
-============================================================
+# Web Images: Best Practices and HTML Code In One Useful Guide
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -21,27 +14,25 @@ Images are everywhere on the web. They are the most commonly shared content on s
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> History of the img tag](#History_of_the_img_tag)
--   [<span class="toc_number toc_depth_1">2</span> Five Tips for Using Images on the Web](#Five_Tips_for_Using_Images_on_the_Web)
-    -   [<span class="toc_number toc_depth_2">2.1</span> Only Use Images You Have the Right to Use](#Only_Use_Images_You_Have_the_Right_to_Use)
-    -   [<span class="toc_number toc_depth_2">2.2</span> Keep Your Content and Website Accessible](#Keep_Your_Content_and_Website_Accessible)
-    -   [<span class="toc_number toc_depth_2">2.3</span> Always Provide Alternate Text](#Always_Provide_Alternate_Text)
-    -   [<span class="toc_number toc_depth_2">2.4</span> Know When to Use the Background-Image CSS Property](#Know_When_to_Use_the_Background-Image_CSS_Property)
-    -   [<span class="toc_number toc_depth_2">2.5</span> Optimize Images for the Web](#Optimize_Images_for_the_Web)
--   [<span class="toc_number toc_depth_1">3</span> Two Other Ways to Add Images to a Web Page](#Two_Other_Ways_to_Add_Images_to_a_Web_Page)
-    -   [<span class="toc_number toc_depth_2">3.1</span> Picture Element](#Picture_Element)
-    -   [<span class="toc_number toc_depth_2">3.2</span> Figure Element](#Figure_Element)
--   [<span class="toc_number toc_depth_1">4</span> Conclusion](#Conclusion)
--   [<span class="toc_number toc_depth_1">5</span> Related Elements](#Related_Elements)
--   [<span class="toc_number toc_depth_1">6</span> Tutorials and Resources](#Tutorials_and_Resources)
+- [<span class="toc_number toc_depth_1">1</span> History of the img tag](#History_of_the_img_tag)
+- [<span class="toc_number toc_depth_1">2</span> Five Tips for Using Images on the Web](#Five_Tips_for_Using_Images_on_the_Web)
+  - [<span class="toc_number toc_depth_2">2.1</span> Only Use Images You Have the Right to Use](#Only_Use_Images_You_Have_the_Right_to_Use)
+  - [<span class="toc_number toc_depth_2">2.2</span> Keep Your Content and Website Accessible](#Keep_Your_Content_and_Website_Accessible)
+  - [<span class="toc_number toc_depth_2">2.3</span> Always Provide Alternate Text](#Always_Provide_Alternate_Text)
+  - [<span class="toc_number toc_depth_2">2.4</span> Know When to Use the Background-Image CSS Property](#Know_When_to_Use_the_Background-Image_CSS_Property)
+  - [<span class="toc_number toc_depth_2">2.5</span> Optimize Images for the Web](#Optimize_Images_for_the_Web)
+- [<span class="toc_number toc_depth_1">3</span> Two Other Ways to Add Images to a Web Page](#Two_Other_Ways_to_Add_Images_to_a_Web_Page)
+  - [<span class="toc_number toc_depth_2">3.1</span> Picture Element](#Picture_Element)
+  - [<span class="toc_number toc_depth_2">3.2</span> Figure Element](#Figure_Element)
+- [<span class="toc_number toc_depth_1">4</span> Conclusion](#Conclusion)
+- [<span class="toc_number toc_depth_1">5</span> Related Elements](#Related_Elements)
+- [<span class="toc_number toc_depth_1">6</span> Tutorials and Resources](#Tutorials_and_Resources)
 
-<span id="History_of_the_img_tag">History of the `img` tag</span>
------------------------------------------------------------------
+## <span id="History_of_the_img_tag">History of the `img` tag</span>
 
 Prior to 1993, the web was not a very friendly place for images. But in 1993 [the `img` tag was proposed](http://1997.webhistory.org/www.lists/www-talk.1993q1/0182.html) and Mosaic, [the first](https://www.w3.org/People/Berners-Lee/FAQ.html#Mosaic) browser to display images inline with text, was launched. Before Mosaic and the `img` tag images were loaded in a separate window or downloaded and opened with an image viewer. However, with Mosaic and the `img` tag added to HTML, the mid-1990s saw rapid growth in the popularity of the web. While the massive growth of the web in the early 1990s cannot be attributed entirely to improved support for images, it was one of a few factors that marked the transition of the web from being a network for researchers to a communications platform for the masses.
 
-<span id="Five_Tips_for_Using_Images_on_the_Web">Five Tips for Using Images on the Web</span>
----------------------------------------------------------------------------------------------
+## <span id="Five_Tips_for_Using_Images_on_the_Web">Five Tips for Using Images on the Web</span>
 
 Adding images to your website is great, but using images correctly is better. Images can improve the appearance of your site and can help explain concepts that are difficult to put into words. However, used improperly, images can be ineffective, create accessibility issues, and even land you in legal trouble. To help you avoid those pitfalls, here are our top five recommendations for using images on the web.
 
@@ -65,8 +56,8 @@ As we just mentioned, alternate text is what website visitors rely on if they ca
 
 There are two ways to add images to a web page.
 
--   With the `img` HTML element.
--   With the `background-image` CSS property.
+- With the `img` HTML element.
+- With the `background-image` CSS property.
 
 When should you use each? Use `img` when the image is part of the content of the web page and use `background-image` when the image is a part of the page presentation or visual design. While these guidelines cover the majority of images uses, if you want more specific guidelines you can find a great discussion on the topic at [StackOverflow](https://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image).
 
@@ -74,8 +65,7 @@ When should you use each? Use `img` when the image is part of the content of the
 
 Image files can be very large, and web pages containing multiple large images tend to load very slowly. Web pages that load slowly often have visitors who choose to click away from the site once they realize that it is loading slowly. Optimizing images for the web can reduce web page load times dramatically and give a boost to website traffic as fewer visitors are lost due to slow page loading. Take the time to learn about [optimizing images for the web](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en) to ensure your website visitors have the best experience possible.
 
-<span id="Two_Other_Ways_to_Add_Images_to_a_Web_Page">Two Other Ways to Add Images to a Web Page</span>
--------------------------------------------------------------------------------------------------------
+## <span id="Two_Other_Ways_to_Add_Images_to_a_Web_Page">Two Other Ways to Add Images to a Web Page</span>
 
 HTML5 includes two new elements which can be used to add greater meaning to images and to give developers greater control over how visual elements are rendered different devices. These two elements are the `picture` and `figure` elements. These elements each have a specific purpose and aren’t intended to be used as a general-purpose replacement for the `img` tag. Instead, think of these two elements are special-case elements you can use in unique situations to add greater meaning to certain kinds of images.
 
@@ -87,8 +77,7 @@ The `picture` element is used to identify the version of a picture that should b
 
 The [`figure`](https://html.com/tags/figure/) element is an HTML5 feature used to identify an item on a web page that is relevant to the rest of the web page content, but does not depend on appearing in a specific position on the page. Content contained between `figure` tags should be able to be moved to a different position on the page without affecting it’s meaning or the meaning of the rest of the page content. [The way the HTML specification puts it](https://www.w3.org/TR/html-markup/figure.html) is that “the figure element represents a unit of content…that is self-contained”. Graphs, charts, and images are all common `figure` elements, but virtually any type of content, including videos, audio, and text can be nested between `figure` tags. The `figcaption` tag may optionally be added within the `figure` element to assign a caption to the content of the figure.
 
-<span id="Conclusion">Conclusion</span>
----------------------------------------
+## <span id="Conclusion">Conclusion</span>
 
 What would the web be without cat memes and pictures of your friends on social media? A much more boring place, that’s for sure. Take the time to learn how to use images properly and you may find that your website’s traffic rewards your efforts generously.
 
@@ -108,8 +97,7 @@ What would the web be without cat memes and pictures of your friends on social m
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
-<span id="Related_Elements">Related Elements</span>
----------------------------------------------------
+## <span id="Related_Elements">Related Elements</span>
 
 <table><thead><tr class="header"><th>Element Name</th><th>Attributes</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/tags/figure/" class="linked-name">figure</a></td><td></td><td>The &lt;figure&gt; element identifies self-contained content related to the main content, such as an image, table, or chart. The &lt;figcaption&gt; element is often nested within a &lt;figure&gt; element to add a caption to the content identified by the &lt;figure&gt; tags.</td></tr><tr class="even"><td><a href="https://html.com/tags/figcaption/" class="linked-name">figure</a></td><td></td><td>The &lt;figcaption&gt; element is used as a child of a parent &lt;figure&gt; element to attach a caption to the image, table, or chart contained in the &lt;figure&gt; element.</td></tr><tr class="odd"><td><a href="https://html.com/tags/map/" class="linked-name">map</a></td><td><a href="https://html.com/attributes/map-name/" class="linked-name">name</a><br />
 </td><td>The &lt;map&gt; element is used in conjunction with one or more &lt;area&gt; elements to define hyperlinked regions of an image map.</td></tr><tr class="even"><td><a href="https://html.com/tags/img/" class="linked-name">img</a></td><td><a href="https://html.com/attributes/img-crossorigin/" class="linked-name">crossorigin</a><br />
@@ -142,14 +130,13 @@ What would the web be without cat memes and pictures of your friends on social m
 <a href="https://html.com/attributes/area-title/" class="linked-name">title</a><br />
 </td><td>The &lt;area&gt; element is used as a child of a &lt;map&gt; element to define clickable a region on an image map. Different regions of an image map can be hyperlinked to different locations by nesting multiple &lt;area&gt; elements in a single &lt;map&gt; element.</td></tr></tbody></table>
 
-<span id="Tutorials_and_Resources">Tutorials and Resources</span>
------------------------------------------------------------------
+## <span id="Tutorials_and_Resources">Tutorials and Resources</span>
 
 [How to Create Image Transformations with JavaScript](https://html.com/images/image-transformations-javascript/)  
 [How to Create Simple Image Transformations](https://html.com/images/simple-image-transformations/)  
 [Want To Create Images As Links With Or Without Borders? Here’s How](https://html.com/images/borders-and-image-links/)  
 [4 Quick Steps To Make An Image Map In HTML (With Code Example)](https://html.com/images/how-to-make-an-image-map/)  
-[The Rules of ALT](https://html.com/images/rules-of-alt/)  
+[The Rules of ALT](https://html.com/images/rules-of-alt/)
 
 Search HTML.com
 
@@ -157,11 +144,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

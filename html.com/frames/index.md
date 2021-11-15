@@ -1,21 +1,14 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
-
-
-
-
 
 [HTML](https://html.com/)  /  HTML Frames Are Obsolete In HTML5: Here's How To Make Them Responsive
 
 Deprecated in HTML5. Do not use.
 
-HTML Frames Are Obsolete In HTML5: Here’s How To Make Them Responsive
-=====================================================================
+# HTML Frames Are Obsolete In HTML5: Here’s How To Make Them Responsive
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -23,33 +16,32 @@ Lots of modern websites have sticky navigation menus that are visible either in 
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> The Difference Between Frames and Iframes](#The_Difference_Between_Frames_and_Iframes)
--   [<span class="toc_number toc_depth_1">2</span> The History and Future of Frames](#The_History_and_Future_of_Frames)
-    -   [<span class="toc_number toc_depth_2">2.1</span> The Problem with Frames](#The_Problem_with_Frames)
-    -   [<span class="toc_number toc_depth_2">2.2</span> The Future of Frames](#The_Future_of_Frames)
--   [<span class="toc_number toc_depth_1">3</span> How to Create Frames](#How_to_Create_Frames)
-    -   [<span class="toc_number toc_depth_2">3.1</span> The Basic Idea Behind Frames](#The_Basic_Idea_Behind_Frames)
-    -   [<span class="toc_number toc_depth_2">3.2</span> Creating Vertical Columns](#Creating_Vertical_Columns)
-    -   [<span class="toc_number toc_depth_2">3.3</span> Creating Horizontal Rows](#Creating_Horizontal_Rows)
-    -   [<span class="toc_number toc_depth_2">3.4</span> Mixing Columns and Rows](#Mixing_Columns_and_Rows)
--   [<span class="toc_number toc_depth_1">4</span> How to Style Frames](#How_to_Style_Frames)
-    -   [<span class="toc_number toc_depth_2">4.1</span> Styling Frame Source Documents](#Styling_Frame_Source_Documents)
-    -   [<span class="toc_number toc_depth_2">4.2</span> Styling & Formatting the Frameset](#Styling_Formatting_the_Frameset)
-        -   [<span class="toc_number toc_depth_3">4.2.1</span> Sizing Frames](#Sizing_Frames)
-        -   [<span class="toc_number toc_depth_3">4.2.2</span> Formatting Frame Margins & Borders](#Formatting_Frame_Margins_Borders)
--   [<span class="toc_number toc_depth_1">5</span> Targeting Frames with Links](#Targeting_Frames_with_Links)
--   [<span class="toc_number toc_depth_1">6</span> Providing a noframes Fallback](#Providing_a_noframes_Fallback)
--   [<span class="toc_number toc_depth_1">7</span> How to Make Frames Responsive](#How_to_Make_Frames_Responsive)
-    -   [<span class="toc_number toc_depth_2">7.1</span> Use Rows Rather than Columns](#Use_Rows_Rather_than_Columns)
-    -   [<span class="toc_number toc_depth_2">7.2</span> Use Percentages For Column Widths](#Use_Percentages_For_Column_Widths)
--   [<span class="toc_number toc_depth_1">8</span> How to Migrate Away from Frames](#How_to_Migrate_Away_from_Frames)
-    -   [<span class="toc_number toc_depth_2">8.1</span> Evaluate Framed Content](#Evaluate_Framed_Content)
-    -   [<span class="toc_number toc_depth_2">8.2</span> Have a Strategy for Your New Website](#Have_a_Strategy_for_Your_New_Website)
--   [<span class="toc_number toc_depth_1">9</span> Additional Resources](#Additional_Resources)
--   [<span class="toc_number toc_depth_1">10</span> Related Elements](#Related_Elements)
+- [<span class="toc_number toc_depth_1">1</span> The Difference Between Frames and Iframes](#The_Difference_Between_Frames_and_Iframes)
+- [<span class="toc_number toc_depth_1">2</span> The History and Future of Frames](#The_History_and_Future_of_Frames)
+  - [<span class="toc_number toc_depth_2">2.1</span> The Problem with Frames](#The_Problem_with_Frames)
+  - [<span class="toc_number toc_depth_2">2.2</span> The Future of Frames](#The_Future_of_Frames)
+- [<span class="toc_number toc_depth_1">3</span> How to Create Frames](#How_to_Create_Frames)
+  - [<span class="toc_number toc_depth_2">3.1</span> The Basic Idea Behind Frames](#The_Basic_Idea_Behind_Frames)
+  - [<span class="toc_number toc_depth_2">3.2</span> Creating Vertical Columns](#Creating_Vertical_Columns)
+  - [<span class="toc_number toc_depth_2">3.3</span> Creating Horizontal Rows](#Creating_Horizontal_Rows)
+  - [<span class="toc_number toc_depth_2">3.4</span> Mixing Columns and Rows](#Mixing_Columns_and_Rows)
+- [<span class="toc_number toc_depth_1">4</span> How to Style Frames](#How_to_Style_Frames)
+  - [<span class="toc_number toc_depth_2">4.1</span> Styling Frame Source Documents](#Styling_Frame_Source_Documents)
+  - [<span class="toc_number toc_depth_2">4.2</span> Styling & Formatting the Frameset](#Styling_Formatting_the_Frameset)
+    - [<span class="toc_number toc_depth_3">4.2.1</span> Sizing Frames](#Sizing_Frames)
+    - [<span class="toc_number toc_depth_3">4.2.2</span> Formatting Frame Margins & Borders](#Formatting_Frame_Margins_Borders)
+- [<span class="toc_number toc_depth_1">5</span> Targeting Frames with Links](#Targeting_Frames_with_Links)
+- [<span class="toc_number toc_depth_1">6</span> Providing a noframes Fallback](#Providing_a_noframes_Fallback)
+- [<span class="toc_number toc_depth_1">7</span> How to Make Frames Responsive](#How_to_Make_Frames_Responsive)
+  - [<span class="toc_number toc_depth_2">7.1</span> Use Rows Rather than Columns](#Use_Rows_Rather_than_Columns)
+  - [<span class="toc_number toc_depth_2">7.2</span> Use Percentages For Column Widths](#Use_Percentages_For_Column_Widths)
+- [<span class="toc_number toc_depth_1">8</span> How to Migrate Away from Frames](#How_to_Migrate_Away_from_Frames)
+  - [<span class="toc_number toc_depth_2">8.1</span> Evaluate Framed Content](#Evaluate_Framed_Content)
+  - [<span class="toc_number toc_depth_2">8.2</span> Have a Strategy for Your New Website](#Have_a_Strategy_for_Your_New_Website)
+- [<span class="toc_number toc_depth_1">9</span> Additional Resources](#Additional_Resources)
+- [<span class="toc_number toc_depth_1">10</span> Related Elements](#Related_Elements)
 
-<span id="The_Difference_Between_Frames_and_Iframes">The Difference Between Frames and Iframes</span>
------------------------------------------------------------------------------------------------------
+## <span id="The_Difference_Between_Frames_and_Iframes">The Difference Between Frames and Iframes</span>
 
 When you use `frameset` you split the visual real estate of a browser window into multiple frames. Each `frame` has it’s own contents and the content in one don’t spill into the next.
 
@@ -57,23 +49,22 @@ An [`iframe`](https://html.com/tags/iframe/), on the other hand, embeds a frame 
 
 While both frames and iframes perform a similar function – embedding a resource into a webpage – they are fundamentally different.
 
--   Frames are layout-defining elements.
--   Iframes are a content-adding elements.
+- Frames are layout-defining elements.
+- Iframes are a content-adding elements.
 
-<span id="The_History_and_Future_of_Frames">The History and Future of Frames</span>
------------------------------------------------------------------------------------
+## <span id="The_History_and_Future_of_Frames">The History and Future of Frames</span>
 
 Frames [have been deemed obsolete by the W3C](https://www.w3.org/TR/html5-diff/#obsolete-elements) in HTML5. The reasoning given for this is that frames create usability and accessibility issues. Let’s consider each of these charges.
 
 ### <span id="The_Problem_with_Frames">The Problem with Frames</span>
 
--   Usability challenges: With the rise in popularity of mobile devices and tablets with small displays it’s more important than ever that websites offer multiple views which change based on the size of the device viewport. While frames can be manipulated to provide a certain degree of responsiveness, they are simply not well-suited to creating responsive websites.
--   Accessibility challenges: Screen readers and other assistive technologies have a very hard time understanding and communicating websites that use frames.
+- Usability challenges: With the rise in popularity of mobile devices and tablets with small displays it’s more important than ever that websites offer multiple views which change based on the size of the device viewport. While frames can be manipulated to provide a certain degree of responsiveness, they are simply not well-suited to creating responsive websites.
+- Accessibility challenges: Screen readers and other assistive technologies have a very hard time understanding and communicating websites that use frames.
 
 In addition to the accessibility and usability issues created by frames, the trend within web design is to separate the content of a webpage from its presentation.
 
--   **Content** should be added and defined by markup such as HTML.
--   **Presentation** should be manipulated with languages like CSS and JavaScript.
+- **Content** should be added and defined by markup such as HTML.
+- **Presentation** should be manipulated with languages like CSS and JavaScript.
 
 Using frames is primarily about creating a specific look and layout, a presentation task that should really be handled with CSS.
 
@@ -83,8 +74,7 @@ While all modern browser offer support for frames today, [the W3C has unequivoca
 
 If you have a website that makes use of frames you should start planning a website migration away from frames. At some point in the future support for frames will be dropped by modern web browsers, and when that happens websites build with frames will become unusable.
 
-<span id="How_to_Create_Frames">How to Create Frames</span>
------------------------------------------------------------
+## <span id="How_to_Create_Frames">How to Create Frames</span>
 
 While frames should not be used for new websites, learning how to use frames can be beneficial for webmasters who are managing older websites.
 
@@ -92,10 +82,10 @@ While frames should not be used for new websites, learning how to use frames can
 
 The basic concept behind frames is pretty simple:
 
--   Use the `frameset` element in place of the `body` element in an HTML document.
--   Use the `frame` element to create frames for the content of the web page.
--   Use the `src` attribute to identify the resource that should be loaded inside each `frame`.
--   Create a different file with the contents for each `frame`.
+- Use the `frameset` element in place of the `body` element in an HTML document.
+- Use the `frame` element to create frames for the content of the web page.
+- Use the `src` attribute to identify the resource that should be loaded inside each `frame`.
+- Create a different file with the contents for each `frame`.
 
 Let’s look at a few examples of how this works. First we need a few HTML documents to work with. Let’s create four different HTML documents. Here’s what the first will contain:
 
@@ -107,7 +97,7 @@ Let’s look at a few examples of how this works. First we need a few HTML docum
         </body>
     </html>
 
-The first document we’ll save as *frame\_1.html*. The other three documents will have similar contents and follow the same naming sequence.
+The first document we’ll save as _frame_1.html_. The other three documents will have similar contents and follow the same naming sequence.
 
 ### <span id="Creating_Vertical_Columns">Creating Vertical Columns</span>
 
@@ -223,17 +213,16 @@ The resulting grid of columns and rows looks like this.
                             ../../wp-content/uploads/frame_grid.jpg
                           " width="800" />
 
-<span id="How_to_Style_Frames">How to Style Frames</span>
----------------------------------------------------------
+## <span id="How_to_Style_Frames">How to Style Frames</span>
 
 When styling the presentation of a webpage that uses frames, there are two different types of styling to consider:
 
--   Styling within each `frame`.
--   Styling the `frameset`
+- Styling within each `frame`.
+- Styling the `frameset`
 
 The presentation of each `frame` must be defined within the source document. The presentation of the `frameset` must be defined within the parent document containing the `frameset`.
 
-In other words, *frame\_1.html* must be styled by CSS rules contained within *frame\_1.html* or within a stylesheet linked to *frame\_1.html*.
+In other words, _frame_1.html_ must be styled by CSS rules contained within _frame_1.html_ or within a stylesheet linked to _frame_1.html_.
 
 ### <span id="Styling_Frame_Source_Documents">Styling Frame Source Documents</span>
 
@@ -241,7 +230,7 @@ Just as with any webpage, the contents of each frame can be styled with [CSS](ht
 
 Considering our four source documents, CSS styles have to be applied to each document individually. Applying CSS styles to the webpage that contains the `frameset` will not cause those styles to apply to each individual document.
 
-If we want to style *frame\_1.html* we need to add styles directly to the document itself either by linking to an external style sheet or by typing them directly into the document. Here’s an example of how we might do that:
+If we want to style _frame_1.html_ we need to add styles directly to the document itself either by linking to an external style sheet or by typing them directly into the document. Here’s an example of how we might do that:
 
     <!DOCTYPE html>
     <html>
@@ -258,7 +247,7 @@ If we want to style *frame\_1.html* we need to add styles directly to the docume
         </body>
     </html>
 
-If we go back to our original example with four equally-sized columns and load the `frameset` after making these changes to *frame\_1.html*, we get this:
+If we go back to our original example with four equally-sized columns and load the `frameset` after making these changes to _frame_1.html_, we get this:
 
 <img src="https://html.com/wp-content/uploads/styles_on_frame_1.jpg" alt="Four columns with styles applied to the first frame" class="aligncenter sp-no-webp" srcset="
                             ../../wp-content/uploads/styles_on_frame_1.jpg
@@ -268,9 +257,9 @@ If we go back to our original example with four equally-sized columns and load t
 
 There are a few things you can do to affect the presentation of a `frameset` beyond styling the documents themselves.
 
--   The size of each frame can be specified and locked.
--   The margin between frames can be changed.
--   The border around frames can be formatted.
+- The size of each frame can be specified and locked.
+- The margin between frames can be changed.
+- The border around frames can be formatted.
 
 These changes aren’t made with CSS. Instead, they are made by adding attributes and values to the `frame` elements.
 
@@ -284,10 +273,10 @@ Let’s put both of these ideas into practice.
 
 Let’s create the following layout:
 
--   One full-width row along the top of the webpage.
--   Three columns below the top row.
--   The first and third columns sizes to create left and right sidebars.
--   The middle column sized to create a larger content area.
+- One full-width row along the top of the webpage.
+- Three columns below the top row.
+- The first and third columns sizes to create left and right sidebars.
+- The middle column sized to create a larger content area.
 
 We can create this layout with the following code.
 
@@ -302,13 +291,13 @@ We can create this layout with the following code.
 
 What that code creates is a `frameset` of two rows.
 
--   The first row is 150px tall. The `noresize` attribute appearing on the first`frame` means that it cannot be resized.
--   The styles we applied earlier to *frame\_1.html* are preserved, but only affect the contents of that frame.
--   The second row expands to fill the remaining space.
--   A second `frameset` is nested in the second row and includes three columns.
-    -   The first and third columns will each cover 20% of the available browser window.
-    -   The second column will resize to fill the space remaining between the first and third columns.
-    -   Since the we did not use the `noresize` attribute on the columns, they will initially render based on the sizes included in the code, but a website visitor will be able to manually resize them.
+- The first row is 150px tall. The `noresize` attribute appearing on the first`frame` means that it cannot be resized.
+- The styles we applied earlier to _frame_1.html_ are preserved, but only affect the contents of that frame.
+- The second row expands to fill the remaining space.
+- A second `frameset` is nested in the second row and includes three columns.
+  - The first and third columns will each cover 20% of the available browser window.
+  - The second column will resize to fill the space remaining between the first and third columns.
+  - Since the we did not use the `noresize` attribute on the columns, they will initially render based on the sizes included in the code, but a website visitor will be able to manually resize them.
 
 That code would create a webpage that rendered like this.
 
@@ -337,8 +326,7 @@ If we pull up this code in a browser, here’s what it looks like.
                             ../../wp-content/uploads/borders_and_margins.jpg
                           " width="800" />
 
-<span id="Targeting_Frames_with_Links">Targeting Frames with Links</span>
--------------------------------------------------------------------------
+## <span id="Targeting_Frames_with_Links">Targeting Frames with Links</span>
 
 One of the most common uses of frames is to build sticky navigation into a frame that is always visible regardless of the position of the contents of the other frames. When properly implemented, navigation links will cause new resources to load in one `frame` while the other frames remain static.
 
@@ -357,7 +345,7 @@ The first step in making this happen is to assign a `name` to the `frame` where 
         </frameset>
     </frameset>
 
-Now that we’ve named the center column `name="mid_col"` we can create a couple of links in our left-hand column source document *frame\_2.html* and target the center column.
+Now that we’ve named the center column `name="mid_col"` we can create a couple of links in our left-hand column source document _frame_2.html_ and target the center column.
 
     <!DOCTYPE html>
     <html>
@@ -381,29 +369,27 @@ When we load our page here’s what we initially see.
                             ../../wp-content/uploads/links.jpg
                           " width="800" />
 
-If we click the link *Load frame\_1.html* the contents of that file are loaded in the center column and we get this.
+If we click the link _Load frame_1.html_ the contents of that file are loaded in the center column and we get this.
 
 <img src="https://html.com/wp-content/uploads/links_frame_1.jpg" alt="A frameset with a navigation column on the left-hand side and a link opened in the middle frame" class="aligncenter sp-no-webp" srcset="
                             ../../wp-content/uploads/links_frame_1.jpg
                           " width="800" />
 
-If we click the link *Load frame\_2.html* we see the navigation contents both in the left sidebar and the middle column.
+If we click the link _Load frame_2.html_ we see the navigation contents both in the left sidebar and the middle column.
 
 <img src="https://html.com/wp-content/uploads/links_frame_2.jpg" alt="A frameset with a navigation column on the left-hand side and a link opened in the middle frame" class="aligncenter sp-no-webp" srcset="
                             ../../wp-content/uploads/links_frame_2.jpg
                           " width="800" />
 
-Clicking the links *Load frame\_3.html* and *Load frame\_4.html* would behave exactly as you’d expect, loading the contents of those files in the middle column.
+Clicking the links _Load frame_3.html_ and _Load frame_4.html_ would behave exactly as you’d expect, loading the contents of those files in the middle column.
 
 If we forgot to add the `target="mid_col"` attribute to one of the links, when we clicked the link the resource will load in the same frame that contained the link. If we want to reload the entire page, such as when linking to an external website, we need to add the `target="_blank"` or `target="_top"` attribute to the anchor element.
 
-<span id="Providing_a_noframes_Fallback">Providing a `noframes` Fallback</span>
--------------------------------------------------------------------------------
+## <span id="Providing_a_noframes_Fallback">Providing a `noframes` Fallback</span>
 
 In the past, the `noframes` element was used to create a fallback for browsers that did not support the use of frames. However, all modern browsers do support frames for the time being, and support for `noframes` is virtually nonexistent. As a result, it is no longer necessary to have a `noframes` fallback when working with frames.
 
-<span id="How_to_Make_Frames_Responsive">How to Make Frames Responsive</span>
------------------------------------------------------------------------------
+## <span id="How_to_Make_Frames_Responsive">How to Make Frames Responsive</span>
 
 One of the problems with frames is that they tend to create usability issues for website visitors using smartphones and small tablets. Since frames have been removed from HTML5 entirely and deemed obsolete, it’s important that the owners of websites built with frames begin planning a redesign that does not include frames. However, until a full redesign can be completed, there are a few things webmasters can do to improve the usability of framed designs.
 
@@ -423,8 +409,7 @@ If you had to look at these two sites and try to read them which would you rathe
 
 When columns are sized using percentages rather than pixels they will automatically resize based on the size of the device being used to view the site. While this may create some issues if certain frames become too small, a visitor’s experience will be better overall when column widths are assigned based on percentages rather than pixels.
 
-<span id="How_to_Migrate_Away_from_Frames">How to Migrate Away from Frames</span>
----------------------------------------------------------------------------------
+## <span id="How_to_Migrate_Away_from_Frames">How to Migrate Away from Frames</span>
 
 Both the `frameset` and `frame` elements have been removed from the latest HTML specification, HTML5. Owners of websites built with frames should complete a redesign of their website to remove frames from the design of the site.
 
@@ -434,10 +419,10 @@ At some point, web browsers will drop support for frames. When that happens, web
 
 The first step to redesigning a website that uses frames is to think through the reasons why frames were used in the first place.
 
--   Were frames used to create a specific layout? If so, CSS can be used to create a similar layout.
--   Are frames used to create a specifically sized ad container? There are many ways to duplicate that effect using CSS or a widget designed to work with a content management system.
--   Was a frame used to create a sticky navigation menu? Once again, CSS can duplicate this same effect.
--   Were frames used to load a resource from an external website? If so, the `iframe` element, which is part of HTML5, can be used to embed content from an external website.
+- Were frames used to create a specific layout? If so, CSS can be used to create a similar layout.
+- Are frames used to create a specifically sized ad container? There are many ways to duplicate that effect using CSS or a widget designed to work with a content management system.
+- Was a frame used to create a sticky navigation menu? Once again, CSS can duplicate this same effect.
+- Were frames used to load a resource from an external website? If so, the `iframe` element, which is part of HTML5, can be used to embed content from an external website.
 
 In virtually every case CSS can be used to duplicate the layout created with frames, and iframes can be used to embed external resources.
 
@@ -449,17 +434,16 @@ Switching to a content management system will take more work in the short-term, 
 
 To help you get started looking at content management systems, here are the three most popular content management systems:
 
--   [WordPress](https://wordpress.org/)
--   [Joomla!](https://joomla.org/)
--   [Drupal](https://drupal.org/)
+- [WordPress](https://wordpress.org/)
+- [Joomla!](https://joomla.org/)
+- [Drupal](https://drupal.org/)
 
-<span id="Additional_Resources">Additional Resources</span>
------------------------------------------------------------
+## <span id="Additional_Resources">Additional Resources</span>
 
 If you’d like to learn more about frames, the best source for additional information is the World Wide Web Consortium (W3C). Here are a few of their pages with information about frames:
 
--   [HTML4 Frames Documentation](https://www.w3.org/TR/html401/present/frames.html)
--   [HTML5 Obsolete Features](https://www.w3.org/TR/html5/obsolete.html)
+- [HTML4 Frames Documentation](https://www.w3.org/TR/html401/present/frames.html)
+- [HTML5 Obsolete Features](https://www.w3.org/TR/html5/obsolete.html)
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -477,8 +461,7 @@ If you’d like to learn more about frames, the best source for additional infor
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
-<span id="Related_Elements">Related Elements</span>
----------------------------------------------------
+## <span id="Related_Elements">Related Elements</span>
 
 <table><thead><tr class="header"><th>Element Name</th><th>Attributes</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/tags/noframes/" class="linked-name deprecated">noframes</a></td><td></td><td>The &lt;noframes&gt; element was used within a parent &lt;frameset&gt; to provide fallback content for users whose browsers did not support &lt;frame&gt; content. Frames have been deprecated, so the &lt;noframes&gt; element should not be in use on modern websites.</td></tr><tr class="even"><td><a href="https://html.com/tags/iframe/" class="linked-name">iframe</a></td><td><a href="https://html.com/attributes/iframe-sandbox/" class="linked-name">sandbox</a><br />
 <a href="https://html.com/attributes/iframe-scrolling/" class="linked-name deprecated">scrolling</a><br />
@@ -508,11 +491,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

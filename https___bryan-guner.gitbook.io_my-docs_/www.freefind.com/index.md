@@ -4,7 +4,7 @@
 
 <a href="javascript:$page.opensrch()" class="llnk" title="search"><img src="data:image/svg+xml,%3Csvg%20viewBox=&#39;0%200%2083%2088&#39;%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%3E%3Ccircle%20cx=&#39;33&#39;%20cy=&#39;43&#39;%20r=&#39;25&#39;%20fill=&#39;none&#39;%20stroke-width=&#39;12&#39;%20stroke=&#39;%230195DB&#39;/%3E%3Cpath%20fill=&#39;%230195DB&#39;%20d=&#39;M57%2062v4l3%208%2012%2012%209-9-12-12-8-3z&#39;/%3E%3C/svg%3E" alt="search" /></a>
 
-[<img src="https://www.freefind.com/img/3bars.20.png" alt="menu" width="20" />](javascript:$page.menu())
+[<img src="https://www.freefind.com/img/3bars.20.png" alt="menu" width="20" />](<javascript:$page.menu()>)
 
 <table><tbody><tr class="odd"><td></td><td>All Documentation FAQ &amp; Reference</td></tr></tbody></table>
 

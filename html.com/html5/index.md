@@ -1,23 +1,18 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
+class="mega-menu-link">B<span class="mega-indicator"></span></a></span>
 
 class="mega-menu-link">B<span class="mega-indicator"></span></a></span>
 
-
-class="mega-menu-link">B<span class="mega-indicator"></span></a></span>
-
-HTML5 Basics For Everyone Tired Of Reading About Deprecated Code
-================================================================
+# HTML5 Basics For Everyone Tired Of Reading About Deprecated Code
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
-You’ve probably seen many references to HTML5, along with mentions of certain features being “Deprecated” or “New” in HTML5. This can sometimes be confusing, as you find out that the way you thought you were “supposed” to do something is now *not the right way at all*.
+You’ve probably seen many references to HTML5, along with mentions of certain features being “Deprecated” or “New” in HTML5. This can sometimes be confusing, as you find out that the way you thought you were “supposed” to do something is now _not the right way at all_.
 
 It can also be annoying — especially since most of these “deprecated features” still work on most browsers. Why bother learning a new way of doing something if the old way works just fine?
 
@@ -27,7 +22,7 @@ This article should clear up some of that confusion and get you on the right tra
 
 Contents
 
--   [<span class="toc_number toc_depth_2">0.1</span> What is HTML?](#What_is_HTML)
+- [<span class="toc_number toc_depth_2">0.1</span> What is HTML?](#What_is_HTML)
 
 [<span class="toc_number toc_depth_1">1</span> All About Rats](#All_About_Rats)
 
@@ -51,20 +46,17 @@ Contents
     - [<span id="Don8217t_Close_Null_Tags">Don’t Close Null Tags</span>](#dont-close-null-tags)
     - [<span id="Validate_Your_Pages">Validate Your Pages</span>](#validate-your-pages)
 
-<span id="What_is_HTML">What is HTML?</span>
---------------------------------------------
+## <span id="What_is_HTML">What is HTML?</span>
 
-*(Skip ahead to [What is HTML5](#What_is_HTML5) if you are already familiar with HTML generally.)*
+_(Skip ahead to [What is HTML5](#What_is_HTML5) if you are already familiar with HTML generally.)_
 
 You probably already know that HTML, or HyperText Markup Language, is the language used for web documents. It is not a programming language, but rather a language that identifies the meaning, purpose, and structure of text within a document.
 
 For example, consider this document:
 
-<span id="All_About_Rats">All About Rats</span>
-===============================================
+# <span id="All_About_Rats">All About Rats</span>
 
-<span id="Why_Do_Rats_Make_Great_Pets">Why Do Rats Make Great Pets?</span>
---------------------------------------------------------------------------
+## <span id="Why_Do_Rats_Make_Great_Pets">Why Do Rats Make Great Pets?</span>
 
 Forget what you’ve learned from horror films, rats make great pets — especially for children. And unlike the popular hamster, they almost never bite.
 
@@ -78,10 +70,10 @@ For this simple document, we can add an `<h1>` tag to identify the main heading 
 
 Now, a web browser can show you this document in a more meaningful way. This might seem trivial for a short document with one headline a single paragraph, but it can get complicated very fast. You’ve seen a lot of web pages, so you know that there are all sorts of things (not just headlines and paragraphs) that people need to represent on their web pages. Things like:
 
--   [Forms](https://html.com/tags/form/)
--   [Lists](https://html.com/lists/)
--   [Links to other pages](https://html.com/anchors-links/)
--   [Media](https://html.com/media/)
+- [Forms](https://html.com/tags/form/)
+- [Lists](https://html.com/lists/)
+- [Links to other pages](https://html.com/anchors-links/)
+- [Media](https://html.com/media/)
 
 And that’s just for starters. You also need to be able to identify [sections of your document](https://html.com/tags/section/) and provide [metadata about the document itself](https://html.com/document/metadata/). (Metadata is information about the document, such as the title, author, relevant keywords, and relationship to other documents.)
 
@@ -97,54 +89,53 @@ The language has evolved over all this time because web development has changed.
 
 Why did HTML have to change? Because the web has changed.
 
-<span id="What_is_HTML5">What is HTML5?</span>
-----------------------------------------------
+## <span id="What_is_HTML5">What is HTML5?</span>
 
 HTML5 is the latest specification of the HTML language, and represented a major break with previous markup practices. The purpose of the profound changes to the language was to standardize the many new ways in which developers were using it, as well as to encourage a single set of best practices with regards to web development.
 
 Most of the individual changes are a result of larger objectives in the design of the language. These objectives primarily include:
 
--   Encouraging semantic (meaningful) markup
--   Separating design from content
--   Promoting accessibility and design responsiveness
--   Reducing the overlap between HTML, CSS, and JavaScript
--   Supporting rich media experiences while eliminating the need for plugins such as Flash or Java
+- Encouraging semantic (meaningful) markup
+- Separating design from content
+- Promoting accessibility and design responsiveness
+- Reducing the overlap between HTML, CSS, and JavaScript
+- Supporting rich media experiences while eliminating the need for plugins such as Flash or Java
 
 Getting a handle on HTML5 isn’t just about learning which CSS features replace old HTML features. If you want to get an intuitive sense of HTML5, it is best to understand how these objectives affected the development of the language.
 
 ### <span id="Encouraging_Semantic_Markup">Encouraging Semantic Markup</span>
 
-Semantic markup means markup which has *meaning*, rather than markup which simply looks a certain way. For example, the `<h1>` tag implies that the content of the element is the title or headline of the entire document. That semantic meaning would be lost if we just made the text bold and large without using the appropriate tag.
+Semantic markup means markup which has _meaning_, rather than markup which simply looks a certain way. For example, the `<h1>` tag implies that the content of the element is the title or headline of the entire document. That semantic meaning would be lost if we just made the text bold and large without using the appropriate tag.
 
 HTML has always had a little bit of semantic markup available to it: [heading tags](https://html.com/tags/heading/), the [link rel attribute](https://html.com/attributes/link-rel/), and [document metadata](https://html.com/document/metadata/). But it wasn’t enough.
 
 In previous versions of the language, common structural elements like page headers, navigation menus, and main content sections were all indicated with the same HTML element, [the `<div> tag`](https://html.com/tags/div/). In HTML, there are a host of new semantic elements intended to indicate the basic structure of a page:
 
--   [`<header>`](https://html.com/tags/header/)
--   [`<nav>`](https://html.com/tags/nav/)
--   [`<main>`](https://html.com/tags/main/)
--   [`<article>`](https://html.com/tags/article/)
--   [`<aside>`](https://html.com/tags/aside/)
--   [`<section>`](https://html.com/tags/section/)
--   [`<footer>`](https://html.com/tags/footer/)
+- [`<header>`](https://html.com/tags/header/)
+- [`<nav>`](https://html.com/tags/nav/)
+- [`<main>`](https://html.com/tags/main/)
+- [`<article>`](https://html.com/tags/article/)
+- [`<aside>`](https://html.com/tags/aside/)
+- [`<section>`](https://html.com/tags/section/)
+- [`<footer>`](https://html.com/tags/footer/)
 
-New text-level (inline) elements have also been introduced, such as [`<address>`](https://html.com/tags/address/) and [`<time>`](https://html.com/tags/time/). These help search engines and other services to easily find information on a page, for display in other contexts. At the same time, existing inline elements which produce various effects like **bold**, *italic*, and <span class="underline">underline</span> have been refined or redefined to imply specific semantic meaning.
+New text-level (inline) elements have also been introduced, such as [`<address>`](https://html.com/tags/address/) and [`<time>`](https://html.com/tags/time/). These help search engines and other services to easily find information on a page, for display in other contexts. At the same time, existing inline elements which produce various effects like **bold**, _italic_, and <span class="underline">underline</span> have been refined or redefined to imply specific semantic meaning.
 
 ### <span id="Separating_Design_From_Content">Separating Design From Content</span>
 
 Along with strongly encouraging semantic (meaningful) markup, the HTML5 specification strongly **discourages** non-meaningful markup — markup intended only to tell the browser how to display things. This includes things like:
 
--   declaring fonts and text colors
--   setting text alignment or justification
--   placing borders on tables
--   defining how text wraps around images
+- declaring fonts and text colors
+- setting text alignment or justification
+- placing borders on tables
+- defining how text wraps around images
 
 Most of the HTML features that allowed for these sorts of things have been completely deprecated. The few that are still officially supported come with warnings that they are usually not recommended practices.
 
 There are primarily two reasons to prefer this separation:
 
--   It is easier to maintain and redesign a site if the style declarations are confined to CSS
--   Users view web content in a lot of different contexts — desktops, laptops, tablets, mobile phones, RSS readers, and many others. Styles and design decisions that make sense in one environment don’t always make sense in another. So it is much better to provide semantic information and let the content be adapted to the context.
+- It is easier to maintain and redesign a site if the style declarations are confined to CSS
+- Users view web content in a lot of different contexts — desktops, laptops, tablets, mobile phones, RSS readers, and many others. Styles and design decisions that make sense in one environment don’t always make sense in another. So it is much better to provide semantic information and let the content be adapted to the context.
 
 This last point is closely tied to…
 
@@ -166,9 +157,9 @@ No one sat down at the beginning of the internet and figured what types of thing
 
 Besides the practical considerations enumerated above, there has also been a focus on defining the nature and purpose of these languages, and limiting them (or expanding them) so that they do what is in their nature to do:
 
--   HTML — Content
--   CSS — Design
--   JS — Interactivity
+- HTML — Content
+- CSS — Design
+- JS — Interactivity
 
 Remembering this can help one determine which language to use, especially in cases where it is possible to do something in more than one way. For example, if you want to change the color of something, your very first thought should be to use CSS. On the other hand, if you want to change the color of something **in response to a user input**, you probably want to use JavaScript.
 
@@ -182,8 +173,7 @@ It was a mess.
 
 Now, [HTML5 provides support for media](https://html.com/media/) with elements like [`<video>`](https://html.com/tags/video/) and [`<audio>`](https://html.com/tags/audio/), while [`<canvas>`](https://html.com/tags/canvas/) provides a defined space for JavaScript-created drawing and graphics. New form elements, along with better integration between HTML5, CSS, and JavaScript has made it possible to create full-scale web applications using the three languages that are native to the web browser, without plugins or add-ons.
 
-<span id="Why_Should_I_Use_HTML5">Why Should I Use HTML5?</span>
-----------------------------------------------------------------
+## <span id="Why_Should_I_Use_HTML5">Why Should I Use HTML5?</span>
 
 The most straight-forward answer to that question is simply that it is the current, “right” version of the language.
 
@@ -191,21 +181,20 @@ But some people seem unconvinced by this fact. Older markup practices still work
 
 There are a number of reasons to prefer HTML5, and to avoid using any of the deprecated features. Some are practical, while others are more philosophical. Some are altruistic, while others are selfish.
 
--   Easier to write
--   Easier to maintain
--   Easier to redesign
--   Better for Search Engine Optimization
--   Better for the blind and visually impaired
--   Better for content aggregators and feed readers
--   Better for users on mobile devices
--   Better for users on slower internet connections
--   Fewer chances of design breaks
--   Easier to add media
--   Easier to create interactive applications
--   Deprecated features will likely stop being supported at some point, breaking your page
+- Easier to write
+- Easier to maintain
+- Easier to redesign
+- Better for Search Engine Optimization
+- Better for the blind and visually impaired
+- Better for content aggregators and feed readers
+- Better for users on mobile devices
+- Better for users on slower internet connections
+- Fewer chances of design breaks
+- Easier to add media
+- Easier to create interactive applications
+- Deprecated features will likely stop being supported at some point, breaking your page
 
-<span id="How_To_Use_HTML5">How To Use HTML5</span>
----------------------------------------------------
+## <span id="How_To_Use_HTML5">How To Use HTML5</span>
 
 You probably already know how to create HTML5 documents. The basics of the language are the same. There’s a just a few things that are good to keep in mind.
 
@@ -241,9 +230,9 @@ It’s a little minor point, but…
 
 A “null” or “empty” element is an element that has no content. These include:
 
--   [`<img>`](https://html.com/tags/img/)
--   [`<br>`](https://html.com/tags/br/)
--   [`<hr>`](https://html.com/tags/hr/)
+- [`<img>`](https://html.com/tags/img/)
+- [`<br>`](https://html.com/tags/br/)
+- [`<hr>`](https://html.com/tags/hr/)
 
 Surprised that an `<img>` element has no content? The image itself is [an attribute of the tag](https://html.com/attributes/img-src/), not the content.
 
@@ -292,11 +281,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

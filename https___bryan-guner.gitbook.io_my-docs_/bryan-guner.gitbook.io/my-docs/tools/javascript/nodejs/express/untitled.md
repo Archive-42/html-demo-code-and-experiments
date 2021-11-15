@@ -286,7 +286,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -304,7 +304,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -344,7 +344,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -378,63 +378,41 @@ Express.js is a Javascript framework based on Node.js, that supports development
 
 <span data-key="f322b40d2c13494a80d693bf12bc2e84">**Topics Covered**</span>
 
--   
+- <span data-key="0e1afbdbb34b475ba378f9b3d697cd8e"><span data-offset-key="0e1afbdbb34b475ba378f9b3d697cd8e:0">Feature of Express</span></span>
 
-    <span data-key="0e1afbdbb34b475ba378f9b3d697cd8e"><span data-offset-key="0e1afbdbb34b475ba378f9b3d697cd8e:0">Feature of Express</span></span>
+- <span data-key="d1eba236c7f74bf88186dfef2594492b"><span data-offset-key="d1eba236c7f74bf88186dfef2594492b:0">How does Express work?</span></span>
 
--   
+- <span data-key="6dda277c388443378a882931a2206492"><span data-offset-key="6dda277c388443378a882931a2206492:0">Why Express?</span></span>
 
-    <span data-key="d1eba236c7f74bf88186dfef2594492b"><span data-offset-key="d1eba236c7f74bf88186dfef2594492b:0">How does Express work?</span></span>
-
--   
-
-    <span data-key="6dda277c388443378a882931a2206492"><span data-offset-key="6dda277c388443378a882931a2206492:0">Why Express?</span></span>
-
-### 
+###
 
 <span data-key="3ff1b4b955cf4b5ba3713fcb2f16bc62">**Features of Express Framework:**</span>
 
--   
+- <span data-key="626d048832a64d97857476dc65a71381"><span data-offset-key="626d048832a64d97857476dc65a71381:0">Express can be used to design a single-page, multi-page and hybrid web applications.</span></span>
 
-    <span data-key="626d048832a64d97857476dc65a71381"><span data-offset-key="626d048832a64d97857476dc65a71381:0">Express can be used to design a single-page, multi-page and hybrid web applications.</span></span>
+- <span data-key="ef3c6553f9014c04950706248894a2b4"><span data-offset-key="ef3c6553f9014c04950706248894a2b4:0">Express allows to setup middlewares to respond to HTTP Requests.</span></span>
 
--   
+- <span data-key="737fdb278c354bf592c5df74df960c7d"><span data-offset-key="737fdb278c354bf592c5df74df960c7d:0">Express defines a routing table which is used to performs different actions based on HTTP method and URL.</span></span>
 
-    <span data-key="ef3c6553f9014c04950706248894a2b4"><span data-offset-key="ef3c6553f9014c04950706248894a2b4:0">Express allows to setup middlewares to respond to HTTP Requests.</span></span>
+- <span data-key="ea737c0ef9714874bd20683f3114f098"><span data-offset-key="ea737c0ef9714874bd20683f3114f098:0">Express allows to dynamically render HTML Pages based on passing arguments to templates.</span></span>
 
--   
-
-    <span data-key="737fdb278c354bf592c5df74df960c7d"><span data-offset-key="737fdb278c354bf592c5df74df960c7d:0">Express defines a routing table which is used to performs different actions based on HTTP method and URL.</span></span>
-
--   
-
-    <span data-key="ea737c0ef9714874bd20683f3114f098"><span data-offset-key="ea737c0ef9714874bd20683f3114f098:0">Express allows to dynamically render HTML Pages based on passing arguments to templates.</span></span>
-
-### 
+###
 
 <span data-key="be2fad82e97049fab0af233ce7b78b9c">**How does Express work?**</span>
 
 <span data-key="e5d46e4c5c13481c877b884306b5748f"><span data-offset-key="e5d46e4c5c13481c877b884306b5748f:0">Express applications work by sending a sequence of calls to the middle tier. The middleware has of two-course access to request objects and response objects. It means that using the Express framework gives you control over all request and response objects. This gives you the power to add the sessions, add the post parameters, and template through ejs.</span></span>
 
-### 
+###
 
 <span data-key="7de42a9a33754e5f999b44964257d627">**Why Express?**</span>
 
--   
+- <span data-key="77f8c4f28665456e92d2ba522b5f0010"><span data-offset-key="77f8c4f28665456e92d2ba522b5f0010:0">Ultrafast Input/Output.</span></span>
 
-    <span data-key="77f8c4f28665456e92d2ba522b5f0010"><span data-offset-key="77f8c4f28665456e92d2ba522b5f0010:0">Ultrafast Input/Output.</span></span>
+- <span data-key="cd0282e479bc4b3a8e830ca7b77b699a"><span data-offset-key="cd0282e479bc4b3a8e830ca7b77b699a:0">Asynchronous and single threaded.</span></span>
 
--   
+- <span data-key="d8551f82df334863bc32471fc8e4fff2"><span data-offset-key="d8551f82df334863bc32471fc8e4fff2:0">MVC like structure.</span></span>
 
-    <span data-key="cd0282e479bc4b3a8e830ca7b77b699a"><span data-offset-key="cd0282e479bc4b3a8e830ca7b77b699a:0">Asynchronous and single threaded.</span></span>
-
--   
-
-    <span data-key="d8551f82df334863bc32471fc8e4fff2"><span data-offset-key="d8551f82df334863bc32471fc8e4fff2:0">MVC like structure.</span></span>
-
--   
-
-    <span data-key="06dbce4705054733bc73c5ac83af58f4"><span data-offset-key="06dbce4705054733bc73c5ac83af58f4:0">Robust API makes routing very easy.</span></span>
+- <span data-key="06dbce4705054733bc73c5ac83af58f4"><span data-offset-key="06dbce4705054733bc73c5ac83af58f4:0">Robust API makes routing very easy.</span></span>
 
 <span data-key="31c3a9cfabf94eb2b59b006d86bee090">**How does Express look like :**</span>
 
@@ -506,47 +484,29 @@ Copied!
 
 <span data-key="815d7062248446309624d54b971df05b">**Topics Covered**</span>
 
--   
+- <span data-key="0e63db334b7c4fd783b1a0f8eba526ca"><span data-offset-key="0e63db334b7c4fd783b1a0f8eba526ca:0">What is ExpressJS Restful API?</span></span>
 
-    <span data-key="0e63db334b7c4fd783b1a0f8eba526ca"><span data-offset-key="0e63db334b7c4fd783b1a0f8eba526ca:0">What is ExpressJS Restful API?</span></span>
+- <span data-key="06d2bff6a9ac4b90a76ab248d7440c27"><span data-offset-key="06d2bff6a9ac4b90a76ab248d7440c27:0">Why we need ExpressJS Restful APIs.</span></span>
 
--   
+- <span data-key="4c0900db3a2c46edbed510c809632ac1"><span data-offset-key="4c0900db3a2c46edbed510c809632ac1:0">Advantages</span></span>
 
-    <span data-key="06d2bff6a9ac4b90a76ab248d7440c27"><span data-offset-key="06d2bff6a9ac4b90a76ab248d7440c27:0">Why we need ExpressJS Restful APIs.</span></span>
+- <span data-key="7ac069d3d42e47faa72b5d0745036a35"><span data-offset-key="7ac069d3d42e47faa72b5d0745036a35:0">Initialize npm and install the modules</span></span>
 
--   
+- <span data-key="6d3886a0fa57486b973e4711e1c5244b"><span data-offset-key="6d3886a0fa57486b973e4711e1c5244b:0">Creates a New User</span></span>
 
-    <span data-key="4c0900db3a2c46edbed510c809632ac1"><span data-offset-key="4c0900db3a2c46edbed510c809632ac1:0">Advantages</span></span>
+- <span data-key="6aea1b44041d472085ba8cbee8850745"><span data-offset-key="6aea1b44041d472085ba8cbee8850745:0">Returns All the Users From the Database</span></span>
 
--   
+- <span data-key="fd8d2281e48540fab148a0a7d255a6e5"><span data-offset-key="fd8d2281e48540fab148a0a7d255a6e5:0">Gets a Single User From the Database</span></span>
 
-    <span data-key="7ac069d3d42e47faa72b5d0745036a35"><span data-offset-key="7ac069d3d42e47faa72b5d0745036a35:0">Initialize npm and install the modules</span></span>
+- <span data-key="c7696d5da3254b2eaf511128e017af13"><span data-offset-key="c7696d5da3254b2eaf511128e017af13:0">Deletes a User From the Database</span></span>
 
--   
-
-    <span data-key="6d3886a0fa57486b973e4711e1c5244b"><span data-offset-key="6d3886a0fa57486b973e4711e1c5244b:0">Creates a New User</span></span>
-
--   
-
-    <span data-key="6aea1b44041d472085ba8cbee8850745"><span data-offset-key="6aea1b44041d472085ba8cbee8850745:0">Returns All the Users From the Database</span></span>
-
--   
-
-    <span data-key="fd8d2281e48540fab148a0a7d255a6e5"><span data-offset-key="fd8d2281e48540fab148a0a7d255a6e5:0">Gets a Single User From the Database</span></span>
-
--   
-
-    <span data-key="c7696d5da3254b2eaf511128e017af13"><span data-offset-key="c7696d5da3254b2eaf511128e017af13:0">Deletes a User From the Database</span></span>
-
--   
-
-    <span data-key="1149493ebbcd4eb4b948f3efb1081c29"><span data-offset-key="1149493ebbcd4eb4b948f3efb1081c29:0">Updates a Single User in the Database</span></span>
+- <span data-key="1149493ebbcd4eb4b948f3efb1081c29"><span data-offset-key="1149493ebbcd4eb4b948f3efb1081c29:0">Updates a Single User in the Database</span></span>
 
 <span data-key="48f4dcfae6114f669a7c8f7b11f17cfc">**Why we need ExpressJS Restful APIs**</span>
 
 <span data-key="dc9e547937944876b1e235240f4b2f9f"><span data-offset-key="dc9e547937944876b1e235240f4b2f9f:0">The World Wide Web itself is based on HTTP and is based on RESTful API architecture. Mostly all the modern web browsers are RESTful API client. RESTful API applications use HTTP methods (GET, POST, PUT, and DELETE) to perform CRUD operations.</span></span>
 
-### 
+###
 
 <span data-key="3cd7894765b548e7875f6b55ac6edf7a"><span data-offset-key="3cd7894765b548e7875f6b55ac6edf7a:0">Advantages</span></span>
 
@@ -576,9 +536,9 @@ Copied!
 
 <span data-key="1b691942855347428afd4de6f11b0e55"><span data-offset-key="1b691942855347428afd4de6f11b0e55:0">Now, we will use ExpressJS for developing an application. It is a node.js framework. We will use Mongoose. Mongoose is an ORM (Object Relational Mapper). We use an ORM to simplify the transfer of data between our application and the database. The body-parser module is a middleware we are going to use, to parse our data sent through HTTP requests.</span></span>
 
-<span data-key="55f45c1da02547e0ae901cc387f6e7d9"><span data-offset-key="55f45c1da02547e0ae901cc387f6e7d9:0">To start developing the application, create a file and name it as </span>*app.js*<span data-offset-key="55f45c1da02547e0ae901cc387f6e7d9:2">. Write following code in your </span>*app.js*<span data-offset-key="55f45c1da02547e0ae901cc387f6e7d9:4"> file.</span></span>
+<span data-key="55f45c1da02547e0ae901cc387f6e7d9"><span data-offset-key="55f45c1da02547e0ae901cc387f6e7d9:0">To start developing the application, create a file and name it as </span>_app.js_<span data-offset-key="55f45c1da02547e0ae901cc387f6e7d9:2">. Write following code in your </span>_app.js_<span data-offset-key="55f45c1da02547e0ae901cc387f6e7d9:4"> file.</span></span>
 
-<span data-key="83a2c8c6b7d849bcaacc39027b19f0d0">*app.js*</span>
+<span data-key="83a2c8c6b7d849bcaacc39027b19f0d0">_app.js_</span>
 
 1
 
@@ -594,11 +554,11 @@ Copied!
 
 Copied!
 
-<span data-key="79f46668a4ef42a79b6d7f733b281e8a">*app.js*<span data-offset-key="79f46668a4ef42a79b6d7f733b281e8a:1"> will be used for configuring the app. All the logic will be placed in the directory.</span></span>
+<span data-key="79f46668a4ef42a79b6d7f733b281e8a">_app.js_<span data-offset-key="79f46668a4ef42a79b6d7f733b281e8a:1"> will be used for configuring the app. All the logic will be placed in the directory.</span></span>
 
-<span data-key="2cabed8f0d914509a80a3352d0c8e81a"><span data-offset-key="2cabed8f0d914509a80a3352d0c8e81a:0">We will use a </span>*module.exports*<span data-offset-key="2cabed8f0d914509a80a3352d0c8e81a:2"> module to make the application’s object visible to the program when we call it using\* require()\*. Now have to create </span>*Routes*<span data-offset-key="2cabed8f0d914509a80a3352d0c8e81a:4"> to listen to the application. For that, we will create another file, name it as </span>*server.js*<span data-offset-key="2cabed8f0d914509a80a3352d0c8e81a:6">, and we will write following code in our </span>*server.js*<span data-offset-key="2cabed8f0d914509a80a3352d0c8e81a:8"> file.</span></span>
+<span data-key="2cabed8f0d914509a80a3352d0c8e81a"><span data-offset-key="2cabed8f0d914509a80a3352d0c8e81a:0">We will use a </span>_module.exports_<span data-offset-key="2cabed8f0d914509a80a3352d0c8e81a:2"> module to make the application’s object visible to the program when we call it using\* require()\*. Now have to create </span>_Routes_<span data-offset-key="2cabed8f0d914509a80a3352d0c8e81a:4"> to listen to the application. For that, we will create another file, name it as </span>_server.js_<span data-offset-key="2cabed8f0d914509a80a3352d0c8e81a:6">, and we will write following code in our </span>_server.js_<span data-offset-key="2cabed8f0d914509a80a3352d0c8e81a:8"> file.</span></span>
 
-<span data-key="0fd77a23f2a345b9b46c359f7ad7ba89">*server.js*</span>
+<span data-key="0fd77a23f2a345b9b46c359f7ad7ba89">_server.js_</span>
 
 1
 
@@ -624,7 +584,7 @@ Copied!
 
 <span data-key="9f80c910aba444718b5852dc30ecf7b5"><span data-offset-key="9f80c910aba444718b5852dc30ecf7b5:0">Create a new file and name it as\* db.js\*, This file’s Code will be used to store your database connection.</span></span>
 
-<span data-key="97e369d9cbaf40989fbecb0e8552ad86">*db.js*</span>
+<span data-key="97e369d9cbaf40989fbecb0e8552ad86">_db.js_</span>
 
 1
 
@@ -638,7 +598,7 @@ Copied!
 
 <span data-key="4b06a51754324770957055267dd531f9"><span data-offset-key="4b06a51754324770957055267dd531f9:0">add a require() in the app.js, like this</span></span>
 
-<span data-key="438798dfb99c4487a90bfda3b92687fb">*app.js*</span>
+<span data-key="438798dfb99c4487a90bfda3b92687fb">_app.js_</span>
 
 1
 
@@ -658,9 +618,9 @@ Copied!
 
 Copied!
 
-<span data-key="6844a3226b104e68bd203d7b8b8d2fdb"><span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:0">Create a new folder name it </span>*user.js*<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:2">. This folder will contain the </span>*schema*<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:4"> and </span>*model*<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:6">. We Will start by creating a user </span>*model*<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:8">. This </span>*model*<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:10"> will be used as a </span>*schema(\_blueprint) showing what all users in our database will look like. Create a file named \_user.js*<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:12"> and write code into your </span>*user.js*<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:14"> file.</span></span>
+<span data-key="6844a3226b104e68bd203d7b8b8d2fdb"><span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:0">Create a new folder name it </span>_user.js_<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:2">. This folder will contain the </span>_schema_<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:4"> and </span>_model_<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:6">. We Will start by creating a user </span>_model_<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:8">. This </span>_model_<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:10"> will be used as a </span>_schema(\_blueprint) showing what all users in our database will look like. Create a file named \_user.js_<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:12"> and write code into your </span>_user.js_<span data-offset-key="6844a3226b104e68bd203d7b8b8d2fdb:14"> file.</span></span>
 
-<span data-key="bff77e9da4a8444eb5608d46870c96f0">*user.js*</span>
+<span data-key="bff77e9da4a8444eb5608d46870c96f0">_user.js_</span>
 
 1
 
@@ -696,9 +656,9 @@ Copied!
 
 Copied!
 
-<span data-key="0788f21e81434136a0b5603ab8a652ba"><span data-offset-key="0788f21e81434136a0b5603ab8a652ba:0">Create another file, and name it </span>*UserController.js*<span data-offset-key="0788f21e81434136a0b5603ab8a652ba:2">. It will contain the actions which control the flow of data to and fro the database.</span></span>
+<span data-key="0788f21e81434136a0b5603ab8a652ba"><span data-offset-key="0788f21e81434136a0b5603ab8a652ba:0">Create another file, and name it </span>_UserController.js_<span data-offset-key="0788f21e81434136a0b5603ab8a652ba:2">. It will contain the actions which control the flow of data to and fro the database.</span></span>
 
-<span data-key="c667ebfcbeaf47fbbbfe835968922bd5">*UserController.js*<span data-offset-key="c667ebfcbeaf47fbbbfe835968922bd5:1">\\</span></span>
+<span data-key="c667ebfcbeaf47fbbbfe835968922bd5">_UserController.js_<span data-offset-key="c667ebfcbeaf47fbbbfe835968922bd5:1">\\</span></span>
 
 <span data-key="9f1fd980778847aab342717e82f3270f"><span data-offset-key="9f1fd980778847aab342717e82f3270f:0"><span data-slate-zero-width="n">​</span></span></span>
 
@@ -820,7 +780,7 @@ Copied!
 
 Copied!
 
-<span data-key="3580d0ec832e4646baa85fc15a2a7109"><span data-offset-key="3580d0ec832e4646baa85fc15a2a7109:0">Now, you need to let the application know that it has a </span>*UserController.js.*<span data-offset-key="3580d0ec832e4646baa85fc15a2a7109:2"> Add this to your </span>*app.js.*</span>
+<span data-key="3580d0ec832e4646baa85fc15a2a7109"><span data-offset-key="3580d0ec832e4646baa85fc15a2a7109:0">Now, you need to let the application know that it has a </span>_UserController.js._<span data-offset-key="3580d0ec832e4646baa85fc15a2a7109:2"> Add this to your </span>_app.js._</span>
 
 <span data-key="d3d84ef2058a4c32a41863f8704aa659"><span data-offset-key="d3d84ef2058a4c32a41863f8704aa659:0">\_Your previous app.js \_file</span></span>
 
@@ -896,7 +856,7 @@ Copied!
 
 <span data-key="7d25b26bb1884a3d85eb525fbad18fe5">**Delete a User From the Database**</span>
 
-<span data-key="63bf4f91da2e43bbadf1b7f31d15c41b">*UserController.js*</span>
+<span data-key="63bf4f91da2e43bbadf1b7f31d15c41b">_UserController.js_</span>
 
 1
 
@@ -924,13 +884,13 @@ Copied!
 
 Copied!
 
-<span data-key="3aafa1130a144f7a8f736a5922712160"><span data-offset-key="3aafa1130a144f7a8f736a5922712160:0">The </span>*router.delete()*<span data-offset-key="3aafa1130a144f7a8f736a5922712160:2"> method is same as the </span>*router.get()*<span data-offset-key="3aafa1130a144f7a8f736a5922712160:4">. We will remove a user from the database by giving ID of the user we want to delete. The </span>*.findByIdAndRemove()*<span data-offset-key="3aafa1130a144f7a8f736a5922712160:6"> method will find a user and delete it from the database.</span></span>
+<span data-key="3aafa1130a144f7a8f736a5922712160"><span data-offset-key="3aafa1130a144f7a8f736a5922712160:0">The </span>_router.delete()_<span data-offset-key="3aafa1130a144f7a8f736a5922712160:2"> method is same as the </span>_router.get()_<span data-offset-key="3aafa1130a144f7a8f736a5922712160:4">. We will remove a user from the database by giving ID of the user we want to delete. The </span>_.findByIdAndRemove()_<span data-offset-key="3aafa1130a144f7a8f736a5922712160:6"> method will find a user and delete it from the database.</span></span>
 
 <span data-key="85579222b19948928c33e114587bd3cb"><span data-offset-key="85579222b19948928c33e114587bd3cb:0">The final step in Our application will be updating an existing user in the database. This is done with a PUT request.</span></span>
 
 <span data-key="9858f73656504836bcaa4f5c26a1fd1f">**Updates a Single User in the Database**</span>
 
-<span data-key="e48708bd7b1d46bea4502b20c7443eab">*UserController.js*</span>
+<span data-key="e48708bd7b1d46bea4502b20c7443eab">_UserController.js_</span>
 
 1
 
@@ -958,7 +918,7 @@ Copied!
 
 Copied!
 
-<span data-key="563287fd09b34b96900d20fa884db8ab"><span data-offset-key="563287fd09b34b96900d20fa884db8ab:0">The </span>*router.put()*<span data-offset-key="563287fd09b34b96900d20fa884db8ab:2"> request is very similar to the two requests above. It also takes one query parameter and ID. It is different in a way that it also takes body parameters, just like the POST request we wrote first. The only HTTP methods which have a body are POST and PUT.</span></span>
+<span data-key="563287fd09b34b96900d20fa884db8ab"><span data-offset-key="563287fd09b34b96900d20fa884db8ab:0">The </span>_router.put()_<span data-offset-key="563287fd09b34b96900d20fa884db8ab:2"> request is very similar to the two requests above. It also takes one query parameter and ID. It is different in a way that it also takes body parameters, just like the POST request we wrote first. The only HTTP methods which have a body are POST and PUT.</span></span>
 
 <span data-key="0a83084bdc024c88a3f2f7cb4011fd85"><span data-offset-key="0a83084bdc024c88a3f2f7cb4011fd85:0">ExpressJS Routing : URL Routes for Sending Response</span></span>
 
@@ -966,21 +926,13 @@ Copied!
 
 <span data-key="dd85ae9fb40a4aa49e617fef6056eed9"><span data-offset-key="dd85ae9fb40a4aa49e617fef6056eed9:0">\*\*Topics Covered \*\*</span></span>
 
--   
+- <span data-key="626f5d52dc614fa8913d82a38f225c02"><span data-offset-key="626f5d52dc614fa8913d82a38f225c02:0">Home Route – Opening home page on server</span></span>
 
-    <span data-key="626f5d52dc614fa8913d82a38f225c02"><span data-offset-key="626f5d52dc614fa8913d82a38f225c02:0">Home Route – Opening home page on server</span></span>
+- <span data-key="7dce930911b344d9b066cebe6ee9ae25"><span data-offset-key="7dce930911b344d9b066cebe6ee9ae25:0">HTML File Route – Open HTML page on server</span></span>
 
--   
+- <span data-key="d5166e5014684e178718e048ddb04a78"><span data-offset-key="d5166e5014684e178718e048ddb04a78:0">json Route – Open json response on the route</span></span>
 
-    <span data-key="7dce930911b344d9b066cebe6ee9ae25"><span data-offset-key="7dce930911b344d9b066cebe6ee9ae25:0">HTML File Route – Open HTML page on server</span></span>
-
--   
-
-    <span data-key="d5166e5014684e178718e048ddb04a78"><span data-offset-key="d5166e5014684e178718e048ddb04a78:0">json Route – Open json response on the route</span></span>
-
--   
-
-    <span data-key="ef5493d0ba83491393e7cc4b65ea5fb7"><span data-offset-key="ef5493d0ba83491393e7cc4b65ea5fb7:0">File Route – Send a complete file on the route section</span></span>
+- <span data-key="ef5493d0ba83491393e7cc4b65ea5fb7"><span data-offset-key="ef5493d0ba83491393e7cc4b65ea5fb7:0">File Route – Send a complete file on the route section</span></span>
 
 <span data-key="eb23807d389143fbac863a8844ec9b35">**Home Route – Opening home page on server**</span>
 
@@ -1410,11 +1362,11 @@ Copied!
 
 <span data-key="09ad98fc79c440bf8ed9e45446ecee0d"><span data-offset-key="09ad98fc79c440bf8ed9e45446ecee0d:0">ExpressJS Scaffolding</span></span>
 
-<span data-key="6eb817722a344b16a7c60cd4a4e060ff"><span data-offset-key="6eb817722a344b16a7c60cd4a4e060ff:0">It is important to create RESTful API while working with ExpressJS. If you will create API you will have to go through a number of operations for the client request to be done. For any particular task, we use so many files like HTML, CSS, JAVASCRIPT, IMAGES and so on. To manage these files in directories and to create a proper structure we use </span>*Scaffolding*<span data-offset-key="6eb817722a344b16a7c60cd4a4e060ff:2">.</span></span>
+<span data-key="6eb817722a344b16a7c60cd4a4e060ff"><span data-offset-key="6eb817722a344b16a7c60cd4a4e060ff:0">It is important to create RESTful API while working with ExpressJS. If you will create API you will have to go through a number of operations for the client request to be done. For any particular task, we use so many files like HTML, CSS, JAVASCRIPT, IMAGES and so on. To manage these files in directories and to create a proper structure we use </span>_Scaffolding_<span data-offset-key="6eb817722a344b16a7c60cd4a4e060ff:2">.</span></span>
 
 <span data-key="e2147ee2721b456a817594ebd6f20e14"><span data-offset-key="e2147ee2721b456a817594ebd6f20e14:0">Scaffolding allows us to create a skeleton for a web application when we work with ExpressJS. We manually create our public directory, add middleware, create separate route files, etc. A scaffolding tool sets up all these things for us so that we can directly get started with building our application. For this, we have a number of modules like Yeoman and Express-generator.</span></span>
 
-<span data-key="00063c6d342248c093258aa1621af8ec"><span data-offset-key="00063c6d342248c093258aa1621af8ec:0">We are going to start Scaffolding using the </span>*Express-generator*<span data-offset-key="00063c6d342248c093258aa1621af8ec:2"> module. For this, we have to install express-generator module.</span></span>
+<span data-key="00063c6d342248c093258aa1621af8ec"><span data-offset-key="00063c6d342248c093258aa1621af8ec:0">We are going to start Scaffolding using the </span>_Express-generator_<span data-offset-key="00063c6d342248c093258aa1621af8ec:2"> module. For this, we have to install express-generator module.</span></span>
 
 <span data-key="2e850313373e49db84a7dc0978fd1fa5"><span data-offset-key="2e850313373e49db84a7dc0978fd1fa5:0">Firstly, you need to open the folder in your editor where you want to work. I have opened ‘example’ folder in Visual Studio Code because I want to work here, Then open the terminal and install the Express-generator module. For this installation run the following command : –</span></span>
 
@@ -1998,7 +1950,7 @@ Copied!
 
 Copied!
 
-<span data-key="def7d5c39c5f470991c00986bc922b61"><span data-offset-key="def7d5c39c5f470991c00986bc922b61:0">Now we come to the </span>*package.json*<span data-offset-key="def7d5c39c5f470991c00986bc922b61:2"> file. Here You can see all the dependencies are specified here like body-parser, cookie-parser which we have used in our app.js file. You can also see this “start” : “ node ./bin/www” . here ‘start’ is a command and whenever you will call this start command, internally it will execute node WWW file. So this line makes the www file as a startup thing.</span></span>
+<span data-key="def7d5c39c5f470991c00986bc922b61"><span data-offset-key="def7d5c39c5f470991c00986bc922b61:0">Now we come to the </span>_package.json_<span data-offset-key="def7d5c39c5f470991c00986bc922b61:2"> file. Here You can see all the dependencies are specified here like body-parser, cookie-parser which we have used in our app.js file. You can also see this “start” : “ node ./bin/www” . here ‘start’ is a command and whenever you will call this start command, internally it will execute node WWW file. So this line makes the www file as a startup thing.</span></span>
 
 1
 

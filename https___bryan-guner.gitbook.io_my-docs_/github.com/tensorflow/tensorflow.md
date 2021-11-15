@@ -2,80 +2,83 @@
 
 <a href="https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&amp;source=header-repo" class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5">Sign up</a>
 
--   Why GitHub?
-    -   <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- Why GitHub?
 
--   <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
--   <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
--   Explore
-    -   <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Learn and contribute
-    -   <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Connect with others
-    -   <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
--   <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
--   Pricing
-    -   <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
+- <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
+- Explore
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+  - <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Learn and contribute
+  - <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Connect with others
+  - <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+- <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
+- Pricing
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  - <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <!-- -->
 
--   <span class="color-fg-muted">No suggested jump to results</span>
+- <span class="color-fg-muted">No suggested jump to results</span>
 
 <!-- -->
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this organization"> In this organization </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this organization"> In this organization </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ftensorflow%2Ftensorflow" class="HeaderMenu-link flex-shrink-0 no-underline">Sign in</a>
 
@@ -83,14 +86,13 @@
 
 {{ message }}
 
-<span class="author flex-self-stretch" itemprop="author"> <a href="https://github.com/tensorflow" class="url fn">tensorflow</a> </span> <span class="mx-1 flex-self-stretch color-fg-muted">/</span> **[tensorflow](https://github.com/tensorflow/tensorflow)** <span class="Label Label--secondary v-align-middle mr-1">Public</span>
-======================================================================================================================================================================================================================================================================================================================================
+# <span class="author flex-self-stretch" itemprop="author"> <a href="https://github.com/tensorflow" class="url fn">tensorflow</a> </span> <span class="mx-1 flex-self-stretch color-fg-muted">/</span> **[tensorflow](https://github.com/tensorflow/tensorflow)** <span class="Label Label--secondary v-align-middle mr-1">Public</span>
 
--   Notifications
--   <span data-view-component="true"> Star </span> <a href="https://github.com/tensorflow/tensorflow/stargazers" class="social-count js-social-count">161k</a>
+- Notifications
+- <span data-view-component="true"> Star </span> <a href="https://github.com/tensorflow/tensorflow/stargazers" class="social-count js-social-count">161k</a>
 
--   Fork <a href="https://github.com/tensorflow/tensorflow/network/members" class="social-count">85.8k</a>
--   
+- Fork <a href="https://github.com/tensorflow/tensorflow/network/members" class="social-count">85.8k</a>
+-
 
 An Open Source Machine Learning Framework for Everyone
 
@@ -106,23 +108,23 @@ Apache-2.0 License
 
 Notifications
 
--   <span data-content="Code">Code</span> <span id="code-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Issues">Issues</span> <span id="issues-repo-tab-count" class="Counter" data-pjax-replace="" title="2,706" data-view-component="true">2.7k</span>
--   <span data-content="Pull requests">Pull requests</span> <span id="pull-requests-repo-tab-count" class="Counter" data-pjax-replace="" title="151" data-view-component="true">151</span>
--   <span data-content="Actions">Actions</span> <span id="actions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Projects">Projects</span> <span id="projects-repo-tab-count" class="Counter" data-pjax-replace="" title="1" data-view-component="true">1</span>
--   <span data-content="Security">Security</span>
--   <span data-content="Insights">Insights</span> <span id="insights-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Code">Code</span> <span id="code-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Issues">Issues</span> <span id="issues-repo-tab-count" class="Counter" data-pjax-replace="" title="2,706" data-view-component="true">2.7k</span>
+- <span data-content="Pull requests">Pull requests</span> <span id="pull-requests-repo-tab-count" class="Counter" data-pjax-replace="" title="151" data-view-component="true">151</span>
+- <span data-content="Actions">Actions</span> <span id="actions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Projects">Projects</span> <span id="projects-repo-tab-count" class="Counter" data-pjax-replace="" title="1" data-view-component="true">1</span>
+- <span data-content="Security">Security</span>
+- <span data-content="Insights">Insights</span> <span id="insights-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
 
 <span class="sr-only">More</span>
 
--   <a href="https://github.com/tensorflow/tensorflow" class="js-selected-navigation-item selected dropdown-item">Code</a>
--   <a href="https://github.com/tensorflow/tensorflow/issues" class="js-selected-navigation-item dropdown-item">Issues</a>
--   <a href="https://github.com/tensorflow/tensorflow/pulls" class="js-selected-navigation-item dropdown-item">Pull requests</a>
--   <a href="https://github.com/tensorflow/tensorflow/actions" class="js-selected-navigation-item dropdown-item">Actions</a>
--   <a href="https://github.com/tensorflow/tensorflow/projects" class="js-selected-navigation-item dropdown-item">Projects</a>
--   <a href="https://github.com/tensorflow/tensorflow/security" class="js-selected-navigation-item dropdown-item">Security</a>
--   <a href="https://github.com/tensorflow/tensorflow/pulse" class="js-selected-navigation-item dropdown-item">Insights</a>
+- <a href="https://github.com/tensorflow/tensorflow" class="js-selected-navigation-item selected dropdown-item">Code</a>
+- <a href="https://github.com/tensorflow/tensorflow/issues" class="js-selected-navigation-item dropdown-item">Issues</a>
+- <a href="https://github.com/tensorflow/tensorflow/pulls" class="js-selected-navigation-item dropdown-item">Pull requests</a>
+- <a href="https://github.com/tensorflow/tensorflow/actions" class="js-selected-navigation-item dropdown-item">Actions</a>
+- <a href="https://github.com/tensorflow/tensorflow/projects" class="js-selected-navigation-item dropdown-item">Projects</a>
+- <a href="https://github.com/tensorflow/tensorflow/security" class="js-selected-navigation-item dropdown-item">Security</a>
+- <a href="https://github.com/tensorflow/tensorflow/pulse" class="js-selected-navigation-item dropdown-item">Insights</a>
 
 <span class="css-truncate-target" data-menu-button="">master</span> <span class="dropdown-caret"></span>
 
@@ -162,8 +164,7 @@ Code<span class="dropdown-caret"></span>
 
 <span class="sr-only">Loading</span>
 
-Latest commit
--------------
+## Latest commit
 
 <a href="https://github.com/abattery" class="avatar avatar-user"><img src="https://avatars.githubusercontent.com/u/3203059?s=48&amp;v=4" alt="@abattery" class="avatar-user" width="24" height="24" /></a> <a href="https://github.com/tensorflower-gardener" class="avatar avatar-user"><img src="https://avatars.githubusercontent.com/u/17151892?s=48&amp;v=4" alt="@tensorflower-gardener" class="avatar-user" width="24" height="24" /></a>
 
@@ -196,13 +197,11 @@ Change-Id: I354825fd769cc278da377f17edced8e29ae8c17a">Update TFLite concrete fun
 
 `f641d4f`
 
-Git stats
----------
+## Git stats
 
--   <span class="d-none d-sm-inline"> **121,119** <span class="color-fg-muted d-none d-lg-inline" aria-label="Commits on master"> commits </span> </span>
+- <span class="d-none d-sm-inline"> **121,119** <span class="color-fg-muted d-none d-lg-inline" aria-label="Commits on master"> commits </span> </span>
 
-Files
------
+## Files
 
 <a href="https://github.com/tensorflow/tensorflow/tree/f641d4fe286e6a543fabce462717237d66c7d596" class="d-none js-permalink-shortcut">Permalink</a>
 
@@ -220,9 +219,9 @@ Commit time
 
 <span class="css-truncate css-truncate-target d-block width-fit markdown-title"> <a href="https://github.com/tensorflow/tensorflow/commit/5d664355d3c9be4f1f7de68922e1b2cfbdce5628" class="Link--secondary" title="CI: Use Python 3.9 for PyLint presubmit action
 
- - Use Python 3.9 instead of Python 3.8 for PyLint presubmit action.
- - Update the setup-python action to v2, which is actively maintained.
- - Parse the Python version as a string (&quot;3.9&quot; instead of 3.9), since otherwise  Python 3.10 will be rounded and processed as Python 3.1.">CI: Use Python 3.9 for PyLint presubmit action</a> </span>
+- Use Python 3.9 instead of Python 3.8 for PyLint presubmit action.
+- Update the setup-python action to v2, which is actively maintained.
+- Parse the Python version as a string (&quot;3.9&quot; instead of 3.9), since otherwise Python 3.10 will be rounded and processed as Python 3.1.">CI: Use Python 3.9 for PyLint presubmit action</a> </span>
 
 Nov 4, 2021
 
@@ -313,21 +312,21 @@ May 18, 2021
 
 Changes:
 
-* error message that refers to removed `DefaultSession` method.
-* -Wnull-conversion warnings
-* the &quot;_start_time&quot; attr for recvs when the flag &quot;--brain_enable_scheduling_for_recvs&quot; is set.
-* typo in tutorial data download progress message.
-* a typo (&quot;however their installing&quot;=&gt;&quot;however installing&quot;).
-* typo, rename &quot;TensorFlow Mechanics&quot; to &quot;How To&quot; to be consistent with the website.
-* a typo (&quot;subtact&quot;=&gt;&quot;subtract&quot;).
-* protobuf examples in comments in tensorflow::Example.proto.
-* formula formatting in MNIST beginner tutorial
-* negative fraction-of-queue-full stats
-* protobuf inclusion path so that Android demo will build under Blaze.
-* small typo (moderatly &gt; moderately)
-* Session.run() to check that tensor arguments come from the session&#39;s graph.
-* another six import
-* seq2seq typo in bazel command
+- error message that refers to removed `DefaultSession` method.
+- -Wnull-conversion warnings
+- the &quot;\_start_time&quot; attr for recvs when the flag &quot;--brain_enable_scheduling_for_recvs&quot; is set.
+- typo in tutorial data download progress message.
+- a typo (&quot;however their installing&quot;=&gt;&quot;however installing&quot;).
+- typo, rename &quot;TensorFlow Mechanics&quot; to &quot;How To&quot; to be consistent with the website.
+- a typo (&quot;subtact&quot;=&gt;&quot;subtract&quot;).
+- protobuf examples in comments in tensorflow::Example.proto.
+- formula formatting in MNIST beginner tutorial
+- negative fraction-of-queue-full stats
+- protobuf inclusion path so that Android demo will build under Blaze.
+- small typo (moderatly &gt; moderately)
+- Session.run() to check that tensor arguments come from the session&#39;s graph.
+- another six import
+- seq2seq typo in bazel command
 
 Base CL: 108349164">TensorFlow: Improve performance of Alexnet</a> </span>
 
@@ -464,7 +463,7 @@ Apr 12, 2021
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/tensorflow/tensorflow/blob/master/configure" class="js-navigation-open Link--primary" title="configure">configure</a></span>
 
-<span class="css-truncate css-truncate-target d-block width-fit markdown-title"> <a href="https://github.com/tensorflow/tensorflow/commit/5ba24e758e1c4142fd15e0e1cb8111135b406984" class="Link--secondary" title="perfer python3 to compile 
+<span class="css-truncate css-truncate-target d-block width-fit markdown-title"> <a href="https://github.com/tensorflow/tensorflow/commit/5ba24e758e1c4142fd15e0e1cb8111135b406984" class="Link--secondary" title="perfer python3 to compile
 
 `which python` may direct to python2. make `which python3` ahead of `which python` may be better.">perfer python3 to compile</a> </span>
 
@@ -480,12 +479,12 @@ Aug 11, 2020
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/tensorflow/tensorflow/blob/master/configure.py" class="js-navigation-open Link--primary" title="configure.py">configure.py</a></span>
 
-<span class="css-truncate css-truncate-target d-block width-fit markdown-title"> <a href="https://github.com/tensorflow/tensorflow/commit/87462bfac761435a46641ff2f10ad0b6e5414a4b" class="Link--secondary" title="Removed &quot;from __future__ import *&quot; lines from Python code.
+<span class="css-truncate css-truncate-target d-block width-fit markdown-title"> <a href="https://github.com/tensorflow/tensorflow/commit/87462bfac761435a46641ff2f10ad0b6e5414a4b" class="Link--secondary" title="Removed &quot;from **future** import \*&quot; lines from Python code.
 
-These are a holdover from the transition from Python 2.* to Python 3.*.
+These are a holdover from the transition from Python 2._ to Python 3._.
 
 PiperOrigin-RevId: 399530502
-Change-Id: I1c8b893fd7f5eeb5eb51b2e2c38c3b73ec5b9903">Removed "from __future__ import *" lines from Python code.</a> </span>
+Change-Id: I1c8b893fd7f5eeb5eb51b2e2c38c3b73ec5b9903">Removed "from **future** import \*" lines from Python code.</a> </span>
 
 Sep 28, 2021
 
@@ -500,8 +499,7 @@ View code
 
 <a href="#install" class="filter-item SelectMenu-item py-1">Install</a> <a href="#try-your-first-tensorflow-program" class="filter-item SelectMenu-item py-1">Try your first TensorFlow program</a> <a href="#contribution-guidelines" class="filter-item SelectMenu-item py-1">Contribution guidelines</a> <a href="#continuous-build-status" class="filter-item SelectMenu-item py-1">Continuous build status</a> <a href="#official-builds" class="filter-item SelectMenu-item py-1">Official Builds</a> <a href="#resources" class="filter-item SelectMenu-item py-1">Resources</a> <a href="#license" class="filter-item SelectMenu-item py-1">License</a>
 
-<a href="#readme" class="Link--primary">README.md</a>
------------------------------------------------------
+## <a href="#readme" class="Link--primary">README.md</a>
 
 [![](https://camo.githubusercontent.com/aeb4f612bd9b40d81c62fcbebd6db44a5d4344b8b962be0138817e18c9c06963/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67)](https://camo.githubusercontent.com/aeb4f612bd9b40d81c62fcbebd6db44a5d4344b8b962be0138817e18c9c06963/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67)
 
@@ -517,12 +515,11 @@ TensorFlow provides stable [Python](https://www.tensorflow.org/api_docs/python) 
 
 Keep up-to-date with release announcements and security updates by subscribing to [announce@tensorflow.org](https://groups.google.com/a/tensorflow.org/forum/#!forum/announce). See all the [mailing lists](https://www.tensorflow.org/community/forums).
 
-<a href="#install" id="user-content-install" class="anchor"></a>Install
------------------------------------------------------------------------
+## <a href="#install" id="user-content-install" class="anchor"></a>Install
 
 See the [TensorFlow install guide](https://www.tensorflow.org/install) for the [pip package](https://www.tensorflow.org/install/pip), to [enable GPU support](https://www.tensorflow.org/install/gpu), use a [Docker container](https://www.tensorflow.org/install/docker), and [build from source](https://www.tensorflow.org/install/source).
 
-To install the current release, which includes support for [CUDA-enabled GPU cards](https://www.tensorflow.org/install/gpu) *(Ubuntu and Windows)*:
+To install the current release, which includes support for [CUDA-enabled GPU cards](https://www.tensorflow.org/install/gpu) _(Ubuntu and Windows)_:
 
     $ pip install tensorflow
 
@@ -532,9 +529,9 @@ A smaller CPU-only package is also available:
 
 To update TensorFlow to the latest version, add `--upgrade` flag to the above commands.
 
-*Nightly binaries are available for testing using the [tf-nightly](https://pypi.python.org/pypi/tf-nightly) and [tf-nightly-cpu](https://pypi.python.org/pypi/tf-nightly-cpu) packages on PyPi.*
+_Nightly binaries are available for testing using the [tf-nightly](https://pypi.python.org/pypi/tf-nightly) and [tf-nightly-cpu](https://pypi.python.org/pypi/tf-nightly-cpu) packages on PyPi._
 
-#### <a href="#try-your-first-tensorflow-program" id="user-content-try-your-first-tensorflow-program" class="anchor"></a>*Try your first TensorFlow program*
+#### <a href="#try-your-first-tensorflow-program" id="user-content-try-your-first-tensorflow-program" class="anchor"></a>_Try your first TensorFlow program_
 
     $ python
 
@@ -547,8 +544,7 @@ To update TensorFlow to the latest version, add `--upgrade` flag to the above co
 
 For more examples, see the [TensorFlow tutorials](https://www.tensorflow.org/tutorials/).
 
-<a href="#contribution-guidelines" id="user-content-contribution-guidelines" class="anchor"></a>Contribution guidelines
------------------------------------------------------------------------------------------------------------------------
+## <a href="#contribution-guidelines" id="user-content-contribution-guidelines" class="anchor"></a>Contribution guidelines
 
 **If you want to contribute to TensorFlow, be sure to review the [contribution guidelines](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md). This project adheres to TensorFlow's [code of conduct](https://github.com/tensorflow/tensorflow/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.**
 
@@ -558,8 +554,7 @@ The TensorFlow project strives to abide by generally accepted best practices in 
 
 [![Fuzzing Status](https://camo.githubusercontent.com/87d23d7502de97601233a1e2017d39587ffc81b808f8614340274c04d16f107d/68747470733a2f2f6f73732d66757a7a2d6275696c642d6c6f67732e73746f726167652e676f6f676c65617069732e636f6d2f6261646765732f74656e736f72666c6f772e737667)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:tensorflow) [![CII Best Practices](https://camo.githubusercontent.com/43f5eeef33e143d0ad8e7e836c5bac233be219acf1693404431354e12c9a3618/68747470733a2f2f626573747072616374696365732e636f7265696e6672617374727563747572652e6f72672f70726f6a656374732f313438362f6261646765)](https://bestpractices.coreinfrastructure.org/projects/1486) [![Contributor Covenant](https://camo.githubusercontent.com/667129112c77850dbddb0056d583058f4d1e2856592b1bb3c2639d7f7ff60fa1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72253230436f76656e616e742d76312e3425323061646f707465642d6666363962342e737667)](https://github.com/tensorflow/tensorflow/blob/master/CODE_OF_CONDUCT.md)
 
-<a href="#continuous-build-status" id="user-content-continuous-build-status" class="anchor"></a>Continuous build status
------------------------------------------------------------------------------------------------------------------------
+## <a href="#continuous-build-status" id="user-content-continuous-build-status" class="anchor"></a>Continuous build status
 
 You can find more community-supported platforms and configurations in the [TensorFlow SIG Build community builds table](https://github.com/tensorflow/build#community-supported-tensorflow-builds).
 
@@ -567,40 +562,37 @@ You can find more community-supported platforms and configurations in the [Tenso
 
 <table><thead><tr class="header"><th>Build Type</th><th>Status</th><th>Artifacts</th></tr></thead><tbody><tr class="odd"><td><strong>Linux CPU</strong></td><td><a href="https://storage.googleapis.com/tensorflow-kokoro-build-badges/ubuntu-cc.html"><img src="https://camo.githubusercontent.com/a5b9c11b77e5cf19981a343306c94e595dc0039730330bfbbc4c5c1d72844d2a/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f74656e736f72666c6f772d6b6f6b6f726f2d6275696c642d6261646765732f7562756e74752d63632e737667" alt="Status" /></a></td><td><a href="https://pypi.org/project/tf-nightly/">PyPI</a></td></tr><tr class="even"><td><strong>Linux GPU</strong></td><td><a href="https://storage.googleapis.com/tensorflow-kokoro-build-badges/ubuntu-gpu-py3.html"><img src="https://camo.githubusercontent.com/7ad1198903fa13dbf24b9d45233c829fb9f447a529d7b7482b508fe0b5d0f7a1/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f74656e736f72666c6f772d6b6f6b6f726f2d6275696c642d6261646765732f7562756e74752d6770752d7079332e737667" alt="Status" /></a></td><td><a href="https://pypi.org/project/tf-nightly-gpu/">PyPI</a></td></tr><tr class="odd"><td><strong>Linux XLA</strong></td><td><a href="https://storage.googleapis.com/tensorflow-kokoro-build-badges/ubuntu-xla.html"><img src="https://camo.githubusercontent.com/7bf6c6d3ddea0e7a88e1b985b86c5a904a6b4d707c5f3acf1d77a5c296e24b69/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f74656e736f72666c6f772d6b6f6b6f726f2d6275696c642d6261646765732f7562756e74752d786c612e737667" alt="Status" /></a></td><td>TBA</td></tr><tr class="even"><td><strong>macOS</strong></td><td><a href="https://storage.googleapis.com/tensorflow-kokoro-build-badges/macos-py2-cc.html"><img src="https://camo.githubusercontent.com/6f2a0384d94220d679bf8c59f305f0a0dceec5c54674b95f1712912b05ce21d9/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f74656e736f72666c6f772d6b6f6b6f726f2d6275696c642d6261646765732f6d61636f732d7079322d63632e737667" alt="Status" /></a></td><td><a href="https://pypi.org/project/tf-nightly/">PyPI</a></td></tr><tr class="odd"><td><strong>Windows CPU</strong></td><td><a href="https://storage.googleapis.com/tensorflow-kokoro-build-badges/windows-cpu.html"><img src="https://camo.githubusercontent.com/32f681a5a7dd1474cf4897e026810037038bf9c8abcf0737b29fb1fc7f4cbc4d/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f74656e736f72666c6f772d6b6f6b6f726f2d6275696c642d6261646765732f77696e646f77732d6370752e737667" alt="Status" /></a></td><td><a href="https://pypi.org/project/tf-nightly/">PyPI</a></td></tr><tr class="even"><td><strong>Windows GPU</strong></td><td><a href="https://storage.googleapis.com/tensorflow-kokoro-build-badges/windows-gpu.html"><img src="https://camo.githubusercontent.com/934d605d0642e891e067b434276bb9e60b3a8c6aac17f039eaa18260af208ac4/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f74656e736f72666c6f772d6b6f6b6f726f2d6275696c642d6261646765732f77696e646f77732d6770752e737667" alt="Status" /></a></td><td><a href="https://pypi.org/project/tf-nightly-gpu/">PyPI</a></td></tr><tr class="odd"><td><strong>Android</strong></td><td><a href="https://storage.googleapis.com/tensorflow-kokoro-build-badges/android.html"><img src="https://camo.githubusercontent.com/fb27c00627db2bcd0c40081ed118bc2409ee1f04060e390490a02c4c349c3758/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f74656e736f72666c6f772d6b6f6b6f726f2d6275696c642d6261646765732f616e64726f69642e737667" alt="Status" /></a></td><td><a href="https://bintray.com/google/tensorflow/tensorflow/_latestVersion">Download</a></td></tr><tr class="even"><td><strong>Raspberry Pi 0 and 1</strong></td><td><a href="https://storage.googleapis.com/tensorflow-kokoro-build-badges/rpi01-py3.html"><img src="https://camo.githubusercontent.com/a477ec5650d3742c248922a478e2ad6b7feac5e13b951a2f45cf5514df439aad/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f74656e736f72666c6f772d6b6f6b6f726f2d6275696c642d6261646765732f72706930312d7079332e737667" alt="Status" /></a></td><td><a href="https://storage.googleapis.com/tensorflow-nightly/tensorflow-1.10.0-cp34-none-linux_armv6l.whl">Py3</a></td></tr><tr class="odd"><td><strong>Raspberry Pi 2 and 3</strong></td><td><a href="https://storage.googleapis.com/tensorflow-kokoro-build-badges/rpi23-py3.html"><img src="https://camo.githubusercontent.com/2810c55750b99c67b69ecd3b61c80f5c0e574fec6f0baf4d0ab958a3a0ff926c/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f74656e736f72666c6f772d6b6f6b6f726f2d6275696c642d6261646765732f72706932332d7079332e737667" alt="Status" /></a></td><td><a href="https://storage.googleapis.com/tensorflow-nightly/tensorflow-1.10.0-cp34-none-linux_armv7l.whl">Py3</a></td></tr><tr class="even"><td><strong>Libtensorflow MacOS CPU</strong></td><td>Status Temporarily Unavailable</td><td><a href="https://storage.googleapis.com/libtensorflow-nightly/prod/tensorflow/release/macos/latest/macos_cpu_libtensorflow_binaries.tar.gz">Nightly Binary</a> <a href="https://storage.googleapis.com/tensorflow/">Official GCS</a></td></tr><tr class="odd"><td><strong>Libtensorflow Linux CPU</strong></td><td>Status Temporarily Unavailable</td><td><a href="https://storage.googleapis.com/libtensorflow-nightly/prod/tensorflow/release/ubuntu_16/latest/cpu/ubuntu_cpu_libtensorflow_binaries.tar.gz">Nightly Binary</a> <a href="https://storage.googleapis.com/tensorflow/">Official GCS</a></td></tr><tr class="even"><td><strong>Libtensorflow Linux GPU</strong></td><td>Status Temporarily Unavailable</td><td><a href="https://storage.googleapis.com/libtensorflow-nightly/prod/tensorflow/release/ubuntu_16/latest/gpu/ubuntu_gpu_libtensorflow_binaries.tar.gz">Nightly Binary</a> <a href="https://storage.googleapis.com/tensorflow/">Official GCS</a></td></tr><tr class="odd"><td><strong>Libtensorflow Windows CPU</strong></td><td>Status Temporarily Unavailable</td><td><a href="https://storage.googleapis.com/libtensorflow-nightly/prod/tensorflow/release/windows/latest/cpu/windows_cpu_libtensorflow_binaries.tar.gz">Nightly Binary</a> <a href="https://storage.googleapis.com/tensorflow/">Official GCS</a></td></tr><tr class="even"><td><strong>Libtensorflow Windows GPU</strong></td><td>Status Temporarily Unavailable</td><td><a href="https://storage.googleapis.com/libtensorflow-nightly/prod/tensorflow/release/windows/latest/gpu/windows_gpu_libtensorflow_binaries.tar.gz">Nightly Binary</a> <a href="https://storage.googleapis.com/tensorflow/">Official GCS</a></td></tr></tbody></table>
 
-<a href="#resources" id="user-content-resources" class="anchor"></a>Resources
------------------------------------------------------------------------------
+## <a href="#resources" id="user-content-resources" class="anchor"></a>Resources
 
--   [TensorFlow.org](https://www.tensorflow.org/)
--   [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/)
--   [TensorFlow Official Models](https://github.com/tensorflow/models/tree/master/official)
--   [TensorFlow Examples](https://github.com/tensorflow/examples)
--   [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/specializations/tensorflow-in-practice)
--   [TensorFlow: Data and Deployment from Coursera](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
--   [Getting Started with TensorFlow 2 from Coursera](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
--   [TensorFlow: Advanced Techniques from Coursera](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
--   [TensorFlow 2 for Deep Learning Specialization from Coursera](https://www.coursera.org/specializations/tensorflow2-deeplearning)
--   [Intro to TensorFlow for A.I, M.L, and D.L from Coursera](https://www.coursera.org/learn/introduction-tensorflow)
--   [Intro to TensorFlow for Deep Learning from Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
--   [Introduction to TensorFlow Lite from Udacity](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
--   [Machine Learning with TensorFlow on GCP](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
--   [TensorFlow Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)
--   [TensorFlow Blog](https://blog.tensorflow.org/)
--   [Learn ML with TensorFlow](https://www.tensorflow.org/resources/learn-ml)
--   [TensorFlow Twitter](https://twitter.com/tensorflow)
--   [TensorFlow YouTube](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
--   [TensorFlow model optimization roadmap](https://www.tensorflow.org/model_optimization/guide/roadmap)
--   [TensorFlow White Papers](https://www.tensorflow.org/about/bib)
--   [TensorBoard Visualization Toolkit](https://github.com/tensorflow/tensorboard)
+- [TensorFlow.org](https://www.tensorflow.org/)
+- [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/)
+- [TensorFlow Official Models](https://github.com/tensorflow/models/tree/master/official)
+- [TensorFlow Examples](https://github.com/tensorflow/examples)
+- [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/specializations/tensorflow-in-practice)
+- [TensorFlow: Data and Deployment from Coursera](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
+- [Getting Started with TensorFlow 2 from Coursera](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
+- [TensorFlow: Advanced Techniques from Coursera](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
+- [TensorFlow 2 for Deep Learning Specialization from Coursera](https://www.coursera.org/specializations/tensorflow2-deeplearning)
+- [Intro to TensorFlow for A.I, M.L, and D.L from Coursera](https://www.coursera.org/learn/introduction-tensorflow)
+- [Intro to TensorFlow for Deep Learning from Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [Introduction to TensorFlow Lite from Udacity](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
+- [Machine Learning with TensorFlow on GCP](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- [TensorFlow Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)
+- [TensorFlow Blog](https://blog.tensorflow.org/)
+- [Learn ML with TensorFlow](https://www.tensorflow.org/resources/learn-ml)
+- [TensorFlow Twitter](https://twitter.com/tensorflow)
+- [TensorFlow YouTube](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
+- [TensorFlow model optimization roadmap](https://www.tensorflow.org/model_optimization/guide/roadmap)
+- [TensorFlow White Papers](https://www.tensorflow.org/about/bib)
+- [TensorBoard Visualization Toolkit](https://github.com/tensorflow/tensorboard)
 
 Learn more about the [TensorFlow community](https://www.tensorflow.org/community) and how to [contribute](https://www.tensorflow.org/community/contribute).
 
-<a href="#license" id="user-content-license" class="anchor"></a>License
------------------------------------------------------------------------
+## <a href="#license" id="user-content-license" class="anchor"></a>License
 
 [Apache License 2.0](https://github.com/tensorflow/tensorflow/blob/master/LICENSE)
 
-About
------
+## About
 
 An Open Source Machine Learning Framework for Everyone
 
@@ -622,8 +614,7 @@ Apache-2.0 License
 
 Code of conduct
 
-<a href="https://github.com/tensorflow/tensorflow/releases" class="Link--primary no-underline">Releases <span class="Counter" title="152" data-view-component="true">152</span></a>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/tensorflow/tensorflow/releases" class="Link--primary no-underline">Releases <span class="Counter" title="152" data-view-component="true">152</span></a>
 
 <span class="css-truncate css-truncate-target text-bold mr-2" style="max-width: none;">TensorFlow 2.6.2</span> <span class="Label Label--success flex-shrink-0" title="Label: Latest" data-view-component="true"> Latest </span>
 
@@ -631,72 +622,68 @@ Nov 4, 2021
 
 [+ 151 releases](https://github.com/tensorflow/tensorflow/releases)
 
-<a href="https://github.com/orgs/tensorflow/packages?repo_name=tensorflow" class="Link--primary no-underline">Packages <span class="Counter" title="0" hidden="hidden" data-view-component="true">0</span></a>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/orgs/tensorflow/packages?repo_name=tensorflow" class="Link--primary no-underline">Packages <span class="Counter" title="0" hidden="hidden" data-view-component="true">0</span></a>
 
-No packages published  
+No packages published
 
-<a href="https://github.com/tensorflow/tensorflow/network/dependents?package_id=UGFja2FnZS01MjcyNjAxNg%3D%3D" class="Link--primary no-underline">Used by <span class="Counter" title="163,564" data-view-component="true">164k</span></a>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/tensorflow/tensorflow/network/dependents?package_id=UGFja2FnZS01MjcyNjAxNg%3D%3D" class="Link--primary no-underline">Used by <span class="Counter" title="163,564" data-view-component="true">164k</span></a>
 
 <a href="https://github.com/tensorflow/tensorflow/network/dependents?package_id=UGFja2FnZS01MjcyNjAxNg%3D%3D" class="d-flex flex-items-center"></a>
 
--   <img src="https://avatars.githubusercontent.com/u/8940025?s=88&amp;u=b928f9548236429541cd78fd41dce4a0e7223381&amp;v=4" alt="@Halmoni100" class="avatar avatar-user" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/65772779?s=88&amp;v=4" alt="@asedaama" class="avatar avatar-user" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/78043437?s=88&amp;v=4" alt="@TimMatheis" class="avatar avatar-user" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/55049957?s=88&amp;v=4" alt="@amitsrivastav2000" class="avatar avatar-user" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/89367805?s=88&amp;v=4" alt="@Mdicl" class="avatar avatar-user" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/94302099?s=88&amp;v=4" alt="@meserat1" class="avatar avatar-user" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/2063464?s=88&amp;v=4" alt="@akshath" class="avatar avatar-user" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/53746795?s=88&amp;v=4" alt="@swathikolli" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/8940025?s=88&amp;u=b928f9548236429541cd78fd41dce4a0e7223381&amp;v=4" alt="@Halmoni100" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/65772779?s=88&amp;v=4" alt="@asedaama" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/78043437?s=88&amp;v=4" alt="@TimMatheis" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/55049957?s=88&amp;v=4" alt="@amitsrivastav2000" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/89367805?s=88&amp;v=4" alt="@Mdicl" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/94302099?s=88&amp;v=4" alt="@meserat1" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/2063464?s=88&amp;v=4" alt="@akshath" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/53746795?s=88&amp;v=4" alt="@swathikolli" class="avatar avatar-user" width="32" height="32" />
 
 <span class="px-2 text-bold text-small no-wrap"> + 163,556 </span>
 
-<a href="https://github.com/tensorflow/tensorflow/graphs/contributors" class="Link--primary no-underline">Contributors <span class="Counter" title="3,025" data-view-component="true">3,025</span></a>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/tensorflow/tensorflow/graphs/contributors" class="Link--primary no-underline">Contributors <span class="Counter" title="3,025" data-view-component="true">3,025</span></a>
 
--   [<img src="https://avatars.githubusercontent.com/u/17151892?v=4" alt="@tensorflower-gardener" class="avatar circle" width="32" height="32" />](https://github.com/tensorflower-gardener)
--   [<img src="https://avatars.githubusercontent.com/u/6932348?v=4" alt="@yongtang" class="avatar circle" width="32" height="32" />](https://github.com/yongtang)
--   [<img src="https://avatars.githubusercontent.com/u/7946809?v=4" alt="@gunan" class="avatar circle" width="32" height="32" />](https://github.com/gunan)
--   [<img src="https://avatars.githubusercontent.com/u/16824702?v=4" alt="@caisq" class="avatar circle" width="32" height="32" />](https://github.com/caisq)
--   [<img src="https://avatars.githubusercontent.com/u/192142?v=4" alt="@mrry" class="avatar circle" width="32" height="32" />](https://github.com/mrry)
--   [<img src="https://avatars.githubusercontent.com/u/6969686?v=4" alt="@benoitsteiner" class="avatar circle" width="32" height="32" />](https://github.com/benoitsteiner)
--   [<img src="https://avatars.githubusercontent.com/u/463737?v=4" alt="@vrv" class="avatar circle" width="32" height="32" />](https://github.com/vrv)
--   [<img src="https://avatars.githubusercontent.com/u/348932?v=4" alt="@hawkinsp" class="avatar circle" width="32" height="32" />](https://github.com/hawkinsp)
--   [<img src="https://avatars.githubusercontent.com/u/323199?v=4" alt="@mihaimaruseac" class="avatar circle" width="32" height="32" />](https://github.com/mihaimaruseac)
--   [<img src="https://avatars.githubusercontent.com/u/706766?v=4" alt="@jpienaar" class="avatar circle" width="32" height="32" />](https://github.com/jpienaar)
--   [<img src="https://avatars.githubusercontent.com/u/136291?v=4" alt="@sanjoy" class="avatar circle" width="32" height="32" />](https://github.com/sanjoy)
+- [<img src="https://avatars.githubusercontent.com/u/17151892?v=4" alt="@tensorflower-gardener" class="avatar circle" width="32" height="32" />](https://github.com/tensorflower-gardener)
+- [<img src="https://avatars.githubusercontent.com/u/6932348?v=4" alt="@yongtang" class="avatar circle" width="32" height="32" />](https://github.com/yongtang)
+- [<img src="https://avatars.githubusercontent.com/u/7946809?v=4" alt="@gunan" class="avatar circle" width="32" height="32" />](https://github.com/gunan)
+- [<img src="https://avatars.githubusercontent.com/u/16824702?v=4" alt="@caisq" class="avatar circle" width="32" height="32" />](https://github.com/caisq)
+- [<img src="https://avatars.githubusercontent.com/u/192142?v=4" alt="@mrry" class="avatar circle" width="32" height="32" />](https://github.com/mrry)
+- [<img src="https://avatars.githubusercontent.com/u/6969686?v=4" alt="@benoitsteiner" class="avatar circle" width="32" height="32" />](https://github.com/benoitsteiner)
+- [<img src="https://avatars.githubusercontent.com/u/463737?v=4" alt="@vrv" class="avatar circle" width="32" height="32" />](https://github.com/vrv)
+- [<img src="https://avatars.githubusercontent.com/u/348932?v=4" alt="@hawkinsp" class="avatar circle" width="32" height="32" />](https://github.com/hawkinsp)
+- [<img src="https://avatars.githubusercontent.com/u/323199?v=4" alt="@mihaimaruseac" class="avatar circle" width="32" height="32" />](https://github.com/mihaimaruseac)
+- [<img src="https://avatars.githubusercontent.com/u/706766?v=4" alt="@jpienaar" class="avatar circle" width="32" height="32" />](https://github.com/jpienaar)
+- [<img src="https://avatars.githubusercontent.com/u/136291?v=4" alt="@sanjoy" class="avatar circle" width="32" height="32" />](https://github.com/sanjoy)
 
 [+ 3,014 contributors](https://github.com/tensorflow/tensorflow/graphs/contributors)
 
-Languages
----------
+## Languages
 
 <span class="Progress" data-view-component="true"> <span class="Progress-item color-bg-success-inverse" style="background-color:#f34b7d !important;;width: 62.5%;" itemprop="keywords" aria-label="C++ 62.5" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#3572A5 !important;;width: 24.3%;" itemprop="keywords" aria-label="Python 24.3" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#5EC8DB !important;;width: 4.0%;" itemprop="keywords" aria-label="MLIR 4.0" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#76d275 !important;;width: 3.0%;" itemprop="keywords" aria-label="Starlark 3.0" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#e34c26 !important;;width: 2.7%;" itemprop="keywords" aria-label="HTML 2.7" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#00ADD8 !important;;width: 1.1%;" itemprop="keywords" aria-label="Go 1.1" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#ededed !important;;width: 2.4%;" itemprop="keywords" aria-label="Other 2.4" data-view-component="true"></span> </span>
 
--   <span class="color-fg-default text-bold mr-1">C++</span> 62.5%
--   <span class="color-fg-default text-bold mr-1">Python</span> 24.3%
--   <span class="color-fg-default text-bold mr-1">MLIR</span> 4.0%
--   <span class="color-fg-default text-bold mr-1">Starlark</span> 3.0%
--   <span class="color-fg-default text-bold mr-1">HTML</span> 2.7%
--   <span class="color-fg-default text-bold mr-1">Go</span> 1.1%
--   <span class="color-fg-default text-bold mr-1">Other</span> 2.4%
+- <span class="color-fg-default text-bold mr-1">C++</span> 62.5%
+- <span class="color-fg-default text-bold mr-1">Python</span> 24.3%
+- <span class="color-fg-default text-bold mr-1">MLIR</span> 4.0%
+- <span class="color-fg-default text-bold mr-1">Starlark</span> 3.0%
+- <span class="color-fg-default text-bold mr-1">HTML</span> 2.7%
+- <span class="color-fg-default text-bold mr-1">Go</span> 1.1%
+- <span class="color-fg-default text-bold mr-1">Other</span> 2.4%
 
--   © 2021 GitHub, Inc.
--   [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
--   [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
--   [Security](https://github.com/security)
--   [Status](https://www.githubstatus.com/)
--   [Docs](https://docs.github.com/)
+- © 2021 GitHub, Inc.
+- [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
+- [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
+- [Security](https://github.com/security)
+- [Status](https://www.githubstatus.com/)
+- [Docs](https://docs.github.com/)
 
 <!-- -->
 
--   [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
--   [Pricing](https://github.com/pricing)
--   [API](https://docs.github.com/)
--   [Training](https://services.github.com/)
--   [Blog](https://github.blog/)
--   [About](https://github.com/about)
+- [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
+- [Pricing](https://github.com/pricing)
+- [API](https://docs.github.com/)
+- [Training](https://services.github.com/)
+- [Blog](https://github.blog/)
+- [About](https://github.com/about)
 
 <span class="f6 color-fg-muted"></span>
 

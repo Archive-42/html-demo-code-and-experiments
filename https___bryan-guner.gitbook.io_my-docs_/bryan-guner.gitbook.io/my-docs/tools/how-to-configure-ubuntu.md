@@ -242,7 +242,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -260,7 +260,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -300,7 +300,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -666,7 +666,7 @@ Copied!
 
 <span data-key="1e82b56925dc4d89b78bf8e67965cfeb"><span data-offset-key="1e82b56925dc4d89b78bf8e67965cfeb:0"><span data-slate-zero-width="z">​</span></span></span>
 
-<span data-key="3d09b69dbadc4ce68a14edaf0625a985">*For now, I'll choose the i3 as an example.*</span><span data-slate-void="true" data-key="e219b77e475c42b4b9c0f42d5eeb1aff"></span>
+<span data-key="3d09b69dbadc4ce68a14edaf0625a985">_For now, I'll choose the i3 as an example._</span><span data-slate-void="true" data-key="e219b77e475c42b4b9c0f42d5eeb1aff"></span>
 
 <span data-key="d1c0bb76894d48e4a954705afe259026"><span data-offset-key="d1c0bb76894d48e4a954705afe259026:0"><span data-slate-zero-width="z">​</span></span></span><span data-slate-void="true" data-key="90404757a3654acdb9cdb2ef314b1f2b"></span>
 
@@ -722,17 +722,11 @@ Copied!
 
 <span data-key="f805b7516a6145928639b09b1c3cb701">**Additional View Improvement Programs:**</span>
 
--   
+- <span data-key="2373fb63164b4d6d82dbc8cf1325708a">**_Conky_**<span data-offset-key="2373fb63164b4d6d82dbc8cf1325708a:1"> is a desktop add-on that allows you to dynamically display various system metrics. It has a very fine configuration and various themes.</span></span>
 
-    <span data-key="2373fb63164b4d6d82dbc8cf1325708a">***Conky***<span data-offset-key="2373fb63164b4d6d82dbc8cf1325708a:1"> is a desktop add-on that allows you to dynamically display various system metrics. It has a very fine configuration and various themes.</span></span>
+- <span data-key="7f17e1b466674ede83e89a09c9682477">**_Feh_**<span data-offset-key="7f17e1b466674ede83e89a09c9682477:1"> is a console utility for viewing images, can also be used as an image installer on the desktop.</span></span>
 
--   
-
-    <span data-key="7f17e1b466674ede83e89a09c9682477">***Feh***<span data-offset-key="7f17e1b466674ede83e89a09c9682477:1"> is a console utility for viewing images, can also be used as an image installer on the desktop.</span></span>
-
--   
-
-    <span data-key="9f8bcbb5ac854611a3903f3153621f58">***Compton***<span data-offset-key="9f8bcbb5ac854611a3903f3153621f58:1"> is a lightweight compositing manager for the X graphics server based on xcompmgr-dana that allows you to add different animations and transparency to different windows.</span></span>
+- <span data-key="9f8bcbb5ac854611a3903f3153621f58">**_Compton_**<span data-offset-key="9f8bcbb5ac854611a3903f3153621f58:1"> is a lightweight compositing manager for the X graphics server based on xcompmgr-dana that allows you to add different animations and transparency to different windows.</span></span>
 
 <span data-key="e83b8f0c7a2d46569c0fe0a545247111"><span data-offset-key="e83b8f0c7a2d46569c0fe0a545247111:0">How it looks after the actions are taken:</span></span><span data-slate-void="true" data-key="2fd400615c314c7cbcaf9a913a647635"></span>
 

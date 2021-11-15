@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [Learn How Fonts And Web Typography Work In HTML: A Beginner's Guide](https://html.com/fonts/) / &lt;blockquote&gt; HTML Tag
 
-`<blockquote> HTML Tag`
-=======================
+# `<blockquote> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -29,14 +26,13 @@ semantic | textual
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> Styling Blockquotes](#Styling_Blockquotes)
--   [<span class="toc_number toc_depth_1">3</span> Using &lt;cite&gt; with &lt;blockquote&gt;](#Using_ltcitegt_with_ltblockquotegt)
--   [<span class="toc_number toc_depth_1">4</span> The &lt;q&gt; element](#The_ltqgt_element)
--   [<span class="toc_number toc_depth_1">5</span> Browser Support for blockquote](#Browser_Support_for_blockquote)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> Styling Blockquotes](#Styling_Blockquotes)
+- [<span class="toc_number toc_depth_1">3</span> Using &lt;cite&gt; with &lt;blockquote&gt;](#Using_ltcitegt_with_ltblockquotegt)
+- [<span class="toc_number toc_depth_1">4</span> The &lt;q&gt; element](#The_ltqgt_element)
+- [<span class="toc_number toc_depth_1">5</span> Browser Support for blockquote](#Browser_Support_for_blockquote)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     When quoting more than a few words in your document, you should use a <code>&lt;blockquote&gt;</code> to set the quoted text off from the surrounding text.
 
@@ -50,14 +46,13 @@ When quoting more than a few words in your document, you should use a `<blockquo
 
 <span class="underline"></span>
 
-<span id="Styling_Blockquotes">Styling Blockquotes</span>
----------------------------------------------------------
+## <span id="Styling_Blockquotes">Styling Blockquotes</span>
 
 How you style `<blockquotes>` depends on your specific site design, but there are a handful of things that have become fairly common practice. You don’t have to follow them, but you might find that it is helpful to do so. The most common practice for `<blockquote>` styling is indentation via CSS `margin`. This is usually done just on the left side. In fully-justified text, though, it can be helpful to place margins on both sides of the quote.
 
-    .justified {  text-align: justify; } blockquote {  margin: 0 50px; } 
+    .justified {  text-align: justify; } blockquote {  margin: 0 50px; }
 
-    <div class="justified"> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum finibus felis eget tempor lobortis. Nunc iaculis lacus risus, a molestie libero facilisis sit amet. Proin vitae diam non leo commodo ullamcorper euismod vel lacus. Morbi iaculis tincidunt enim. Nunc semper facilisis elit, quis pulvinar sem efficitur sit amet.</p> <blockquote> Fusce vestibulum molestie ultricies. Quisque non eros nec leo elementum elementum. Etiam non fermentum leo, in mollis urna. Quisque quis tortor tempus, sollicitudin turpis et, tempus enim. </blockquote> <p> Proin sed tincidunt urna, et auctor mauris. Vestibulum gravida tellus sit amet interdum ultrices. Nulla suscipit odio ut est efficitur sollicitudin.</p> </div> 
+    <div class="justified"> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum finibus felis eget tempor lobortis. Nunc iaculis lacus risus, a molestie libero facilisis sit amet. Proin vitae diam non leo commodo ullamcorper euismod vel lacus. Morbi iaculis tincidunt enim. Nunc semper facilisis elit, quis pulvinar sem efficitur sit amet.</p> <blockquote> Fusce vestibulum molestie ultricies. Quisque non eros nec leo elementum elementum. Etiam non fermentum leo, in mollis urna. Quisque quis tortor tempus, sollicitudin turpis et, tempus enim. </blockquote> <p> Proin sed tincidunt urna, et auctor mauris. Vestibulum gravida tellus sit amet interdum ultrices. Nulla suscipit odio ut est efficitur sollicitudin.</p> </div>
 
 \#justify-bq{ text-align: justify; } \#justify-bq blockquote { margin: 0 50px; } Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum finibus felis eget tempor lobortis. Nunc iaculis lacus risus, a molestie libero facilisis sit amet. Proin vitae diam non leo commodo ullamcorper euismod vel lacus. Morbi iaculis tincidunt enim. Nunc semper facilisis elit, quis pulvinar sem efficitur sit amet.
 
@@ -67,9 +62,9 @@ Proin sed tincidunt urna, et auctor mauris. Vestibulum gravida tellus sit amet i
 
 The other very common styling pattern is to place a vertical line or border along the left edge of the blockquote. This is usually done in alignment with the edge of the surrounding text, which requires using `padding` in place of `margin` to achieve proper indentation. (CSS `border`s go inside of `margin` and outside of `padding`.) You may also want to set the left margin to `0` to override the default margin. This works well whether or not the text is justified.
 
-    blockquote {  padding: 0 50px;  margin-left: 0;  border-left: 2px solid gray; } 
+    blockquote {  padding: 0 50px;  margin-left: 0;  border-left: 2px solid gray; }
 
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum finibus felis eget tempor lobortis. Nunc iaculis lacus risus, a molestie libero facilisis sit amet. Proin vitae diam non leo commodo ullamcorper euismod vel lacus. Morbi iaculis tincidunt enim. Nunc semper facilisis elit, quis pulvinar sem efficitur sit amet.</p> <blockquote> Fusce vestibulum molestie ultricies. Quisque non eros nec leo elementum elementum. Etiam non fermentum leo, in mollis urna. Quisque quis tortor tempus, sollicitudin turpis et, tempus enim. </blockquote> <p> Proin sed tincidunt urna, et auctor mauris. Vestibulum gravida tellus sit amet interdum ultrices. Nulla suscipit odio ut est efficitur sollicitudin.</p> 
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum finibus felis eget tempor lobortis. Nunc iaculis lacus risus, a molestie libero facilisis sit amet. Proin vitae diam non leo commodo ullamcorper euismod vel lacus. Morbi iaculis tincidunt enim. Nunc semper facilisis elit, quis pulvinar sem efficitur sit amet.</p> <blockquote> Fusce vestibulum molestie ultricies. Quisque non eros nec leo elementum elementum. Etiam non fermentum leo, in mollis urna. Quisque quis tortor tempus, sollicitudin turpis et, tempus enim. </blockquote> <p> Proin sed tincidunt urna, et auctor mauris. Vestibulum gravida tellus sit amet interdum ultrices. Nulla suscipit odio ut est efficitur sollicitudin.</p>
 
 \#border-blockquote { padding: 0 50px; margin-left: 0; border-left: 2px solid gray; } Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum finibus felis eget tempor lobortis. Nunc iaculis lacus risus, a molestie libero facilisis sit amet. Proin vitae diam non leo commodo ullamcorper euismod vel lacus. Morbi iaculis tincidunt enim. Nunc semper facilisis elit, quis pulvinar sem efficitur sit amet.
 
@@ -77,23 +72,21 @@ The other very common styling pattern is to place a vertical line or border alon
 
 Proin sed tincidunt urna, et auctor mauris. Vestibulum gravida tellus sit amet interdum ultrices. Nulla suscipit odio ut est efficitur sollicitudin.
 
-<span id="Using_ltcitegt_with_ltblockquotegt">Using `<cite>` with `<blockquote>`</span>
----------------------------------------------------------------------------------------
+## <span id="Using_ltcitegt_with_ltblockquotegt">Using `<cite>` with `<blockquote>`</span>
 
 Some people recommend using the [`<cite>`](https://html.com/tags/cite/) element to identify the source of a quote.
 
-    <blockquote> You should use the <cite> element to identify the source of a quote. —<cite>Some People</cite> </blockquote> 
+    <blockquote> You should use the <cite> element to identify the source of a quote. —<cite>Some People</cite> </blockquote>
 
-However, this is *not* allowed according to the HTML5 standard. There is some contention about what exactly the `<cite>` element should contain, but both the W3C and WHATWG agree that this is not how the element should be used. The `<cite>` element should be used to identify the *title of a work*, not its author or the source of an arbitrary quote.
+However, this is _not_ allowed according to the HTML5 standard. There is some contention about what exactly the `<cite>` element should contain, but both the W3C and WHATWG agree that this is not how the element should be used. The `<cite>` element should be used to identify the _title of a work_, not its author or the source of an arbitrary quote.
 
-    <blockquote> The cite element represents the title of a work (e.g. a book, a paper, an essay, a poem, a score, a song, a script, a film, a TV show, a game, a sculpture, a painting, a theatre production, a play, an opera, a musical, an exhibition, a legal case report, a computer program, etc). This can be a work that is being quoted or referenced in detail (i.e. a citation), or it can just be a work that is mentioned in passing.  A person's name is not the title of a work — even if people call that person a piece of work — and the element must therefore not be used to mark up people's names. (In some cases, the b element might be appropriate for names; e.g. in a gossip article where the names of famous people are keywords rendered with a different style to draw attention to them. In other cases, if an element is really needed, the span element can be used.)  —<cite><a href="https://html.spec.whatwg.org/multipage/semantics.html#the-cite-element">HTML Living Standard</a></cite>, Web Hypertext Application Technology Working Group </blockquote> 
+    <blockquote> The cite element represents the title of a work (e.g. a book, a paper, an essay, a poem, a score, a song, a script, a film, a TV show, a game, a sculpture, a painting, a theatre production, a play, an opera, a musical, an exhibition, a legal case report, a computer program, etc). This can be a work that is being quoted or referenced in detail (i.e. a citation), or it can just be a work that is mentioned in passing.  A person's name is not the title of a work — even if people call that person a piece of work — and the element must therefore not be used to mark up people's names. (In some cases, the b element might be appropriate for names; e.g. in a gossip article where the names of famous people are keywords rendered with a different style to draw attention to them. In other cases, if an element is really needed, the span element can be used.)  —<cite><a href="https://html.spec.whatwg.org/multipage/semantics.html#the-cite-element">HTML Living Standard</a></cite>, Web Hypertext Application Technology Working Group </blockquote>
 
 > The cite element represents the title of a work (e.g. a book, a paper, an essay, a poem, a score, a song, a script, a film, a TV show, a game, a sculpture, a painting, a theatre production, a play, an opera, a musical, an exhibition, a legal case report, a computer program, etc). This can be a work that is being quoted or referenced in detail (i.e. a citation), or it can just be a work that is mentioned in passing. A person’s name is not the title of a work — even if people call that person a piece of work — and the element must therefore not be used to mark up people’s names. (In some cases, the b element might be appropriate for names; e.g. in a gossip article where the names of famous people are keywords rendered with a different style to draw attention to them. In other cases, if an element is really needed, the span element can be used.) —[HTML Living Standard](https://html.spec.whatwg.org/multipage/semantics.html#the-cite-element), Web Hypertext Application Technology Working Group
 
-While the W3C’s recommendation for HTML5 said that the `<cite>` element *could* include an author’s name (along with the title), it is best to follow the WHATWG standard and use it only for the title of the work.
+While the W3C’s recommendation for HTML5 said that the `<cite>` element _could_ include an author’s name (along with the title), it is best to follow the WHATWG standard and use it only for the title of the work.
 
-<span id="The_ltqgt_element">The `<q>` element</span>
------------------------------------------------------
+## <span id="The_ltqgt_element">The `<q>` element</span>
 
 Almost everyone knows and used the `<blockquote>` element, but very few composers of HTML documents know about or use the [`<q>`](https://html.com/tags/q/) element, which represents a inline quote. Since quote punctuation marks are actually different in different regions, you may want to consider using `<q>` as an alternative to typographical quote marks.
 
@@ -111,8 +104,7 @@ Almost everyone knows and used the `<blockquote>` element, but very few composer
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_blockquote">Browser Support for blockquote</span>
--------------------------------------------------------------------------------
+## <span id="Browser_Support_for_blockquote">Browser Support for blockquote</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -150,8 +142,7 @@ Almost everyone knows and used the `<blockquote>` element, but very few composer
 
 <span class="browser-supported">All</span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](https://html.com/resources/citation-guide/)
 
@@ -163,11 +154,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

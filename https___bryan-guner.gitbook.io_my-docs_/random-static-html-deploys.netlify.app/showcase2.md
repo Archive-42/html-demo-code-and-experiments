@@ -1,2 +1,1 @@
-All Iframes Are Resizable... Just Drag The Corner
-=================================================
+# All Iframes Are Resizable... Just Drag The Corner

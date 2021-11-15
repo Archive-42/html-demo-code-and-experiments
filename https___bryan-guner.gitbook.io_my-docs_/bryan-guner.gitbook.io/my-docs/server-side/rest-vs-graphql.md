@@ -242,7 +242,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -260,7 +260,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -300,7 +300,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -632,21 +632,13 @@ Copied!
 
 <span data-key="e85cdd903c8743bf8387bea30c990e70"><span data-offset-key="e85cdd903c8743bf8387bea30c990e70:0">There are four constraints for the uniform interface:</span></span>
 
--   
+- <span data-key="c0fbfa960ae445d998e667f757ac7edb"><span data-offset-key="c0fbfa960ae445d998e667f757ac7edb:0">All resources are identified using URIs (Uniform Resource Identifiers) and separate from the representations that are returned to the client. Any format, such as JSON or XML, can be used for data transmission.</span></span>
 
-    <span data-key="c0fbfa960ae445d998e667f757ac7edb"><span data-offset-key="c0fbfa960ae445d998e667f757ac7edb:0">All resources are identified using URIs (Uniform Resource Identifiers) and separate from the representations that are returned to the client. Any format, such as JSON or XML, can be used for data transmission.</span></span>
+- <span data-key="8aad4df130394b4fae4f0ac2626a10c2"><span data-offset-key="8aad4df130394b4fae4f0ac2626a10c2:0">Representations contain all the necessary information for changing resources by the client.</span></span>
 
--   
+- <span data-key="be891e26068b477396b83583cdaf45f5"><span data-offset-key="be891e26068b477396b83583cdaf45f5:0">Self-descriptive messages returned to the client should contain all the information needed to process them.</span></span>
 
-    <span data-key="8aad4df130394b4fae4f0ac2626a10c2"><span data-offset-key="8aad4df130394b4fae4f0ac2626a10c2:0">Representations contain all the necessary information for changing resources by the client.</span></span>
-
--   
-
-    <span data-key="be891e26068b477396b83583cdaf45f5"><span data-offset-key="be891e26068b477396b83583cdaf45f5:0">Self-descriptive messages returned to the client should contain all the information needed to process them.</span></span>
-
--   
-
-    <span data-key="65463e90ece248ec9305a7f17d5c14da"><span data-offset-key="65463e90ece248ec9305a7f17d5c14da:0">The server should implement Hypermedia as the Engine of Application State (HATEOAS), meaning that the client should be able to use hyperlinks to discover available actions.</span></span>
+- <span data-key="65463e90ece248ec9305a7f17d5c14da"><span data-offset-key="65463e90ece248ec9305a7f17d5c14da:0">The server should implement Hypermedia as the Engine of Application State (HATEOAS), meaning that the client should be able to use hyperlinks to discover available actions.</span></span>
 
 <span data-key="f8001ea21f684f579aef3d1583ec7c62"><span data-offset-key="f8001ea21f684f579aef3d1583ec7c62:0">\#Layered System</span></span>
 
@@ -670,29 +662,17 @@ Copied!
 
 <span data-key="622bc85a1a5a4ad0ae54a1e998487ac4"><span data-offset-key="622bc85a1a5a4ad0ae54a1e998487ac4:0">\#Pros and Cons</span></span>
 
--   
+- <span data-key="1178c6b1feb74d10826ef97652a6b5a2"><span data-offset-key="1178c6b1feb74d10826ef97652a6b5a2:0">REST has become the de facto standard for API development. It’s a tried-and-proven approach that has been using for decades and most developers are familiar with it.</span></span>
 
-    <span data-key="1178c6b1feb74d10826ef97652a6b5a2"><span data-offset-key="1178c6b1feb74d10826ef97652a6b5a2:0">REST has become the de facto standard for API development. It’s a tried-and-proven approach that has been using for decades and most developers are familiar with it.</span></span>
+- <span data-key="3dbd5af47af540f1817142c0c99125a3"><span data-offset-key="3dbd5af47af540f1817142c0c99125a3:0">With REST the server returns fixed data structures. But the client does not always need the entire dataset that is returned by the server. GraphQL solves the problem of over-fetching as it Enables the client to specify which data needs to be fetched.</span></span>
 
--   
+- <span data-key="3221cff654c0446bb460deb7378c7ed8"><span data-offset-key="3221cff654c0446bb460deb7378c7ed8:0">When developers are using REST, they face under-fetching and N+1 requests problem. The client makes multiple requests to obtain all data it needs. On the contrary, GraphQL allows aggregating the data in a single query.</span></span>
 
-    <span data-key="3dbd5af47af540f1817142c0c99125a3"><span data-offset-key="3dbd5af47af540f1817142c0c99125a3:0">With REST the server returns fixed data structures. But the client does not always need the entire dataset that is returned by the server. GraphQL solves the problem of over-fetching as it Enables the client to specify which data needs to be fetched.</span></span>
+- <span data-key="5b6f7d409b384016b3bd92d68c2da2b9"><span data-offset-key="5b6f7d409b384016b3bd92d68c2da2b9:0">GraphQL uses a strong type system to define the contract between the client and the server using GraphQL SDL. REST does not require a strict API definition, but today almost every RESTful service is defined using OpenAPI Specification. OpenAPI, as GraphQL, provides high expressiveness.</span></span>
 
--   
+- <span data-key="c280e8d841bb44ebb9707bb1b98f25d3"><span data-offset-key="c280e8d841bb44ebb9707bb1b98f25d3:0">Since GraphQL uses a single endpoint, it can not utilize an HTTP caching mechanism, unlike REST. There are several ways to implement caching in GraphQL, such as Apollo Engine on the backend and Apollo Client and Relay on the frontend. However, HTTP caching wins completely over these technologies.</span></span>
 
-    <span data-key="3221cff654c0446bb460deb7378c7ed8"><span data-offset-key="3221cff654c0446bb460deb7378c7ed8:0">When developers are using REST, they face under-fetching and N+1 requests problem. The client makes multiple requests to obtain all data it needs. On the contrary, GraphQL allows aggregating the data in a single query.</span></span>
-
--   
-
-    <span data-key="5b6f7d409b384016b3bd92d68c2da2b9"><span data-offset-key="5b6f7d409b384016b3bd92d68c2da2b9:0">GraphQL uses a strong type system to define the contract between the client and the server using GraphQL SDL. REST does not require a strict API definition, but today almost every RESTful service is defined using OpenAPI Specification. OpenAPI, as GraphQL, provides high expressiveness.</span></span>
-
--   
-
-    <span data-key="c280e8d841bb44ebb9707bb1b98f25d3"><span data-offset-key="c280e8d841bb44ebb9707bb1b98f25d3:0">Since GraphQL uses a single endpoint, it can not utilize an HTTP caching mechanism, unlike REST. There are several ways to implement caching in GraphQL, such as Apollo Engine on the backend and Apollo Client and Relay on the frontend. However, HTTP caching wins completely over these technologies.</span></span>
-
--   
-
-    <span data-key="ed131b71ad6641e0846955de057f91ce"><span data-offset-key="ed131b71ad6641e0846955de057f91ce:0">With REST it is easy to organize error reporting and API monitoring because REST uses HTTP response status codes. Instead, in GraphQL the server always returns code 200, and analyzing the response body is required to capture errors in interaction.</span></span>
+- <span data-key="ed131b71ad6641e0846955de057f91ce"><span data-offset-key="ed131b71ad6641e0846955de057f91ce:0">With REST it is easy to organize error reporting and API monitoring because REST uses HTTP response status codes. Instead, in GraphQL the server always returns code 200, and analyzing the response body is required to capture errors in interaction.</span></span>
 
 <span data-key="694cbbc8883f4be7a93a39238e354349"><span data-offset-key="694cbbc8883f4be7a93a39238e354349:0">\#Conclusion</span></span>
 

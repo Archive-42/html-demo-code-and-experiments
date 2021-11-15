@@ -8,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 [HTML](../../index.html)  /  [What On Earth Is Semantic Markup? (And Why Should You Learn To Write It)](../../semantic-markup/index.html) / Abbr HTML Tag: Here's When To Use It With Abbreviations
 
-`Abbr HTML Tag: Here’s When To Use It With Abbreviations`
-=========================================================
+# `Abbr HTML Tag: Here’s When To Use It With Abbreviations`
 
 In <span class="post-meta-category">[HTML Tags](../index.html)</span>
 
@@ -29,15 +28,14 @@ semantic | textual
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> Abbreviations and Acronyms](#Abbreviations_and_Acronyms)
-    -   [<span class="toc_number toc_depth_2">2.1</span> Deprecated &lt;acronym&gt; tag](#Deprecated_ltacronymgt_tag)
-    -   [<span class="toc_number toc_depth_2">2.2</span> The &lt;dfn&gt; element](#The_ltdfngt_element)
--   [<span class="toc_number toc_depth_1">3</span> Browser Support for abbr](#Browser_Support_for_abbr)
--   [<span class="toc_number toc_depth_1">4</span> Attributes of abbr](#Attributes_of_abbr)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> Abbreviations and Acronyms](#Abbreviations_and_Acronyms)
+  - [<span class="toc_number toc_depth_2">2.1</span> Deprecated &lt;acronym&gt; tag](#Deprecated_ltacronymgt_tag)
+  - [<span class="toc_number toc_depth_2">2.2</span> The &lt;dfn&gt; element](#The_ltdfngt_element)
+- [<span class="toc_number toc_depth_1">3</span> Browser Support for abbr](#Browser_Support_for_abbr)
+- [<span class="toc_number toc_depth_1">4</span> Attributes of abbr](#Attributes_of_abbr)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     This website is all about <abbr title="HyperText Markup Language">HTML</abbr>.
 
@@ -45,8 +43,7 @@ This website is all about HTML.
 
 <span class="underline"></span>
 
-<span id="Abbreviations_and_Acronyms">Abbreviations and Acronyms</span>
------------------------------------------------------------------------
+## <span id="Abbreviations_and_Acronyms">Abbreviations and Acronyms</span>
 
 Ideally, the `<abbr>` tag should be used any time that you have an abbreviation or an acronym. At the very least, it should be used the first time you introduce an uncommon or non-obvious acronyms or abbreviations.
 
@@ -74,8 +71,7 @@ If you are using an unfamiliar or unusual abbreviation, you may want to consider
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_abbr">Browser Support for abbr</span>
--------------------------------------------------------------------
+## <span id="Browser_Support_for_abbr">Browser Support for abbr</span>
 
 <img src="../../wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -113,14 +109,12 @@ If you are using an unfamiliar or unusual abbreviation, you may want to consider
 
 <span class="browser-supported">All</span>
 
-<span id="Attributes_of_abbr">Attributes of abbr</span>
--------------------------------------------------------
+## <span id="Attributes_of_abbr">Attributes of abbr</span>
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="../../attributes/abbr-title/index.html" class="linked-name">title</a><br />
 </td><td></td><td>Provides the meaning or explanation of an abbreviation or acronym.</td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`HTML5 Basics For Everyone Tired Of Reading About Deprecated Code`](../../html5/index.html)
 
@@ -132,11 +126,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="../../attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="../comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../../attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../iframe/index.html" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../iframe/index.html#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../img/index.html" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="../img/index.html#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../../attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="../comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../../attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../iframe/index.html" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../iframe/index.html#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../img/index.html" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="../img/index.html#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](../../index.html) © 2015-2020 [Sitemap](../../sitemap/index.html) | [Privacy](../../privacy/index.html) | [Contact](../../contact/index.html)
 

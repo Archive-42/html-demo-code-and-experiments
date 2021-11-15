@@ -1,5 +1,4 @@
-File system[\#](https://nodejs.org/api/fs.html#file-system)
------------------------------------------------------------
+## File system[\#](https://nodejs.org/api/fs.html#file-system)
 
 **Source Code:** [lib/fs.js](https://github.com/nodejs/node/blob/v17.1.0/lib/fs.js)
 
@@ -82,12 +81,13 @@ The `'close'` event is emitted when the [](https://nodejs.org/api/fs.html#class-
 
 Added in: v10.0.0
 
--   `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView)
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
+- `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView)
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
+
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Alias of [`filehandle.writeFile()`](https://nodejs.org/api/fs.html#filehandlewritefiledata-options).
 
@@ -97,8 +97,8 @@ When operating on file handles, the mode cannot be changed from what it was set 
 
 Added in: v10.0.0
 
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) the file mode bit mask.
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) the file mode bit mask.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Modifies the permissions on the file. See [`chmod(2)`](http://man7.org/linux/man-pages/man2/chmod.2.html).
 
@@ -106,9 +106,9 @@ Modifies the permissions on the file. See [`chmod(2)`](http://man7.org/linux/man
 
 Added in: v10.0.0
 
--   `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The file’s new owner’s user id.
--   `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The file’s new group’s group id.
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The file’s new owner’s user id.
+- `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The file’s new group’s group id.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Changes the ownership of the file. A wrapper for [`chown(2)`](http://man7.org/linux/man-pages/man2/chown.2.html).
 
@@ -116,7 +116,7 @@ Changes the ownership of the file. A wrapper for [`chown(2)`](http://man7.org/li
 
 Added in: v10.0.0
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Closes the file handle after waiting for any pending operation on the handle to complete.
 
@@ -133,14 +133,14 @@ Closes the file handle after waiting for any pending operation on the handle to 
 
 Added in: v16.11.0
 
--   `options`
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `null`
-    -   `autoClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
-    -   `emitClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
-    -   `start` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
-    -   `end` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `Infinity`
-    -   `highWaterMark` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `64 * 1024`
--   Returns: [&lt;fs.ReadStream&gt;](https://nodejs.org/api/fs.html#class-fsreadstream)
+- `options`
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `null`
+  - `autoClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
+  - `emitClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
+  - `start` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+  - `end` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `Infinity`
+  - `highWaterMark` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `64 * 1024`
+- Returns: [&lt;fs.ReadStream&gt;](https://nodejs.org/api/fs.html#class-fsreadstream)
 
 Unlike the 16 kb default `highWaterMark` for a [&lt;stream.Readable&gt;](https://nodejs.org/api/stream.html#class-streamreadable), the stream returned by this method has a default `highWaterMark` of 64 kb.
 
@@ -179,12 +179,12 @@ An example to read the last 10 bytes of a file which is 100 bytes long:
 
 Added in: v16.11.0
 
--   `options`
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
-    -   `autoClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
-    -   `emitClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
-    -   `start` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   Returns: [&lt;fs.WriteStream&gt;](https://nodejs.org/api/fs.html#class-fswritestream)
+- `options`
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+  - `autoClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
+  - `emitClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
+  - `start` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- Returns: [&lt;fs.WriteStream&gt;](https://nodejs.org/api/fs.html#class-fswritestream)
 
 `options` may also include a `start` option to allow writing data at some position past the beginning of the file, allowed values are in the \[0, [`Number.MAX_SAFE_INTEGER`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MAX_SAFE_INTEGER)\] range. Modifying a file rather than replacing it may require the `flags` `open` option to be set to `r+` rather than the default `r`. The `encoding` can be any one of those accepted by [](https://nodejs.org/api/buffer.html#class-buffer).
 
@@ -196,7 +196,7 @@ By default, the stream will emit a `'close'` event after it has been destroyed. 
 
 Added in: v10.0.0
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Forces all currently queued I/O operations associated with the file to the operating system’s synchronized I/O completion state. Refer to the POSIX [`fdatasync(2)`](http://man7.org/linux/man-pages/man2/fdatasync.2.html) documentation for details.
 
@@ -206,19 +206,19 @@ Unlike `filehandle.sync` this method does not flush modified metadata.
 
 Added in: v10.0.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The numeric file descriptor managed by the [](https://nodejs.org/api/fs.html#class-filehandle) object.
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The numeric file descriptor managed by the [](https://nodejs.org/api/fs.html#class-filehandle) object.
 
 ##### `filehandle.read(buffer, offset, length, position)`[\#](https://nodejs.org/api/fs.html#filehandlereadbuffer-offset-length-position)
 
 Added in: v10.0.0
 
--   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) A buffer that will be filled with the file data read.
--   `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The location in the buffer at which to start filling.
--   `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes to read.
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The location where to begin reading data from the file. If `null`, data will be read from the current file position, and the position will be updated. If `position` is an integer, the current file position will remain unchanged.
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills upon success with an object with two properties:
-    -   `bytesRead` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes read
-    -   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) A reference to the passed in `buffer` argument.
+- `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) A buffer that will be filled with the file data read.
+- `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The location in the buffer at which to start filling.
+- `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes to read.
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The location where to begin reading data from the file. If `null`, data will be read from the current file position, and the position will be updated. If `position` is an integer, the current file position will remain unchanged.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills upon success with an object with two properties:
+  - `bytesRead` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes read
+  - `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) A reference to the passed in `buffer` argument.
 
 Reads data from the file and stores that in the given buffer.
 
@@ -228,14 +228,14 @@ If the file is not modified concurrently, the end-of-file is reached when the nu
 
 Added in: v13.11.0, v12.17.0
 
--   `options`
-    -   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) A buffer that will be filled with the file data read. **Default:** `Buffer.alloc(16384)`
-    -   `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The location in the buffer at which to start filling. **Default:** `0`
-    -   `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes to read. **Default:** `buffer.byteLength`
-    -   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The location where to begin reading data from the file. If `null`, data will be read from the current file position, and the position will be updated. If `position` is an integer, the current file position will remain unchanged. **Default:**: `null`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills upon success with an object with two properties:
-    -   `bytesRead` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes read
-    -   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) A reference to the passed in `buffer` argument.
+- `options`
+  - `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) A buffer that will be filled with the file data read. **Default:** `Buffer.alloc(16384)`
+  - `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The location in the buffer at which to start filling. **Default:** `0`
+  - `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes to read. **Default:** `buffer.byteLength`
+  - `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The location where to begin reading data from the file. If `null`, data will be read from the current file position, and the position will be updated. If `position` is an integer, the current file position will remain unchanged. **Default:**: `null`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills upon success with an object with two properties:
+  - `bytesRead` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes read
+  - `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) A reference to the passed in `buffer` argument.
 
 Reads data from the file and stores that in the given buffer.
 
@@ -245,7 +245,7 @@ If the file is not modified concurrently, the end-of-file is reached when the nu
 
 Added in: v17.0.0
 
--   Returns: [](https://nodejs.org/api/webstreams.md#class-readablestream)
+- Returns: [](https://nodejs.org/api/webstreams.md#class-readablestream)
 
 Returns a `ReadableStream` that may be used to read the files data.
 
@@ -268,12 +268,13 @@ While the `ReadableStream` will read the file to completion, it will not close t
 
 Added in: v10.0.0
 
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `null`
-    -   `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) allows aborting an in-progress readFile
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills upon a successful read with the contents of the file. If no encoding is specified (using `options.encoding`), the data is returned as a [](https://nodejs.org/api/buffer.html#class-buffer) object. Otherwise, the data will be a string.
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `null`
+  - `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) allows aborting an in-progress readFile
+
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills upon a successful read with the contents of the file. If no encoding is specified (using `options.encoding`), the data is returned as a [](https://nodejs.org/api/buffer.html#class-buffer) object. Otherwise, the data will be a string.
 
 Asynchronously reads the entire contents of a file.
 
@@ -287,25 +288,25 @@ If one or more `filehandle.read()` calls are made on a file handle and then a `f
 
 Added in: v13.13.0, v12.17.0
 
--   `buffers` [&lt;Buffer\[\]&gt;](https://nodejs.org/api/buffer.html#class-buffer) | [&lt;TypedArray\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [&lt;DataView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView)
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The offset from the beginning of the file where the data should be read from. If `position` is not a `number`, the data will be read from the current position.
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills upon success an object containing two properties:
-    -   `bytesRead` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) the number of bytes read
-    -   `buffers` [&lt;Buffer\[\]&gt;](https://nodejs.org/api/buffer.html#class-buffer) | [&lt;TypedArray\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [&lt;DataView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) property containing a reference to the `buffers` input.
+- `buffers` [&lt;Buffer\[\]&gt;](https://nodejs.org/api/buffer.html#class-buffer) | [&lt;TypedArray\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [&lt;DataView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView)
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The offset from the beginning of the file where the data should be read from. If `position` is not a `number`, the data will be read from the current position.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills upon success an object containing two properties:
+  - `bytesRead` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) the number of bytes read
+  - `buffers` [&lt;Buffer\[\]&gt;](https://nodejs.org/api/buffer.html#class-buffer) | [&lt;TypedArray\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [&lt;DataView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) property containing a reference to the `buffers` input.
 
 Read from a file and write to an array of [](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)s
 
 ##### `filehandle.stat([options])`[\#](https://nodejs.org/api/fs.html#filehandlestatoptions)
 
--   `options`
-    -   `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with an [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) for the file.
+- `options`
+  - `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with an [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) for the file.
 
 ##### `filehandle.sync()`[\#](https://nodejs.org/api/fs.html#filehandlesync)
 
 Added in: v10.0.0
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fufills with `undefined` upon success.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fufills with `undefined` upon success.
 
 Request that all data for the open file descriptor is flushed to the storage device. The specific implementation is operating system and device specific. Refer to the POSIX [`fsync(2)`](http://man7.org/linux/man-pages/man2/fsync.2.html) documentation for more detail.
 
@@ -313,8 +314,8 @@ Request that all data for the open file descriptor is flushed to the storage dev
 
 Added in: v10.0.0
 
--   `len` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `len` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Truncates the file.
 
@@ -340,19 +341,19 @@ If `len` is negative then `0` will be used.
 
 Added in: v10.0.0
 
--   `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 Change the file system timestamps of the object referenced by the [](https://nodejs.org/api/fs.html#class-filehandle) then resolves the promise with no arguments upon success.
 
 ##### `filehandle.write(buffer[, offset[, length[, position]]])`[\#](https://nodejs.org/api/fs.html#filehandlewritebuffer-offset-length-position)
 
--   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
--   `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The start position from within `buffer` where the data to write begins. **Default:** `0`
--   `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes from `buffer` to write. **Default:** `buffer.byteLength`
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The offset from the beginning of the file where the data from `buffer` should be written. If `position` is not a `number`, the data will be written at the current position. See the POSIX [`pwrite(2)`](http://man7.org/linux/man-pages/man2/pwrite.2.html) documentation for more detail.
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+- `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The start position from within `buffer` where the data to write begins. **Default:** `0`
+- `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes from `buffer` to write. **Default:** `buffer.byteLength`
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The offset from the beginning of the file where the data from `buffer` should be written. If `position` is not a `number`, the data will be written at the current position. See the POSIX [`pwrite(2)`](http://man7.org/linux/man-pages/man2/pwrite.2.html) documentation for more detail.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 Write `buffer` to the file.
 
@@ -360,9 +361,9 @@ If `buffer` is a plain object, it must have an own (not inherited) `toString` fu
 
 The promise is resolved with an object containing two properties:
 
--   `bytesWritten` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) the number of bytes written
--   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    a reference to the `buffer` written.
+- `bytesWritten` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) the number of bytes written
+- `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  a reference to the `buffer` written.
 
 It is unsafe to use `filehandle.write()` multiple times on the same file without waiting for the promise to be resolved (or rejected). For this scenario, use [`fs.createWriteStream()`](https://nodejs.org/api/fs.html#fscreatewritestreampath-options).
 
@@ -370,18 +371,18 @@ On Linux, positional writes do not work when the file is opened in append mode. 
 
 ##### `filehandle.write(string[, position[, encoding]])`[\#](https://nodejs.org/api/fs.html#filehandlewritestring-position-encoding)
 
--   `string` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The offset from the beginning of the file where the data from `string` should be written. If `position` is not a `number` the data will be written at the current position. See the POSIX [`pwrite(2)`](http://man7.org/linux/man-pages/man2/pwrite.2.html) documentation for more detail.
--   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) The expected string encoding. **Default:** `'utf8'`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- `string` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The offset from the beginning of the file where the data from `string` should be written. If `position` is not a `number` the data will be written at the current position. See the POSIX [`pwrite(2)`](http://man7.org/linux/man-pages/man2/pwrite.2.html) documentation for more detail.
+- `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) The expected string encoding. **Default:** `'utf8'`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 Write `string` to the file. If `string` is not a string, or an object with an own `toString` function property, the promise is rejected with an error.
 
 The promise is resolved with an object containing two properties:
 
--   `bytesWritten` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) the number of bytes written
--   `buffer` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    a reference to the `string` written.
+- `bytesWritten` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) the number of bytes written
+- `buffer` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  a reference to the `string` written.
 
 It is unsafe to use `filehandle.write()` multiple times on the same file without waiting for the promise to be resolved (or rejected). For this scenario, use [`fs.createWriteStream()`](https://nodejs.org/api/fs.html#fscreatewritestreampath-options).
 
@@ -389,13 +390,14 @@ On Linux, positional writes do not work when the file is opened in append mode. 
 
 ##### `filehandle.writeFile(data, options)`[\#](https://nodejs.org/api/fs.html#filehandlewritefiledata-options)
 
--   `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) |
-    | [](https://tc39.github.io/ecma262/#sec-asynciterable-interface) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterable_protocol) | [](https://nodejs.org/api/stream.html#stream)
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) The expected character encoding when `data` is a string. **Default:** `'utf8'`
+- `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) |
+  | [](https://tc39.github.io/ecma262/#sec-asynciterable-interface) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterable_protocol) | [](https://nodejs.org/api/stream.html#stream)
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) The expected character encoding when `data` is a string. **Default:** `'utf8'`
+
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 Asynchronously writes data to a file, replacing the file if it already exists. `data` can be a string, a buffer, an [](https://tc39.github.io/ecma262/#sec-asynciterable-interface) or [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterable_protocol) object, or an object with an own `toString` function property. The promise is resolved with no arguments upon success.
 
@@ -411,16 +413,16 @@ If one or more `filehandle.write()` calls are made on a file handle and then a `
 
 Added in: v12.9.0
 
--   `buffers` [&lt;Buffer\[\]&gt;](https://nodejs.org/api/buffer.html#class-buffer) | [&lt;TypedArray\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [&lt;DataView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView)
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The offset from the beginning of the file where the data from `buffers` should be written. If `position` is not a `number`, the data will be written at the current position.
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- `buffers` [&lt;Buffer\[\]&gt;](https://nodejs.org/api/buffer.html#class-buffer) | [&lt;TypedArray\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [&lt;DataView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView)
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The offset from the beginning of the file where the data from `buffers` should be written. If `position` is not a `number`, the data will be written at the current position.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 Write an array of [](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)s to the file.
 
 The promise is resolved with an object containing a two properties:
 
--   `bytesWritten` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) the number of bytes written
--   `buffers` [&lt;Buffer\[\]&gt;](https://nodejs.org/api/buffer.html#class-buffer) | [&lt;TypedArray\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [&lt;DataView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) a reference to the `buffers` input.
+- `bytesWritten` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) the number of bytes written
+- `buffers` [&lt;Buffer\[\]&gt;](https://nodejs.org/api/buffer.html#class-buffer) | [&lt;TypedArray\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [&lt;DataView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) a reference to the `buffers` input.
 
 It is unsafe to call `writev()` multiple times on the same file without waiting for the promise to be resolved (or rejected).
 
@@ -430,9 +432,9 @@ On Linux, positional writes don’t work when the file is opened in append mode.
 
 Added in: v10.0.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `fs.constants.F_OK`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `fs.constants.F_OK`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Tests a user’s permissions for the file or directory specified by `path`. The `mode` argument is an optional integer that specifies the accessibility checks to be performed. Check [File access constants](https://nodejs.org/api/fs.html#file-access-constants) for possible values of `mode`. It is possible to create a mask consisting of the bitwise OR of two or more values (e.g. `fs.constants.W_OK | fs.constants.R_OK`).
 
@@ -454,15 +456,16 @@ Using `fsPromises.access()` to check for the accessibility of a file before call
 
 Added in: v10.0.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://nodejs.org/api/fs.html#class-filehandle) filename or [](https://nodejs.org/api/fs.html#class-filehandle)
--   `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
-    -   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
-    -   `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'a'`.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://nodejs.org/api/fs.html#class-filehandle) filename or [](https://nodejs.org/api/fs.html#class-filehandle)
+- `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
+  - `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
+  - `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'a'`.
+
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Asynchronously append data to a file, creating the file if it does not yet exist. `data` can be a string or a [](https://nodejs.org/api/buffer.html#class-buffer).
 
@@ -476,9 +479,9 @@ The `path` may be specified as a [](https://nodejs.org/api/fs.html#class-filehan
 
 Added in: v10.0.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Changes the permissions of a file.
 
@@ -486,22 +489,22 @@ Changes the permissions of a file.
 
 Added in: v10.0.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Changes the ownership of a file.
 
 #### `fsPromises.copyFile(src, dest[, mode])`[\#](https://nodejs.org/api/fs.html#fspromisescopyfilesrc-dest-mode)
 
--   `src` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) source filename to copy
--   `dest` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) destination filename of the copy operation
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Optional modifiers that specify the behavior of the copy operation. It is possible to create a mask consisting of the bitwise OR of two or more values (e.g. `fs.constants.COPYFILE_EXCL | fs.constants.COPYFILE_FICLONE`) **Default:** `0`.
-    -   `fs.constants.COPYFILE_EXCL`: The copy operation will fail if `dest` already exists.
-    -   `fs.constants.COPYFILE_FICLONE`: The copy operation will attempt to create a copy-on-write reflink. If the platform does not support copy-on-write, then a fallback copy mechanism is used.
-    -   `fs.constants.COPYFILE_FICLONE_FORCE`: The copy operation will attempt to create a copy-on-write reflink. If the platform does not support copy-on-write, then the operation will fail.
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `src` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) source filename to copy
+- `dest` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) destination filename of the copy operation
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Optional modifiers that specify the behavior of the copy operation. It is possible to create a mask consisting of the bitwise OR of two or more values (e.g. `fs.constants.COPYFILE_EXCL | fs.constants.COPYFILE_FICLONE`) **Default:** `0`.
+  - `fs.constants.COPYFILE_EXCL`: The copy operation will fail if `dest` already exists.
+  - `fs.constants.COPYFILE_FICLONE`: The copy operation will attempt to create a copy-on-write reflink. If the platform does not support copy-on-write, then a fallback copy mechanism is used.
+  - `fs.constants.COPYFILE_FICLONE_FORCE`: The copy operation will attempt to create a copy-on-write reflink. If the platform does not support copy-on-write, then the operation will fail.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Asynchronously copies `src` to `dest`. By default, `dest` is overwritten if it already exists.
 
@@ -529,16 +532,16 @@ No guarantees are made about the atomicity of the copy operation. If an error oc
 
 Added in: v16.7.0
 
--   `src` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) source path to copy.
--   `dest` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) destination path to copy to.
--   `options`
-    -   `dereference` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) dereference symlinks. **Default:** `false`.
-    -   `errorOnExist` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) when `force` is `false`, and the destination exists, throw an error. **Default:** `false`.
-    -   `filter` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function) Function to filter copied files/directories. Return `true` to copy the item, `false` to ignore it. Can also return a `Promise` that resolves to `true` or `false` **Default:** `undefined`.
-    -   `force` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) overwrite existing file or directory. The copy operation will ignore errors if you set this to false and the destination exists. Use the `errorOnExist` option to change this behavior. **Default:** `true`.
-    -   `preserveTimestamps` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) When `true` timestamps from `src` will be preserved. **Default:** `false`.
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) copy directories recursively **Default:** `false`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `src` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) source path to copy.
+- `dest` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) destination path to copy to.
+- `options`
+  - `dereference` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) dereference symlinks. **Default:** `false`.
+  - `errorOnExist` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) when `force` is `false`, and the destination exists, throw an error. **Default:** `false`.
+  - `filter` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function) Function to filter copied files/directories. Return `true` to copy the item, `false` to ignore it. Can also return a `Promise` that resolves to `true` or `false` **Default:** `undefined`.
+  - `force` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) overwrite existing file or directory. The copy operation will ignore errors if you set this to false and the destination exists. Use the `errorOnExist` option to change this behavior. **Default:** `true`.
+  - `preserveTimestamps` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) When `true` timestamps from `src` will be preserved. **Default:** `false`.
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) copy directories recursively **Default:** `false`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Asynchronously copies the entire directory structure from `src` to `dest`, including subdirectories and files.
 
@@ -548,9 +551,9 @@ When copying a directory to another directory, globs are not supported and behav
 
 Deprecated since: v10.0.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Changes the permissions on a symbolic link.
 
@@ -558,10 +561,10 @@ This method is only implemented on macOS.
 
 #### `fsPromises.lchown(path, uid, gid)`[\#](https://nodejs.org/api/fs.html#fspromiseslchownpath-uid-gid)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Changes the ownership on a symbolic link.
 
@@ -569,10 +572,10 @@ Changes the ownership on a symbolic link.
 
 Added in: v14.5.0, v12.19.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Changes the access and modification times of a file in the same way as [`fsPromises.utimes()`](https://nodejs.org/api/fs.html#fspromisesutimespath-atime-mtime), with the difference that if the path refers to a symbolic link, then the link is not dereferenced: instead, the timestamps of the symbolic link itself are changed.
 
@@ -580,18 +583,18 @@ Changes the access and modification times of a file in the same way as [`fsPromi
 
 Added in: v10.0.0
 
--   `existingPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `newPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `existingPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `newPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Creates a new link from the `existingPath` to the `newPath`. See the POSIX [`link(2)`](http://man7.org/linux/man-pages/man2/link.2.html) documentation for more detail.
 
 #### `fsPromises.lstat(path[, options])`[\#](https://nodejs.org/api/fs.html#fspromiseslstatpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object for the given symbolic link `path`.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object for the given symbolic link `path`.
 
 Equivalent to [`fsPromises.stat()`](https://nodejs.org/api/fs.html#fspromisesstatpath-options) unless `path` refers to a symbolic link, in which case the link itself is stat-ed, not the file that it refers to. Refer to the POSIX [`lstat(2)`](http://man7.org/linux/man-pages/man2/lstat.2.html) document for more detail.
 
@@ -599,13 +602,14 @@ Equivalent to [`fsPromises.stat()`](https://nodejs.org/api/fs.html#fspromisessta
 
 Added in: v10.0.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
-    -   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Not supported on Windows. **Default:** `0o777`.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Upon success, fulfills with `undefined` if `recursive` is `false`, or the first directory path created if `recursive` is `true`.
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
+  - `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Not supported on Windows. **Default:** `0o777`.
+
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Upon success, fulfills with `undefined` if `recursive` is `false`, or the first directory path created if `recursive` is `true`.
 
 Asynchronously creates a directory.
 
@@ -613,10 +617,10 @@ The optional `options` argument can be an integer specifying `mode` (permission 
 
 #### `fsPromises.mkdtemp(prefix[, options])`[\#](https://nodejs.org/api/fs.html#fspromisesmkdtempprefix-options)
 
--   `prefix` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with a string containing the filesystem path of the newly created temporary directory.
+- `prefix` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with a string containing the filesystem path of the newly created temporary directory.
 
 Creates a unique temporary directory. A unique directory name is generated by appending six random characters to the end of the provided `prefix`. Due to platform inconsistencies, avoid trailing `X` characters in `prefix`. Some platforms, notably the BSDs, can return more than six random characters, and replace trailing `X` characters in `prefix` with random characters.
 
@@ -630,14 +634,14 @@ The optional `options` argument can be a string specifying an encoding, or an ob
       console.error(err);
     }
 
-The `fsPromises.mkdtemp()` method will append the six randomly selected characters directly to the `prefix` string. For instance, given a directory `/tmp`, if the intention is to create a temporary directory *within* `/tmp`, the `prefix` must end with a trailing platform-specific path separator (`require('path').sep`).
+The `fsPromises.mkdtemp()` method will append the six randomly selected characters directly to the `prefix` string. For instance, given a directory `/tmp`, if the intention is to create a temporary directory _within_ `/tmp`, the `prefix` must end with a trailing platform-specific path separator (`require('path').sep`).
 
 #### `fsPromises.open(path, flags[, mode])`[\#](https://nodejs.org/api/fs.html#fspromisesopenpath-flags-mode)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `flags` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'r'`.
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Sets the file mode (permission and sticky bits) if the file is created. **Default:** `0o666` (readable and writable)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with a [](https://nodejs.org/api/fs.html#class-filehandle) object.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `flags` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'r'`.
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Sets the file mode (permission and sticky bits) if the file is created. **Default:** `0o666` (readable and writable)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with a [](https://nodejs.org/api/fs.html#class-filehandle) object.
 
 Opens a [](https://nodejs.org/api/fs.html#class-filehandle).
 
@@ -647,11 +651,11 @@ Some characters (`< > : " / \ | ? *`) are reserved under Windows as documented b
 
 #### `fsPromises.opendir(path[, options])`[\#](https://nodejs.org/api/fs.html#fspromisesopendirpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
-    -   `bufferSize` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Number of directory entries that are buffered internally when reading from the directory. Higher values lead to better performance but higher memory usage. **Default:** `32`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with an [&lt;fs.Dir&gt;](https://nodejs.org/api/fs.html#class-fsdir).
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
+  - `bufferSize` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Number of directory entries that are buffered internally when reading from the directory. Higher values lead to better performance but higher memory usage. **Default:** `32`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with an [&lt;fs.Dir&gt;](https://nodejs.org/api/fs.html#class-fsdir).
 
 Asynchronously open a directory for iterative scanning. See the POSIX [`opendir(3)`](http://man7.org/linux/man-pages/man3/opendir.3.html) documentation for more detail.
 
@@ -675,11 +679,11 @@ When using the async iterator, the [&lt;fs.Dir&gt;](https://nodejs.org/api/fs.ht
 
 #### `fsPromises.readdir(path[, options])`[\#](https://nodejs.org/api/fs.html#fspromisesreaddirpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
-    -   `withFileTypes` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with an array of the names of the files in the directory excluding `'.'` and `'..'`.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+  - `withFileTypes` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with an array of the names of the files in the directory excluding `'.'` and `'..'`.
 
 Reads the contents of a directory.
 
@@ -699,14 +703,15 @@ If `options.withFileTypes` is set to `true`, the resolved array will contain [&l
 
 #### `fsPromises.readFile(path[, options])`[\#](https://nodejs.org/api/fs.html#fspromisesreadfilepath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://nodejs.org/api/fs.html#class-filehandle) filename or `FileHandle`
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `null`
-    -   `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'r'`.
-    -   `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) allows aborting an in-progress readFile
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://nodejs.org/api/fs.html#class-filehandle) filename or `FileHandle`
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with the contents of the file.
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `null`
+  - `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'r'`.
+  - `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) allows aborting an in-progress readFile
+
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with the contents of the file.
 
 Asynchronously reads the entire contents of a file.
 
@@ -742,10 +747,10 @@ Any specified [](https://nodejs.org/api/fs.html#class-filehandle) has to support
 
 Added in: v10.0.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with the `linkString` upon success.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with the `linkString` upon success.
 
 Reads the contents of the symbolic link referred to by `path`. See the POSIX [`readlink(2)`](http://man7.org/linux/man-pages/man2/readlink.2.html) documentation for more detail. The promise is resolved with the `linkString` upon success.
 
@@ -755,10 +760,10 @@ The optional `options` argument can be a string specifying an encoding, or an ob
 
 Added in: v10.0.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with the resolved path upon success.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with the resolved path upon success.
 
 Determines the actual location of `path` using the same semantics as the `fs.realpath.native()` function.
 
@@ -772,20 +777,20 @@ On Linux, when Node.js is linked against musl libc, the procfs file system must 
 
 Added in: v10.0.0
 
--   `oldPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `newPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `oldPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `newPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Renames `oldPath` to `newPath`.
 
 #### `fsPromises.rmdir(path[, options])`[\#](https://nodejs.org/api/fs.html#fspromisesrmdirpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `maxRetries` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) If an `EBUSY`, `EMFILE`, `ENFILE`, `ENOTEMPTY`, or `EPERM` error is encountered, Node.js retries the operation with a linear backoff wait of `retryDelay` milliseconds longer on each try. This option represents the number of retries. This option is ignored if the `recursive` option is not `true`. **Default:** `0`.
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) If `true`, perform a recursive directory removal. In recursive mode, operations are retried on failure. **Default:** `false`. **Deprecated.**
-    -   `retryDelay` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The amount of time in milliseconds to wait between retries. This option is ignored if the `recursive` option is not `true`. **Default:** `100`.
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `maxRetries` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) If an `EBUSY`, `EMFILE`, `ENFILE`, `ENOTEMPTY`, or `EPERM` error is encountered, Node.js retries the operation with a linear backoff wait of `retryDelay` milliseconds longer on each try. This option represents the number of retries. This option is ignored if the `recursive` option is not `true`. **Default:** `0`.
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) If `true`, perform a recursive directory removal. In recursive mode, operations are retried on failure. **Default:** `false`. **Deprecated.**
+  - `retryDelay` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The amount of time in milliseconds to wait between retries. This option is ignored if the `recursive` option is not `true`. **Default:** `100`.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Removes the directory identified by `path`.
 
@@ -797,31 +802,31 @@ To get a behavior similar to the `rm -rf` Unix command, use [`fsPromises.rm()`](
 
 Added in: v14.14.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `force` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) When `true`, exceptions will be ignored if `path` does not exist. **Default:** `false`.
-    -   `maxRetries` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) If an `EBUSY`, `EMFILE`, `ENFILE`, `ENOTEMPTY`, or `EPERM` error is encountered, Node.js will retry the operation with a linear backoff wait of `retryDelay` milliseconds longer on each try. This option represents the number of retries. This option is ignored if the `recursive` option is not `true`. **Default:** `0`.
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) If `true`, perform a recursive directory removal. In recursive mode operations are retried on failure. **Default:** `false`.
-    -   `retryDelay` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The amount of time in milliseconds to wait between retries. This option is ignored if the `recursive` option is not `true`. **Default:** `100`.
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `force` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) When `true`, exceptions will be ignored if `path` does not exist. **Default:** `false`.
+  - `maxRetries` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) If an `EBUSY`, `EMFILE`, `ENFILE`, `ENOTEMPTY`, or `EPERM` error is encountered, Node.js will retry the operation with a linear backoff wait of `retryDelay` milliseconds longer on each try. This option represents the number of retries. This option is ignored if the `recursive` option is not `true`. **Default:** `0`.
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) If `true`, perform a recursive directory removal. In recursive mode operations are retried on failure. **Default:** `false`.
+  - `retryDelay` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The amount of time in milliseconds to wait between retries. This option is ignored if the `recursive` option is not `true`. **Default:** `100`.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Removes files and directories (modeled on the standard POSIX `rm` utility).
 
 #### `fsPromises.stat(path[, options])`[\#](https://nodejs.org/api/fs.html#fspromisesstatpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object for the given `path`.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object for the given `path`.
 
 #### `fsPromises.symlink(target, path[, type])`[\#](https://nodejs.org/api/fs.html#fspromisessymlinktarget-path-type)
 
 Added in: v10.0.0
 
--   `target` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `type` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'file'`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `target` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `type` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'file'`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Creates a symbolic link.
 
@@ -831,9 +836,9 @@ The `type` argument is only used on Windows platforms and can be one of `'dir'`,
 
 Added in: v10.0.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `len` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `len` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Truncates (shortens or extends the length) of the content at `path` to `len` bytes.
 
@@ -841,8 +846,8 @@ Truncates (shortens or extends the length) of the content at `path` to `len` byt
 
 Added in: v10.0.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 If `path` refers to a symbolic link, then the link is removed without affecting the file or directory to which that link refers. If the `path` refers to a file path that is not a symbolic link, the file is deleted. See the POSIX [`unlink(2)`](http://man7.org/linux/man-pages/man2/unlink.2.html) documentation for more detail.
 
@@ -850,31 +855,31 @@ If `path` refers to a symbolic link, then the link is removed without affecting 
 
 Added in: v10.0.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Change the file system timestamps of the object referenced by `path`.
 
 The `atime` and `mtime` arguments follow these rules:
 
--   Values can be either numbers representing Unix epoch time, `Date`s, or a numeric string like `'123456789.0'`.
--   If the value can not be converted to a number, or is `NaN`, `Infinity` or `-Infinity`, an `Error` will be thrown.
+- Values can be either numbers representing Unix epoch time, `Date`s, or a numeric string like `'123456789.0'`.
+- If the value can not be converted to a number, or is `NaN`, `Infinity` or `-Infinity`, an `Error` will be thrown.
 
 #### `fsPromises.watch(filename[, options])`[\#](https://nodejs.org/api/fs.html#fspromiseswatchfilename-options)
 
 Added in: v15.9.0, v14.18.0
 
--   `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `persistent` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Indicates whether the process should continue to run as long as files are being watched. **Default:** `true`.
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Indicates whether all subdirectories should be watched, or only the current directory. This applies when a directory is specified, and only on supported platforms (See [caveats](https://nodejs.org/api/fs.html#caveats)). **Default:** `false`.
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) Specifies the character encoding to be used for the filename passed to the listener. **Default:** `'utf8'`.
-    -   `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) An [](https://nodejs.org/api/globals.html#class-abortsignal) used to signal when the watcher should stop.
--   Returns: [](https://tc39.github.io/ecma262/#sec-asynciterator-interface) of objects with the properties:
-    -   `eventType` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) The type of change
-    -   `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) The name of the file changed.
+- `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `persistent` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Indicates whether the process should continue to run as long as files are being watched. **Default:** `true`.
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Indicates whether all subdirectories should be watched, or only the current directory. This applies when a directory is specified, and only on supported platforms (See [caveats](https://nodejs.org/api/fs.html#caveats)). **Default:** `false`.
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) Specifies the character encoding to be used for the filename passed to the listener. **Default:** `'utf8'`.
+  - `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) An [](https://nodejs.org/api/globals.html#class-abortsignal) used to signal when the watcher should stop.
+- Returns: [](https://tc39.github.io/ecma262/#sec-asynciterator-interface) of objects with the properties:
+  - `eventType` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) The type of change
+  - `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) The name of the file changed.
 
 Returns an async iterator that watches for changes on `filename`, where `filename` is either a file or a directory.
 
@@ -902,17 +907,18 @@ All the [caveats](https://nodejs.org/api/fs.html#caveats) for `fs.watch()` also 
 
 #### `fsPromises.writeFile(file, data[, options])`[\#](https://nodejs.org/api/fs.html#fspromiseswritefilefile-data-options)
 
--   `file` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://nodejs.org/api/fs.html#class-filehandle) filename or `FileHandle`
--   `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) |
-    | [](https://tc39.github.io/ecma262/#sec-asynciterable-interface) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterable_protocol) | [](https://nodejs.org/api/stream.html#stream)
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
-    -   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
-    -   `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'w'`.
-    -   `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) allows aborting an in-progress writeFile
+- `file` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://nodejs.org/api/fs.html#class-filehandle) filename or `FileHandle`
+- `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) |
+  | [](https://tc39.github.io/ecma262/#sec-asynciterable-interface) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterable_protocol) | [](https://nodejs.org/api/stream.html#stream)
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
+  - `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
+  - `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'w'`.
+  - `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) allows aborting an in-progress writeFile
+
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Fulfills with `undefined` upon success.
 
 Asynchronously writes data to a file, replacing the file if it already exists. `data` can be a string, a [](https://nodejs.org/api/buffer.html#class-buffer), or, an object with an own (not inherited) `toString` function property.
 
@@ -958,10 +964,10 @@ The callback APIs use the underlying Node.js threadpool to perform file system o
 
 #### `fs.access(path[, mode], callback)`[\#](https://nodejs.org/api/fs.html#fsaccesspath-mode-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `fs.constants.F_OK`
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `fs.constants.F_OK`
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Tests a user’s permissions for the file or directory specified by `path`. The `mode` argument is an optional integer that specifies the accessibility checks to be performed. Check [File access constants](https://nodejs.org/api/fs.html#file-access-constants) for possible values of `mode`. It is possible to create a mask consisting of the bitwise OR of two or more values (e.g. `fs.constants.W_OK | fs.constants.R_OK`).
 
@@ -1101,16 +1107,17 @@ On Windows, access-control policies (ACLs) on a directory may limit access to a 
 
 #### `fs.appendFile(path, data[, options], callback)`[\#](https://nodejs.org/api/fs.html#fsappendfilepath-data-options-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) filename or file descriptor
--   `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
-    -   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
-    -   `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'a'`.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) filename or file descriptor
+- `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
+  - `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
+  - `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'a'`.
+
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Asynchronously append data to a file, creating the file if it does not yet exist. `data` can be a string or a [](https://nodejs.org/api/buffer.html#class-buffer).
 
@@ -1155,10 +1162,10 @@ The `path` may be specified as a numeric file descriptor that has been opened fo
 
 #### `fs.chmod(path, mode, callback)`[\#](https://nodejs.org/api/fs.html#fschmodpath-mode-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Asynchronously changes the permissions of a file. No arguments other than a possible exception are given to the completion callback.
 
@@ -1275,9 +1282,9 @@ no permission
 
 For example, the octal value `0o765` means:
 
--   The owner may read, write and execute the file.
--   The group may read and write the file.
--   Others may read and execute the file.
+- The owner may read, write and execute the file.
+- The group may read and write the file.
+- Others may read and execute the file.
 
 When using raw numbers where file modes are expected, any value larger than `0o777` may result in platform-specific behaviors that are not supported to work consistently. Therefore constants like `S_ISVTX`, `S_ISGID` or `S_ISUID` are not exposed in `fs.constants`.
 
@@ -1285,11 +1292,11 @@ Caveats: on Windows only the write permission can be changed, and the distinctio
 
 #### `fs.chown(path, uid, gid, callback)`[\#](https://nodejs.org/api/fs.html#fschownpath-uid-gid-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Asynchronously changes owner and group of a file. No arguments other than a possible exception are given to the completion callback.
 
@@ -1297,9 +1304,9 @@ See the POSIX [`chown(2)`](http://man7.org/linux/man-pages/man2/chown.2.html) do
 
 #### `fs.close(fd[, callback])`[\#](https://nodejs.org/api/fs.html#fsclosefd-callback)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Closes the file descriptor. No arguments other than a possible exception are given to the completion callback.
 
@@ -1309,18 +1316,18 @@ See the POSIX [`close(2)`](http://man7.org/linux/man-pages/man2/close.2.html) do
 
 #### `fs.copyFile(src, dest[, mode], callback)`[\#](https://nodejs.org/api/fs.html#fscopyfilesrc-dest-mode-callback)
 
--   `src` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) source filename to copy
--   `dest` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) destination filename of the copy operation
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) modifiers for copy operation. **Default:** `0`.
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+- `src` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) source filename to copy
+- `dest` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) destination filename of the copy operation
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) modifiers for copy operation. **Default:** `0`.
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
 
 Asynchronously copies `src` to `dest`. By default, `dest` is overwritten if it already exists. No arguments other than a possible exception are given to the callback function. Node.js makes no guarantees about the atomicity of the copy operation. If an error occurs after the destination file has been opened for writing, Node.js will attempt to remove the destination.
 
 `mode` is an optional integer that specifies the behavior of the copy operation. It is possible to create a mask consisting of the bitwise OR of two or more values (e.g. `fs.constants.COPYFILE_EXCL | fs.constants.COPYFILE_FICLONE`).
 
--   `fs.constants.COPYFILE_EXCL`: The copy operation will fail if `dest` already exists.
--   `fs.constants.COPYFILE_FICLONE`: The copy operation will attempt to create a copy-on-write reflink. If the platform does not support copy-on-write, then a fallback copy mechanism is used.
--   `fs.constants.COPYFILE_FICLONE_FORCE`: The copy operation will attempt to create a copy-on-write reflink. If the platform does not support copy-on-write, then the operation will fail.
+- `fs.constants.COPYFILE_EXCL`: The copy operation will fail if `dest` already exists.
+- `fs.constants.COPYFILE_FICLONE`: The copy operation will attempt to create a copy-on-write reflink. If the platform does not support copy-on-write, then a fallback copy mechanism is used.
+- `fs.constants.COPYFILE_FICLONE_FORCE`: The copy operation will attempt to create a copy-on-write reflink. If the platform does not support copy-on-write, then the operation will fail.
 
 <!-- -->
 
@@ -1341,16 +1348,16 @@ Asynchronously copies `src` to `dest`. By default, `dest` is overwritten if it a
 
 Added in: v16.7.0
 
--   `src` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) source path to copy.
--   `dest` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) destination path to copy to.
--   `options`
-    -   `dereference` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) dereference symlinks. **Default:** `false`.
-    -   `errorOnExist` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) when `force` is `false`, and the destination exists, throw an error. **Default:** `false`.
-    -   `filter` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function) Function to filter copied files/directories. Return `true` to copy the item, `false` to ignore it. Can also return a `Promise` that resolves to `true` or `false` **Default:** `undefined`.
-    -   `force` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) overwrite existing file or directory. The copy operation will ignore errors if you set this to false and the destination exists. Use the `errorOnExist` option to change this behavior. **Default:** `true`.
-    -   `preserveTimestamps` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) When `true` timestamps from `src` will be preserved. **Default:** `false`.
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) copy directories recursively **Default:** `false`
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+- `src` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) source path to copy.
+- `dest` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) destination path to copy to.
+- `options`
+  - `dereference` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) dereference symlinks. **Default:** `false`.
+  - `errorOnExist` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) when `force` is `false`, and the destination exists, throw an error. **Default:** `false`.
+  - `filter` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function) Function to filter copied files/directories. Return `true` to copy the item, `false` to ignore it. Can also return a `Promise` that resolves to `true` or `false` **Default:** `undefined`.
+  - `force` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) overwrite existing file or directory. The copy operation will ignore errors if you set this to false and the destination exists. Use the `errorOnExist` option to change this behavior. **Default:** `true`.
+  - `preserveTimestamps` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) When `true` timestamps from `src` will be preserved. **Default:** `false`.
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) copy directories recursively **Default:** `false`
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
 
 Asynchronously copies the entire directory structure from `src` to `dest`, including subdirectories and files.
 
@@ -1358,20 +1365,20 @@ When copying a directory to another directory, globs are not supported and behav
 
 #### `fs.createReadStream(path[, options])`[\#](https://nodejs.org/api/fs.html#fscreatereadstreampath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `flags` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'r'`.
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `null`
-    -   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://nodejs.org/api/fs.html#class-filehandle) **Default:** `null`
-    -   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
-    -   `autoClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
-    -   `emitClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
-    -   `start` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
-    -   `end` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `Infinity`
-    -   `highWaterMark` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `64 * 1024`
-    -   `fs`
-        | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `null`
--   Returns: [&lt;fs.ReadStream&gt;](https://nodejs.org/api/fs.html#class-fsreadstream)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `flags` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'r'`.
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `null`
+  - `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://nodejs.org/api/fs.html#class-filehandle) **Default:** `null`
+  - `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
+  - `autoClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
+  - `emitClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
+  - `start` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+  - `end` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `Infinity`
+  - `highWaterMark` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `64 * 1024`
+  - `fs`
+    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `null`
+- Returns: [&lt;fs.ReadStream&gt;](https://nodejs.org/api/fs.html#class-fsreadstream)
 
 Unlike the 16 kb default `highWaterMark` for a [&lt;stream.Readable&gt;](https://nodejs.org/api/stream.html#class-streamreadable), the stream returned by this method has a default `highWaterMark` of 64 kb.
 
@@ -1414,18 +1421,18 @@ If `options` is a string, then it specifies the encoding.
 
 #### `fs.createWriteStream(path[, options])`[\#](https://nodejs.org/api/fs.html#fscreatewritestreampath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `flags` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'w'`.
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
-    -   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://nodejs.org/api/fs.html#class-filehandle) **Default:** `null`
-    -   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
-    -   `autoClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
-    -   `emitClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
-    -   `start` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
-    -   `fs`
-        | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `null`
--   Returns: [&lt;fs.WriteStream&gt;](https://nodejs.org/api/fs.html#class-fswritestream)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `flags` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'w'`.
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+  - `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://nodejs.org/api/fs.html#class-filehandle) **Default:** `null`
+  - `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
+  - `autoClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
+  - `emitClose` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
+  - `start` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+  - `fs`
+    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `null`
+- Returns: [&lt;fs.WriteStream&gt;](https://nodejs.org/api/fs.html#class-fswritestream)
 
 `options` may also include a `start` option to allow writing data at some position past the beginning of the file, allowed values are in the \[0, [`Number.MAX_SAFE_INTEGER`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MAX_SAFE_INTEGER)\] range. Modifying a file rather than replacing it may require the `flags` option to be set to `r+` rather than the default `w`. The `encoding` can be any one of those accepted by [](https://nodejs.org/api/buffer.html#class-buffer).
 
@@ -1441,9 +1448,9 @@ If `options` is a string, then it specifies the encoding.
 
 #### `fs.exists(path, callback)`[\#](https://nodejs.org/api/fs.html#fsexistspath-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `exists` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `exists` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Test whether or not the given path exists by checking with the file system. Then call the `callback` argument with either true or false:
 
@@ -1552,10 +1559,10 @@ In general, check for the existence of a file only if the file won’t be used d
 
 #### `fs.fchmod(fd, mode, callback)`[\#](https://nodejs.org/api/fs.html#fsfchmodfd-mode-callback)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Sets the permissions on the file. No arguments other than a possible exception are given to the completion callback.
 
@@ -1563,11 +1570,11 @@ See the POSIX [`fchmod(2)`](http://man7.org/linux/man-pages/man2/fchmod.2.html) 
 
 #### `fs.fchown(fd, uid, gid, callback)`[\#](https://nodejs.org/api/fs.html#fsfchownfd-uid-gid-callback)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Sets the owner of the file. No arguments other than a possible exception are given to the completion callback.
 
@@ -1575,20 +1582,20 @@ See the POSIX [`fchown(2)`](http://man7.org/linux/man-pages/man2/fchown.2.html) 
 
 #### `fs.fdatasync(fd, callback)`[\#](https://nodejs.org/api/fs.html#fsfdatasyncfd-callback)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Forces all currently queued I/O operations associated with the file to the operating system’s synchronized I/O completion state. Refer to the POSIX [`fdatasync(2)`](http://man7.org/linux/man-pages/man2/fdatasync.2.html) documentation for details. No arguments other than a possible exception are given to the completion callback.
 
 #### `fs.fstat(fd[, options], callback)`[\#](https://nodejs.org/api/fs.html#fsfstatfd-options-callback)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `options`
-    -   `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `stats` [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `options`
+  - `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `stats` [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
 
 Invokes the callback with the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) for the file descriptor.
 
@@ -1596,18 +1603,18 @@ See the POSIX [`fstat(2)`](http://man7.org/linux/man-pages/man2/fstat.2.html) do
 
 #### `fs.fsync(fd, callback)`[\#](https://nodejs.org/api/fs.html#fsfsyncfd-callback)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Request that all data for the open file descriptor is flushed to the storage device. The specific implementation is operating system and device specific. Refer to the POSIX [`fsync(2)`](http://man7.org/linux/man-pages/man2/fsync.2.html) documentation for more detail. No arguments other than a possible exception are given to the completion callback.
 
 #### `fs.ftruncate(fd[, len], callback)`[\#](https://nodejs.org/api/fs.html#fsftruncatefd-len-callback)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `len` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `len` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Truncates the file descriptor. No arguments other than a possible exception are given to the completion callback.
 
@@ -1645,20 +1652,20 @@ If `len` is negative then `0` will be used.
 
 #### `fs.futimes(fd, atime, mtime, callback)`[\#](https://nodejs.org/api/fs.html#fsfutimesfd-atime-mtime-callback)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Change the file system timestamps of the object referenced by the supplied file descriptor. See [`fs.utimes()`](https://nodejs.org/api/fs.html#fsutimespath-atime-mtime-callback).
 
 #### `fs.lchmod(path, mode, callback)`[\#](https://nodejs.org/api/fs.html#fslchmodpath-mode-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AggregateError)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AggregateError)
 
 Changes the permissions on a symbolic link. No arguments other than a possible exception are given to the completion callback.
 
@@ -1668,11 +1675,11 @@ See the POSIX [`lchmod(2)`](https://www.freebsd.org/cgi/man.cgi?query=lchmod&sek
 
 #### `fs.lchown(path, uid, gid, callback)`[\#](https://nodejs.org/api/fs.html#fslchownpath-uid-gid-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Set the owner of the symbolic link. No arguments other than a possible exception are given to the completion callback.
 
@@ -1682,11 +1689,11 @@ See the POSIX [`lchown(2)`](http://man7.org/linux/man-pages/man2/lchown.2.html) 
 
 Added in: v14.5.0, v12.19.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Changes the access and modification times of a file in the same way as [`fs.utimes()`](https://nodejs.org/api/fs.html#fsutimespath-atime-mtime-callback), with the difference that if the path refers to a symbolic link, then the link is not dereferenced: instead, the timestamps of the symbolic link itself are changed.
 
@@ -1694,21 +1701,21 @@ No arguments other than a possible exception are given to the completion callbac
 
 #### `fs.link(existingPath, newPath, callback)`[\#](https://nodejs.org/api/fs.html#fslinkexistingpath-newpath-callback)
 
--   `existingPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `newPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `existingPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `newPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Creates a new link from the `existingPath` to the `newPath`. See the POSIX [`link(2)`](http://man7.org/linux/man-pages/man2/link.2.html) documentation for more detail. No arguments other than a possible exception are given to the completion callback.
 
 #### `fs.lstat(path[, options], callback)`[\#](https://nodejs.org/api/fs.html#fslstatpath-options-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `stats` [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `stats` [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
 
 Retrieves the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) for the symbolic link referred to by the path. The callback gets two arguments `(err, stats)` where `stats` is a [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object. `lstat()` is identical to `stat()`, except that if `path` is a symbolic link, then the link itself is stat-ed, not the file that it refers to.
 
@@ -1716,14 +1723,15 @@ See the POSIX [`lstat(2)`](http://man7.org/linux/man-pages/man2/lstat.2.html) do
 
 #### `fs.mkdir(path[, options], callback)`[\#](https://nodejs.org/api/fs.html#fsmkdirpath-options-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
-    -   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Not supported on Windows. **Default:** `0o777`.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
+  - `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Not supported on Windows. **Default:** `0o777`.
+
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Asynchronously creates a directory.
 
@@ -1750,12 +1758,12 @@ See the POSIX [`mkdir(2)`](http://man7.org/linux/man-pages/man2/mkdir.2.html) do
 
 #### `fs.mkdtemp(prefix[, options], callback)`[\#](https://nodejs.org/api/fs.html#fsmkdtempprefix-options-callback)
 
--   `prefix` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `directory` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
+- `prefix` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `directory` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
 Creates a unique temporary directory.
 
@@ -1773,7 +1781,7 @@ The optional `options` argument can be a string specifying an encoding, or an ob
 
     });
 
-The `fs.mkdtemp()` method will append the six randomly selected characters directly to the `prefix` string. For instance, given a directory `/tmp`, if the intention is to create a temporary directory *within* `/tmp`, the `prefix` must end with a trailing platform-specific path separator (`require('path').sep`).
+The `fs.mkdtemp()` method will append the six randomly selected characters directly to the `prefix` string. For instance, given a directory `/tmp`, if the intention is to create a temporary directory _within_ `/tmp`, the `prefix` must end with a trailing platform-specific path separator (`require('path').sep`).
 
     import { tmpdir } from 'os';
     import { mkdtemp } from 'fs';
@@ -1802,12 +1810,12 @@ The `fs.mkdtemp()` method will append the six randomly selected characters direc
 
 #### `fs.open(path[, flags[, mode]], callback)`[\#](https://nodejs.org/api/fs.html#fsopenpath-flags-mode-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `flags` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'r'`.
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666` (readable and writable)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `flags` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'r'`.
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666` (readable and writable)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
 Asynchronous file open. See the POSIX [`open(2)`](http://man7.org/linux/man-pages/man2/open.2.html) documentation for more details.
 
@@ -1821,13 +1829,13 @@ Functions based on `fs.open()` exhibit this behavior as well: `fs.writeFile()`, 
 
 #### `fs.opendir(path[, options], callback)`[\#](https://nodejs.org/api/fs.html#fsopendirpath-options-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
-    -   `bufferSize` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Number of directory entries that are buffered internally when reading from the directory. Higher values lead to better performance but higher memory usage. **Default:** `32`
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `dir` [&lt;fs.Dir&gt;](https://nodejs.org/api/fs.html#class-fsdir)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
+  - `bufferSize` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Number of directory entries that are buffered internally when reading from the directory. Higher values lead to better performance but higher memory usage. **Default:** `32`
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `dir` [&lt;fs.Dir&gt;](https://nodejs.org/api/fs.html#class-fsdir)
 
 Asynchronously open a directory. See the POSIX [`opendir(3)`](http://man7.org/linux/man-pages/man3/opendir.3.html) documentation for more details.
 
@@ -1837,15 +1845,15 @@ The `encoding` option sets the encoding for the `path` while opening the directo
 
 #### `fs.read(fd, buffer, offset, length, position, callback)`[\#](https://nodejs.org/api/fs.html#fsreadfd-buffer-offset-length-position-callback)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) The buffer that the data will be written to.
--   `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The position in `buffer` to write the data to.
--   `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes to read.
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt) Specifies where to begin reading from in the file. If `position` is `null` or `-1` , data will be read from the current file position, and the file position will be updated. If `position` is an integer, the file position will be unchanged.
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `bytesRead` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
-    -   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) The buffer that the data will be written to.
+- `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The position in `buffer` to write the data to.
+- `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes to read.
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt) Specifies where to begin reading from in the file. If `position` is `null` or `-1` , data will be read from the current file position, and the file position will be updated. If `position` is an integer, the file position will be unchanged.
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `bytesRead` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+  - `buffer` [](https://nodejs.org/api/buffer.html#class-buffer)
 
 Read data from the file specified by `fd`.
 
@@ -1857,28 +1865,28 @@ If this method is invoked as its [`util.promisify()`](https://nodejs.org/api/uti
 
 #### `fs.read(fd, [options,] callback)`[\#](https://nodejs.org/api/fs.html#fsreadfd-options-callback)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `options`
-    -   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) **Default:** `Buffer.alloc(16384)`
-    -   `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
-    -   `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `buffer.byteLength`
-    -   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt) **Default:** `null`
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `bytesRead` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
-    -   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `options`
+  - `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) **Default:** `Buffer.alloc(16384)`
+  - `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
+  - `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `buffer.byteLength`
+  - `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt) **Default:** `null`
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `bytesRead` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+  - `buffer` [](https://nodejs.org/api/buffer.html#class-buffer)
 
 Similar to the [`fs.read()`](https://nodejs.org/api/fs.html#fsreadfd-buffer-offset-length-position-callback) function, this version takes an optional `options` object. If no `options` object is specified, it will default with the above values.
 
 #### `fs.readdir(path[, options], callback)`[\#](https://nodejs.org/api/fs.html#fsreaddirpath-options-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
-    -   `withFileTypes` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `files` [&lt;string\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [&lt;Buffer\[\]&gt;](https://nodejs.org/api/buffer.html#class-buffer) | [&lt;fs.Dirent\[\]&gt;](https://nodejs.org/api/fs.html#class-fsdirent)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+  - `withFileTypes` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `files` [&lt;string\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [&lt;Buffer\[\]&gt;](https://nodejs.org/api/buffer.html#class-buffer) | [&lt;fs.Dirent\[\]&gt;](https://nodejs.org/api/fs.html#class-fsdirent)
 
 Reads the contents of a directory. The callback gets two arguments `(err, files)` where `files` is an array of the names of the files in the directory excluding `'.'` and `'..'`.
 
@@ -1890,16 +1898,17 @@ If `options.withFileTypes` is set to `true`, the `files` array will contain [&lt
 
 #### `fs.readFile(path[, options], callback)`[\#](https://nodejs.org/api/fs.html#fsreadfilepath-options-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) filename or file descriptor
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `null`
-    -   `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'r'`.
-    -   `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) allows aborting an in-progress readFile
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) filename or file descriptor
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AggregateError)
-    -   `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `null`
+  - `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'r'`.
+  - `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) allows aborting an in-progress readFile
+
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AggregateError)
+  - `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
 
 Asynchronously reads the entire contents of a file.
 
@@ -1968,12 +1977,12 @@ The Node.js GitHub issue [\#25741](https://github.com/nodejs/node/issues/25741) 
 
 #### `fs.readlink(path[, options], callback)`[\#](https://nodejs.org/api/fs.html#fsreadlinkpath-options-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `linkString` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `linkString` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
 
 Reads the contents of the symbolic link referred to by `path`. The callback gets two arguments `(err, linkString)`.
 
@@ -1985,13 +1994,13 @@ The optional `options` argument can be a string specifying an encoding, or an ob
 
 Added in: v13.13.0, v12.17.0
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `buffers` [&lt;ArrayBufferView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `bytesRead` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
-    -   `buffers` [&lt;ArrayBufferView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `buffers` [&lt;ArrayBufferView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `bytesRead` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+  - `buffers` [&lt;ArrayBufferView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)
 
 Read from a file specified by `fd` and write to an array of `ArrayBufferView`s using `readv()`.
 
@@ -2003,12 +2012,12 @@ If this method is invoked as its [`util.promisify()`](https://nodejs.org/api/uti
 
 #### `fs.realpath(path[, options], callback)`[\#](https://nodejs.org/api/fs.html#fsrealpathpath-options-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `resolvedPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `resolvedPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
 
 Asynchronously computes the canonical pathname by resolving `.`, `..` and symbolic links.
 
@@ -2031,12 +2040,12 @@ If `path` resolves to a socket or a pipe, the function will return a system depe
 
 Added in: v9.2.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `resolvedPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `resolvedPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
 
 Asynchronous [`realpath(3)`](http://man7.org/linux/man-pages/man3/realpath.3.html).
 
@@ -2050,10 +2059,10 @@ On Linux, when Node.js is linked against musl libc, the procfs file system must 
 
 #### `fs.rename(oldPath, newPath, callback)`[\#](https://nodejs.org/api/fs.html#fsrenameoldpath-newpath-callback)
 
--   `oldPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `newPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `oldPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `newPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Asynchronously rename file at `oldPath` to the pathname provided as `newPath`. In the case that `newPath` already exists, it will be overwritten. If there is a directory at `newPath`, an error will be raised instead. No arguments other than a possible exception are given to the completion callback.
 
@@ -2068,13 +2077,13 @@ See also: [`rename(2)`](http://man7.org/linux/man-pages/man2/rename.2.html).
 
 #### `fs.rmdir(path[, options], callback)`[\#](https://nodejs.org/api/fs.html#fsrmdirpath-options-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `maxRetries` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) If an `EBUSY`, `EMFILE`, `ENFILE`, `ENOTEMPTY`, or `EPERM` error is encountered, Node.js retries the operation with a linear backoff wait of `retryDelay` milliseconds longer on each try. This option represents the number of retries. This option is ignored if the `recursive` option is not `true`. **Default:** `0`.
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) If `true`, perform a recursive directory removal. In recursive mode, operations are retried on failure. **Default:** `false`. **Deprecated.**
-    -   `retryDelay` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The amount of time in milliseconds to wait between retries. This option is ignored if the `recursive` option is not `true`. **Default:** `100`.
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `maxRetries` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) If an `EBUSY`, `EMFILE`, `ENFILE`, `ENOTEMPTY`, or `EPERM` error is encountered, Node.js retries the operation with a linear backoff wait of `retryDelay` milliseconds longer on each try. This option represents the number of retries. This option is ignored if the `recursive` option is not `true`. **Default:** `0`.
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) If `true`, perform a recursive directory removal. In recursive mode, operations are retried on failure. **Default:** `false`. **Deprecated.**
+  - `retryDelay` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The amount of time in milliseconds to wait between retries. This option is ignored if the `recursive` option is not `true`. **Default:** `100`.
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Asynchronous [`rmdir(2)`](http://man7.org/linux/man-pages/man2/rmdir.2.html). No arguments other than a possible exception are given to the completion callback.
 
@@ -2086,25 +2095,25 @@ To get a behavior similar to the `rm -rf` Unix command, use [`fs.rm()`](https://
 
 Added in: v14.14.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `force` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) When `true`, exceptions will be ignored if `path` does not exist. **Default:** `false`.
-    -   `maxRetries` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) If an `EBUSY`, `EMFILE`, `ENFILE`, `ENOTEMPTY`, or `EPERM` error is encountered, Node.js will retry the operation with a linear backoff wait of `retryDelay` milliseconds longer on each try. This option represents the number of retries. This option is ignored if the `recursive` option is not `true`. **Default:** `0`.
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) If `true`, perform a recursive removal. In recursive mode operations are retried on failure. **Default:** `false`.
-    -   `retryDelay` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The amount of time in milliseconds to wait between retries. This option is ignored if the `recursive` option is not `true`. **Default:** `100`.
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `force` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) When `true`, exceptions will be ignored if `path` does not exist. **Default:** `false`.
+  - `maxRetries` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) If an `EBUSY`, `EMFILE`, `ENFILE`, `ENOTEMPTY`, or `EPERM` error is encountered, Node.js will retry the operation with a linear backoff wait of `retryDelay` milliseconds longer on each try. This option represents the number of retries. This option is ignored if the `recursive` option is not `true`. **Default:** `0`.
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) If `true`, perform a recursive removal. In recursive mode operations are retried on failure. **Default:** `false`.
+  - `retryDelay` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The amount of time in milliseconds to wait between retries. This option is ignored if the `recursive` option is not `true`. **Default:** `100`.
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Asynchronously removes files and directories (modeled on the standard POSIX `rm` utility). No arguments other than a possible exception are given to the completion callback.
 
 #### `fs.stat(path[, options], callback)`[\#](https://nodejs.org/api/fs.html#fsstatpath-options-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `stats` [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `stats` [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
 
 Asynchronous [`stat(2)`](http://man7.org/linux/man-pages/man2/stat.2.html). The callback gets two arguments `(err, stats)` where `stats` is an [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object.
 
@@ -2180,11 +2189,11 @@ The resulting output will resemble:
 
 #### `fs.symlink(target, path[, type], callback)`[\#](https://nodejs.org/api/fs.html#fssymlinktarget-path-type-callback)
 
--   `target` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `type` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `target` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `type` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Creates the link called `path` pointing to `target`. No arguments other than a possible exception are given to the completion callback.
 
@@ -2207,10 +2216,10 @@ The above example creates a symbolic link `mewtwo` which points to `mew` in the 
 
 #### `fs.truncate(path[, len], callback)`[\#](https://nodejs.org/api/fs.html#fstruncatepath-len-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `len` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AggregateError)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `len` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AggregateError)
 
 Truncates the file. No arguments other than a possible exception are given to the completion callback. A file descriptor can also be passed as the first argument. In this case, `fs.ftruncate()` is called.
 
@@ -2227,9 +2236,9 @@ See the POSIX [`truncate(2)`](http://man7.org/linux/man-pages/man2/truncate.2.ht
 
 #### `fs.unlink(path, callback)`[\#](https://nodejs.org/api/fs.html#fsunlinkpath-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Asynchronously removes a file or symbolic link. No arguments other than a possible exception are given to the completion callback.
 
@@ -2248,10 +2257,10 @@ See the POSIX [`unlink(2)`](http://man7.org/linux/man-pages/man2/unlink.2.html) 
 
 Added in: v0.1.31
 
--   `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `listener` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function) Optional, a listener previously attached using `fs.watchFile()`
+- `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `listener` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function) Optional, a listener previously attached using `fs.watchFile()`
 
-Stop watching for changes on `filename`. If `listener` is specified, only that particular listener is removed. Otherwise, *all* listeners are removed, effectively stopping watching of `filename`.
+Stop watching for changes on `filename`. If `listener` is specified, only that particular listener is removed. Otherwise, _all_ listeners are removed, effectively stopping watching of `filename`.
 
 Calling `fs.unwatchFile()` with a filename that is not being watched is a no-op, not an error.
 
@@ -2259,31 +2268,31 @@ Using [`fs.watch()`](https://nodejs.org/api/fs.html#fswatchfilename-options-list
 
 #### `fs.utimes(path, atime, mtime, callback)`[\#](https://nodejs.org/api/fs.html#fsutimespath-atime-mtime-callback)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Change the file system timestamps of the object referenced by `path`.
 
 The `atime` and `mtime` arguments follow these rules:
 
--   Values can be either numbers representing Unix epoch time in seconds, `Date`s, or a numeric string like `'123456789.0'`.
--   If the value can not be converted to a number, or is `NaN`, `Infinity` or `-Infinity`, an `Error` will be thrown.
+- Values can be either numbers representing Unix epoch time in seconds, `Date`s, or a numeric string like `'123456789.0'`.
+- If the value can not be converted to a number, or is `NaN`, `Infinity` or `-Infinity`, an `Error` will be thrown.
 
 #### `fs.watch(filename[, options][, listener])`[\#](https://nodejs.org/api/fs.html#fswatchfilename-options-listener)
 
--   `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `persistent` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Indicates whether the process should continue to run as long as files are being watched. **Default:** `true`.
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Indicates whether all subdirectories should be watched, or only the current directory. This applies when a directory is specified, and only on supported platforms (See [caveats](https://nodejs.org/api/fs.html#caveats)). **Default:** `false`.
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) Specifies the character encoding to be used for the filename passed to the listener. **Default:** `'utf8'`.
-    -   `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) allows closing the watcher with an AbortSignal.
--   `listener` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Undefined_type) **Default:** `undefined`
-    -   `eventType` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
-    -   `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
--   Returns: [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher)
+- `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `persistent` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Indicates whether the process should continue to run as long as files are being watched. **Default:** `true`.
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Indicates whether all subdirectories should be watched, or only the current directory. This applies when a directory is specified, and only on supported platforms (See [caveats](https://nodejs.org/api/fs.html#caveats)). **Default:** `false`.
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) Specifies the character encoding to be used for the filename passed to the listener. **Default:** `'utf8'`.
+  - `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) allows closing the watcher with an AbortSignal.
+- `listener` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Undefined_type) **Default:** `undefined`
+  - `eventType` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
+  - `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+- Returns: [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher)
 
 Watch for changes on `filename`, where `filename` is either a file or a directory.
 
@@ -2309,13 +2318,13 @@ On Windows, no events will be emitted if the watched directory is moved or renam
 
 This feature depends on the underlying operating system providing a way to be notified of filesystem changes.
 
--   On Linux systems, this uses [`inotify(7)`](https://man7.org/linux/man-pages/man7/inotify.7.html).
--   On BSD systems, this uses [`kqueue(2)`](https://www.freebsd.org/cgi/man.cgi?query=kqueue&sektion=2).
--   On macOS, this uses [`kqueue(2)`](https://www.freebsd.org/cgi/man.cgi?query=kqueue&sektion=2) for files and [`FSEvents`](https://developer.apple.com/documentation/coreservices/file_system_events) for directories.
--   On SunOS systems (including Solaris and SmartOS), this uses [`event ports`](https://illumos.org/man/port_create).
--   On Windows systems, this feature depends on [`ReadDirectoryChangesW`](https://docs.microsoft.com/en-us/windows/desktop/api/winbase/nf-winbase-readdirectorychangesw).
--   On AIX systems, this feature depends on [`AHAFS`](https://developer.ibm.com/articles/au-aix_event_infrastructure/), which must be enabled.
--   On IBM i systems, this feature is not supported.
+- On Linux systems, this uses [`inotify(7)`](https://man7.org/linux/man-pages/man7/inotify.7.html).
+- On BSD systems, this uses [`kqueue(2)`](https://www.freebsd.org/cgi/man.cgi?query=kqueue&sektion=2).
+- On macOS, this uses [`kqueue(2)`](https://www.freebsd.org/cgi/man.cgi?query=kqueue&sektion=2) for files and [`FSEvents`](https://developer.apple.com/documentation/coreservices/file_system_events) for directories.
+- On SunOS systems (including Solaris and SmartOS), this uses [`event ports`](https://illumos.org/man/port_create).
+- On Windows systems, this feature depends on [`ReadDirectoryChangesW`](https://docs.microsoft.com/en-us/windows/desktop/api/winbase/nf-winbase-readdirectorychangesw).
+- On AIX systems, this feature depends on [`AHAFS`](https://developer.ibm.com/articles/au-aix_event_infrastructure/), which must be enabled.
+- On IBM i systems, this feature is not supported.
 
 If the underlying functionality is not available for some reason, then `fs.watch()` will not be able to function and may throw an exception. For example, watching files or directories can be unreliable, and in some cases impossible, on network file systems (NFS, SMB, etc) or host file systems when using virtualization software such as Vagrant or Docker.
 
@@ -2323,7 +2332,7 @@ It is still possible to use `fs.watchFile()`, which uses stat polling, but this 
 
 ###### Inodes[\#](https://nodejs.org/api/fs.html#inodes)
 
-On Linux and macOS systems, `fs.watch()` resolves the path to an [inode](https://en.wikipedia.org/wiki/Inode) and watches the inode. If the watched path is deleted and recreated, it is assigned a new inode. The watch will emit an event for the delete but will continue watching the *original* inode. Events for the new inode will not be emitted. This is expected behavior.
+On Linux and macOS systems, `fs.watch()` resolves the path to an [inode](https://en.wikipedia.org/wiki/Inode) and watches the inode. If the watched path is deleted and recreated, it is assigned a new inode. The watch will emit an event for the delete but will continue watching the _original_ inode. Events for the new inode will not be emitted. This is expected behavior.
 
 AIX files retain the same inode for the lifetime of a file. Saving and closing a watched file on AIX will result in two notifications (one for adding new content, and one for truncation).
 
@@ -2343,15 +2352,15 @@ Providing `filename` argument in the callback is only supported on Linux, macOS,
 
 #### `fs.watchFile(filename[, options], listener)`[\#](https://nodejs.org/api/fs.html#fswatchfilefilename-options-listener)
 
--   `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
-    -   `persistent` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
-    -   `interval` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `5007`
--   `listener` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `current` [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
-    -   `previous` [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
--   Returns: [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#class-fsstatwatcher)
+- `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
+  - `persistent` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `true`
+  - `interval` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `5007`
+- `listener` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `current` [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
+  - `previous` [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
+- Returns: [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#class-fsstatwatcher)
 
 Watch for changes on `filename`. The callback `listener` will be called each time the file is accessed.
 
@@ -2378,20 +2387,20 @@ When a file being watched by `fs.watchFile()` disappears and reappears, then the
 
 This happens when:
 
--   the file is deleted, followed by a restore
--   the file is renamed and then renamed a second time back to its original name
+- the file is deleted, followed by a restore
+- the file is renamed and then renamed a second time back to its original name
 
 #### `fs.write(fd, buffer[, offset[, length[, position]]], callback)`[\#](https://nodejs.org/api/fs.html#fswritefd-buffer-offset-length-position-callback)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
--   `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `bytesWritten` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
-    -   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+- `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `bytesWritten` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+  - `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView)
 
 Write `buffer` to the file specified by `fd`. If `buffer` is a normal object, it must have an own `toString` function property.
 
@@ -2399,7 +2408,7 @@ Write `buffer` to the file specified by `fd`. If `buffer` is a normal object, it
 
 `position` refers to the offset from the beginning of the file where this data should be written. If `typeof position !== 'number'`, the data will be written at the current position. See [`pwrite(2)`](http://man7.org/linux/man-pages/man2/pwrite.2.html).
 
-The callback will be given three arguments `(err, bytesWritten, buffer)` where `bytesWritten` specifies how many *bytes* were written from `buffer`.
+The callback will be given three arguments `(err, bytesWritten, buffer)` where `bytesWritten` specifies how many _bytes_ were written from `buffer`.
 
 If this method is invoked as its [`util.promisify()`](https://nodejs.org/api/util.html#utilpromisifyoriginal)ed version, it returns a promise for an `Object` with `bytesWritten` and `buffer` properties.
 
@@ -2409,14 +2418,14 @@ On Linux, positional writes don’t work when the file is opened in append mode.
 
 #### `fs.write(fd, string[, position[, encoding]], callback)`[\#](https://nodejs.org/api/fs.html#fswritefd-string-position-encoding-callback)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `string` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `written` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
-    -   `string` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `string` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `written` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+  - `string` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
 Write `string` to the file specified by `fd`. If `string` is not a string, or an object with an own `toString` function property, then an exception is thrown.
 
@@ -2424,7 +2433,7 @@ Write `string` to the file specified by `fd`. If `string` is not a string, or an
 
 `encoding` is the expected string encoding.
 
-The callback will receive the arguments `(err, written, string)` where `written` specifies how many *bytes* the passed string required to be written. Bytes written is not necessarily the same as string characters written. See [`Buffer.byteLength`](https://nodejs.org/api/buffer.html#static-method-bufferbytelengthstring-encoding).
+The callback will receive the arguments `(err, written, string)` where `written` specifies how many _bytes_ the passed string required to be written. Bytes written is not necessarily the same as string characters written. See [`Buffer.byteLength`](https://nodejs.org/api/buffer.html#static-method-bufferbytelengthstring-encoding).
 
 It is unsafe to use `fs.write()` multiple times on the same file without waiting for the callback. For this scenario, [`fs.createWriteStream()`](https://nodejs.org/api/fs.html#fscreatewritestreampath-options) is recommended.
 
@@ -2434,17 +2443,18 @@ On Windows, if the file descriptor is connected to the console (e.g. `fd == 1` 
 
 #### `fs.writeFile(file, data[, options], callback)`[\#](https://nodejs.org/api/fs.html#fswritefilefile-data-options-callback)
 
--   `file` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) filename or file descriptor
--   `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) |
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
-    -   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
-    -   `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'w'`.
-    -   `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) allows aborting an in-progress writeFile
+- `file` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) filename or file descriptor
+- `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) |
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AggregateError)
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
+  - `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
+  - `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'w'`.
+  - `signal` [](https://nodejs.org/api/globals.html#class-abortsignal) allows aborting an in-progress writeFile
+
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AggregateError)
 
 When `file` is a filename, asynchronously writes data to the file, replacing the file if it already exists. `data` can be a string or a buffer.
 
@@ -2510,13 +2520,13 @@ For example, if `fs.writeFile()` is called twice in a row, first to write the st
 
 Added in: v12.9.0
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `buffers` [&lt;ArrayBufferView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `bytesWritten` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
-    -   `buffers` [&lt;ArrayBufferView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `buffers` [&lt;ArrayBufferView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `bytesWritten` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+  - `buffers` [&lt;ArrayBufferView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)
 
 Write an array of `ArrayBufferView`s to the file specified by `fd` using `writev()`.
 
@@ -2536,8 +2546,8 @@ The synchronous APIs perform all operations synchronously, blocking the event lo
 
 #### `fs.accessSync(path[, mode])`[\#](https://nodejs.org/api/fs.html#fsaccesssyncpath-mode)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `fs.constants.F_OK`
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `fs.constants.F_OK`
 
 Synchronously tests a user’s permissions for the file or directory specified by `path`. The `mode` argument is an optional integer that specifies the accessibility checks to be performed. Check [File access constants](https://nodejs.org/api/fs.html#file-access-constants) for possible values of `mode`. It is possible to create a mask consisting of the bitwise OR of two or more values (e.g. `fs.constants.W_OK | fs.constants.R_OK`).
 
@@ -2554,13 +2564,13 @@ If any of the accessibility checks fail, an `Error` will be thrown. Otherwise, t
 
 #### `fs.appendFileSync(path, data[, options])`[\#](https://nodejs.org/api/fs.html#fsappendfilesyncpath-data-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) filename or file descriptor
--   `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
-    -   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
-    -   `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'a'`.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) filename or file descriptor
+- `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
+  - `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
+  - `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'a'`.
 
 Synchronously append data to a file, creating the file if it does not yet exist. `data` can be a string or a [](https://nodejs.org/api/buffer.html#class-buffer).
 
@@ -2599,8 +2609,8 @@ The `path` may be specified as a numeric file descriptor that has been opened fo
 
 #### `fs.chmodSync(path, mode)`[\#](https://nodejs.org/api/fs.html#fschmodsyncpath-mode)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
 For detailed information, see the documentation of the asynchronous version of this API: [`fs.chmod()`](https://nodejs.org/api/fs.html#fschmodpath-mode-callback).
 
@@ -2608,9 +2618,9 @@ See the POSIX [`chmod(2)`](http://man7.org/linux/man-pages/man2/chmod.2.html) do
 
 #### `fs.chownSync(path, uid, gid)`[\#](https://nodejs.org/api/fs.html#fschownsyncpath-uid-gid)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
 Synchronously changes owner and group of a file. Returns `undefined`. This is the synchronous version of [`fs.chown()`](https://nodejs.org/api/fs.html#fschownpath-uid-gid-callback).
 
@@ -2620,7 +2630,7 @@ See the POSIX [`chown(2)`](http://man7.org/linux/man-pages/man2/chown.2.html) do
 
 Added in: v0.1.21
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
 Closes the file descriptor. Returns `undefined`.
 
@@ -2630,17 +2640,17 @@ See the POSIX [`close(2)`](http://man7.org/linux/man-pages/man2/close.2.html) do
 
 #### `fs.copyFileSync(src, dest[, mode])`[\#](https://nodejs.org/api/fs.html#fscopyfilesyncsrc-dest-mode)
 
--   `src` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) source filename to copy
--   `dest` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) destination filename of the copy operation
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) modifiers for copy operation. **Default:** `0`.
+- `src` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) source filename to copy
+- `dest` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) destination filename of the copy operation
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) modifiers for copy operation. **Default:** `0`.
 
 Synchronously copies `src` to `dest`. By default, `dest` is overwritten if it already exists. Returns `undefined`. Node.js makes no guarantees about the atomicity of the copy operation. If an error occurs after the destination file has been opened for writing, Node.js will attempt to remove the destination.
 
 `mode` is an optional integer that specifies the behavior of the copy operation. It is possible to create a mask consisting of the bitwise OR of two or more values (e.g. `fs.constants.COPYFILE_EXCL | fs.constants.COPYFILE_FICLONE`).
 
--   `fs.constants.COPYFILE_EXCL`: The copy operation will fail if `dest` already exists.
--   `fs.constants.COPYFILE_FICLONE`: The copy operation will attempt to create a copy-on-write reflink. If the platform does not support copy-on-write, then a fallback copy mechanism is used.
--   `fs.constants.COPYFILE_FICLONE_FORCE`: The copy operation will attempt to create a copy-on-write reflink. If the platform does not support copy-on-write, then the operation will fail.
+- `fs.constants.COPYFILE_EXCL`: The copy operation will fail if `dest` already exists.
+- `fs.constants.COPYFILE_FICLONE`: The copy operation will attempt to create a copy-on-write reflink. If the platform does not support copy-on-write, then a fallback copy mechanism is used.
+- `fs.constants.COPYFILE_FICLONE_FORCE`: The copy operation will attempt to create a copy-on-write reflink. If the platform does not support copy-on-write, then the operation will fail.
 
 <!-- -->
 
@@ -2657,15 +2667,15 @@ Synchronously copies `src` to `dest`. By default, `dest` is overwritten if it al
 
 Added in: v16.7.0
 
--   `src` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) source path to copy.
--   `dest` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) destination path to copy to.
--   `options`
-    -   `dereference` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) dereference symlinks. **Default:** `false`.
-    -   `errorOnExist` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) when `force` is `false`, and the destination exists, throw an error. **Default:** `false`.
-    -   `filter` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function) Function to filter copied files/directories. Return `true` to copy the item, `false` to ignore it. **Default:** `undefined`
-    -   `force` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) overwrite existing file or directory. The copy operation will ignore errors if you set this to false and the destination exists. Use the `errorOnExist` option to change this behavior. **Default:** `true`.
-    -   `preserveTimestamps` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) When `true` timestamps from `src` will be preserved. **Default:** `false`.
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) copy directories recursively **Default:** `false`
+- `src` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) source path to copy.
+- `dest` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) destination path to copy to.
+- `options`
+  - `dereference` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) dereference symlinks. **Default:** `false`.
+  - `errorOnExist` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) when `force` is `false`, and the destination exists, throw an error. **Default:** `false`.
+  - `filter` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function) Function to filter copied files/directories. Return `true` to copy the item, `false` to ignore it. **Default:** `undefined`
+  - `force` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) overwrite existing file or directory. The copy operation will ignore errors if you set this to false and the destination exists. Use the `errorOnExist` option to change this behavior. **Default:** `true`.
+  - `preserveTimestamps` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) When `true` timestamps from `src` will be preserved. **Default:** `false`.
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) copy directories recursively **Default:** `false`
 
 Synchronously copies the entire directory structure from `src` to `dest`, including subdirectories and files.
 
@@ -2673,8 +2683,8 @@ When copying a directory to another directory, globs are not supported and behav
 
 #### `fs.existsSync(path)`[\#](https://nodejs.org/api/fs.html#fsexistssyncpath)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the path exists, `false` otherwise.
 
@@ -2691,8 +2701,8 @@ For detailed information, see the documentation of the asynchronous version of t
 
 Added in: v0.4.7
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
 Sets the permissions on the file. Returns `undefined`.
 
@@ -2702,9 +2712,9 @@ See the POSIX [`fchmod(2)`](http://man7.org/linux/man-pages/man2/fchmod.2.html) 
 
 Added in: v0.4.7
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The file’s new owner’s user id.
--   `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The file’s new group’s group id.
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The file’s new owner’s user id.
+- `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The file’s new group’s group id.
 
 Sets the owner of the file. Returns `undefined`.
 
@@ -2714,16 +2724,16 @@ See the POSIX [`fchown(2)`](http://man7.org/linux/man-pages/man2/fchown.2.html) 
 
 Added in: v0.1.96
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
 Forces all currently queued I/O operations associated with the file to the operating system’s synchronized I/O completion state. Refer to the POSIX [`fdatasync(2)`](http://man7.org/linux/man-pages/man2/fdatasync.2.html) documentation for details. Returns `undefined`.
 
 #### `fs.fstatSync(fd[, options])`[\#](https://nodejs.org/api/fs.html#fsfstatsyncfd-options)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `options`
-    -   `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
--   Returns: [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `options`
+  - `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
+- Returns: [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
 
 Retrieves the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) for the file descriptor.
 
@@ -2733,7 +2743,7 @@ See the POSIX [`fstat(2)`](http://man7.org/linux/man-pages/man2/fstat.2.html) do
 
 Added in: v0.1.96
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
 Request that all data for the open file descriptor is flushed to the storage device. The specific implementation is operating system and device specific. Refer to the POSIX [`fsync(2)`](http://man7.org/linux/man-pages/man2/fsync.2.html) documentation for more detail. Returns `undefined`.
 
@@ -2741,8 +2751,8 @@ Request that all data for the open file descriptor is flushed to the storage dev
 
 Added in: v0.8.6
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `len` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `len` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
 
 Truncates the file descriptor. Returns `undefined`.
 
@@ -2750,9 +2760,9 @@ For detailed information, see the documentation of the asynchronous version of t
 
 #### `fs.futimesSync(fd, atime, mtime)`[\#](https://nodejs.org/api/fs.html#fsfutimessyncfd-atime-mtime)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 Synchronous version of [`fs.futimes()`](https://nodejs.org/api/fs.html#fsfutimesfd-atime-mtime-callback). Returns `undefined`.
 
@@ -2760,8 +2770,8 @@ Synchronous version of [`fs.futimes()`](https://nodejs.org/api/fs.html#fsfutimes
 
 Deprecated since: v0.4.7
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
 Changes the permissions on a symbolic link. Returns `undefined`.
 
@@ -2771,9 +2781,9 @@ See the POSIX [`lchmod(2)`](https://www.freebsd.org/cgi/man.cgi?query=lchmod&sek
 
 #### `fs.lchownSync(path, uid, gid)`[\#](https://nodejs.org/api/fs.html#fslchownsyncpath-uid-gid)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The file’s new owner’s user id.
--   `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The file’s new group’s group id.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `uid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The file’s new owner’s user id.
+- `gid` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The file’s new group’s group id.
 
 Set the owner for the path. Returns `undefined`.
 
@@ -2783,26 +2793,26 @@ See the POSIX [`lchown(2)`](http://man7.org/linux/man-pages/man2/lchown.2.html) 
 
 Added in: v14.5.0, v12.19.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 Change the file system timestamps of the symbolic link referenced by `path`. Returns `undefined`, or throws an exception when parameters are incorrect or the operation fails. This is the synchronous version of [`fs.lutimes()`](https://nodejs.org/api/fs.html#fslutimespath-atime-mtime-callback).
 
 #### `fs.linkSync(existingPath, newPath)`[\#](https://nodejs.org/api/fs.html#fslinksyncexistingpath-newpath)
 
--   `existingPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `newPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `existingPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `newPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
 
 Creates a new link from the `existingPath` to the `newPath`. See the POSIX [`link(2)`](http://man7.org/linux/man-pages/man2/link.2.html) documentation for more detail. Returns `undefined`.
 
 #### `fs.lstatSync(path[, options])`[\#](https://nodejs.org/api/fs.html#fslstatsyncpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
-    -   `throwIfNoEntry` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether an exception will be thrown if no file system entry exists, rather than returning `undefined`. **Default:** `true`.
--   Returns: [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
+  - `throwIfNoEntry` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether an exception will be thrown if no file system entry exists, rather than returning `undefined`. **Default:** `true`.
+- Returns: [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
 
 Retrieves the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) for the symbolic link referred to by `path`.
 
@@ -2810,13 +2820,14 @@ See the POSIX [`lstat(2)`](http://man7.org/linux/man-pages/man2/lstat.2.html) do
 
 #### `fs.mkdirSync(path[, options])`[\#](https://nodejs.org/api/fs.html#fsmkdirsyncpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
-    -   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Not supported on Windows. **Default:** `0o777`.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Undefined_type)
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
+  - `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Not supported on Windows. **Default:** `0o777`.
+
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Undefined_type)
 
 Synchronously creates a directory. Returns `undefined`, or if `recursive` is `true`, the first directory path created. This is the synchronous version of [`fs.mkdir()`](https://nodejs.org/api/fs.html#fsmkdirpath-options-callback).
 
@@ -2824,10 +2835,10 @@ See the POSIX [`mkdir(2)`](http://man7.org/linux/man-pages/man2/mkdir.2.html) do
 
 #### `fs.mkdtempSync(prefix[, options])`[\#](https://nodejs.org/api/fs.html#fsmkdtempsyncprefix-options)
 
--   `prefix` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
+- `prefix` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
 Returns the created directory path.
 
@@ -2837,11 +2848,11 @@ The optional `options` argument can be a string specifying an encoding, or an ob
 
 #### `fs.opendirSync(path[, options])`[\#](https://nodejs.org/api/fs.html#fsopendirsyncpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
-    -   `bufferSize` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Number of directory entries that are buffered internally when reading from the directory. Higher values lead to better performance but higher memory usage. **Default:** `32`
--   Returns: [&lt;fs.Dir&gt;](https://nodejs.org/api/fs.html#class-fsdir)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
+  - `bufferSize` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Number of directory entries that are buffered internally when reading from the directory. Higher values lead to better performance but higher memory usage. **Default:** `32`
+- Returns: [&lt;fs.Dir&gt;](https://nodejs.org/api/fs.html#class-fsdir)
 
 Synchronously open a directory. See [`opendir(3)`](http://man7.org/linux/man-pages/man3/opendir.3.html).
 
@@ -2851,10 +2862,10 @@ The `encoding` option sets the encoding for the `path` while opening the directo
 
 #### `fs.openSync(path[, flags[, mode]])`[\#](https://nodejs.org/api/fs.html#fsopensyncpath-flags-mode)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `flags` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `'r'`. See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags).
--   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `flags` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `'r'`. See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags).
+- `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
 Returns an integer representing the file descriptor.
 
@@ -2862,11 +2873,11 @@ For detailed information, see the documentation of the asynchronous version of t
 
 #### `fs.readdirSync(path[, options])`[\#](https://nodejs.org/api/fs.html#fsreaddirsyncpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
-    -   `withFileTypes` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
--   Returns: [&lt;string\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [&lt;Buffer\[\]&gt;](https://nodejs.org/api/buffer.html#class-buffer) | [&lt;fs.Dirent\[\]&gt;](https://nodejs.org/api/fs.html#class-fsdirent)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+  - `withFileTypes` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) **Default:** `false`
+- Returns: [&lt;string\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [&lt;Buffer\[\]&gt;](https://nodejs.org/api/buffer.html#class-buffer) | [&lt;fs.Dirent\[\]&gt;](https://nodejs.org/api/fs.html#class-fsdirent)
 
 Reads the contents of the directory.
 
@@ -2878,13 +2889,14 @@ If `options.withFileTypes` is set to `true`, the result will contain [&lt;fs.Dir
 
 #### `fs.readFileSync(path[, options])`[\#](https://nodejs.org/api/fs.html#fsreadfilesyncpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) filename or file descriptor
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `null`
-    -   `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'r'`.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) filename or file descriptor
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `null`
+  - `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'r'`.
+
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
 
 Returns the contents of the `path`.
 
@@ -2905,10 +2917,10 @@ Similar to [`fs.readFile()`](https://nodejs.org/api/fs.html#fsreadfilepath-optio
 
 #### `fs.readlinkSync(path[, options])`[\#](https://nodejs.org/api/fs.html#fsreadlinksyncpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
 
 Returns the symbolic link’s string value.
 
@@ -2918,12 +2930,12 @@ The optional `options` argument can be a string specifying an encoding, or an ob
 
 #### `fs.readSync(fd, buffer, offset, length, position)`[\#](https://nodejs.org/api/fs.html#fsreadsyncfd-buffer-offset-length-position)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView)
--   `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView)
+- `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
 Returns the number of `bytesRead`.
 
@@ -2931,13 +2943,13 @@ For detailed information, see the documentation of the asynchronous version of t
 
 #### `fs.readSync(fd, buffer[, options])`[\#](https://nodejs.org/api/fs.html#fsreadsyncfd-buffer-options)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView)
--   `options`
-    -   `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
-    -   `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `buffer.byteLength`
-    -   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt) **Default:** `null`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView)
+- `options`
+  - `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
+  - `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `buffer.byteLength`
+  - `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt) **Default:** `null`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
 Returns the number of `bytesRead`.
 
@@ -2949,19 +2961,19 @@ For detailed information, see the documentation of the asynchronous version of t
 
 Added in: v13.13.0, v12.17.0
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `buffers` [&lt;ArrayBufferView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes read.
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `buffers` [&lt;ArrayBufferView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes read.
 
 For detailed information, see the documentation of the asynchronous version of this API: [`fs.readv()`](https://nodejs.org/api/fs.html#fsreadvfd-buffers-position-callback).
 
 #### `fs.realpathSync(path[, options])`[\#](https://nodejs.org/api/fs.html#fsrealpathsyncpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
 
 Returns the resolved pathname.
 
@@ -2971,10 +2983,10 @@ For detailed information, see the documentation of the asynchronous version of t
 
 Added in: v9.2.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) **Default:** `'utf8'`
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
 
 Synchronous [`realpath(3)`](http://man7.org/linux/man-pages/man3/realpath.3.html).
 
@@ -2986,8 +2998,8 @@ On Linux, when Node.js is linked against musl libc, the procfs file system must 
 
 #### `fs.renameSync(oldPath, newPath)`[\#](https://nodejs.org/api/fs.html#fsrenamesyncoldpath-newpath)
 
--   `oldPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `newPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `oldPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `newPath` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
 
 Renames the file from `oldPath` to `newPath`. Returns `undefined`.
 
@@ -2995,11 +3007,11 @@ See the POSIX [`rename(2)`](http://man7.org/linux/man-pages/man2/rename.2.html) 
 
 #### `fs.rmdirSync(path[, options])`[\#](https://nodejs.org/api/fs.html#fsrmdirsyncpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `maxRetries` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) If an `EBUSY`, `EMFILE`, `ENFILE`, `ENOTEMPTY`, or `EPERM` error is encountered, Node.js retries the operation with a linear backoff wait of `retryDelay` milliseconds longer on each try. This option represents the number of retries. This option is ignored if the `recursive` option is not `true`. **Default:** `0`.
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) If `true`, perform a recursive directory removal. In recursive mode, operations are retried on failure. **Default:** `false`. **Deprecated.**
-    -   `retryDelay` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The amount of time in milliseconds to wait between retries. This option is ignored if the `recursive` option is not `true`. **Default:** `100`.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `maxRetries` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) If an `EBUSY`, `EMFILE`, `ENFILE`, `ENOTEMPTY`, or `EPERM` error is encountered, Node.js retries the operation with a linear backoff wait of `retryDelay` milliseconds longer on each try. This option represents the number of retries. This option is ignored if the `recursive` option is not `true`. **Default:** `0`.
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) If `true`, perform a recursive directory removal. In recursive mode, operations are retried on failure. **Default:** `false`. **Deprecated.**
+  - `retryDelay` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The amount of time in milliseconds to wait between retries. This option is ignored if the `recursive` option is not `true`. **Default:** `100`.
 
 Synchronous [`rmdir(2)`](http://man7.org/linux/man-pages/man2/rmdir.2.html). Returns `undefined`.
 
@@ -3011,30 +3023,30 @@ To get a behavior similar to the `rm -rf` Unix command, use [`fs.rmSync()`](http
 
 Added in: v14.14.0
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `force` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) When `true`, exceptions will be ignored if `path` does not exist. **Default:** `false`.
-    -   `maxRetries` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) If an `EBUSY`, `EMFILE`, `ENFILE`, `ENOTEMPTY`, or `EPERM` error is encountered, Node.js will retry the operation with a linear backoff wait of `retryDelay` milliseconds longer on each try. This option represents the number of retries. This option is ignored if the `recursive` option is not `true`. **Default:** `0`.
-    -   `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) If `true`, perform a recursive directory removal. In recursive mode operations are retried on failure. **Default:** `false`.
-    -   `retryDelay` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The amount of time in milliseconds to wait between retries. This option is ignored if the `recursive` option is not `true`. **Default:** `100`.
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `force` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) When `true`, exceptions will be ignored if `path` does not exist. **Default:** `false`.
+  - `maxRetries` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) If an `EBUSY`, `EMFILE`, `ENFILE`, `ENOTEMPTY`, or `EPERM` error is encountered, Node.js will retry the operation with a linear backoff wait of `retryDelay` milliseconds longer on each try. This option represents the number of retries. This option is ignored if the `recursive` option is not `true`. **Default:** `0`.
+  - `recursive` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) If `true`, perform a recursive directory removal. In recursive mode operations are retried on failure. **Default:** `false`.
+  - `retryDelay` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The amount of time in milliseconds to wait between retries. This option is ignored if the `recursive` option is not `true`. **Default:** `100`.
 
 Synchronously removes files and directories (modeled on the standard POSIX `rm` utility). Returns `undefined`.
 
 #### `fs.statSync(path[, options])`[\#](https://nodejs.org/api/fs.html#fsstatsyncpath-options)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `options`
-    -   `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
-    -   `throwIfNoEntry` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether an exception will be thrown if no file system entry exists, rather than returning `undefined`. **Default:** `true`.
--   Returns: [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `options`
+  - `bigint` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether the numeric values in the returned [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object should be `bigint`. **Default:** `false`.
+  - `throwIfNoEntry` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type) Whether an exception will be thrown if no file system entry exists, rather than returning `undefined`. **Default:** `true`.
+- Returns: [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats)
 
 Retrieves the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) for the path.
 
 #### `fs.symlinkSync(target, path[, type])`[\#](https://nodejs.org/api/fs.html#fssymlinksynctarget-path-type)
 
--   `target` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `type` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
+- `target` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `type` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
 Returns `undefined`.
 
@@ -3044,8 +3056,8 @@ For detailed information, see the documentation of the asynchronous version of t
 
 Added in: v0.8.6
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `len` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `len` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0`
 
 Truncates the file. Returns `undefined`. A file descriptor can also be passed as the first argument. In this case, `fs.ftruncateSync()` is called.
 
@@ -3053,15 +3065,15 @@ Passing a file descriptor is deprecated and may result in an error being thrown 
 
 #### `fs.unlinkSync(path)`[\#](https://nodejs.org/api/fs.html#fsunlinksyncpath)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
 
 Synchronous [`unlink(2)`](http://man7.org/linux/man-pages/man2/unlink.2.html). Returns `undefined`.
 
 #### `fs.utimesSync(path, atime, mtime)`[\#](https://nodejs.org/api/fs.html#fsutimessyncpath-atime-mtime)
 
--   `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
--   `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
--   `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `path` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api)
+- `atime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- `mtime` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 Returns `undefined`.
 
@@ -3069,13 +3081,13 @@ For detailed information, see the documentation of the asynchronous version of t
 
 #### `fs.writeFileSync(file, data[, options])`[\#](https://nodejs.org/api/fs.html#fswritefilesyncfile-data-options)
 
--   `file` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) filename or file descriptor
--   `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) |
--   `options`
-    | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
-    -   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
-    -   `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
-    -   `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'w'`.
+- `file` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://nodejs.org/api/url.html#the-whatwg-url-api) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) filename or file descriptor
+- `data` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) |
+- `options`
+  | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
+  - `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type) **Default:** `'utf8'`
+  - `mode` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) **Default:** `0o666`
+  - `flag` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) See [support of file system `flags`](https://nodejs.org/api/fs.html#file-system-flags). **Default:** `'w'`.
 
 Returns `undefined`.
 
@@ -3087,12 +3099,12 @@ For detailed information, see the documentation of the asynchronous version of t
 
 #### `fs.writeSync(fd, buffer[, offset[, length[, position]]])`[\#](https://nodejs.org/api/fs.html#fswritesyncfd-buffer-offset-length-position)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
--   `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes written.
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `buffer` [](https://nodejs.org/api/buffer.html#class-buffer) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+- `offset` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `length` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes written.
 
 If `buffer` is a plain object, it must have an own (not inherited) `toString` function property.
 
@@ -3100,11 +3112,11 @@ For detailed information, see the documentation of the asynchronous version of t
 
 #### `fs.writeSync(fd, string[, position[, encoding]])`[\#](https://nodejs.org/api/fs.html#fswritesyncfd-string-position-encoding)
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `string` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes written.
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `string` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) |
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `encoding` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes written.
 
 If `string` is a plain object, it must have an own (not inherited) `toString` function property.
 
@@ -3114,10 +3126,10 @@ For detailed information, see the documentation of the asynchronous version of t
 
 Added in: v12.9.0
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   `buffers` [&lt;ArrayBufferView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)
--   `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes written.
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- `buffers` [&lt;ArrayBufferView\[\]&gt;](https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView)
+- `position` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) The number of bytes written.
 
 For detailed information, see the documentation of the asynchronous version of this API: [`fs.writev()`](https://nodejs.org/api/fs.html#fswritevfd-buffers-position-callback).
 
@@ -3149,7 +3161,7 @@ When using the async iterator, the [&lt;fs.Dir&gt;](https://nodejs.org/api/fs.ht
 
 Added in: v12.12.0
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 Asynchronously close the directory’s underlying resource handle. Subsequent reads will result in errors.
 
@@ -3159,8 +3171,8 @@ A promise is returned that will be resolved after the resource has been closed.
 
 Added in: v12.12.0
 
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Asynchronously close the directory’s underlying resource handle. Subsequent reads will result in errors.
 
@@ -3176,7 +3188,7 @@ Synchronously close the directory’s underlying resource handle. Subsequent rea
 
 Added in: v12.12.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type)
 
 The read-only path of this directory as was provided to [`fs.opendir()`](https://nodejs.org/api/fs.html#fsopendirpath-options-callback), [`fs.opendirSync()`](https://nodejs.org/api/fs.html#fsopendirsyncpath-options), or [`fsPromises.opendir()`](https://nodejs.org/api/fs.html#fspromisesopendirpath-options).
 
@@ -3184,7 +3196,7 @@ The read-only path of this directory as was provided to [`fs.opendir()`](https:/
 
 Added in: v12.12.0
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) containing [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) containing [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type)
 
 Asynchronously read the next directory entry via [`readdir(3)`](http://man7.org/linux/man-pages/man3/readdir.3.html) as an [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent).
 
@@ -3196,9 +3208,9 @@ Directory entries returned by this function are in no particular order as provid
 
 Added in: v12.12.0
 
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
-    -   `dirent` [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+  - `dirent` [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type)
 
 Asynchronously read the next directory entry via [`readdir(3)`](http://man7.org/linux/man-pages/man3/readdir.3.html) as an [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent).
 
@@ -3210,7 +3222,7 @@ Directory entries returned by this function are in no particular order as provid
 
 Added in: v12.12.0
 
--   Returns: [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type)
+- Returns: [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Null_type)
 
 Synchronously read the next directory entry as an [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent). See the POSIX [`readdir(3)`](http://man7.org/linux/man-pages/man3/readdir.3.html) documentation for more detail.
 
@@ -3222,7 +3234,7 @@ Directory entries returned by this function are in no particular order as provid
 
 Added in: v12.12.0
 
--   Returns: [](https://tc39.github.io/ecma262/#sec-asynciterator-interface) of [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent)
+- Returns: [](https://tc39.github.io/ecma262/#sec-asynciterator-interface) of [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent)
 
 Asynchronously iterates over the directory until all entries have been read. Refer to the POSIX [`readdir(3)`](http://man7.org/linux/man-pages/man3/readdir.3.html) documentation for more detail.
 
@@ -3244,7 +3256,7 @@ Additionally, when [`fs.readdir()`](https://nodejs.org/api/fs.html#fsreaddirpath
 
 Added in: v10.10.0
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) object describes a block device.
 
@@ -3252,7 +3264,7 @@ Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-f
 
 Added in: v10.10.0
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) object describes a character device.
 
@@ -3260,7 +3272,7 @@ Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-f
 
 Added in: v10.10.0
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) object describes a file system directory.
 
@@ -3268,7 +3280,7 @@ Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-f
 
 Added in: v10.10.0
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) object describes a first-in-first-out (FIFO) pipe.
 
@@ -3276,7 +3288,7 @@ Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-f
 
 Added in: v10.10.0
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) object describes a regular file.
 
@@ -3284,7 +3296,7 @@ Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-f
 
 Added in: v10.10.0
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) object describes a socket.
 
@@ -3292,7 +3304,7 @@ Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-f
 
 Added in: v10.10.0
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) object describes a symbolic link.
 
@@ -3300,7 +3312,7 @@ Returns `true` if the [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-f
 
 Added in: v10.10.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
 
 The file name that this [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class-fsdirent) object refers to. The type of this value is determined by the `options.encoding` passed to [`fs.readdir()`](https://nodejs.org/api/fs.html#fsreaddirpath-options-callback) or [`fs.readdirSync()`](https://nodejs.org/api/fs.html#fsreaddirsyncpath-options).
 
@@ -3308,7 +3320,7 @@ The file name that this [&lt;fs.Dirent&gt;](https://nodejs.org/api/fs.html#class
 
 Added in: v0.5.8
 
--   Extends [](https://nodejs.org/api/events.html#class-eventemitter)
+- Extends [](https://nodejs.org/api/events.html#class-eventemitter)
 
 A successful call to [`fs.watch()`](https://nodejs.org/api/fs.html#fswatchfilename-options-listener) method will return a new [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher) object.
 
@@ -3318,8 +3330,8 @@ All [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher) obj
 
 Added in: v0.5.8
 
--   `eventType` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) The type of change event that has occurred
--   `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) The filename that changed (if relevant/available)
+- `eventType` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) The type of change event that has occurred
+- `filename` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer) The filename that changed (if relevant/available)
 
 Emitted when something changes in a watched directory or file. See more details in [`fs.watch()`](https://nodejs.org/api/fs.html#fswatchfilename-options-listener).
 
@@ -3344,7 +3356,7 @@ Emitted when the watcher stops watching for changes. The closed [&lt;fs.FSWatche
 
 Added in: v0.5.8
 
--   `error` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `error` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Emitted when an error occurs while watching the file. The errored [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher) object is no longer usable in the event handler.
 
@@ -3358,9 +3370,9 @@ Stop watching for changes on the given [&lt;fs.FSWatcher&gt;](https://nodejs.org
 
 Added in: v14.3.0, v12.20.0
 
--   Returns: [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher)
+- Returns: [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher)
 
-When called, requests that the Node.js event loop *not* exit so long as the [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher) is active. Calling `watcher.ref()` multiple times will have no effect.
+When called, requests that the Node.js event loop _not_ exit so long as the [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher) is active. Calling `watcher.ref()` multiple times will have no effect.
 
 By default, all [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher) objects are “ref’ed”, making it normally unnecessary to call `watcher.ref()` unless `watcher.unref()` had been called previously.
 
@@ -3368,7 +3380,7 @@ By default, all [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfs
 
 Added in: v14.3.0, v12.20.0
 
--   Returns: [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher)
+- Returns: [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher)
 
 When called, the active [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher) object will not require the Node.js event loop to remain active. If there is no other activity keeping the event loop running, the process may exit before the [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#class-fsfswatcher) object’s callback is invoked. Calling `watcher.unref()` multiple times will have no effect.
 
@@ -3376,7 +3388,7 @@ When called, the active [&lt;fs.FSWatcher&gt;](https://nodejs.org/api/fs.html#cl
 
 Added in: v14.3.0, v12.20.0
 
--   Extends [](https://nodejs.org/api/events.html#class-eventemitter)
+- Extends [](https://nodejs.org/api/events.html#class-eventemitter)
 
 A successful call to `fs.watchFile()` method will return a new [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#class-fsstatwatcher) object.
 
@@ -3384,9 +3396,9 @@ A successful call to `fs.watchFile()` method will return a new [&lt;fs.StatWatch
 
 Added in: v14.3.0, v12.20.0
 
--   Returns: [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#class-fsstatwatcher)
+- Returns: [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#class-fsstatwatcher)
 
-When called, requests that the Node.js event loop *not* exit so long as the [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#class-fsstatwatcher) is active. Calling `watcher.ref()` multiple times will have no effect.
+When called, requests that the Node.js event loop _not_ exit so long as the [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#class-fsstatwatcher) is active. Calling `watcher.ref()` multiple times will have no effect.
 
 By default, all [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#class-fsstatwatcher) objects are “ref’ed”, making it normally unnecessary to call `watcher.ref()` unless `watcher.unref()` had been called previously.
 
@@ -3394,7 +3406,7 @@ By default, all [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#class-fs
 
 Added in: v14.3.0, v12.20.0
 
--   Returns: [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#class-fsstatwatcher)
+- Returns: [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#class-fsstatwatcher)
 
 When called, the active [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#class-fsstatwatcher) object will not require the Node.js event loop to remain active. If there is no other activity keeping the event loop running, the process may exit before the [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#class-fsstatwatcher) object’s callback is invoked. Calling `watcher.unref()` multiple times will have no effect.
 
@@ -3402,7 +3414,7 @@ When called, the active [&lt;fs.StatWatcher&gt;](https://nodejs.org/api/fs.html#
 
 Added in: v0.1.93
 
--   Extends: [&lt;stream.Readable&gt;](https://nodejs.org/api/stream.html#class-streamreadable)
+- Extends: [&lt;stream.Readable&gt;](https://nodejs.org/api/stream.html#class-streamreadable)
 
 Instances of [&lt;fs.ReadStream&gt;](https://nodejs.org/api/fs.html#class-fsreadstream) are created and returned using the [`fs.createReadStream()`](https://nodejs.org/api/fs.html#fscreatereadstreampath-options) function.
 
@@ -3416,7 +3428,7 @@ Emitted when the [&lt;fs.ReadStream&gt;](https://nodejs.org/api/fs.html#class-fs
 
 Added in: v0.1.93
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Integer file descriptor used by the [&lt;fs.ReadStream&gt;](https://nodejs.org/api/fs.html#class-fsreadstream).
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Integer file descriptor used by the [&lt;fs.ReadStream&gt;](https://nodejs.org/api/fs.html#class-fsreadstream).
 
 Emitted when the [&lt;fs.ReadStream&gt;](https://nodejs.org/api/fs.html#class-fsreadstream)’s file descriptor has been opened.
 
@@ -3432,7 +3444,7 @@ Fires immediately after `'open'`.
 
 Added in: v6.4.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type)
 
 The number of bytes that have been read so far.
 
@@ -3440,7 +3452,7 @@ The number of bytes that have been read so far.
 
 Added in: v0.1.93
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type) | [](https://nodejs.org/api/buffer.html#class-buffer)
 
 The path to the file the stream is reading from as specified in the first argument to `fs.createReadStream()`. If `path` is passed as a string, then `readStream.path` will be a string. If `path` is passed as a [](https://nodejs.org/api/buffer.html#class-buffer), then `readStream.path` will be a [](https://nodejs.org/api/buffer.html#class-buffer). If `fd` is specified, then `readStream.path` will be `undefined`.
 
@@ -3448,7 +3460,7 @@ The path to the file the stream is reading from as specified in the first argume
 
 Added in: v11.2.0, v10.16.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 This property is `true` if the underlying file has not been opened yet, i.e. before the `'ready'` event is emitted.
 
@@ -3508,7 +3520,7 @@ Objects returned from [`fs.stat()`](https://nodejs.org/api/fs.html#fsstatpath-op
 
 Added in: v0.1.10
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object describes a block device.
 
@@ -3516,7 +3528,7 @@ Returns `true` if the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fs
 
 Added in: v0.1.10
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object describes a character device.
 
@@ -3524,7 +3536,7 @@ Returns `true` if the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fs
 
 Added in: v0.1.10
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object describes a file system directory.
 
@@ -3534,7 +3546,7 @@ If the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object w
 
 Added in: v0.1.10
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object describes a first-in-first-out (FIFO) pipe.
 
@@ -3542,7 +3554,7 @@ Returns `true` if the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fs
 
 Added in: v0.1.10
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object describes a regular file.
 
@@ -3550,7 +3562,7 @@ Returns `true` if the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fs
 
 Added in: v0.1.10
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object describes a socket.
 
@@ -3558,7 +3570,7 @@ Returns `true` if the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fs
 
 Added in: v0.1.10
 
--   Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- Returns: [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 Returns `true` if the [&lt;fs.Stats&gt;](https://nodejs.org/api/fs.html#class-fsstats) object describes a symbolic link.
 
@@ -3566,61 +3578,61 @@ This method is only valid when using [`fs.lstat()`](https://nodejs.org/api/fs.ht
 
 ##### `stats.dev`[\#](https://nodejs.org/api/fs.html#statsdev)
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 The numeric identifier of the device containing the file.
 
 ##### `stats.ino`[\#](https://nodejs.org/api/fs.html#statsino)
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 The file system specific “Inode” number for the file.
 
 ##### `stats.mode`[\#](https://nodejs.org/api/fs.html#statsmode)
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 A bit-field describing the file type and mode.
 
 ##### `stats.nlink`[\#](https://nodejs.org/api/fs.html#statsnlink)
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 The number of hard-links that exist for the file.
 
 ##### `stats.uid`[\#](https://nodejs.org/api/fs.html#statsuid)
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 The numeric user identifier of the user that owns the file (POSIX).
 
 ##### `stats.gid`[\#](https://nodejs.org/api/fs.html#statsgid)
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 The numeric group identifier of the group that owns the file (POSIX).
 
 ##### `stats.rdev`[\#](https://nodejs.org/api/fs.html#statsrdev)
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 A numeric device identifier if the file represents a device.
 
 ##### `stats.size`[\#](https://nodejs.org/api/fs.html#statssize)
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 The size of the file in bytes.
 
 ##### `stats.blksize`[\#](https://nodejs.org/api/fs.html#statsblksize)
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 The file system block size for i/o operations.
 
 ##### `stats.blocks`[\#](https://nodejs.org/api/fs.html#statsblocks)
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 The number of blocks allocated for this file.
 
@@ -3628,7 +3640,7 @@ The number of blocks allocated for this file.
 
 Added in: v8.1.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 The timestamp indicating the last time this file was accessed expressed in milliseconds since the POSIX Epoch.
 
@@ -3636,7 +3648,7 @@ The timestamp indicating the last time this file was accessed expressed in milli
 
 Added in: v8.1.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 The timestamp indicating the last time this file was modified expressed in milliseconds since the POSIX Epoch.
 
@@ -3644,7 +3656,7 @@ The timestamp indicating the last time this file was modified expressed in milli
 
 Added in: v8.1.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 The timestamp indicating the last time the file status was changed expressed in milliseconds since the POSIX Epoch.
 
@@ -3652,7 +3664,7 @@ The timestamp indicating the last time the file status was changed expressed in 
 
 Added in: v8.1.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) | [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 The timestamp indicating the creation time of this file expressed in milliseconds since the POSIX Epoch.
 
@@ -3660,7 +3672,7 @@ The timestamp indicating the creation time of this file expressed in millisecond
 
 Added in: v12.10.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 Only present when `bigint: true` is passed into the method that generates the object. The timestamp indicating the last time this file was accessed expressed in nanoseconds since the POSIX Epoch.
 
@@ -3668,7 +3680,7 @@ Only present when `bigint: true` is passed into the method that generates the ob
 
 Added in: v12.10.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 Only present when `bigint: true` is passed into the method that generates the object. The timestamp indicating the last time this file was modified expressed in nanoseconds since the POSIX Epoch.
 
@@ -3676,7 +3688,7 @@ Only present when `bigint: true` is passed into the method that generates the ob
 
 Added in: v12.10.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 Only present when `bigint: true` is passed into the method that generates the object. The timestamp indicating the last time the file status was changed expressed in nanoseconds since the POSIX Epoch.
 
@@ -3684,7 +3696,7 @@ Only present when `bigint: true` is passed into the method that generates the ob
 
 Added in: v12.10.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
 Only present when `bigint: true` is passed into the method that generates the object. The timestamp indicating the creation time of this file expressed in nanoseconds since the POSIX Epoch.
 
@@ -3692,7 +3704,7 @@ Only present when `bigint: true` is passed into the method that generates the ob
 
 Added in: v0.11.13
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 The timestamp indicating the last time this file was accessed.
 
@@ -3700,7 +3712,7 @@ The timestamp indicating the last time this file was accessed.
 
 Added in: v0.11.13
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 The timestamp indicating the last time this file was modified.
 
@@ -3708,7 +3720,7 @@ The timestamp indicating the last time this file was modified.
 
 Added in: v0.11.13
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 The timestamp indicating the last time the file status was changed.
 
@@ -3716,7 +3728,7 @@ The timestamp indicating the last time the file status was changed.
 
 Added in: v0.11.13
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 The timestamp indicating the creation time of this file.
 
@@ -3730,10 +3742,10 @@ The `atimeNs`, `mtimeNs`, `ctimeNs`, `birthtimeNs` properties are [bigints](http
 
 The times in the stat object have the following semantics:
 
--   `atime` “Access Time”: Time when file data last accessed. Changed by the [`mknod(2)`](http://man7.org/linux/man-pages/man2/mknod.2.html), [`utimes(2)`](http://man7.org/linux/man-pages/man2/utimes.2.html), and [`read(2)`](http://man7.org/linux/man-pages/man2/read.2.html) system calls.
--   `mtime` “Modified Time”: Time when file data last modified. Changed by the [`mknod(2)`](http://man7.org/linux/man-pages/man2/mknod.2.html), [`utimes(2)`](http://man7.org/linux/man-pages/man2/utimes.2.html), and [`write(2)`](http://man7.org/linux/man-pages/man2/write.2.html) system calls.
--   `ctime` “Change Time”: Time when file status was last changed (inode data modification). Changed by the [`chmod(2)`](http://man7.org/linux/man-pages/man2/chmod.2.html), [`chown(2)`](http://man7.org/linux/man-pages/man2/chown.2.html), [`link(2)`](http://man7.org/linux/man-pages/man2/link.2.html), [`mknod(2)`](http://man7.org/linux/man-pages/man2/mknod.2.html), [`rename(2)`](http://man7.org/linux/man-pages/man2/rename.2.html), [`unlink(2)`](http://man7.org/linux/man-pages/man2/unlink.2.html), [`utimes(2)`](http://man7.org/linux/man-pages/man2/utimes.2.html), [`read(2)`](http://man7.org/linux/man-pages/man2/read.2.html), and [`write(2)`](http://man7.org/linux/man-pages/man2/write.2.html) system calls.
--   `birthtime` “Birth Time”: Time of file creation. Set once when the file is created. On filesystems where birthtime is not available, this field may instead hold either the `ctime` or `1970-01-01T00:00Z` (ie, Unix epoch timestamp `0`). This value may be greater than `atime` or `mtime` in this case. On Darwin and other FreeBSD variants, also set if the `atime` is explicitly set to an earlier value than the current `birthtime` using the [`utimes(2)`](http://man7.org/linux/man-pages/man2/utimes.2.html) system call.
+- `atime` “Access Time”: Time when file data last accessed. Changed by the [`mknod(2)`](http://man7.org/linux/man-pages/man2/mknod.2.html), [`utimes(2)`](http://man7.org/linux/man-pages/man2/utimes.2.html), and [`read(2)`](http://man7.org/linux/man-pages/man2/read.2.html) system calls.
+- `mtime` “Modified Time”: Time when file data last modified. Changed by the [`mknod(2)`](http://man7.org/linux/man-pages/man2/mknod.2.html), [`utimes(2)`](http://man7.org/linux/man-pages/man2/utimes.2.html), and [`write(2)`](http://man7.org/linux/man-pages/man2/write.2.html) system calls.
+- `ctime` “Change Time”: Time when file status was last changed (inode data modification). Changed by the [`chmod(2)`](http://man7.org/linux/man-pages/man2/chmod.2.html), [`chown(2)`](http://man7.org/linux/man-pages/man2/chown.2.html), [`link(2)`](http://man7.org/linux/man-pages/man2/link.2.html), [`mknod(2)`](http://man7.org/linux/man-pages/man2/mknod.2.html), [`rename(2)`](http://man7.org/linux/man-pages/man2/rename.2.html), [`unlink(2)`](http://man7.org/linux/man-pages/man2/unlink.2.html), [`utimes(2)`](http://man7.org/linux/man-pages/man2/utimes.2.html), [`read(2)`](http://man7.org/linux/man-pages/man2/read.2.html), and [`write(2)`](http://man7.org/linux/man-pages/man2/write.2.html) system calls.
+- `birthtime` “Birth Time”: Time of file creation. Set once when the file is created. On filesystems where birthtime is not available, this field may instead hold either the `ctime` or `1970-01-01T00:00Z` (ie, Unix epoch timestamp `0`). This value may be greater than `atime` or `mtime` in this case. On Darwin and other FreeBSD variants, also set if the `atime` is explicitly set to an earlier value than the current `birthtime` using the [`utimes(2)`](http://man7.org/linux/man-pages/man2/utimes.2.html) system call.
 
 Prior to Node.js 0.12, the `ctime` held the `birthtime` on Windows systems. As of 0.12, `ctime` is not “creation time”, and on Unix systems, it never was.
 
@@ -3741,7 +3753,7 @@ Prior to Node.js 0.12, the `ctime` held the `birthtime` on Windows systems. As o
 
 Added in: v0.1.93
 
--   Extends [&lt;stream.Writable&gt;](https://nodejs.org/api/stream.html#class-streamwritable)
+- Extends [&lt;stream.Writable&gt;](https://nodejs.org/api/stream.html#class-streamwritable)
 
 Instances of [&lt;fs.WriteStream&gt;](https://nodejs.org/api/fs.html#class-fswritestream) are created and returned using the [`fs.createWriteStream()`](https://nodejs.org/api/fs.html#fscreatewritestreampath-options) function.
 
@@ -3755,7 +3767,7 @@ Emitted when the [&lt;fs.WriteStream&gt;](https://nodejs.org/api/fs.html#class-f
 
 Added in: v0.1.93
 
--   `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Integer file descriptor used by the [&lt;fs.WriteStream&gt;](https://nodejs.org/api/fs.html#class-fswritestream).
+- `fd` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type) Integer file descriptor used by the [&lt;fs.WriteStream&gt;](https://nodejs.org/api/fs.html#class-fswritestream).
 
 Emitted when the [&lt;fs.WriteStream&gt;](https://nodejs.org/api/fs.html#class-fswritestream)’s file is opened.
 
@@ -3777,8 +3789,8 @@ The number of bytes written so far. Does not include data that is still queued f
 
 Added in: v0.9.4
 
--   `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
-    -   `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- `callback` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - `err` [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 Closes `writeStream`. Optionally accepts a callback that will be executed once the `writeStream` is closed.
 
@@ -3792,13 +3804,13 @@ The path to the file the stream is writing to as specified in the first argument
 
 Added in: v11.2.0
 
--   [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
+- [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Boolean_type)
 
 This property is `true` if the underlying file has not been opened yet, i.e. before the `'ready'` event is emitted.
 
 #### `fs.constants`[\#](https://nodejs.org/api/fs.html#fsconstants)
 
--   
+-
 
 Returns an object containing commonly used constants for file system operations.
 
@@ -4207,7 +4219,7 @@ On Windows, Node.js follows the concept of per-drive working directory. This beh
 
 #### File descriptors[\#](https://nodejs.org/api/fs.html#file-descriptors_1)
 
-On POSIX systems, for every process, the kernel maintains a table of currently open files and resources. Each open file is assigned a simple numeric identifier called a *file descriptor*. At the system-level, all file system operations use these file descriptors to identify and track each specific file. Windows systems use a different but conceptually similar mechanism for tracking resources. To simplify things for users, Node.js abstracts away the differences between operating systems and assigns all open files a numeric file descriptor.
+On POSIX systems, for every process, the kernel maintains a table of currently open files and resources. Each open file is assigned a simple numeric identifier called a _file descriptor_. At the system-level, all file system operations use these file descriptors to identify and track each specific file. Windows systems use a different but conceptually similar mechanism for tracking resources. To simplify things for users, Node.js abstracts away the differences between operating systems and assigns all open files a numeric file descriptor.
 
 The callback-based `fs.open()`, and synchronous `fs.openSync()` methods open a file and allocate a new file descriptor. Once allocated, the file descriptor may be used to read data from, write data to, or request information about the file.
 
@@ -4261,24 +4273,24 @@ All callback and promise-based file system APIs ( with the exception of `fs.FSWa
 
 The following flags are available wherever the `flag` option takes a string.
 
--   `'a'`: Open file for appending. The file is created if it does not exist.
--   `'ax'`: Like `'a'` but fails if the path exists.
--   `'a+'`: Open file for reading and appending. The file is created if it does not exist.
--   `'ax+'`: Like `'a+'` but fails if the path exists.
--   `'as'`: Open file for appending in synchronous mode. The file is created if it does not exist.
--   `'as+'`: Open file for reading and appending in synchronous mode. The file is created if it does not exist.
--   `'r'`: Open file for reading. An exception occurs if the file does not exist.
--   `'r+'`: Open file for reading and writing. An exception occurs if the file does not exist.
--   `'rs+'`: Open file for reading and writing in synchronous mode. Instructs the operating system to bypass the local file system cache.
+- `'a'`: Open file for appending. The file is created if it does not exist.
+- `'ax'`: Like `'a'` but fails if the path exists.
+- `'a+'`: Open file for reading and appending. The file is created if it does not exist.
+- `'ax+'`: Like `'a+'` but fails if the path exists.
+- `'as'`: Open file for appending in synchronous mode. The file is created if it does not exist.
+- `'as+'`: Open file for reading and appending in synchronous mode. The file is created if it does not exist.
+- `'r'`: Open file for reading. An exception occurs if the file does not exist.
+- `'r+'`: Open file for reading and writing. An exception occurs if the file does not exist.
+- `'rs+'`: Open file for reading and writing in synchronous mode. Instructs the operating system to bypass the local file system cache.
 
-    This is primarily useful for opening files on NFS mounts as it allows skipping the potentially stale local cache. It has a very real impact on I/O performance so using this flag is not recommended unless it is needed.
+  This is primarily useful for opening files on NFS mounts as it allows skipping the potentially stale local cache. It has a very real impact on I/O performance so using this flag is not recommended unless it is needed.
 
-    This doesn’t turn `fs.open()` or `fsPromises.open()` into a synchronous blocking call. If synchronous operation is desired, something like `fs.openSync()` should be used.
+  This doesn’t turn `fs.open()` or `fsPromises.open()` into a synchronous blocking call. If synchronous operation is desired, something like `fs.openSync()` should be used.
 
--   `'w'`: Open file for writing. The file is created (if it does not exist) or truncated (if it exists).
--   `'wx'`: Like `'w'` but fails if the path exists.
--   `'w+'`: Open file for reading and writing. The file is created (if it does not exist) or truncated (if it exists).
--   `'wx+'`: Like `'w+'` but fails if the path exists.
+- `'w'`: Open file for writing. The file is created (if it does not exist) or truncated (if it exists).
+- `'wx'`: Like `'w'` but fails if the path exists.
+- `'w+'`: Open file for reading and writing. The file is created (if it does not exist) or truncated (if it exists).
+- `'wx+'`: Like `'w+'` but fails if the path exists.
 
 `flag` can also be a number as documented by [`open(2)`](http://man7.org/linux/man-pages/man2/open.2.html); commonly used constants are available from `fs.constants`. On Windows, flags are translated to their equivalent ones where applicable, e.g. `O_WRONLY` to `FILE_GENERIC_WRITE`, or `O_EXCL|O_CREAT` to `CREATE_NEW`, as accepted by `CreateFileW`.
 

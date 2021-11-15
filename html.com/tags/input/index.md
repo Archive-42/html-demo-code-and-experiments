@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [HTML Web Forms Tutorial For Coding Beginners](https://html.com/forms/) / How To Use Input To Create Form Fields In HTML: Easy Tutorial
 
-`How To Use Input To Create Form Fields In HTML: Easy Tutorial`
-===============================================================
+# `How To Use Input To Create Form Fields In HTML: Easy Tutorial`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -29,30 +26,28 @@ This element must not contain any content, and does not need a closing tag.
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> The most basic form field](#The_most_basic_form_field)
--   [<span class="toc_number toc_depth_1">3</span> Browser Support for input](#Browser_Support_for_input)
--   [<span class="toc_number toc_depth_1">4</span> Attributes of input](#Attributes_of_input)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> The most basic form field](#The_most_basic_form_field)
+- [<span class="toc_number toc_depth_1">3</span> Browser Support for input](#Browser_Support_for_input)
+- [<span class="toc_number toc_depth_1">4</span> Attributes of input](#Attributes_of_input)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <input>
 
 <span class="underline"></span>
 
-<span id="The_most_basic_form_field">The most basic form field</span>
----------------------------------------------------------------------
+## <span id="The_most_basic_form_field">The most basic form field</span>
 
 The `<input>` element is the fundamental form element for gathering user info through forms. The vast majority of form fields are the `<input>` element, and there are only a handful of form field types — `<select>`, for example — that are actually a different element. From range sliders to date selectorsto [submit buttons](https://html.com/input-type-submit/), the `<input>` element covers a lot of different cases.
 
 Because of that, it also has a huge number of attributes and potential values. Many of them are only applicable to certain [types of inputs](https://html.com/attributes/input-type/). There are a handful that are universally important, though:
 
--   The [`type` attribute](https://html.com/attributes/input-type/) determines the type, or style, of the element. This is the most important attribute, as it determines everything else about how the `<input>` element behaves.
--   The [`name`](https://html.com/attributes/input-name/) is used in conjunction with the `value` attribute to send user data to the server.
--   Setting the [`value` attribute](https://html.com/attributes/input-value/) in your HTML document allows you to pre-specify the content of the input field, or its default value
--   Both `readonly` and `disable` stop the user from editing the value of the input, but [there are some important difference to know about](https://html.com/attributes/input-readonly/).
--   Including the [`required`](https://html.com/attributes/input-required/) stops the form from accepting submission if the field has no value.
+- The [`type` attribute](https://html.com/attributes/input-type/) determines the type, or style, of the element. This is the most important attribute, as it determines everything else about how the `<input>` element behaves.
+- The [`name`](https://html.com/attributes/input-name/) is used in conjunction with the `value` attribute to send user data to the server.
+- Setting the [`value` attribute](https://html.com/attributes/input-value/) in your HTML document allows you to pre-specify the content of the input field, or its default value
+- Both `readonly` and `disable` stop the user from editing the value of the input, but [there are some important difference to know about](https://html.com/attributes/input-readonly/).
+- Including the [`required`](https://html.com/attributes/input-required/) stops the form from accepting submission if the field has no value.
 
 See the lists below for more details about `<input>` options.
 
@@ -70,8 +65,7 @@ See the lists below for more details about `<input>` options.
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_input">Browser Support for input</span>
----------------------------------------------------------------------
+## <span id="Browser_Support_for_input">Browser Support for input</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -109,8 +103,7 @@ See the lists below for more details about `<input>` options.
 
 <span class="browser-supported">All</span>
 
-<span id="Attributes_of_input">Attributes of input</span>
----------------------------------------------------------
+## <span id="Attributes_of_input">Attributes of input</span>
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/attributes/input-step/" class="linked-name">step</a><br />
 </td><td></td><td>Specifies the interval between valid values in a number-based input.</td></tr><tr class="even"><td><a href="https://html.com/attributes/input-required/" class="linked-name">required</a><br />
@@ -152,10 +145,9 @@ See the lists below for more details about `<input>` options.
 </td><td>Defines the input type.</td></tr><tr class="even"><td><a href="https://html.com/attributes/input-value/" class="linked-name">value</a><br />
 </td><td></td><td>Defines an initial value or default selection for an input field.</td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
-[<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`How To Use  In HTML`](https://html.com/attributes/img-src/)
+[<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`How To Use In HTML`](https://html.com/attributes/img-src/)
 
 [`<td nowrap>`<span class="nav-link-label"><span class="genericon genericon-next"></span></span>](https://html.com/attributes/td-nowrap/)
 
@@ -165,11 +157,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

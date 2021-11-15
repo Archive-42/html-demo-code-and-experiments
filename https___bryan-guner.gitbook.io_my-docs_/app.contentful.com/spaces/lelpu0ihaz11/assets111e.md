@@ -1,7 +1,6 @@
 Loading Contentful…
 
-Your browser is not supported
-=============================
+# Your browser is not supported
 
 To use the Contentful web app, we recommend using the latest version of the following browsers:
 

@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-A2 Hosting Review: Can They Make Your Site As Fast As They Say? We Find Out
-===========================================================================
+# A2 Hosting Review: Can They Make Your Site As Fast As They Say? We Find Out
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -30,35 +23,33 @@ Find out now what we discovered about this developer-friendly host.
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
--   [<span class="toc_number toc_depth_1">2</span> About A2 Hosting](#About_A2_Hosting)
--   [<span class="toc_number toc_depth_1">3</span> Web Hosting Plans](#Web_Hosting_Plans)
--   [<span class="toc_number toc_depth_1">4</span> Features](#Features)
--   [<span class="toc_number toc_depth_1">5</span> Domain Names](#Domain_Names)
--   [<span class="toc_number toc_depth_1">6</span> 24/7/365 Guru Crew Support](#247365_Guru_Crew_Support)
--   [<span class="toc_number toc_depth_1">7</span> Pricing and Billing](#Pricing_and_Billing)
--   [<span class="toc_number toc_depth_1">8</span> A2 Hosting vs Bluehost](#A2_Hosting_vs_Bluehost)
--   [<span class="toc_number toc_depth_1">9</span> Special A2 Hosting Deal](#Special_A2_Hosting_Deal)
--   [<span class="toc_number toc_depth_1">10</span> Summary](#Summary)
--   [<span class="toc_number toc_depth_1">11</span> Your Review of A2 Hosting](#Your_Review_of_A2_Hosting)
+- [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
+- [<span class="toc_number toc_depth_1">2</span> About A2 Hosting](#About_A2_Hosting)
+- [<span class="toc_number toc_depth_1">3</span> Web Hosting Plans](#Web_Hosting_Plans)
+- [<span class="toc_number toc_depth_1">4</span> Features](#Features)
+- [<span class="toc_number toc_depth_1">5</span> Domain Names](#Domain_Names)
+- [<span class="toc_number toc_depth_1">6</span> 24/7/365 Guru Crew Support](#247365_Guru_Crew_Support)
+- [<span class="toc_number toc_depth_1">7</span> Pricing and Billing](#Pricing_and_Billing)
+- [<span class="toc_number toc_depth_1">8</span> A2 Hosting vs Bluehost](#A2_Hosting_vs_Bluehost)
+- [<span class="toc_number toc_depth_1">9</span> Special A2 Hosting Deal](#Special_A2_Hosting_Deal)
+- [<span class="toc_number toc_depth_1">10</span> Summary](#Summary)
+- [<span class="toc_number toc_depth_1">11</span> Your Review of A2 Hosting](#Your_Review_of_A2_Hosting)
 
-<span id="Pros_and_Cons">Pros and Cons</span>
----------------------------------------------
+## <span id="Pros_and_Cons">Pros and Cons</span>
 
 In a rush? Here’s the TL;DR:
 
 ### Pros
 
--   Developer-friendly: Supports a large number of technologies, languages, and frameworks
--   Excellent uptime and speed
+- Developer-friendly: Supports a large number of technologies, languages, and frameworks
+- Excellent uptime and speed
 
 ### Cons
 
--   Not as beginner-friendly as some competitors
--   A bit pricier than competitors
+- Not as beginner-friendly as some competitors
+- A bit pricier than competitors
 
-<span id="About_A2_Hosting">About A2 Hosting </span>
-----------------------------------------------------
+## <span id="About_A2_Hosting">About A2 Hosting </span>
 
 [A2 Hosting](https://html.com/go/a2hosting/) was founded in 2001 by UNIX systems administrator Bryan Muthig as Iniquinet. Muthig continues to serve the company as CEO, and A2 Hosting remains independently owned.
 
@@ -74,8 +65,7 @@ A2 has implemented a number of other green policies, such as allowing employees 
 
 They also state that they were one of the first hosts to switch from HDDs (hard-disk drives) to the more energy-efficient (and better performing) SSDs (solid-state drives).
 
-<span id="Web_Hosting_Plans">Web Hosting Plans</span>
------------------------------------------------------
+## <span id="Web_Hosting_Plans">Web Hosting Plans</span>
 
 A2 offers several types of web hosting plans, including shared, reseller, VPS, and dedicated hosting.
 
@@ -101,10 +91,10 @@ The mid-range **Swift** plan gets you hosting for an unlimited number of website
 
 You’ll also get:
 
--   A2 Site Accelerator, which is pre-configured site caching designed to improve page load speeds
--   Support for HTTP/2
--   Infrastructure redundancy
--   Guarantees as to how much of the server’s resources are available to your site at any given time.
+- A2 Site Accelerator, which is pre-configured site caching designed to improve page load speeds
+- Support for HTTP/2
+- Infrastructure redundancy
+- Guarantees as to how much of the server’s resources are available to your site at any given time.
 
 #### Cloudflare CDN For Faster Site Loading Speeds
 
@@ -122,10 +112,10 @@ While the A2 Hosting shared plans can be used to host WordPress sites, WordPress
 
 These are “managed” hosting options that build on top of the shared hosting plans by including:
 
--   WordPress-specific backup functionality
--   Site staging environment
--   A license to Jetpack, a WordPress optimization suite
--   Pre-installation of the WP-CLI tool
+- WordPress-specific backup functionality
+- Site staging environment
+- A license to Jetpack, a WordPress optimization suite
+- Pre-installation of the WP-CLI tool
 
 ##### Choose from 3 Managed Plans
 
@@ -133,7 +123,7 @@ There are three different managed WordPress hosting plans from which you can cho
 
 The best fit for you depends on the number of sites for which you need hosting; [A2 Hosting](https://html.com/go/a2hosting/) offers plans support one website, three websites, or an unlimited number of websites.
 
-*Video: Via cPanel you can set up a WordPress staging site.*
+_Video: Via cPanel you can set up a WordPress staging site._
 
 ### VPS, Dedicated, and Reseller Options
 
@@ -155,15 +145,15 @@ A2 offers both **managed** and **unmanaged** VPS hosting plans, and of course, t
 
 It comes with:
 
--   Root administrative privileges
--   Choice of Linux operating system including Fedora, CentOS, Ubuntu, Debian, Gentoo or Slackware
--   HTTP/2, SPDY and Edge Side Includes (ESI) supported
--   99.9% uptime guarantee
--   Option to use cPanel (includes Softaculous)
--   20 – 50 GB of storage (with the option to upgrade to SSD drives)
--   2 TB max of data transfer
--   512 MB – 1 GB of RAM
--   1 – 4 CPU cores.
+- Root administrative privileges
+- Choice of Linux operating system including Fedora, CentOS, Ubuntu, Debian, Gentoo or Slackware
+- HTTP/2, SPDY and Edge Side Includes (ESI) supported
+- 99.9% uptime guarantee
+- Option to use cPanel (includes Softaculous)
+- 20 – 50 GB of storage (with the option to upgrade to SSD drives)
+- 2 TB max of data transfer
+- 512 MB – 1 GB of RAM
+- 1 – 4 CPU cores.
 
 ##### Managed VPS: Best of Both Worlds
 
@@ -175,14 +165,14 @@ Managed VPS with A2 offers a higher maximum amount of storage, data transfer, an
 
 [Managed plans](https://html.com/go/a2hosting/) come with:
 
--   Free cPanel for website management (many other hosts charge for this feature at the VPS level)
--   HostGuard Management tools
--   Free site transfer
--   Free SSL certificate
--   75 – 150 GB of SSD storage
--   2 – 4TB of data transfer
--   4 – 8 GB of RAM
--   4 – 8 CPU cores.
+- Free cPanel for website management (many other hosts charge for this feature at the VPS level)
+- HostGuard Management tools
+- Free site transfer
+- Free SSL certificate
+- 75 – 150 GB of SSD storage
+- 2 – 4TB of data transfer
+- 4 – 8 GB of RAM
+- 4 – 8 CPU cores.
 
 For an additional fee, you can get a managed VPS plan with root administrative privileges. This option gets you the best of both worlds.
 
@@ -192,7 +182,7 @@ A2 Hosting offers options that are what you’d traditionally expect from a dedi
 
 A lot of times, when you upgrade to dedicated servers, you’re expected to assume most, if not all, of the system administration tasks.
 
-However, A2’s [semi-dedicated options](https://html.com/go/a2hosting/) get you the power and resources typically granted to users of dedicated servers, *but* the A2 team manages your website for you.
+However, A2’s [semi-dedicated options](https://html.com/go/a2hosting/) get you the power and resources typically granted to users of dedicated servers, _but_ the A2 team manages your website for you.
 
 You’ll get a cPanel to manage your website, unlimited storage, unlimited data transfer, 2 GB of RAM, 2 CPU cores, and a free SSL certificate. A2 also boasts that this option is twenty times faster than its shared plans.
 
@@ -208,8 +198,7 @@ A2 offers three different reseller hosting plans, and aside from the differences
 
 Reseller plans do, however, come with an assortment of management tools that make it easy for you to manage your sub-accounts, such as those for billing and invoicing.
 
-<span id="Features">Features</span>
------------------------------------
+## <span id="Features">Features</span>
 
 The hosting plan you choose will determine the features and functionality you get, but in general, A2 Hosting offers the following to its customers.
 
@@ -223,7 +212,7 @@ A2 Hosting also offers its users use of the Softaculous one-click installer, so 
 
 ### Fast Page Loads
 
-[A2 Hosting](https://html.com/go/a2hosting/) boasts that all their sites are hosted on their proprietary SwiftServe platform, which they describe as a finely-tuned, high-performance solution that allows your site to load up to *twenty* times faster than if you were hosting it on a competitor’s platform.
+[A2 Hosting](https://html.com/go/a2hosting/) boasts that all their sites are hosted on their proprietary SwiftServe platform, which they describe as a finely-tuned, high-performance solution that allows your site to load up to _twenty_ times faster than if you were hosting it on a competitor’s platform.
 
 According to our tests, A2 Hosting does offer some of the fastest server response times around. Server response speeds are consistently under 350 milliseconds.
 
@@ -245,34 +234,30 @@ Some features include Server Rewind backups, administrative level root access on
 
 [A2 Hosting’s plans](https://html.com/go/a2hosting/) include email functionality, so you can set up accounts utilizing addresses that match your website. Entry-level plans come with just 25 accounts, but upgraded plans offer an unlimited number of email addresses.
 
-<span id="Domain_Names">Domain Names</span>
--------------------------------------------
+## <span id="Domain_Names">Domain Names</span>
 
 One thing that does not come standard with A2 Hosting plans is a domain name. However, A2 Hosting is a domain name registrar, so you can choose to purchase a custom domain during the checkout process if you don’t already have one.
 
-<span id="247365_Guru_Crew_Support">24/7/365 Guru Crew Support</span>
----------------------------------------------------------------------
+## <span id="247365_Guru_Crew_Support">24/7/365 Guru Crew Support</span>
 
 If you ever have questions, call A2 at any time of the day (or night) and speak with their friendly and knowledgeable technicians. You can reach the Guru Crew via ticketing center, telephone, or Live Chat.
 
 If you’d prefer to research on your own, A2 Hosting offers a robust knowledgebase to which you can refer. To find out more, [visit A2 Hosting now](https://html.com/go/a2hosting/).
 
-<span id="Pricing_and_Billing">Pricing and Billing</span>
----------------------------------------------------------
+## <span id="Pricing_and_Billing">Pricing and Billing</span>
 
 The cost of your [A2 Hosting](https://html.com/go/a2hosting/) plan depends on the type of web hosting you choose. You can choose to pay on a monthly basis, or you can pay upfront for an extended contract. If you opt for the latter, you’ll receive a discount off your monthly fees. Those who opt for the longest contracts will receive the largest discounts, which means that, on a month-to-month basis, these users pay the least for their hosting packages.
 
 Depending on the type of hosting you choose, you can opt for varying billing cycles:
 
--   Shared Plans: 1, 12, or 24 months
--   VPS Plans: 1, 3, 6, 12, 24
--   Reseller Plans: 1, 6, 12, 24, 36
--   Dedicated Servers: 1, 3, 6, 12
+- Shared Plans: 1, 12, or 24 months
+- VPS Plans: 1, 3, 6, 12, 24
+- Reseller Plans: 1, 6, 12, 24, 36
+- Dedicated Servers: 1, 3, 6, 12
 
 If you find yourself unsatisfied with A2 Hosting at any time, you can request a cancellation of your account using your A2 Hosting Customer Portal. A2 Hosting offers a money back guarantee that allows you to get refunds for unused months.
 
-<span id="A2_Hosting_vs_Bluehost">A2 Hosting vs Bluehost</span>
----------------------------------------------------------------
+## <span id="A2_Hosting_vs_Bluehost">A2 Hosting vs Bluehost</span>
 
 There are a lot of similarities between A2 Hosting and [Bluehost](https://html.com/web-hosting/bluehost/), so which one is the better option for you?
 
@@ -294,13 +279,11 @@ For those new to the world of web hosting, Bluehost might be a better option tha
 
 In addition to offering fewer options to streamline the platform, Bluehost gives its customers an in-house, customized version of the cPanel designed to make it as easy to use as possible for customers.
 
-<figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" alt="A snapshot of the Bluehost control panel." class="lazy lazy-hidden wp-image-9445" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A snapshot of the Bluehost control panel.</figcaption></figure><span id="Special_A2_Hosting_Deal">Special A2 Hosting Deal</span>
------------------------------------------------------------------
+## <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" alt="A snapshot of the Bluehost control panel." class="lazy lazy-hidden wp-image-9445" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A snapshot of the Bluehost control panel.</figcaption></figure><span id="Special_A2_Hosting_Deal">Special A2 Hosting Deal</span>
 
 Ready to try out A2 Hosting? Use any of our links on this page to receive a [50% or more discount](https://html.com/go/a2hosting/) on your first purchase of web hosting services with A2 Hosting!
 
-<span id="Summary">Summary</span>
----------------------------------
+## <span id="Summary">Summary</span>
 
 A2 is a good fit for new developers seeking bargain prices and fast speeds backed by solid customer support. Intermediate and advanced devs will want to delve into the VPS options.
 
@@ -308,16 +291,15 @@ Those who are completely new to hosting and need some hand-holding will want to 
 
 But if you are up to the task, visit [A2 Hosting](https://html.com/go/a2hosting/) now.
 
-<span id="Your_Review_of_A2_Hosting">Your Review of A2 Hosting</span>
----------------------------------------------------------------------
+## <span id="Your_Review_of_A2_Hosting">Your Review of A2 Hosting</span>
 
 Are you a former or current A2 Hosting customer? Following your experience, would you recommend them to your nearest and dearest? How do they perform in terms of speed, features, and customer service? Please leave your thoughts in the comment box below and let us know what you think.
 
 <a href="https://html.com/go/a2hosting/" class="button-cta">Visit A2 Hosting Now</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing Editor: Sherrie Gossett*</span>
+<span class="small">_Contributing Editor: Sherrie Gossett_</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -343,11 +325,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

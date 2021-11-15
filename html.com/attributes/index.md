@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-Category: HTML Attributes
-=========================
+# Category: HTML Attributes
 
-A complete list *(and brief description)* of every attribute in the [HTML specification](https://html.com/), including the latest additions in [HTML5](https://html.com/html5/). Click through to view details, code samples and more for each attribute.
+A complete list _(and brief description)_ of every attribute in the [HTML specification](https://html.com/), including the latest additions in [HTML5](https://html.com/html5/). Click through to view details, code samples and more for each attribute.
 
 **Be sure to check out our [HTML tags](https://html.com/tags/) section, too.**
 

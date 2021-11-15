@@ -6,8 +6,7 @@ Toggle Menu
 
 <span class="navbar-toggler-icon"></span>
 
-TexTools Tools
-==============
+# TexTools Tools
 
 You need Javascript enabled in your web-browser to use this website.
 

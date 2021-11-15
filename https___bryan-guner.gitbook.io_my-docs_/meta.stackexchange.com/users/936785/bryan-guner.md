@@ -1,9 +1,8 @@
 ![Stack Exchange](https://cdn.sstatic.net/stackexchange/img/apple-touch-icon.png)
 
-Access Denied
-=============
+# Access Denied
 
-This IP address (173.70.97.51) has been blocked from access to our services. If you believe this to be in error, please contact us at [team@stackexchange.com](mailto:team@stackexchange.com?Subject=Blocked%20173.70.97.51%20(Request%20ID%3A%201853776152-BOS)).
+This IP address (173.70.97.51) has been blocked from access to our services. If you believe this to be in error, please contact us at [team@stackexchange.com](<mailto:team@stackexchange.com?Subject=Blocked%20173.70.97.51%20(Request%20ID%3A%201853776152-BOS)>).
 
 When contacting us, please include the following information in the email:
 

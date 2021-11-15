@@ -1,5 +1,4 @@
-Embeds
-======
+# Embeds
 
 <https://iframe-showcase.vercel.app/>
 
@@ -95,7 +94,7 @@ Embeds
 
 <https://bgoonz-blog.netlify.app/docs/interact/>
 
--   \[ \]
+- \[ \]
 
 <https://docs42.netlify.app/>
 

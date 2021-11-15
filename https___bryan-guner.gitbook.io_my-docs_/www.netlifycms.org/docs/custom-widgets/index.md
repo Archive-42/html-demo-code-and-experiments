@@ -4,88 +4,87 @@
 
 ☰
 
--   [Star](https://github.com/netlify/netlify-cms)
--   <a href="https://www.netlifycms.org/docs/intro/" class="css-1m5zifq e7p068e11">Docs</a>
--   <a href="https://www.netlifycms.org/docs/contributor-guide/" class="css-1m5zifq e7p068e11">Contributing</a>
--   <a href="https://www.netlifycms.org/community/" class="css-1m5zifq e7p068e11">Community</a>
--   <a href="https://www.netlifycms.org/blog/" class="css-1m5zifq e7p068e11">Blog</a>
+- [Star](https://github.com/netlify/netlify-cms)
+- <a href="https://www.netlifycms.org/docs/intro/" class="css-1m5zifq e7p068e11">Docs</a>
+- <a href="https://www.netlifycms.org/docs/contributor-guide/" class="css-1m5zifq e7p068e11">Contributing</a>
+- <a href="https://www.netlifycms.org/community/" class="css-1m5zifq e7p068e11">Community</a>
+- <a href="https://www.netlifycms.org/blog/" class="css-1m5zifq e7p068e11">Blog</a>
 
 ☰ Show Navigation
 
 ### Intro to Netlify CMS
 
--   <a href="https://www.netlifycms.org/docs/intro/" class="css-ri6ux1 e1crxeno7">Overview</a>
--   <a href="https://www.netlifycms.org/docs/start-with-a-template/" class="css-ri6ux1 e1crxeno7">Start with a Template</a>
--   <a href="https://www.netlifycms.org/docs/add-to-your-site/" class="css-ri6ux1 e1crxeno7">Add to Your Site</a>
--   <a href="https://www.netlifycms.org/docs/releases/" class="css-ri6ux1 e1crxeno7">Releases</a>
+- <a href="https://www.netlifycms.org/docs/intro/" class="css-ri6ux1 e1crxeno7">Overview</a>
+- <a href="https://www.netlifycms.org/docs/start-with-a-template/" class="css-ri6ux1 e1crxeno7">Start with a Template</a>
+- <a href="https://www.netlifycms.org/docs/add-to-your-site/" class="css-ri6ux1 e1crxeno7">Add to Your Site</a>
+- <a href="https://www.netlifycms.org/docs/releases/" class="css-ri6ux1 e1crxeno7">Releases</a>
 
 ### Account Settings
 
--   <a href="https://www.netlifycms.org/docs/backends-overview/" class="css-ri6ux1 e1crxeno7">Overview</a>
--   <a href="https://www.netlifycms.org/docs/git-gateway-backend/" class="css-ri6ux1 e1crxeno7">Git Gateway</a>
--   <a href="https://www.netlifycms.org/docs/azure-backend/" class="css-ri6ux1 e1crxeno7">Azure</a>
--   <a href="https://www.netlifycms.org/docs/bitbucket-backend/" class="css-ri6ux1 e1crxeno7">Bitbucket</a>
--   <a href="https://www.netlifycms.org/docs/github-backend/" class="css-ri6ux1 e1crxeno7">GitHub</a>
--   <a href="https://www.netlifycms.org/docs/gitlab-backend/" class="css-ri6ux1 e1crxeno7">GitLab</a>
--   <a href="https://www.netlifycms.org/docs/test-backend/" class="css-ri6ux1 e1crxeno7">Test</a>
--   <a href="https://www.netlifycms.org/docs/external-oauth-clients/" class="css-ri6ux1 e1crxeno7">External OAuth Clients</a>
+- <a href="https://www.netlifycms.org/docs/backends-overview/" class="css-ri6ux1 e1crxeno7">Overview</a>
+- <a href="https://www.netlifycms.org/docs/git-gateway-backend/" class="css-ri6ux1 e1crxeno7">Git Gateway</a>
+- <a href="https://www.netlifycms.org/docs/azure-backend/" class="css-ri6ux1 e1crxeno7">Azure</a>
+- <a href="https://www.netlifycms.org/docs/bitbucket-backend/" class="css-ri6ux1 e1crxeno7">Bitbucket</a>
+- <a href="https://www.netlifycms.org/docs/github-backend/" class="css-ri6ux1 e1crxeno7">GitHub</a>
+- <a href="https://www.netlifycms.org/docs/gitlab-backend/" class="css-ri6ux1 e1crxeno7">GitLab</a>
+- <a href="https://www.netlifycms.org/docs/test-backend/" class="css-ri6ux1 e1crxeno7">Test</a>
+- <a href="https://www.netlifycms.org/docs/external-oauth-clients/" class="css-ri6ux1 e1crxeno7">External OAuth Clients</a>
 
 ### Configuring your Site
 
--   <a href="https://www.netlifycms.org/docs/configuration-options/" class="css-ri6ux1 e1crxeno7">Configuration Options</a>
--   <a href="https://www.netlifycms.org/docs/beta-features/" class="css-ri6ux1 e1crxeno7">Beta Features!</a>
+- <a href="https://www.netlifycms.org/docs/configuration-options/" class="css-ri6ux1 e1crxeno7">Configuration Options</a>
+- <a href="https://www.netlifycms.org/docs/beta-features/" class="css-ri6ux1 e1crxeno7">Beta Features!</a>
 
 ### Media
 
--   <a href="https://www.netlifycms.org/docs/cloudinary/" class="css-ri6ux1 e1crxeno7">Cloudinary</a>
--   <a href="https://www.netlifycms.org/docs/netlify-large-media/" class="css-ri6ux1 e1crxeno7">Netlify Large Media</a>
--   <a href="https://www.netlifycms.org/docs/uploadcare/" class="css-ri6ux1 e1crxeno7">Uploadcare</a>
+- <a href="https://www.netlifycms.org/docs/cloudinary/" class="css-ri6ux1 e1crxeno7">Cloudinary</a>
+- <a href="https://www.netlifycms.org/docs/netlify-large-media/" class="css-ri6ux1 e1crxeno7">Netlify Large Media</a>
+- <a href="https://www.netlifycms.org/docs/uploadcare/" class="css-ri6ux1 e1crxeno7">Uploadcare</a>
 
 ### Workflow
 
--   <a href="https://www.netlifycms.org/docs/deploy-preview-links/" class="css-ri6ux1 e1crxeno7">Deploy Preview Links</a>
--   <a href="https://www.netlifycms.org/docs/open-authoring/" class="css-ri6ux1 e1crxeno7">Open Authoring</a>
+- <a href="https://www.netlifycms.org/docs/deploy-preview-links/" class="css-ri6ux1 e1crxeno7">Deploy Preview Links</a>
+- <a href="https://www.netlifycms.org/docs/open-authoring/" class="css-ri6ux1 e1crxeno7">Open Authoring</a>
 
 ### Collections
 
--   <a href="https://www.netlifycms.org/docs/collection-types/" class="css-ri6ux1 e1crxeno7">Collection Types</a>
+- <a href="https://www.netlifycms.org/docs/collection-types/" class="css-ri6ux1 e1crxeno7">Collection Types</a>
 
 ### Fields
 
--   <a href="https://www.netlifycms.org/docs/widgets/" class="css-ri6ux1 e1crxeno7">Widgets</a>
--   <a href="https://www.netlifycms.org/docs/custom-widgets/" class="css-ri6ux1 e1crxeno7 active">Creating Custom Widgets</a>
+- <a href="https://www.netlifycms.org/docs/widgets/" class="css-ri6ux1 e1crxeno7">Widgets</a>
+- <a href="https://www.netlifycms.org/docs/custom-widgets/" class="css-ri6ux1 e1crxeno7 active">Creating Custom Widgets</a>
 
 ### Platform Guides
 
--   <a href="https://www.netlifycms.org/docs/site-generator-overview/" class="css-ri6ux1 e1crxeno7">Overview</a>
--   <a href="https://www.netlifycms.org/docs/gatsby/" class="css-ri6ux1 e1crxeno7">Gatsby</a>
--   <a href="https://www.netlifycms.org/docs/hugo/" class="css-ri6ux1 e1crxeno7">Hugo</a>
--   <a href="https://www.netlifycms.org/docs/jekyll/" class="css-ri6ux1 e1crxeno7">Jekyll</a>
--   <a href="https://www.netlifycms.org/docs/nextjs/" class="css-ri6ux1 e1crxeno7">NextJS</a>
--   <a href="https://www.netlifycms.org/docs/nuxt/" class="css-ri6ux1 e1crxeno7">Nuxt</a>
--   <a href="https://www.netlifycms.org/docs/middleman/" class="css-ri6ux1 e1crxeno7">Middleman</a>
--   <a href="https://www.netlifycms.org/docs/gridsome/" class="css-ri6ux1 e1crxeno7">Gridsome</a>
+- <a href="https://www.netlifycms.org/docs/site-generator-overview/" class="css-ri6ux1 e1crxeno7">Overview</a>
+- <a href="https://www.netlifycms.org/docs/gatsby/" class="css-ri6ux1 e1crxeno7">Gatsby</a>
+- <a href="https://www.netlifycms.org/docs/hugo/" class="css-ri6ux1 e1crxeno7">Hugo</a>
+- <a href="https://www.netlifycms.org/docs/jekyll/" class="css-ri6ux1 e1crxeno7">Jekyll</a>
+- <a href="https://www.netlifycms.org/docs/nextjs/" class="css-ri6ux1 e1crxeno7">NextJS</a>
+- <a href="https://www.netlifycms.org/docs/nuxt/" class="css-ri6ux1 e1crxeno7">Nuxt</a>
+- <a href="https://www.netlifycms.org/docs/middleman/" class="css-ri6ux1 e1crxeno7">Middleman</a>
+- <a href="https://www.netlifycms.org/docs/gridsome/" class="css-ri6ux1 e1crxeno7">Gridsome</a>
 
 ### Customizing Netlify CMS
 
--   <a href="https://www.netlifycms.org/docs/customization/" class="css-ri6ux1 e1crxeno7">Creating Custom Previews</a>
+- <a href="https://www.netlifycms.org/docs/customization/" class="css-ri6ux1 e1crxeno7">Creating Custom Previews</a>
 
 ### Community
 
--   <a href="https://www.netlifycms.org/docs/contributor-guide/" class="css-ri6ux1 e1crxeno7">Contributor Guide</a>
--   <a href="https://www.netlifycms.org/docs/writing-style-guide/" class="css-ri6ux1 e1crxeno7">Writing Style Guide</a>
--   <a href="https://www.netlifycms.org/docs/examples/" class="css-ri6ux1 e1crxeno7">Examples</a>
--   <a href="https://www.netlifycms.org/docs/architecture/" class="css-ri6ux1 e1crxeno7">Architecture</a>
+- <a href="https://www.netlifycms.org/docs/contributor-guide/" class="css-ri6ux1 e1crxeno7">Contributor Guide</a>
+- <a href="https://www.netlifycms.org/docs/writing-style-guide/" class="css-ri6ux1 e1crxeno7">Writing Style Guide</a>
+- <a href="https://www.netlifycms.org/docs/examples/" class="css-ri6ux1 e1crxeno7">Examples</a>
+- <a href="https://www.netlifycms.org/docs/architecture/" class="css-ri6ux1 e1crxeno7">Architecture</a>
 
 Edit this page
 
-Creating Custom Widgets
-=======================
+# Creating Custom Widgets
 
 The NetlifyCMS exposes a `window.CMS` a global object that you can use to register custom widgets, previews, and editor plugins. The same object is also the default export if you import Netlify CMS as an npm module. The available widget extension methods are:
 
--   **registerWidget:** registers a custom widget.
--   **registerEditorComponent:** adds a block component to the Markdown editor.
+- **registerWidget:** registers a custom widget.
+- **registerEditorComponent:** adds a block component to the Markdown editor.
 
 ### <a href="#writing-react-components-inline" class="anchor before"></a> Writing React Components inline
 
@@ -93,8 +92,7 @@ The `registerWidget` requires you to provide a React component. If you have a bu
 
 However, although possible, it may be cumbersome or even impractical to add a React build phase. For this reason, NetlifyCMS exposes two constructs globally to allow you to create components inline: ‘createClass’ and ‘h’ (alias for React.createElement).
 
-<a href="#registerwidget" class="anchor before"></a> `registerWidget`
----------------------------------------------------------------------
+## <a href="#registerwidget" class="anchor before"></a> `registerWidget`
 
 Register a custom widget.
 
@@ -168,8 +166,7 @@ Register a custom widget.
             widget: categories
             separator: __
 
-<a href="#registereditorcomponent" class="anchor before"></a> `registerEditorComponent`
----------------------------------------------------------------------------------------
+## <a href="#registereditorcomponent" class="anchor before"></a> `registerEditorComponent`
 
 Register a block level component for the Markdown editor:
 
@@ -177,7 +174,7 @@ Register a block level component for the Markdown editor:
 
 **Params**
 
--   **definition:** The component definition; must specify: id, label, fields, patterns, fromBlock, toBlock, toPreview
+- **definition:** The component definition; must specify: id, label, fields, patterns, fromBlock, toBlock, toPreview
 
 > Additional properties are optional and will be passed to the underlying widget control (object widget by default). For example, adding a `collapsed: true` property will collapse the widget by default.
 
@@ -258,8 +255,7 @@ Register a block level component for the Markdown editor:
 
 !\[youtube-widget\](/img/screen shot 2018-01-05 at 4.25.07 pm.png)
 
-<a href="#advanced-field-validation" class="anchor before"></a> Advanced field validation
------------------------------------------------------------------------------------------
+## <a href="#advanced-field-validation" class="anchor before"></a> Advanced field validation
 
 All widget fields, including those for built-in widgets, [include basic validation](https://www.netlifycms.org/docs/widgets/#common-widget-options) capability using the `required` and `pattern` options.
 
@@ -294,8 +290,7 @@ Existing error:
 
 **Note:** Do not create a promise inside `isValid` - `isValid` is called right before trying to persist. This means that even if a previous promise was already resolved, when the user hits 'save', `isValid` will be called again. If it returns a new promise, it will be immediately marked as "in error" until the new promise resolves.
 
-<a href="#writing-custom-widgets-as-a-separate-package" class="anchor before"></a> Writing custom widgets as a separate package
--------------------------------------------------------------------------------------------------------------------------------
+## <a href="#writing-custom-widgets-as-a-separate-package" class="anchor before"></a> Writing custom widgets as a separate package
 
 Widgets are inputs for the Netlify CMS editor interface. It's a React component that receives user input and outputs a serialized value. Those are the only rules - the component can be extremely simple, like text input, or extremely complicated, like a full-blown markdown editor. They can make calls to external services, and generally do anything that JavaScript can do.
 
@@ -317,9 +312,9 @@ For writing custom widgets as a separate package you should follow these steps:
 
 5.  In order to build React components, we need to set up a build step. We'll be using Webpack. Please run the following commands to install the required dependencies:
 
-       npm install --save-dev babel-loader@7 babel-core babel-plugin-transform-class-properties babel-plugin-transform-export-extensions babel-plugin-transform-object-rest-spread babel-preset-env babel-preset-react cross-env css-loader html-webpack-plugin netlify-cms react source-map-loader style-loader webpack webpack-cli webpack-serve
+    npm install --save-dev babel-loader@7 babel-core babel-plugin-transform-class-properties babel-plugin-transform-export-extensions babel-plugin-transform-object-rest-spread babel-preset-env babel-preset-react cross-env css-loader html-webpack-plugin netlify-cms react source-map-loader style-loader webpack webpack-cli webpack-serve
 
-       npm install --save prop-types
+    npm install --save prop-types
 
 And you should manually add "**peerDependencies**" and "**scripts**" as shown below.
 
@@ -426,18 +421,18 @@ Here is the content of `package.json` that you will have at the end:
 2.  The `.babelrc` file is our local configuration for our code in the project. You should create it under the root of the application repo. It will affect all files that Babel processes. So, create a `.babelrc` file under the main project with this content:
 
     {
-      "presets": [
-        "react",
-        "env",
-      ],
-      "plugins": [
-        "transform-export-extensions",
-        "transform-class-properties",
-        "transform-object-rest-spread",
-      ],
+    "presets": [
+    "react",
+    "env",
+    ],
+    "plugins": [
+    "transform-export-extensions",
+    "transform-class-properties",
+    "transform-object-rest-spread",
+    ],
     }
 
-1.  Create a `src` directory with the files `Control.js`, `Preview.js` and `index.js`
+3.  Create a `src` directory with the files `Control.js`, `Preview.js` and `index.js`
 
 `src/Control.js`
 
@@ -575,19 +570,19 @@ You'll want to take a few steps before publishing a production built package to 
 4.  Rename the exports in `src/index.js`. For example, if your widget is `netlify-cms-widget-awesome`, you would do:
 
     if (typeof window !== 'undefined') {
-      window.AwesomeControl = Control
-      window.AwesomePreview = Preview
+    window.AwesomeControl = Control
+    window.AwesomePreview = Preview
     }
 
     export { Control as AwesomeControl, Preview as AwesomePreview }
 
-1.  Optional: customize the component and file names in `src`.
-2.  If you haven't already, push your repo to your GitHub account so the source available to other developers.
-3.  Create a production build, which will be output to `dist`:
+5.  Optional: customize the component and file names in `src`.
+6.  If you haven't already, push your repo to your GitHub account so the source available to other developers.
+7.  Create a production build, which will be output to `dist`:
 
     npm run build
 
-1.  Finally, if you're sure things are tested and working, publish!
+8.  Finally, if you're sure things are tested and working, publish!
 
     npm publish
 

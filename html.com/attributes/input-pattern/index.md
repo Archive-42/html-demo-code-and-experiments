@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 New in HTML5.
 
-`Input Pattern: Use It To Add Basic Data Validation In HTML5`
-=============================================================
+# `Input Pattern: Use It To Add Basic Data Validation In HTML5`
 
 In <span class="post-meta-category">[HTML Attributes](https://html.com/attributes/), [New](https://html.com/new/)</span>
 
@@ -25,61 +22,59 @@ Specifies a regular expression against which to validate the value of the input.
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> Data Validation with Regular Expressions](#Data_Validation_with_Regular_Expressions)
-    -   [<span class="toc_number toc_depth_2">2.1</span> Example Patterns](#Example_Patterns)
-        -   [<span class="toc_number toc_depth_3">2.1.1</span> Username Patterns](#Username_Patterns)
-        -   [<span class="toc_number toc_depth_3">2.1.2</span> Payment Info Patterns](#Payment_Info_Patterns)
-    -   [<span class="toc_number toc_depth_2">2.2</span> A note about pattern and common validation problems](#A_note_about_pattern_and_common_validation_problems)
-        -   [<span class="toc_number toc_depth_3">2.2.1</span> Also, don’t regex for email addresses](#Also_don8217t_regex_for_email_addresses)
-        -   [<span class="toc_number toc_depth_3">2.2.2</span> Or dates](#Or_dates)
-        -   [<span class="toc_number toc_depth_3">2.2.3</span> Or anything else you could with something else](#Or_anything_else_you_could_with_something_else)
-    -   [<span class="toc_number toc_depth_2">2.3</span> Front-end validation isn’t enough](#Front-end_validation_isn8217t_enough)
--   [<span class="toc_number toc_depth_1">3</span> Browser Support for pattern](#Browser_Support_for_pattern)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> Data Validation with Regular Expressions](#Data_Validation_with_Regular_Expressions)
+  - [<span class="toc_number toc_depth_2">2.1</span> Example Patterns](#Example_Patterns)
+    - [<span class="toc_number toc_depth_3">2.1.1</span> Username Patterns](#Username_Patterns)
+    - [<span class="toc_number toc_depth_3">2.1.2</span> Payment Info Patterns](#Payment_Info_Patterns)
+  - [<span class="toc_number toc_depth_2">2.2</span> A note about pattern and common validation problems](#A_note_about_pattern_and_common_validation_problems)
+    - [<span class="toc_number toc_depth_3">2.2.1</span> Also, don’t regex for email addresses](#Also_don8217t_regex_for_email_addresses)
+    - [<span class="toc_number toc_depth_3">2.2.2</span> Or dates](#Or_dates)
+    - [<span class="toc_number toc_depth_3">2.2.3</span> Or anything else you could with something else](#Or_anything_else_you_could_with_something_else)
+  - [<span class="toc_number toc_depth_2">2.3</span> Front-end validation isn’t enough](#Front-end_validation_isn8217t_enough)
+- [<span class="toc_number toc_depth_1">3</span> Browser Support for pattern](#Browser_Support_for_pattern)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <form>
      <label for="username">Username <i>(letters and numbers only, no  punctuation or special characters)</i></label><br>
      <input name="username" id="username" pattern="[A-Za-z0-9]+">
     </form>
 
-Username *(letters and numbers only, no punctuation or special characters)*  
+Username _(letters and numbers only, no punctuation or special characters)_
 
 <span class="underline"></span>
 
-<span id="Data_Validation_with_Regular_Expressions">Data Validation with Regular Expressions</span>
----------------------------------------------------------------------------------------------------
+## <span id="Data_Validation_with_Regular_Expressions">Data Validation with Regular Expressions</span>
 
 The `pattern` attribute of the [`<input>`](https://html.com/tags/input/) element allows you to add basic data validation without resorting to JavaScript. It works by matching the input value against a regular expression. A regular expression is a formalized string of characters that define a pattern. For example `[a-zA-Z0-9]+` is a pattern that matches against a string of any length, as long as the string contains only lowercase letters (`a-z`), uppercase letters (`A-Z`), or numerals (`0-9`).
 
--   **Match `[a-zA-Z0-9]+`**
-    -   htmlcodetutorial
-    -   Mississippi
-    -   12BuckleMyShoe34
-    -   8675309
--   **Do not match `[a-zA-Z0-9]+`**
-    -   https://[html](https://html.com/).com
-    -   Mrs. Ippi
-    -   1, 2, Buckle My Shoe!
-    -   (321) 867-4309
+- **Match `[a-zA-Z0-9]+`**
+  - htmlcodetutorial
+  - Mississippi
+  - 12BuckleMyShoe34
+  - 8675309
+- **Do not match `[a-zA-Z0-9]+`**
+  - https://[html](https://html.com/).com
+  - Mrs. Ippi
+  - 1, 2, Buckle My Shoe!
+  - (321) 867-4309
 
 ### <span id="Example_Patterns">Example Patterns</span>
 
 #### <span id="Username_Patterns">Username Patterns</span>
 
-    Only letters (either case), numbers, and the underscore; no more than 15 characters.  [A-Za-z0-9_]{1,15} 
+    Only letters (either case), numbers, and the underscore; no more than 15 characters.  [A-Za-z0-9_]{1,15}
 
-    Only lowercase letters and numbers; at least 5 characters, but no limit.  [a-zd.]{5,} 
+    Only lowercase letters and numbers; at least 5 characters, but no limit.  [a-zd.]{5,}
 
-    Only letters (either case), numbers, hyphens, underscores, and periods. (Not the slash character, that is being used to escape the period.) The username must start with a letter and must be between 1 and 20 characters long (inclusive).  [a-zA-Z][a-zA-Z0-9-_.]{1,20} 
+    Only letters (either case), numbers, hyphens, underscores, and periods. (Not the slash character, that is being used to escape the period.) The username must start with a letter and must be between 1 and 20 characters long (inclusive).  [a-zA-Z][a-zA-Z0-9-_.]{1,20}
 
 #### <span id="Payment_Info_Patterns">Payment Info Patterns</span>
 
-    USD Price Format (1.00)  d+(.d{2})? 
+    USD Price Format (1.00)  d+(.d{2})?
 
-    Credit Card Format - Digits only, between 13 and 16 digits long.  [0-9]{13,16} 
+    Credit Card Format - Digits only, between 13 and 16 digits long.  [0-9]{13,16}
 
 Also, check out this [great list of HTML form regex patterns](http://html5pattern.com/).
 
@@ -89,7 +84,7 @@ There is an old proverb among computer programmers:
 
 > Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
 
-Jamie Zawinski was talking about Perl when he said that back in 1997, but it holds true in other contexts as well. The most common problem you’ll run into with using the `pattern` attribute is poorly written (or poorly tested) regular expressions. They are a little hard and non-obvious. So the biggest problem is simply bugs — a regex that doesn’t actually test for what you want it to test for. But this can be fixed pretty easily with a question on [StackExchange](https://stackexchange.com/). The more difficult problem is testing for the wrong things. Consider the Credit Card pattern shown above as an example. If you used that in an actual payment field, it would match against MasterCard and Visa, but fail on American Express. Do you want your user to be able to pay you with their AmEx card? This sort of thing happens *all the time*, especially as you start to work across cultures and national borders: every country formats addresses differently, dates are formatted differently, phone numbers, and prices. License plate numbers vary by state within the US, and drastically differ by country. VIN numbers are different for different classes and types of vehicles, and also for years of production. You may want to validate against username styles in a third party system, but the third party system may change in the future, or may have changed in the past. You need to be very mindful of what type of input restrictions you are putting on your form fields. It may be the `pattern` is too blunt an instrument for your needs. You may need [a more powerful and precise form validation tool](http://parsleyjs.org/).
+Jamie Zawinski was talking about Perl when he said that back in 1997, but it holds true in other contexts as well. The most common problem you’ll run into with using the `pattern` attribute is poorly written (or poorly tested) regular expressions. They are a little hard and non-obvious. So the biggest problem is simply bugs — a regex that doesn’t actually test for what you want it to test for. But this can be fixed pretty easily with a question on [StackExchange](https://stackexchange.com/). The more difficult problem is testing for the wrong things. Consider the Credit Card pattern shown above as an example. If you used that in an actual payment field, it would match against MasterCard and Visa, but fail on American Express. Do you want your user to be able to pay you with their AmEx card? This sort of thing happens _all the time_, especially as you start to work across cultures and national borders: every country formats addresses differently, dates are formatted differently, phone numbers, and prices. License plate numbers vary by state within the US, and drastically differ by country. VIN numbers are different for different classes and types of vehicles, and also for years of production. You may want to validate against username styles in a third party system, but the third party system may change in the future, or may have changed in the past. You need to be very mindful of what type of input restrictions you are putting on your form fields. It may be the `pattern` is too blunt an instrument for your needs. You may need [a more powerful and precise form validation tool](http://parsleyjs.org/).
 
 #### <span id="Also_don8217t_regex_for_email_addresses">Also, don’t regex for email addresses</span>
 
@@ -99,7 +94,7 @@ HTML provides the `email` input type, which performs a validation check against 
 
 You could try to build a regex that checks for a date format
 
-    YYYY-MM-DD, only allows dates in the 20th and 21st centuries  (?:19|20)[0-9]{2}-(?:(?:0[1-9]|1[0-2])-(?:0[1-9]|1[0-9]|2[0-9])|(?:(?!02)(?:0[1-9]|1[0-2])-(?:30))|(?:(?:0[13578]|1[02])-31)) 
+    YYYY-MM-DD, only allows dates in the 20th and 21st centuries  (?:19|20)[0-9]{2}-(?:(?:0[1-9]|1[0-2])-(?:0[1-9]|1[0-9]|2[0-9])|(?:(?!02)(?:0[1-9]|1[0-2])-(?:30))|(?:(?:0[13578]|1[02])-31))
 
 But this can cause all sorts of problems. People like to format dates different (MM/DD/YY, DD MONTHNAME YYYY, etc.), and they probably won’t read your instructions on proper formatting the first few times they try it. Also, there is nothing to stop invalid dates like February 31, or dates too far in the future like `2099-12-31`. On top of all that, you have to parse the string into a usable date object once you get it on the server. Instead of all that, just use the `date` input. Or `datetime`.
 
@@ -125,8 +120,7 @@ Email addresses and dates are common enough that specific form input types alrea
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_pattern">Browser Support for pattern</span>
--------------------------------------------------------------------------
+## <span id="Browser_Support_for_pattern">Browser Support for pattern</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -164,8 +158,7 @@ Email addresses and dates are common enough that specific form input types alrea
 
 <span class="browser-supported">34</span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`<input multiple>`](https://html.com/attributes/input-multiple/)
 
@@ -177,11 +170,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

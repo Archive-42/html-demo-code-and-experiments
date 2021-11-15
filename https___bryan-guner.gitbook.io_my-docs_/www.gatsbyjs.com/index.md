@@ -2,253 +2,239 @@
 
 **Scaling your agency** From pitch to publish: How to successfully deliver Gatsby client projects - [Register now](https://www.gatsbyjs.com/resources/webinars/2022-agency-enablement/)
 
--   <a href="https://www.gatsbyjs.com/support/" class="css-ntw0hb">Support</a>
+- <a href="https://www.gatsbyjs.com/support/" class="css-ntw0hb">Support</a>
 
-    <a href="https://www.gatsbyjs.com/support/" class="css-vnj296">Support</a>
--   <a href="https://www.gatsbyjs.com/contact-us/" class="css-ntw0hb">Contact</a>
+  <a href="https://www.gatsbyjs.com/support/" class="css-vnj296">Support</a>
 
-    <a href="https://www.gatsbyjs.com/contact-us/" class="css-vnj296">Contact</a>
--   <a href="https://www.gatsbyjs.com/dashboard/login/" class="css-ntw0hb">Log in</a>
+- <a href="https://www.gatsbyjs.com/contact-us/" class="css-ntw0hb">Contact</a>
 
-    <a href="https://www.gatsbyjs.com/dashboard/login/" class="css-vnj296">Log in</a>
+  <a href="https://www.gatsbyjs.com/contact-us/" class="css-vnj296">Contact</a>
+
+- <a href="https://www.gatsbyjs.com/dashboard/login/" class="css-ntw0hb">Log in</a>
+
+  <a href="https://www.gatsbyjs.com/dashboard/login/" class="css-vnj296">Log in</a>
 
 <span class="css-1b0zir9"></span>
 
--   -   ### Why Gatsby
+- - ### Why Gatsby
 
-        Why Gatsby
-        -   <span class="css-ovr08e">Why Gatsby</span>
+    Why Gatsby
 
-            Why Gatsby
-            ----------
+    - <span class="css-ovr08e">Why Gatsby</span>
 
-            See why the best frontend teams choose Gatsby
+      ## Why Gatsby
 
-        -   <span class="css-ovr08e">How It Works</span>
+      See why the best frontend teams choose Gatsby
 
-            How It Works
-            ------------
+    - <span class="css-ovr08e">How It Works</span>
 
-            Learn how Gatsby works on the inside
+      ## How It Works
 
-        -   <span class="css-ovr08e">Who Uses Gatsby</span>
+      Learn how Gatsby works on the inside
 
-            Who Uses Gatsby
-            ---------------
+    - <span class="css-ovr08e">Who Uses Gatsby</span>
 
-            See how our customers use Gatsby
+      ## Who Uses Gatsby
 
-        -   <span class="css-ovr08e">Use Cases</span>
+      See how our customers use Gatsby
 
-            Use Cases
-            ---------
+    - <span class="css-ovr08e">Use Cases</span>
 
-            Explore the many ways to use Gatsby
+      ## Use Cases
 
-            -   -   ### By Industry
+      Explore the many ways to use Gatsby
 
-                    -   <a href="https://www.gatsbyjs.com/use-cases/software-saas/" class="css-17mmtw1">Software &amp; SaaS</a>
-                    -   <a href="https://www.gatsbyjs.com/use-cases/finance-insurance/" class="css-17mmtw1">Finance &amp; Insurance</a>
-                    -   <a href="https://www.gatsbyjs.com/use-cases/e-commerce/" class="css-17mmtw1">E-commerce</a>
-                    -   <a href="https://www.gatsbyjs.com/use-cases/content-media/" class="css-17mmtw1">Content &amp; Media</a>
+      - - ### By Industry
 
-                -   ### By Technology
+          - <a href="https://www.gatsbyjs.com/use-cases/software-saas/" class="css-17mmtw1">Software &amp; SaaS</a>
+          - <a href="https://www.gatsbyjs.com/use-cases/finance-insurance/" class="css-17mmtw1">Finance &amp; Insurance</a>
+          - <a href="https://www.gatsbyjs.com/use-cases/e-commerce/" class="css-17mmtw1">E-commerce</a>
+          - <a href="https://www.gatsbyjs.com/use-cases/content-media/" class="css-17mmtw1">Content &amp; Media</a>
 
-                    -   WordPress
-                    -   Contentful
-                    -   Drupal
-                    -   Shopify
+        - ### By Technology
 
-                -   ### By User
+          - WordPress
+          - Contentful
+          - Drupal
+          - Shopify
 
-                    -   <a href="https://www.gatsbyjs.com/use-cases/developer/" class="css-17mmtw1">Developers</a>
-                    -   <a href="https://www.gatsbyjs.com/use-cases/marketer/" class="css-17mmtw1">Marketers</a>
-                    -   <a href="https://www.gatsbyjs.com/use-cases/content-creator/" class="css-17mmtw1">Content Creators</a>
-                    -   <a href="https://www.gatsbyjs.com/use-cases/engineering-leader/" class="css-17mmtw1">Engineering Leaders</a>
+        - ### By User
 
-    -   ### Products
+          - <a href="https://www.gatsbyjs.com/use-cases/developer/" class="css-17mmtw1">Developers</a>
+          - <a href="https://www.gatsbyjs.com/use-cases/marketer/" class="css-17mmtw1">Marketers</a>
+          - <a href="https://www.gatsbyjs.com/use-cases/content-creator/" class="css-17mmtw1">Content Creators</a>
+          - <a href="https://www.gatsbyjs.com/use-cases/engineering-leader/" class="css-17mmtw1">Engineering Leaders</a>
 
-        Products
-        -   <span class="css-ovr08e">Gatsby Cloud</span>
+  - ### Products
 
-            Gatsby Cloud
-            ------------
+    Products
 
-            The end-to-end platform for optimal Gatsby experiences
+    - <span class="css-ovr08e">Gatsby Cloud</span>
 
-            -   -   -   Builds
-                    -   Preview
-                    -   Hosting
-                    -   Functions
+      ## Gatsby Cloud
 
-                -   -   Integrations
-                    -   Pricing
+      The end-to-end platform for optimal Gatsby experiences
 
-        -   <span class="css-ovr08e">Gatsby Concierge</span>
+      - - - Builds
+          - Preview
+          - Hosting
+          - Functions
 
-            Gatsby Concierge
-            ----------------
+        - - Integrations
+          - Pricing
 
-            Expert assistance for optimizing Gatsby websites and applications
+    - <span class="css-ovr08e">Gatsby Concierge</span>
 
-            -   -   -   <a href="https://www.gatsbyjs.com/products/concierge/performance/" class="css-17mmtw1">Performance Audits</a>
-                    -   <a href="https://www.gatsbyjs.com/products/concierge/builds/" class="css-17mmtw1">Build Audits</a>
+      ## Gatsby Concierge
 
-                -   -   <a href="https://www.gatsbyjs.com/products/concierge/onboarding/" class="css-17mmtw1">Onboarding</a>
-                    -   <a href="https://www.gatsbyjs.com/products/concierge/migration/" class="css-17mmtw1">Migrations</a>
+      Expert assistance for optimizing Gatsby websites and applications
 
-    -   ### Open Source
+      - - - <a href="https://www.gatsbyjs.com/products/concierge/performance/" class="css-17mmtw1">Performance Audits</a>
+          - <a href="https://www.gatsbyjs.com/products/concierge/builds/" class="css-17mmtw1">Build Audits</a>
 
-        Open Source
-        -   <span class="css-ovr08e">Say hello to Gatsby 4</span>
+        - - <a href="https://www.gatsbyjs.com/products/concierge/onboarding/" class="css-17mmtw1">Onboarding</a>
+          - <a href="https://www.gatsbyjs.com/products/concierge/migration/" class="css-17mmtw1">Migrations</a>
 
-            Say hello to Gatsby 4
-            ---------------------
+  - ### Open Source
 
-            Check out the all-new Gatsby with SSR, DSG and more
+    Open Source
 
-        -   <span class="css-ovr08e">Documentation</span>
+    - <span class="css-ovr08e">Say hello to Gatsby 4</span>
 
-            Documentation
-            -------------
+      ## Say hello to Gatsby 4
 
-            Start building with Gatsby and its ecosystem
+      Check out the all-new Gatsby with SSR, DSG and more
 
-            -   -   -   <a href="https://www.gatsbyjs.com/docs/quick-start/" class="css-17mmtw1">Quick Start</a>
-                    -   <a href="https://www.gatsbyjs.com/docs/tutorial/" class="css-17mmtw1">Tutorial</a>
+    - <span class="css-ovr08e">Documentation</span>
 
-                -   -   <a href="https://www.gatsbyjs.com/docs/how-to/" class="css-17mmtw1">How-To Guides</a>
-                    -   <a href="https://www.gatsbyjs.com/docs/reference/" class="css-17mmtw1">Reference Guides</a>
-                    -   <a href="https://www.gatsbyjs.com/docs/conceptual/" class="css-17mmtw1">Conceptual Guides</a>
+      ## Documentation
 
-        -   <span class="css-ovr08e">Gatsby Plugins</span>
+      Start building with Gatsby and its ecosystem
 
-            Gatsby Plugins
-            --------------
+      - - - <a href="https://www.gatsbyjs.com/docs/quick-start/" class="css-17mmtw1">Quick Start</a>
+          - <a href="https://www.gatsbyjs.com/docs/tutorial/" class="css-17mmtw1">Tutorial</a>
 
-            A rich ecosystem of 2500+ ready solutions and integrations
+        - - <a href="https://www.gatsbyjs.com/docs/how-to/" class="css-17mmtw1">How-To Guides</a>
+          - <a href="https://www.gatsbyjs.com/docs/reference/" class="css-17mmtw1">Reference Guides</a>
+          - <a href="https://www.gatsbyjs.com/docs/conceptual/" class="css-17mmtw1">Conceptual Guides</a>
 
-            -   -   -   WordPress
-                    -   Contentful
+    - <span class="css-ovr08e">Gatsby Plugins</span>
 
-                -   -   Shopify
-                    -   Algolia
+      ## Gatsby Plugins
 
-                -   -   Google Analytics
-                    -   Segment
+      A rich ecosystem of 2500+ ready solutions and integrations
 
-        -   <span class="css-ovr08e">Starters</span>
+      - - - WordPress
+          - Contentful
 
-            Starters
-            --------
+        - - Shopify
+          - Algolia
 
-            Get up and running with premade templates
+        - - Google Analytics
+          - Segment
 
-        -   <span class="css-ovr08e">Themes</span>
+    - <span class="css-ovr08e">Starters</span>
 
-            Themes
-            ------
+      ## Starters
 
-            Gain centralized control over web projects
+      Get up and running with premade templates
 
-        -   <span class="css-ovr08e">Contributing</span>
+    - <span class="css-ovr08e">Themes</span>
 
-            Contributing
-            ------------
+      ## Themes
 
-            Contribute to the Gatsby project
+      Gain centralized control over web projects
 
-    -   ### Learn
+    - <span class="css-ovr08e">Contributing</span>
 
-        Learn
-        -   <span class="css-ovr08e">GatsbyCamp - Fall 21</span>
+      ## Contributing
 
-            GatsbyCamp - Fall 21
-            --------------------
+      Contribute to the Gatsby project
 
-            Join us on September 16th
+  - ### Learn
 
-        -   <span class="css-ovr08e">Community Showcase</span>
+    Learn
 
-            Community Showcase
-            ------------------
+    - <span class="css-ovr08e">GatsbyCamp - Fall 21</span>
 
-            Check out what the community is building
+      ## GatsbyCamp - Fall 21
 
-        -   <span class="css-ovr08e">Webinars</span>
+      Join us on September 16th
 
-            Webinars
-            --------
+    - <span class="css-ovr08e">Community Showcase</span>
 
-            Learn more with live or on-demand webinars
+      ## Community Showcase
 
-            -   -   ### Latest webinars
+      Check out what the community is building
 
-                    -   <a href="https://www.gatsbyjs.com/resources/webinar/hosting-in-gatsby-cloud" class="css-17mmtw1">Achieving the Optimal Gatsby Experience by Hosting in Gatsby Cloud</a>
-                    -   <a href="https://www.gatsbyjs.com/wordpress-integration-webinar" class="css-17mmtw1">Learn How Gatsby Can Supercharge Your WordPress Website</a>
+    - <span class="css-ovr08e">Webinars</span>
 
-        -   <span class="css-ovr08e">Blog</span>
+      ## Webinars
 
-            Blog
-            ----
+      Learn more with live or on-demand webinars
 
-            Read the latest musings from Gatsby
+      - - ### Latest webinars
 
-        -   <span class="css-ovr08e">Community</span>
+          - <a href="https://www.gatsbyjs.com/resources/webinar/hosting-in-gatsby-cloud" class="css-17mmtw1">Achieving the Optimal Gatsby Experience by Hosting in Gatsby Cloud</a>
+          - <a href="https://www.gatsbyjs.com/wordpress-integration-webinar" class="css-17mmtw1">Learn How Gatsby Can Supercharge Your WordPress Website</a>
 
-            Community
-            ---------
+    - <span class="css-ovr08e">Blog</span>
 
-            Explore and interact with our community
+      ## Blog
 
-            -   -   -   Twitter
-                    -   Twitch
+      Read the latest musings from Gatsby
 
-                -   -   Discord
-                    -   YouTube
+    - <span class="css-ovr08e">Community</span>
 
-    -   ### Company
+      ## Community
 
-        Company
-        -   <span class="css-ovr08e">About Us</span>
+      Explore and interact with our community
 
-            About Us
-            --------
+      - - - Twitter
+          - Twitch
 
-            Meet the team and learn about our story
+        - - Discord
+          - YouTube
 
-        -   <span class="css-ovr08e">Partners</span>
+  - ### Company
 
-            Partners
-            --------
+    Company
 
-            Grow with Gatsby and accelerate your business
+    - <span class="css-ovr08e">About Us</span>
 
-            -   -   -   <a href="https://www.gatsbyjs.com/partners/agencies/" class="css-17mmtw1">Agency Partners</a>
+      ## About Us
 
-                -   -   <a href="https://www.gatsbyjs.com/partners/technology/" class="css-17mmtw1">Tech Partners</a>
+      Meet the team and learn about our story
 
-        -   <span class="css-ovr08e">Careers</span>
+    - <span class="css-ovr08e">Partners</span>
 
-            Careers
-            -------
+      ## Partners
 
--   -   <a href="https://www.gatsbyjs.com/dashboard/signup" class="css-ntw0hb">Sign Up for Free</a>
+      Grow with Gatsby and accelerate your business
 
-        <a href="https://www.gatsbyjs.com/dashboard/signup" class="css-12g4q22">Sign Up for Free</a>
+      - - - <a href="https://www.gatsbyjs.com/partners/agencies/" class="css-17mmtw1">Agency Partners</a>
+
+        - - <a href="https://www.gatsbyjs.com/partners/technology/" class="css-17mmtw1">Tech Partners</a>
+
+    - <span class="css-ovr08e">Careers</span>
+
+      ## Careers
+
+- - <a href="https://www.gatsbyjs.com/dashboard/signup" class="css-ntw0hb">Sign Up for Free</a>
+
+    <a href="https://www.gatsbyjs.com/dashboard/signup" class="css-12g4q22">Sign Up for Free</a>
 
 <span class="css-7v2lmy">Show Search Form</span>
 
-Static is fast. Static now scales.
-==================================
+# Static is fast. Static now scales.
 
 Generate it statically. Generate it dynamically. Or, somewhere in between. However you build your website – **build it fast, secure, and scalable with Gatsby 4.**
 
-### 
+###
 
 Sign up for free
 
-### 
+###
 
 Talk to an expert
 
@@ -281,15 +267,14 @@ Trusted By
                                   //images.ctfassets.net/vkdbses00qqt/6gYYhIZTJq0VHl3tXT8oPC/18d49aaa1fd3fed25b6b6593350897b7/homepage-used-by-logos__2_.png?w=3462&amp;h=48&amp;q=80&amp;fit=fill 2x
                                 " width="1731" height="24" />
 
--   Newnpm i gatsbyCopycopy code to clipboard
+- Newnpm i gatsbyCopycopy code to clipboard
 
--   <a href="https://www.gatsbyjs.com/gatsby-4" class="css-19g9gqq">Gatsby 4 Overview</a>
--   <a href="https://www.gatsbyjs.com/gatsby-4/starters" class="css-19g9gqq">Gatsby 4 Starters</a>
+- <a href="https://www.gatsbyjs.com/gatsby-4" class="css-19g9gqq">Gatsby 4 Overview</a>
+- <a href="https://www.gatsbyjs.com/gatsby-4/starters" class="css-19g9gqq">Gatsby 4 Starters</a>
 
 <img src="http://images.ctfassets.net/vkdbses00qqt/2lJihqoAnHP6MpXDlrj8Vs/d15d082fb35b1e4542c238dec61f4adc/plugins-icon.svg" class="css-1xbc4zr" width="32" height="32" />
 
-Build anything **you can imagine**
-----------------------------------
+## Build anything **you can imagine**
 
 Gatsby gives frontend teams the tools and technology they need to build world-class web experiences. From marketing sites, to eCommerce stores, to documentation. Gatsby can help you build it.
 
@@ -339,8 +324,7 @@ Get started like they did
 
 <a href="https://digitalocean.com/" class="css-1pb17ev">Digital Ocean</a>
 
-The hardest parts of the web, made simple.
-------------------------------------------
+## The hardest parts of the web, made simple.
 
 Performance. SEO. Security. Integrations. Accessibility. We’ve got it covered for you. Gatsby makes the hardest parts of building an amazing digital experience simple, leaving you more time focusing on your business.
 
@@ -368,79 +352,78 @@ Gatsby’s serverless rendering generates static HTML at build time. No server a
 
 Recognized by WebAIM as the most accessible web framework, we build in best practices like accessible routing, progressive page enhancement and a built-in linting tool to find accessibility errors. **Help make the web work for everyone.**
 
-WHAT GATSBY USERS ARE SAYING
-----------------------------
+## WHAT GATSBY USERS ARE SAYING
 
--   <img src="http://images.ctfassets.net/vkdbses00qqt/2pRdKfROazD7kxcac8usYJ/0c2204c07904389f17295d1da02d02cf/type-script.svg" class="css-1rqahmc" width="98" height="32" />
-    > I’m blown away by how fast Gatsby is for the user.
-    >
-    > ![Orta Therox](data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='64'%20height='64'%20viewBox='0%200%2064%2064'%20preserveAspectRatio='none'%3e%3cpath%20d='M5%2016c-2%202-2%204-1%207l-1%205H2l-1-1c-2%200%200%2012%201%2016l2%204v-5l1-6c-1-1%200-1%201-1%203%200%206-2%206-4l-2-3-1-2%202-1%201-1h2c2-1%202-1%201%202l1%202c1-1%201%200%201%201l1%202%201-1h2c2%200%202%200%202-4v-8h-6c-2%201-6-1-7-4-1-2-3-1-5%202m40%204l-1%201-3%201c1%203-1%204-4%202-3-3-5-1-3%202l1%202c-1%201-2%200-2-1l-1-1-3-1c-3%200-3%200-3%203%200%204%204%208%207%208l1%201-1%201c-2%200-4%204-4%208s-1%205-8%204H7c-1%201%202%205%207%208%2011%208%2024%208%2036%200l5-3-3-1-3-1c-1-1%200-1%203-1%204%201%204%200%206-2l2-4v-2c2-1%205-11%204-11l-6-1c-9-1-9-2-1-2h7v-3l-2-4H49c-5%201-8%200-3-1%201-1%202-1%201-2h-2'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e)
-    > <img src="http://images.ctfassets.net/vkdbses00qqt/5tn19bwvNV9Kz6TBgEe2WQ/a4944454258aec49f9cb1cc68a92b1f8/orta-therox.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill" alt="Orta Therox" srcset="
-    >                                       //images.ctfassets.net/vkdbses00qqt/5tn19bwvNV9Kz6TBgEe2WQ/a4944454258aec49f9cb1cc68a92b1f8/orta-therox.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill   1x,
-    >                                       //images.ctfassets.net/vkdbses00qqt/5tn19bwvNV9Kz6TBgEe2WQ/a4944454258aec49f9cb1cc68a92b1f8/orta-therox.jpg?w=96&amp;h=96&amp;q=80&amp;fit=fill   1.5x,
-    >                                       //images.ctfassets.net/vkdbses00qqt/5tn19bwvNV9Kz6TBgEe2WQ/a4944454258aec49f9cb1cc68a92b1f8/orta-therox.jpg?w=128&amp;h=128&amp;q=80&amp;fit=fill 2x
-    >                                     " width="64" height="64" />
-    >
-    > Orta Therox<span class="css-18g3sp9">Typescript Engineer</span><span class="css-18g3sp9">Microsoft</span>
+- <img src="http://images.ctfassets.net/vkdbses00qqt/2pRdKfROazD7kxcac8usYJ/0c2204c07904389f17295d1da02d02cf/type-script.svg" class="css-1rqahmc" width="98" height="32" />
+  > I’m blown away by how fast Gatsby is for the user.
+  >
+  > ![Orta Therox](data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='64'%20height='64'%20viewBox='0%200%2064%2064'%20preserveAspectRatio='none'%3e%3cpath%20d='M5%2016c-2%202-2%204-1%207l-1%205H2l-1-1c-2%200%200%2012%201%2016l2%204v-5l1-6c-1-1%200-1%201-1%203%200%206-2%206-4l-2-3-1-2%202-1%201-1h2c2-1%202-1%201%202l1%202c1-1%201%200%201%201l1%202%201-1h2c2%200%202%200%202-4v-8h-6c-2%201-6-1-7-4-1-2-3-1-5%202m40%204l-1%201-3%201c1%203-1%204-4%202-3-3-5-1-3%202l1%202c-1%201-2%200-2-1l-1-1-3-1c-3%200-3%200-3%203%200%204%204%208%207%208l1%201-1%201c-2%200-4%204-4%208s-1%205-8%204H7c-1%201%202%205%207%208%2011%208%2024%208%2036%200l5-3-3-1-3-1c-1-1%200-1%203-1%204%201%204%200%206-2l2-4v-2c2-1%205-11%204-11l-6-1c-9-1-9-2-1-2h7v-3l-2-4H49c-5%201-8%200-3-1%201-1%202-1%201-2h-2'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e)
+  > <img src="http://images.ctfassets.net/vkdbses00qqt/5tn19bwvNV9Kz6TBgEe2WQ/a4944454258aec49f9cb1cc68a92b1f8/orta-therox.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill" alt="Orta Therox" srcset="
+  >                                       //images.ctfassets.net/vkdbses00qqt/5tn19bwvNV9Kz6TBgEe2WQ/a4944454258aec49f9cb1cc68a92b1f8/orta-therox.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill   1x,
+  >                                       //images.ctfassets.net/vkdbses00qqt/5tn19bwvNV9Kz6TBgEe2WQ/a4944454258aec49f9cb1cc68a92b1f8/orta-therox.jpg?w=96&amp;h=96&amp;q=80&amp;fit=fill   1.5x,
+  >                                       //images.ctfassets.net/vkdbses00qqt/5tn19bwvNV9Kz6TBgEe2WQ/a4944454258aec49f9cb1cc68a92b1f8/orta-therox.jpg?w=128&amp;h=128&amp;q=80&amp;fit=fill 2x
+  >                                     " width="64" height="64" />
+  >
+  > Orta Therox<span class="css-18g3sp9">Typescript Engineer</span><span class="css-18g3sp9">Microsoft</span>
 
--   <img src="http://images.ctfassets.net/vkdbses00qqt/3VsTGx4m0s4WUzbEdHsPs4/2f8719b64ec2323a013ef8a37ca7ce13/little-and-big.svg" class="css-1rqahmc" width="78" height="56" />
-    > Gatsby is a really important differentiator for us. As a small boutique agency, having Gatsby is like having a secret weapon.
-    >
-    > ![Allan Pooley](data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='64'%20height='64'%20viewBox='0%200%2064%2064'%20preserveAspectRatio='none'%3e%3cpath%20d='M25%204c-4%202-4%202-4%206%200%203%200%204%202%204l1%205%201%2010c2%205%200%208-7%2013l-7%204-3%203c-2%203%200%205%205%209%2012%208%2026%208%2038-1%207-4%208-7%205-9L42%2038l-1-2h-1c-2%203-4%202-4-1%200-1%200-2-1-1l-1-1%202-2%201-2-1-1h-2l2-1c1-1%201-1-1-1-3%200-5-1-3-2h6v-3c1%200-1-4-3-4l-4-2-3-2%203-1h3l1-1c0-3%204%201%205%206%202%206%203%203%201-4s-2-9-6-9l-4-1c-1-1-3%200-6%201'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e)
-    > <img src="http://images.ctfassets.net/vkdbses00qqt/61PkgQnRHipKqKd742oYpn/21c85ec8900acc791355679067873e25/allan-pooley.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill" alt="Allan Pooley" srcset="
-    >                                       //images.ctfassets.net/vkdbses00qqt/61PkgQnRHipKqKd742oYpn/21c85ec8900acc791355679067873e25/allan-pooley.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill   1x,
-    >                                       //images.ctfassets.net/vkdbses00qqt/61PkgQnRHipKqKd742oYpn/21c85ec8900acc791355679067873e25/allan-pooley.jpg?w=96&amp;h=96&amp;q=80&amp;fit=fill   1.5x,
-    >                                       //images.ctfassets.net/vkdbses00qqt/61PkgQnRHipKqKd742oYpn/21c85ec8900acc791355679067873e25/allan-pooley.jpg?w=128&amp;h=128&amp;q=80&amp;fit=fill 2x
-    >                                     " width="64" height="64" />
-    >
-    > <a href="https://www.littleandbig.com.au/" class="css-w066sv">Allan Pooley</a><span class="css-18g3sp9">Developer and Co-founder</span><span class="css-18g3sp9">Little & Big</span>
+- <img src="http://images.ctfassets.net/vkdbses00qqt/3VsTGx4m0s4WUzbEdHsPs4/2f8719b64ec2323a013ef8a37ca7ce13/little-and-big.svg" class="css-1rqahmc" width="78" height="56" />
+  > Gatsby is a really important differentiator for us. As a small boutique agency, having Gatsby is like having a secret weapon.
+  >
+  > ![Allan Pooley](data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='64'%20height='64'%20viewBox='0%200%2064%2064'%20preserveAspectRatio='none'%3e%3cpath%20d='M25%204c-4%202-4%202-4%206%200%203%200%204%202%204l1%205%201%2010c2%205%200%208-7%2013l-7%204-3%203c-2%203%200%205%205%209%2012%208%2026%208%2038-1%207-4%208-7%205-9L42%2038l-1-2h-1c-2%203-4%202-4-1%200-1%200-2-1-1l-1-1%202-2%201-2-1-1h-2l2-1c1-1%201-1-1-1-3%200-5-1-3-2h6v-3c1%200-1-4-3-4l-4-2-3-2%203-1h3l1-1c0-3%204%201%205%206%202%206%203%203%201-4s-2-9-6-9l-4-1c-1-1-3%200-6%201'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e)
+  > <img src="http://images.ctfassets.net/vkdbses00qqt/61PkgQnRHipKqKd742oYpn/21c85ec8900acc791355679067873e25/allan-pooley.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill" alt="Allan Pooley" srcset="
+  >                                       //images.ctfassets.net/vkdbses00qqt/61PkgQnRHipKqKd742oYpn/21c85ec8900acc791355679067873e25/allan-pooley.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill   1x,
+  >                                       //images.ctfassets.net/vkdbses00qqt/61PkgQnRHipKqKd742oYpn/21c85ec8900acc791355679067873e25/allan-pooley.jpg?w=96&amp;h=96&amp;q=80&amp;fit=fill   1.5x,
+  >                                       //images.ctfassets.net/vkdbses00qqt/61PkgQnRHipKqKd742oYpn/21c85ec8900acc791355679067873e25/allan-pooley.jpg?w=128&amp;h=128&amp;q=80&amp;fit=fill 2x
+  >                                     " width="64" height="64" />
+  >
+  > <a href="https://www.littleandbig.com.au/" class="css-w066sv">Allan Pooley</a><span class="css-18g3sp9">Developer and Co-founder</span><span class="css-18g3sp9">Little & Big</span>
 
--   <img src="http://images.ctfassets.net/vkdbses00qqt/5ox6gXBKzp2DizvtH7fUGT/52d64db6d433d805a0cfa3edff5fb904/house-call-pro.svg" class="css-1rqahmc" width="171" height="24" />
-    > We needed our site to be blazing fast, scalable, have top notch SEO and, most importantly, **allow content creators who are not developers to easily publish new pages**. Gatsby did not disappoint: Six months after implementing Gatsby we have increased our organic blog traffic by 973% - and expect that number to keep increasing!
-    >
-    > ![ Cory Mortimer](data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='64'%20height='64'%20viewBox='0%200%2064%2064'%20preserveAspectRatio='none'%3e%3cpath%20d='M22%202C9%206%201%2016%200%2030l1%207c2%200%202%201%201%202s2%2010%204%2010l1%202c2%206%2016%2013%2025%2013s20-5%2026-12c4-7%209-25%206-25l-1-4-4-8-4-5c0-2-8-7-13-8-7-2-14-2-20%200'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e)
-    > <img src="http://images.ctfassets.net/vkdbses00qqt/3YHiyzGRqo4cvkVF46k7ml/4d1d2d694fe8bd103477d14792af8a24/cory-mortimer.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill" alt=" Cory Mortimer" srcset="
-    >                                       //images.ctfassets.net/vkdbses00qqt/3YHiyzGRqo4cvkVF46k7ml/4d1d2d694fe8bd103477d14792af8a24/cory-mortimer.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill   1x,
-    >                                       //images.ctfassets.net/vkdbses00qqt/3YHiyzGRqo4cvkVF46k7ml/4d1d2d694fe8bd103477d14792af8a24/cory-mortimer.jpg?w=96&amp;h=96&amp;q=80&amp;fit=fill   1.5x,
-    >                                       //images.ctfassets.net/vkdbses00qqt/3YHiyzGRqo4cvkVF46k7ml/4d1d2d694fe8bd103477d14792af8a24/cory-mortimer.jpg?w=128&amp;h=128&amp;q=80&amp;fit=fill 2x
-    >                                     " width="64" height="64" />
-    >
-    > <a href="https://www.housecallpro.com/" class="css-w066sv">Cory Mortimer</a><span class="css-18g3sp9">Software Engineer</span><span class="css-18g3sp9">Housecall Pro</span>
+- <img src="http://images.ctfassets.net/vkdbses00qqt/5ox6gXBKzp2DizvtH7fUGT/52d64db6d433d805a0cfa3edff5fb904/house-call-pro.svg" class="css-1rqahmc" width="171" height="24" />
+  > We needed our site to be blazing fast, scalable, have top notch SEO and, most importantly, **allow content creators who are not developers to easily publish new pages**. Gatsby did not disappoint: Six months after implementing Gatsby we have increased our organic blog traffic by 973% - and expect that number to keep increasing!
+  >
+  > ![ Cory Mortimer](data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='64'%20height='64'%20viewBox='0%200%2064%2064'%20preserveAspectRatio='none'%3e%3cpath%20d='M22%202C9%206%201%2016%200%2030l1%207c2%200%202%201%201%202s2%2010%204%2010l1%202c2%206%2016%2013%2025%2013s20-5%2026-12c4-7%209-25%206-25l-1-4-4-8-4-5c0-2-8-7-13-8-7-2-14-2-20%200'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e)
+  > <img src="http://images.ctfassets.net/vkdbses00qqt/3YHiyzGRqo4cvkVF46k7ml/4d1d2d694fe8bd103477d14792af8a24/cory-mortimer.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill" alt=" Cory Mortimer" srcset="
+  >                                       //images.ctfassets.net/vkdbses00qqt/3YHiyzGRqo4cvkVF46k7ml/4d1d2d694fe8bd103477d14792af8a24/cory-mortimer.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill   1x,
+  >                                       //images.ctfassets.net/vkdbses00qqt/3YHiyzGRqo4cvkVF46k7ml/4d1d2d694fe8bd103477d14792af8a24/cory-mortimer.jpg?w=96&amp;h=96&amp;q=80&amp;fit=fill   1.5x,
+  >                                       //images.ctfassets.net/vkdbses00qqt/3YHiyzGRqo4cvkVF46k7ml/4d1d2d694fe8bd103477d14792af8a24/cory-mortimer.jpg?w=128&amp;h=128&amp;q=80&amp;fit=fill 2x
+  >                                     " width="64" height="64" />
+  >
+  > <a href="https://www.housecallpro.com/" class="css-w066sv">Cory Mortimer</a><span class="css-18g3sp9">Software Engineer</span><span class="css-18g3sp9">Housecall Pro</span>
 
--   <img src="http://images.ctfassets.net/vkdbses00qqt/3kcbUxDPM3ngWBgABlOvKq/bd36c6a8a6b006a81d3300fd56dcb091/little-caesars.svg" class="css-1rqahmc" width="171" height="24" />
-    > Traffic spiked immediately when our Super Bowl ad aired and we just didn’t have to worry … Because we built with Gatsby, we knew we had the performance to handle the traffic without even thinking about it.
-    >
-    > ![Andrew Smith](data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='64'%20height='64'%20viewBox='0%200%2064%2064'%20preserveAspectRatio='none'%3e%3cpath%20d='M31%202c-4%205-5%2011-3%2016l1%205-1-6C27%208%2030%205%2038%205c4%200%207%203%206%205v3c1%201%200%202-1%204l-1%208v14l-1%203c-2%203-2%203%200%203l2%203-2%201-3-1%202%204-2-1c-4-3-7-10-6-13%201-4-3-4-4%201l-2%203-1%201-2%203-13%209%2014%208c8%202%2023%200%2020-3v-5l1%201v2c1%204%207%200%2012-7C71%2032%2061%205%2037%201c-3-1-4-1-6%201'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e)
-    > <img src="http://images.ctfassets.net/vkdbses00qqt/2sg2JIprlklyayeZGRwZ02/ea1f984280c3835b3518265c74a3b340/andrew-smith.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill" alt="Andrew Smith" srcset="
-    >                                       //images.ctfassets.net/vkdbses00qqt/2sg2JIprlklyayeZGRwZ02/ea1f984280c3835b3518265c74a3b340/andrew-smith.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill   1x,
-    >                                       //images.ctfassets.net/vkdbses00qqt/2sg2JIprlklyayeZGRwZ02/ea1f984280c3835b3518265c74a3b340/andrew-smith.jpg?w=96&amp;h=96&amp;q=80&amp;fit=fill   1.5x,
-    >                                       //images.ctfassets.net/vkdbses00qqt/2sg2JIprlklyayeZGRwZ02/ea1f984280c3835b3518265c74a3b340/andrew-smith.jpg?w=128&amp;h=128&amp;q=80&amp;fit=fill 2x
-    >                                     " width="64" height="64" />
-    >
-    > Andrew Smith<span class="css-18g3sp9">Application Architect</span><span class="css-18g3sp9">Little Caesars</span>
+- <img src="http://images.ctfassets.net/vkdbses00qqt/3kcbUxDPM3ngWBgABlOvKq/bd36c6a8a6b006a81d3300fd56dcb091/little-caesars.svg" class="css-1rqahmc" width="171" height="24" />
+  > Traffic spiked immediately when our Super Bowl ad aired and we just didn’t have to worry … Because we built with Gatsby, we knew we had the performance to handle the traffic without even thinking about it.
+  >
+  > ![Andrew Smith](data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='64'%20height='64'%20viewBox='0%200%2064%2064'%20preserveAspectRatio='none'%3e%3cpath%20d='M31%202c-4%205-5%2011-3%2016l1%205-1-6C27%208%2030%205%2038%205c4%200%207%203%206%205v3c1%201%200%202-1%204l-1%208v14l-1%203c-2%203-2%203%200%203l2%203-2%201-3-1%202%204-2-1c-4-3-7-10-6-13%201-4-3-4-4%201l-2%203-1%201-2%203-13%209%2014%208c8%202%2023%200%2020-3v-5l1%201v2c1%204%207%200%2012-7C71%2032%2061%205%2037%201c-3-1-4-1-6%201'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e)
+  > <img src="http://images.ctfassets.net/vkdbses00qqt/2sg2JIprlklyayeZGRwZ02/ea1f984280c3835b3518265c74a3b340/andrew-smith.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill" alt="Andrew Smith" srcset="
+  >                                       //images.ctfassets.net/vkdbses00qqt/2sg2JIprlklyayeZGRwZ02/ea1f984280c3835b3518265c74a3b340/andrew-smith.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill   1x,
+  >                                       //images.ctfassets.net/vkdbses00qqt/2sg2JIprlklyayeZGRwZ02/ea1f984280c3835b3518265c74a3b340/andrew-smith.jpg?w=96&amp;h=96&amp;q=80&amp;fit=fill   1.5x,
+  >                                       //images.ctfassets.net/vkdbses00qqt/2sg2JIprlklyayeZGRwZ02/ea1f984280c3835b3518265c74a3b340/andrew-smith.jpg?w=128&amp;h=128&amp;q=80&amp;fit=fill 2x
+  >                                     " width="64" height="64" />
+  >
+  > Andrew Smith<span class="css-18g3sp9">Application Architect</span><span class="css-18g3sp9">Little Caesars</span>
 
--   <img src="http://images.ctfassets.net/vkdbses00qqt/3Pj8wS0VTGWo0ZJGTYEEoS/b104260f0f3ad448237b9c3937627b54/server-less.svg" class="css-1rqahmc" width="157" height="24" />
-    > With Gatsby we immediately saw a 2x boost in site performance with a 10x increase in page load speeds. As a result, we’ve definitely seen a decrease in the bounce rate and an increase in our conversion rate.
-    >
-    > ![Anand Narayan](data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='64'%20height='64'%20viewBox='0%200%2064%2064'%20preserveAspectRatio='none'%3e%3cpath%20d='M22%204c-3%204-5%208-4%2012v3c-2%202-1%204%202%2012%205%208%205%208-2%2011-6%202-8%204-10%209%200%203%200%203%205%206%2012%209%2027%209%2039%200%203-2%209-10%208-10-6-4-12-7-13-6-1%200-3-6-2-9l-1-3-2-1c-1-1%200-4%202-4l1-2-1-2-1-1c0-2-2-2-7-1-3%201-6-1-4-3l1-3c0-2%200-2%202-3%206-2%209%200%2010%208l1-4c2-9-3-13-15-13-5%200-5%200-9%204'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e)
-    > <img src="http://images.ctfassets.net/vkdbses00qqt/75hIR77ngw42a2vZLJvUFr/de7ca757e96637a113a8386d9c12f781/anand-narayan.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill" alt="Anand Narayan" srcset="
-    >                                       //images.ctfassets.net/vkdbses00qqt/75hIR77ngw42a2vZLJvUFr/de7ca757e96637a113a8386d9c12f781/anand-narayan.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill   1x,
-    >                                       //images.ctfassets.net/vkdbses00qqt/75hIR77ngw42a2vZLJvUFr/de7ca757e96637a113a8386d9c12f781/anand-narayan.jpg?w=96&amp;h=96&amp;q=80&amp;fit=fill   1.5x,
-    >                                       //images.ctfassets.net/vkdbses00qqt/75hIR77ngw42a2vZLJvUFr/de7ca757e96637a113a8386d9c12f781/anand-narayan.jpg?w=128&amp;h=128&amp;q=80&amp;fit=fill 2x
-    >                                     " width="64" height="64" />
-    >
-    > Anand Narayan<span class="css-18g3sp9">Developer</span><span class="css-18g3sp9">Codebrahma (agency hired by Serverless  
-    > to do their new site)</span>
+- <img src="http://images.ctfassets.net/vkdbses00qqt/3Pj8wS0VTGWo0ZJGTYEEoS/b104260f0f3ad448237b9c3937627b54/server-less.svg" class="css-1rqahmc" width="157" height="24" />
+  > With Gatsby we immediately saw a 2x boost in site performance with a 10x increase in page load speeds. As a result, we’ve definitely seen a decrease in the bounce rate and an increase in our conversion rate.
+  >
+  > ![Anand Narayan](data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='64'%20height='64'%20viewBox='0%200%2064%2064'%20preserveAspectRatio='none'%3e%3cpath%20d='M22%204c-3%204-5%208-4%2012v3c-2%202-1%204%202%2012%205%208%205%208-2%2011-6%202-8%204-10%209%200%203%200%203%205%206%2012%209%2027%209%2039%200%203-2%209-10%208-10-6-4-12-7-13-6-1%200-3-6-2-9l-1-3-2-1c-1-1%200-4%202-4l1-2-1-2-1-1c0-2-2-2-7-1-3%201-6-1-4-3l1-3c0-2%200-2%202-3%206-2%209%200%2010%208l1-4c2-9-3-13-15-13-5%200-5%200-9%204'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e)
+  > <img src="http://images.ctfassets.net/vkdbses00qqt/75hIR77ngw42a2vZLJvUFr/de7ca757e96637a113a8386d9c12f781/anand-narayan.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill" alt="Anand Narayan" srcset="
+  >                                       //images.ctfassets.net/vkdbses00qqt/75hIR77ngw42a2vZLJvUFr/de7ca757e96637a113a8386d9c12f781/anand-narayan.jpg?w=64&amp;h=64&amp;q=80&amp;fit=fill   1x,
+  >                                       //images.ctfassets.net/vkdbses00qqt/75hIR77ngw42a2vZLJvUFr/de7ca757e96637a113a8386d9c12f781/anand-narayan.jpg?w=96&amp;h=96&amp;q=80&amp;fit=fill   1.5x,
+  >                                       //images.ctfassets.net/vkdbses00qqt/75hIR77ngw42a2vZLJvUFr/de7ca757e96637a113a8386d9c12f781/anand-narayan.jpg?w=128&amp;h=128&amp;q=80&amp;fit=fill 2x
+  >                                     " width="64" height="64" />
+  >
+  > Anand Narayan<span class="css-18g3sp9">Developer</span><span class="css-18g3sp9">Codebrahma (agency hired by Serverless  
+  > to do their new site)</span>
 
 <span class="css-7v2lmy">Previous item</span>
 
 <span class="css-7v2lmy">Next item</span>
 
--   <span class="css-7v2lmy">Testimonial 1</span><span class="css-1hatqs9" aria-hidden="true"></span>
--   <span class="css-7v2lmy">Testimonial 2</span><span class="css-6eawxj" aria-hidden="true"></span>
--   <span class="css-7v2lmy">Testimonial 3</span><span class="css-6eawxj" aria-hidden="true"></span>
--   <span class="css-7v2lmy">Testimonial 4</span><span class="css-6eawxj" aria-hidden="true"></span>
--   <span class="css-7v2lmy">Testimonial 5</span><span class="css-6eawxj" aria-hidden="true"></span>
+- <span class="css-7v2lmy">Testimonial 1</span><span class="css-1hatqs9" aria-hidden="true"></span>
+- <span class="css-7v2lmy">Testimonial 2</span><span class="css-6eawxj" aria-hidden="true"></span>
+- <span class="css-7v2lmy">Testimonial 3</span><span class="css-6eawxj" aria-hidden="true"></span>
+- <span class="css-7v2lmy">Testimonial 4</span><span class="css-6eawxj" aria-hidden="true"></span>
+- <span class="css-7v2lmy">Testimonial 5</span><span class="css-6eawxj" aria-hidden="true"></span>
 
 Item 1 of 5
 
@@ -450,8 +433,7 @@ Item 1 of 5
 
 #### Fast from idea to production
 
-Build, Preview, Deploy. All in just minutes with **Gatsby Cloud**.
-------------------------------------------------------------------
+## Build, Preview, Deploy. All in just minutes with **Gatsby Cloud**.
 
 Go from idea to production in less time with Starters, Themes, and over 2500 plugins that can help connect nearly any CMS, eCommerce platform, analytics tool, or other web service and get your website up and running in just minutes.
 
@@ -471,32 +453,30 @@ Explore 2500+ plugins
 
 #### Fast to run
 
-Gatsby is unbelievably fast & smooth. **Everything just feels...there.**
-------------------------------------------------------------------------
+## Gatsby is unbelievably fast & smooth. **Everything just feels...there.**
 
 Gatsby loads only **critical** <sup>1</sup> parts of the page, exactly when the visitor needs it, and not a second sooner. Once loaded, Gatsby **prefetches resources** <sup>2</sup> for other pages so that clicking on the site feels buttery smooth and responsive. Everything is statically generated at runtime - so your site loads as fast as possible.
 
 ##### <a href="#span1span-initial-page-load" class="anchor before"></a> 1 Initial page load
 
--   Served from CDN
--   Instant load
--   Search engine indexable
--   Image placeholders
+- Served from CDN
+- Instant load
+- Search engine indexable
+- Image placeholders
 
 ##### <a href="#span2span-gatsby-client-mounts" class="anchor before"></a> 2 Gatsby client mounts
 
--   Minimal bootstrap
--   Full React app with router
--   Code & data splitting
--   Intelligent prefetching ![bolt-icon](http://images.ctfassets.net/vkdbses00qqt/5O3XImJt3hebJbX8ajS4qM/5b5e9a1bfceed3cb6766ea491828d784/bolt-icon.svg)
--   Images loaded as required
+- Minimal bootstrap
+- Full React app with router
+- Code & data splitting
+- Intelligent prefetching ![bolt-icon](http://images.ctfassets.net/vkdbses00qqt/5O3XImJt3hebJbX8ajS4qM/5b5e9a1bfceed3cb6766ea491828d784/bolt-icon.svg)
+- Images loaded as required
 
 <span class="css-1faqhmo">3</span>
 
 #### Fast to deploy
 
-Spend less time on builds & deploys **with Gatsby Cloud.**
-----------------------------------------------------------
+## Spend less time on builds & deploys **with Gatsby Cloud.**
 
 ![](data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='395'%20viewBox='0%200%20400%20395'%20preserveAspectRatio='none'%3e%3cpath%20d='M192%20127c-34%204-61%2032-63%2065v10h70c61%200%2071-1%2072-2a72%2072%200%2000-79-73'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e)
 
@@ -513,15 +493,13 @@ Spend less time on builds & deploys **with Gatsby Cloud.**
 
 Learn About Gatsby Cloud
 
-Curious yet?
-------------
+## Curious yet?
 
 It only takes a few minutes to get up and running!
 
 Get started
 
-Explore the Gatsby Ecosystem
-----------------------------
+## Explore the Gatsby Ecosystem
 
 More than just a static site generator, Gatsby has all the tools for building the modern web: Plugins for seamlessly integrating services, Themes for effortless configuration, and Recipes for automating common site building chores.
 
@@ -547,8 +525,7 @@ Browse Themes
                               //images.ctfassets.net/vkdbses00qqt/6VsTBsN65LF1cpS9uTBuKL/dd6cc2d279b7b765e5fb793c6d9beadf/home-page_ecosystem-plugins.jpg?w=1400&amp;h=1250&amp;q=80 1400w
                             " />
 
-Gatsby Cloud
-------------
+## Gatsby Cloud
 
 [Gatsby Cloud](https://gatsbyjs.com/products/cloud) is custom-architected Cloud infrastructure for building and collaborating on Gatsby sites and apps built with the Gatsby open source framework.
 
@@ -573,74 +550,68 @@ Start building on Gatsby Cloud
 Gatsby is powered by the amazing Gatsby  
 community and Gatsby, the company.
 
--   Gatsby Github
--   Gatsby Twitter
--   Gatsby Discord
--   Gatsby Instagram
--   Gatsby Youtube
--   Gatsby Twitch
--   Gatsby LinkedIn
+- Gatsby Github
+- Gatsby Twitter
+- Gatsby Discord
+- Gatsby Instagram
+- Gatsby Youtube
+- Gatsby Twitch
+- Gatsby LinkedIn
 
 Subscribe to our newsletter
 
 <span class="css-7v2lmy">Subscribe</span>
 
--   Open Source<span class="css-1gzf20k" aria-hidden="true"> </span>
-    ----------------------------------------------------------------
+- ## Open Source<span class="css-1gzf20k" aria-hidden="true"> </span>
 
-    -   <a href="https://www.gatsbyjs.com/docs/" class="css-tu9on4">Documentation</a>
-    -   <a href="https://www.gatsbyjs.com/docs/quick-start/" class="css-tu9on4">Quick Start</a>
-    -   <a href="https://www.gatsbyjs.com/docs/tutorial/" class="css-tu9on4">Tutorial</a>
-    -   <a href="https://www.gatsbyjs.com/docs/how-to/" class="css-tu9on4">How-To Guides</a>
-    -   <a href="https://www.gatsbyjs.com/docs/reference/" class="css-tu9on4">Reference Guides</a>
-    -   <a href="https://www.gatsbyjs.com/docs/conceptual/" class="css-tu9on4">Conceptual Guides</a>
-    -   <a href="https://www.gatsbyjs.com/docs/reference/gatsby-cli/" class="css-tu9on4">Gatsby CLI</a>
-    -   Github
+  - <a href="https://www.gatsbyjs.com/docs/" class="css-tu9on4">Documentation</a>
+  - <a href="https://www.gatsbyjs.com/docs/quick-start/" class="css-tu9on4">Quick Start</a>
+  - <a href="https://www.gatsbyjs.com/docs/tutorial/" class="css-tu9on4">Tutorial</a>
+  - <a href="https://www.gatsbyjs.com/docs/how-to/" class="css-tu9on4">How-To Guides</a>
+  - <a href="https://www.gatsbyjs.com/docs/reference/" class="css-tu9on4">Reference Guides</a>
+  - <a href="https://www.gatsbyjs.com/docs/conceptual/" class="css-tu9on4">Conceptual Guides</a>
+  - <a href="https://www.gatsbyjs.com/docs/reference/gatsby-cli/" class="css-tu9on4">Gatsby CLI</a>
+  - Github
 
--   Gatsby Cloud<span class="css-1gzf20k" aria-hidden="true"> </span>
-    -----------------------------------------------------------------
+- ## Gatsby Cloud<span class="css-1gzf20k" aria-hidden="true"> </span>
 
-    -   <a href="https://www.gatsbyjs.com/cloud/" class="css-tu9on4">Why Gatsby Cloud?</a>
-    -   <a href="https://www.gatsbyjs.com/support/" class="css-tu9on4">Support</a>
-    -   <a href="https://www.gatsbyjs.com/integrations/" class="css-tu9on4">Integrations</a>
-    -   <a href="https://www.gatsbyjs.com/guides/all" class="css-tu9on4">Guides</a>
-    -   <a href="https://www.gatsbyjs.com/pricing/" class="css-tu9on4">Pricing</a>
-    -   Log in
+  - <a href="https://www.gatsbyjs.com/cloud/" class="css-tu9on4">Why Gatsby Cloud?</a>
+  - <a href="https://www.gatsbyjs.com/support/" class="css-tu9on4">Support</a>
+  - <a href="https://www.gatsbyjs.com/integrations/" class="css-tu9on4">Integrations</a>
+  - <a href="https://www.gatsbyjs.com/guides/all" class="css-tu9on4">Guides</a>
+  - <a href="https://www.gatsbyjs.com/pricing/" class="css-tu9on4">Pricing</a>
+  - Log in
 
--   Features<span class="css-1gzf20k" aria-hidden="true"> </span>
-    -------------------------------------------------------------
+- ## Features<span class="css-1gzf20k" aria-hidden="true"> </span>
 
-    -   <a href="https://www.gatsbyjs.com/features/" class="css-tu9on4">Comparison</a>
-    -   <a href="https://www.gatsbyjs.com/plugins/" class="css-tu9on4">Plugins</a>
-    -   <a href="https://www.gatsbyjs.com/docs/themes/" class="css-tu9on4">Themes</a>
-    -   <a href="https://www.gatsbyjs.com/docs/recipes/" class="css-tu9on4">Recipes</a>
-    -   <a href="https://www.gatsbyjs.com/starters/?v=2" class="css-tu9on4">Starters</a>
-    -   <a href="https://www.gatsbyjs.com/use-cases/" class="css-tu9on4">Use Cases</a>
+  - <a href="https://www.gatsbyjs.com/features/" class="css-tu9on4">Comparison</a>
+  - <a href="https://www.gatsbyjs.com/plugins/" class="css-tu9on4">Plugins</a>
+  - <a href="https://www.gatsbyjs.com/docs/themes/" class="css-tu9on4">Themes</a>
+  - <a href="https://www.gatsbyjs.com/docs/recipes/" class="css-tu9on4">Recipes</a>
+  - <a href="https://www.gatsbyjs.com/starters/?v=2" class="css-tu9on4">Starters</a>
+  - <a href="https://www.gatsbyjs.com/use-cases/" class="css-tu9on4">Use Cases</a>
 
--   Community<span class="css-1gzf20k" aria-hidden="true"> </span>
-    --------------------------------------------------------------
+- ## Community<span class="css-1gzf20k" aria-hidden="true"> </span>
 
-    -   <a href="https://www.gatsbyjs.com/contributing/" class="css-tu9on4">Contributing</a>
-    -   <a href="https://store.gatsbyjs.org/" class="css-tu9on4">Swag Store</a>
-    -   <a href="https://www.gatsbyjs.com/contributing/code-of-conduct/" class="css-tu9on4">Code of Conduct</a>
-    -   <a href="https://www.gatsbyjs.com/contributing/gatsby-style-guide/" class="css-tu9on4">Style Guide</a>
-    -   <a href="https://www.gatsbyjs.com/contributing/translation/" class="css-tu9on4">Translations</a>
-    -   <a href="https://www.twitch.tv/gatsbyjs" class="css-tu9on4">Live Streams</a>
+  - <a href="https://www.gatsbyjs.com/contributing/" class="css-tu9on4">Contributing</a>
+  - <a href="https://store.gatsbyjs.org/" class="css-tu9on4">Swag Store</a>
+  - <a href="https://www.gatsbyjs.com/contributing/code-of-conduct/" class="css-tu9on4">Code of Conduct</a>
+  - <a href="https://www.gatsbyjs.com/contributing/gatsby-style-guide/" class="css-tu9on4">Style Guide</a>
+  - <a href="https://www.gatsbyjs.com/contributing/translation/" class="css-tu9on4">Translations</a>
+  - <a href="https://www.twitch.tv/gatsbyjs" class="css-tu9on4">Live Streams</a>
 
--   Events<span class="css-1gzf20k" aria-hidden="true"> </span>
-    -----------------------------------------------------------
+- ## Events<span class="css-1gzf20k" aria-hidden="true"> </span>
 
-    -   <a href="https://www.gatsbyjs.com/resources/webinars/" class="css-tu9on4">Webinars</a>
-    -   <a href="https://www.gatsbyjs.com/resources/gatsby-days/" class="css-tu9on4">Gatsby Days</a>
+  - <a href="https://www.gatsbyjs.com/resources/webinars/" class="css-tu9on4">Webinars</a>
+  - <a href="https://www.gatsbyjs.com/resources/gatsby-days/" class="css-tu9on4">Gatsby Days</a>
 
--   Company<span class="css-1gzf20k" aria-hidden="true"> </span>
-    ------------------------------------------------------------
+- ## Company<span class="css-1gzf20k" aria-hidden="true"> </span>
 
-    -   <a href="https://www.gatsbyjs.com/about/" class="css-tu9on4">About us</a>
-    -   <a href="https://www.gatsbyjs.com/blog/" class="css-tu9on4">Blog</a>
-    -   <a href="https://www.gatsbyjs.com/contact-us/" class="css-tu9on4">Contact Us</a>
-    -   <a href="https://www.gatsbyjs.com/careers/" class="css-tu9on4">Careers</a>
-    -   <a href="https://www.gatsbyjs.com/partners/" class="css-tu9on4">Partners</a>
+  - <a href="https://www.gatsbyjs.com/about/" class="css-tu9on4">About us</a>
+  - <a href="https://www.gatsbyjs.com/blog/" class="css-tu9on4">Blog</a>
+  - <a href="https://www.gatsbyjs.com/contact-us/" class="css-tu9on4">Contact Us</a>
+  - <a href="https://www.gatsbyjs.com/careers/" class="css-tu9on4">Careers</a>
+  - <a href="https://www.gatsbyjs.com/partners/" class="css-tu9on4">Partners</a>
 
 © 2021 Gatsby, Inc.
 

@@ -242,7 +242,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -260,7 +260,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -300,7 +300,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -332,7 +332,7 @@ GRAPHQL
 
 <span data-key="e71dda07ae4d46c488abaa0be3a89459"><span data-offset-key="e71dda07ae4d46c488abaa0be3a89459:0">This guide will help you get started using Netlify CMS and Gatsby.</span></span>
 
-<span data-key="0ec39cf215964b9b8daca0e6f9f37150"><span data-offset-key="0ec39cf215964b9b8daca0e6f9f37150:0">To get up and running with Gatsby, you’ll need to have </span></span><a href="https://nodejs.org/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c9edc7e9453748d29b45d57bddebfd07" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="4ab5944ed54e48a3a931fd436473c54b"><span data-offset-key="4ab5944ed54e48a3a931fd436473c54b:0">Node.js</span></span></span></a><span data-key="25f3df45e0b8408db236a4f525b43515"><span data-offset-key="25f3df45e0b8408db236a4f525b43515:0"> installed on your computer. </span>*Note: Gatsby's minimum supported Node.js version is Node 8.*</span>
+<span data-key="0ec39cf215964b9b8daca0e6f9f37150"><span data-offset-key="0ec39cf215964b9b8daca0e6f9f37150:0">To get up and running with Gatsby, you’ll need to have </span></span><a href="https://nodejs.org/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c9edc7e9453748d29b45d57bddebfd07" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="4ab5944ed54e48a3a931fd436473c54b"><span data-offset-key="4ab5944ed54e48a3a931fd436473c54b:0">Node.js</span></span></span></a><span data-key="25f3df45e0b8408db236a4f525b43515"><span data-offset-key="25f3df45e0b8408db236a4f525b43515:0"> installed on your computer. </span>_Note: Gatsby's minimum supported Node.js version is Node 8._</span>
 
 <span data-key="3659ac1244a34c3882de6e9d4eb5167f"><span data-offset-key="3659ac1244a34c3882de6e9d4eb5167f:0">Create a new Gatsby site</span></span>
 
@@ -404,7 +404,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="1cca5b61676d4a78a357a8c6b3c13de6"><span data-offset-key="1cca5b61676d4a78a357a8c6b3c13de6:0">Configuration</span></span>
 
@@ -446,11 +446,11 @@ Copied!
 
 5
 
-<span data-key="7facad62859e471880899c354da86062"><span data-offset-key="7facad62859e471880899c354da86062:0">media\_folder: static/img</span></span>
+<span data-key="7facad62859e471880899c354da86062"><span data-offset-key="7facad62859e471880899c354da86062:0">media_folder: static/img</span></span>
 
 6
 
-<span data-key="f75d6e68a426421e81e98f53b42bbceb"><span data-offset-key="f75d6e68a426421e81e98f53b42bbceb:0">public\_folder: /img</span></span>
+<span data-key="f75d6e68a426421e81e98f53b42bbceb"><span data-offset-key="f75d6e68a426421e81e98f53b42bbceb:0">public_folder: /img</span></span>
 
 7
 
@@ -482,11 +482,11 @@ Copied!
 
 14
 
-<span data-key="62519f153399430886cde1af96ecf2f5"><span data-offset-key="62519f153399430886cde1af96ecf2f5:0"> media\_folder: ''</span></span>
+<span data-key="62519f153399430886cde1af96ecf2f5"><span data-offset-key="62519f153399430886cde1af96ecf2f5:0"> media_folder: ''</span></span>
 
 15
 
-<span data-key="ece3bdf7da6f4cfdae1cdbadf9d5a803"><span data-offset-key="ece3bdf7da6f4cfdae1cdbadf9d5a803:0"> public\_folder: ''</span></span>
+<span data-key="ece3bdf7da6f4cfdae1cdbadf9d5a803"><span data-offset-key="ece3bdf7da6f4cfdae1cdbadf9d5a803:0"> public_folder: ''</span></span>
 
 16
 
@@ -566,7 +566,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="1ce2288ff45f4e2b9617878ac6a71cbf"><span data-offset-key="1ce2288ff45f4e2b9617878ac6a71cbf:0">Push to GitHub</span></span>
 
@@ -590,13 +590,13 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="e2a42494b1b544828f7d1670dad7b97d"><span data-offset-key="e2a42494b1b544828f7d1670dad7b97d:0">Add your repo to Netlify</span></span>
 
 <span data-key="a0b8886cdceb42a7bc2b1cc8caafcc8d"><span data-offset-key="a0b8886cdceb42a7bc2b1cc8caafcc8d:0">Go to Netlify and select 'New Site from Git'. Select GitHub and the repository you just pushed to. Click Configure Netlify on GitHub and give access to your repository. Finish the setup by clicking Deploy Site. Netlify will begin reading your repository and starting building your project.</span></span>
 
-### 
+###
 
 <span data-key="9d8f668e7c2b44119d59a3230f16c73a"><span data-offset-key="9d8f668e7c2b44119d59a3230f16c73a:0">Enable Identity and Git Gateway</span></span>
 
@@ -616,11 +616,11 @@ Copied!
 
 <span data-key="0b655a1b1cb744978dbc61fa44ff3e3e"><span data-offset-key="0b655a1b1cb744978dbc61fa44ff3e3e:0">Start publishing</span></span>
 
-<span data-key="77b53dd165de4246a448b31425b37ef0"><span data-offset-key="77b53dd165de4246a448b31425b37ef0:0">It's time to create your first blog post. Login to your site's </span>`/admin/`<span data-offset-key="77b53dd165de4246a448b31425b37ef0:2"> page and create a new post by clicking New Blog. Add a title, a date and some text. When you click Publish, a new commit will be created in your GitHub repo with this format </span>`Create Blog                                         “year-month-date-title”`<span data-offset-key="77b53dd165de4246a448b31425b37ef0:4">.</span></span>
+<span data-key="77b53dd165de4246a448b31425b37ef0"><span data-offset-key="77b53dd165de4246a448b31425b37ef0:0">It's time to create your first blog post. Login to your site's </span>`/admin/`<span data-offset-key="77b53dd165de4246a448b31425b37ef0:2"> page and create a new post by clicking New Blog. Add a title, a date and some text. When you click Publish, a new commit will be created in your GitHub repo with this format </span>`Create Blog “year-month-date-title”`<span data-offset-key="77b53dd165de4246a448b31425b37ef0:4">.</span></span>
 
 <span data-key="9fa7c4306f8446628d1fccfda95b5b65"><span data-offset-key="9fa7c4306f8446628d1fccfda95b5b65:0">Then Netlify will detect that there was a commit in your repo, and will start rebuilding your project. When your project is deployed you'll be able to see the post you created.</span></span>
 
-### 
+###
 
 <span data-key="51bc9ec07531444d98f4722f8e0c14b8"><span data-offset-key="51bc9ec07531444d98f4722f8e0c14b8:0">Cleanup</span></span>
 
@@ -632,77 +632,47 @@ Copied!
 
 <span data-key="85c1b926972648dcac4cc88504e6d941"><span data-offset-key="85c1b926972648dcac4cc88504e6d941:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/about-the-graphql-api#in-this-article" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fdb5b16bd19e4865b20883cc5bad013d" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="52b55e044ab444109a03a232f214c027"><span data-offset-key="52b55e044ab444109a03a232f214c027:0">In this article</span></span></span></a><span data-key="582d9535d24f4ffdbf3b648e067e513c"><span data-offset-key="582d9535d24f4ffdbf3b648e067e513c:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="e6ddeac13358492e9519ddf67c694979"><span data-offset-key="e6ddeac13358492e9519ddf67c694979:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/about-the-graphql-api#overview" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a3de8ad3e7f94da2a6d0e23ae601a767" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="cbcca365f6504090be5c9ed1f03f6059"><span data-offset-key="cbcca365f6504090be5c9ed1f03f6059:0">Overview</span></span></span></a><span data-key="04e404fc3a264c07ba6f6f517e918231"><span data-offset-key="04e404fc3a264c07ba6f6f517e918231:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="e6ddeac13358492e9519ddf67c694979"><span data-offset-key="e6ddeac13358492e9519ddf67c694979:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/about-the-graphql-api#overview" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a3de8ad3e7f94da2a6d0e23ae601a767" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="cbcca365f6504090be5c9ed1f03f6059"><span data-offset-key="cbcca365f6504090be5c9ed1f03f6059:0">Overview</span></span></span></a><span data-key="04e404fc3a264c07ba6f6f517e918231"><span data-offset-key="04e404fc3a264c07ba6f6f517e918231:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="b1af61d42e324fbe8abd3d07f7f64aa2"><span data-offset-key="b1af61d42e324fbe8abd3d07f7f64aa2:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/about-the-graphql-api#about-graphql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0af9411cd6ce4e50896fbcf2b7d7c8b3" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="e2b364393bc94b1aa1f4176173442a3d"><span data-offset-key="e2b364393bc94b1aa1f4176173442a3d:0">About GraphQL</span></span></span></a><span data-key="eb242309ccf8467285274c9c781a65f1"><span data-offset-key="eb242309ccf8467285274c9c781a65f1:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="63ccac6650914229acb83b3d9b253020"><span data-offset-key="63ccac6650914229acb83b3d9b253020:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/about-the-graphql-api#why-github-is-using-graphql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="108b57f9460544138b7132674d1e8d89" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="3c545402730f492ba883714161e92d64"><span data-offset-key="3c545402730f492ba883714161e92d64:0">Why GitHub is using GraphQL</span></span></span></a><span data-key="b196e1578784412696a400c88d1036ac"><span data-offset-key="b196e1578784412696a400c88d1036ac:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="b1af61d42e324fbe8abd3d07f7f64aa2"><span data-offset-key="b1af61d42e324fbe8abd3d07f7f64aa2:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/about-the-graphql-api#about-graphql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0af9411cd6ce4e50896fbcf2b7d7c8b3" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="e2b364393bc94b1aa1f4176173442a3d"><span data-offset-key="e2b364393bc94b1aa1f4176173442a3d:0">About GraphQL</span></span></span></a><span data-key="eb242309ccf8467285274c9c781a65f1"><span data-offset-key="eb242309ccf8467285274c9c781a65f1:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="00b7adacbf414d23aaa4423f231ea1e4"><span data-offset-key="00b7adacbf414d23aaa4423f231ea1e4:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/about-the-graphql-api#about-the-graphql-schema-reference" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c6d66e4552ce4a2a94641a5a414d75e5" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="0b2995336ad24f9e8796135bad60f500"><span data-offset-key="0b2995336ad24f9e8796135bad60f500:0">About the GraphQL schema reference</span></span></span></a><span data-key="09e5475ee1e04ba089878b27e27a4002"><span data-offset-key="09e5475ee1e04ba089878b27e27a4002:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
-
-    <span data-key="63ccac6650914229acb83b3d9b253020"><span data-offset-key="63ccac6650914229acb83b3d9b253020:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/about-the-graphql-api#why-github-is-using-graphql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="108b57f9460544138b7132674d1e8d89" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="3c545402730f492ba883714161e92d64"><span data-offset-key="3c545402730f492ba883714161e92d64:0">Why GitHub is using GraphQL</span></span></span></a><span data-key="b196e1578784412696a400c88d1036ac"><span data-offset-key="b196e1578784412696a400c88d1036ac:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="00b7adacbf414d23aaa4423f231ea1e4"><span data-offset-key="00b7adacbf414d23aaa4423f231ea1e4:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/about-the-graphql-api#about-the-graphql-schema-reference" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c6d66e4552ce4a2a94641a5a414d75e5" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="0b2995336ad24f9e8796135bad60f500"><span data-offset-key="0b2995336ad24f9e8796135bad60f500:0">About the GraphQL schema reference</span></span></span></a><span data-key="09e5475ee1e04ba089878b27e27a4002"><span data-offset-key="09e5475ee1e04ba089878b27e27a4002:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="fdd390ebaa9846ebb6ef447673b09aa1"><span data-offset-key="fdd390ebaa9846ebb6ef447673b09aa1:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/about-the-graphql-api#requesting-support" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8fb153a6fd794e91b1e5aae8caabbcd9" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="05f710005af04979b262ff3ffea1558b"><span data-offset-key="05f710005af04979b262ff3ffea1558b:0">Requesting support</span></span></span></a><span data-key="c065dc71f2754faba3160456814662af"><span data-offset-key="c065dc71f2754faba3160456814662af:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="fdd390ebaa9846ebb6ef447673b09aa1"><span data-offset-key="fdd390ebaa9846ebb6ef447673b09aa1:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/about-the-graphql-api#requesting-support" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8fb153a6fd794e91b1e5aae8caabbcd9" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="05f710005af04979b262ff3ffea1558b"><span data-offset-key="05f710005af04979b262ff3ffea1558b:0">Requesting support</span></span></span></a><span data-key="c065dc71f2754faba3160456814662af"><span data-offset-key="c065dc71f2754faba3160456814662af:0"><span data-slate-zero-width="z">​</span></span></span>
 
 <span data-key="480d308c036245fd85b4f40f10bf676f"><span data-offset-key="480d308c036245fd85b4f40f10bf676f:0">Overview</span></span>
 
 <span data-key="8ade259ea3bf4f41ac6dc883310a2e60"><span data-offset-key="8ade259ea3bf4f41ac6dc883310a2e60:0">Here are some quick links to get you up and running with the GraphQL API v4:</span></span>
 
--   
+- <span data-key="07e9dc7a5eb64f1ba31cf819bcf29de9"><span data-offset-key="07e9dc7a5eb64f1ba31cf819bcf29de9:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6b962b8c12774dc2b8ed5fdafcef3884" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="d43e2a1e9ec44d9da6bf750e258d04e6"><span data-offset-key="d43e2a1e9ec44d9da6bf750e258d04e6:0">Authentication</span></span></span></a><span data-key="bd85a5494f4f402099bae0c4c6a96887"><span data-offset-key="bd85a5494f4f402099bae0c4c6a96887:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="07e9dc7a5eb64f1ba31cf819bcf29de9"><span data-offset-key="07e9dc7a5eb64f1ba31cf819bcf29de9:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6b962b8c12774dc2b8ed5fdafcef3884" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="d43e2a1e9ec44d9da6bf750e258d04e6"><span data-offset-key="d43e2a1e9ec44d9da6bf750e258d04e6:0">Authentication</span></span></span></a><span data-key="bd85a5494f4f402099bae0c4c6a96887"><span data-offset-key="bd85a5494f4f402099bae0c4c6a96887:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="60b4f802a9bd4c0f9bfc4ce8187e50c7"><span data-offset-key="60b4f802a9bd4c0f9bfc4ce8187e50c7:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/guides/forming-calls-with-graphql#the-graphql-endpoint" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9c7b993a39f84ff99611a09a28e79e0a" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="e564545dce3642aa8a8149f924144604"><span data-offset-key="e564545dce3642aa8a8149f924144604:0">Root endpoint</span></span></span></a><span data-key="28a0fbf9ca1b4d36bf690549bcbb36cf"><span data-offset-key="28a0fbf9ca1b4d36bf690549bcbb36cf:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="3ec6ab4131464a09a1f255b4965305c6"><span data-offset-key="3ec6ab4131464a09a1f255b4965305c6:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/guides/introduction-to-graphql#discovering-the-graphql-api" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="df678f6bc37d4956bf1bb77fbdd370d8" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="692ca001888146e69ebc10589136eb8e"><span data-offset-key="692ca001888146e69ebc10589136eb8e:0">Schema introspection</span></span></span></a><span data-key="5284840cb6a049a7b4a130121197e2c2"><span data-offset-key="5284840cb6a049a7b4a130121197e2c2:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="60b4f802a9bd4c0f9bfc4ce8187e50c7"><span data-offset-key="60b4f802a9bd4c0f9bfc4ce8187e50c7:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/guides/forming-calls-with-graphql#the-graphql-endpoint" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9c7b993a39f84ff99611a09a28e79e0a" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="e564545dce3642aa8a8149f924144604"><span data-offset-key="e564545dce3642aa8a8149f924144604:0">Root endpoint</span></span></span></a><span data-key="28a0fbf9ca1b4d36bf690549bcbb36cf"><span data-offset-key="28a0fbf9ca1b4d36bf690549bcbb36cf:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="b07f9f3088824cc7bb188336aa544ab8"><span data-offset-key="b07f9f3088824cc7bb188336aa544ab8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/resource-limitations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c6c9402a78fc42aab1c70dd870692174" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="5c44860450d6453e9e0130212f385d77"><span data-offset-key="5c44860450d6453e9e0130212f385d77:0">Rate limits</span></span></span></a><span data-key="82c039609e5b4d1a9a25aab81824942e"><span data-offset-key="82c039609e5b4d1a9a25aab81824942e:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
-
-    <span data-key="3ec6ab4131464a09a1f255b4965305c6"><span data-offset-key="3ec6ab4131464a09a1f255b4965305c6:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/guides/introduction-to-graphql#discovering-the-graphql-api" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="df678f6bc37d4956bf1bb77fbdd370d8" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="692ca001888146e69ebc10589136eb8e"><span data-offset-key="692ca001888146e69ebc10589136eb8e:0">Schema introspection</span></span></span></a><span data-key="5284840cb6a049a7b4a130121197e2c2"><span data-offset-key="5284840cb6a049a7b4a130121197e2c2:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="b07f9f3088824cc7bb188336aa544ab8"><span data-offset-key="b07f9f3088824cc7bb188336aa544ab8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/resource-limitations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c6c9402a78fc42aab1c70dd870692174" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="5c44860450d6453e9e0130212f385d77"><span data-offset-key="5c44860450d6453e9e0130212f385d77:0">Rate limits</span></span></span></a><span data-key="82c039609e5b4d1a9a25aab81824942e"><span data-offset-key="82c039609e5b4d1a9a25aab81824942e:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="d42eb2c7351c4c59ba7c77541a364294"><span data-offset-key="d42eb2c7351c4c59ba7c77541a364294:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/guides/migrating-from-rest-to-graphql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e69587d8c88847d9821f920471e66b12" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="414a3ecb942147d1bba6f96b252810b0"><span data-offset-key="414a3ecb942147d1bba6f96b252810b0:0">Migrating from REST</span></span></span></a><span data-key="6b4ab81b1f7a4f0dbea0de27c22abe64"><span data-offset-key="6b4ab81b1f7a4f0dbea0de27c22abe64:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="d42eb2c7351c4c59ba7c77541a364294"><span data-offset-key="d42eb2c7351c4c59ba7c77541a364294:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/guides/migrating-from-rest-to-graphql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e69587d8c88847d9821f920471e66b12" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="414a3ecb942147d1bba6f96b252810b0"><span data-offset-key="414a3ecb942147d1bba6f96b252810b0:0">Migrating from REST</span></span></span></a><span data-key="6b4ab81b1f7a4f0dbea0de27c22abe64"><span data-offset-key="6b4ab81b1f7a4f0dbea0de27c22abe64:0"><span data-slate-zero-width="z">​</span></span></span>
 
 <span data-key="456daf93e47e4b9a97503f33b46158c4"><span data-offset-key="456daf93e47e4b9a97503f33b46158c4:0">About GraphQL</span></span>
 
 <span data-key="eed863f555ec4b5d99ecd506f433423f"><span data-offset-key="eed863f555ec4b5d99ecd506f433423f:0">The </span></span><a href="https://graphql.github.io/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9ab5f0840ade4f8e996f510e63aa66b2" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="706f610ba6cd46d087cab22a3392450a"><span data-offset-key="706f610ba6cd46d087cab22a3392450a:0">GraphQL</span></span></span></a><span data-key="5f746865b27b435eaa9ca338af1cb35a"><span data-offset-key="5f746865b27b435eaa9ca338af1cb35a:0"> data query language is:</span></span>
 
--   
+- <span data-key="90721316cc2e4730803c57cb4cc50d05">**A** </span><a href="https://graphql.github.io/graphql-spec/June2018/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="87a57eab8eda4d81b55fe8cb5588186a" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="772d3ed6939a4cc4a6d64288cf146966"><strong>specification</strong></span></span></a><span data-key="66a378d858b34b0e919694bd7dbb284c">**.**<span data-offset-key="66a378d858b34b0e919694bd7dbb284c:1"> The spec determines the validity of the </span></span><a href="https://docs.github.com/en/graphql/guides/introduction-to-graphql#schema" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6cbc8c1b168649b68c7c1be1148844d4" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="1aa10ab83f5c42c0bc7bbebf7acf6bbf"><span data-offset-key="1aa10ab83f5c42c0bc7bbebf7acf6bbf:0">schema</span></span></span></a><span data-key="4ddabefcbd5e412aa6dadb3cadb00023"><span data-offset-key="4ddabefcbd5e412aa6dadb3cadb00023:0"> on the API server. The schema determines the validity of client calls.</span></span>
 
-    <span data-key="90721316cc2e4730803c57cb4cc50d05">**A** </span><a href="https://graphql.github.io/graphql-spec/June2018/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="87a57eab8eda4d81b55fe8cb5588186a" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="772d3ed6939a4cc4a6d64288cf146966"><strong>specification</strong></span></span></a><span data-key="66a378d858b34b0e919694bd7dbb284c">**.**<span data-offset-key="66a378d858b34b0e919694bd7dbb284c:1"> The spec determines the validity of the </span></span><a href="https://docs.github.com/en/graphql/guides/introduction-to-graphql#schema" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6cbc8c1b168649b68c7c1be1148844d4" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="1aa10ab83f5c42c0bc7bbebf7acf6bbf"><span data-offset-key="1aa10ab83f5c42c0bc7bbebf7acf6bbf:0">schema</span></span></span></a><span data-key="4ddabefcbd5e412aa6dadb3cadb00023"><span data-offset-key="4ddabefcbd5e412aa6dadb3cadb00023:0"> on the API server. The schema determines the validity of client calls.</span></span>
+- <span data-key="6331d8e58f6b49d2be5acde448841412"><span data-offset-key="6331d8e58f6b49d2be5acde448841412:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/about-the-graphql-api#about-the-graphql-schema-reference" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="af60da3324514ff1af5a13e7ffca1699" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="c95ff71571c64b328e092bd8485b1f9f"><strong>Strongly typed</strong></span></span></a><span data-key="b8d5928e894f494a8452357a49845c89">**.**<span data-offset-key="b8d5928e894f494a8452357a49845c89:1"> The schema defines an API's type system and all object relationships.</span></span>
 
--   
+- <span data-key="b8624ca16b86499b85de9d15d46cf457"><span data-offset-key="b8624ca16b86499b85de9d15d46cf457:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/guides/introduction-to-graphql#discovering-the-graphql-api" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="25a297c4f0a04236ac1659a63692f4ad" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="e37836cd909e4300b26f5a6cf1ac61f4"><strong>Introspective</strong></span></span></a><span data-key="d49cbe5e4236487caa13a8d334740c0b">**.**<span data-offset-key="d49cbe5e4236487caa13a8d334740c0b:1"> A client can query the schema for details about the schema.</span></span>
 
-    <span data-key="6331d8e58f6b49d2be5acde448841412"><span data-offset-key="6331d8e58f6b49d2be5acde448841412:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/overview/about-the-graphql-api#about-the-graphql-schema-reference" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="af60da3324514ff1af5a13e7ffca1699" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="c95ff71571c64b328e092bd8485b1f9f"><strong>Strongly typed</strong></span></span></a><span data-key="b8d5928e894f494a8452357a49845c89">**.**<span data-offset-key="b8d5928e894f494a8452357a49845c89:1"> The schema defines an API's type system and all object relationships.</span></span>
+- <span data-key="7d9c17a234774a22bb8d1497a91f1027"><span data-offset-key="7d9c17a234774a22bb8d1497a91f1027:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/guides/forming-calls-with-graphql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6e2387ecedae4743a40b129b81cddd8e" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="d2bf3e50ae834da590cdc256a9e6ddc4"><strong>Hierarchical</strong></span></span></a><span data-key="b99b8c394cc74f6b81e2e832e77cbe35">**.**<span data-offset-key="b99b8c394cc74f6b81e2e832e77cbe35:1"> The shape of a GraphQL call mirrors the shape of the JSON data it returns. </span></span><a href="https://docs.github.com/en/graphql/guides/migrating-from-rest-to-graphql#example-nesting" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d7521144976640949f178facabbd9f1b" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="c06dbbd736ab4f5ebce1f53989f4b597"><span data-offset-key="c06dbbd736ab4f5ebce1f53989f4b597:0">Nested fields</span></span></span></a><span data-key="e4d4c3a3d71f442b83978c0bb80a32b7"><span data-offset-key="e4d4c3a3d71f442b83978c0bb80a32b7:0"> let you query for and receive only the data you specify in a single round trip.</span></span>
 
--   
-
-    <span data-key="b8624ca16b86499b85de9d15d46cf457"><span data-offset-key="b8624ca16b86499b85de9d15d46cf457:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/guides/introduction-to-graphql#discovering-the-graphql-api" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="25a297c4f0a04236ac1659a63692f4ad" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="e37836cd909e4300b26f5a6cf1ac61f4"><strong>Introspective</strong></span></span></a><span data-key="d49cbe5e4236487caa13a8d334740c0b">**.**<span data-offset-key="d49cbe5e4236487caa13a8d334740c0b:1"> A client can query the schema for details about the schema.</span></span>
-
--   
-
-    <span data-key="7d9c17a234774a22bb8d1497a91f1027"><span data-offset-key="7d9c17a234774a22bb8d1497a91f1027:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.github.com/en/graphql/guides/forming-calls-with-graphql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6e2387ecedae4743a40b129b81cddd8e" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="d2bf3e50ae834da590cdc256a9e6ddc4"><strong>Hierarchical</strong></span></span></a><span data-key="b99b8c394cc74f6b81e2e832e77cbe35">**.**<span data-offset-key="b99b8c394cc74f6b81e2e832e77cbe35:1"> The shape of a GraphQL call mirrors the shape of the JSON data it returns. </span></span><a href="https://docs.github.com/en/graphql/guides/migrating-from-rest-to-graphql#example-nesting" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d7521144976640949f178facabbd9f1b" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="c06dbbd736ab4f5ebce1f53989f4b597"><span data-offset-key="c06dbbd736ab4f5ebce1f53989f4b597:0">Nested fields</span></span></span></a><span data-key="e4d4c3a3d71f442b83978c0bb80a32b7"><span data-offset-key="e4d4c3a3d71f442b83978c0bb80a32b7:0"> let you query for and receive only the data you specify in a single round trip.</span></span>
-
--   
-
-    <span data-key="4ad01998abdc49038ffc2410edf61c5f">**An application layer.**<span data-offset-key="4ad01998abdc49038ffc2410edf61c5f:1"> GraphQL is not a storage model or a database query language. The </span>*graph*<span data-offset-key="4ad01998abdc49038ffc2410edf61c5f:3"> refers to graph structures defined in the schema, where </span></span><a href="https://docs.github.com/en/graphql/guides/introduction-to-graphql#node" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="583258c7532a454ba7282abeb267e666" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="1ffb8246ff454d5e81c567dcb68bdf18"><span data-offset-key="1ffb8246ff454d5e81c567dcb68bdf18:0">nodes</span></span></span></a><span data-key="9240cb5026bf4d618d0a2480482c4661"><span data-offset-key="9240cb5026bf4d618d0a2480482c4661:0"> define objects and </span></span><a href="https://docs.github.com/en/graphql/guides/introduction-to-graphql#edge" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c5794a02230c4a84ad7027d564739339" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="c242d67c724742928c2ac1377ade03a7"><span data-offset-key="c242d67c724742928c2ac1377ade03a7:0">edges</span></span></span></a><span data-key="be611e137fb3462f8fbffddc81c1d687"><span data-offset-key="be611e137fb3462f8fbffddc81c1d687:0"> define relationships between objects. The API traverses and returns application data based on the schema definitions, independent of how the data is stored.</span></span>
+- <span data-key="4ad01998abdc49038ffc2410edf61c5f">**An application layer.**<span data-offset-key="4ad01998abdc49038ffc2410edf61c5f:1"> GraphQL is not a storage model or a database query language. The </span>_graph_<span data-offset-key="4ad01998abdc49038ffc2410edf61c5f:3"> refers to graph structures defined in the schema, where </span></span><a href="https://docs.github.com/en/graphql/guides/introduction-to-graphql#node" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="583258c7532a454ba7282abeb267e666" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="1ffb8246ff454d5e81c567dcb68bdf18"><span data-offset-key="1ffb8246ff454d5e81c567dcb68bdf18:0">nodes</span></span></span></a><span data-key="9240cb5026bf4d618d0a2480482c4661"><span data-offset-key="9240cb5026bf4d618d0a2480482c4661:0"> define objects and </span></span><a href="https://docs.github.com/en/graphql/guides/introduction-to-graphql#edge" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c5794a02230c4a84ad7027d564739339" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="c242d67c724742928c2ac1377ade03a7"><span data-offset-key="c242d67c724742928c2ac1377ade03a7:0">edges</span></span></span></a><span data-key="be611e137fb3462f8fbffddc81c1d687"><span data-offset-key="be611e137fb3462f8fbffddc81c1d687:0"> define relationships between objects. The API traverses and returns application data based on the schema definitions, independent of how the data is stored.</span></span>
 
 <span data-key="7e0139f1534c46c3a84219cc1351d26f"><span data-offset-key="7e0139f1534c46c3a84219cc1351d26f:0">Why GitHub is using GraphQL</span></span>
 
-<span data-key="304f6028bac64352b0a28f1e9b5e5312"><span data-offset-key="304f6028bac64352b0a28f1e9b5e5312:0">GitHub chose GraphQL for our API v4 because it offers significantly more flexibility for our integrators. The ability to define precisely the data you want—and </span>*only*<span data-offset-key="304f6028bac64352b0a28f1e9b5e5312:2"> the data you want—is a powerful advantage over the REST API v3 endpoints. GraphQL lets you replace multiple REST requests with </span>*a single call*<span data-offset-key="304f6028bac64352b0a28f1e9b5e5312:4"> to fetch the data you specify.</span></span>
+<span data-key="304f6028bac64352b0a28f1e9b5e5312"><span data-offset-key="304f6028bac64352b0a28f1e9b5e5312:0">GitHub chose GraphQL for our API v4 because it offers significantly more flexibility for our integrators. The ability to define precisely the data you want—and </span>_only_<span data-offset-key="304f6028bac64352b0a28f1e9b5e5312:2"> the data you want—is a powerful advantage over the REST API v3 endpoints. GraphQL lets you replace multiple REST requests with </span>_a single call_<span data-offset-key="304f6028bac64352b0a28f1e9b5e5312:4"> to fetch the data you specify.</span></span>
 
 <span data-key="ff3e095405fe46eabe77e22e86d6e24b"><span data-offset-key="ff3e095405fe46eabe77e22e86d6e24b:0">For more details about why GitHub has moved to GraphQL, see the original </span></span><a href="https://githubengineering.com/the-github-graphql-api/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c692b577a89449ab9447f1c32cbc7074" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="d4bc0930b20e4680b6b9d7f6ce2f3997"><span data-offset-key="d4bc0930b20e4680b6b9d7f6ce2f3997:0">announcement blog post</span></span></span></a><span data-key="0f78fbc4cf444ee0bc2ff85eefdf16ce"><span data-offset-key="0f78fbc4cf444ee0bc2ff85eefdf16ce:0">.</span></span>
 
@@ -710,13 +680,9 @@ Copied!
 
 <span data-key="0568813e8daa4eeea942c2592d0b6100"><span data-offset-key="0568813e8daa4eeea942c2592d0b6100:0">The docs in the sidebar are generated from the GitHub GraphQL </span></span><a href="https://docs.github.com/en/graphql/guides/introduction-to-graphql#discovering-the-graphql-api" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="39afda68622e47a88e55d0bfef55f7f6" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="4e27f29ccaaa4236b9971c8d8b88a4dd"><span data-offset-key="4e27f29ccaaa4236b9971c8d8b88a4dd:0">schema</span></span></span></a><span data-key="9611ff2da406496998dd8070c8672491"><span data-offset-key="9611ff2da406496998dd8070c8672491:0">. All calls are validated and executed against the schema. Use these docs to find out what data you can call:</span></span>
 
--   
+- <span data-key="8419f0cec1394dcba1b53892225d2785"><span data-offset-key="8419f0cec1394dcba1b53892225d2785:0">Allowed operations: </span></span><a href="https://docs.github.com/en/graphql/reference/queries" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6bcdcd298fc540a5ae2cd82e4b366733" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="d800805eda7b4622989fd1e2e3f7cd36"><span data-offset-key="d800805eda7b4622989fd1e2e3f7cd36:0">queries</span></span></span></a><span data-key="e86d7c6cfaef46ff825e81cbf9749844"><span data-offset-key="e86d7c6cfaef46ff825e81cbf9749844:0"> and </span></span><a href="https://docs.github.com/en/graphql/reference/mutations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e545dd14bddc4c01a24378935f646ef9" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="aa8b5c550cbf404a8d10837c7b9d572f"><span data-offset-key="aa8b5c550cbf404a8d10837c7b9d572f:0">mutations</span></span></span></a><span data-key="ecb0827fd6c24af3b1ca2b6a39a91f61"><span data-offset-key="ecb0827fd6c24af3b1ca2b6a39a91f61:0">.</span></span>
 
-    <span data-key="8419f0cec1394dcba1b53892225d2785"><span data-offset-key="8419f0cec1394dcba1b53892225d2785:0">Allowed operations: </span></span><a href="https://docs.github.com/en/graphql/reference/queries" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6bcdcd298fc540a5ae2cd82e4b366733" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="d800805eda7b4622989fd1e2e3f7cd36"><span data-offset-key="d800805eda7b4622989fd1e2e3f7cd36:0">queries</span></span></span></a><span data-key="e86d7c6cfaef46ff825e81cbf9749844"><span data-offset-key="e86d7c6cfaef46ff825e81cbf9749844:0"> and </span></span><a href="https://docs.github.com/en/graphql/reference/mutations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e545dd14bddc4c01a24378935f646ef9" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="aa8b5c550cbf404a8d10837c7b9d572f"><span data-offset-key="aa8b5c550cbf404a8d10837c7b9d572f:0">mutations</span></span></span></a><span data-key="ecb0827fd6c24af3b1ca2b6a39a91f61"><span data-offset-key="ecb0827fd6c24af3b1ca2b6a39a91f61:0">.</span></span>
-
--   
-
-    <span data-key="842ccf9f13174d1da1855263387286ff"><span data-offset-key="842ccf9f13174d1da1855263387286ff:0">Schema-defined types: </span></span><a href="https://docs.github.com/en/graphql/reference/scalars" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="543d804aa05b4cad98af635731b6a7e5" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="d1c9760abb4a458bb1df87820f4b9495"><span data-offset-key="d1c9760abb4a458bb1df87820f4b9495:0">scalars</span></span></span></a><span data-key="3856c17a6b3946f8933c9c0154b91ce6"><span data-offset-key="3856c17a6b3946f8933c9c0154b91ce6:0">, </span></span><a href="https://docs.github.com/en/graphql/reference/objects" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6ac2bad9a71d4634995bd7e76a5f3824" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="dc248dec99914a92878056d968dab3a4"><span data-offset-key="dc248dec99914a92878056d968dab3a4:0">objects</span></span></span></a><span data-key="7f6fb38f74594fd588d6143badd546d4"><span data-offset-key="7f6fb38f74594fd588d6143badd546d4:0">, </span></span><a href="https://docs.github.com/en/graphql/reference/enums" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9574aed936af4fd99a4415a9c4f3e35f" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="32bdfcee6277425091c95ec4fbeef4f0"><span data-offset-key="32bdfcee6277425091c95ec4fbeef4f0:0">enums</span></span></span></a><span data-key="34afc982abaa449c986bbae45c6295af"><span data-offset-key="34afc982abaa449c986bbae45c6295af:0">, </span></span><a href="https://docs.github.com/en/graphql/reference/interfaces" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2990a73907574339a4de690ee13da5c3" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="230ffddba10749f5990d5611d2c509de"><span data-offset-key="230ffddba10749f5990d5611d2c509de:0">interfaces</span></span></span></a><span data-key="60b8a676e1ca4585b8a30b75ef69c65a"><span data-offset-key="60b8a676e1ca4585b8a30b75ef69c65a:0">, </span></span><a href="https://docs.github.com/en/graphql/reference/unions" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4ead4fb36b964dfbbcf6bc38e551777f" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="9202db95f3cf40cb8f012b35f3162a7c"><span data-offset-key="9202db95f3cf40cb8f012b35f3162a7c:0">unions</span></span></span></a><span data-key="dc71f0653c264aee93cf809df81aa294"><span data-offset-key="dc71f0653c264aee93cf809df81aa294:0">, and </span></span><a href="https://docs.github.com/en/graphql/reference/input-objects" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ef9548dd4dca41dd8fa3fe2fd2bb0aef" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="e13bdc406996494a983d41c58700b78f"><span data-offset-key="e13bdc406996494a983d41c58700b78f:0">input objects</span></span></span></a><span data-key="622dfc3fe8224ac8bff777aea5c5f75b"><span data-offset-key="622dfc3fe8224ac8bff777aea5c5f75b:0">.</span></span>
+- <span data-key="842ccf9f13174d1da1855263387286ff"><span data-offset-key="842ccf9f13174d1da1855263387286ff:0">Schema-defined types: </span></span><a href="https://docs.github.com/en/graphql/reference/scalars" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="543d804aa05b4cad98af635731b6a7e5" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="d1c9760abb4a458bb1df87820f4b9495"><span data-offset-key="d1c9760abb4a458bb1df87820f4b9495:0">scalars</span></span></span></a><span data-key="3856c17a6b3946f8933c9c0154b91ce6"><span data-offset-key="3856c17a6b3946f8933c9c0154b91ce6:0">, </span></span><a href="https://docs.github.com/en/graphql/reference/objects" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6ac2bad9a71d4634995bd7e76a5f3824" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="dc248dec99914a92878056d968dab3a4"><span data-offset-key="dc248dec99914a92878056d968dab3a4:0">objects</span></span></span></a><span data-key="7f6fb38f74594fd588d6143badd546d4"><span data-offset-key="7f6fb38f74594fd588d6143badd546d4:0">, </span></span><a href="https://docs.github.com/en/graphql/reference/enums" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9574aed936af4fd99a4415a9c4f3e35f" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="32bdfcee6277425091c95ec4fbeef4f0"><span data-offset-key="32bdfcee6277425091c95ec4fbeef4f0:0">enums</span></span></span></a><span data-key="34afc982abaa449c986bbae45c6295af"><span data-offset-key="34afc982abaa449c986bbae45c6295af:0">, </span></span><a href="https://docs.github.com/en/graphql/reference/interfaces" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2990a73907574339a4de690ee13da5c3" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="230ffddba10749f5990d5611d2c509de"><span data-offset-key="230ffddba10749f5990d5611d2c509de:0">interfaces</span></span></span></a><span data-key="60b8a676e1ca4585b8a30b75ef69c65a"><span data-offset-key="60b8a676e1ca4585b8a30b75ef69c65a:0">, </span></span><a href="https://docs.github.com/en/graphql/reference/unions" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4ead4fb36b964dfbbcf6bc38e551777f" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="9202db95f3cf40cb8f012b35f3162a7c"><span data-offset-key="9202db95f3cf40cb8f012b35f3162a7c:0">unions</span></span></span></a><span data-key="dc71f0653c264aee93cf809df81aa294"><span data-offset-key="dc71f0653c264aee93cf809df81aa294:0">, and </span></span><a href="https://docs.github.com/en/graphql/reference/input-objects" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ef9548dd4dca41dd8fa3fe2fd2bb0aef" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="e13bdc406996494a983d41c58700b78f"><span data-offset-key="e13bdc406996494a983d41c58700b78f:0">input objects</span></span></span></a><span data-key="622dfc3fe8224ac8bff777aea5c5f75b"><span data-offset-key="622dfc3fe8224ac8bff777aea5c5f75b:0">.</span></span>
 
 <span data-key="8ded84e9795d45c9954262b1edee0f6a"><span data-offset-key="8ded84e9795d45c9954262b1edee0f6a:0">You can access this same content via the </span></span><a href="https://docs.github.com/en/graphql/guides/using-the-explorer#accessing-the-sidebar-docs" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="053038da5b77467b9a867fea8ba7c72e" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="f39391e6360542ddb49d3778ac431e3b"><span data-offset-key="f39391e6360542ddb49d3778ac431e3b:0">Explorer Docs sidebar</span></span></span></a><span data-key="16a26936439949dd92b7ba9a37a67004"><span data-offset-key="16a26936439949dd92b7ba9a37a67004:0">. Note that you may need to rely on both the docs and the schema validation to successfully call the GraphQL API.</span></span>
 
@@ -728,21 +694,13 @@ Copied!
 
 <span data-key="99457a0f12ce4d35a6ee6b1559348d24"><span data-offset-key="99457a0f12ce4d35a6ee6b1559348d24:0">Consider reaching out to </span></span><a href="https://github.com/contact" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ac1bb8e398434084a7ea55a8e2496281" data-rnw-int-class="nearest_260-7936_262-7937-240__"><span data-key="6792484397e941ea9bdf9bac010d5cfd"><span data-offset-key="6792484397e941ea9bdf9bac010d5cfd:0">GitHub Support</span></span></span></a><span data-key="1fcf712609cd472c9a7094d4203fe1f1"><span data-offset-key="1fcf712609cd472c9a7094d4203fe1f1:0"> directly using the contact form for:</span></span>
 
--   
+- <span data-key="e7b2d82123c74e3096863beec64f92ad"><span data-offset-key="e7b2d82123c74e3096863beec64f92ad:0">guaranteed response from GitHub staff</span></span>
 
-    <span data-key="e7b2d82123c74e3096863beec64f92ad"><span data-offset-key="e7b2d82123c74e3096863beec64f92ad:0">guaranteed response from GitHub staff</span></span>
+- <span data-key="90a54657a71f4770b08b9cf11932bae2"><span data-offset-key="90a54657a71f4770b08b9cf11932bae2:0">support requests involving sensitive data or private concerns</span></span>
 
--   
+- <span data-key="a4c506545ee044bba631890ee68b0373"><span data-offset-key="a4c506545ee044bba631890ee68b0373:0">feature requests</span></span>
 
-    <span data-key="90a54657a71f4770b08b9cf11932bae2"><span data-offset-key="90a54657a71f4770b08b9cf11932bae2:0">support requests involving sensitive data or private concerns</span></span>
-
--   
-
-    <span data-key="a4c506545ee044bba631890ee68b0373"><span data-offset-key="a4c506545ee044bba631890ee68b0373:0">feature requests</span></span>
-
--   
-
-    <span data-key="6cd5d7ba28a14340ba45051ca0dfa1a5"><span data-offset-key="6cd5d7ba28a14340ba45051ca0dfa1a5:0">feedback about GitHub products</span></span>
+- <span data-key="6cd5d7ba28a14340ba45051ca0dfa1a5"><span data-offset-key="6cd5d7ba28a14340ba45051ca0dfa1a5:0">feedback about GitHub products</span></span>
 
 <span data-key="aefa2c2fb9bb497cb5beb26a8c46f4ee"><span data-offset-key="aefa2c2fb9bb497cb5beb26a8c46f4ee:0">Overview</span></span>
 
@@ -808,15 +766,11 @@ Description
 
 <span data-key="4d2510e5f6454285a4a8a34a440a4bfc"><span data-offset-key="4d2510e5f6454285a4a8a34a440a4bfc:0">The NetlifyCMS exposes a </span>`window.CMS`<span data-offset-key="4d2510e5f6454285a4a8a34a440a4bfc:2"> a global object that you can use to register custom widgets, previews, and editor plugins. The same object is also the default export if you import Netlify CMS as an npm module. The available widget extension methods are:</span></span>
 
--   
+- <span data-key="4d97606b9a344745804b44149e30f802">**registerWidget:**<span data-offset-key="4d97606b9a344745804b44149e30f802:1"> registers a custom widget.</span></span>
 
-    <span data-key="4d97606b9a344745804b44149e30f802">**registerWidget:**<span data-offset-key="4d97606b9a344745804b44149e30f802:1"> registers a custom widget.</span></span>
+- <span data-key="dfaffedb116e40509759fd5a1423d423">**registerEditorComponent:**<span data-offset-key="dfaffedb116e40509759fd5a1423d423:1"> adds a block component to the Markdown editor.</span></span>
 
--   
-
-    <span data-key="dfaffedb116e40509759fd5a1423d423">**registerEditorComponent:**<span data-offset-key="dfaffedb116e40509759fd5a1423d423:1"> adds a block component to the Markdown editor.</span></span>
-
-### 
+###
 
 <span data-key="806d0fed5ec44a85b4be3c2809648451"><span data-offset-key="806d0fed5ec44a85b4be3c2809648451:0">Writing React Components inline</span></span>
 
@@ -872,33 +826,19 @@ Description
 
 <span data-key="ad9506a4e2c0460d9653fcd19fc7bf19">`React.Component`<span data-offset-key="ad9506a4e2c0460d9653fcd19fc7bf19:1"> or </span>`string`</span>
 
--   
+- <span data-key="06d7e2b3f5814dfcb3daec0d1b632625"><span data-offset-key="06d7e2b3f5814dfcb3daec0d1b632625:0">React component that renders the control, receives the following props:</span></span>
 
-    <span data-key="06d7e2b3f5814dfcb3daec0d1b632625"><span data-offset-key="06d7e2b3f5814dfcb3daec0d1b632625:0">React component that renders the control, receives the following props:</span></span>
+  - <span data-key="7de1cb303b11493b83651d0736be238a">**value:**<span data-offset-key="7de1cb303b11493b83651d0736be238a:1"> Current field value</span></span>
 
-    -   
+  - <span data-key="4209435c815c4557a4f512f4039f4acc">**field:**<span data-offset-key="4209435c815c4557a4f512f4039f4acc:1"> Immutable map of current field configuration</span></span>
 
-        <span data-key="7de1cb303b11493b83651d0736be238a">**value:**<span data-offset-key="7de1cb303b11493b83651d0736be238a:1"> Current field value</span></span>
+  - <span data-key="dc1dbcdb99494b369e8c486a16b3e09d">**forID:**<span data-offset-key="dc1dbcdb99494b369e8c486a16b3e09d:1"> Unique identifier for the field</span></span>
 
-    -   
+  - <span data-key="95b57c8b8d45449eb40ed59071cca5e3">**classNameWrapper:**<span data-offset-key="95b57c8b8d45449eb40ed59071cca5e3:1"> class name to apply CMS styling to the field</span></span>
 
-        <span data-key="4209435c815c4557a4f512f4039f4acc">**field:**<span data-offset-key="4209435c815c4557a4f512f4039f4acc:1"> Immutable map of current field configuration</span></span>
+  - <span data-key="7b39f1a8cbe345658ad10c87332d9993">**onChange:**<span data-offset-key="7b39f1a8cbe345658ad10c87332d9993:1"> Callback function to update the field value</span></span>
 
-    -   
-
-        <span data-key="dc1dbcdb99494b369e8c486a16b3e09d">**forID:**<span data-offset-key="dc1dbcdb99494b369e8c486a16b3e09d:1"> Unique identifier for the field</span></span>
-
-    -   
-
-        <span data-key="95b57c8b8d45449eb40ed59071cca5e3">**classNameWrapper:**<span data-offset-key="95b57c8b8d45449eb40ed59071cca5e3:1"> class name to apply CMS styling to the field</span></span>
-
-    -   
-
-        <span data-key="7b39f1a8cbe345658ad10c87332d9993">**onChange:**<span data-offset-key="7b39f1a8cbe345658ad10c87332d9993:1"> Callback function to update the field value</span></span>
-
--   
-
-    <span data-key="08e177a873334b0183b5799c8ad360f5"><span data-offset-key="08e177a873334b0183b5799c8ad360f5:0">Name of a registered widget whose control should be used (includes built in widgets).</span></span>
+- <span data-key="08e177a873334b0183b5799c8ad360f5"><span data-offset-key="08e177a873334b0183b5799c8ad360f5:0">Name of a registered widget whose control should be used (includes built in widgets).</span></span>
 
 <span data-key="0066f685718545ac824c966d6e67df5b"><span data-offset-key="0066f685718545ac824c966d6e67df5b:0">\[</span>`preview`<span data-offset-key="0066f685718545ac824c966d6e67df5b:2">\]</span></span>
 
@@ -906,33 +846,21 @@ Description
 
 <span data-key="c141bbc5e1b349469fc2c28937074527"><span data-offset-key="c141bbc5e1b349469fc2c28937074527:0">Renders the widget preview, receives the following props:</span></span>
 
--   
+- <span data-key="133ceee2a0224f55adea4125ec96dd47">**value:**<span data-offset-key="133ceee2a0224f55adea4125ec96dd47:1"> Current preview value</span></span>
 
-    <span data-key="133ceee2a0224f55adea4125ec96dd47">**value:**<span data-offset-key="133ceee2a0224f55adea4125ec96dd47:1"> Current preview value</span></span>
+- <span data-key="b66135e159444b81a021e0c5c9d94d59">**field:**<span data-offset-key="b66135e159444b81a021e0c5c9d94d59:1"> Immutable map of current field configuration</span></span>
 
--   
+- <span data-key="730a6892f19442039e8f7509b4167ba4">**metadata:**<span data-offset-key="730a6892f19442039e8f7509b4167ba4:1"> Immutable map of any available metadata for the current field</span></span>
 
-    <span data-key="b66135e159444b81a021e0c5c9d94d59">**field:**<span data-offset-key="b66135e159444b81a021e0c5c9d94d59:1"> Immutable map of current field configuration</span></span>
+- <span data-key="30b084ef50394ef98c4a45283cf413a8">**getAsset:**<span data-offset-key="30b084ef50394ef98c4a45283cf413a8:1"> Function for retrieving an asset url for image/file fields</span></span>
 
--   
+- <span data-key="a825cbf289b1473cb190928e0f1e1ee0">**entry:**<span data-offset-key="a825cbf289b1473cb190928e0f1e1ee0:1"> Immutable Map of all entry data</span></span>
 
-    <span data-key="730a6892f19442039e8f7509b4167ba4">**metadata:**<span data-offset-key="730a6892f19442039e8f7509b4167ba4:1"> Immutable map of any available metadata for the current field</span></span>
-
--   
-
-    <span data-key="30b084ef50394ef98c4a45283cf413a8">**getAsset:**<span data-offset-key="30b084ef50394ef98c4a45283cf413a8:1"> Function for retrieving an asset url for image/file fields</span></span>
-
--   
-
-    <span data-key="a825cbf289b1473cb190928e0f1e1ee0">**entry:**<span data-offset-key="a825cbf289b1473cb190928e0f1e1ee0:1"> Immutable Map of all entry data</span></span>
-
--   
-
-    <span data-key="20fce145eb0d432987c6309f1a6890d4">**fieldsMetaData:**<span data-offset-key="20fce145eb0d432987c6309f1a6890d4:1"> Immutable map of metadata from all fields.</span></span>
+- <span data-key="20fce145eb0d432987c6309f1a6890d4">**fieldsMetaData:**<span data-offset-key="20fce145eb0d432987c6309f1a6890d4:1"> Immutable map of metadata from all fields.</span></span>
 
 <span data-key="85fcbad3d5794767bb3761084b5c18c8"><span data-offset-key="85fcbad3d5794767bb3761084b5c18c8:0">\[</span>`schema`<span data-offset-key="85fcbad3d5794767bb3761084b5c18c8:2">\]</span></span>
 
-<span data-key="008704eb6a2247da83a13aa5962d0d62">`JSON Schema                                                           object`<span data-offset-key="008704eb6a2247da83a13aa5962d0d62:1">, optional</span></span>
+<span data-key="008704eb6a2247da83a13aa5962d0d62">`JSON Schema object`<span data-offset-key="008704eb6a2247da83a13aa5962d0d62:1">, optional</span></span>
 
 <span data-key="30fc685625bc47c0ab208836c09606c6"><span data-offset-key="30fc685625bc47c0ab208836c09606c6:0">Enforces a schema for the widget's field configuration</span></span>
 
@@ -1162,9 +1090,7 @@ Copied!
 
 <span data-key="07191ce2cbf1436e84b6b11944535a49">**Params**</span>
 
--   
-
-    <span data-key="437dd71ba7c94ae7a52ae5d7b4062be9">**definition:**<span data-offset-key="437dd71ba7c94ae7a52ae5d7b4062be9:1"> The component definition; must specify: id, label, fields, patterns, fromBlock, toBlock, toPreview</span></span>
+- <span data-key="437dd71ba7c94ae7a52ae5d7b4062be9">**definition:**<span data-offset-key="437dd71ba7c94ae7a52ae5d7b4062be9:1"> The component definition; must specify: id, label, fields, patterns, fromBlock, toBlock, toPreview</span></span>
 
 <span data-key="d34cae5efa0c4d4b92dc22243ec2f127">**Example:**</span>
 
@@ -1854,7 +1780,7 @@ Copied!
 
     20
 
-    <span data-key="2e168765654c495f9ca5242085b7f100"><span data-offset-key="2e168765654c495f9ca5242085b7f100:0"> exclude: /node\_modules/,</span></span>
+    <span data-key="2e168765654c495f9ca5242085b7f100"><span data-offset-key="2e168765654c495f9ca5242085b7f100:0"> exclude: /node_modules/,</span></span>
 
     21
 
@@ -1966,7 +1892,7 @@ Copied!
 
     48
 
-    <span data-key="c1763fdd06334ed690ee1b24a8e04c3c"><span data-offset-key="c1763fdd06334ed690ee1b24a8e04c3c:0">module.exports = process.env.NODE\_ENV === 'production' ? productionConfig : developmentConfig</span></span>
+    <span data-key="c1763fdd06334ed690ee1b24a8e04c3c"><span data-offset-key="c1763fdd06334ed690ee1b24a8e04c3c:0">module.exports = process.env.NODE_ENV === 'production' ? productionConfig : developmentConfig</span></span>
 
     Copied!
 
@@ -2253,7 +2179,7 @@ Copied!
 
 1
 
-<span data-key="750667c3d49647c1827df278c0ce3e68"><span data-offset-key="750667c3d49647c1827df278c0ce3e68:0">window.CMS\_MANUAL\_INIT = true</span></span>
+<span data-key="750667c3d49647c1827df278c0ce3e68"><span data-offset-key="750667c3d49647c1827df278c0ce3e68:0">window.CMS_MANUAL_INIT = true</span></span>
 
 Copied!
 
@@ -2301,7 +2227,7 @@ Copied!
 
 11
 
-<span data-key="a874b5ef4d3a4ae7a698149ca29c397d"><span data-offset-key="a874b5ef4d3a4ae7a698149ca29c397d:0">media\_folder: 'assets',</span></span>
+<span data-key="a874b5ef4d3a4ae7a698149ca29c397d"><span data-offset-key="a874b5ef4d3a4ae7a698149ca29c397d:0">media_folder: 'assets',</span></span>
 
 12
 
@@ -2337,7 +2263,7 @@ Copied!
 
 20
 
-<span data-key="80a247a1c013423e9fef4dee457db6f3"><span data-offset-key="80a247a1c013423e9fef4dee457db6f3:0"> { name: 'test\_widget', label: 'Test Widget', widget: 'test'},</span></span>
+<span data-key="80a247a1c013423e9fef4dee457db6f3"><span data-offset-key="80a247a1c013423e9fef4dee457db6f3:0"> { name: 'test_widget', label: 'Test Widget', widget: 'test'},</span></span>
 
 21
 
@@ -2373,7 +2299,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="e014bc6db0604870a1c6d278bd4d276f"><span data-offset-key="e014bc6db0604870a1c6d278bd4d276f:0">Development</span></span>
 
@@ -2387,7 +2313,7 @@ Copied!
 
 <span data-key="9e6c62a60a7641039207e62b43592cdc"><span data-offset-key="9e6c62a60a7641039207e62b43592cdc:0">Your widget source is in the </span>`src`<span data-offset-key="9e6c62a60a7641039207e62b43592cdc:2"> directory, where there are separate files for the </span>`Control`<span data-offset-key="9e6c62a60a7641039207e62b43592cdc:4"> and </span>`Preview`<span data-offset-key="9e6c62a60a7641039207e62b43592cdc:6"> components.</span></span>
 
-### 
+###
 
 <span data-key="d10193a4e2944ffaa8be80c9a6abe58a"><span data-offset-key="d10193a4e2944ffaa8be80c9a6abe58a:0">Production & Publishing</span></span>
 

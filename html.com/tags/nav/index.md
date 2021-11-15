@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 New in HTML5.
 
-`<nav> HTML Tag`
-================
+# `<nav> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/), [New](https://html.com/new/)</span>
 
@@ -31,24 +28,23 @@ semantic | structural
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> Building Navigation Menus](#Building_Navigation_Menus)
-    -   [<span class="toc_number toc_depth_2">2.1</span> Usage Hints](#Usage_Hints)
-    -   [<span class="toc_number toc_depth_2">2.2</span> Layout Hints](#Layout_Hints)
--   [<span class="toc_number toc_depth_1">3</span> Browser Support for nav](#Browser_Support_for_nav)
--   [<span class="toc_number toc_depth_1">4</span> Attributes of nav](#Attributes_of_nav)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> Building Navigation Menus](#Building_Navigation_Menus)
+  - [<span class="toc_number toc_depth_2">2.1</span> Usage Hints](#Usage_Hints)
+  - [<span class="toc_number toc_depth_2">2.2</span> Layout Hints](#Layout_Hints)
+- [<span class="toc_number toc_depth_1">3</span> Browser Support for nav](#Browser_Support_for_nav)
+- [<span class="toc_number toc_depth_1">4</span> Attributes of nav](#Attributes_of_nav)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <nav>
-    <a href="/flamingo-facts/">Flamingo Facts</a> 
+    <a href="/flamingo-facts/">Flamingo Facts</a>
     &bull;
-    <a href="/flamingo-food/">Flamingo Food</a> 
+    <a href="/flamingo-food/">Flamingo Food</a>
     &bull;
-    <a href="/flamingo-species/">Flamingo Species</a> 
+    <a href="/flamingo-species/">Flamingo Species</a>
     &bull;
-    <a href="/flamingo-habitat/">Flamingo Habitat</a> 
+    <a href="/flamingo-habitat/">Flamingo Habitat</a>
     &bull;
     <a href="/flamingo-mail/">Contact Us</a>
     </nav>
@@ -57,8 +53,7 @@ Contents
 
 <span class="underline"></span>
 
-<span id="Building_Navigation_Menus">Building Navigation Menus</span>
----------------------------------------------------------------------
+## <span id="Building_Navigation_Menus">Building Navigation Menus</span>
 
 In HTML 4, coding a horizontal navigation menu required both HTML and CSS code. The list of links would have to be coded within the [`ul`](https://html.com/tags/ul/) element, and then a style applied to create the horizontal layout.
 
@@ -66,7 +61,7 @@ In HTML 4, coding a horizontal navigation menu required both HTML and CSS code. 
 
 ### <span id="Usage_Hints">Usage Hints</span>
 
-You can have multiple `nav` lists in the same page or document, but you don’t have to use the `nav` element for *all* of the links in your document. `nav` is best reserved for the primary navigation areas, like the main menu across the top of a page or section.
+You can have multiple `nav` lists in the same page or document, but you don’t have to use the `nav` element for _all_ of the links in your document. `nav` is best reserved for the primary navigation areas, like the main menu across the top of a page or section.
 
 Links within a `nav` can be coded within an `ul` list, or simply coded as separate links, without the `ul` element. For full backwards compatibility, the `ul` option is recommended so that the list will be displayed somewhat correctly in older browsers.
 
@@ -86,8 +81,7 @@ For clarity, it’s best to use a separator between links. This helps to make ea
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_nav">Browser Support for nav</span>
------------------------------------------------------------------
+## <span id="Browser_Support_for_nav">Browser Support for nav</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -125,14 +119,12 @@ For clarity, it’s best to use a separator between links. This helps to make ea
 
 <span class="browser-supported">11</span>
 
-<span id="Attributes_of_nav">Attributes of nav</span>
------------------------------------------------------
+## <span id="Attributes_of_nav">Attributes of nav</span>
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/attributes/multicol-gutter/" class="linked-name deprecated">gutter</a><br />
 </td><td></td><td></td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`<meter> HTML Tag`](https://html.com/tags/meter/)
 
@@ -144,11 +136,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

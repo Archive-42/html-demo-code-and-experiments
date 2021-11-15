@@ -1,7 +1,7 @@
 <img src="https://meditate42app.netlify.app/images/bg.jpg" id="mainBg" class="bg" />
 
--   [](https://github.com/bgoonz/meditation-app.git)
--   
+- [](https://github.com/bgoonz/meditation-app.git)
+-
 
 ![](https://meditate42app.netlify.app/images/yoga1.png)
 

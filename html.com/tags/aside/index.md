@@ -10,8 +10,7 @@ Learn HTML Code, Tags & CSS
 
 New in HTML5.
 
-`HTML5 Aside Element: Here Are The Good (And Not So Good) Uses For It`
-======================================================================
+# `HTML5 Aside Element: Here Are The Good (And Not So Good) Uses For It`
 
 In <span class="post-meta-category">[HTML Tags](../index.html), [New](../../new/index.html)</span>
 
@@ -31,8 +30,7 @@ semantic | structural
 
 <span class="underline"></span>
 
-Using Aside
------------
+## Using Aside
 
 There is actually some confusion and even disagreement over the exact nature and purpose of `<aside>`, so let’s look at the [HTML5 specification](https://html.spec.whatwg.org/multipage/semantics.html#the-aside-element):
 
@@ -41,22 +39,21 @@ There is actually some confusion and even disagreement over the exact nature and
 
 This means that any of the following may be valid uses of the `<aside>` element:
 
--   bibliography or endnotes
--   comments
--   pull quotes
--   editorial sidebars
--   additional information
--   website sidebars unrelated to the content
+- bibliography or endnotes
+- comments
+- pull quotes
+- editorial sidebars
+- additional information
+- website sidebars unrelated to the content
 
-The following are most likely *not* good uses of the `<aside>` element:
+The following are most likely _not_ good uses of the `<aside>` element:
 
--   article post data (byline, publication date, etc.)
--   post-specific navigation, such as next and previous or related posts
+- article post data (byline, publication date, etc.)
+- post-specific navigation, such as next and previous or related posts
 
 Note that while the above list is somewhat conjectural, there is one potential use of `<aside>` which is specifically prohibited by the specification: parenthetical information within the flow of an article.
 
-Code Example
-------------
+## Code Example
 
     <!-- Several potential placements for <aside> -->
 
@@ -98,8 +95,7 @@ Code Example
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Browser Support for aside
--------------------------
+## Browser Support for aside
 
 <img src="../../wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -137,8 +133,7 @@ Browser Support for aside
 
 <span class="browser-supported">34</span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`HTML Article Element: Learn When (And Where) To Use It Now`](../article/index.html)
 
@@ -150,11 +145,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="../../attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="../comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../../attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../iframe/index.html" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../iframe/index.html#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../button/index.html" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../button/index.html#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../../attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="../comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../../attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../iframe/index.html" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../iframe/index.html#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../button/index.html" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../button/index.html#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](../../index.html) © 2015-2020 [Sitemap](../../sitemap/index.html) | [Privacy](../../privacy/index.html) | [Contact](../../contact/index.html)
 

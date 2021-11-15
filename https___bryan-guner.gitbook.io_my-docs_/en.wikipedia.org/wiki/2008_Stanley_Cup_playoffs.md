@@ -1,7 +1,6 @@
 <span id="top"></span>
 
-2008 Stanley Cup playoffs
-=========================
+# 2008 Stanley Cup playoffs
 
 From Wikipedia, the free encyclopedia
 
@@ -59,51 +58,49 @@ The [Buffalo Sabres](https://en.wikipedia.org/wiki/Buffalo_Sabres "Buffalo Sabre
 
 The Finals ended on June 4, 2008 with the [Detroit Red Wings](https://en.wikipedia.org/wiki/Detroit_Red_Wings "Detroit Red Wings") defeating the [Pittsburgh Penguins](https://en.wikipedia.org/wiki/Pittsburgh_Penguins "Pittsburgh Penguins") four games to two to win their eleventh championship and their fourth in eleven seasons. It was the first championship in the 16-year career of Red Wings winger [Dallas Drake](https://en.wikipedia.org/wiki/Dallas_Drake "Dallas Drake"), who retired following the season. Red Wings winger [Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") was awarded the [Conn Smythe Trophy](https://en.wikipedia.org/wiki/Conn_Smythe_Trophy "Conn Smythe Trophy") as the playoffs' Most Valuable Player. [Sidney Crosby](https://en.wikipedia.org/wiki/Sidney_Crosby "Sidney Crosby") and Zetterberg led the tournament with 27 points.
 
-Contents
---------
+## Contents
 
 <span class="toctogglespan"></span>
 
--   [<span class="tocnumber">1</span> <span class="toctext">Highlights</span>](#Highlights)
-    -   [<span class="tocnumber">1.1</span> <span class="toctext">Milestones</span>](#Milestones)
-    -   [<span class="tocnumber">1.2</span> <span class="toctext">New interpretation of NHL rule</span>](#New_interpretation_of_NHL_rule)
--   [<span class="tocnumber">2</span> <span class="toctext">Playoff seeds</span>](#Playoff_seeds)
-    -   [<span class="tocnumber">2.1</span> <span class="toctext">Eastern Conference</span>](#Eastern_Conference)
-    -   [<span class="tocnumber">2.2</span> <span class="toctext">Western Conference</span>](#Western_Conference)
--   [<span class="tocnumber">3</span> <span class="toctext">Playoff bracket</span>](#Playoff_bracket)
--   [<span class="tocnumber">4</span> <span class="toctext">Conference Quarterfinals</span>](#Conference_Quarterfinals)
-    -   [<span class="tocnumber">4.1</span> <span class="toctext">Eastern Conference Quarterfinals</span>](#Eastern_Conference_Quarterfinals)
-        -   [<span class="tocnumber">4.1.1</span> <span class="toctext">(1) Montreal Canadiens vs. (8) Boston Bruins</span>](#(1)_Montreal_Canadiens_vs._(8)_Boston_Bruins)
-        -   [<span class="tocnumber">4.1.2</span> <span class="toctext">(2) Pittsburgh Penguins vs. (7) Ottawa Senators</span>](#(2)_Pittsburgh_Penguins_vs._(7)_Ottawa_Senators)
-        -   [<span class="tocnumber">4.1.3</span> <span class="toctext">(3) Washington Capitals vs. (6) Philadelphia Flyers</span>](#(3)_Washington_Capitals_vs._(6)_Philadelphia_Flyers)
-        -   [<span class="tocnumber">4.1.4</span> <span class="toctext">(4) New Jersey Devils vs. (5) New York Rangers</span>](#(4)_New_Jersey_Devils_vs._(5)_New_York_Rangers)
-    -   [<span class="tocnumber">4.2</span> <span class="toctext">Western Conference Quarterfinals</span>](#Western_Conference_Quarterfinals)
-        -   [<span class="tocnumber">4.2.1</span> <span class="toctext">(1) Detroit Red Wings vs. (8) Nashville Predators</span>](#(1)_Detroit_Red_Wings_vs._(8)_Nashville_Predators)
-        -   [<span class="tocnumber">4.2.2</span> <span class="toctext">(2) San Jose Sharks vs. (7) Calgary Flames</span>](#(2)_San_Jose_Sharks_vs._(7)_Calgary_Flames)
-        -   [<span class="tocnumber">4.2.3</span> <span class="toctext">(3) Minnesota Wild vs. (6) Colorado Avalanche</span>](#(3)_Minnesota_Wild_vs._(6)_Colorado_Avalanche)
-        -   [<span class="tocnumber">4.2.4</span> <span class="toctext">(4) Anaheim Ducks vs. (5) Dallas Stars</span>](#(4)_Anaheim_Ducks_vs._(5)_Dallas_Stars)
--   [<span class="tocnumber">5</span> <span class="toctext">Conference Semifinals</span>](#Conference_Semifinals)
-    -   [<span class="tocnumber">5.1</span> <span class="toctext">Eastern Conference Semifinals</span>](#Eastern_Conference_Semifinals)
-        -   [<span class="tocnumber">5.1.1</span> <span class="toctext">(1) Montreal Canadiens vs. (6) Philadelphia Flyers</span>](#(1)_Montreal_Canadiens_vs._(6)_Philadelphia_Flyers)
-        -   [<span class="tocnumber">5.1.2</span> <span class="toctext">(2) Pittsburgh Penguins vs. (5) New York Rangers</span>](#(2)_Pittsburgh_Penguins_vs._(5)_New_York_Rangers)
-    -   [<span class="tocnumber">5.2</span> <span class="toctext">Western Conference Semifinals</span>](#Western_Conference_Semifinals)
-        -   [<span class="tocnumber">5.2.1</span> <span class="toctext">(1) Detroit Red Wings vs. (6) Colorado Avalanche</span>](#(1)_Detroit_Red_Wings_vs._(6)_Colorado_Avalanche)
-        -   [<span class="tocnumber">5.2.2</span> <span class="toctext">(2) San Jose Sharks vs. (5) Dallas Stars</span>](#(2)_San_Jose_Sharks_vs._(5)_Dallas_Stars)
--   [<span class="tocnumber">6</span> <span class="toctext">Conference Finals</span>](#Conference_Finals)
-    -   [<span class="tocnumber">6.1</span> <span class="toctext">Eastern Conference Final</span>](#Eastern_Conference_Final)
-        -   [<span class="tocnumber">6.1.1</span> <span class="toctext">(2) Pittsburgh Penguins vs. (6) Philadelphia Flyers</span>](#(2)_Pittsburgh_Penguins_vs._(6)_Philadelphia_Flyers)
-    -   [<span class="tocnumber">6.2</span> <span class="toctext">Western Conference Final</span>](#Western_Conference_Final)
-        -   [<span class="tocnumber">6.2.1</span> <span class="toctext">(1) Detroit Red Wings vs. (5) Dallas Stars</span>](#(1)_Detroit_Red_Wings_vs._(5)_Dallas_Stars)
--   [<span class="tocnumber">7</span> <span class="toctext">Stanley Cup Finals</span>](#Stanley_Cup_Finals)
--   [<span class="tocnumber">8</span> <span class="toctext">Player statistics</span>](#Player_statistics)
-    -   [<span class="tocnumber">8.1</span> <span class="toctext">Skaters</span>](#Skaters)
-    -   [<span class="tocnumber">8.2</span> <span class="toctext">Goaltending</span>](#Goaltending)
--   [<span class="tocnumber">9</span> <span class="toctext">Television</span>](#Television)
--   [<span class="tocnumber">10</span> <span class="toctext">See also</span>](#See_also)
--   [<span class="tocnumber">11</span> <span class="toctext">References</span>](#References)
+- [<span class="tocnumber">1</span> <span class="toctext">Highlights</span>](#Highlights)
+  - [<span class="tocnumber">1.1</span> <span class="toctext">Milestones</span>](#Milestones)
+  - [<span class="tocnumber">1.2</span> <span class="toctext">New interpretation of NHL rule</span>](#New_interpretation_of_NHL_rule)
+- [<span class="tocnumber">2</span> <span class="toctext">Playoff seeds</span>](#Playoff_seeds)
+  - [<span class="tocnumber">2.1</span> <span class="toctext">Eastern Conference</span>](#Eastern_Conference)
+  - [<span class="tocnumber">2.2</span> <span class="toctext">Western Conference</span>](#Western_Conference)
+- [<span class="tocnumber">3</span> <span class="toctext">Playoff bracket</span>](#Playoff_bracket)
+- [<span class="tocnumber">4</span> <span class="toctext">Conference Quarterfinals</span>](#Conference_Quarterfinals)
+  - [<span class="tocnumber">4.1</span> <span class="toctext">Eastern Conference Quarterfinals</span>](#Eastern_Conference_Quarterfinals)
+    - [<span class="tocnumber">4.1.1</span> <span class="toctext">(1) Montreal Canadiens vs. (8) Boston Bruins</span>](<#(1)_Montreal_Canadiens_vs._(8)_Boston_Bruins>)
+    - [<span class="tocnumber">4.1.2</span> <span class="toctext">(2) Pittsburgh Penguins vs. (7) Ottawa Senators</span>](<#(2)_Pittsburgh_Penguins_vs._(7)_Ottawa_Senators>)
+    - [<span class="tocnumber">4.1.3</span> <span class="toctext">(3) Washington Capitals vs. (6) Philadelphia Flyers</span>](<#(3)_Washington_Capitals_vs._(6)_Philadelphia_Flyers>)
+    - [<span class="tocnumber">4.1.4</span> <span class="toctext">(4) New Jersey Devils vs. (5) New York Rangers</span>](<#(4)_New_Jersey_Devils_vs._(5)_New_York_Rangers>)
+  - [<span class="tocnumber">4.2</span> <span class="toctext">Western Conference Quarterfinals</span>](#Western_Conference_Quarterfinals)
+    - [<span class="tocnumber">4.2.1</span> <span class="toctext">(1) Detroit Red Wings vs. (8) Nashville Predators</span>](<#(1)_Detroit_Red_Wings_vs._(8)_Nashville_Predators>)
+    - [<span class="tocnumber">4.2.2</span> <span class="toctext">(2) San Jose Sharks vs. (7) Calgary Flames</span>](<#(2)_San_Jose_Sharks_vs._(7)_Calgary_Flames>)
+    - [<span class="tocnumber">4.2.3</span> <span class="toctext">(3) Minnesota Wild vs. (6) Colorado Avalanche</span>](<#(3)_Minnesota_Wild_vs._(6)_Colorado_Avalanche>)
+    - [<span class="tocnumber">4.2.4</span> <span class="toctext">(4) Anaheim Ducks vs. (5) Dallas Stars</span>](<#(4)_Anaheim_Ducks_vs._(5)_Dallas_Stars>)
+- [<span class="tocnumber">5</span> <span class="toctext">Conference Semifinals</span>](#Conference_Semifinals)
+  - [<span class="tocnumber">5.1</span> <span class="toctext">Eastern Conference Semifinals</span>](#Eastern_Conference_Semifinals)
+    - [<span class="tocnumber">5.1.1</span> <span class="toctext">(1) Montreal Canadiens vs. (6) Philadelphia Flyers</span>](<#(1)_Montreal_Canadiens_vs._(6)_Philadelphia_Flyers>)
+    - [<span class="tocnumber">5.1.2</span> <span class="toctext">(2) Pittsburgh Penguins vs. (5) New York Rangers</span>](<#(2)_Pittsburgh_Penguins_vs._(5)_New_York_Rangers>)
+  - [<span class="tocnumber">5.2</span> <span class="toctext">Western Conference Semifinals</span>](#Western_Conference_Semifinals)
+    - [<span class="tocnumber">5.2.1</span> <span class="toctext">(1) Detroit Red Wings vs. (6) Colorado Avalanche</span>](<#(1)_Detroit_Red_Wings_vs._(6)_Colorado_Avalanche>)
+    - [<span class="tocnumber">5.2.2</span> <span class="toctext">(2) San Jose Sharks vs. (5) Dallas Stars</span>](<#(2)_San_Jose_Sharks_vs._(5)_Dallas_Stars>)
+- [<span class="tocnumber">6</span> <span class="toctext">Conference Finals</span>](#Conference_Finals)
+  - [<span class="tocnumber">6.1</span> <span class="toctext">Eastern Conference Final</span>](#Eastern_Conference_Final)
+    - [<span class="tocnumber">6.1.1</span> <span class="toctext">(2) Pittsburgh Penguins vs. (6) Philadelphia Flyers</span>](<#(2)_Pittsburgh_Penguins_vs._(6)_Philadelphia_Flyers>)
+  - [<span class="tocnumber">6.2</span> <span class="toctext">Western Conference Final</span>](#Western_Conference_Final)
+    - [<span class="tocnumber">6.2.1</span> <span class="toctext">(1) Detroit Red Wings vs. (5) Dallas Stars</span>](<#(1)_Detroit_Red_Wings_vs._(5)_Dallas_Stars>)
+- [<span class="tocnumber">7</span> <span class="toctext">Stanley Cup Finals</span>](#Stanley_Cup_Finals)
+- [<span class="tocnumber">8</span> <span class="toctext">Player statistics</span>](#Player_statistics)
+  - [<span class="tocnumber">8.1</span> <span class="toctext">Skaters</span>](#Skaters)
+  - [<span class="tocnumber">8.2</span> <span class="toctext">Goaltending</span>](#Goaltending)
+- [<span class="tocnumber">9</span> <span class="toctext">Television</span>](#Television)
+- [<span class="tocnumber">10</span> <span class="toctext">See also</span>](#See_also)
+- [<span class="tocnumber">11</span> <span class="toctext">References</span>](#References)
 
-<span id="Highlights" class="mw-headline">Highlights</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=1 "Edit section: Highlights")<span class="mw-editsection-bracket">\]</span></span>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <span id="Highlights" class="mw-headline">Highlights</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=1 "Edit section: Highlights")<span class="mw-editsection-bracket">\]</span></span>
 
 The [San Jose Sharks](https://en.wikipedia.org/wiki/San_Jose_Sharks "San Jose Sharks") were the media's favorite to win the Cup going into the playoffs, having gone the entire month of March without a regulation loss and nearly finishing first overall during the regular season.
 
@@ -117,14 +114,13 @@ In the Western Conference Semifinals against the Avalanche, [Johan Franzen](http
 
 Game six of the Western Conference Semifinals between the Sharks and Stars was the eighth-longest game in the history of the NHL, lasting 129:03. Stars captain [Brenden Morrow](https://en.wikipedia.org/wiki/Brenden_Morrow "Brenden Morrow") ended the game at 9:03 of the fourth overtime, tapping in a power-play goal. Goaltenders [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") and [Evgeni Nabokov](https://en.wikipedia.org/wiki/Evgeni_Nabokov "Evgeni Nabokov") set team records for saves in a game with 61 and 53, respectively. The final score was 2–1.
 
-Detroit captain [Nicklas Lidstrom](https://en.wikipedia.org/wiki/Nicklas_Lidström "Nicklas Lidström") became the first European (and Swedish) born and trained player to lead an NHL team to the Stanley Cup. [Charlie Gardiner](https://en.wikipedia.org/wiki/Charlie_Gardiner_(ice_hockey) "Charlie Gardiner (ice hockey)") (born in the United Kingdom) and [Johnny Gottselig](https://en.wikipedia.org/wiki/Johnny_Gottselig "Johnny Gottselig") (born in Russia) both won the Stanley Cup as captains of the Chicago Blackhawks in [1934](https://en.wikipedia.org/wiki/1934_Stanley_Cup_Finals "1934 Stanley Cup Finals") and [1938](https://en.wikipedia.org/wiki/1938_Stanley_Cup_Finals "1938 Stanley Cup Finals") respectively, but they were both raised in Canada.
+Detroit captain [Nicklas Lidstrom](https://en.wikipedia.org/wiki/Nicklas_Lidström "Nicklas Lidström") became the first European (and Swedish) born and trained player to lead an NHL team to the Stanley Cup. [Charlie Gardiner](<https://en.wikipedia.org/wiki/Charlie_Gardiner_(ice_hockey)> "Charlie Gardiner (ice hockey)") (born in the United Kingdom) and [Johnny Gottselig](https://en.wikipedia.org/wiki/Johnny_Gottselig "Johnny Gottselig") (born in Russia) both won the Stanley Cup as captains of the Chicago Blackhawks in [1934](https://en.wikipedia.org/wiki/1934_Stanley_Cup_Finals "1934 Stanley Cup Finals") and [1938](https://en.wikipedia.org/wiki/1938_Stanley_Cup_Finals "1938 Stanley Cup Finals") respectively, but they were both raised in Canada.
 
 ### <span id="New_interpretation_of_NHL_rule" class="mw-headline">New interpretation of NHL rule</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=3 "Edit section: New interpretation of NHL rule")<span class="mw-editsection-bracket">\]</span></span>
 
-In game three of their Eastern Conference Quarterfinal series, while on a five-on-three [power play](https://en.wikipedia.org/wiki/Power_play_(sporting_term) "Power play (sporting term)"), the [New York Rangers](https://en.wikipedia.org/wiki/New_York_Rangers "New York Rangers")' [Sean Avery](https://en.wikipedia.org/wiki/Sean_Avery "Sean Avery") tried to screen the [New Jersey Devils](https://en.wikipedia.org/wiki/New_Jersey_Devils "New Jersey Devils")' goaltender [Martin Brodeur](https://en.wikipedia.org/wiki/Martin_Brodeur "Martin Brodeur") by waving his hands and stick while facing Brodeur. This prompted the NHL to issue an interpretation of the league's rules, stating that an unsportsmanlike conduct minor penalty will be called on actions such as the one used by Avery.<sup>[\[2\]](#cite_note-ESPNAmendedRule-2)</sup>
+In game three of their Eastern Conference Quarterfinal series, while on a five-on-three [power play](<https://en.wikipedia.org/wiki/Power_play_(sporting_term)> "Power play (sporting term)"), the [New York Rangers](https://en.wikipedia.org/wiki/New_York_Rangers "New York Rangers")' [Sean Avery](https://en.wikipedia.org/wiki/Sean_Avery "Sean Avery") tried to screen the [New Jersey Devils](https://en.wikipedia.org/wiki/New_Jersey_Devils "New Jersey Devils")' goaltender [Martin Brodeur](https://en.wikipedia.org/wiki/Martin_Brodeur "Martin Brodeur") by waving his hands and stick while facing Brodeur. This prompted the NHL to issue an interpretation of the league's rules, stating that an unsportsmanlike conduct minor penalty will be called on actions such as the one used by Avery.<sup>[\[2\]](#cite_note-ESPNAmendedRule-2)</sup>
 
-<span id="Playoff_seeds" class="mw-headline">Playoff seeds</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=4 "Edit section: Playoff seeds")<span class="mw-editsection-bracket">\]</span></span>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <span id="Playoff_seeds" class="mw-headline">Playoff seeds</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=4 "Edit section: Playoff seeds")<span class="mw-editsection-bracket">\]</span></span>
 
 <a href="https://en.wikipedia.org/wiki/File:Hhof_stanley_cup.jpg" class="image"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hhof_stanley_cup.jpg/175px-Hhof_stanley_cup.jpg" class="thumbimage" srcset="
                       //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hhof_stanley_cup.jpg/263px-Hhof_stanley_cup.jpg 1.5x,
@@ -157,10 +153,9 @@ The [Stanley Cup](https://en.wikipedia.org/wiki/Stanley_Cup "Stanley Cup")
 7.  [Calgary Flames](https://en.wikipedia.org/wiki/2007–08_Calgary_Flames_season "2007–08 Calgary Flames season") – 94 points
 8.  [Nashville Predators](https://en.wikipedia.org/wiki/2007–08_Nashville_Predators_season "2007–08 Nashville Predators season") – 91 points
 
-<span id="Playoff_bracket" class="mw-headline">Playoff bracket</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=7 "Edit section: Playoff bracket")<span class="mw-editsection-bracket">\]</span></span>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <span id="Playoff_bracket" class="mw-headline">Playoff bracket</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=7 "Edit section: Playoff bracket")<span class="mw-editsection-bracket">\]</span></span>
 
- 
+
 
 Conference Quarterfinals
 
@@ -170,43 +165,43 @@ Conference Finals
 
 Stanley Cup Finals
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <span style="color: #ffffff">1</span>
 
@@ -214,9 +209,9 @@ Stanley Cup Finals
 
 **4**
 
- 
 
- 
+
+
 
 <span style="color: #ffffff">1</span>
 
@@ -224,7 +219,7 @@ Montreal
 
 1
 
- 
+
 
 <span style="color: #ffffff">8</span>
 
@@ -232,9 +227,9 @@ Boston
 
 3
 
- 
 
- 
+
+
 
 <span style="color: #ffffff">**6**</span>
 
@@ -242,9 +237,7 @@ Boston
 
 **4**
 
- 
 
-  
 
 <span style="color: #ffffff">2</span>
 
@@ -252,7 +245,7 @@ Boston
 
 **4**
 
-**[Eastern Conference](https://en.wikipedia.org/wiki/Eastern_Conference_(NHL) "Eastern Conference (NHL)")**
+**[Eastern Conference](<https://en.wikipedia.org/wiki/Eastern_Conference_(NHL)> "Eastern Conference (NHL)")**
 
 <span style="color: #ffffff">7</span>
 
@@ -260,11 +253,11 @@ Ottawa
 
 0
 
- 
 
- 
 
- 
+
+
+
 
 <span style="color: #ffffff">6</span>
 
@@ -272,9 +265,9 @@ Philadelphia
 
 1
 
- 
 
- 
+
+
 
 <span style="color: #ffffff">**2**</span>
 
@@ -282,7 +275,7 @@ Philadelphia
 
 **4**
 
- 
+
 
 <span style="color: #ffffff">3</span>
 
@@ -290,7 +283,7 @@ Washington
 
 3
 
- 
+
 
 <span style="color: #ffffff">6</span>
 
@@ -298,7 +291,7 @@ Washington
 
 **4**
 
- 
+
 
 <span style="color: #ffffff">4</span>
 
@@ -306,7 +299,7 @@ New Jersey
 
 1
 
- 
+
 
 <span style="color: #ffffff">**2**</span>
 
@@ -320,9 +313,9 @@ New Jersey
 
 **4**
 
- 
 
- 
+
+
 
 <span style="color: #ffffff">5</span>
 
@@ -330,11 +323,9 @@ NY Rangers
 
 1
 
- 
 
-  
 
- 
+
 
 <span style="color: #ffffff">E2</span>
 
@@ -342,9 +333,9 @@ Pittsburgh
 
 2
 
-<span class="small">***(Pairings are re-seeded after the first round.)***</span>
+<span class="small">**_(Pairings are re-seeded after the first round.)_**</span>
 
- 
+
 
 <span style="color: #ffffff">**W1**</span>
 
@@ -358,9 +349,9 @@ Pittsburgh
 
 **4**
 
- 
 
- 
+
+
 
 <span style="color: #ffffff">**1**</span>
 
@@ -374,9 +365,9 @@ Nashville
 
 2
 
- 
 
- 
+
+
 
 <span style="color: #ffffff">6</span>
 
@@ -384,7 +375,7 @@ Colorado
 
 0
 
- 
+
 
 <span style="color: #ffffff">2</span>
 
@@ -398,9 +389,9 @@ Calgary
 
 3
 
- 
 
- 
+
+
 
 <span style="color: #ffffff">**1**</span>
 
@@ -408,7 +399,7 @@ Calgary
 
 **4**
 
- 
+
 
 <span style="color: #ffffff">5</span>
 
@@ -416,7 +407,7 @@ Dallas
 
 2
 
- 
+
 
 <span style="color: #ffffff">3</span>
 
@@ -424,7 +415,7 @@ Minnesota
 
 2
 
- 
+
 
 <span style="color: #ffffff">6</span>
 
@@ -432,9 +423,9 @@ Minnesota
 
 **4**
 
- 
 
-**[Western Conference](https://en.wikipedia.org/wiki/Western_Conference_(NHL) "Western Conference (NHL)")**
+
+**[Western Conference](<https://en.wikipedia.org/wiki/Western_Conference_(NHL)> "Western Conference (NHL)")**
 
 <span style="color: #ffffff">4</span>
 
@@ -442,7 +433,7 @@ Anaheim
 
 2
 
- 
+
 
 <span style="color: #ffffff">2</span>
 
@@ -456,9 +447,9 @@ San Jose
 
 **4**
 
- 
 
- 
+
+
 
 <span style="color: #ffffff">**5**</span>
 
@@ -466,14 +457,13 @@ San Jose
 
 **4**
 
- 
 
--   During the first three rounds home ice is determined by seeding number, not position on the bracket. In the Finals the team with the better regular season record has home ice.
+
+- During the first three rounds home ice is determined by seeding number, not position on the bracket. In the Finals the team with the better regular season record has home ice.
 
 In each round, the highest remaining seed in each conference is matched against the lowest remaining seed. The higher-seeded team is awarded home ice advantage, which gives them a possible maximum of four games on their home ice, with the lower-seeded team getting a possible maximum of three. In the Stanley Cup Finals, home ice is determined based on regular season points; thus, the Detroit Red Wings had home ice advantage throughout the playoffs, including in the Finals. Each best-of-seven series follows a 2–2–1–1–1 format. This means that the higher-seeded team has home ice for games one and two, and if necessary, five and seven, while the lower-seeded team has home ice for games three, four and, if necessary, six.
 
-<span id="Conference_Quarterfinals" class="mw-headline">Conference Quarterfinals</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=8 "Edit section: Conference Quarterfinals")<span class="mw-editsection-bracket">\]</span></span>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <span id="Conference_Quarterfinals" class="mw-headline">Conference Quarterfinals</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=8 "Edit section: Conference Quarterfinals")<span class="mw-editsection-bracket">\]</span></span>
 
 ### <span id="Eastern_Conference_Quarterfinals" class="mw-headline">Eastern Conference Quarterfinals</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=9 "Edit section: Eastern Conference Quarterfinals")<span class="mw-editsection-bracket">\]</span></span>
 
@@ -482,8 +472,6 @@ In each round, the highest remaining seed in each conference is matched against 
 The Montreal Canadiens entered the playoffs as the Eastern Conference regular season and Northeast Division champions with 104 points. Boston qualified as the eighth seed earning 94 points (losing the tie-breaker in total wins with Ottawa) during the regular season. This was the 31st playoff meeting between these two [Original Six](https://en.wikipedia.org/wiki/Original_Six "Original Six") [rivals](https://en.wikipedia.org/wiki/Bruins–Canadiens_rivalry "Bruins–Canadiens rivalry"), with Montreal winning twenty-three of the thirty previous series. They last met in the [2004 Eastern Conference Quarterfinals](https://en.wikipedia.org/wiki/2004_Stanley_Cup_playoffs "2004 Stanley Cup playoffs") where Montreal won in seven games. Montreal won all eight games during this year's regular season series.
 
 The Canadiens held off Boston winning the series in seven games. Montreal took the lead early in game one and never looked back in a 4–1 victory. The Bruins forced overtime in game two by scoring two third period goals before coming up short in the first overtime as [Alexei Kovalev](https://en.wikipedia.org/wiki/Alexei_Kovalev "Alexei Kovalev") ended the game with a power-play goal at 2:30 for Montreal. Boston forward [Marc Savard](https://en.wikipedia.org/wiki/Marc_Savard "Marc Savard") scored the overtime winner in a 2–1 game three victory; the win ended a 13-game losing streak against Montreal by the Bruins. [Patrice Brisebois](https://en.wikipedia.org/wiki/Patrice_Brisebois "Patrice Brisebois") scored the only goal of game four for the Canadiens and [Carey Price](https://en.wikipedia.org/wiki/Carey_Price "Carey Price") made 27 saves for his first career playoff shutout in a 1–0 win. Boston scored five unanswered goals in game five, including four goals in the third period as they extended the series with a 5–1 win. For the second game in a row the Bruins scored four times in the third period as they tied the series with a 5–4 victory. In game seven Montreal rebounded from the lackluster performances of their previous two games and eliminated Boston with a 5–0 win.
-
-  
 
 April 10
 
@@ -497,7 +485,7 @@ Boston Bruins
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030111" class="external text">Recap</a>
 
- 
+
 
 [Shane Hnidy](https://en.wikipedia.org/wiki/Shane_Hnidy "Shane Hnidy") (1) – 08:34
 
@@ -506,19 +494,19 @@ Boston Bruins
 00:34 – [Sergei Kostitsyn](https://en.wikipedia.org/wiki/Sergei_Kostitsyn "Sergei Kostitsyn") (1)  
 02:02 – [Andrei Kostitsyn](https://en.wikipedia.org/wiki/Andrei_Kostitsyn "Andrei Kostitsyn") (1)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
 05:16 – [Bryan Smolinski](https://en.wikipedia.org/wiki/Bryan_Smolinski "Bryan Smolinski") (1)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
 07:24 – [Tom Kostopoulos](https://en.wikipedia.org/wiki/Tom_Kostopoulos "Tom Kostopoulos") (1)
 
-[Tim Thomas](https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey) "Tim Thomas (ice hockey)") 28 saves / 32 shots
+[Tim Thomas](<https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey)> "Tim Thomas (ice hockey)") 28 saves / 32 shots
 
 **Goalie stats**
 
@@ -538,34 +526,34 @@ Boston Bruins
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030112" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
 18:30 – [Roman Hamrlik](https://en.wikipedia.org/wiki/Roman_Hamrlík "Roman Hamrlík") (1)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
 01:50 – [Sergei Kostitsyn](https://en.wikipedia.org/wiki/Sergei_Kostitsyn "Sergei Kostitsyn") (2)
 
-[Peter Schaefer](https://en.wikipedia.org/wiki/Peter_Schaefer_(ice_hockey) "Peter Schaefer (ice hockey)") (1) – 03:58  
-[David Krejci](https://en.wikipedia.org/wiki/David_Krejčí "David Krejčí") (1) – *pp* – 09:34
+[Peter Schaefer](<https://en.wikipedia.org/wiki/Peter_Schaefer_(ice_hockey)> "Peter Schaefer (ice hockey)") (1) – 03:58  
+[David Krejci](https://en.wikipedia.org/wiki/David_Krejčí "David Krejčí") (1) – _pp_ – 09:34
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **First overtime period**
 
-02:30 – *pp* – [Alexei Kovalev](https://en.wikipedia.org/wiki/Alexei_Kovalev "Alexei Kovalev") (1)
+02:30 – _pp_ – [Alexei Kovalev](https://en.wikipedia.org/wiki/Alexei_Kovalev "Alexei Kovalev") (1)
 
-[Tim Thomas](https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey) "Tim Thomas (ice hockey)") 28 saves / 31 shots
+[Tim Thomas](<https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey)> "Tim Thomas (ice hockey)") 28 saves / 31 shots
 
 **Goalie stats**
 
@@ -585,9 +573,9 @@ Montreal Canadiens
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030113" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
@@ -597,15 +585,15 @@ Montreal Canadiens
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **First overtime period**
 
@@ -615,7 +603,7 @@ Montreal Canadiens
 
 **Goalie stats**
 
-[Tim Thomas](https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey) "Tim Thomas (ice hockey)") 27 saves / 28 shots
+[Tim Thomas](<https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey)> "Tim Thomas (ice hockey)") 27 saves / 28 shots
 
 April 15
 
@@ -629,31 +617,31 @@ Boston Bruins
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030114" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-[Patrice Brisebois](https://en.wikipedia.org/wiki/Patrice_Brisebois "Patrice Brisebois") (1) – *pp* – 19:18
+[Patrice Brisebois](https://en.wikipedia.org/wiki/Patrice_Brisebois "Patrice Brisebois") (1) – _pp_ – 19:18
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Carey Price](https://en.wikipedia.org/wiki/Carey_Price "Carey Price") 27 saves / 27 shots
 
 **Goalie stats**
 
-[Tim Thomas](https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey) "Tim Thomas (ice hockey)") 27 saves / 28 shots
+[Tim Thomas](<https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey)> "Tim Thomas (ice hockey)") 27 saves / 28 shots
 
 April 17
 
@@ -667,30 +655,30 @@ Montreal Canadiens
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030115" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
 09:47 – [Alexei Kovalev](https://en.wikipedia.org/wiki/Alexei_Kovalev "Alexei Kovalev") (2)
 
-[Phil Kessel](https://en.wikipedia.org/wiki/Phil_Kessel "Phil Kessel") (1) – *pp* – 07:45
+[Phil Kessel](https://en.wikipedia.org/wiki/Phil_Kessel "Phil Kessel") (1) – _pp_ – 07:45
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
 [Glen Metropolit](https://en.wikipedia.org/wiki/Glen_Metropolit "Glen Metropolit") (1) – 03:31  
-[Zdeno Chara](https://en.wikipedia.org/wiki/Zdeno_Chára "Zdeno Chára") (1) – *pp* – 05:49  
-[Marco Sturm](https://en.wikipedia.org/wiki/Marco_Sturm "Marco Sturm") (1) – *sh* – 15:13  
+[Zdeno Chara](https://en.wikipedia.org/wiki/Zdeno_Chára "Zdeno Chára") (1) – _pp_ – 05:49  
+[Marco Sturm](https://en.wikipedia.org/wiki/Marco_Sturm "Marco Sturm") (1) – _sh_ – 15:13  
 [Vladimir Sobotka](https://en.wikipedia.org/wiki/Vladimír_Sobotka "Vladimír Sobotka") (1) – 17:48
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
-[Tim Thomas](https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey) "Tim Thomas (ice hockey)") 31 saves / 32 shots
+[Tim Thomas](<https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey)> "Tim Thomas (ice hockey)") 31 saves / 32 shots
 
 **Goalie stats**
 
@@ -708,13 +696,13 @@ Montreal Canadiens
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030116" class="external text">Recap</a>
 
- 
 
-[Chris Higgins](https://en.wikipedia.org/wiki/Chris_Higgins_(ice_hockey) "Chris Higgins (ice hockey)") (1) – 09:44
+
+[Chris Higgins](<https://en.wikipedia.org/wiki/Chris_Higgins_(ice_hockey)> "Chris Higgins (ice hockey)") (1) – 09:44
 
 **First period**
 
-*No scoring*
+_No scoring_
 
 [Tomas Plekanec](https://en.wikipedia.org/wiki/Tomáš_Plekanec "Tomáš Plekanec") (1) – 07:43
 
@@ -736,7 +724,7 @@ Chris Higgins (2) – 15:56
 
 **Goalie stats**
 
-[Tim Thomas](https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey) "Tim Thomas (ice hockey)") 31 saves / 35 shots
+[Tim Thomas](<https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey)> "Tim Thomas (ice hockey)") 31 saves / 35 shots
 
 April 21
 
@@ -750,45 +738,41 @@ Boston Bruins
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030117" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
 03:31 – [Mike Komisarek](https://en.wikipedia.org/wiki/Mike_Komisarek "Mike Komisarek") (1)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
 10:45 – [Mark Streit](https://en.wikipedia.org/wiki/Mark_Streit "Mark Streit") (1)  
 15:13 – [Andrei Kostitsyn](https://en.wikipedia.org/wiki/Andrei_Kostitsyn "Andrei Kostitsyn") (2)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-17:58 – *pp* – Andrei Kostitsyn (3)  
+17:58 – _pp_ – Andrei Kostitsyn (3)  
 19:52 – [Sergei Kostitsyn](https://en.wikipedia.org/wiki/Sergei_Kostitsyn "Sergei Kostitsyn") (3)
 
-[Tim Thomas](https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey) "Tim Thomas (ice hockey)") 30 saves / 35 shots
+[Tim Thomas](<https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey)> "Tim Thomas (ice hockey)") 30 saves / 35 shots
 
 **Goalie stats**
 
 [Carey Price](https://en.wikipedia.org/wiki/Carey_Price "Carey Price") 25 saves / 25 shots
 
-***Montreal won series 4–3***
-
-  
+**_Montreal won series 4–3_**
 
 #### <span id=".282.29_Pittsburgh_Penguins_vs._.287.29_Ottawa_Senators"></span><span id="(2)_Pittsburgh_Penguins_vs._(7)_Ottawa_Senators" class="mw-headline">(2) Pittsburgh Penguins vs. (7) Ottawa Senators</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=11 "Edit section: (2) Pittsburgh Penguins vs. (7) Ottawa Senators")<span class="mw-editsection-bracket">\]</span></span>
 
 The Pittsburgh Penguins entered the playoffs as the Atlantic Division champions, earning the second seed in the Eastern Conference with 102 points. Ottawa qualified as the seventh seed earning 94 points (winning the tie-breaker in total wins with Boston) during the regular season. This was the second playoff meeting between these two teams, with Ottawa winning the only previous series. They last met in the [previous year's Eastern Conference Quarterfinals](https://en.wikipedia.org/wiki/2007_Stanley_Cup_playoffs "2007 Stanley Cup playoffs") where Ottawa won in five games. Ottawa won three of the four games during this year's regular season series.
 
-The Penguins swept the Senators in four games. [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") made 26 saves and [Gary Roberts](https://en.wikipedia.org/wiki/Gary_Roberts_(ice_hockey) "Gary Roberts (ice hockey)") scored twice as the Penguins won game one by a score of 4–0. Penguins forward [Ryan Malone](https://en.wikipedia.org/wiki/Ryan_Malone "Ryan Malone") put Pittsburgh ahead again in game two after they blew a three-goal lead earlier in the game with a power-play goal at 18:58 of the third period; the Penguins held on for a 5–3 victory. [Sidney Crosby](https://en.wikipedia.org/wiki/Sidney_Crosby "Sidney Crosby")'s goal in the opening seconds of the third period of game three broke a 1–1 tie as Pittsburgh eventually won 4–1. Pittsburgh completed the series sweep in game four with a 3–1 win.
-
-  
+The Penguins swept the Senators in four games. [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") made 26 saves and [Gary Roberts](<https://en.wikipedia.org/wiki/Gary_Roberts_(ice_hockey)> "Gary Roberts (ice hockey)") scored twice as the Penguins won game one by a score of 4–0. Penguins forward [Ryan Malone](https://en.wikipedia.org/wiki/Ryan_Malone "Ryan Malone") put Pittsburgh ahead again in game two after they blew a three-goal lead earlier in the game with a power-play goal at 18:58 of the third period; the Penguins held on for a 5–3 victory. [Sidney Crosby](https://en.wikipedia.org/wiki/Sidney_Crosby "Sidney Crosby")'s goal in the opening seconds of the third period of game three broke a 1–1 tie as Pittsburgh eventually won 4–1. Pittsburgh completed the series sweep in game four with a 3–1 win.
 
 April 9
 
@@ -802,27 +786,27 @@ Ottawa Senators
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030121" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-01:08 – [Gary Roberts](https://en.wikipedia.org/wiki/Gary_Roberts_(ice_hockey) "Gary Roberts (ice hockey)") (1)  
+01:08 – [Gary Roberts](<https://en.wikipedia.org/wiki/Gary_Roberts_(ice_hockey)> "Gary Roberts (ice hockey)") (1)  
 12:28 – [Petr Sykora](https://en.wikipedia.org/wiki/Petr_Sýkora "Petr Sýkora") (1)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
 13:58 – [Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin") (1)  
-18:25 – *pp* – Gary Roberts (2)
+18:25 – _pp_ – Gary Roberts (2)
 
 [Martin Gerber](https://en.wikipedia.org/wiki/Martin_Gerber "Martin Gerber") 31 saves / 35 shots
 
@@ -842,28 +826,28 @@ Ottawa Senators
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030122" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-16:10 – *pp* – [Sergei Gonchar](https://en.wikipedia.org/wiki/Sergei_Gonchar "Sergei Gonchar") (1)
+16:10 – _pp_ – [Sergei Gonchar](https://en.wikipedia.org/wiki/Sergei_Gonchar "Sergei Gonchar") (1)
 
 [Shean Donovan](https://en.wikipedia.org/wiki/Shean_Donovan "Shean Donovan") (1) – 11:25  
-[Cory Stillman](https://en.wikipedia.org/wiki/Cory_Stillman "Cory Stillman") (1) – *pp* – 16:11
+[Cory Stillman](https://en.wikipedia.org/wiki/Cory_Stillman "Cory Stillman") (1) – _pp_ – 16:11
 
 **Second period**
 
-05:22 – *pp* – [Petr Sykora](https://en.wikipedia.org/wiki/Petr_Sýkora "Petr Sýkora") (2)  
+05:22 – _pp_ – [Petr Sykora](https://en.wikipedia.org/wiki/Petr_Sýkora "Petr Sýkora") (2)  
 10:52 – Petr Sykora (3)
 
 [Cody Bass](https://en.wikipedia.org/wiki/Cody_Bass "Cody Bass") (1) – 08:51
 
 **Third period**
 
-18:58 – *pp* – [Ryan Malone](https://en.wikipedia.org/wiki/Ryan_Malone "Ryan Malone") (1)  
-19:53 – *en* – Ryan Malone (2)
+18:58 – _pp_ – [Ryan Malone](https://en.wikipedia.org/wiki/Ryan_Malone "Ryan Malone") (1)  
+19:53 – _en_ – Ryan Malone (2)
 
 [Martin Gerber](https://en.wikipedia.org/wiki/Martin_Gerber "Martin Gerber") 49 saves / 53 shots
 
@@ -883,13 +867,13 @@ Ottawa Senators
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030123" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
 [Max Talbot](https://en.wikipedia.org/wiki/Maxime_Talbot "Maxime Talbot") (1) – 05:39
 
@@ -899,11 +883,11 @@ Ottawa Senators
 
 [Sidney Crosby](https://en.wikipedia.org/wiki/Sidney_Crosby "Sidney Crosby") (1) – 00:12  
 [Jordan Staal](https://en.wikipedia.org/wiki/Jordan_Staal "Jordan Staal") (1) – 01:30  
-[Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (1) – *pp* – 08:55
+[Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (1) – _pp_ – 08:55
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") 33 saves / 34 shots
 
@@ -923,26 +907,26 @@ Ottawa Senators
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030124" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-[Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin") (2) – *pp* – 01:40  
+[Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin") (2) – _pp_ – 01:40  
 [Jarkko Ruutu](https://en.wikipedia.org/wiki/Jarkko_Ruutu "Jarkko Ruutu") (1) – 15:28
 
 **Second period**
 
 10:31 – [Cory Stillman](https://en.wikipedia.org/wiki/Cory_Stillman "Cory Stillman") (2)
 
-[Sidney Crosby](https://en.wikipedia.org/wiki/Sidney_Crosby "Sidney Crosby") (2) – *en* – 19:52
+[Sidney Crosby](https://en.wikipedia.org/wiki/Sidney_Crosby "Sidney Crosby") (2) – _en_ – 19:52
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") 21 saves / 22 shots
 
@@ -950,17 +934,13 @@ Ottawa Senators
 
 [Martin Gerber](https://en.wikipedia.org/wiki/Martin_Gerber "Martin Gerber") 31 saves / 33 shots
 
-***Pittsburgh won series 4–0***
-
-  
+**_Pittsburgh won series 4–0_**
 
 #### <span id=".283.29_Washington_Capitals_vs._.286.29_Philadelphia_Flyers"></span><span id="(3)_Washington_Capitals_vs._(6)_Philadelphia_Flyers" class="mw-headline">(3) Washington Capitals vs. (6) Philadelphia Flyers</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=12 "Edit section: (3) Washington Capitals vs. (6) Philadelphia Flyers")<span class="mw-editsection-bracket">\]</span></span>
 
 The Washington Capitals entered the playoffs as the Southeast Division champions, earning the third seed in the Eastern Conference with 94 points. Philadelphia qualified as the sixth seed earning 95 points during the regular season. This was the fourth playoff meeting between these two teams, with Washington winning the two of the three previous series. They last met in the [1989 Patrick Division Semifinals](https://en.wikipedia.org/wiki/1989_Stanley_Cup_playoffs "1989 Stanley Cup playoffs") where Philadelphia won in six games. Philadelphia won this year's four-game regular season series earning five of eight points.
 
-The Flyers held off the Capitals in a seven-game series. Washington scored three times in the third period of game one as they overcame a two-goal deficit before [Alexander Ovechkin](https://en.wikipedia.org/wiki/Alexander_Ovechkin "Alexander Ovechkin") scored the game-winner for the Capitals with just over four and a half minutes remaining in regulation time. [Martin Biron](https://en.wikipedia.org/wiki/Martin_Biron "Martin Biron") made 24 saves as the Flyers won game two 2–0. The Flyers broke game three open with two goals just 17 seconds apart in the first period as they went on to win by a final score of 6–3. Philadelphia forward [Mike Knuble](https://en.wikipedia.org/wiki/Mike_Knuble "Mike Knuble") ended game four at 6:40 of the second overtime period as the Flyers took a 3–1 series lead. [Sergei Fedorov](https://en.wikipedia.org/wiki/Sergei_Fedorov "Sergei Fedorov") and [Mike Green](https://en.wikipedia.org/wiki/Mike_Green_(ice_hockey,_born_1985) "Mike Green (ice hockey, born 1985)") each recorded two points for Washington as they extended the series with a 3–2 victory. The Flyers took a two-goal lead early in the second period of game six before the Capitals responded with four unanswered goals to force a seventh and deciding game. Flyers goaltender Martin Biron made 39 saves in game seven and [Joffrey Lupul](https://en.wikipedia.org/wiki/Joffrey_Lupul "Joffrey Lupul") scored a power-play goal in the first overtime as the Flyers advanced to the Conference Semifinals.
-
-  
+The Flyers held off the Capitals in a seven-game series. Washington scored three times in the third period of game one as they overcame a two-goal deficit before [Alexander Ovechkin](https://en.wikipedia.org/wiki/Alexander_Ovechkin "Alexander Ovechkin") scored the game-winner for the Capitals with just over four and a half minutes remaining in regulation time. [Martin Biron](https://en.wikipedia.org/wiki/Martin_Biron "Martin Biron") made 24 saves as the Flyers won game two 2–0. The Flyers broke game three open with two goals just 17 seconds apart in the first period as they went on to win by a final score of 6–3. Philadelphia forward [Mike Knuble](https://en.wikipedia.org/wiki/Mike_Knuble "Mike Knuble") ended game four at 6:40 of the second overtime period as the Flyers took a 3–1 series lead. [Sergei Fedorov](https://en.wikipedia.org/wiki/Sergei_Fedorov "Sergei Fedorov") and [Mike Green](<https://en.wikipedia.org/wiki/Mike_Green_(ice_hockey,_born_1985)> "Mike Green (ice hockey, born 1985)") each recorded two points for Washington as they extended the series with a 3–2 victory. The Flyers took a two-goal lead early in the second period of game six before the Capitals responded with four unanswered goals to force a seventh and deciding game. Flyers goaltender Martin Biron made 39 saves in game seven and [Joffrey Lupul](https://en.wikipedia.org/wiki/Joffrey_Lupul "Joffrey Lupul") scored a power-play goal in the first overtime as the Flyers advanced to the Conference Semifinals.
 
 April 11
 
@@ -974,7 +954,7 @@ Philadelphia Flyers
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030131.HTM" class="external text">Recap</a>
 
- 
+
 
 [Vaclav Prospal](https://en.wikipedia.org/wiki/Václav_Prospal "Václav Prospal") (1) – 08:17
 
@@ -984,18 +964,18 @@ Philadelphia Flyers
 
 [Daniel Briere](https://en.wikipedia.org/wiki/Daniel_Brière "Daniel Brière") (1) – 11:46  
 Vaclav Prospal (2) – 12:19  
-Daniel Briere (2) – *pp* – 15:22
+Daniel Briere (2) – _pp_ – 15:22
 
 **Second period**
 
 04:08 – [Dave Steckel](https://en.wikipedia.org/wiki/Dave_Steckel "Dave Steckel") (1)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-01:50 – [Mike Green](https://en.wikipedia.org/wiki/Mike_Green_(ice_hockey,_born_1985) "Mike Green (ice hockey, born 1985)") (1)  
-06:26 – *pp* – Mike Green (2)  
+01:50 – [Mike Green](<https://en.wikipedia.org/wiki/Mike_Green_(ice_hockey,_born_1985)> "Mike Green (ice hockey, born 1985)") (1)  
+06:26 – _pp_ – Mike Green (2)  
 15:28 – [Alexander Ovechkin](https://en.wikipedia.org/wiki/Alexander_Ovechkin "Alexander Ovechkin") (1)
 
 [Martin Biron](https://en.wikipedia.org/wiki/Martin_Biron "Martin Biron") 22 saves / 27 shots
@@ -1016,26 +996,26 @@ Washington Capitals
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030132.HTM" class="external text">Recap</a>
 
- 
+
 
 [R. J. Umberger](https://en.wikipedia.org/wiki/R._J._Umberger "R. J. Umberger") (1) – 05:53  
 [Jeff Carter](https://en.wikipedia.org/wiki/Jeff_Carter "Jeff Carter") (1) – 15:17
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Martin Biron](https://en.wikipedia.org/wiki/Martin_Biron "Martin Biron") 24 saves / 24 shots
 
@@ -1055,7 +1035,7 @@ Washington Capitals
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030133.HTM" class="external text">Recap</a>
 
- 
+
 
 [Eric Fehr](https://en.wikipedia.org/wiki/Eric_Fehr "Eric Fehr") (1) – 17:21
 
@@ -1065,18 +1045,18 @@ Washington Capitals
 18:26 – [Scott Hartnell](https://en.wikipedia.org/wiki/Scott_Hartnell "Scott Hartnell") (1)  
 18:43 – [Sami Kapanen](https://en.wikipedia.org/wiki/Sami_Kapanen "Sami Kapanen") (1)
 
-[Mike Green](https://en.wikipedia.org/wiki/Mike_Green_(ice_hockey,_born_1985) "Mike Green (ice hockey, born 1985)") (3) – *pp* – 07:28
+[Mike Green](<https://en.wikipedia.org/wiki/Mike_Green_(ice_hockey,_born_1985)> "Mike Green (ice hockey, born 1985)") (3) – _pp_ – 07:28
 
 **Second period**
 
-19:50 – *pp* – Daniel Briere (4)
+19:50 – _pp_ – Daniel Briere (4)
 
 [Brooks Laich](https://en.wikipedia.org/wiki/Brooks_Laich "Brooks Laich") (1) – 15:26
 
 **Third period**
 
-17:01 – *ps* – [Mike Richards](https://en.wikipedia.org/wiki/Mike_Richards_(ice_hockey) "Mike Richards (ice hockey)") (1)  
-18:55 – *en* – [Mike Knuble](https://en.wikipedia.org/wiki/Mike_Knuble "Mike Knuble") (1)
+17:01 – _ps_ – [Mike Richards](<https://en.wikipedia.org/wiki/Mike_Richards_(ice_hockey)> "Mike Richards (ice hockey)") (1)  
+18:55 – _en_ – [Mike Knuble](https://en.wikipedia.org/wiki/Mike_Knuble "Mike Knuble") (1)
 
 [Cristobal Huet](https://en.wikipedia.org/wiki/Cristobal_Huet "Cristobal Huet") 27 saves / 32 shots
 
@@ -1098,10 +1078,10 @@ Washington Capitals
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030134.HTM" class="external text">Recap</a>
 
- 
 
-[Nicklas Backstrom](https://en.wikipedia.org/wiki/Nicklas_Bäckström "Nicklas Bäckström") (1) – *pp* – 02:41  
-[Alexander Semin](https://en.wikipedia.org/wiki/Alexander_Semin "Alexander Semin") (1) – *pp* – 12:59
+
+[Nicklas Backstrom](https://en.wikipedia.org/wiki/Nicklas_Bäckström "Nicklas Bäckström") (1) – _pp_ – 02:41  
+[Alexander Semin](https://en.wikipedia.org/wiki/Alexander_Semin "Alexander Semin") (1) – _pp_ – 12:59
 
 **First period**
 
@@ -1112,15 +1092,15 @@ Washington Capitals
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-10:01 – *pp* – [Daniel Briere](https://en.wikipedia.org/wiki/Daniel_Brière "Daniel Brière") (5)
+10:01 – _pp_ – [Daniel Briere](https://en.wikipedia.org/wiki/Daniel_Brière "Daniel Brière") (5)
 
-*No scoring*
+_No scoring_
 
 **Second overtime period**
 
@@ -1144,15 +1124,15 @@ Philadelphia Flyers
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030135.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-07:31 – *pp* – [Nicklas Backstrom](https://en.wikipedia.org/wiki/Nicklas_Bäckström "Nicklas Bäckström") (2)
+07:31 – _pp_ – [Nicklas Backstrom](https://en.wikipedia.org/wiki/Nicklas_Bäckström "Nicklas Bäckström") (2)
 
-[Vaclav Prospal](https://en.wikipedia.org/wiki/Václav_Prospal "Václav Prospal") (3) – *pp* – 12:35
+[Vaclav Prospal](https://en.wikipedia.org/wiki/Václav_Prospal "Václav Prospal") (3) – _pp_ – 12:35
 
 **Second period**
 
@@ -1162,7 +1142,7 @@ Philadelphia Flyers
 
 **Third period**
 
-14:33 – *pp* – [Alexander Semin](https://en.wikipedia.org/wiki/Alexander_Semin "Alexander Semin") (2)
+14:33 – _pp_ – [Alexander Semin](https://en.wikipedia.org/wiki/Alexander_Semin "Alexander Semin") (2)
 
 [Martin Biron](https://en.wikipedia.org/wiki/Martin_Biron "Martin Biron") 23 saves / 26 shots
 
@@ -1182,27 +1162,27 @@ Philadelphia Flyers
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030136.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-03:49 – *pp* – [Mike Richards](https://en.wikipedia.org/wiki/Mike_Richards_(ice_hockey) "Mike Richards (ice hockey)") (2)
+03:49 – _pp_ – [Mike Richards](<https://en.wikipedia.org/wiki/Mike_Richards_(ice_hockey)> "Mike Richards (ice hockey)") (2)
 
 [Nicklas Backstrom](https://en.wikipedia.org/wiki/Nicklas_Bäckström "Nicklas Bäckström") (3) – 09:34  
 [Alexander Semin](https://en.wikipedia.org/wiki/Alexander_Semin "Alexander Semin") (3) – 18:03
 
 **Second period**
 
-01:18 – *pp* – [Daniel Briere](https://en.wikipedia.org/wiki/Daniel_Brière "Daniel Brière") (6)
+01:18 – _pp_ – [Daniel Briere](https://en.wikipedia.org/wiki/Daniel_Brière "Daniel Brière") (6)
 
 [Alexander Ovechkin](https://en.wikipedia.org/wiki/Alexander_Ovechkin "Alexander Ovechkin") (2) – 02:46  
-Alexander Ovechkin (3) – *pp* – 10:41
+Alexander Ovechkin (3) – _pp_ – 10:41
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Cristobal Huet](https://en.wikipedia.org/wiki/Cristobal_Huet "Cristobal Huet") 33 saves / 35 shots
 
@@ -1224,13 +1204,13 @@ Washington Capitals
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030137.HTM" class="external text">Recap</a>
 
- 
 
-[Scottie Upshall](https://en.wikipedia.org/wiki/Scottie_Upshall "Scottie Upshall") (1) – *pp* – 15:38
+
+[Scottie Upshall](https://en.wikipedia.org/wiki/Scottie_Upshall "Scottie Upshall") (1) – _pp_ – 15:38
 
 **First period**
 
-05:42 – *pp* – [Nicklas Backstrom](https://en.wikipedia.org/wiki/Nicklas_Bäckström "Nicklas Bäckström") (4)
+05:42 – _pp_ – [Nicklas Backstrom](https://en.wikipedia.org/wiki/Nicklas_Bäckström "Nicklas Bäckström") (4)
 
 [Sami Kapanen](https://en.wikipedia.org/wiki/Sami_Kapanen "Sami Kapanen") (2) – 09:47
 
@@ -1238,17 +1218,17 @@ Washington Capitals
 
 15:29 – [Alexander Ovechkin](https://en.wikipedia.org/wiki/Alexander_Ovechkin "Alexander Ovechkin") (4)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
-[Joffrey Lupul](https://en.wikipedia.org/wiki/Joffrey_Lupul "Joffrey Lupul") (1) – *pp* – 06:06
+[Joffrey Lupul](https://en.wikipedia.org/wiki/Joffrey_Lupul "Joffrey Lupul") (1) – _pp_ – 06:06
 
 **First overtime period**
 
-*No scoring*
+_No scoring_
 
 [Martin Biron](https://en.wikipedia.org/wiki/Martin_Biron "Martin Biron") 39 saves / 41 shots
 
@@ -1256,17 +1236,13 @@ Washington Capitals
 
 [Cristobal Huet](https://en.wikipedia.org/wiki/Cristobal_Huet "Cristobal Huet") 31 saves / 34 shots
 
-***Philadelphia won series 4–3***
-
-  
+**_Philadelphia won series 4–3_**
 
 #### <span id=".284.29_New_Jersey_Devils_vs._.285.29_New_York_Rangers"></span><span id="(4)_New_Jersey_Devils_vs._(5)_New_York_Rangers" class="mw-headline">(4) New Jersey Devils vs. (5) New York Rangers</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=13 "Edit section: (4) New Jersey Devils vs. (5) New York Rangers")<span class="mw-editsection-bracket">\]</span></span>
 
 The New Jersey Devils entered the playoffs as the fourth seed in the Eastern Conference with 99 points. New York qualified as the fifth seed earning 97 points during the regular season. This was the fifth playoff meeting between these two teams, with the Rangers winning three of the four previous series. They last met in the [2006 Eastern Conference Quarterfinals](https://en.wikipedia.org/wiki/2006_Stanley_Cup_playoffs "2006 Stanley Cup playoffs") where New Jersey won in four games. New York won seven of the eight games during this year's regular season series.
 
-The Rangers defeated the Devils in five games. [Scott Gomez](https://en.wikipedia.org/wiki/Scott_Gomez "Scott Gomez") had three assists in game one as the Rangers won 4–1. New York scored twice in 23 seconds to break a scoreless tie in the third period of game two and [Henrik Lundqvist](https://en.wikipedia.org/wiki/Henrik_Lundqvist "Henrik Lundqvist") allowed one goal against for the second consecutive game as the Rangers took a 2–0 series lead. During the second period of game three while on a two-man advantage, the Rangers' [Sean Avery](https://en.wikipedia.org/wiki/Sean_Avery "Sean Avery") tried to screen New Jersey goaltender [Martin Brodeur](https://en.wikipedia.org/wiki/Martin_Brodeur "Martin Brodeur") by waving his hands and stick while facing Brodeur. Devils forward [John Madden](https://en.wikipedia.org/wiki/John_Madden_(ice_hockey) "John Madden (ice hockey)") ended the game at 6:01 of the first overtime in a 4–3 New Jersey victory. After the game the NHL issued an interpretation of the League's rules, stating that an unsportsmanlike conduct minor penalty would be called on actions such as the one used by Avery.<sup>[\[2\]](#cite_note-ESPNAmendedRule-2)</sup> [Marc Staal](https://en.wikipedia.org/wiki/Marc_Staal "Marc Staal") broke a 3–3 tie for the Rangers late in third period of game four as New York took a 3–1 series lead. Rangers forward [Jaromir Jagr](https://en.wikipedia.org/wiki/Jaromír_Jágr "Jaromír Jágr") had a goal and two assists as New York finished off the Devils in game five with a 5–3 win.
-
-  
+The Rangers defeated the Devils in five games. [Scott Gomez](https://en.wikipedia.org/wiki/Scott_Gomez "Scott Gomez") had three assists in game one as the Rangers won 4–1. New York scored twice in 23 seconds to break a scoreless tie in the third period of game two and [Henrik Lundqvist](https://en.wikipedia.org/wiki/Henrik_Lundqvist "Henrik Lundqvist") allowed one goal against for the second consecutive game as the Rangers took a 2–0 series lead. During the second period of game three while on a two-man advantage, the Rangers' [Sean Avery](https://en.wikipedia.org/wiki/Sean_Avery "Sean Avery") tried to screen New Jersey goaltender [Martin Brodeur](https://en.wikipedia.org/wiki/Martin_Brodeur "Martin Brodeur") by waving his hands and stick while facing Brodeur. Devils forward [John Madden](<https://en.wikipedia.org/wiki/John_Madden_(ice_hockey)> "John Madden (ice hockey)") ended the game at 6:01 of the first overtime in a 4–3 New Jersey victory. After the game the NHL issued an interpretation of the League's rules, stating that an unsportsmanlike conduct minor penalty would be called on actions such as the one used by Avery.<sup>[\[2\]](#cite_note-ESPNAmendedRule-2)</sup> [Marc Staal](https://en.wikipedia.org/wiki/Marc_Staal "Marc Staal") broke a 3–3 tie for the Rangers late in third period of game four as New York took a 3–1 series lead. Rangers forward [Jaromir Jagr](https://en.wikipedia.org/wiki/Jaromír_Jágr "Jaromír Jágr") had a goal and two assists as New York finished off the Devils in game five with a 5–3 win.
 
 April 9
 
@@ -1280,27 +1256,27 @@ New Jersey Devils
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030141.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
 [Brendan Shanahan](https://en.wikipedia.org/wiki/Brendan_Shanahan "Brendan Shanahan") (1) – 01:45
 
 **Second period**
 
-14:14 – *pp* – [Paul Martin](https://en.wikipedia.org/wiki/Paul_Martin_(ice_hockey) "Paul Martin (ice hockey)") (1)
+14:14 – _pp_ – [Paul Martin](<https://en.wikipedia.org/wiki/Paul_Martin_(ice_hockey)> "Paul Martin (ice hockey)") (1)
 
-[Ryan Callahan](https://en.wikipedia.org/wiki/Ryan_Callahan "Ryan Callahan") (1) – *sh* – 07:23  
+[Ryan Callahan](https://en.wikipedia.org/wiki/Ryan_Callahan "Ryan Callahan") (1) – _sh_ – 07:23  
 [Sean Avery](https://en.wikipedia.org/wiki/Sean_Avery "Sean Avery") (1) – 17:07  
-[Nigel Dawes](https://en.wikipedia.org/wiki/Nigel_Dawes "Nigel Dawes") (1) – *en* – 19:55
+[Nigel Dawes](https://en.wikipedia.org/wiki/Nigel_Dawes "Nigel Dawes") (1) – _en_ – 19:55
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Henrik Lundqvist](https://en.wikipedia.org/wiki/Henrik_Lundqvist "Henrik Lundqvist") 26 saves / 27 shots
 
@@ -1320,26 +1296,26 @@ New Jersey Devils
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030142.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
 [Jaromir Jagr](https://en.wikipedia.org/wiki/Jaromír_Jágr "Jaromír Jágr") (1) – 04:26  
 [Sean Avery](https://en.wikipedia.org/wiki/Sean_Avery "Sean Avery") (2) – 04:49
 
 **Third period**
 
-18:37 – [John Madden](https://en.wikipedia.org/wiki/John_Madden_(ice_hockey) "John Madden (ice hockey)") (1)
+18:37 – [John Madden](<https://en.wikipedia.org/wiki/John_Madden_(ice_hockey)> "John Madden (ice hockey)") (1)
 
 [Henrik Lundqvist](https://en.wikipedia.org/wiki/Henrik_Lundqvist "Henrik Lundqvist") 26 saves / 27 shots
 
@@ -1361,7 +1337,7 @@ New York Rangers
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030143.HTM" class="external text">Recap</a>
 
- 
+
 
 [Sergei Brylin](https://en.wikipedia.org/wiki/Sergei_Brylin "Sergei Brylin") (1) – 03:01
 
@@ -1369,24 +1345,24 @@ New York Rangers
 
 12:17 – [Brandon Dubinsky](https://en.wikipedia.org/wiki/Brandon_Dubinsky "Brandon Dubinsky") (1)
 
-[Patrik Elias](https://en.wikipedia.org/wiki/Patrik_Eliáš "Patrik Eliáš") (1) – *pp* – 12:56  
-[Zach Parise](https://en.wikipedia.org/wiki/Zach_Parise "Zach Parise") (1) – *pp* – 15:19
+[Patrik Elias](https://en.wikipedia.org/wiki/Patrik_Eliáš "Patrik Eliáš") (1) – _pp_ – 12:56  
+[Zach Parise](https://en.wikipedia.org/wiki/Zach_Parise "Zach Parise") (1) – _pp_ – 15:19
 
 **Second period**
 
-06:50 – *pp* – [Sean Avery](https://en.wikipedia.org/wiki/Sean_Avery "Sean Avery") (3)
+06:50 – _pp_ – [Sean Avery](https://en.wikipedia.org/wiki/Sean_Avery "Sean Avery") (3)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-00:55 – *pp* – Brandon Dubinsky (2)
+00:55 – _pp_ – Brandon Dubinsky (2)
 
-[John Madden](https://en.wikipedia.org/wiki/John_Madden_(ice_hockey) "John Madden (ice hockey)") (2) – 06:01
+[John Madden](<https://en.wikipedia.org/wiki/John_Madden_(ice_hockey)> "John Madden (ice hockey)") (2) – 06:01
 
 **First overtime period**
 
-*No scoring*
+_No scoring_
 
 [Martin Brodeur](https://en.wikipedia.org/wiki/Martin_Brodeur "Martin Brodeur") 27 saves / 30 shots
 
@@ -1406,16 +1382,16 @@ New Jersey Devils
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030144.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-12:37 – *pp* – [Scott Gomez](https://en.wikipedia.org/wiki/Scott_Gomez "Scott Gomez") (1)
+12:37 – _pp_ – [Scott Gomez](https://en.wikipedia.org/wiki/Scott_Gomez "Scott Gomez") (1)
 
 [Patrik Elias](https://en.wikipedia.org/wiki/Patrik_Eliáš "Patrik Eliáš") (2) – 00:31  
-Patrik Elias (3) – *pp* – 06:58
+Patrik Elias (3) – _pp_ – 06:58
 
 **Second period**
 
@@ -1427,7 +1403,7 @@ Patrik Elias (3) – *pp* – 06:58
 **Third period**
 
 16:47 – [Marc Staal](https://en.wikipedia.org/wiki/Marc_Staal "Marc Staal") (1)  
-19:47 – *en* – Scott Gomez (2)
+19:47 – _en_ – Scott Gomez (2)
 
 [Martin Brodeur](https://en.wikipedia.org/wiki/Martin_Brodeur "Martin Brodeur") 34 saves / 38 shots
 
@@ -1447,10 +1423,10 @@ New Jersey Devils
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030145.HTM" class="external text">Recap</a>
 
- 
+
 
 [Michal Rozsival](https://en.wikipedia.org/wiki/Michal_Rozsíval "Michal Rozsíval") (1) – 04:58  
-[Jaromir Jagr](https://en.wikipedia.org/wiki/Jaromír_Jágr "Jaromír Jágr") (2) – *pp* – 06:38  
+[Jaromir Jagr](https://en.wikipedia.org/wiki/Jaromír_Jágr "Jaromír Jágr") (2) – _pp_ – 06:38  
 [Scott Gomez](https://en.wikipedia.org/wiki/Scott_Gomez "Scott Gomez") (3) – 18:01
 
 **First period**
@@ -1462,13 +1438,13 @@ New Jersey Devils
 **Second period**
 
 09:26 – [Bryce Salvador](https://en.wikipedia.org/wiki/Bryce_Salvador "Bryce Salvador") (1)  
-13:50 – *pp* – [Patrik Elias](https://en.wikipedia.org/wiki/Patrik_Eliáš "Patrik Eliáš") (4)
+13:50 – _pp_ – [Patrik Elias](https://en.wikipedia.org/wiki/Patrik_Eliáš "Patrik Eliáš") (4)
 
-[Brandon Dubinsky](https://en.wikipedia.org/wiki/Brandon_Dubinsky "Brandon Dubinsky") (3) – *en* – 19:00
+[Brandon Dubinsky](https://en.wikipedia.org/wiki/Brandon_Dubinsky "Brandon Dubinsky") (3) – _en_ – 19:00
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Henrik Lundqvist](https://en.wikipedia.org/wiki/Henrik_Lundqvist "Henrik Lundqvist") 23 saves / 26 shots
 
@@ -1476,9 +1452,7 @@ New Jersey Devils
 
 [Martin Brodeur](https://en.wikipedia.org/wiki/Martin_Brodeur "Martin Brodeur") 18 saves / 22 shots
 
-***New York won series 4–1***
-
-  
+**_New York won series 4–1_**
 
 ### <span id="Western_Conference_Quarterfinals" class="mw-headline">Western Conference Quarterfinals</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=14 "Edit section: Western Conference Quarterfinals")<span class="mw-editsection-bracket">\]</span></span>
 
@@ -1487,8 +1461,6 @@ New Jersey Devils
 The Detroit Red Wings entered the playoffs as the Presidents' Trophy winners, the Western Conference regular season and Central Division champions with 115 points. Nashville qualified as the eighth seed earning 91 points during the regular season. This was the second playoff meeting between these two teams, with Detroit winning the only previous series. They last met in the [2004 Western Conference Quarterfinals](https://en.wikipedia.org/wiki/2004_Stanley_Cup_playoffs "2004 Stanley Cup playoffs") where Detroit won in six games. Detroit won five of the eight games during this year's regular season series.
 
 The Red Wings defeated Nashville in six games. Nashville goaltender [Dan Ellis](https://en.wikipedia.org/wiki/Dan_Ellis "Dan Ellis") made 37 saves in a losing effort and [Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") scored twice in the third period for the Red Wings as Detroit took game one by a final score of 3–1. Detroit forward [Kris Draper](https://en.wikipedia.org/wiki/Kris_Draper "Kris Draper") broke the tie early in the second period of game two as the Red Wings won 4–2. Nashville scored two goals just nine seconds apart late in game three as [Jason Arnott](https://en.wikipedia.org/wiki/Jason_Arnott "Jason Arnott") scored the game-winning goal in a 5–3 Predators victory. Red Wings goaltender [Dominik Hasek](https://en.wikipedia.org/wiki/Dominik_Hašek "Dominik Hašek") was pulled in the second period of game four after allowing three goals; he was replaced by [Chris Osgood](https://en.wikipedia.org/wiki/Chris_Osgood "Chris Osgood") for the remainder of the series, the Predators evened the series with a 3–2 win. [Johan Franzen](https://en.wikipedia.org/wiki/Johan_Franzén "Johan Franzén") ended game five 1:48 into the first overtime as the Red Wings took a 2–1 victory. Detroit eliminated the Predators with a 20 save shutout from Chris Osgood in a 3–0 win in game six.
-
-  
 
 April 10
 
@@ -1502,9 +1474,9 @@ Nashville Predators
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030151" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
@@ -1514,14 +1486,14 @@ Nashville Predators
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
 06:54 – [Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (1)  
-19:41 – *en* – Henrik Zetterberg (2)
+19:41 – _en_ – Henrik Zetterberg (2)
 
 [Dan Ellis](https://en.wikipedia.org/wiki/Dan_Ellis "Dan Ellis") 37 saves / 39 shots
 
@@ -1541,23 +1513,23 @@ Nashville Predators
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030152" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
 02:26 – [Darren McCarty](https://en.wikipedia.org/wiki/Darren_McCarty "Darren McCarty") (1)
 
-[Alexander Radulov](https://en.wikipedia.org/wiki/Alexander_Radulov "Alexander Radulov") (1) – *pp* – 02:19  
+[Alexander Radulov](https://en.wikipedia.org/wiki/Alexander_Radulov "Alexander Radulov") (1) – _pp_ – 02:19  
 [Jordin Tootoo](https://en.wikipedia.org/wiki/Jordin_Tootoo "Jordin Tootoo") (2) – 02:30
 
 **Second period**
 
-00:39 – *pp* – [Nicklas Lidstrom](https://en.wikipedia.org/wiki/Nicklas_Lidström "Nicklas Lidström") (1)  
+00:39 – _pp_ – [Nicklas Lidstrom](https://en.wikipedia.org/wiki/Nicklas_Lidström "Nicklas Lidström") (1)  
 05:00 – [Kris Draper](https://en.wikipedia.org/wiki/Kris_Draper "Kris Draper") (1)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
@@ -1581,15 +1553,15 @@ Detroit Red Wings
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030153" class="external text">Recap</a>
 
- 
+
 
 [Kris Draper](https://en.wikipedia.org/wiki/Kris_Draper "Kris Draper") (2) – 08:56
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-[Jiri Hudler](https://en.wikipedia.org/wiki/Jiří_Hudler "Jiří Hudler") (1) – *pp* – 09:12
+[Jiri Hudler](https://en.wikipedia.org/wiki/Jiří_Hudler "Jiří Hudler") (1) – _pp_ – 09:12
 
 **Second period**
 
@@ -1602,7 +1574,7 @@ Detroit Red Wings
 
 16:03 – [Ryan Suter](https://en.wikipedia.org/wiki/Ryan_Suter "Ryan Suter") (1)  
 16:12 – [Jason Arnott](https://en.wikipedia.org/wiki/Jason_Arnott "Jason Arnott") (1)  
-19:39 – *en* – [Martin Erat](https://en.wikipedia.org/wiki/Martin_Erat "Martin Erat") (1)
+19:39 – _en_ – [Martin Erat](https://en.wikipedia.org/wiki/Martin_Erat "Martin Erat") (1)
 
 [Dominik Hasek](https://en.wikipedia.org/wiki/Dominik_Hašek "Dominik Hašek") 24 saves / 28 shots
 
@@ -1622,16 +1594,16 @@ Detroit Red Wings
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030154" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-05:18 – *pp* – [Dan Hamhuis](https://en.wikipedia.org/wiki/Dan_Hamhuis "Dan Hamhuis") (1)  
+05:18 – _pp_ – [Dan Hamhuis](https://en.wikipedia.org/wiki/Dan_Hamhuis "Dan Hamhuis") (1)  
 05:50 – [Shea Weber](https://en.wikipedia.org/wiki/Shea_Weber "Shea Weber") (1)
 
-[Pavel Datsyuk](https://en.wikipedia.org/wiki/Pavel_Datsyuk "Pavel Datsyuk") (2) – *pp* – 06:24
+[Pavel Datsyuk](https://en.wikipedia.org/wiki/Pavel_Datsyuk "Pavel Datsyuk") (2) – _pp_ – 06:24
 
 **Second period**
 
@@ -1641,7 +1613,7 @@ Pavel Datsyuk (3) – 03:23
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Dominik Hasek](https://en.wikipedia.org/wiki/Dominik_Hašek "Dominik Hašek") 11 saves / 14 shots  
 [Chris Osgood](https://en.wikipedia.org/wiki/Chris_Osgood "Chris Osgood") 13 saves / 13 shots
@@ -1664,27 +1636,27 @@ Nashville Predators
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030155" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
 04:20 – [Valtteri Filppula](https://en.wikipedia.org/wiki/Valtteri_Filppula "Valtteri Filppula") (1)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
 [Radek Bonk](https://en.wikipedia.org/wiki/Radek_Bonk "Radek Bonk") (1) – 19:16
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **First overtime period**
 
@@ -1708,26 +1680,26 @@ Nashville Predators
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030156" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-[Nicklas Lidstrom](https://en.wikipedia.org/wiki/Nicklas_Lidström "Nicklas Lidström") (2) – *sh* – 13:44
+[Nicklas Lidstrom](https://en.wikipedia.org/wiki/Nicklas_Lidström "Nicklas Lidström") (2) – _sh_ – 13:44
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
 [Jiri Hudler](https://en.wikipedia.org/wiki/Jiří_Hudler "Jiří Hudler") (2) – 03:52  
-[Brian Rafalski](https://en.wikipedia.org/wiki/Brian_Rafalski "Brian Rafalski") (1) – *en* – 19:55
+[Brian Rafalski](https://en.wikipedia.org/wiki/Brian_Rafalski "Brian Rafalski") (1) – _en_ – 19:55
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Chris Osgood](https://en.wikipedia.org/wiki/Chris_Osgood "Chris Osgood") 20 saves / 20 shots
 
@@ -1735,17 +1707,13 @@ Nashville Predators
 
 [Dan Ellis](https://en.wikipedia.org/wiki/Dan_Ellis "Dan Ellis") 40 saves / 42 shots
 
-***Detroit won series 4–2***
-
-  
+**_Detroit won series 4–2_**
 
 #### <span id=".282.29_San_Jose_Sharks_vs._.287.29_Calgary_Flames"></span><span id="(2)_San_Jose_Sharks_vs._(7)_Calgary_Flames" class="mw-headline">(2) San Jose Sharks vs. (7) Calgary Flames</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=16 "Edit section: (2) San Jose Sharks vs. (7) Calgary Flames")<span class="mw-editsection-bracket">\]</span></span>
 
 The San Jose Sharks entered the playoffs as the Pacific Division champions, earning the second seed in the Western Conference with 108 points. Calgary qualified as the seventh seed earning 94 points during the regular season. This was the third and most recent playoff meeting between these two teams, with the teams splitting the two previous series. They last met in the [2004 Western Conference Final](https://en.wikipedia.org/wiki/2004_Stanley_Cup_playoffs "2004 Stanley Cup playoffs") where Calgary won in six games. Calgary won three of the four games during this year's regular season series.
 
 San Jose eliminated the Flames in seven games. [Stephane Yelle](https://en.wikipedia.org/wiki/Stéphane_Yelle "Stéphane Yelle")'s second goal of the game was the game-winner as Calgary took the opening game of the series 3–2. San Jose goaltender [Evgeni Nabokov](https://en.wikipedia.org/wiki/Evgeni_Nabokov "Evgeni Nabokov") recorded a shutout making 21 saves in game two to help the Sharks tie the series. The Flames rallied from a three-goal deficit to win game three 4–3 as backup goaltender [Curtis Joseph](https://en.wikipedia.org/wiki/Curtis_Joseph "Curtis Joseph") relieved [Miikka Kiprusoff](https://en.wikipedia.org/wiki/Miikka_Kiprusoff "Miikka Kiprusoff") after he was pulled just three and a half minutes into the game. San Jose scored two goals late in the third period of game four to win the game 3–2. San Jose had a three-goal lead in game five and held off a Calgary comeback in a 4–3 victory. Miikka Kiprusoff recorded a shutout in game six to force a deciding game seven as the Flames won 2–0. After being held pointless in the first six games of the series San Jose forward [Jeremy Roenick](https://en.wikipedia.org/wiki/Jeremy_Roenick "Jeremy Roenick") scored two goals and two assists in game seven as the Sharks won 5–3.
-
-  
 
 April 9
 
@@ -1759,10 +1727,10 @@ San Jose Sharks
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030161" class="external text">Recap</a>
 
- 
+
 
 [Stephane Yelle](https://en.wikipedia.org/wiki/Stéphane_Yelle "Stéphane Yelle") (1) – 02:47  
-[Dion Phaneuf](https://en.wikipedia.org/wiki/Dion_Phaneuf "Dion Phaneuf") (1) – *pp* – 05:17
+[Dion Phaneuf](https://en.wikipedia.org/wiki/Dion_Phaneuf "Dion Phaneuf") (1) – _pp_ – 05:17
 
 **First period**
 
@@ -1772,9 +1740,9 @@ Stephane Yelle (2) – 16:21
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
@@ -1798,26 +1766,26 @@ Calgary Flames
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030162" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
 04:56 – [Joe Pavelski](https://en.wikipedia.org/wiki/Joe_Pavelski "Joe Pavelski") (1)  
-18:09 – *pp* – [Torrey Mitchell](https://en.wikipedia.org/wiki/Torrey_Mitchell "Torrey Mitchell") (1)
+18:09 – _pp_ – [Torrey Mitchell](https://en.wikipedia.org/wiki/Torrey_Mitchell "Torrey Mitchell") (1)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Miikka Kiprusoff](https://en.wikipedia.org/wiki/Miikka_Kiprusoff "Miikka Kiprusoff") 41 saves / 43 shots
 
@@ -1837,23 +1805,23 @@ San Jose Sharks
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030163" class="external text">Recap</a>
 
- 
 
-[Ryane Clowe](https://en.wikipedia.org/wiki/Ryane_Clowe "Ryane Clowe") (3) – *pp* – 01:31  
+
+[Ryane Clowe](https://en.wikipedia.org/wiki/Ryane_Clowe "Ryane Clowe") (3) – _pp_ – 01:31  
 [Patrick Marleau](https://en.wikipedia.org/wiki/Patrick_Marleau "Patrick Marleau") (1) – 03:19  
-[Douglas Murray](https://en.wikipedia.org/wiki/Douglas_Murray_(ice_hockey) "Douglas Murray (ice hockey)") (1) – 03:33
+[Douglas Murray](<https://en.wikipedia.org/wiki/Douglas_Murray_(ice_hockey)> "Douglas Murray (ice hockey)") (1) – 03:33
 
 **First period**
 
-13:22 – *pp* – [Jarome Iginla](https://en.wikipedia.org/wiki/Jarome_Iginla "Jarome Iginla") (1)
+13:22 – _pp_ – [Jarome Iginla](https://en.wikipedia.org/wiki/Jarome_Iginla "Jarome Iginla") (1)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-10:14 – *pp* – [Daymond Langkow](https://en.wikipedia.org/wiki/Daymond_Langkow "Daymond Langkow") (1)
+10:14 – _pp_ – [Daymond Langkow](https://en.wikipedia.org/wiki/Daymond_Langkow "Daymond Langkow") (1)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
@@ -1879,15 +1847,15 @@ Calgary Flames
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030164" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
 03:19 – [Jarome Iginla](https://en.wikipedia.org/wiki/Jarome_Iginla "Jarome Iginla") (2)
 
-[Ryane Clowe](https://en.wikipedia.org/wiki/Ryane_Clowe "Ryane Clowe") (4) – *pp* – 10:56
+[Ryane Clowe](https://en.wikipedia.org/wiki/Ryane_Clowe "Ryane Clowe") (4) – _pp_ – 10:56
 
 **Second period**
 
@@ -1898,7 +1866,7 @@ Calgary Flames
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Evgeni Nabokov](https://en.wikipedia.org/wiki/Evgeni_Nabokov "Evgeni Nabokov") 8 saves / 10 shots
 
@@ -1918,23 +1886,23 @@ Calgary Flames
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030165" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-[Jarome Iginla](https://en.wikipedia.org/wiki/Jarome_Iginla "Jarome Iginla") (3) – *pp* – 04:03
+[Jarome Iginla](https://en.wikipedia.org/wiki/Jarome_Iginla "Jarome Iginla") (3) – _pp_ – 04:03
 
 **Second period**
 
-11:32 – *pp* – [Joe Pavelski](https://en.wikipedia.org/wiki/Joe_Pavelski "Joe Pavelski") (2)  
+11:32 – _pp_ – [Joe Pavelski](https://en.wikipedia.org/wiki/Joe_Pavelski "Joe Pavelski") (2)  
 18:07 – [Patrick Marleau](https://en.wikipedia.org/wiki/Patrick_Marleau "Patrick Marleau") (2)
 
-[Daymond Langkow](https://en.wikipedia.org/wiki/Daymond_Langkow "Daymond Langkow") (2) – *pp* – 09:06  
-[David Moss](https://en.wikipedia.org/wiki/David_Moss_(ice_hockey) "David Moss (ice hockey)") (1) – 18:43
+[Daymond Langkow](https://en.wikipedia.org/wiki/Daymond_Langkow "Daymond Langkow") (2) – _pp_ – 09:06  
+[David Moss](<https://en.wikipedia.org/wiki/David_Moss_(ice_hockey)> "David Moss (ice hockey)") (1) – 18:43
 
 **Third period**
 
@@ -1959,25 +1927,25 @@ San Jose Sharks
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030166" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
 11:33 – [Owen Nolan](https://en.wikipedia.org/wiki/Owen_Nolan "Owen Nolan") (2)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
 19:03 – [Daymond Langkow](https://en.wikipedia.org/wiki/Daymond_Langkow "Daymond Langkow") (3)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Evgeni Nabokov](https://en.wikipedia.org/wiki/Evgeni_Nabokov "Evgeni Nabokov") 23 saves / 25 shots
 
@@ -1997,20 +1965,20 @@ Calgary Flames
 
 <a href="https://www.nhl.com/ice/recap.htm?id=2007030167" class="external text">Recap</a>
 
- 
 
-[Jarome Iginla](https://en.wikipedia.org/wiki/Jarome_Iginla "Jarome Iginla") (4) – *pp* – 12:23
+
+[Jarome Iginla](https://en.wikipedia.org/wiki/Jarome_Iginla "Jarome Iginla") (4) – _pp_ – 12:23
 
 **First period**
 
-10:57 – *pp* – [Joe Thornton](https://en.wikipedia.org/wiki/Joe_Thornton "Joe Thornton") (2)
+10:57 – _pp_ – [Joe Thornton](https://en.wikipedia.org/wiki/Joe_Thornton "Joe Thornton") (2)
 
 [Owen Nolan](https://en.wikipedia.org/wiki/Owen_Nolan "Owen Nolan") (3) – 03:33
 
 **Second period**
 
 06:04 – [Jeremy Roenick](https://en.wikipedia.org/wiki/Jeremy_Roenick "Jeremy Roenick") (1)  
-09:04 – *pp* – Jeremy Roenick (2)  
+09:04 – _pp_ – Jeremy Roenick (2)  
 14:01 – [Joe Pavelski](https://en.wikipedia.org/wiki/Joe_Pavelski "Joe Pavelski") (3)  
 14:53 – [Devin Setoguchi](https://en.wikipedia.org/wiki/Devin_Setoguchi "Devin Setoguchi") (2)
 
@@ -2018,7 +1986,7 @@ Calgary Flames
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Miikka Kiprusoff](https://en.wikipedia.org/wiki/Miikka_Kiprusoff "Miikka Kiprusoff") 26 saves / 30 shots  
 [Curtis Joseph](https://en.wikipedia.org/wiki/Curtis_Joseph "Curtis Joseph") 10 saves / 11 shots
@@ -2027,17 +1995,13 @@ Calgary Flames
 
 [Evgeni Nabokov](https://en.wikipedia.org/wiki/Evgeni_Nabokov "Evgeni Nabokov") 19 saves / 22 shots
 
-***San Jose won series 4–3***
-
-  
+**_San Jose won series 4–3_**
 
 #### <span id=".283.29_Minnesota_Wild_vs._.286.29_Colorado_Avalanche"></span><span id="(3)_Minnesota_Wild_vs._(6)_Colorado_Avalanche" class="mw-headline">(3) Minnesota Wild vs. (6) Colorado Avalanche</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=17 "Edit section: (3) Minnesota Wild vs. (6) Colorado Avalanche")<span class="mw-editsection-bracket">\]</span></span>
 
 The Minnesota Wild entered the playoffs as the Northwest Division champions, earning the third seed in the Western Conference with 98 points. Colorado qualified as the sixth seed earning 95 points during the regular season. This was the second playoff meeting between these two teams, with Minnesota winning the only previous series. They last met in the [2003 Western Conference Quarterfinals](https://en.wikipedia.org/wiki/2003_Stanley_Cup_playoffs "2003 Stanley Cup playoffs") where Minnesota won in seven games. Minnesota won five of the eight games during this year's regular season series.
 
 The Avalanche eliminated the Wild in six games. Colorado captain [Joe Sakic](https://en.wikipedia.org/wiki/Joe_Sakic "Joe Sakic") added to his own league record in game one as he scored his eighth and final career playoff overtime goal in a 3–2 victory. The teams traded goals in the final two minutes of regulation in game two before [Keith Carney](https://en.wikipedia.org/wiki/Keith_Carney "Keith Carney") ended the game 1:14 into the first overtime period, as the Wild evened the series with a 3–2 win. [Pierre-Marc Bouchard](https://en.wikipedia.org/wiki/Pierre-Marc_Bouchard "Pierre-Marc Bouchard") scored the overtime winner in game three for Minnesota at 11:58 in the third consecutive overtime game of this series. Five different Colorado players scored in game four as the Avalanche forced Wild goaltender [Niklas Backstrom](https://en.wikipedia.org/wiki/Niklas_Bäckström "Niklas Bäckström") from the game, winning 5–1. Colorado goaltender [Jose Theodore](https://en.wikipedia.org/wiki/José_Théodore "José Théodore") made 38 saves in a 3–2 game five win. Theodore continued his strong play in game six as he made 34 saves from 35 shots against as Colorado closed out the series with a 2–1 victory.
-
-  
 
 April 9
 
@@ -2053,22 +2017,22 @@ Minnesota Wild
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030171.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
 [Kurt Sauer](https://en.wikipedia.org/wiki/Kurt_Sauer "Kurt Sauer") (1) – 01:29  
-[Ryan Smyth](https://en.wikipedia.org/wiki/Ryan_Smyth "Ryan Smyth") (1) – *pp* – 13:08
+[Ryan Smyth](https://en.wikipedia.org/wiki/Ryan_Smyth "Ryan Smyth") (1) – _pp_ – 13:08
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
@@ -2079,7 +2043,7 @@ Minnesota Wild
 
 **First overtime period**
 
-*No scoring*
+_No scoring_
 
 [Jose Theodore](https://en.wikipedia.org/wiki/José_Théodore "José Théodore") 28 saves / 30 shots
 
@@ -2101,28 +2065,28 @@ Colorado Avalanche
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030172.HTM" class="external text">Recap</a>
 
- 
+
 
 [Peter Forsberg](https://en.wikipedia.org/wiki/Peter_Forsberg "Peter Forsberg") (1) – 17:06
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-[Milan Hejduk](https://en.wikipedia.org/wiki/Milan_Hejduk "Milan Hejduk") (1) – *pp* – 19:16
+[Milan Hejduk](https://en.wikipedia.org/wiki/Milan_Hejduk "Milan Hejduk") (1) – _pp_ – 19:16
 
 **Third period**
 
-01:37 – *pp* – [Pavol Demitra](https://en.wikipedia.org/wiki/Pavol_Demitra "Pavol Demitra") (1)  
+01:37 – _pp_ – [Pavol Demitra](https://en.wikipedia.org/wiki/Pavol_Demitra "Pavol Demitra") (1)  
 18:09 – [Mikko Koivu](https://en.wikipedia.org/wiki/Mikko_Koivu "Mikko Koivu") (2)
 
-*No scoring*
+_No scoring_
 
 **First overtime period**
 
@@ -2148,22 +2112,22 @@ Colorado Avalanche
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030173.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
 15:19 – [Andrew Brunette](https://en.wikipedia.org/wiki/Andrew_Brunette "Andrew Brunette") (1)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
 [Mikko Koivu](https://en.wikipedia.org/wiki/Mikko_Koivu "Mikko Koivu") (3) – 07:13  
-[Brian Rolston](https://en.wikipedia.org/wiki/Brian_Rolston "Brian Rolston") (1) – *sh* – 11:32
+[Brian Rolston](https://en.wikipedia.org/wiki/Brian_Rolston "Brian Rolston") (1) – _sh_ – 11:32
 
 **Third period**
 
@@ -2173,7 +2137,7 @@ Colorado Avalanche
 
 **First overtime period**
 
-*No scoring*
+_No scoring_
 
 [Niklas Backstrom](https://en.wikipedia.org/wiki/Niklas_Bäckström "Niklas Bäckström") 44 saves / 46 shots
 
@@ -2193,9 +2157,9 @@ Minnesota Wild
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030174.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
@@ -2203,18 +2167,18 @@ Minnesota Wild
 05:37 – [Wojtek Wolski](https://en.wikipedia.org/wiki/Wojtek_Wolski "Wojtek Wolski") (1)  
 11:08 – [Tyler Arnason](https://en.wikipedia.org/wiki/Tyler_Arnason "Tyler Arnason") (1)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-07:42 – *pp* – [Ruslan Salei](https://en.wikipedia.org/wiki/Ruslan_Salei "Ruslan Salei") (1)  
-16:14 – *pp* – [Milan Hejduk](https://en.wikipedia.org/wiki/Milan_Hejduk "Milan Hejduk") (2)
+07:42 – _pp_ – [Ruslan Salei](https://en.wikipedia.org/wiki/Ruslan_Salei "Ruslan Salei") (1)  
+16:14 – _pp_ – [Milan Hejduk](https://en.wikipedia.org/wiki/Milan_Hejduk "Milan Hejduk") (2)
 
-[Mikko Koivu](https://en.wikipedia.org/wiki/Mikko_Koivu "Mikko Koivu") (4) – *sh* – 03:11
+[Mikko Koivu](https://en.wikipedia.org/wiki/Mikko_Koivu "Mikko Koivu") (4) – _sh_ – 03:11
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Niklas Backstrom](https://en.wikipedia.org/wiki/Niklas_Bäckström "Niklas Bäckström") 24 saves / 29 shots  
 [Josh Harding](https://en.wikipedia.org/wiki/Josh_Harding "Josh Harding") 11 saves / 11 shots
@@ -2235,21 +2199,21 @@ Minnesota Wild
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030175.HTM" class="external text">Recap</a>
 
- 
 
-[Andrew Brunette](https://en.wikipedia.org/wiki/Andrew_Brunette "Andrew Brunette") (3) – *pp* – 12:24
+
+[Andrew Brunette](https://en.wikipedia.org/wiki/Andrew_Brunette "Andrew Brunette") (3) – _pp_ – 12:24
 
 **First period**
 
-19:20 – *pp* – [Pierre-Marc Bouchard](https://en.wikipedia.org/wiki/Pierre-Marc_Bouchard "Pierre-Marc Bouchard") (2)
+19:20 – _pp_ – [Pierre-Marc Bouchard](https://en.wikipedia.org/wiki/Pierre-Marc_Bouchard "Pierre-Marc Bouchard") (2)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-[Wojtek Wolski](https://en.wikipedia.org/wiki/Wojtek_Wolski "Wojtek Wolski") (2) – *pp* – 05:06  
+[Wojtek Wolski](https://en.wikipedia.org/wiki/Wojtek_Wolski "Wojtek Wolski") (2) – _pp_ – 05:06  
 [Paul Stastny](https://en.wikipedia.org/wiki/Paul_Stastny "Paul Stastny") (1) – 06:25
 
 **Third period**
@@ -2274,13 +2238,13 @@ Minnesota Wild
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030176.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-08:02 – *sh* – <a href="https://en.wikipedia.org/wiki/Ben_Guite" class="mw-redirect" title="Ben Guite">Ben Guite</a> (1)
+08:02 – _sh_ – <a href="https://en.wikipedia.org/wiki/Ben_Guite" class="mw-redirect" title="Ben Guite">Ben Guite</a> (1)
 
 [Aaron Voros](https://en.wikipedia.org/wiki/Aaron_Voros "Aaron Voros") (1) – 00:36
 
@@ -2288,11 +2252,11 @@ Minnesota Wild
 
 12:20 – [Ryan Smyth](https://en.wikipedia.org/wiki/Ryan_Smyth "Ryan Smyth") (2)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Niklas Backstrom](https://en.wikipedia.org/wiki/Niklas_Bäckström "Niklas Bäckström") 28 saves / 30 shots
 
@@ -2300,17 +2264,13 @@ Minnesota Wild
 
 [Jose Theodore](https://en.wikipedia.org/wiki/José_Théodore "José Théodore") 34 saves / 35 shots
 
-***Colorado won series 4–2***
-
-  
+**_Colorado won series 4–2_**
 
 #### <span id=".284.29_Anaheim_Ducks_vs._.285.29_Dallas_Stars"></span><span id="(4)_Anaheim_Ducks_vs._(5)_Dallas_Stars" class="mw-headline">(4) Anaheim Ducks vs. (5) Dallas Stars</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=18 "Edit section: (4) Anaheim Ducks vs. (5) Dallas Stars")<span class="mw-editsection-bracket">\]</span></span>
 
 The Anaheim Ducks entered the playoffs as the fourth seed in the Western Conference with 102 points. Dallas qualified as the fifth seed earning 97 points during the regular season. This was the second playoff meeting between these two teams, with Anaheim winning the only previous series. They last met in the [2003 Western Conference Semifinals](https://en.wikipedia.org/wiki/2003_Stanley_Cup_playoffs "2003 Stanley Cup playoffs") where Anaheim won in six games. Dallas won five of the eight games during this year's regular season series.
 
-The Stars defeated the Ducks in six games. Dallas took advantage of the undisciplined play of the Ducks in game one as they scored four goals on the [power-play](https://en.wikipedia.org/wiki/Power_play_(sporting_term) "Power play (sporting term)") and [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") made 23 saves in a 4–0 victory. The Stars broke open game two by scoring three times in the third period as they won 5–2. In game three the Ducks jumped out to an early 4–0 lead, Anaheim held on to win the game 4–2. Stars goaltender Marty Turco came eight seconds short of posting a shutout in game four as he made 28 saves in a 3–1 Dallas victory. The Ducks avoided elimination in game five as their special teams contributed two power-play goals in a 5–2 win. [Corey Perry](https://en.wikipedia.org/wiki/Corey_Perry "Corey Perry") gave Anaheim a one-goal lead after two periods of play in game six before the Stars scored four unanswered goals in the third period and ended the series with a 4–1 victory.
-
-  
+The Stars defeated the Ducks in six games. Dallas took advantage of the undisciplined play of the Ducks in game one as they scored four goals on the [power-play](<https://en.wikipedia.org/wiki/Power_play_(sporting_term)> "Power play (sporting term)") and [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") made 23 saves in a 4–0 victory. The Stars broke open game two by scoring three times in the third period as they won 5–2. In game three the Ducks jumped out to an early 4–0 lead, Anaheim held on to win the game 4–2. Stars goaltender Marty Turco came eight seconds short of posting a shutout in game four as he made 28 saves in a 3–1 Dallas victory. The Ducks avoided elimination in game five as their special teams contributed two power-play goals in a 5–2 win. [Corey Perry](https://en.wikipedia.org/wiki/Corey_Perry "Corey Perry") gave Anaheim a one-goal lead after two periods of play in game six before the Stars scored four unanswered goals in the third period and ended the series with a 4–1 victory.
 
 April 10
 
@@ -2324,27 +2284,27 @@ Anaheim Ducks
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030181.HTM" class="external text">Recap</a>
 
- 
 
-[Steve Ott](https://en.wikipedia.org/wiki/Steve_Ott "Steve Ott") (1) – *pp* – 11:25  
-[Loui Eriksson](https://en.wikipedia.org/wiki/Loui_Eriksson "Loui Eriksson") (1) – *pp* – 17:34
+
+[Steve Ott](https://en.wikipedia.org/wiki/Steve_Ott "Steve Ott") (1) – _pp_ – 11:25  
+[Loui Eriksson](https://en.wikipedia.org/wiki/Loui_Eriksson "Loui Eriksson") (1) – _pp_ – 17:34
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-[Jere Lehtinen](https://en.wikipedia.org/wiki/Jere_Lehtinen "Jere Lehtinen") (1) – *pp* – 03:58  
-[Brenden Morrow](https://en.wikipedia.org/wiki/Brenden_Morrow "Brenden Morrow") (1) – *pp* – 17:22
+[Jere Lehtinen](https://en.wikipedia.org/wiki/Jere_Lehtinen "Jere Lehtinen") (1) – _pp_ – 03:58  
+[Brenden Morrow](https://en.wikipedia.org/wiki/Brenden_Morrow "Brenden Morrow") (1) – _pp_ – 17:22
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") 23 saves / 23 shots
 
@@ -2364,28 +2324,28 @@ Anaheim Ducks
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030182.HTM" class="external text">Recap</a>
 
- 
+
 
 [Mike Ribeiro](https://en.wikipedia.org/wiki/Mike_Ribeiro "Mike Ribeiro") (1) – 06:28
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-[Jere Lehtinen](https://en.wikipedia.org/wiki/Jere_Lehtinen "Jere Lehtinen") (2) – *pp* – 01:28
+[Jere Lehtinen](https://en.wikipedia.org/wiki/Jere_Lehtinen "Jere Lehtinen") (2) – _pp_ – 01:28
 
 **Second period**
 
-03:41 – *pp* – [Teemu Selanne](https://en.wikipedia.org/wiki/Teemu_Selänne "Teemu Selänne") (1)  
+03:41 – _pp_ – [Teemu Selanne](https://en.wikipedia.org/wiki/Teemu_Selänne "Teemu Selänne") (1)  
 16:19 – [Travis Moen](https://en.wikipedia.org/wiki/Travis_Moen "Travis Moen") (1)
 
-[Mike Modano](https://en.wikipedia.org/wiki/Mike_Modano "Mike Modano") (1) – *pp* – 05:47  
+[Mike Modano](https://en.wikipedia.org/wiki/Mike_Modano "Mike Modano") (1) – _pp_ – 05:47  
 [Brad Richards](https://en.wikipedia.org/wiki/Brad_Richards "Brad Richards") (1) – 06:42  
 [Loui Eriksson](https://en.wikipedia.org/wiki/Loui_Eriksson "Loui Eriksson") (2) – 14:36
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") 20 saves / 22 shots
 
@@ -2405,28 +2365,28 @@ Dallas Stars
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030183.HTM" class="external text">Recap</a>
 
- 
+
 
 [Todd Marchant](https://en.wikipedia.org/wiki/Todd_Marchant "Todd Marchant") (1) – 06:39  
 [Ryan Getzlaf](https://en.wikipedia.org/wiki/Ryan_Getzlaf "Ryan Getzlaf") (1) – 10:09  
-[Chris Pronger](https://en.wikipedia.org/wiki/Chris_Pronger "Chris Pronger") (1) – *pp* – 14:31
+[Chris Pronger](https://en.wikipedia.org/wiki/Chris_Pronger "Chris Pronger") (1) – _pp_ – 14:31
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-Chris Pronger (2) – *pp* – 05:34
+Chris Pronger (2) – _pp_ – 05:34
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-05:43 – *pp* – [Brenden Morrow](https://en.wikipedia.org/wiki/Brenden_Morrow "Brenden Morrow") (2)  
-07:22 – *pp* – Brenden Morrow (3)
+05:43 – _pp_ – [Brenden Morrow](https://en.wikipedia.org/wiki/Brenden_Morrow "Brenden Morrow") (2)  
+07:22 – _pp_ – Brenden Morrow (3)
 
 [Jean-Sebastien Giguere](https://en.wikipedia.org/wiki/Jean-Sébastien_Giguère "Jean-Sébastien Giguère") 31 saves / 33 shots
 
@@ -2446,19 +2406,19 @@ Anaheim Ducks
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030184.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
 16:39 – [Joel Lundqvist](https://en.wikipedia.org/wiki/Joel_Lundqvist "Joel Lundqvist") (1)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
 [Mathieu Schneider](https://en.wikipedia.org/wiki/Mathieu_Schneider "Mathieu Schneider") (1) – 19:52
 
@@ -2485,7 +2445,7 @@ Dallas Stars
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030185.HTM" class="external text">Recap</a>
 
- 
+
 
 [Mattias Norstrom](https://en.wikipedia.org/wiki/Mattias_Norström "Mattias Norström") (1) – 18:27
 
@@ -2493,19 +2453,19 @@ Dallas Stars
 
 08:25 – [Corey Perry](https://en.wikipedia.org/wiki/Corey_Perry "Corey Perry") (1)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-11:03 – *pp* – [Ryan Getzlaf](https://en.wikipedia.org/wiki/Ryan_Getzlaf "Ryan Getzlaf") (2)
+11:03 – _pp_ – [Ryan Getzlaf](https://en.wikipedia.org/wiki/Ryan_Getzlaf "Ryan Getzlaf") (2)
 
 [Mike Ribeiro](https://en.wikipedia.org/wiki/Mike_Ribeiro "Mike Ribeiro") (2) – 04:41
 
 **Third period**
 
-00:48 – *pp* – [Teemu Selanne](https://en.wikipedia.org/wiki/Teemu_Selänne "Teemu Selänne") (2)  
+00:48 – _pp_ – [Teemu Selanne](https://en.wikipedia.org/wiki/Teemu_Selänne "Teemu Selänne") (2)  
 12:05 – [Sean O'Donnell](https://en.wikipedia.org/wiki/Sean_O%27Donnell "Sean O'Donnell") (1)  
-18:36 – *en* – [Todd Marchant](https://en.wikipedia.org/wiki/Todd_Marchant "Todd Marchant") (2)
+18:36 – _en_ – [Todd Marchant](https://en.wikipedia.org/wiki/Todd_Marchant "Todd Marchant") (2)
 
 [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") 27 saves / 31 shots
 
@@ -2525,28 +2485,28 @@ Anaheim Ducks
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030186.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
 [Corey Perry](https://en.wikipedia.org/wiki/Corey_Perry "Corey Perry") (2) – 02:11
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-01:18 – *pp* – [Stephane Robidas](https://en.wikipedia.org/wiki/Stéphane_Robidas "Stéphane Robidas") (1)  
+01:18 – _pp_ – [Stephane Robidas](https://en.wikipedia.org/wiki/Stéphane_Robidas "Stéphane Robidas") (1)  
 02:10 – [Stu Barnes](https://en.wikipedia.org/wiki/Stu_Barnes "Stu Barnes") (2)  
 17:42 – [Loui Eriksson](https://en.wikipedia.org/wiki/Loui_Eriksson "Loui Eriksson") (3)  
-19:56 – *pp-en* – [Mike Modano](https://en.wikipedia.org/wiki/Mike_Modano "Mike Modano") (2)
+19:56 – _pp-en_ – [Mike Modano](https://en.wikipedia.org/wiki/Mike_Modano "Mike Modano") (2)
 
 [Jean-Sebastien Giguere](https://en.wikipedia.org/wiki/Jean-Sébastien_Giguère "Jean-Sébastien Giguère") 22 saves / 25 shots
 
@@ -2554,12 +2514,9 @@ Anaheim Ducks
 
 [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") 17 saves / 18 shots
 
-***Dallas won series 4–2***
+**_Dallas won series 4–2_**
 
-  
-
-<span id="Conference_Semifinals" class="mw-headline">Conference Semifinals</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=19 "Edit section: Conference Semifinals")<span class="mw-editsection-bracket">\]</span></span>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <span id="Conference_Semifinals" class="mw-headline">Conference Semifinals</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=19 "Edit section: Conference Semifinals")<span class="mw-editsection-bracket">\]</span></span>
 
 ### <span id="Eastern_Conference_Semifinals" class="mw-headline">Eastern Conference Semifinals</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=20 "Edit section: Eastern Conference Semifinals")<span class="mw-editsection-bracket">\]</span></span>
 
@@ -2568,8 +2525,6 @@ Anaheim Ducks
 This was the fifth playoff meeting between these two teams, with Montreal winning three of the four previous series. They last met in the [1989 Prince of Wales Conference Final](https://en.wikipedia.org/wiki/1989_Stanley_Cup_playoffs "1989 Stanley Cup playoffs") where Montreal won in six games. Montreal swept this year's four game regular season series.
 
 The Flyers eliminated the Canadiens in five games. Montreal fought back from a two-goal deficit early in game one as [Alexei Kovalev](https://en.wikipedia.org/wiki/Alexei_Kovalev "Alexei Kovalev") forced overtime with his second goal of the game in the final minute of regulation time. In the first overtime period Canadiens forward [Tom Kostopoulos](https://en.wikipedia.org/wiki/Tom_Kostopoulos "Tom Kostopoulos") scored the game-winner 48 seconds into the period, in a 4–3 Montreal victory. [R. J. Umberger](https://en.wikipedia.org/wiki/R._J._Umberger "R. J. Umberger") scored twice for the Flyers in game two as Philadelphia evened the series with a 4–2 win. Philadelphia scored three times in the second period of game three and hung on to win 3–2 despite allowing two power-play goals in the third period after [Derian Hatcher](https://en.wikipedia.org/wiki/Derian_Hatcher "Derian Hatcher") was ejected from the game for boarding [Francis Bouillon](https://en.wikipedia.org/wiki/Francis_Bouillon "Francis Bouillon"). Flyers goaltender [Martin Biron](https://en.wikipedia.org/wiki/Martin_Biron "Martin Biron") made 36 saves as the Flyers won game four 4–2. Flyers forward [Scottie Upshall](https://en.wikipedia.org/wiki/Scottie_Upshall "Scottie Upshall") broke the tie in game five as he scored the series-clinching goal with just over three minutes remaining in regulation time as Philadelphia earned a 6–4 victory.
-
-  
 
 April 24
 
@@ -2585,29 +2540,29 @@ Philadelphia Flyers
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030211.HTM" class="external text">Recap</a>
 
- 
+
 
 [R. J. Umberger](https://en.wikipedia.org/wiki/R._J._Umberger "R. J. Umberger") (2) – 13:15  
-[Jim Dowd](https://en.wikipedia.org/wiki/Jim_Dowd_(ice_hockey) "Jim Dowd (ice hockey)") (1) – 16:49
+[Jim Dowd](<https://en.wikipedia.org/wiki/Jim_Dowd_(ice_hockey)> "Jim Dowd (ice hockey)") (1) – 16:49
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
 09:44 – [Andrei Kostitsyn](https://en.wikipedia.org/wiki/Andrei_Kostitsyn "Andrei Kostitsyn") (4)  
-16:03 – *sh* – [Alexei Kovalev](https://en.wikipedia.org/wiki/Alexei_Kovalev "Alexei Kovalev") (3)
+16:03 – _sh_ – [Alexei Kovalev](https://en.wikipedia.org/wiki/Alexei_Kovalev "Alexei Kovalev") (3)
 
-[Joffrey Lupul](https://en.wikipedia.org/wiki/Joffrey_Lupul "Joffrey Lupul") (2) – *pp* – 00:19
+[Joffrey Lupul](https://en.wikipedia.org/wiki/Joffrey_Lupul "Joffrey Lupul") (2) – _pp_ – 00:19
 
 **Third period**
 
-19:31 – *pp* – Alexei Kovalev (4)
+19:31 – _pp_ – Alexei Kovalev (4)
 
-*No scoring*
+_No scoring_
 
 **First overtime period**
 
@@ -2631,26 +2586,26 @@ Montreal Canadiens
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030212.HTM" class="external text">Recap</a>
 
- 
+
 
 [R. J. Umberger](https://en.wikipedia.org/wiki/R._J._Umberger "R. J. Umberger") (3) – 05:53  
-[Jeff Carter](https://en.wikipedia.org/wiki/Jeff_Carter "Jeff Carter") (4) – *pp* – 08:39
+[Jeff Carter](https://en.wikipedia.org/wiki/Jeff_Carter "Jeff Carter") (4) – _pp_ – 08:39
 
 **First period**
 
-16:18 – *pp* – [Saku Koivu](https://en.wikipedia.org/wiki/Saku_Koivu "Saku Koivu") (1)
+16:18 – _pp_ – [Saku Koivu](https://en.wikipedia.org/wiki/Saku_Koivu "Saku Koivu") (1)
 
 [Daniel Briere](https://en.wikipedia.org/wiki/Daniel_Brière "Daniel Brière") (7) – 13:33
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
 R. J. Umberger (4) – 17:39
 
 **Third period**
 
-01:26 – [Andrei Markov](https://en.wikipedia.org/wiki/Andrei_Markov_(ice_hockey) "Andrei Markov (ice hockey)") (1)
+01:26 – [Andrei Markov](<https://en.wikipedia.org/wiki/Andrei_Markov_(ice_hockey)> "Andrei Markov (ice hockey)") (1)
 
 [Martin Biron](https://en.wikipedia.org/wiki/Martin_Biron "Martin Biron") 34 saves / 36 shots
 
@@ -2670,28 +2625,28 @@ Montreal Canadiens
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030213.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
 07:04 – [Scottie Upshall](https://en.wikipedia.org/wiki/Scottie_Upshall "Scottie Upshall") (2)  
-15:12 – *sh* – [Mike Richards](https://en.wikipedia.org/wiki/Mike_Richards_(ice_hockey) "Mike Richards (ice hockey)") (3)  
+15:12 – _sh_ – [Mike Richards](<https://en.wikipedia.org/wiki/Mike_Richards_(ice_hockey)> "Mike Richards (ice hockey)") (3)  
 18:19 – [R. J. Umberger](https://en.wikipedia.org/wiki/R._J._Umberger "R. J. Umberger") (5)
 
-[Tomas Plekanec](https://en.wikipedia.org/wiki/Tomáš_Plekanec "Tomáš Plekanec") (2) – *pp* – 07:29  
-[Saku Koivu](https://en.wikipedia.org/wiki/Saku_Koivu "Saku Koivu") (2) – *pp* – 08:41
+[Tomas Plekanec](https://en.wikipedia.org/wiki/Tomáš_Plekanec "Tomáš Plekanec") (2) – _pp_ – 07:29  
+[Saku Koivu](https://en.wikipedia.org/wiki/Saku_Koivu "Saku Koivu") (2) – _pp_ – 08:41
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Carey Price](https://en.wikipedia.org/wiki/Carey_Price "Carey Price") 9 saves / 12 shots  
 [Jaroslav Halak](https://en.wikipedia.org/wiki/Jaroslav_Halák "Jaroslav Halák") 2 saves / 2 shots
@@ -2712,19 +2667,19 @@ Montreal Canadiens
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030214.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-07:47 – *pp* – [R. J. Umberger](https://en.wikipedia.org/wiki/R._J._Umberger "R. J. Umberger") (6)
+07:47 – _pp_ – [R. J. Umberger](https://en.wikipedia.org/wiki/R._J._Umberger "R. J. Umberger") (6)
 
 [Tomas Plekanec](https://en.wikipedia.org/wiki/Tomáš_Plekanec "Tomáš Plekanec") (3) – 12:59  
 [Saku Koivu](https://en.wikipedia.org/wiki/Saku_Koivu "Saku Koivu") (3) – 13:36
@@ -2732,8 +2687,8 @@ Montreal Canadiens
 **Third period**
 
 06:47 – [Scott Hartnell](https://en.wikipedia.org/wiki/Scott_Hartnell "Scott Hartnell") (2)  
-16:22 – *pp* – [Daniel Briere](https://en.wikipedia.org/wiki/Daniel_Brière "Daniel Brière") (8)  
-19:58 – *en* – R. J. Umberger (7)
+16:22 – _pp_ – [Daniel Briere](https://en.wikipedia.org/wiki/Daniel_Brière "Daniel Brière") (8)  
+19:58 – _en_ – R. J. Umberger (7)
 
 [Jaroslav Halak](https://en.wikipedia.org/wiki/Jaroslav_Halák "Jaroslav Halák") 22 saves / 25 shots
 
@@ -2753,25 +2708,25 @@ Montreal Canadiens
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030215.HTM" class="external text">Recap</a>
 
- 
+
 
 [R. J. Umberger](https://en.wikipedia.org/wiki/R._J._Umberger "R. J. Umberger") (8) – 10:20
 
 **First period**
 
-04:29 – *pp* – [Tomas Plekanec](https://en.wikipedia.org/wiki/Tomáš_Plekanec "Tomáš Plekanec") (4)  
+04:29 – _pp_ – [Tomas Plekanec](https://en.wikipedia.org/wiki/Tomáš_Plekanec "Tomáš Plekanec") (4)  
 11:28 – [Alexei Kovalev](https://en.wikipedia.org/wiki/Alexei_Kovalev "Alexei Kovalev") (5)
 
-[Mike Richards](https://en.wikipedia.org/wiki/Mike_Richards_(ice_hockey) "Mike Richards (ice hockey)") (4) – 14:02  
+[Mike Richards](<https://en.wikipedia.org/wiki/Mike_Richards_(ice_hockey)> "Mike Richards (ice hockey)") (4) – 14:02  
 R. J. Umberger (9) – 15:44  
 [Scott Hartnell](https://en.wikipedia.org/wiki/Scott_Hartnell "Scott Hartnell") (3) – 17:00
 
 **Second period**
 
-08:15 – [Chris Higgins](https://en.wikipedia.org/wiki/Chris_Higgins_(ice_hockey) "Chris Higgins (ice hockey)") (3)
+08:15 – [Chris Higgins](<https://en.wikipedia.org/wiki/Chris_Higgins_(ice_hockey)> "Chris Higgins (ice hockey)") (3)
 
 [Scottie Upshall](https://en.wikipedia.org/wiki/Scottie_Upshall "Scottie Upshall") (3) – 16:56  
-[Mike Knuble](https://en.wikipedia.org/wiki/Mike_Knuble "Mike Knuble") (3) – *en* – 19:10
+[Mike Knuble](https://en.wikipedia.org/wiki/Mike_Knuble "Mike Knuble") (3) – _en_ – 19:10
 
 **Third period**
 
@@ -2783,17 +2738,13 @@ R. J. Umberger (9) – 15:44
 
 [Carey Price](https://en.wikipedia.org/wiki/Carey_Price "Carey Price") 31 saves / 36 shots
 
-***Philadelphia won series 4–1***
-
-  
+**_Philadelphia won series 4–1_**
 
 #### <span id=".282.29_Pittsburgh_Penguins_vs._.285.29_New_York_Rangers"></span><span id="(2)_Pittsburgh_Penguins_vs._(5)_New_York_Rangers" class="mw-headline">(2) Pittsburgh Penguins vs. (5) New York Rangers</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=22 "Edit section: (2) Pittsburgh Penguins vs. (5) New York Rangers")<span class="mw-editsection-bracket">\]</span></span>
 
 This was the fourth playoff meeting between these two teams, with Pittsburgh winning all three of the previous series. They last met in the [1996 Eastern Conference Semifinals](https://en.wikipedia.org/wiki/1996_Stanley_Cup_playoffs "1996 Stanley Cup playoffs") where Pittsburgh won in five games. New York won five of the eight games during this year's regular season series.
 
 The Penguins defeated the Rangers in five games. The Penguins scored two goals 14 and 20 seconds apart in both the second and third periods of game one as they overcame a 3–0 deficit early in the second period. [Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin") scored a late power-play goal for the Penguins as they held on to win the game 5–4. Pittsburgh goaltender [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") made 26 saves to earn his second shutout of the playoffs in game two as the Penguins won 2–0. [Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin")'s second power-play goal of the game scored late in the second period of game three held up as the game-winning goal as the Penguins won 5–3. [Henrik Lundqvist](https://en.wikipedia.org/wiki/Henrik_Lundqvist "Henrik Lundqvist") made 29 saves in a shutout performance as the Rangers avoided elimination with a 3–0 victory in game four. The Rangers battled back to tie the game early in the third period of game five, however they came up short in overtime as Pittsburgh's [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") scored the series-winner at 7:10 of the first overtime period to win the series for the Penguins.
-
-  
 
 April 25
 
@@ -2807,13 +2758,13 @@ New York Rangers
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030221.HTM" class="external text">Recap</a>
 
- 
 
-[Martin Straka](https://en.wikipedia.org/wiki/Martin_Straka "Martin Straka") (2) – *pp* – 13:40
+
+[Martin Straka](https://en.wikipedia.org/wiki/Martin_Straka "Martin Straka") (2) – _pp_ – 13:40
 
 **First period**
 
-*No scoring*
+_No scoring_
 
 [Chris Drury](https://en.wikipedia.org/wiki/Chris_Drury "Chris Drury") (3) – 01:52  
 [Sean Avery](https://en.wikipedia.org/wiki/Sean_Avery "Sean Avery") (4) – 03:37
@@ -2829,7 +2780,7 @@ New York Rangers
 
 04:40 – [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (2)  
 05:00 – [Petr Sykora](https://en.wikipedia.org/wiki/Petr_Sýkora "Petr Sýkora") (4)  
-18:19 – *pp* – [Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin") (3)
+18:19 – _pp_ – [Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin") (3)
 
 [Henrik Lundqvist](https://en.wikipedia.org/wiki/Henrik_Lundqvist "Henrik Lundqvist") 21 saves / 26 shots
 
@@ -2849,25 +2800,25 @@ New York Rangers
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030222.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-13:55 – *pp* – [Jordan Staal](https://en.wikipedia.org/wiki/Jordan_Staal "Jordan Staal") (2)
+13:55 – _pp_ – [Jordan Staal](https://en.wikipedia.org/wiki/Jordan_Staal "Jordan Staal") (2)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-19:43 – *en* – [Adam Hall](https://en.wikipedia.org/wiki/Adam_Hall "Adam Hall") (1)
+19:43 – _en_ – [Adam Hall](https://en.wikipedia.org/wiki/Adam_Hall "Adam Hall") (1)
 
 [Henrik Lundqvist](https://en.wikipedia.org/wiki/Henrik_Lundqvist "Henrik Lundqvist") 30 saves / 31 shots
 
@@ -2887,17 +2838,17 @@ New York Rangers
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030223.HTM" class="external text">Recap</a>
 
- 
+
 
 [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (3) – 01:02  
 [Georges Laraque](https://en.wikipedia.org/wiki/Georges_Laraque "Georges Laraque") (1) – 16:17  
-[Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin") (4) – *pp* – 17:41
+[Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin") (4) – _pp_ – 17:41
 
 **First period**
 
 14:32 – [Martin Straka](https://en.wikipedia.org/wiki/Martin_Straka "Martin Straka") (3)
 
-Evgeni Malkin (5) – *pp* – 17:53
+Evgeni Malkin (5) – _pp_ – 17:53
 
 **Second period**
 
@@ -2908,7 +2859,7 @@ Evgeni Malkin (5) – *pp* – 17:53
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") 36 saves / 39 shots
 
@@ -2928,26 +2879,26 @@ Pittsburgh Penguins
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030224.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
 12:45 – [Jaromir Jagr](https://en.wikipedia.org/wiki/Jaromír_Jágr "Jaromír Jágr") (4)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-00:44 – *pp* – [Brandon Dubinsky](https://en.wikipedia.org/wiki/Brandon_Dubinsky "Brandon Dubinsky") (4)  
-19:46 – *pp-en* – Jaromir Jagr (5)
+00:44 – _pp_ – [Brandon Dubinsky](https://en.wikipedia.org/wiki/Brandon_Dubinsky "Brandon Dubinsky") (4)  
+19:46 – _pp-en_ – Jaromir Jagr (5)
 
 [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") 20 saves / 22 shots
 
@@ -2969,19 +2920,19 @@ New York Rangers
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030225.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-08:45 – *pp* – [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (4)  
+08:45 – _pp_ – [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (4)  
 12:40 – [Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin") (6)
 
 [Lauri Korpikoski](https://en.wikipedia.org/wiki/Lauri_Korpikoski "Lauri Korpikoski") (1) – 02:03  
@@ -2989,9 +2940,9 @@ New York Rangers
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **First overtime period**
 
@@ -3003,9 +2954,7 @@ New York Rangers
 
 [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") 20 saves / 22 shots
 
-***Pittsburgh won series 4–1***
-
-  
+**_Pittsburgh won series 4–1_**
 
 ### <span id="Western_Conference_Semifinals" class="mw-headline">Western Conference Semifinals</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=23 "Edit section: Western Conference Semifinals")<span class="mw-editsection-bracket">\]</span></span>
 
@@ -3014,8 +2963,6 @@ New York Rangers
 This was the sixth playoff meeting between these two teams, with Colorado winning three of the five previous series. They last met in the [2002 Western Conference Final](https://en.wikipedia.org/wiki/2002_Stanley_Cup_playoffs "2002 Stanley Cup playoffs") where Detroit won in seven games. Detroit swept this year's four game regular season series.
 
 The Red Wings swept the Avalanche in four games. Avalanche goaltender [Jose Theodore](https://en.wikipedia.org/wiki/José_Théodore "José Théodore") was pulled early in the second period of game one after allowing four goals on 16 shots; the Red Wings held on to win 4–3. Detroit forward [Johan Franzen](https://en.wikipedia.org/wiki/Johan_Franzén "Johan Franzén")'s hat trick in game two helped the Red Wings to a 5–1 victory. [Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg")'s power-play goal just past the midway mark of the second period held up as the game-winner for Detroit in game three. After allowing the tying goal early in the first period of game four, the Red Wings scored the next seven goals and easily eliminated the Avalanche with an 8–2 win.
-
-  
 
 April 24
 
@@ -3029,7 +2976,7 @@ Colorado Avalanche
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030231.HTM" class="external text">Recap</a>
 
- 
+
 
 [Paul Stastny](https://en.wikipedia.org/wiki/Paul_Stastny "Paul Stastny") (2) – 08:53
 
@@ -3037,7 +2984,7 @@ Colorado Avalanche
 
 09:46 – [Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (3)  
 13:48 – [Daniel Cleary](https://en.wikipedia.org/wiki/Daniel_Cleary "Daniel Cleary") (1)  
-17:23 – *pp* – [Johan Franzen](https://en.wikipedia.org/wiki/Johan_Franzén "Johan Franzén") (3)
+17:23 – _pp_ – [Johan Franzen](https://en.wikipedia.org/wiki/Johan_Franzén "Johan Franzén") (3)
 
 [John-Michael Liles](https://en.wikipedia.org/wiki/John-Michael_Liles "John-Michael Liles") (1) – 05:17  
 [Milan Hejduk](https://en.wikipedia.org/wiki/Milan_Hejduk "Milan Hejduk") (3) – 16:29
@@ -3046,11 +2993,11 @@ Colorado Avalanche
 
 01:13 – Johan Franzen (4)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Jose Theodore](https://en.wikipedia.org/wiki/José_Théodore "José Théodore") 12 saves / 16 shots  
 [Peter Budaj](https://en.wikipedia.org/wiki/Peter_Budaj "Peter Budaj") 20 saves / 20 shots
@@ -3071,19 +3018,19 @@ Colorado Avalanche
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030232.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-04:22 – *pp* – [Johan Franzen](https://en.wikipedia.org/wiki/Johan_Franzén "Johan Franzén") (5)
+04:22 – _pp_ – [Johan Franzen](https://en.wikipedia.org/wiki/Johan_Franzén "Johan Franzén") (5)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-04:04 – *pp* – Johan Franzen (6)  
+04:04 – _pp_ – Johan Franzen (6)  
 05:42 – [Valtteri Filppula](https://en.wikipedia.org/wiki/Valtteri_Filppula "Valtteri Filppula") (2)  
 10:11 – [Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (4)
 
@@ -3091,7 +3038,7 @@ Colorado Avalanche
 
 **Third period**
 
-08:47 – *sh* – Johan Franzen (7)
+08:47 – _sh_ – Johan Franzen (7)
 
 [Jose Theodore](https://en.wikipedia.org/wiki/José_Théodore "José Théodore") 16 saves / 20 shots  
 [Peter Budaj](https://en.wikipedia.org/wiki/Peter_Budaj "Peter Budaj") 19 saves / 20 shots
@@ -3112,9 +3059,9 @@ Colorado Avalanche
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030233.HTM" class="external text">Recap</a>
 
- 
 
-[Pavel Datsyuk](https://en.wikipedia.org/wiki/Pavel_Datsyuk "Pavel Datsyuk") (4) – *pp* – 12:14  
+
+[Pavel Datsyuk](https://en.wikipedia.org/wiki/Pavel_Datsyuk "Pavel Datsyuk") (4) – _pp_ – 12:14  
 [Johan Franzen](https://en.wikipedia.org/wiki/Johan_Franzén "Johan Franzén") (8) – 13:12
 
 **First period**
@@ -3122,17 +3069,17 @@ Colorado Avalanche
 05:17 – [Cody McLeod](https://en.wikipedia.org/wiki/Cody_McLeod "Cody McLeod") (1)
 
 Pavel Datsyuk (5) – 06:36  
-[Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (5) – *pp* – 12:24
+[Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (5) – _pp_ – 12:24
 
 **Second period**
 
-08:08 – *pp* – [Andrew Brunette](https://en.wikipedia.org/wiki/Andrew_Brunette "Andrew Brunette") (4)
+08:08 – _pp_ – [Andrew Brunette](https://en.wikipedia.org/wiki/Andrew_Brunette "Andrew Brunette") (4)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-05:19 – *pp* – Andrew Brunette (5)
+05:19 – _pp_ – Andrew Brunette (5)
 
 [Chris Osgood](https://en.wikipedia.org/wiki/Chris_Osgood "Chris Osgood") 30 saves / 33 shots
 
@@ -3152,7 +3099,7 @@ Colorado Avalanche
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030234.HTM" class="external text">Recap</a>
 
- 
+
 
 [Mikael Samuelsson](https://en.wikipedia.org/wiki/Mikael_Samuelsson "Mikael Samuelsson") (1) – 04:33  
 [Tomas Holmstrom](https://en.wikipedia.org/wiki/Tomas_Holmström "Tomas Holmström") (2) – 18:34  
@@ -3160,22 +3107,22 @@ Colorado Avalanche
 
 **First period**
 
-06:51 – *pp* – [Tyler Arnason](https://en.wikipedia.org/wiki/Tyler_Arnason "Tyler Arnason") (2)
+06:51 – _pp_ – [Tyler Arnason](https://en.wikipedia.org/wiki/Tyler_Arnason "Tyler Arnason") (2)
 
-[Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (6) – *pp* – 02:15  
+[Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (6) – _pp_ – 02:15  
 Henrik Zetterberg (7) – 05:45  
-Johan Franzen (10) – *sh* – 11:37  
-Johan Franzen (11) – *pp* – 17:15
+Johan Franzen (10) – _sh_ – 11:37  
+Johan Franzen (11) – _pp_ – 17:15
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
 Mikael Samuelsson (2) – 08:02
 
 **Third period**
 
-10:26 – *pp* – [John-Michael Liles](https://en.wikipedia.org/wiki/John-Michael_Liles "John-Michael Liles") 2
+10:26 – _pp_ – [John-Michael Liles](https://en.wikipedia.org/wiki/John-Michael_Liles "John-Michael Liles") 2
 
 [Chris Osgood](https://en.wikipedia.org/wiki/Chris_Osgood "Chris Osgood") 29 saves / 31 shots
 
@@ -3184,17 +3131,13 @@ Mikael Samuelsson (2) – 08:02
 [Jose Theodore](https://en.wikipedia.org/wiki/José_Théodore "José Théodore") 12 saves / 15 shots  
 [Peter Budaj](https://en.wikipedia.org/wiki/Peter_Budaj "Peter Budaj") 20 saves / 25 shots
 
-***Detroit won series 4–0***
-
-  
+**_Detroit won series 4–0_**
 
 #### <span id=".282.29_San_Jose_Sharks_vs._.285.29_Dallas_Stars"></span><span id="(2)_San_Jose_Sharks_vs._(5)_Dallas_Stars" class="mw-headline">(2) San Jose Sharks vs. (5) Dallas Stars</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=25 "Edit section: (2) San Jose Sharks vs. (5) Dallas Stars")<span class="mw-editsection-bracket">\]</span></span>
 
 This was the third playoff meeting between these two teams, with Dallas winning both of the previous series. They last met in the [2000 Western Conference Semifinals](https://en.wikipedia.org/wiki/2000_Stanley_Cup_playoffs "2000 Stanley Cup playoffs") where Dallas won in five games. Dallas won this year's eight-game regular season series earning ten of sixteen points.
 
-The Stars held on to defeat the Sharks in six games. [Jonathan Cheechoo](https://en.wikipedia.org/wiki/Jonathan_Cheechoo "Jonathan Cheechoo") tied game one late in the third period for San Jose, but Dallas captain [Brenden Morrow](https://en.wikipedia.org/wiki/Brenden_Morrow "Brenden Morrow") scored 4:39 into the first overtime to give Dallas a 3–2 victory. Dallas forward [Brad Richards](https://en.wikipedia.org/wiki/Brad_Richards "Brad Richards") keyed a four-goal outburst in the third period of game two by scoring a goal and three assists to lead the Stars to a 5–2 win. In game three the Stars overcame a one-goal deficit in the third period as they won in the first overtime on a goal from defenceman [Mattias Norstrom](https://en.wikipedia.org/wiki/Mattias_Norström "Mattias Norström") at 4:37. [Milan Michalek](https://en.wikipedia.org/wiki/Milan_Michálek "Milan Michálek") broke the tie for San Jose in game four with his power-play goal at 3:26 of the third period as the Sharks avoided elimination with a 2–1 victory. Dallas took a two-goal lead into the third period of game five, however the Sharks tied the game with goals by Milan Michalek and [Brian Campbell](https://en.wikipedia.org/wiki/Brian_Campbell "Brian Campbell"). Overtime was needed for the third time in five games and just 1:05 into the first overtime San Jose forward [Joe Pavelski](https://en.wikipedia.org/wiki/Joe_Pavelski "Joe Pavelski") converted on a turnover to keep the Sharks alive with a 3–2 win. After trading goals in regulation time, game six became the [eighth-longest game in NHL history](https://en.wikipedia.org/wiki/Overtime_(ice_hockey)#Longest_NHL_overtime_games "Overtime (ice hockey)") as Brenden Morrow tipped home a pass on the power-play from defenceman [Stephane Robidas](https://en.wikipedia.org/wiki/Stéphane_Robidas "Stéphane Robidas") to end the game 9:03 into the fourth overtime period and win the series for the Stars 4–2.
-
-  
+The Stars held on to defeat the Sharks in six games. [Jonathan Cheechoo](https://en.wikipedia.org/wiki/Jonathan_Cheechoo "Jonathan Cheechoo") tied game one late in the third period for San Jose, but Dallas captain [Brenden Morrow](https://en.wikipedia.org/wiki/Brenden_Morrow "Brenden Morrow") scored 4:39 into the first overtime to give Dallas a 3–2 victory. Dallas forward [Brad Richards](https://en.wikipedia.org/wiki/Brad_Richards "Brad Richards") keyed a four-goal outburst in the third period of game two by scoring a goal and three assists to lead the Stars to a 5–2 win. In game three the Stars overcame a one-goal deficit in the third period as they won in the first overtime on a goal from defenceman [Mattias Norstrom](https://en.wikipedia.org/wiki/Mattias_Norström "Mattias Norström") at 4:37. [Milan Michalek](https://en.wikipedia.org/wiki/Milan_Michálek "Milan Michálek") broke the tie for San Jose in game four with his power-play goal at 3:26 of the third period as the Sharks avoided elimination with a 2–1 victory. Dallas took a two-goal lead into the third period of game five, however the Sharks tied the game with goals by Milan Michalek and [Brian Campbell](https://en.wikipedia.org/wiki/Brian_Campbell "Brian Campbell"). Overtime was needed for the third time in five games and just 1:05 into the first overtime San Jose forward [Joe Pavelski](https://en.wikipedia.org/wiki/Joe_Pavelski "Joe Pavelski") converted on a turnover to keep the Sharks alive with a 3–2 win. After trading goals in regulation time, game six became the [eighth-longest game in NHL history](<https://en.wikipedia.org/wiki/Overtime_(ice_hockey)#Longest_NHL_overtime_games> "Overtime (ice hockey)") as Brenden Morrow tipped home a pass on the power-play from defenceman [Stephane Robidas](https://en.wikipedia.org/wiki/Stéphane_Robidas "Stéphane Robidas") to end the game 9:03 into the fourth overtime period and win the series for the Stars 4–2.
 
 April 25
 
@@ -3210,22 +3153,22 @@ San Jose Sharks
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030241.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-[Mike Modano](https://en.wikipedia.org/wiki/Mike_Modano "Mike Modano") (3) – *pp* – 06:06  
+[Mike Modano](https://en.wikipedia.org/wiki/Mike_Modano "Mike Modano") (3) – _pp_ – 06:06  
 [Brenden Morrow](https://en.wikipedia.org/wiki/Brenden_Morrow "Brenden Morrow") (4) – 09:09
 
 **Second period**
 
 04:50 – [Milan Michalek](https://en.wikipedia.org/wiki/Milan_Michálek "Milan Michálek") (1)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
@@ -3235,7 +3178,7 @@ Brenden Morrow (5) – 04:39
 
 **First overtime period**
 
-*No scoring*
+_No scoring_
 
 [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") 25 saves / 27 shots
 
@@ -3255,28 +3198,28 @@ San Jose Sharks
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030242.HTM" class="external text">Recap</a>
 
- 
+
 
 [Mike Ribeiro](https://en.wikipedia.org/wiki/Mike_Ribeiro "Mike Ribeiro") (3) – 15:37
 
 **First period**
 
-10:13 – *pp* – [Joe Pavelski](https://en.wikipedia.org/wiki/Joe_Pavelski "Joe Pavelski") (4)
+10:13 – _pp_ – [Joe Pavelski](https://en.wikipedia.org/wiki/Joe_Pavelski "Joe Pavelski") (4)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
 14:54 – [Milan Michalek](https://en.wikipedia.org/wiki/Milan_Michálek "Milan Michálek") (2)
 
 [Brad Richards](https://en.wikipedia.org/wiki/Brad_Richards "Brad Richards") (2) – 00:32  
-[Mike Modano](https://en.wikipedia.org/wiki/Mike_Modano "Mike Modano") (4) – *pp* – 03:39  
+[Mike Modano](https://en.wikipedia.org/wiki/Mike_Modano "Mike Modano") (4) – _pp_ – 03:39  
 [Niklas Hagman](https://en.wikipedia.org/wiki/Niklas_Hagman "Niklas Hagman") (1) – 13:55  
-Niklas Hagman (2) – *en* – 18:45
+Niklas Hagman (2) – _en_ – 18:45
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") 29 saves / 31 shots
 
@@ -3298,27 +3241,27 @@ San Jose Sharks
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030243.HTM" class="external text">Recap</a>
 
- 
 
-[Patrick Marleau](https://en.wikipedia.org/wiki/Patrick_Marleau "Patrick Marleau") (3) – *sh* – 19:25
+
+[Patrick Marleau](https://en.wikipedia.org/wiki/Patrick_Marleau "Patrick Marleau") (3) – _sh_ – 19:25
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-00:47 – *pp* – [Sergei Zubov](https://en.wikipedia.org/wiki/Sergei_Zubov "Sergei Zubov") (1)
+00:47 – _pp_ – [Sergei Zubov](https://en.wikipedia.org/wiki/Sergei_Zubov "Sergei Zubov") (1)
 
-*No scoring*
+_No scoring_
 
 **First overtime period**
 
@@ -3342,25 +3285,25 @@ Dallas Stars
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030244.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-[Patrick Marleau](https://en.wikipedia.org/wiki/Patrick_Marleau "Patrick Marleau") (4) – *sh* – 09:19
+[Patrick Marleau](https://en.wikipedia.org/wiki/Patrick_Marleau "Patrick Marleau") (4) – _sh_ – 09:19
 
 **Second period**
 
 05:25 – [Jere Lehtinen](https://en.wikipedia.org/wiki/Jere_Lehtinen "Jere Lehtinen") (3)
 
-[Milan Michalek](https://en.wikipedia.org/wiki/Milan_Michálek "Milan Michálek") (3) – *pp* – 03:26
+[Milan Michalek](https://en.wikipedia.org/wiki/Milan_Michálek "Milan Michálek") (3) – _pp_ – 03:26
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Evgeni Nabokov](https://en.wikipedia.org/wiki/Evgeni_Nabokov "Evgeni Nabokov") 17 saves / 18 shots
 
@@ -3382,29 +3325,29 @@ Dallas Stars
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030245.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-[Jere Lehtinen](https://en.wikipedia.org/wiki/Jere_Lehtinen "Jere Lehtinen") (4) – *pp* – 06:14  
+[Jere Lehtinen](https://en.wikipedia.org/wiki/Jere_Lehtinen "Jere Lehtinen") (4) – _pp_ – 06:14  
 [Brenden Morrow](https://en.wikipedia.org/wiki/Brenden_Morrow "Brenden Morrow") (6) – 19:04
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
 06:20 – [Milan Michalek](https://en.wikipedia.org/wiki/Milan_Michálek "Milan Michálek") (4)  
 11:07 – [Brian Campbell](https://en.wikipedia.org/wiki/Brian_Campbell "Brian Campbell") (1)
 
-*No scoring*
+_No scoring_
 
 **First overtime period**
 
@@ -3430,15 +3373,15 @@ San Jose Sharks
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030246.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
@@ -3448,13 +3391,13 @@ San Jose Sharks
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Fourth overtime period**
 
-09:03 – *pp* – [Brenden Morrow](https://en.wikipedia.org/wiki/Brenden_Morrow "Brenden Morrow") (7)
+09:03 – _pp_ – [Brenden Morrow](https://en.wikipedia.org/wiki/Brenden_Morrow "Brenden Morrow") (7)
 
 [Evgeni Nabokov](https://en.wikipedia.org/wiki/Evgeni_Nabokov "Evgeni Nabokov") 53 saves / 55 shots
 
@@ -3462,12 +3405,9 @@ San Jose Sharks
 
 [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") 61 saves / 62 shots
 
-***Dallas won series 4–2***
+**_Dallas won series 4–2_**
 
-  
-
-<span id="Conference_Finals" class="mw-headline">Conference Finals</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=26 "Edit section: Conference Finals")<span class="mw-editsection-bracket">\]</span></span>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <span id="Conference_Finals" class="mw-headline">Conference Finals</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=26 "Edit section: Conference Finals")<span class="mw-editsection-bracket">\]</span></span>
 
 See also: [NHL Conference Finals](https://en.wikipedia.org/wiki/NHL_Conference_Finals "NHL Conference Finals")
 
@@ -3478,8 +3418,6 @@ See also: [NHL Conference Finals](https://en.wikipedia.org/wiki/NHL_Conference_F
 This was the fourth playoff meeting between these two teams, with Philadelphia winning all three of the previous series. They last met in the [2000 Eastern Conference Semifinals](https://en.wikipedia.org/wiki/2000_Stanley_Cup_playoffs "2000 Stanley Cup playoffs") where Philadelphia won in six games. Pittsburgh most recently made it to the Conference Finals in [2001](https://en.wikipedia.org/wiki/2001_Stanley_Cup_playoffs "2001 Stanley Cup playoffs"), when they lost to the New Jersey Devils in five games. Philadelphia last made the Conference Finals in [2004](https://en.wikipedia.org/wiki/2004_Stanley_Cup_playoffs "2004 Stanley Cup playoffs"), where they lost in seven games to the Tampa Bay Lightning. Philadelphia won five of the eight games during this year's regular season series.
 
 The Penguins eliminated their <a href="https://en.wikipedia.org/wiki/Battle_of_Pennsylvania" class="mw-redirect" title="Battle of Pennsylvania">cross-state rivals</a> the Flyers in five games. [Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin")'s seventh goal of the playoffs held up as the game-winner for Pittsburgh in game one as the Penguins earned a 4–2 win. Pittsburgh forward [Maxime Talbot](https://en.wikipedia.org/wiki/Maxime_Talbot "Maxime Talbot") broke the tie in game two just before the midway mark of the third period and [Jordan Staal](https://en.wikipedia.org/wiki/Jordan_Staal "Jordan Staal") added an empty-net goal for the Penguins to give them their second consecutive 4–2 victory. [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") scored twice in game three for the Penguins as they won the game 4–1 to take a commanding 3–0 series lead. The Flyers jumped out to a 3–0 lead in the first period of game four and held on to win the game 4–2. Marian Hossa recorded four points for Pittsburgh in game five as the Penguins won their eighth consecutive home game to advance to the [Stanley Cup Finals](https://en.wikipedia.org/wiki/2008_Stanley_Cup_Finals "2008 Stanley Cup Finals") by a decisive final score of 6–0.
-
-  
 
 May 9
 
@@ -3493,9 +3431,9 @@ Philadelphia Flyers
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030311.HTM" class="external text">Recap</a>
 
- 
 
-[Mike Richards](https://en.wikipedia.org/wiki/Mike_Richards_(ice_hockey) "Mike Richards (ice hockey)") (5) – 08:30  
+
+[Mike Richards](<https://en.wikipedia.org/wiki/Mike_Richards_(ice_hockey)> "Mike Richards (ice hockey)") (5) – 08:30  
 Mike Richards (6) – 12:50
 
 **First period**
@@ -3504,17 +3442,17 @@ Mike Richards (6) – 12:50
 14:11 – [Sidney Crosby](https://en.wikipedia.org/wiki/Sidney_Crosby "Sidney Crosby") (3)  
 19:53 – [Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin") (7)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-04:50 – *sh* – Evgeni Malkin (8)
+04:50 – _sh_ – Evgeni Malkin (8)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Martin Biron](https://en.wikipedia.org/wiki/Martin_Biron "Martin Biron") 17 saves / 21 shots
 
@@ -3534,27 +3472,27 @@ Philadelphia Flyers
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030312.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-10:48 – *pp* – [Sidney Crosby](https://en.wikipedia.org/wiki/Sidney_Crosby "Sidney Crosby") (4)
+10:48 – _pp_ – [Sidney Crosby](https://en.wikipedia.org/wiki/Sidney_Crosby "Sidney Crosby") (4)
 
-[Jeff Carter](https://en.wikipedia.org/wiki/Jeff_Carter "Jeff Carter") (5) – *pp* – 05:46  
-[Mike Richards](https://en.wikipedia.org/wiki/Mike_Richards_(ice_hockey) "Mike Richards (ice hockey)") (7) – *sh* – 19:36
+[Jeff Carter](https://en.wikipedia.org/wiki/Jeff_Carter "Jeff Carter") (5) – _pp_ – 05:46  
+[Mike Richards](<https://en.wikipedia.org/wiki/Mike_Richards_(ice_hockey)> "Mike Richards (ice hockey)") (7) – _sh_ – 19:36
 
 **Second period**
 
-13:43 – *pp* – [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (6)
+13:43 – _pp_ – [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (6)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
 08:51 – [Maxime Talbot](https://en.wikipedia.org/wiki/Maxime_Talbot "Maxime Talbot") (2)  
-19:31 – *en* – [Jordan Staal](https://en.wikipedia.org/wiki/Jordan_Staal "Jordan Staal") (3)
+19:31 – _en_ – [Jordan Staal](https://en.wikipedia.org/wiki/Jordan_Staal "Jordan Staal") (3)
 
 [Martin Biron](https://en.wikipedia.org/wiki/Martin_Biron "Martin Biron") 34 saves / 37 shots
 
@@ -3574,27 +3512,27 @@ Philadelphia Flyers
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030313.HTM" class="external text">Recap</a>
 
- 
 
-[Ryan Whitney](https://en.wikipedia.org/wiki/Ryan_Whitney "Ryan Whitney") (1) – *pp* – 05:03  
+
+[Ryan Whitney](https://en.wikipedia.org/wiki/Ryan_Whitney "Ryan Whitney") (1) – _pp_ – 05:03  
 [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (7) – 07:41
 
 **First period**
 
 10:59 – [R. J. Umberger](https://en.wikipedia.org/wiki/R._J._Umberger "R. J. Umberger") (10)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
 [Ryan Malone](https://en.wikipedia.org/wiki/Ryan_Malone "Ryan Malone") (4) – 09:58  
-Marian Hossa (8) – *en* – 19:06
+Marian Hossa (8) – _en_ – 19:06
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") 17 saves / 18 shots
 
@@ -3614,28 +3552,28 @@ Pittsburgh Penguins
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030314.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
 08:27 – [Joffrey Lupul](https://en.wikipedia.org/wiki/Joffrey_Lupul "Joffrey Lupul") (3)  
-11:48 – *pp* – [Daniel Briere](https://en.wikipedia.org/wiki/Daniel_Brière "Daniel Brière") (9)  
-18:50 – *pp* – [Jeff Carter](https://en.wikipedia.org/wiki/Jeff_Carter "Jeff Carter") (6)
+11:48 – _pp_ – [Daniel Briere](https://en.wikipedia.org/wiki/Daniel_Brière "Daniel Brière") (9)  
+18:50 – _pp_ – [Jeff Carter](https://en.wikipedia.org/wiki/Jeff_Carter "Jeff Carter") (6)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
 [Jordan Staal](https://en.wikipedia.org/wiki/Jordan_Staal "Jordan Staal") (4) – 03:16  
 Jordan Staal (5) – 14:11
 
 **Third period**
 
-19:27 – *en* – Joffrey Lupul (4)
+19:27 – _en_ – Joffrey Lupul (4)
 
 [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") 30 saves / 33 shots
 
@@ -3655,24 +3593,24 @@ Philadelphia Flyers
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030315.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-02:30 – *pp* – [Ryan Malone](https://en.wikipedia.org/wiki/Ryan_Malone "Ryan Malone") (5)  
+02:30 – _pp_ – [Ryan Malone](https://en.wikipedia.org/wiki/Ryan_Malone "Ryan Malone") (5)  
 09:50 – [Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin") (9)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
 08:24 – [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (9)  
-11:42 – *pp* – Ryan Malone (6)  
+11:42 – _pp_ – Ryan Malone (6)  
 19:02 – [Jordan Staal](https://en.wikipedia.org/wiki/Jordan_Staal "Jordan Staal") (6)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
@@ -3684,9 +3622,7 @@ Philadelphia Flyers
 
 [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") 21 saves / 21 shots
 
-***Pittsburgh won series 4–1***
-
-  
+**_Pittsburgh won series 4–1_**
 
 ### <span id="Western_Conference_Final" class="mw-headline">Western Conference Final</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=29 "Edit section: Western Conference Final")<span class="mw-editsection-bracket">\]</span></span>
 
@@ -3695,8 +3631,6 @@ Philadelphia Flyers
 This was the fourth playoff meeting between these two teams, with Detroit winning all three of the previous series. They last met in the [1998 Western Conference Final](https://en.wikipedia.org/wiki/1998_Stanley_Cup_playoffs "1998 Stanley Cup playoffs") where Detroit won in six games. This was Detroit's second consecutive Conference Finals appearance; they lost to the Anaheim Ducks in six games in the [previous year](https://en.wikipedia.org/wiki/2007_Stanley_Cup_playoffs "2007 Stanley Cup playoffs"). Dallas last made the Conference Finals in [2000](https://en.wikipedia.org/wiki/2000_Stanley_Cup_playoffs "2000 Stanley Cup playoffs"), where they defeated the Colorado Avalanche in seven games. Detroit won three of the four games during this year's regular season series.
 
 The Red Wings defeated the Stars in six games. Detroit scored three power-play goals as they took game one 4–1. Red Wings' goaltender [Chris Osgood](https://en.wikipedia.org/wiki/Chris_Osgood "Chris Osgood") made 17 saves in game two to give Detroit a 2–1 win. Stars' forward [Mike Ribeiro](https://en.wikipedia.org/wiki/Mike_Ribeiro "Mike Ribeiro") was assessed a match penalty at the end of game two for retaliating to an earlier stick infraction with a two-handed slash to Chris Osgood's chest; neither players were suspended. Detroit forward [Pavel Datsyuk](https://en.wikipedia.org/wiki/Pavel_Datsyuk "Pavel Datsyuk") scored a [hat-trick](https://en.wikipedia.org/wiki/Hat-trick "Hat-trick") in game three for the Red Wings; while Osgood stopped 16 shots for the 5–2 win. [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") made 33 saves as the Stars avoided elimination in game four winning 3–1. Turco continued his strong play for Dallas in game five as he stopped 38 shots in a 2–1 victory. The Red Wings used the strength of a three-goal first period in game six to eliminate the Stars and return to the Stanley Cup Finals for the first time since 2002.
-
-  
 
 May 8
 
@@ -3710,27 +3644,27 @@ Dallas Stars
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030321.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-04:28 – *pp* – [Brian Rafalski](https://en.wikipedia.org/wiki/Brian_Rafalski "Brian Rafalski") (2)  
-15:34 – *pp* – [Johan Franzen](https://en.wikipedia.org/wiki/Johan_Franzén "Johan Franzén") (12)
+04:28 – _pp_ – [Brian Rafalski](https://en.wikipedia.org/wiki/Brian_Rafalski "Brian Rafalski") (2)  
+15:34 – _pp_ – [Johan Franzen](https://en.wikipedia.org/wiki/Johan_Franzén "Johan Franzén") (12)
 
 [Brenden Morrow](https://en.wikipedia.org/wiki/Brenden_Morrow "Brenden Morrow") (8) – 18:53
 
 **Second period**
 
-06:40 – *pp* – [Tomas Holmstrom](https://en.wikipedia.org/wiki/Tomas_Holmström "Tomas Holmström") (3)  
+06:40 – _pp_ – [Tomas Holmstrom](https://en.wikipedia.org/wiki/Tomas_Holmström "Tomas Holmström") (3)  
 15:37 – [Valtteri Filppula](https://en.wikipedia.org/wiki/Valtteri_Filppula "Valtteri Filppula") (3)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") 27 saves / 31 shots
 
@@ -3750,26 +3684,26 @@ Dallas Stars
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030322.HTM" class="external text">Recap</a>
 
- 
 
-[Stephane Robidas](https://en.wikipedia.org/wiki/Stéphane_Robidas "Stéphane Robidas") (2) – *pp*– 10:41
+
+[Stephane Robidas](https://en.wikipedia.org/wiki/Stéphane_Robidas "Stéphane Robidas") (2) – _pp_– 10:41
 
 **First period**
 
 05:56 – [Darren Helm](https://en.wikipedia.org/wiki/Darren_Helm "Darren Helm") (1)  
-15:13 – *pp* – [Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (8)
+15:13 – _pp_ – [Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (8)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") 32 saves / 34 shots
 
@@ -3789,7 +3723,7 @@ Dallas Stars
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030323.HTM" class="external text">Recap</a>
 
- 
+
 
 [Pavel Datsyuk](https://en.wikipedia.org/wiki/Pavel_Datsyuk "Pavel Datsyuk") (6) – 09:27  
 Pavel Datsyuk (7) – 15:50
@@ -3804,12 +3738,12 @@ Pavel Datsyuk (7) – 15:50
 
 03:47 – [Brad Richards](https://en.wikipedia.org/wiki/Brad_Richards "Brad Richards") (3)
 
-[Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (9) – *sh* – 01:38  
+[Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (9) – _sh_ – 01:38  
 Pavel Datsyuk (8) – 17:19
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Chris Osgood](https://en.wikipedia.org/wiki/Chris_Osgood "Chris Osgood") 16 saves / 18 shots
 
@@ -3829,15 +3763,15 @@ Detroit Red Wings
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030324.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
@@ -3847,7 +3781,7 @@ Detroit Red Wings
 
 **Third period**
 
-05:35 – *pp* – [Mike Modano](https://en.wikipedia.org/wiki/Mike_Modano "Mike Modano") (5)  
+05:35 – _pp_ – [Mike Modano](https://en.wikipedia.org/wiki/Mike_Modano "Mike Modano") (5)  
 14:34 – [Brenden Morrow](https://en.wikipedia.org/wiki/Brenden_Morrow "Brenden Morrow") (9)
 
 [Chris Osgood](https://en.wikipedia.org/wiki/Chris_Osgood "Chris Osgood") 19 saves / 22 shots
@@ -3868,25 +3802,25 @@ Detroit Red Wings
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030325.HTM" class="external text">Recap</a>
 
- 
+
 
 [Trevor Daley](https://en.wikipedia.org/wiki/Trevor_Daley "Trevor Daley") (1) – 09:21
 
 **First period**
 
-15:30 – *pp* – [Jiri Hudler](https://en.wikipedia.org/wiki/Jiří_Hudler "Jiří Hudler") (4)
+15:30 – _pp_ – [Jiri Hudler](https://en.wikipedia.org/wiki/Jiří_Hudler "Jiří Hudler") (4)
 
 [Joel Lundqvist](https://en.wikipedia.org/wiki/Joel_Lundqvist "Joel Lundqvist") (2) – 06:04
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") 38 saves / 39 shots
 
@@ -3906,27 +3840,27 @@ Dallas Stars
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030326.HTM" class="external text">Recap</a>
 
- 
+
 
 [Kris Draper](https://en.wikipedia.org/wiki/Kris_Draper "Kris Draper") (3) – 03:45  
-[Pavel Datsyuk](https://en.wikipedia.org/wiki/Pavel_Datsyuk "Pavel Datsyuk") (9) – *pp* – 11:41  
+[Pavel Datsyuk](https://en.wikipedia.org/wiki/Pavel_Datsyuk "Pavel Datsyuk") (9) – _pp_ – 11:41  
 [Dallas Drake](https://en.wikipedia.org/wiki/Dallas_Drake "Dallas Drake") (1) – 16:17
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-[Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (11) – *sh* – 03:11
+[Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (11) – _sh_ – 03:11
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
-02:27 – *pp* – [Stephane Robidas](https://en.wikipedia.org/wiki/Stéphane_Robidas "Stéphane Robidas") (3)
+02:27 – _pp_ – [Stephane Robidas](https://en.wikipedia.org/wiki/Stéphane_Robidas "Stéphane Robidas") (3)
 
 [Chris Osgood](https://en.wikipedia.org/wiki/Chris_Osgood "Chris Osgood") 28 saves / 29 shots
 
@@ -3934,18 +3868,13 @@ Dallas Stars
 
 [Marty Turco](https://en.wikipedia.org/wiki/Marty_Turco "Marty Turco") 25 saves / 29 shots
 
-***Detroit won series 4–2***
+**_Detroit won series 4–2_**
 
-  
-
-<span id="Stanley_Cup_Finals" class="mw-headline">Stanley Cup Finals</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=31 "Edit section: Stanley Cup Finals")<span class="mw-editsection-bracket">\]</span></span>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <span id="Stanley_Cup_Finals" class="mw-headline">Stanley Cup Finals</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=31 "Edit section: Stanley Cup Finals")<span class="mw-editsection-bracket">\]</span></span>
 
 Main article: [2008 Stanley Cup Finals](https://en.wikipedia.org/wiki/2008_Stanley_Cup_Finals "2008 Stanley Cup Finals")
 
 This was the first playoff meeting between these two teams. Both teams won their last appearance in the Finals; Detroit defeated Carolina in five games in [2002](https://en.wikipedia.org/wiki/2002_Stanley_Cup_Finals "2002 Stanley Cup Finals"), while Pittsburgh swept Chicago in four games in [1992](https://en.wikipedia.org/wiki/1992_Stanley_Cup_Finals "1992 Stanley Cup Finals"). The teams did not play each other during this year's regular season.
-
-  
 
 May 24
 
@@ -3959,27 +3888,27 @@ Pittsburgh Penguins
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030411.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
 13:01 – [Mikael Samuelsson](https://en.wikipedia.org/wiki/Mikael_Samuelsson "Mikael Samuelsson") (3)
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
 02:16 – Mikael Samuelsson (4)  
-17:18 – *sh* – [Daniel Cleary](https://en.wikipedia.org/wiki/Daniel_Cleary "Daniel Cleary") (2)  
-19:47 – *pp* – [Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (12)
+17:18 – _sh_ – [Daniel Cleary](https://en.wikipedia.org/wiki/Daniel_Cleary "Daniel Cleary") (2)  
+19:47 – _pp_ – [Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (12)
 
 [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") 32 saves / 36 shots
 
@@ -3999,22 +3928,22 @@ Pittsburgh Penguins
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030412.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
 06:55 – [Brad Stuart](https://en.wikipedia.org/wiki/Brad_Stuart "Brad Stuart") (1)  
 11:18 – [Tomas Holmstrom](https://en.wikipedia.org/wiki/Tomas_Holmström "Tomas Holmström") (4)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Third period**
 
@@ -4038,19 +3967,19 @@ Detroit Red Wings
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030413.HTM" class="external text">Recap</a>
 
- 
 
-*No scoring*
+
+_No scoring_
 
 **First period**
 
 17:25 – [Sidney Crosby](https://en.wikipedia.org/wiki/Sidney_Crosby "Sidney Crosby") (5)
 
-[Johan Franzen](https://en.wikipedia.org/wiki/Johan_Franzén "Johan Franzén") (13) – *pp* – 14:48
+[Johan Franzen](https://en.wikipedia.org/wiki/Johan_Franzén "Johan Franzén") (13) – _pp_ – 14:48
 
 **Second period**
 
-02:34 – *pp* – Sidney Crosby (6)
+02:34 – _pp_ – Sidney Crosby (6)
 
 [Mikael Samuelsson](https://en.wikipedia.org/wiki/Mikael_Samuelsson "Mikael Samuelsson") (5) – 13:37
 
@@ -4076,25 +4005,25 @@ Pittsburgh Penguins
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030414.HTM" class="external text">Recap</a>
 
- 
+
 
 [Nicklas Lidstrom](https://en.wikipedia.org/wiki/Nicklas_Lidström "Nicklas Lidström") (3) – 07:06
 
 **First period**
 
-02:51 – *pp* – [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (10)
+02:51 – _pp_ – [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (10)
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
-*No scoring*
+_No scoring_
 
 [Jiri Hudler](https://en.wikipedia.org/wiki/Jiří_Hudler "Jiří Hudler") (5) – 02:26
 
 **Third period**
 
-*No scoring*
+_No scoring_
 
 [Chris Osgood](https://en.wikipedia.org/wiki/Chris_Osgood "Chris Osgood") 22 saves / 23 shots
 
@@ -4116,16 +4045,16 @@ Detroit Red Wings
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030415.HTM" class="external text">Recap</a>
 
- 
+
 
 [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (11) – 08:37  
 [Adam Hall](https://en.wikipedia.org/wiki/Adam_Hall "Adam Hall") (3) – 14:41
 
 **First period**
 
-*No scoring*
+_No scoring_
 
-*No scoring*
+_No scoring_
 
 **Second period**
 
@@ -4135,14 +4064,14 @@ Detroit Red Wings
 
 **Third period**
 
-06:43 – *pp* – [Pavel Datsyuk](https://en.wikipedia.org/wiki/Pavel_Datsyuk "Pavel Datsyuk") (10)  
+06:43 – _pp_ – [Pavel Datsyuk](https://en.wikipedia.org/wiki/Pavel_Datsyuk "Pavel Datsyuk") (10)  
 09:23 – [Brian Rafalski](https://en.wikipedia.org/wiki/Brian_Rafalski "Brian Rafalski") (3)
 
-[Petr Sykora](https://en.wikipedia.org/wiki/Petr_Sýkora "Petr Sýkora") (6) – *pp* – 09:57
+[Petr Sykora](https://en.wikipedia.org/wiki/Petr_Sýkora "Petr Sýkora") (6) – _pp_ – 09:57
 
 **Third overtime period**
 
-*No scoring*
+_No scoring_
 
 [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") 55 saves / 58 shots
 
@@ -4162,25 +4091,25 @@ Pittsburgh Penguins
 
 <a href="https://www.nhl.com/scores/htmlreports/20072008/GS030416.HTM" class="external text">Recap</a>
 
- 
 
-[Brian Rafalski](https://en.wikipedia.org/wiki/Brian_Rafalski "Brian Rafalski") (4) – *pp* – 05:03
+
+[Brian Rafalski](https://en.wikipedia.org/wiki/Brian_Rafalski "Brian Rafalski") (4) – _pp_ – 05:03
 
 **First period**
 
-*No scoring*
+_No scoring_
 
 [Valtteri Filppula](https://en.wikipedia.org/wiki/Valtteri_Filppula "Valtteri Filppula") (5) – 08:07
 
 **Second period**
 
-15:26 – *pp* – [Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin") (10)
+15:26 – _pp_ – [Evgeni Malkin](https://en.wikipedia.org/wiki/Evgeni_Malkin "Evgeni Malkin") (10)
 
 [Henrik Zetterberg](https://en.wikipedia.org/wiki/Henrik_Zetterberg "Henrik Zetterberg") (13) – 07:36
 
 **Third period**
 
-18:33 – *pp* – [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (12)
+18:33 – _pp_ – [Marian Hossa](https://en.wikipedia.org/wiki/Marián_Hossa "Marián Hossa") (12)
 
 [Chris Osgood](https://en.wikipedia.org/wiki/Chris_Osgood "Chris Osgood") 20 saves / 22 shots
 
@@ -4188,12 +4117,9 @@ Pittsburgh Penguins
 
 [Marc-Andre Fleury](https://en.wikipedia.org/wiki/Marc-André_Fleury "Marc-André Fleury") 27 saves / 30 shots
 
-***Detroit won series 4–2***
+**_Detroit won series 4–2_**
 
-  
-
-<span id="Player_statistics" class="mw-headline">Player statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=32 "Edit section: Player statistics")<span class="mw-editsection-bracket">\]</span></span>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <span id="Player_statistics" class="mw-headline">Player statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=32 "Edit section: Player statistics")<span class="mw-editsection-bracket">\]</span></span>
 
 ### <span id="Skaters" class="mw-headline">Skaters</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=33 "Edit section: Skaters")<span class="mw-editsection-bracket">\]</span></span>
 
@@ -4201,7 +4127,7 @@ These are the top ten skaters based on points. If the list exceeds ten skaters b
 
 <table><thead><tr class="header"><th style="text-align: left;">Player</th><th style="text-align: left;">Team</th><th>GP</th><th>G</th><th>A</th><th>Pts</th><th>+/–</th><th>PIM</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><span data-sort-value="Zetterberg, Henrik"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Henrik_Zetterberg" title="Henrik Zetterberg">Henrik Zetterberg</a></span></span></span></td><td style="text-align: left;">Detroit Red Wings</td><td>22</td><td>13</td><td>14</td><td><strong>27</strong></td><td>+16</td><td>16</td></tr><tr class="even"><td style="text-align: left;"><span data-sort-value="Crosby, Sidney"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Sidney_Crosby" title="Sidney Crosby">Sidney Crosby</a></span></span></span></td><td style="text-align: left;">Pittsburgh Penguins</td><td>20</td><td>6</td><td>21</td><td><strong>27</strong></td><td>+7</td><td>12</td></tr><tr class="odd"><td style="text-align: left;"><span data-sort-value="Hossa, Marian"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Marián_Hossa" title="Marián Hossa">Marian Hossa</a></span></span></span></td><td style="text-align: left;">Pittsburgh Penguins</td><td>20</td><td>12</td><td>14</td><td><strong>26</strong></td><td>+8</td><td>12</td></tr><tr class="even"><td style="text-align: left;"><span data-sort-value="Datsyuk, Pavel"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Pavel_Datsyuk" title="Pavel Datsyuk">Pavel Datsyuk</a></span></span></span></td><td style="text-align: left;">Detroit Red Wings</td><td>22</td><td>10</td><td>13</td><td><strong>23</strong></td><td>+13</td><td>6</td></tr><tr class="odd"><td style="text-align: left;"><span data-sort-value="Malkin, Evgeni"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Evgeni_Malkin" title="Evgeni Malkin">Evgeni Malkin</a></span></span></span></td><td style="text-align: left;">Pittsburgh Penguins</td><td>20</td><td>10</td><td>12</td><td><strong>22</strong></td><td>+3</td><td>24</td></tr><tr class="even"><td style="text-align: left;"><span data-sort-value="Franzen, Johan"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Johan_Franzén" title="Johan Franzén">Johan Franzen</a></span></span></span></td><td style="text-align: left;">Detroit Red Wings</td><td>16</td><td>13</td><td>5</td><td><strong>18</strong></td><td>+13</td><td>14</td></tr><tr class="odd"><td style="text-align: left;"><span data-sort-value="Ribeiro, Mike"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Mike_Ribeiro" title="Mike Ribeiro">Mike Ribeiro</a></span></span></span></td><td style="text-align: left;">Dallas Stars</td><td>18</td><td>3</td><td>14</td><td><strong>17</strong></td><td>0</td><td>16</td></tr><tr class="even"><td style="text-align: left;"><span data-sort-value="Briere, Daniel"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Daniel_Brière" title="Daniel Brière">Daniel Briere</a></span></span></span></td><td style="text-align: left;">Philadelphia Flyers</td><td>17</td><td>9</td><td>7</td><td><strong>16</strong></td><td>-3</td><td>20</td></tr><tr class="odd"><td style="text-align: left;"><span data-sort-value="Malone, Ryan"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Ryan_Malone" title="Ryan Malone">Ryan Malone</a></span></span></span></td><td style="text-align: left;">Pittsburgh Penguins</td><td>20</td><td>6</td><td>10</td><td><strong>16</strong></td><td>+4</td><td>25</td></tr><tr class="even"><td style="text-align: left;"><span data-sort-value="Umberger, R. J."><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/R._J._Umberger" title="R. J. Umberger">R. J. Umberger</a></span></span></span></td><td style="text-align: left;">Philadelphia Flyers</td><td>17</td><td>10</td><td>5</td><td><strong>15</strong></td><td>+7</td><td>10</td></tr><tr class="odd"><td style="text-align: left;"><span data-sort-value="Morrow, Brenden"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Brenden_Morrow" title="Brenden Morrow">Brenden Morrow</a></span></span></span></td><td style="text-align: left;">Dallas Stars</td><td>18</td><td>9</td><td>6</td><td><strong>15</strong></td><td>0</td><td>22</td></tr><tr class="even"><td style="text-align: left;"><span data-sort-value="Jagr, Jaromir"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Jaromír_Jágr" title="Jaromír Jágr">Jaromir Jagr</a></span></span></span></td><td style="text-align: left;">New York Rangers</td><td>10</td><td>5</td><td>10</td><td><strong>15</strong></td><td>+3</td><td>12</td></tr><tr class="odd"><td style="text-align: left;"><span data-sort-value="Richards, Brad"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Brad_Richards" title="Brad Richards">Brad Richards</a></span></span></span></td><td style="text-align: left;">Dallas Stars</td><td>18</td><td>3</td><td>12</td><td><strong>15</strong></td><td>+1</td><td>8</td></tr><tr class="even"><td style="text-align: left;"><span data-sort-value="Kronwall, Niklas"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Niklas_Kronwall" title="Niklas Kronwall">Niklas Kronwall</a></span></span></span></td><td style="text-align: left;">Detroit Red Wings</td><td>22</td><td>0</td><td>15</td><td><strong>15</strong></td><td>+16</td><td>18</td></tr></tbody></table>
 
-<span class="small">*GP = Games played; G = Goals; A = Assists; Pts = Points; +/– = <a href="https://en.wikipedia.org/wiki/Plus-minus_(ice_hockey)" class="mw-redirect" title="Plus-minus (ice hockey)">Plus/Minus</a>; PIM = Penalty Minutes*</span>
+<span class="small">_GP = Games played; G = Goals; A = Assists; Pts = Points; +/– = <a href="https://en.wikipedia.org/wiki/Plus-minus_(ice_hockey)" class="mw-redirect" title="Plus-minus (ice hockey)">Plus/Minus</a>; PIM = Penalty Minutes_</span>
 
 ### <span id="Goaltending" class="mw-headline">Goaltending</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=34 "Edit section: Goaltending")<span class="mw-editsection-bracket">\]</span></span>
 
@@ -4209,27 +4135,24 @@ This is a combined table of the top five goaltenders based on [goals against ave
 
 <table><thead><tr class="header"><th style="text-align: left;">Player</th><th style="text-align: left;">Team</th><th>GP</th><th>W</th><th>L</th><th>SA</th><th>GA</th><th>GAA</th><th>Sv%</th><th>SO</th><th style="text-align: right;">TOI</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><span data-sort-value="Osgood, Chris"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Chris_Osgood" title="Chris Osgood">Chris Osgood</a></span></span></span></td><td style="text-align: left;">Detroit Red Wings</td><td>19</td><td>14</td><td>4</td><td>430</td><td>30</td><td><strong>1.55</strong></td><td><strong>.930</strong></td><td>3</td><td style="text-align: right;">1159:57</td></tr><tr class="even"><td style="text-align: left;"><span data-sort-value="Fleury, Marc-Andre"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Marc-André_Fleury" title="Marc-André Fleury">Marc-Andre Fleury</a></span></span></span></td><td style="text-align: left;">Pittsburgh Penguins</td><td>20</td><td>14</td><td>6</td><td>610</td><td>41</td><td><strong>1.97</strong></td><td><strong>.933</strong></td><td>3</td><td style="text-align: right;">1251:10</td></tr><tr class="odd"><td style="text-align: left;"><span data-sort-value="Turco, Marty"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Marty_Turco" title="Marty Turco">Marty Turco</a></span></span></span></td><td style="text-align: left;">Dallas Stars</td><td>18</td><td>10</td><td>8</td><td>511</td><td>40</td><td><strong>2.08</strong></td><td><strong>.922</strong></td><td>1</td><td style="text-align: right;">1152:13</td></tr><tr class="even"><td style="text-align: left;"><span data-sort-value="Nabokov, Evgeni"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Evgeni_Nabokov" title="Evgeni Nabokov">Evgeni Nabokov</a></span></span></span></td><td style="text-align: left;">San Jose Sharks</td><td>13</td><td>6</td><td>7</td><td>333</td><td>31</td><td><strong>2.18</strong></td><td>.907</td><td>1</td><td style="text-align: right;">852:52</td></tr><tr class="odd"><td style="text-align: left;"><span data-sort-value="Lundqvist, Henrik"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Henrik_Lundqvist" title="Henrik Lundqvist">Henrik Lundqvist</a></span></span></span></td><td style="text-align: left;">New York Rangers</td><td>10</td><td>5</td><td>5</td><td>287</td><td>26</td><td><strong>2.57</strong></td><td><strong>.909</strong></td><td>1</td><td style="text-align: right;">608:04</td></tr><tr class="even"><td style="text-align: left;"><span data-sort-value="Thomas, Tim"><span class="vcard"><span class="fn"><a href="https://en.wikipedia.org/wiki/Tim_Thomas_(ice_hockey)" title="Tim Thomas (ice hockey)">Tim Thomas</a></span></span></span></td><td style="text-align: left;">Boston Bruins</td><td>7</td><td>3</td><td>4</td><td>221</td><td>19</td><td>2.65</td><td><strong>.914</strong></td><td>0</td><td style="text-align: right;">430:06</td></tr></tbody></table>
 
-*<span class="small">GP = Games Played; W = Wins; L = Losses; SA = Shots Against; GA = Goals Against; GAA = Goals Against Average; Sv% = Save Percentage; SO = Shutouts; TOI = Time On Ice (minutes:seconds)</span>*
+_<span class="small">GP = Games Played; W = Wins; L = Losses; SA = Shots Against; GA = Goals Against; GAA = Goals Against Average; Sv% = Save Percentage; SO = Shutouts; TOI = Time On Ice (minutes:seconds)</span>_
 
-<span id="Television" class="mw-headline">Television</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=35 "Edit section: Television")<span class="mw-editsection-bracket">\]</span></span>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <span id="Television" class="mw-headline">Television</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=35 "Edit section: Television")<span class="mw-editsection-bracket">\]</span></span>
 
 National Canadian English-language coverage of the playoffs were split between the [CBC](https://en.wikipedia.org/wiki/CBC_Television "CBC Television") and [TSN](https://en.wikipedia.org/wiki/The_Sports_Network "The Sports Network"), with the CBC holding exclusive rights to the Stanley Cup Finals. French-language telecasts were broadcast on <a href="https://en.wikipedia.org/wiki/Reseau_des_Sports" class="mw-redirect" title="Reseau des Sports">RDS</a> and [RDS2](https://en.wikipedia.org/wiki/RDS2 "RDS2"). This marked the last season that all playoff games involving Canadian teams had to air on the CBC instead of TSN, even if it mean they had to be broadcast regionally. Under new contracts that would take effect in 2009, the CBC and TSN would began to select the rights to individual series using a draft-like setup, regardless if they involved Canadian teams.<sup>[\[6\]](#cite_note-6)</sup>
 
 In the United States, coverage was split between [NBC](https://en.wikipedia.org/wiki/NHL_on_NBC "NHL on NBC") and [Versus](https://en.wikipedia.org/wiki/NHL_on_Versus "NHL on Versus"). During the first three rounds, NBC primarily televised weekend afternoon games and Versus aired evening games. During the first and second round, excluding games exclusively broadcast on NBC, the regional rights holders of each participating U.S. team produced local telecasts of their respective games. Not all first and second round games were nationally televised, while the Conference Finals were exclusively broadcast on either NBC or Versus. Versus then aired games one and two of the Stanley Cup Finals while NBC televised the remainder of the series.
 
-<span id="See_also" class="mw-headline">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=36 "Edit section: See also")<span class="mw-editsection-bracket">\]</span></span>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <span id="See_also" class="mw-headline">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=36 "Edit section: See also")<span class="mw-editsection-bracket">\]</span></span>
 
--   [2007–08 NHL season](https://en.wikipedia.org/wiki/2007–08_NHL_season "2007–08 NHL season")
--   [List of NHL seasons](https://en.wikipedia.org/wiki/List_of_NHL_seasons "List of NHL seasons")
+- [2007–08 NHL season](https://en.wikipedia.org/wiki/2007–08_NHL_season "2007–08 NHL season")
+- [List of NHL seasons](https://en.wikipedia.org/wiki/List_of_NHL_seasons "List of NHL seasons")
 
-<span id="References" class="mw-headline">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=37 "Edit section: References")<span class="mw-editsection-bracket">\]</span></span>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <span id="References" class="mw-headline">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit&section=37 "Edit section: References")<span class="mw-editsection-bracket">\]</span></span>
 
-1.  <span id="cite_note-Franzen_record-1"><span class="mw-cite-backlink">^ [<sup>***a***</sup>](#cite_ref-Franzen_record_1-0) [<sup>***b***</sup>](#cite_ref-Franzen_record_1-1)</span> <span class="reference-text"><a href="http://www.nhl.com/ice/recap.htm?id=2007030234" class="external text">Game Recap</a> of game four of the Detroit-Colorado Western Conference semi-final.</span></span>
-2.  <span id="cite_note-ESPNAmendedRule-2"><span class="mw-cite-backlink">^ [<sup>***a***</sup>](#cite_ref-ESPNAmendedRule_2-0) [<sup>***b***</sup>](#cite_ref-ESPNAmendedRule_2-1)</span> <span class="reference-text"></span></span>
-    <a href="http://sports.espn.go.com/nhl/playoffs2008/news/story?id=3346729" class="external text">"NHL amends unsportsmanlike conduct rule in response to Avery's antics"</a>. *[ESPN.com](https://en.wikipedia.org/wiki/ESPN.com "ESPN.com")*. April 14, 2008. <a href="https://web.archive.org/web/20080416003542/http://sports.espn.go.com/nhl/playoffs2008/news/story?id=3346729" class="external text">Archived</a> from the original on April 16, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2008</span>.<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ESPN.com&amp;rft.atitle=NHL+amends+unsportsmanlike+conduct+rule+in+response+to+Avery%27s+antics&amp;rft.date=2008-04-14&amp;rft_id=http%3A%2F%2Fsports.espn.go.com%2Fnhl%2Fplayoffs2008%2Fnews%2Fstory%3Fid%3D3346729&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Stanley+Cup+playoffs"></span>
+1.  <span id="cite_note-Franzen_record-1"><span class="mw-cite-backlink">^ [<sup>**_a_**</sup>](#cite_ref-Franzen_record_1-0) [<sup>**_b_**</sup>](#cite_ref-Franzen_record_1-1)</span> <span class="reference-text"><a href="http://www.nhl.com/ice/recap.htm?id=2007030234" class="external text">Game Recap</a> of game four of the Detroit-Colorado Western Conference semi-final.</span></span>
+2.  <span id="cite_note-ESPNAmendedRule-2"><span class="mw-cite-backlink">^ [<sup>**_a_**</sup>](#cite_ref-ESPNAmendedRule_2-0) [<sup>**_b_**</sup>](#cite_ref-ESPNAmendedRule_2-1)</span> <span class="reference-text"></span></span>
+    <a href="http://sports.espn.go.com/nhl/playoffs2008/news/story?id=3346729" class="external text">"NHL amends unsportsmanlike conduct rule in response to Avery's antics"</a>. _[ESPN.com](https://en.wikipedia.org/wiki/ESPN.com "ESPN.com")_. April 14, 2008. <a href="https://web.archive.org/web/20080416003542/http://sports.espn.go.com/nhl/playoffs2008/news/story?id=3346729" class="external text">Archived</a> from the original on April 16, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2008</span>.<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ESPN.com&amp;rft.atitle=NHL+amends+unsportsmanlike+conduct+rule+in+response+to+Avery%27s+antics&amp;rft.date=2008-04-14&amp;rft_id=http%3A%2F%2Fsports.espn.go.com%2Fnhl%2Fplayoffs2008%2Fnews%2Fstory%3Fid%3D3346729&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Stanley+Cup+playoffs"></span>
 3.  <span id="cite_note-3"><span class="mw-cite-backlink">**[^](#cite_ref-3)**</span> <span class="reference-text"><a href="http://www.nhl.com/ice/playerstats.htm?fetchKey=20083ALLSASAll&amp;sort=points&amp;viewName=summary" class="external text">"2007–2008 - Playoffs - All Skaters - Summary - Total points"</a>. National Hockey League<span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2009</span>.<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2007%E2%80%932008+-+Playoffs+-+All+Skaters+-+Summary+-+Total+points&amp;rft.pub=National+Hockey+League&amp;rft_id=http%3A%2F%2Fwww.nhl.com%2Fice%2Fplayerstats.htm%3FfetchKey%3D20083ALLSASAll%26sort%3Dpoints%26viewName%3Dsummary&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Stanley+Cup+playoffs"></span></span></span>
 4.  <span id="cite_note-4"><span class="mw-cite-backlink">**[^](#cite_ref-4)**</span> <span class="reference-text"><a href="http://www.nhl.com/ice/playerstats.htm?fetchKey=20083ALLGAGAll&amp;sort=goalsAgainstAverage&amp;viewName=wlt" class="external text">"2007–2008 - Playoffs - Goalie - Summary - Goals against average"</a>. National Hockey League<span class="reference-accessdate">. Retrieved <span class="nowrap">April 18,</span> 2009</span>.<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2007%E2%80%932008+-+Playoffs+-+Goalie+-+Summary+-+Goals+against+average&amp;rft.pub=National+Hockey+League&amp;rft_id=http%3A%2F%2Fwww.nhl.com%2Fice%2Fplayerstats.htm%3FfetchKey%3D20083ALLGAGAll%26sort%3DgoalsAgainstAverage%26viewName%3Dwlt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Stanley+Cup+playoffs"></span></span></span>
 5.  <span id="cite_note-5"><span class="mw-cite-backlink">**[^](#cite_ref-5)**</span> <span class="reference-text"><a href="http://www.nhl.com/ice/playerstats.htm?fetchKey=20083ALLGAGAll&amp;sort=savePercentage&amp;viewName=wlt" class="external text">"2007–2008 - Playoffs - Goalie - Summary - Save percentage"</a>. National Hockey League<span class="reference-accessdate">. Retrieved <span class="nowrap">April 18,</span> 2009</span>.<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2007%E2%80%932008+-+Playoffs+-+Goalie+-+Summary+-+Save+percentage&amp;rft.pub=National+Hockey+League&amp;rft_id=http%3A%2F%2Fwww.nhl.com%2Fice%2Fplayerstats.htm%3FfetchKey%3D20083ALLGAGAll%26sort%3DsavePercentage%26viewName%3Dwlt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Stanley+Cup+playoffs"></span></span></span>
@@ -4238,9 +4161,9 @@ In the United States, coverage was split between [NBC](https://en.wikipedia.org/
 <table><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><tbody><tr class="odd"><td>Preceded by<div style="font-weight: bold"><a href="https://en.wikipedia.org/wiki/2007_Stanley_Cup_playoffs" title="2007 Stanley Cup playoffs">2007 Stanley Cup playoffs</a></div></td><td style="text-align: center;"><strong>Stanley Cup playoffs</strong><br />
 2008</td><td style="text-align: center;">Succeeded by<div style="font-weight: bold"><a href="https://en.wikipedia.org/wiki/2009_Stanley_Cup_playoffs" title="2009 Stanley Cup playoffs">2009 Stanley Cup playoffs</a></div></td></tr></tbody></table>
 
--   [v](https://en.wikipedia.org/wiki/Template:2007–08_NHL_season_by_team "Template:2007–08 NHL season by team")
--   [t](https://en.wikipedia.org/wiki/Template_talk:2007–08_NHL_season_by_team "Template talk:2007–08 NHL season by team")
--   <a href="https://en.wikipedia.org/w/index.php?title=Template:2007%E2%80%9308_NHL_season_by_team&amp;action=edit" class="external text">e</a>
+- [v](https://en.wikipedia.org/wiki/Template:2007–08_NHL_season_by_team "Template:2007–08 NHL season by team")
+- [t](https://en.wikipedia.org/wiki/Template_talk:2007–08_NHL_season_by_team "Template talk:2007–08 NHL season by team")
+- <a href="https://en.wikipedia.org/w/index.php?title=Template:2007%E2%80%9308_NHL_season_by_team&amp;action=edit" class="external text">e</a>
 
 [2007–08 NHL season](https://en.wikipedia.org/wiki/2007–08_NHL_season "2007–08 NHL season")
 
@@ -4250,9 +4173,9 @@ In the United States, coverage was split between [NBC](https://en.wikipedia.org/
 
 <table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td>See also</td><td style="text-align: left;"><div style="padding: 0em 0.25em"><ul><li><a href="https://en.wikipedia.org/wiki/2007_NHL_Entry_Draft" title="2007 NHL Entry Draft">2007 NHL Entry Draft</a></li><li><a href="https://en.wikipedia.org/wiki/2008_NHL_Winter_Classic" title="2008 NHL Winter Classic">Winter Classic</a></li><li><a href="https://en.wikipedia.org/wiki/56th_National_Hockey_League_All-Star_Game" class="mw-redirect" title="56th National Hockey League All-Star Game">All-Star Game</a></li><li><span class="mw-selflink selflink">Playoffs</span></li><li><a href="https://en.wikipedia.org/wiki/2007–08_NHL_transactions" title="2007–08 NHL transactions">Transactions</a></li></ul></div></td></tr></tbody></table>
 
--   [v](https://en.wikipedia.org/wiki/Template:Stanley_Cup_playoffs "Template:Stanley Cup playoffs")
--   [t](https://en.wikipedia.org/wiki/Template_talk:Stanley_Cup_playoffs "Template talk:Stanley Cup playoffs")
--   <a href="https://en.wikipedia.org/w/index.php?title=Template:Stanley_Cup_playoffs&amp;action=edit" class="external text">e</a>
+- [v](https://en.wikipedia.org/wiki/Template:Stanley_Cup_playoffs "Template:Stanley Cup playoffs")
+- [t](https://en.wikipedia.org/wiki/Template_talk:Stanley_Cup_playoffs "Template talk:Stanley Cup playoffs")
+- <a href="https://en.wikipedia.org/w/index.php?title=Template:Stanley_Cup_playoffs&amp;action=edit" class="external text">e</a>
 
 [Stanley Cup playoffs](https://en.wikipedia.org/wiki/Stanley_Cup_playoffs "Stanley Cup playoffs")
 
@@ -4336,37 +4259,36 @@ Retrieved from "<https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_pla
 
 [Categories](https://en.wikipedia.org/wiki/Help:Category "Help:Category"):
 
--   [2008 Stanley Cup](https://en.wikipedia.org/wiki/Category:2008_Stanley_Cup "Category:2008 Stanley Cup")
--   [Stanley Cup playoffs](https://en.wikipedia.org/wiki/Category:Stanley_Cup_playoffs "Category:Stanley Cup playoffs")
+- [2008 Stanley Cup](https://en.wikipedia.org/wiki/Category:2008_Stanley_Cup "Category:2008 Stanley Cup")
+- [Stanley Cup playoffs](https://en.wikipedia.org/wiki/Category:Stanley_Cup_playoffs "Category:Stanley Cup playoffs")
 
 Hidden categories:
 
--   [Use mdy dates from July 2012](https://en.wikipedia.org/wiki/Category:Use_mdy_dates_from_July_2012 "Category:Use mdy dates from July 2012")
--   [Articles with hCards](https://en.wikipedia.org/wiki/Category:Articles_with_hCards "Category:Articles with hCards")
+- [Use mdy dates from July 2012](https://en.wikipedia.org/wiki/Category:Use_mdy_dates_from_July_2012 "Category:Use mdy dates from July 2012")
+- [Articles with hCards](https://en.wikipedia.org/wiki/Category:Articles_with_hCards "Category:Articles with hCards")
 
-Navigation menu
----------------
+## Navigation menu
 
 ### Personal tools
 
--   <span id="pt-anonuserpage">Not logged in</span>
--   <span id="pt-anontalk">[Talk](https://en.wikipedia.org/wiki/Special:MyTalk "Discussion about edits from this IP address [n]")</span>
--   <span id="pt-anoncontribs">[Contributions](https://en.wikipedia.org/wiki/Special:MyContributions "A list of edits made from this IP address [y]")</span>
--   <span id="pt-createaccount">[Create account](https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=2008+Stanley+Cup+playoffs "You are encouraged to create an account and log in; however, it is not mandatory")</span>
--   <span id="pt-login">[Log in](https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=2008+Stanley+Cup+playoffs "You're encouraged to log in; however, it's not mandatory. [o]")</span>
+- <span id="pt-anonuserpage">Not logged in</span>
+- <span id="pt-anontalk">[Talk](https://en.wikipedia.org/wiki/Special:MyTalk "Discussion about edits from this IP address [n]")</span>
+- <span id="pt-anoncontribs">[Contributions](https://en.wikipedia.org/wiki/Special:MyContributions "A list of edits made from this IP address [y]")</span>
+- <span id="pt-createaccount">[Create account](https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=2008+Stanley+Cup+playoffs "You are encouraged to create an account and log in; however, it is not mandatory")</span>
+- <span id="pt-login">[Log in](https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=2008+Stanley+Cup+playoffs "You're encouraged to log in; however, it's not mandatory. [o]")</span>
 
 ### Namespaces
 
--   <span id="ca-nstab-main">[Article](https://en.wikipedia.org/wiki/2008_Stanley_Cup_playoffs "View the content page [c]")</span>
--   <span id="ca-talk">[Talk](https://en.wikipedia.org/wiki/Talk:2008_Stanley_Cup_playoffs "Discuss improvements to the content page [t]")</span>
+- <span id="ca-nstab-main">[Article](https://en.wikipedia.org/wiki/2008_Stanley_Cup_playoffs "View the content page [c]")</span>
+- <span id="ca-talk">[Talk](https://en.wikipedia.org/wiki/Talk:2008_Stanley_Cup_playoffs "Discuss improvements to the content page [t]")</span>
 
 ### Variants <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span>
 
 ### Views
 
--   <span id="ca-view">[Read](https://en.wikipedia.org/wiki/2008_Stanley_Cup_playoffs)</span>
--   <span id="ca-edit">[Edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit "Edit this page [e]")</span>
--   <span id="ca-history">[View history](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=history "Past revisions of this page [h]")</span>
+- <span id="ca-view">[Read](https://en.wikipedia.org/wiki/2008_Stanley_Cup_playoffs)</span>
+- <span id="ca-edit">[Edit](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=edit "Edit this page [e]")</span>
+- <span id="ca-history">[View history](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=history "Past revisions of this page [h]")</span>
 
 ### More <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span>
 
@@ -4376,75 +4298,75 @@ Navigation menu
 
 ### Navigation
 
--   <span id="n-mainpage-description">[Main page](https://en.wikipedia.org/wiki/Main_Page "Visit the main page [z]")</span>
--   <span id="n-contents">[Contents](https://en.wikipedia.org/wiki/Wikipedia:Contents "Guides to browsing Wikipedia")</span>
--   <span id="n-currentevents">[Current events](https://en.wikipedia.org/wiki/Portal:Current_events "Articles related to current events")</span>
--   <span id="n-randompage">[Random article](https://en.wikipedia.org/wiki/Special:Random "Visit a randomly selected article [x]")</span>
--   <span id="n-aboutsite">[About Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:About "Learn about Wikipedia and how it works")</span>
--   <span id="n-contactpage">[Contact us](http://en.wikipedia.org/wiki/Wikipedia:Contact_us "How to contact Wikipedia")</span>
--   <span id="n-sitesupport">[Donate](https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en "Support us by donating to the Wikimedia Foundation")</span>
+- <span id="n-mainpage-description">[Main page](https://en.wikipedia.org/wiki/Main_Page "Visit the main page [z]")</span>
+- <span id="n-contents">[Contents](https://en.wikipedia.org/wiki/Wikipedia:Contents "Guides to browsing Wikipedia")</span>
+- <span id="n-currentevents">[Current events](https://en.wikipedia.org/wiki/Portal:Current_events "Articles related to current events")</span>
+- <span id="n-randompage">[Random article](https://en.wikipedia.org/wiki/Special:Random "Visit a randomly selected article [x]")</span>
+- <span id="n-aboutsite">[About Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:About "Learn about Wikipedia and how it works")</span>
+- <span id="n-contactpage">[Contact us](http://en.wikipedia.org/wiki/Wikipedia:Contact_us "How to contact Wikipedia")</span>
+- <span id="n-sitesupport">[Donate](https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en "Support us by donating to the Wikimedia Foundation")</span>
 
 ### Contribute
 
--   <span id="n-help">[Help](https://en.wikipedia.org/wiki/Help:Contents "Guidance on how to use and edit Wikipedia")</span>
--   <span id="n-introduction">[Learn to edit](https://en.wikipedia.org/wiki/Help:Introduction "Learn how to edit Wikipedia")</span>
--   <span id="n-portal">[Community portal](https://en.wikipedia.org/wiki/Wikipedia:Community_portal "The hub for editors")</span>
--   <span id="n-recentchanges">[Recent changes](https://en.wikipedia.org/wiki/Special:RecentChanges "A list of recent changes to Wikipedia [r]")</span>
--   <span id="n-upload">[Upload file](https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard "Add images or other media for use on Wikipedia")</span>
+- <span id="n-help">[Help](https://en.wikipedia.org/wiki/Help:Contents "Guidance on how to use and edit Wikipedia")</span>
+- <span id="n-introduction">[Learn to edit](https://en.wikipedia.org/wiki/Help:Introduction "Learn how to edit Wikipedia")</span>
+- <span id="n-portal">[Community portal](https://en.wikipedia.org/wiki/Wikipedia:Community_portal "The hub for editors")</span>
+- <span id="n-recentchanges">[Recent changes](https://en.wikipedia.org/wiki/Special:RecentChanges "A list of recent changes to Wikipedia [r]")</span>
+- <span id="n-upload">[Upload file](https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard "Add images or other media for use on Wikipedia")</span>
 
 ### Tools
 
--   <span id="t-whatlinkshere">[What links here](https://en.wikipedia.org/wiki/Special:WhatLinksHere/2008_Stanley_Cup_playoffs "List of all English Wikipedia pages containing links to this page [j]")</span>
--   <span id="t-recentchangeslinked">[Related changes](https://en.wikipedia.org/wiki/Special:RecentChangesLinked/2008_Stanley_Cup_playoffs "Recent changes in pages linked from this page [k]")</span>
--   <span id="t-upload">[Upload file](https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard "Upload files [u]")</span>
--   <span id="t-specialpages">[Special pages](https://en.wikipedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")</span>
--   <span id="t-permalink">[Permanent link](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&oldid=1039223496 "Permanent link to this revision of this page")</span>
--   <span id="t-info">[Page information](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=info "More information about this page")</span>
--   <span id="t-cite">[Cite this page](https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=2008_Stanley_Cup_playoffs&id=1039223496&wpFormIdentifier=titleform "Information on how to cite this page")</span>
--   <span id="t-wikibase">[Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q3968232 "Structured data on this page hosted by Wikidata [g]")</span>
+- <span id="t-whatlinkshere">[What links here](https://en.wikipedia.org/wiki/Special:WhatLinksHere/2008_Stanley_Cup_playoffs "List of all English Wikipedia pages containing links to this page [j]")</span>
+- <span id="t-recentchangeslinked">[Related changes](https://en.wikipedia.org/wiki/Special:RecentChangesLinked/2008_Stanley_Cup_playoffs "Recent changes in pages linked from this page [k]")</span>
+- <span id="t-upload">[Upload file](https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard "Upload files [u]")</span>
+- <span id="t-specialpages">[Special pages](https://en.wikipedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")</span>
+- <span id="t-permalink">[Permanent link](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&oldid=1039223496 "Permanent link to this revision of this page")</span>
+- <span id="t-info">[Page information](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&action=info "More information about this page")</span>
+- <span id="t-cite">[Cite this page](https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=2008_Stanley_Cup_playoffs&id=1039223496&wpFormIdentifier=titleform "Information on how to cite this page")</span>
+- <span id="t-wikibase">[Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q3968232 "Structured data on this page hosted by Wikidata [g]")</span>
 
 ### Print/export
 
--   <span id="coll-download-as-rl">[Download as PDF](https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=2008_Stanley_Cup_playoffs&action=show-download-screen "Download this page as a PDF file")</span>
--   <span id="t-print">[Printable version](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&printable=yes "Printable version of this page [p]")</span>
+- <span id="coll-download-as-rl">[Download as PDF](https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=2008_Stanley_Cup_playoffs&action=show-download-screen "Download this page as a PDF file")</span>
+- <span id="t-print">[Printable version](https://en.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&printable=yes "Printable version of this page [p]")</span>
 
 ### In other projects
 
--   [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:2008_Stanley_Cup_playoffs)
--   [Wikinews](https://en.wikinews.org/wiki/Category:Stanley_Cup_Playoffs_2008)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:2008_Stanley_Cup_playoffs)
+- [Wikinews](https://en.wikinews.org/wiki/Category:Stanley_Cup_Playoffs_2008)
 
 ### Languages
 
--   <a href="https://de.wikipedia.org/wiki/Stanley-Cup-Playoffs_2008" class="interlanguage-link-target" title="Stanley-Cup-Playoffs 2008 – German"><span>Deutsch</span></a>
--   <a href="https://fr.wikipedia.org/wiki/Séries_éliminatoires_de_la_Coupe_Stanley_2008" class="interlanguage-link-target" title="Séries éliminatoires de la Coupe Stanley 2008 – French"><span>Français</span></a>
--   <a href="https://it.wikipedia.org/wiki/Stanley_Cup_playoff_2008" class="interlanguage-link-target" title="Stanley Cup playoff 2008 – Italian"><span>Italiano</span></a>
--   <a href="https://ru.wikipedia.org/wiki/Плей-офф_Кубка_Стэнли_2008" class="interlanguage-link-target" title="Плей-офф Кубка Стэнли 2008 – Russian"><span>Русский</span></a>
--   <a href="https://sr.wikipedia.org/wiki/Стенли_куп_плејоф_2008." class="interlanguage-link-target" title="Стенли куп плејоф 2008. – Serbian"><span>Српски / srpski</span></a>
--   <a href="https://uk.wikipedia.org/wiki/Плей-оф_Кубка_Стенлі_2008" class="interlanguage-link-target" title="Плей-оф Кубка Стенлі 2008 – Ukrainian"><span>Українська</span></a>
+- <a href="https://de.wikipedia.org/wiki/Stanley-Cup-Playoffs_2008" class="interlanguage-link-target" title="Stanley-Cup-Playoffs 2008 – German"><span>Deutsch</span></a>
+- <a href="https://fr.wikipedia.org/wiki/Séries_éliminatoires_de_la_Coupe_Stanley_2008" class="interlanguage-link-target" title="Séries éliminatoires de la Coupe Stanley 2008 – French"><span>Français</span></a>
+- <a href="https://it.wikipedia.org/wiki/Stanley_Cup_playoff_2008" class="interlanguage-link-target" title="Stanley Cup playoff 2008 – Italian"><span>Italiano</span></a>
+- <a href="https://ru.wikipedia.org/wiki/Плей-офф_Кубка_Стэнли_2008" class="interlanguage-link-target" title="Плей-офф Кубка Стэнли 2008 – Russian"><span>Русский</span></a>
+- <a href="https://sr.wikipedia.org/wiki/Стенли_куп_плејоф_2008." class="interlanguage-link-target" title="Стенли куп плејоф 2008. – Serbian"><span>Српски / srpski</span></a>
+- <a href="https://uk.wikipedia.org/wiki/Плей-оф_Кубка_Стенлі_2008" class="interlanguage-link-target" title="Плей-оф Кубка Стенлі 2008 – Ukrainian"><span>Українська</span></a>
 
 <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3968232#sitelinks-wikipedia" class="wbc-editpage" title="Edit interlanguage links">Edit links</a></span>
 
--   <span id="footer-info-lastmod">This page was last edited on 17 August 2021, at 12:27<span class="anonymous-show"> (UTC)</span>.</span>
--   <span id="footer-info-copyright">Text is available under the [Creative Commons Attribution-ShareAlike License](http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)[](http://creativecommons.org/licenses/by-sa/3.0/); additional terms may apply. By using this site, you agree to the [Terms of Use](http://foundation.wikimedia.org/wiki/Terms_of_Use) and [Privacy Policy](http://foundation.wikimedia.org/wiki/Privacy_policy). Wikipedia® is a registered trademark of the [Wikimedia Foundation, Inc.](http://www.wikimediafoundation.org/), a non-profit organization.</span>
+- <span id="footer-info-lastmod">This page was last edited on 17 August 2021, at 12:27<span class="anonymous-show"> (UTC)</span>.</span>
+- <span id="footer-info-copyright">Text is available under the [Creative Commons Attribution-ShareAlike License](http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)[](http://creativecommons.org/licenses/by-sa/3.0/); additional terms may apply. By using this site, you agree to the [Terms of Use](http://foundation.wikimedia.org/wiki/Terms_of_Use) and [Privacy Policy](http://foundation.wikimedia.org/wiki/Privacy_policy). Wikipedia® is a registered trademark of the [Wikimedia Foundation, Inc.](http://www.wikimediafoundation.org/), a non-profit organization.</span>
 
 <!-- -->
 
--   <span id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></span>
--   <span id="footer-places-about">[About Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:About "Wikipedia:About")</span>
--   <span id="footer-places-disclaimer">[Disclaimers](https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer "Wikipedia:General disclaimer")</span>
--   <span id="footer-places-contact">[Contact Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:Contact_us)</span>
--   <span id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></span>
--   <span id="footer-places-developers">[Developers](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)</span>
--   <span id="footer-places-statslink">[Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)</span>
--   <span id="footer-places-cookiestatement">[Cookie statement](https://foundation.wikimedia.org/wiki/Cookie_statement)</span>
+- <span id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></span>
+- <span id="footer-places-about">[About Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:About "Wikipedia:About")</span>
+- <span id="footer-places-disclaimer">[Disclaimers](https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer "Wikipedia:General disclaimer")</span>
+- <span id="footer-places-contact">[Contact Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:Contact_us)</span>
+- <span id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=2008_Stanley_Cup_playoffs&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></span>
+- <span id="footer-places-developers">[Developers](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)</span>
+- <span id="footer-places-statslink">[Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)</span>
+- <span id="footer-places-cookiestatement">[Cookie statement](https://foundation.wikimedia.org/wiki/Cookie_statement)</span>
 
 <!-- -->
 
--   <span id="footer-copyrightico">[<img src="https://en.wikipedia.org/static/images/footer/wikimedia-button.png" alt="Wikimedia Foundation" srcset="
-                    /static/images/footer/wikimedia-button-1.5x.png 1.5x,
-                    /static/images/footer/wikimedia-button-2x.png   2x
-                  " width="88" height="31" />](https://wikimediafoundation.org/)</span>
--   <span id="footer-poweredbyico">[<img src="https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="
-                    /static/images/footer/poweredby_mediawiki_132x47.png 1.5x,
-                    /static/images/footer/poweredby_mediawiki_176x62.png 2x
-                  " width="88" height="31" />](https://www.mediawiki.org/)</span>
+- <span id="footer-copyrightico">[<img src="https://en.wikipedia.org/static/images/footer/wikimedia-button.png" alt="Wikimedia Foundation" srcset="
+                  /static/images/footer/wikimedia-button-1.5x.png 1.5x,
+                  /static/images/footer/wikimedia-button-2x.png   2x
+                " width="88" height="31" />](https://wikimediafoundation.org/)</span>
+- <span id="footer-poweredbyico">[<img src="https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="
+                  /static/images/footer/poweredby_mediawiki_132x47.png 1.5x,
+                  /static/images/footer/poweredby_mediawiki_176x62.png 2x
+                " width="88" height="31" />](https://www.mediawiki.org/)</span>

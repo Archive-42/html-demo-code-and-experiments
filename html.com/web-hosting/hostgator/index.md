@@ -1,26 +1,18 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-HostGator Review: Snappy Marketing – How’s The Hosting?
-=======================================================
+# HostGator Review: Snappy Marketing – How’s The Hosting?
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
 [HostGator](https://html.com/go/hostgator/) is a popular [web hosting](https://html.com/web-hosting/) service that offers shared hosting plans, a cPanel dashboard for managing your website, and excellent customer service.
 
-The most important question, though, is whether it’s the right hosting provider for *your* unique purposes. In this HostGator review, we’ll give you the info you need to make that decision.
+The most important question, though, is whether it’s the right hosting provider for _your_ unique purposes. In this HostGator review, we’ll give you the info you need to make that decision.
 
-<span id="About_HostGator">About HostGator</span>
--------------------------------------------------
+## <span id="About_HostGator">About HostGator</span>
 
 The company was founded in a dorm room at Florida Atlantic University in 2002 but has since moved its headquarters to Austin and Houston, Texas.
 
@@ -35,32 +27,30 @@ Since its humble beginnings, HostGator has grown to become a global player in th
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> About HostGator](#About_HostGator)
--   [<span class="toc_number toc_depth_1">2</span> Domain Names](#Domain_Names)
--   [<span class="toc_number toc_depth_1">3</span> Web Hosting Options](#Web_Hosting_Options)
-    -   [<span class="toc_number toc_depth_2">3.1</span> Shared Hosting](#Shared_Hosting)
-    -   [<span class="toc_number toc_depth_2">3.2</span> Cloud Hosting](#Cloud_Hosting)
-    -   [<span class="toc_number toc_depth_2">3.3</span> WordPress Hosting](#WordPress_Hosting)
-    -   [<span class="toc_number toc_depth_2">3.4</span> High-End Web Hosting Options](#High-End_Web_Hosting_Options)
-    -   [<span class="toc_number toc_depth_2">3.5</span> Hosting Add-Ons](#Hosting_Add-Ons)
--   [<span class="toc_number toc_depth_1">4</span> Is HostGator Secure?](#Is_HostGator_Secure)
-    -   [<span class="toc_number toc_depth_2">4.1</span> Transaction Security](#Transaction_Security)
-    -   [<span class="toc_number toc_depth_2">4.2</span> Website Protection](#Website_Protection)
--   [<span class="toc_number toc_depth_1">5</span> Customer Support](#Customer_Support)
-    -   [<span class="toc_number toc_depth_2">5.1</span> Money-Back Guarantee](#Money-Back_Guarantee)
--   [<span class="toc_number toc_depth_1">6</span> Pricing and Billing](#Pricing_and_Billing)
--   [<span class="toc_number toc_depth_1">7</span> HostGator vs GoDaddy](#HostGator_vs_GoDaddy)
--   [<span class="toc_number toc_depth_1">8</span> Get Our Discount](#Get_Our_Discount)
--   [<span class="toc_number toc_depth_1">9</span> Summary](#Summary)
--   [<span class="toc_number toc_depth_1">10</span> Your Review of HostGator](#Your_Review_of_HostGator)
+- [<span class="toc_number toc_depth_1">1</span> About HostGator](#About_HostGator)
+- [<span class="toc_number toc_depth_1">2</span> Domain Names](#Domain_Names)
+- [<span class="toc_number toc_depth_1">3</span> Web Hosting Options](#Web_Hosting_Options)
+  - [<span class="toc_number toc_depth_2">3.1</span> Shared Hosting](#Shared_Hosting)
+  - [<span class="toc_number toc_depth_2">3.2</span> Cloud Hosting](#Cloud_Hosting)
+  - [<span class="toc_number toc_depth_2">3.3</span> WordPress Hosting](#WordPress_Hosting)
+  - [<span class="toc_number toc_depth_2">3.4</span> High-End Web Hosting Options](#High-End_Web_Hosting_Options)
+  - [<span class="toc_number toc_depth_2">3.5</span> Hosting Add-Ons](#Hosting_Add-Ons)
+- [<span class="toc_number toc_depth_1">4</span> Is HostGator Secure?](#Is_HostGator_Secure)
+  - [<span class="toc_number toc_depth_2">4.1</span> Transaction Security](#Transaction_Security)
+  - [<span class="toc_number toc_depth_2">4.2</span> Website Protection](#Website_Protection)
+- [<span class="toc_number toc_depth_1">5</span> Customer Support](#Customer_Support)
+  - [<span class="toc_number toc_depth_2">5.1</span> Money-Back Guarantee](#Money-Back_Guarantee)
+- [<span class="toc_number toc_depth_1">6</span> Pricing and Billing](#Pricing_and_Billing)
+- [<span class="toc_number toc_depth_1">7</span> HostGator vs GoDaddy](#HostGator_vs_GoDaddy)
+- [<span class="toc_number toc_depth_1">8</span> Get Our Discount](#Get_Our_Discount)
+- [<span class="toc_number toc_depth_1">9</span> Summary](#Summary)
+- [<span class="toc_number toc_depth_1">10</span> Your Review of HostGator](#Your_Review_of_HostGator)
 
-<span id="Domain_Names">Domain Names</span>
--------------------------------------------
+## <span id="Domain_Names">Domain Names</span>
 
 [HostGator](https://html.com/go/hostgator/) is a domain registrar, so if you’re not ready to purchase a web hosting package but you want to reserve the domain name of your choice, you can do so.
 
-<figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-8478" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><span id="Web_Hosting_Options">Web Hosting Options</span>
----------------------------------------------------------
+## <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-8478" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><span id="Web_Hosting_Options">Web Hosting Options</span>
 
 HostGator’s shared hosting can quickly get you started with a website. There are two options: traditional **shared hosting** or **cloud hosting**. We’ll explain in detail how these two plan types compare in terms of features and costs.
 
@@ -76,9 +66,9 @@ HostGator has three shared hosting plans. Here’s how they’re different:
 
 The Hatchling plan is the entry-level option. It includes:
 
--   Support for a **single** hosted website.
--   **Unmetered bandwidth and storage** – You don’t have to worry about heavier traffic loads overwhelming the server where your site is hosted.
--   **A one-click installer** that makes it easy to extend the functionality of your website – For example, you might add an image gallery, an event calendar, or a contact form.
+- Support for a **single** hosted website.
+- **Unmetered bandwidth and storage** – You don’t have to worry about heavier traffic loads overwhelming the server where your site is hosted.
+- **A one-click installer** that makes it easy to extend the functionality of your website – For example, you might add an image gallery, an event calendar, or a contact form.
 
 #### Baby Plan
 
@@ -120,12 +110,12 @@ You no longer have to worry about traffic spikes causing issues with your websit
 
 HostGator includes detailed usage statistics in its dashboard for cloud-based customers. It lets you see a high-level overview of:
 
--   Usage trends
--   Page download speed
--   Uptime
--   Global reach
--   Browser trends
--   Geographical data
+- Usage trends
+- Page download speed
+- Uptime
+- Global reach
+- Browser trends
+- Geographical data
 
 <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-8480" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>### <span id="WordPress_Hosting">WordPress Hosting</span>
 
@@ -139,10 +129,10 @@ Although WordPress plans are in some ways similar to shared plans, their resourc
 
 If you’re wondering whether [HostGator](https://html.com/go/hostgator/) WordPress hosting worth it, here are some factors to consider:
 
--   Automated backups aren’t offered on shared plans.
--   If you have an existing site, you can get it migrated over to HostGator for free with a WordPress plan.
--   If your site will be resource-heavy, it will load more quickly on a WordPress plan.
--   You can start with a Shared hosting plan and upgrade to a WordPress plan later.
+- Automated backups aren’t offered on shared plans.
+- If you have an existing site, you can get it migrated over to HostGator for free with a WordPress plan.
+- If your site will be resource-heavy, it will load more quickly on a WordPress plan.
+- You can start with a Shared hosting plan and upgrade to a WordPress plan later.
 
 #### Compared to GoDaddy
 
@@ -190,22 +180,21 @@ There are three different reseller plans, based on the storage space and bandwid
 
 No matter which hosting plan you choose, you can add features to your plan with [HostGator’s](https://html.com/go/hostgator/) add-ons. These extras will incur **additional fees** to your plan, except where we’ve noted below.
 
--   **CodeGuard Site Backup & Restore** – Add daily automated backups with 3 restores per month. All WordPress plans come with daily backups and VPS plans come with weekly backups.
--   **SiteLock** – Add daily malware & vulnerability scans and bot prevention.
--   **G Suite** – Get Gmail, Calendar, Drive, Docs, and more.
--   **Domain Privacy** – Masks your public domain registration to guard against identity theft.
--   
+- **CodeGuard Site Backup & Restore** – Add daily automated backups with 3 restores per month. All WordPress plans come with daily backups and VPS plans come with weekly backups.
+- **SiteLock** – Add daily malware & vulnerability scans and bot prevention.
+- **G Suite** – Get Gmail, Calendar, Drive, Docs, and more.
+- **Domain Privacy** – Masks your public domain registration to guard against identity theft.
+-
 
-<span id="Is_HostGator_Secure">Is HostGator Secure?</span>
-----------------------------------------------------------
+## <span id="Is_HostGator_Secure">Is HostGator Secure?</span>
 
-There are two aspects of security: (1) safeguarding transactions on the frontend your site and (2) protection for the backend of your website.  
+There are two aspects of security: (1) safeguarding transactions on the frontend your site and (2) protection for the backend of your website.
 
 ### <span id="Transaction_Security">Transaction Security</span>
 
 Your visitors will appreciate that HostGator includes a shared SSL certificate with all plans and a private certificate with the more expensive plans. HostGator supports PCI compliance, too, but you’ll have to enable it yourself.
 
-*Video: HostGator’s step-by-step instructions for turning on your site’s SSL certificate.*
+_Video: HostGator’s step-by-step instructions for turning on your site’s SSL certificate._
 
 ### <span id="Website_Protection">Website Protection</span>
 
@@ -213,8 +202,7 @@ In HostGator’s documentation, they say they protect their servers in a variety
 
 If you want to ensure more security for your website, you can buy the add-on the SiteLock security package, as mentioned above.
 
-<span id="Customer_Support">Customer Support</span>
----------------------------------------------------
+## <span id="Customer_Support">Customer Support</span>
 
 [HostGator’s](https://html.com/go/hostgator/) technical support team can be reached **24/7** via its support portal, live chat, telephone, fax, and snail mail. All plans receive premium support.
 
@@ -222,9 +210,9 @@ Customer support is provided only in English. The only localized support they of
 
 If you’re looking for **self-help resources**, HostGator offers the following options:
 
--   Video [tutorials](https://html.com/)
--   Peer support forum
--   Extensive knowledgebase
+- Video [tutorials](https://html.com/)
+- Peer support forum
+- Extensive knowledgebase
 
 <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-8489" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>### <span id="Money-Back_Guarantee">Money-Back Guarantee</span>
 
@@ -232,8 +220,7 @@ For all plans except dedicated servers, [HostGator](https://html.com/go/hostgato
 
 Your refund won’t include your domain name registration or fees for any administrative services you’ve purchased. Dedicated servers are non-refundable.
 
-<span id="Pricing_and_Billing">Pricing and Billing</span>
----------------------------------------------------------
+## <span id="Pricing_and_Billing">Pricing and Billing</span>
 
 The price you pay on a monthly basis varies based on the type of hosting you choose, as well as the specific plan you purchase.
 
@@ -241,25 +228,22 @@ You can pay upfront for an extended contract and receive a discount off your mon
 
 Extended contracts are available in lengths of 3, 6, 12, 24, 36 months, with the discount you receive commensurate with the length of your contract. The more months you prepay, the bigger your discount. **Month-to-month plans cost the most**.
 
-<span id="HostGator_vs_GoDaddy">HostGator vs GoDaddy</span>
------------------------------------------------------------
+## <span id="HostGator_vs_GoDaddy">HostGator vs GoDaddy</span>
 
 HostGator and [GoDaddy](https://html.com/web-hosting/godaddy/) are often compared with one another. Here’s our objective view of the differences that might matter to you:
 
--   HostGator’s Hatchling plan is **cheaper** than GoDaddy’s lowest tier plan. After that, the pricing difference is minimal.
--   GoDaddy (and many other web hosting companies) provides your first year’s **domain registration** for free. HostGator makes you pay for your domain upfront.
--   HostGator’s money back guarantee is for **45 days** while GoDaddy’s guarantee is only for 30 days.
--   GoDaddy lets you get started with their website builder plan for **free** (no credit card required). HostGator doesn’t give you access to their website builder until you’ve paid for a plan.
+- HostGator’s Hatchling plan is **cheaper** than GoDaddy’s lowest tier plan. After that, the pricing difference is minimal.
+- GoDaddy (and many other web hosting companies) provides your first year’s **domain registration** for free. HostGator makes you pay for your domain upfront.
+- HostGator’s money back guarantee is for **45 days** while GoDaddy’s guarantee is only for 30 days.
+- GoDaddy lets you get started with their website builder plan for **free** (no credit card required). HostGator doesn’t give you access to their website builder until you’ve paid for a plan.
 
-<span id="Get_Our_Discount">Get Our Discount</span>
----------------------------------------------------
+## <span id="Get_Our_Discount">Get Our Discount</span>
 
 When you click any of the links to [HostGator](https://html.com/go/hostgator/) in this review, you’ll automatically be eligible to get our pricing **discount** on their plans, thanks to our embedded coupon: up to 60% off.
 
 Another good reason for signing up for HostGator via one of our discount links is that we make a referral commission that helps us keep our site free for you to use. Visit [HostGator](https://html.com/go/hostgator/) now.
 
-<span id="Summary">Summary</span>
----------------------------------
+## <span id="Summary">Summary</span>
 
 [HostGator](https://html.com/go/hostgator/) is a global provider of domain registration services and web hosting plans. Its full-featured shared plans get your site online inexpensively.
 
@@ -269,16 +253,15 @@ Not sure that HostGator is right for you? You can purchase a web hosting package
 
 Visit [HostGator.com](https://html.com/go/hostgator/) now.
 
-<span id="Your_Review_of_HostGator">Your Review of HostGator</span>
--------------------------------------------------------------------
+## <span id="Your_Review_of_HostGator">Your Review of HostGator</span>
 
 We want to hear your thoughts! Are you a current or past customer of HostGator? Would you recommend them? Please **leave your comments** below and let our visitors know what you think of HostGator’s speed, features and customer service.
 
 <a href="https://html.com/go/hostgator/" class="button-cta">Visit HostGator Now</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing editor: Natalie Mootz.*</span>
+<span class="small">_Contributing editor: Natalie Mootz._</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -304,11 +287,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

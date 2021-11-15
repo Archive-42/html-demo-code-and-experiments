@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-Media Temple Hosting Review: Read Why We Think Developers Will Love Their Tools
-===============================================================================
+# Media Temple Hosting Review: Read Why We Think Developers Will Love Their Tools
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -32,34 +25,33 @@ Here’s what we found out.
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
--   [<span class="toc_number toc_depth_1">2</span> About Media Temple](#About_Media_Temple)
--   [<span class="toc_number toc_depth_1">3</span> Hosting Types and Plans](#Hosting_Types_and_Plans)
--   [<span class="toc_number toc_depth_1">4</span> Customer Support](#Customer_Support)
--   [<span class="toc_number toc_depth_1">5</span> Uptime Guarantee](#Uptime_Guarantee)
--   [<span class="toc_number toc_depth_1">6</span> Media Temple vs WP Engine](#Media_Temple_vs_WP_Engine)
--   [<span class="toc_number toc_depth_1">7</span> Special Media Temple Deal](#Special_Media_Temple_Deal)
--   [<span class="toc_number toc_depth_1">8</span> A Powerful Host with Technical Freedom](#A_Powerful_Host_with_Technical_Freedom)
--   [<span class="toc_number toc_depth_1">9</span> Your Media Temple Hosting Review](#Your_Media_Temple_Hosting_Review)
+- [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
+- [<span class="toc_number toc_depth_1">2</span> About Media Temple](#About_Media_Temple)
+- [<span class="toc_number toc_depth_1">3</span> Hosting Types and Plans](#Hosting_Types_and_Plans)
+- [<span class="toc_number toc_depth_1">4</span> Customer Support](#Customer_Support)
+- [<span class="toc_number toc_depth_1">5</span> Uptime Guarantee](#Uptime_Guarantee)
+- [<span class="toc_number toc_depth_1">6</span> Media Temple vs WP Engine](#Media_Temple_vs_WP_Engine)
+- [<span class="toc_number toc_depth_1">7</span> Special Media Temple Deal](#Special_Media_Temple_Deal)
+- [<span class="toc_number toc_depth_1">8</span> A Powerful Host with Technical Freedom](#A_Powerful_Host_with_Technical_Freedom)
+- [<span class="toc_number toc_depth_1">9</span> Your Media Temple Hosting Review](#Your_Media_Temple_Hosting_Review)
 
-<span id="Pros_and_Cons">Pros and Cons</span>
----------------------------------------------
+## <span id="Pros_and_Cons">Pros and Cons</span>
 
 Here’s a high-level overview of the upsides and downsides of working with Media Temple.
 
 **Pros**
 
--   Managed services
--   Developer tools support
--   Uptime guarantee
--   Helpful resources
--   All-inclusive plans
+- Managed services
+- Developer tools support
+- Uptime guarantee
+- Helpful resources
+- All-inclusive plans
 
 **Cons**
 
--   Expensive
--   Not the easiest for beginners
--   Uptime guarantee only on select plans
+- Expensive
+- Not the easiest for beginners
+- Uptime guarantee only on select plans
 
 ### Pros
 
@@ -69,8 +61,7 @@ There’s a lot to like about Media Temple, including its robust web hosting pla
 
 Media Temple isn’t the right fit for everyone, though. Its offerings might be too complex for those new to the world of web hosting and website development, and its resources aren’t really geared toward beginners. Furthermore, those who are looking for bottom-of-the-barrel pricing won’t find that here.
 
-<span id="About_Media_Temple">About Media Temple</span>
--------------------------------------------------------
+## <span id="About_Media_Temple">About Media Temple</span>
 
 [Media Temple](https://html.com/go/mediatemple/) — also referred to as (mt) — is a Los Angeles-based company founded in 1998 to provide creatives, such as web developers, designers, and startups, an optimal environment for hosting their websites.
 
@@ -82,12 +73,11 @@ Big brands using Media Temple include Samsung, Starbucks, and Adidas.
 
 The company was acquired by GoDaddy in 2013, but, through a novel arrangement, the two companies operate independently.
 
-At the time of the acquisition the founders explained that GoDaddy’s investment would enable Media Temple to expand and that “GoDaddy was the only company who would commit to maintaining the (mt) brand, company culture, mission, and autonomy.”  
+At the time of the acquisition the founders explained that GoDaddy’s investment would enable Media Temple to expand and that “GoDaddy was the only company who would commit to maintaining the (mt) brand, company culture, mission, and autonomy.”
 
-<span id="Hosting_Types_and_Plans">Hosting Types and Plans</span>
------------------------------------------------------------------
+## <span id="Hosting_Types_and_Plans">Hosting Types and Plans</span>
 
-[Media Temple](https://html.com/go/mediatemple/)’s services are well-suited to new to intermediate developers who’ve never run a website before.  
+[Media Temple](https://html.com/go/mediatemple/)’s services are well-suited to new to intermediate developers who’ve never run a website before.
 
 ### Is There a Website Builder?
 
@@ -97,7 +87,7 @@ We should note that Media Temple links to the Virb brand site builder. However, 
 >
 > — Virb (@Virb) [May 4, 2016](https://twitter.com/Virb/status/727908378085756930?ref_src=twsrc%5Etfw)
 
-The lack of a viable site builder means that you’ll need to have the skills to create a website on your own — unless you use WordPress.  
+The lack of a viable site builder means that you’ll need to have the skills to create a website on your own — unless you use WordPress.
 
 ### Plenty of Options for Advanced Devs
 
@@ -180,8 +170,7 @@ For those who need the fastest, most resourceful, and most secure web hosting en
 
 Dedicated servers come with 24/7 support, your choice of managed services (opt for full management, or choose to DIY everything yourself), and 99.99% uptime guarantee.
 
-<span id="Customer_Support"> Customer Support</span>
-----------------------------------------------------
+## <span id="Customer_Support"> Customer Support</span>
 
 Media Temple offers 24/7 support via live chat, phone, email, and even Twitter. Users new to coding and hosting can get education and guidance along with troubleshooting.
 
@@ -207,15 +196,13 @@ Finally, if you already have a website and need help moving it, you can employ t
 
 It’s expensive, so programmers knowledgeable enough should do migration on their own. But the process is powered by people, not glitchy automation, so you can ensure everything gets moved over safely. Unfortunately, there appears to be no free, automated alternative.
 
-<span id="Uptime_Guarantee">Uptime Guarantee</span>
----------------------------------------------------
+## <span id="Uptime_Guarantee">Uptime Guarantee</span>
 
 If you purchase a VPS Hosting (DV and DV-Developer) Plan, Managed Hosting, or a Dedicated Server, your purchase comes with the 20/20 Uptime Guarantee, which gets you a service level agreement (SLA) of 99.99%.
 
 If, however, Media Temple falls short, the company will credit you 20% of your monthly hosting fees for every 20 minutes of downtime.
 
-<span id="Media_Temple_vs_WP_Engine">**Media Temple vs WP Engine**</span>
--------------------------------------------------------------------------
+## <span id="Media_Temple_vs_WP_Engine">**Media Temple vs WP Engine**</span>
 
 If you’re in the market for managed WordPress hosting, you might be curious as to how [Media Temple](https://html.com/go/mediatemple/) compares to WP Engine.
 
@@ -229,13 +216,11 @@ If budget is your \#1 concern, Media Temple’s options get you much more (resou
 
 If your concern is growth and scalability for the largest, most resource intensive sites, Media Temple offers managed AWS (Amazon Web Services) solutions that can auto-scale. [WP Engine](https://html.com/web-hosting/wp-engine/) offers shared hosting on Google Cloud, except for some “dedicated” plans that offer AWS.
 
-<span id="Special_Media_Temple_Deal">Special Media Temple Deal</span>
----------------------------------------------------------------------
+## <span id="Special_Media_Temple_Deal">Special Media Temple Deal</span>
 
 Ready to give Media Temple a try? [Use our link](https://html.com/go/mediatemple/) to get a discount off your first purchase of hosting services from Media Temple. Visit [Media Temple](https://html.com/go/mediatemple/) now.
 
-<span id="A_Powerful_Host_with_Technical_Freedom">A Powerful Host with Technical Freedom</span>
------------------------------------------------------------------------------------------------
+## <span id="A_Powerful_Host_with_Technical_Freedom">A Powerful Host with Technical Freedom</span>
 
 [Media Temple](https://html.com/go/mediatemple/) provides comprehensive customer support, fast servers and a good mix of technical tools.
 
@@ -247,16 +232,15 @@ And if you’re prepared for a real challenge, you could get VPS hosting and put
 
 Does this sound good? Visit [Media Temple](https://html.com/go/mediatemple/) now.
 
-<span id="Your_Media_Temple_Hosting_Review">Your Media Temple Hosting Review</span>
------------------------------------------------------------------------------------
+## <span id="Your_Media_Temple_Hosting_Review">Your Media Temple Hosting Review</span>
 
 “Are you a current or past customer of Media Temple Hosting? Would you recommend them? Please leave your comments below and let our visitors know what you think of Media Temple’s speed, features and customer service.
 
 <a href="https://html.com/go/mediatemple/" class="button-cta">Visit MediaTemple Today!</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing Editor: Sherrie Gossett*</span>
+<span class="small">_Contributing Editor: Sherrie Gossett_</span>
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
@@ -270,11 +254,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

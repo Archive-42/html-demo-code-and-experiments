@@ -242,7 +242,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -296,7 +296,7 @@ Netlify CMS
 
 Git Gateway
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -336,7 +336,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -370,19 +370,15 @@ Open Authoring
 
 <span data-key="c54a28cada11491eae36085392a8ed38"><span data-offset-key="c54a28cada11491eae36085392a8ed38:0">When using the </span></span><a href="https://www.netlifycms.org/docs/github-backend" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d68b40ce2505496eaf60973ef987e30a" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="dfbe84724ef6435485e3e0b644719855"><span data-offset-key="dfbe84724ef6435485e3e0b644719855:0">GitHub backend</span></span></span></a><span data-key="d284b5ca94184d3d869f867f8b653e05"><span data-offset-key="d284b5ca94184d3d869f867f8b653e05:0">, you can use Netlify CMS to accept contributions from GitHub users without giving them access to your repository. When they make changes in the CMS, the CMS forks your repository for them behind the scenes, and all the changes are made to the fork. When the contributor is ready to submit their changes, they can set their draft as ready for review in the CMS. This triggers a pull request to your repository, which you can merge using the GitHub UI.</span></span>
 
-<span data-key="d5ea965242b94b3a905f89727bcac361"><span data-offset-key="d5ea965242b94b3a905f89727bcac361:0">At the same time, any contributors who </span>*do*<span data-offset-key="d5ea965242b94b3a905f89727bcac361:2"> have write access to the repository can continue to use Netlify CMS normally.</span></span>
+<span data-key="d5ea965242b94b3a905f89727bcac361"><span data-offset-key="d5ea965242b94b3a905f89727bcac361:0">At the same time, any contributors who </span>_do_<span data-offset-key="d5ea965242b94b3a905f89727bcac361:2"> have write access to the repository can continue to use Netlify CMS normally.</span></span>
 
 <span data-key="0a5b9037835d4541a9244500f01d440f"><span data-offset-key="0a5b9037835d4541a9244500f01d440f:0">Requirements</span></span>
 
--   
+- <span data-key="f91a5f9661254abca5a0226c82d6d97b"><span data-offset-key="f91a5f9661254abca5a0226c82d6d97b:0">You must use </span></span><a href="https://www.netlifycms.org/docs/github-backend" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f18d20663c124ffa941d87dfe8373bf1" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="0bdc318ccb75410ca27b1706c71df1cd"><span data-offset-key="0bdc318ccb75410ca27b1706c71df1cd:0">the GitHub backend</span></span></span></a><span data-key="838cb63d2ad54535bbfb097b1a1d5467"><span data-offset-key="838cb63d2ad54535bbfb097b1a1d5467:0">.</span></span>
 
-    <span data-key="f91a5f9661254abca5a0226c82d6d97b"><span data-offset-key="f91a5f9661254abca5a0226c82d6d97b:0">You must use </span></span><a href="https://www.netlifycms.org/docs/github-backend" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f18d20663c124ffa941d87dfe8373bf1" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="0bdc318ccb75410ca27b1706c71df1cd"><span data-offset-key="0bdc318ccb75410ca27b1706c71df1cd:0">the GitHub backend</span></span></span></a><span data-key="838cb63d2ad54535bbfb097b1a1d5467"><span data-offset-key="838cb63d2ad54535bbfb097b1a1d5467:0">.</span></span>
+  <span data-key="efdc07c125a241e8b9faeee7f1afbbed">**Note that the** </span><a href="https://www.netlifycms.org/docs/git-gateway-backend/#git-gateway-with-netlify-identity" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8ceb1c3d35024f278fee2fdcfd3175ca" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="c452b8f6d33d4c02afb7d3e8b3b13190"><strong>Git Gateway backend</strong></span></span></a><span data-key="57679d7d238a4055a15297f04ef74553"> **does \_not**<span data-offset-key="57679d7d238a4055a15297f04ef74553:1">\_\*\* support Open Authoring, even when the underlying repo is on GitHub.\*\*</span></span>
 
-    <span data-key="efdc07c125a241e8b9faeee7f1afbbed">**Note that the** </span><a href="https://www.netlifycms.org/docs/git-gateway-backend/#git-gateway-with-netlify-identity" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8ceb1c3d35024f278fee2fdcfd3175ca" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="c452b8f6d33d4c02afb7d3e8b3b13190"><strong>Git Gateway backend</strong></span></span></a><span data-key="57679d7d238a4055a15297f04ef74553"> **does \_not**<span data-offset-key="57679d7d238a4055a15297f04ef74553:1">\_\*\* support Open Authoring, even when the underlying repo is on GitHub.\*\*</span></span>
-
--   
-
-    <span data-key="4789bf5c9e2343a39e212dcfdfbbf1a8"><span data-offset-key="4789bf5c9e2343a39e212dcfdfbbf1a8:0">For private GitHub repos the user must have </span>`read`<span data-offset-key="4789bf5c9e2343a39e212dcfdfbbf1a8:2"> access on the repo, and you must explicitly set the auth\_scope to </span>`repo`<span data-offset-key="4789bf5c9e2343a39e212dcfdfbbf1a8:4">, for example:</span></span>
+- <span data-key="4789bf5c9e2343a39e212dcfdfbbf1a8"><span data-offset-key="4789bf5c9e2343a39e212dcfdfbbf1a8:0">For private GitHub repos the user must have </span>`read`<span data-offset-key="4789bf5c9e2343a39e212dcfdfbbf1a8:2"> access on the repo, and you must explicitly set the auth_scope to </span>`repo`<span data-offset-key="4789bf5c9e2343a39e212dcfdfbbf1a8:4">, for example:</span></span>
 
 1
 
@@ -398,11 +394,11 @@ Open Authoring
 
 4
 
-<span data-key="d45cbad11e1f402a8f071f34e9de629f"><span data-offset-key="d45cbad11e1f402a8f071f34e9de629f:0"> auth\_scope: repo \# this is needed to fork the private repo</span></span>
+<span data-key="d45cbad11e1f402a8f071f34e9de629f"><span data-offset-key="d45cbad11e1f402a8f071f34e9de629f:0"> auth_scope: repo \# this is needed to fork the private repo</span></span>
 
 5
 
-<span data-key="32b9468040d44cf6bc38443ff7235021"><span data-offset-key="32b9468040d44cf6bc38443ff7235021:0"> open\_authoring: true</span></span>
+<span data-key="32b9468040d44cf6bc38443ff7235021"><span data-offset-key="32b9468040d44cf6bc38443ff7235021:0"> open_authoring: true</span></span>
 
 Copied!
 
@@ -428,7 +424,7 @@ Copied!
 
     4
 
-    <span data-key="3fddb961ea944467b7179a2389b8c42f"><span data-offset-key="3fddb961ea944467b7179a2389b8c42f:0"> open\_authoring: true</span></span>
+    <span data-key="3fddb961ea944467b7179a2389b8c42f"><span data-offset-key="3fddb961ea944467b7179a2389b8c42f:0"> open_authoring: true</span></span>
 
     Copied!
 
@@ -440,23 +436,17 @@ Copied!
 
 <span data-key="bc2dd02f0f5e40ed9f07ee37260b6cfa"><span data-offset-key="bc2dd02f0f5e40ed9f07ee37260b6cfa:0">When they make changes to content in the CMS, the changes are made to a branch on their fork. In the editorial workflow screen, they see only their own pending changes. Once they're ready to submit their changes, they can move the card into the "Ready To Review" column to create a pull request. When the pull request is merged (by a repository maintainer via the GitHub UI), Netlify CMS deletes the branch and removes the card from the user's editorial workflow screen. Open Authoring users cannot publish entries through the CMS.</span></span>
 
-<span data-key="3907c7e7f40d4fb2bd3e172febddec64"><span data-offset-key="3907c7e7f40d4fb2bd3e172febddec64:0">Users who </span>*do*<span data-offset-key="3907c7e7f40d4fb2bd3e172febddec64:2"> have write access to the original repository continue to use the CMS normally. Unpublished changes made by users via Open Authoring are not visible on the editorial workflow screen, and their unpublished changes must be merged through the GitHub UI.</span></span>
+<span data-key="3907c7e7f40d4fb2bd3e172febddec64"><span data-offset-key="3907c7e7f40d4fb2bd3e172febddec64:0">Users who </span>_do_<span data-offset-key="3907c7e7f40d4fb2bd3e172febddec64:2"> have write access to the original repository continue to use the CMS normally. Unpublished changes made by users via Open Authoring are not visible on the editorial workflow screen, and their unpublished changes must be merged through the GitHub UI.</span></span>
 
 <span data-key="9a549ee088634754b491e926a73c501c"><span data-offset-key="9a549ee088634754b491e926a73c501c:0">Alternative for external contributors with Git Gateway</span></span>
 
 <span data-key="be2aa47f5ff0454e8045be29c9dc9149"><span data-offset-key="be2aa47f5ff0454e8045be29c9dc9149:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.netlifycms.org/docs/open-authoring/#requirements" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1d6840b0ffd34a01808280c6841b2455" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="e2003ec931ab4aefbf354d0c64bb42af"><span data-offset-key="e2003ec931ab4aefbf354d0c64bb42af:0">As noted above</span></span></span></a><span data-key="7d5c3b4907ba4f4c84660bf96eeb528d"><span data-offset-key="7d5c3b4907ba4f4c84660bf96eeb528d:0">, Open Authoring does not work with the Git Gateway backend. However, you can use Git Gateway on a site with Netlify Identity that has </span></span><a href="https://www.netlify.com/docs/identity/#adding-identity-users" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2b7ab20c58cf4e46b10816eeed1bff3a" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="9c646ec10dde4f989ddf3bb3455cd2e3"><span data-offset-key="9c646ec10dde4f989ddf3bb3455cd2e3:0">open registration</span></span></span></a><span data-key="d2d29080c15146b695c9ec25ecbfc069"><span data-offset-key="d2d29080c15146b695c9ec25ecbfc069:0">. This lets users create accounts on your site and log into the CMS. There are a few differences, including the following:</span></span>
 
--   
+- <span data-key="915ff9206ed643e48dfee4b0a3980795"><span data-offset-key="915ff9206ed643e48dfee4b0a3980795:0">Users don't need to know about GitHub or create a GitHub account. Instead, they use Netlify Identity accounts that are created on your site and managed by you.</span></span>
 
-    <span data-key="915ff9206ed643e48dfee4b0a3980795"><span data-offset-key="915ff9206ed643e48dfee4b0a3980795:0">Users don't need to know about GitHub or create a GitHub account. Instead, they use Netlify Identity accounts that are created on your site and managed by you.</span></span>
+- <span data-key="0fa4aeba1caa41b281672ac8f02bf12d"><span data-offset-key="0fa4aeba1caa41b281672ac8f02bf12d:0">The CMS applies users' changes directly to your repo, not to a fork. (If you use the editorial workflow, you can use features like </span></span><a href="https://help.github.com/en/articles/about-protected-branches" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="704b2a931d3e45199b5d3168924af385" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="cb86ce1635cf4eeda70199dad4f58940"><span data-offset-key="cb86ce1635cf4eeda70199dad4f58940:0">GitHub's protected branches</span></span></span></a><span data-key="58f5644898654166bbdca5a8b6166844"><span data-offset-key="58f5644898654166bbdca5a8b6166844:0"> or </span></span><a href="https://www.netlify.com/docs/locked-deploys/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0f52137e8d684430875e434d4f526d72" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="b3a6b85b73db4bdc8ef800c452322396"><span data-offset-key="b3a6b85b73db4bdc8ef800c452322396:0">Netlify's locked deploys</span></span></span></a><span data-key="a9a8a38051864bf7bfd35e47a07bf57d"><span data-offset-key="a9a8a38051864bf7bfd35e47a07bf57d:0"> to prevent users from publishing directly to your site from the CMS.)</span></span>
 
--   
-
-    <span data-key="0fa4aeba1caa41b281672ac8f02bf12d"><span data-offset-key="0fa4aeba1caa41b281672ac8f02bf12d:0">The CMS applies users' changes directly to your repo, not to a fork. (If you use the editorial workflow, you can use features like </span></span><a href="https://help.github.com/en/articles/about-protected-branches" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="704b2a931d3e45199b5d3168924af385" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="cb86ce1635cf4eeda70199dad4f58940"><span data-offset-key="cb86ce1635cf4eeda70199dad4f58940:0">GitHub's protected branches</span></span></span></a><span data-key="58f5644898654166bbdca5a8b6166844"><span data-offset-key="58f5644898654166bbdca5a8b6166844:0"> or </span></span><a href="https://www.netlify.com/docs/locked-deploys/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0f52137e8d684430875e434d4f526d72" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="b3a6b85b73db4bdc8ef800c452322396"><span data-offset-key="b3a6b85b73db4bdc8ef800c452322396:0">Netlify's locked deploys</span></span></span></a><span data-key="a9a8a38051864bf7bfd35e47a07bf57d"><span data-offset-key="a9a8a38051864bf7bfd35e47a07bf57d:0"> to prevent users from publishing directly to your site from the CMS.)</span></span>
-
--   
-
-    <span data-key="e03de229adfb43d494e4a66d139f64bf"><span data-offset-key="e03de229adfb43d494e4a66d139f64bf:0">There is no distinction between users with write access to the repo and users without — all editorial workflow entries are visible from within the CMS and can be published with the CMS. (Unpublished Open Authoring entries, on the other hand, are visible only to the author in the CMS UI or publicly as GitHub PRs.)</span></span>
+- <span data-key="e03de229adfb43d494e4a66d139f64bf"><span data-offset-key="e03de229adfb43d494e4a66d139f64bf:0">There is no distinction between users with write access to the repo and users without — all editorial workflow entries are visible from within the CMS and can be published with the CMS. (Unpublished Open Authoring entries, on the other hand, are visible only to the author in the CMS UI or publicly as GitHub PRs.)</span></span>
 
 <span data-key="f3fa19bccb1b45bc975105f1996bf940"><span data-offset-key="f3fa19bccb1b45bc975105f1996bf940:0">Linking to specific entries in the CMS</span></span>
 
@@ -484,17 +474,11 @@ Copied!
 
 Copied!
 
--   
+- <span data-key="820360bccc7f4894a51e2eea3bd04535">**`collectionName`**<span data-offset-key="820360bccc7f4894a51e2eea3bd04535:1">: the name of the collection as entered in the CMS config.</span></span>
 
-    <span data-key="820360bccc7f4894a51e2eea3bd04535">**`collectionName`**<span data-offset-key="820360bccc7f4894a51e2eea3bd04535:1">: the name of the collection as entered in the CMS config.</span></span>
+- <span data-key="d5fe7e6659e44fc2b631ba7799424611">**`entryName`**<span data-offset-key="d5fe7e6659e44fc2b631ba7799424611:1"> \_(for \_</span></span><a href="https://www.netlifycms.org/docs/collection-types/#file-collections" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9fd2acfd966a469b836cb3fc17fe12d5" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="0647257c7a0f4d49b5ff17e1dbd8ccfb"><em>file collections</em></span></span></a><span data-key="e2e551e4874b446aaf86ff1229d9274b"><span data-offset-key="e2e551e4874b446aaf86ff1229d9274b:0">: the </span>`name`<span data-offset-key="e2e551e4874b446aaf86ff1229d9274b:2"> of the entry from the CMS config.</span></span>
 
--   
-
-    <span data-key="d5fe7e6659e44fc2b631ba7799424611">**`entryName`**<span data-offset-key="d5fe7e6659e44fc2b631ba7799424611:1"> \_(for \_</span></span><a href="https://www.netlifycms.org/docs/collection-types/#file-collections" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9fd2acfd966a469b836cb3fc17fe12d5" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="0647257c7a0f4d49b5ff17e1dbd8ccfb"><em>file collections</em></span></span></a><span data-key="e2e551e4874b446aaf86ff1229d9274b"><span data-offset-key="e2e551e4874b446aaf86ff1229d9274b:0">: the </span>`name`<span data-offset-key="e2e551e4874b446aaf86ff1229d9274b:2"> of the entry from the CMS config.</span></span>
-
--   
-
-    <span data-key="b83fd981cc1841d3983a61d9b0cb7000">**`entryName`**<span data-offset-key="b83fd981cc1841d3983a61d9b0cb7000:1"> \_(for \_</span></span><a href="https://www.netlifycms.org/docs/collection-types/#folder-collections" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9a522c9eedaf47539de20c0004b10215" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="fecd8b1f1621400f9b737a4ee26874e6"><em>folder collections</em></span></span></a><span data-key="628e0e27535d450f99498f5220eea721"><span data-offset-key="628e0e27535d450f99498f5220eea721:0">: the filename, sans extension (the slug).</span></span>
+- <span data-key="b83fd981cc1841d3983a61d9b0cb7000">**`entryName`**<span data-offset-key="b83fd981cc1841d3983a61d9b0cb7000:1"> \_(for \_</span></span><a href="https://www.netlifycms.org/docs/collection-types/#folder-collections" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9a522c9eedaf47539de20c0004b10215" data-rnw-int-class="nearest_260-6802_262-6803-240__"><span data-key="fecd8b1f1621400f9b737a4ee26874e6"><em>folder collections</em></span></span></a><span data-key="628e0e27535d450f99498f5220eea721"><span data-offset-key="628e0e27535d450f99498f5220eea721:0">: the filename, sans extension (the slug).</span></span>
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/netlify/https-ssl" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 

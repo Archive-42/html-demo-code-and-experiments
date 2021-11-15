@@ -6,12 +6,12 @@ This is my iframe playground
 
 <span class="screen-reader-text">Menu</span><span class="icon-menu" aria-hidden="true"></span>
 
--   [Home](https://sidebar-blog.netlify.app/)
--   [Main Blog](https://bgoonz-blog.netlify.app/)
--   [Embedded Examples](https://sidebar-blog.netlify.app/embeds/)
--   [Contact](https://sidebar-blog.netlify.app/contact/)
--   <a href="https://sidebar-blog.netlify.app/navigation/" class="button">Navigation</a>
--   [Blog Backups](#)
+- [Home](https://sidebar-blog.netlify.app/)
+- [Main Blog](https://bgoonz-blog.netlify.app/)
+- [Embedded Examples](https://sidebar-blog.netlify.app/embeds/)
+- [Contact](https://sidebar-blog.netlify.app/contact/)
+- <a href="https://sidebar-blog.netlify.app/navigation/" class="button">Navigation</a>
+- [Blog Backups](#)
 
 <span class="screen-reader-text">Instagram</span>
 
@@ -21,8 +21,7 @@ This is my iframe playground
 
 <span class="screen-reader-text">DEV</span>
 
-Contact
-=======
+# Contact
 
 To get in touch please fill the form below.
 

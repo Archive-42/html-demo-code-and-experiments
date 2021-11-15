@@ -1,48 +1,48 @@
 <a href="https://firebase.google.com/" class="devsite-site-logo-link gc-analytics-event"><img src="https://www.gstatic.com/devrel-devsite/prod/v4bd4ab26cd7863c3b290442dd1ab53c1d48de7babf6561a3340c91d0dc4981e3/firebase/images/lockup.png" alt="Firebase" class="devsite-site-logo" /></a> <span class="devsite-product-name"> </span>
 
--   
+-
 
 <a href="https://firebase.google.com/products-build" class="gc-analytics-event">Products</a> <a href="#" class="devsite-tabs-dropdown-toggle devsite-icon devsite-icon-arrow-drop-down"></a>
 
--   [](https://firebase.google.com/products-build)
-    Build
+- [](https://firebase.google.com/products-build)
+  Build
 
--   [](https://firebase.google.com/products-release)
-    Release & Monitor
+- [](https://firebase.google.com/products-release)
+  Release & Monitor
 
--   [](https://firebase.google.com/products-engage)
-    Engage
+- [](https://firebase.google.com/products-engage)
+  Engage
 
 <a href="https://firebase.google.com/use-cases" class="gc-analytics-event">Use Cases</a> <a href="https://firebase.google.com/pricing" class="gc-analytics-event">Pricing</a> <a href="https://firebase.google.com/docs" class="gc-analytics-event">Docs</a> <a href="#" class="devsite-tabs-dropdown-toggle devsite-icon devsite-icon-arrow-drop-down"></a>
 
--   [](https://firebase.google.com/docs)
-    Overview
+- [](https://firebase.google.com/docs)
+  Overview
 
--   [](https://firebase.google.com/docs/guides)
-    Fundamentals
+- [](https://firebase.google.com/docs/guides)
+  Fundamentals
 
--   [](https://firebase.google.com/docs/build)
-    Build
+- [](https://firebase.google.com/docs/build)
+  Build
 
--   [](https://firebase.google.com/docs/release)
-    Release & Monitor
+- [](https://firebase.google.com/docs/release)
+  Release & Monitor
 
--   [](https://firebase.google.com/docs/engage)
-    Engage
+- [](https://firebase.google.com/docs/engage)
+  Engage
 
--   [](https://firebase.google.com/docs/reference)
-    Reference
+- [](https://firebase.google.com/docs/reference)
+  Reference
 
--   [](https://firebase.google.com/docs/samples)
-    Samples
+- [](https://firebase.google.com/docs/samples)
+  Samples
 
 <a href="https://firebase.google.com/community" class="gc-analytics-event">Community</a> <a href="#" class="devsite-tabs-dropdown-toggle devsite-icon devsite-icon-arrow-drop-down"></a>
 
--   [](https://firebase.google.com/community/learn)
-    Learn
+- [](https://firebase.google.com/community/learn)
+  Learn
 
--   [](https://firebase.google.com/community/events)
-    Events
+- [](https://firebase.google.com/community/events)
+  Events
 
 <a href="https://firebase.google.com/support" class="gc-analytics-event">Support</a>
 
@@ -50,46 +50,45 @@ Language English Bahasa Indonesia Español – América Latina Português – Br
 
 <a href="https://firebase.google.com/" class="devsite-site-logo-link gc-analytics-event"><img src="https://www.gstatic.com/devrel-devsite/prod/v4bd4ab26cd7863c3b290442dd1ab53c1d48de7babf6561a3340c91d0dc4981e3/firebase/images/lockup.png" alt="Firebase" class="devsite-site-logo" /></a> <span class="devsite-product-name"> </span>
 
--   
+-
 
--   <a href="https://firebase.google.com/products-build" class="devsite-nav-title gc-analytics-event devsite-nav-has-children"><span class="devsite-nav-text" data-tooltip=""> Products </span> <span class="devsite-nav-icon material-icons" data-icon="forward"> </span></a>
-    -   <span class="devsite-nav-title" tooltip=""> <span class="devsite-nav-text" tooltip="" menu="Products"> More </span> <span class="devsite-nav-icon material-icons" data-icon="forward" menu="Products"> </span> </span>
--   <a href="https://firebase.google.com/use-cases" class="devsite-nav-title gc-analytics-event devsite-nav-has-children"><span class="devsite-nav-text" data-tooltip=""> Use Cases </span> <span class="devsite-nav-icon material-icons" data-icon="forward"> </span></a>
--   <a href="https://firebase.google.com/pricing" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Pricing </span></a>
--   <a href="https://firebase.google.com/docs" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Docs </span></a>
-    -   <span class="devsite-nav-title" tooltip=""> <span class="devsite-nav-text" tooltip="" menu="Docs"> More </span> <span class="devsite-nav-icon material-icons" data-icon="forward" menu="Docs"> </span> </span>
--   <a href="https://firebase.google.com/community" class="devsite-nav-title gc-analytics-event devsite-nav-has-children"><span class="devsite-nav-text" data-tooltip=""> Community </span> <span class="devsite-nav-icon material-icons" data-icon="forward"> </span></a>
-    -   <span class="devsite-nav-title" tooltip=""> <span class="devsite-nav-text" tooltip="" menu="Community"> More </span> <span class="devsite-nav-icon material-icons" data-icon="forward" menu="Community"> </span> </span>
--   <a href="https://firebase.google.com/support" class="devsite-nav-title gc-analytics-event devsite-nav-has-children"><span class="devsite-nav-text" data-tooltip=""> Support </span> <span class="devsite-nav-icon material-icons" data-icon="forward"> </span></a>
--   <a href="http://console.firebase.google.com/" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Go to console </span></a>
+- <a href="https://firebase.google.com/products-build" class="devsite-nav-title gc-analytics-event devsite-nav-has-children"><span class="devsite-nav-text" data-tooltip=""> Products </span> <span class="devsite-nav-icon material-icons" data-icon="forward"> </span></a>
+  - <span class="devsite-nav-title" tooltip=""> <span class="devsite-nav-text" tooltip="" menu="Products"> More </span> <span class="devsite-nav-icon material-icons" data-icon="forward" menu="Products"> </span> </span>
+- <a href="https://firebase.google.com/use-cases" class="devsite-nav-title gc-analytics-event devsite-nav-has-children"><span class="devsite-nav-text" data-tooltip=""> Use Cases </span> <span class="devsite-nav-icon material-icons" data-icon="forward"> </span></a>
+- <a href="https://firebase.google.com/pricing" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Pricing </span></a>
+- <a href="https://firebase.google.com/docs" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Docs </span></a>
+  - <span class="devsite-nav-title" tooltip=""> <span class="devsite-nav-text" tooltip="" menu="Docs"> More </span> <span class="devsite-nav-icon material-icons" data-icon="forward" menu="Docs"> </span> </span>
+- <a href="https://firebase.google.com/community" class="devsite-nav-title gc-analytics-event devsite-nav-has-children"><span class="devsite-nav-text" data-tooltip=""> Community </span> <span class="devsite-nav-icon material-icons" data-icon="forward"> </span></a>
+  - <span class="devsite-nav-title" tooltip=""> <span class="devsite-nav-text" tooltip="" menu="Community"> More </span> <span class="devsite-nav-icon material-icons" data-icon="forward" menu="Community"> </span> </span>
+- <a href="https://firebase.google.com/support" class="devsite-nav-title gc-analytics-event devsite-nav-has-children"><span class="devsite-nav-text" data-tooltip=""> Support </span> <span class="devsite-nav-icon material-icons" data-icon="forward"> </span></a>
+- <a href="http://console.firebase.google.com/" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Go to console </span></a>
 
--   <a href="https://firebase.google.com/products-build" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Build </span></a>
--   <a href="https://firebase.google.com/products-release" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Release &amp; Monitor </span></a>
--   <a href="https://firebase.google.com/products-engage" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Engage </span></a>
-
-<!-- -->
-
--   <a href="https://firebase.google.com/docs" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Overview </span></a>
--   <a href="https://firebase.google.com/docs/guides" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Fundamentals </span></a>
--   <a href="https://firebase.google.com/docs/build" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Build </span></a>
--   <a href="https://firebase.google.com/docs/release" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Release &amp; Monitor </span></a>
--   <a href="https://firebase.google.com/docs/engage" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Engage </span></a>
--   <a href="https://firebase.google.com/docs/reference" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Reference </span></a>
--   <a href="https://firebase.google.com/docs/samples" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Samples </span></a>
+- <a href="https://firebase.google.com/products-build" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Build </span></a>
+- <a href="https://firebase.google.com/products-release" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Release &amp; Monitor </span></a>
+- <a href="https://firebase.google.com/products-engage" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Engage </span></a>
 
 <!-- -->
 
--   <a href="https://firebase.google.com/community/learn" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Learn </span></a>
--   <a href="https://firebase.google.com/community/events" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Events </span></a>
+- <a href="https://firebase.google.com/docs" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Overview </span></a>
+- <a href="https://firebase.google.com/docs/guides" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Fundamentals </span></a>
+- <a href="https://firebase.google.com/docs/build" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Build </span></a>
+- <a href="https://firebase.google.com/docs/release" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Release &amp; Monitor </span></a>
+- <a href="https://firebase.google.com/docs/engage" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Engage </span></a>
+- <a href="https://firebase.google.com/docs/reference" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Reference </span></a>
+- <a href="https://firebase.google.com/docs/samples" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Samples </span></a>
 
--   <a href="https://firebase.google.com/" class="devsite-breadcrumb-link gc-analytics-event">Firebase</a>
+<!-- -->
+
+- <a href="https://firebase.google.com/community/learn" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Learn </span></a>
+- <a href="https://firebase.google.com/community/events" class="devsite-nav-title gc-analytics-event"><span class="devsite-nav-text" data-tooltip=""> Events </span></a>
+
+- <a href="https://firebase.google.com/" class="devsite-breadcrumb-link gc-analytics-event">Firebase</a>
 
 Send feedback
 
 Catch up on everthing we announced at this year's Firebase Summit. [Learn more](https://firebase.google.com/summit)
 
-Firebase helps you build and run successful apps
-================================================
+# Firebase helps you build and run successful apps
 
 ### Backed by Google and loved by app development teams - from startups to global enterprises
 
@@ -102,10 +101,9 @@ Watch video
                             https://firebase.google.com/images/homepage/hero-illo_1x.png 1x
                           " />
 
-*close*
+_close_
 
-Products and solutions you can rely on through your app's journey
------------------------------------------------------------------
+## Products and solutions you can rely on through your app's journey
 
 <a href="https://firebase.google.com/products-build" class="cta-link cta-link--small anchor"></a> <img src="https://firebase.google.com/images/homepage/home-icon-build.png" alt="Build Illustration" srcset="
                                       https://firebase.google.com/images/homepage/home-icon-build_2x.png 2x,
@@ -118,17 +116,17 @@ Accelerate app development with fully managed backend infrastructure
 
 <a href="https://firebase.google.com/products-build" class="cta-link cta-link--small gc-analytics-event">View all build products</a>
 
--   <a href="https://firebase.google.com/products/firestore" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_firestore*
+- <a href="https://firebase.google.com/products/firestore" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_firestore_
 
-    <a href="https://firebase.google.com/products/firestore" class="product-icon__name gc-analytics-event">Cloud Firestore</a>
+  <a href="https://firebase.google.com/products/firestore" class="product-icon__name gc-analytics-event">Cloud Firestore</a>
 
--   <a href="https://firebase.google.com/products/auth" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_auth*
+- <a href="https://firebase.google.com/products/auth" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_auth_
 
-    <a href="https://firebase.google.com/products/auth" class="product-icon__name gc-analytics-event">Authentication</a>
+  <a href="https://firebase.google.com/products/auth" class="product-icon__name gc-analytics-event">Authentication</a>
 
-------------------------------------------------------------------------
+---
 
 <a href="https://firebase.google.com/products-release" class="cta-link cta-link--small anchor"></a> <img src="https://firebase.google.com/images/homepage/home-icon-release.png" alt="Quality Illustration" srcset="
                                       https://firebase.google.com/images/homepage/home-icon-release_2x.png 2x,
@@ -141,17 +139,17 @@ Release with confidence and monitor performance and stability
 
 <a href="https://firebase.google.com/products-release" class="cta-link cta-link--small gc-analytics-event">View all release &amp; monitor products</a>
 
--   <a href="https://firebase.google.com/products/crashlytics" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_crashlytics*
+- <a href="https://firebase.google.com/products/crashlytics" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_crashlytics_
 
-    <a href="https://firebase.google.com/products/crashlytics" class="product-icon__name gc-analytics-event">Crashlytics</a>
+  <a href="https://firebase.google.com/products/crashlytics" class="product-icon__name gc-analytics-event">Crashlytics</a>
 
--   <a href="https://firebase.google.com/products/analytics" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_analytics*
+- <a href="https://firebase.google.com/products/analytics" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_analytics_
 
-    <a href="https://firebase.google.com/products/analytics" class="product-icon__name gc-analytics-event">Google Analytics</a>
+  <a href="https://firebase.google.com/products/analytics" class="product-icon__name gc-analytics-event">Google Analytics</a>
 
-------------------------------------------------------------------------
+---
 
 <a href="https://firebase.google.com/products-engage" class="cta-link cta-link--small anchor"></a> <img src="https://firebase.google.com/images/homepage/home-icon-engage.png" alt="Grow Illustration" srcset="
                                       https://firebase.google.com/images/homepage/home-icon-engage_2x.png 2x,
@@ -164,114 +162,113 @@ Boost user engagement with rich analytics, A/B testing, and messaging campaigns
 
 <a href="https://firebase.google.com/products-engage" class="cta-link cta-link--small gc-analytics-event">View all engage products</a>
 
--   <a href="https://firebase.google.com/products/remote-config" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_config*
+- <a href="https://firebase.google.com/products/remote-config" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_config_
 
-    <a href="https://firebase.google.com/products/remote-config" class="product-icon__name gc-analytics-event">Remote Config</a>
+  <a href="https://firebase.google.com/products/remote-config" class="product-icon__name gc-analytics-event">Remote Config</a>
 
--   <a href="https://firebase.google.com/products/cloud-messaging" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_cloud\_messaging*
+- <a href="https://firebase.google.com/products/cloud-messaging" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_cloud_messaging_
 
-    <a href="https://firebase.google.com/products/cloud-messaging" class="product-icon__name gc-analytics-event">Cloud Messaging</a>
+  <a href="https://firebase.google.com/products/cloud-messaging" class="product-icon__name gc-analytics-event">Cloud Messaging</a>
 
-------------------------------------------------------------------------
+---
 
--   <a href="https://firebase.google.com/products/firestore" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_firestore*
+- <a href="https://firebase.google.com/products/firestore" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_firestore_
 
-    <a href="https://firebase.google.com/products/firestore" class="product-icon__name gc-analytics-event">Cloud Firestore</a>
+  <a href="https://firebase.google.com/products/firestore" class="product-icon__name gc-analytics-event">Cloud Firestore</a>
 
--   <a href="https://firebase.google.com/products/ml" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_ml2*
+- <a href="https://firebase.google.com/products/ml" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_ml2_
 
-    <a href="https://firebase.google.com/products/ml" class="product-icon__name gc-analytics-event">Machine Learning</a>
+  <a href="https://firebase.google.com/products/ml" class="product-icon__name gc-analytics-event">Machine Learning</a>
 
--   <a href="https://firebase.google.com/products/functions" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_functions*
+- <a href="https://firebase.google.com/products/functions" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_functions_
 
-    <a href="https://firebase.google.com/products/functions" class="product-icon__name gc-analytics-event">Cloud Functions</a>
+  <a href="https://firebase.google.com/products/functions" class="product-icon__name gc-analytics-event">Cloud Functions</a>
 
--   <a href="https://firebase.google.com/products/auth" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_auth*
+- <a href="https://firebase.google.com/products/auth" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_auth_
 
-    <a href="https://firebase.google.com/products/auth" class="product-icon__name gc-analytics-event">Authentication</a>
+  <a href="https://firebase.google.com/products/auth" class="product-icon__name gc-analytics-event">Authentication</a>
 
--   <a href="https://firebase.google.com/products/hosting" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_hosting*
+- <a href="https://firebase.google.com/products/hosting" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_hosting_
 
-    <a href="https://firebase.google.com/products/hosting" class="product-icon__name gc-analytics-event">Hosting</a>
+  <a href="https://firebase.google.com/products/hosting" class="product-icon__name gc-analytics-event">Hosting</a>
 
--   <a href="https://firebase.google.com/products/storage" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_storage*
+- <a href="https://firebase.google.com/products/storage" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_storage_
 
-    <a href="https://firebase.google.com/products/storage" class="product-icon__name gc-analytics-event">Cloud Storage</a>
+  <a href="https://firebase.google.com/products/storage" class="product-icon__name gc-analytics-event">Cloud Storage</a>
 
--   <a href="https://firebase.google.com/products/realtime-database" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_database*
+- <a href="https://firebase.google.com/products/realtime-database" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_database_
 
-    <a href="https://firebase.google.com/products/realtime-database" class="product-icon__name gc-analytics-event">Realtime Database</a>
+  <a href="https://firebase.google.com/products/realtime-database" class="product-icon__name gc-analytics-event">Realtime Database</a>
 
--   <a href="https://firebase.google.com/products/crashlytics" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_crashlytics*
+- <a href="https://firebase.google.com/products/crashlytics" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_crashlytics_
 
-    <a href="https://firebase.google.com/products/crashlytics" class="product-icon__name gc-analytics-event">Crashlytics</a>
+  <a href="https://firebase.google.com/products/crashlytics" class="product-icon__name gc-analytics-event">Crashlytics</a>
 
--   <a href="https://firebase.google.com/products/performance" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_performance*
+- <a href="https://firebase.google.com/products/performance" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_performance_
 
-    <a href="https://firebase.google.com/products/performance" class="product-icon__name gc-analytics-event">Performance Monitoring</a>
+  <a href="https://firebase.google.com/products/performance" class="product-icon__name gc-analytics-event">Performance Monitoring</a>
 
--   <a href="https://firebase.google.com/products/test-lab" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_test\_lab*
+- <a href="https://firebase.google.com/products/test-lab" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_test_lab_
 
-    <a href="https://firebase.google.com/products/test-lab" class="product-icon__name gc-analytics-event">Test Lab</a>
+  <a href="https://firebase.google.com/products/test-lab" class="product-icon__name gc-analytics-event">Test Lab</a>
 
--   <a href="https://firebase.google.com/products/app-distribution" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_app\_distro*
+- <a href="https://firebase.google.com/products/app-distribution" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_app_distro_
 
-    <a href="https://firebase.google.com/products/app-distribution" class="product-icon__name gc-analytics-event">App Distribution</a>
+  <a href="https://firebase.google.com/products/app-distribution" class="product-icon__name gc-analytics-event">App Distribution</a>
 
--   <a href="https://firebase.google.com/products/analytics" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_analytics*
+- <a href="https://firebase.google.com/products/analytics" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_analytics_
 
-    <a href="https://firebase.google.com/products/analytics" class="product-icon__name gc-analytics-event">Google Analytics</a>
+  <a href="https://firebase.google.com/products/analytics" class="product-icon__name gc-analytics-event">Google Analytics</a>
 
--   <a href="https://firebase.google.com/products/in-app-messaging" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_inapp\_messaging*
+- <a href="https://firebase.google.com/products/in-app-messaging" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_inapp_messaging_
 
-    <a href="https://firebase.google.com/products/in-app-messaging" class="product-icon__name gc-analytics-event">In-App Messaging</a>
+  <a href="https://firebase.google.com/products/in-app-messaging" class="product-icon__name gc-analytics-event">In-App Messaging</a>
 
--   <a href="https://firebase.google.com/products/predictions" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_predictions*
+- <a href="https://firebase.google.com/products/predictions" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_predictions_
 
-    <a href="https://firebase.google.com/products/predictions" class="product-icon__name gc-analytics-event">Predictions</a>
+  <a href="https://firebase.google.com/products/predictions" class="product-icon__name gc-analytics-event">Predictions</a>
 
--   <a href="https://firebase.google.com/products/ab-testing" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_experiments*
+- <a href="https://firebase.google.com/products/ab-testing" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_experiments_
 
-    <a href="https://firebase.google.com/products/ab-testing" class="product-icon__name gc-analytics-event">A/B Testing</a>
+  <a href="https://firebase.google.com/products/ab-testing" class="product-icon__name gc-analytics-event">A/B Testing</a>
 
--   <a href="https://firebase.google.com/products/cloud-messaging" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_cloud\_messaging*
+- <a href="https://firebase.google.com/products/cloud-messaging" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_cloud_messaging_
 
-    <a href="https://firebase.google.com/products/cloud-messaging" class="product-icon__name gc-analytics-event">Cloud Messaging</a>
+  <a href="https://firebase.google.com/products/cloud-messaging" class="product-icon__name gc-analytics-event">Cloud Messaging</a>
 
--   <a href="https://firebase.google.com/products/remote-config" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_config*
+- <a href="https://firebase.google.com/products/remote-config" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_config_
 
-    <a href="https://firebase.google.com/products/remote-config" class="product-icon__name gc-analytics-event">Remote Config</a>
+  <a href="https://firebase.google.com/products/remote-config" class="product-icon__name gc-analytics-event">Remote Config</a>
 
--   <a href="https://firebase.google.com/products/dynamic-links" id="product-icon" class="product-icon__link gc-analytics-event"></a>
-    *gmp\_durable\_links*
+- <a href="https://firebase.google.com/products/dynamic-links" id="product-icon" class="product-icon__link gc-analytics-event"></a>
+  _gmp_durable_links_
 
-    <a href="https://firebase.google.com/products/dynamic-links" class="product-icon__name gc-analytics-event">Dynamic Links</a>
+  <a href="https://firebase.google.com/products/dynamic-links" class="product-icon__name gc-analytics-event">Dynamic Links</a>
 
-All products <span class="material-icons show-all-button__icon show-all-button__icon--more" aria-hidden="true" translate="no" translate="no">expand\_more</span> <span class="material-icons show-all-button__icon show-all-button__icon--less" aria-hidden="true" translate="no" translate="no">expand\_less</span>
+All products <span class="material-icons show-all-button__icon show-all-button__icon--more" aria-hidden="true" translate="no" translate="no">expand_more</span> <span class="material-icons show-all-button__icon show-all-button__icon--less" aria-hidden="true" translate="no" translate="no">expand_less</span>
 
-------------------------------------------------------------------------
+---
 
-Firebase Extensions
--------------------
+## Firebase Extensions
 
 Install pre-packaged, open-source bundles of code to automate common development tasks
 
@@ -287,10 +284,9 @@ Install pre-packaged, open-source bundles of code to automate common development
 
 Firebase supports:
 
-*plat\_ios* *plat\_android* *plat\_web* *plat\_unity* *plat\_cpp*
+_plat_ios_ _plat_android_ _plat_web_ _plat_unity_ _plat_cpp_
 
-Integrations
-------------
+## Integrations
 
 Easily integrate Firebase with your team's favorite tools
 
@@ -327,8 +323,7 @@ letting you scale your app to billions of users.
 <a href="https://firebase.google.com/firebase-and-gcp" class="cta-link gc-analytics-event">Read more<br />
 </a>
 
-Trusted by the largest apps and games
--------------------------------------
+## Trusted by the largest apps and games
 
 Development teams around the world—including NPR, Halfbrick, Duolingo,  
 and Venmo—use Firebase to ship their apps.
@@ -393,8 +388,7 @@ and Venmo—use Firebase to ship their apps.
                                   https://firebase.google.com/images/appmakers/gameloft_1x.png 1x
                                 " />
 
-News & events
--------------
+## News & events
 
 <a href="https://firebase.googleblog.com/2021/11/whats-new-at-Firebase-Summit-2021.html" class="cta-link gc-analytics-event"><img src="https://firebase.google.com/images/summit/firebase_summit_2021_blog.png" alt="Logo pattern" /></a>
 
@@ -404,15 +398,13 @@ We just wrapped up Firebase Summit 2021! Catch up on everything we announced and
 
 <a href="https://firebase.googleblog.com/2021/11/whats-new-at-Firebase-Summit-2021.html" class="cta-link gc-analytics-event">Read more</a>
 
-Common use cases
-----------------
+## Common use cases
 
 Use Firebase products together to solve complex challenges and optimize your app experience. Personalize your onboarding flow, grow user engagement, or add new functionality with Firebase.
 
 <a href="https://firebase.google.com/use-cases" class="cta-button gc-analytics-event">View use cases</a>
 
-Easy to integrate on iOS, Android, and the Web
-----------------------------------------------
+## Easy to integrate on iOS, Android, and the Web
 
 Firebase provides detailed documentation and cross-platform SDKs to help you build and ship apps on Android, iOS, the web, C++, and Unity.
 
@@ -428,42 +420,42 @@ Integrating it into your app is easy.
 
 Need to tell us more?
 
--   ### Learn
+- ### Learn
 
-    -   <a href="https://firebase.google.com/docs/guides/" class="devsite-footer-linkbox-link gc-analytics-event">Guides</a>
-    -   <a href="https://firebase.google.com/docs/reference/" class="devsite-footer-linkbox-link gc-analytics-event">Reference</a>
-    -   <a href="https://firebase.google.com/docs/samples/" class="devsite-footer-linkbox-link gc-analytics-event">Samples</a>
-    -   <a href="https://firebase.google.com/docs/libraries/" class="devsite-footer-linkbox-link gc-analytics-event">Libraries</a>
-    -   <a href="http://github.com/firebase/" class="devsite-footer-linkbox-link gc-analytics-event">GitHub</a>
+  - <a href="https://firebase.google.com/docs/guides/" class="devsite-footer-linkbox-link gc-analytics-event">Guides</a>
+  - <a href="https://firebase.google.com/docs/reference/" class="devsite-footer-linkbox-link gc-analytics-event">Reference</a>
+  - <a href="https://firebase.google.com/docs/samples/" class="devsite-footer-linkbox-link gc-analytics-event">Samples</a>
+  - <a href="https://firebase.google.com/docs/libraries/" class="devsite-footer-linkbox-link gc-analytics-event">Libraries</a>
+  - <a href="http://github.com/firebase/" class="devsite-footer-linkbox-link gc-analytics-event">GitHub</a>
 
--   ### Stay connected
+- ### Stay connected
 
-    -   <a href="http://firebase.googleblog.com/" class="devsite-footer-linkbox-link gc-analytics-event">Blog</a>
-    -   <a href="https://firebase.google.com/summit/" class="devsite-footer-linkbox-link gc-analytics-event">Firebase Summit</a>
-    -   <a href="http://www.facebook.com/Firebase/" class="devsite-footer-linkbox-link gc-analytics-event">Facebook</a>
-    -   <a href="http://twitter.com/Firebase" class="devsite-footer-linkbox-link gc-analytics-event">Twitter</a>
-    -   <a href="http://www.youtube.com/user/Firebase" class="devsite-footer-linkbox-link gc-analytics-event">YouTube</a>
+  - <a href="http://firebase.googleblog.com/" class="devsite-footer-linkbox-link gc-analytics-event">Blog</a>
+  - <a href="https://firebase.google.com/summit/" class="devsite-footer-linkbox-link gc-analytics-event">Firebase Summit</a>
+  - <a href="http://www.facebook.com/Firebase/" class="devsite-footer-linkbox-link gc-analytics-event">Facebook</a>
+  - <a href="http://twitter.com/Firebase" class="devsite-footer-linkbox-link gc-analytics-event">Twitter</a>
+  - <a href="http://www.youtube.com/user/Firebase" class="devsite-footer-linkbox-link gc-analytics-event">YouTube</a>
 
--   ### Support
+- ### Support
 
-    -   <a href="https://firebase.google.com/support/" class="devsite-footer-linkbox-link gc-analytics-event">Contact support</a>
-    -   <a href="http://stackoverflow.com/questions/tagged/firebase" class="devsite-footer-linkbox-link gc-analytics-event">Stack Overflow</a>
-    -   <a href="http://firebase.community/" class="devsite-footer-linkbox-link gc-analytics-event">Slack community</a>
-    -   <a href="http://groups.google.com/forum/#!forum/firebase-talk" class="devsite-footer-linkbox-link gc-analytics-event">Google group</a>
-    -   <a href="https://firebase.google.com/support/releases" class="devsite-footer-linkbox-link gc-analytics-event">Release notes</a>
-    -   <a href="https://firebase.google.com/support/faq/" class="devsite-footer-linkbox-link gc-analytics-event">FAQs</a>
+  - <a href="https://firebase.google.com/support/" class="devsite-footer-linkbox-link gc-analytics-event">Contact support</a>
+  - <a href="http://stackoverflow.com/questions/tagged/firebase" class="devsite-footer-linkbox-link gc-analytics-event">Stack Overflow</a>
+  - <a href="http://firebase.community/" class="devsite-footer-linkbox-link gc-analytics-event">Slack community</a>
+  - <a href="http://groups.google.com/forum/#!forum/firebase-talk" class="devsite-footer-linkbox-link gc-analytics-event">Google group</a>
+  - <a href="https://firebase.google.com/support/releases" class="devsite-footer-linkbox-link gc-analytics-event">Release notes</a>
+  - <a href="https://firebase.google.com/support/faq/" class="devsite-footer-linkbox-link gc-analytics-event">FAQs</a>
 
 <a href="https://developers.google.com/" class="devsite-footer-sites-logo-link gc-analytics-event"><img src="https://www.gstatic.com/devrel-devsite/prod/v4bd4ab26cd7863c3b290442dd1ab53c1d48de7babf6561a3340c91d0dc4981e3/firebase/images/lockup-developers.svg" alt="Google Developers" class="devsite-footer-sites-logo" /></a>
 
--   <a href="http://developer.android.com/" class="devsite-footer-sites-link gc-analytics-event">Android</a>
--   <a href="http://developer.chrome.com/home" class="devsite-footer-sites-link gc-analytics-event">Chrome</a>
--   <a href="http://firebase.google.com/" class="devsite-footer-sites-link gc-analytics-event">Firebase</a>
--   <a href="http://cloud.google.com/" class="devsite-footer-sites-link gc-analytics-event">Google Cloud Platform</a>
--   <a href="http://developers.google.com/products/" class="devsite-footer-sites-link gc-analytics-event">All products</a>
+- <a href="http://developer.android.com/" class="devsite-footer-sites-link gc-analytics-event">Android</a>
+- <a href="http://developer.chrome.com/home" class="devsite-footer-sites-link gc-analytics-event">Chrome</a>
+- <a href="http://firebase.google.com/" class="devsite-footer-sites-link gc-analytics-event">Firebase</a>
+- <a href="http://cloud.google.com/" class="devsite-footer-sites-link gc-analytics-event">Google Cloud Platform</a>
+- <a href="http://developers.google.com/products/" class="devsite-footer-sites-link gc-analytics-event">All products</a>
 
 <!-- -->
 
--   <a href="https://firebase.google.com/terms/" class="devsite-footer-utility-link gc-analytics-event">Terms</a>
--   <a href="http://policies.google.com/privacy" class="devsite-footer-utility-link gc-analytics-event">Privacy</a>
+- <a href="https://firebase.google.com/terms/" class="devsite-footer-utility-link gc-analytics-event">Terms</a>
+- <a href="http://policies.google.com/privacy" class="devsite-footer-utility-link gc-analytics-event">Privacy</a>
 
 Language English Bahasa Indonesia Español – América Latina Português – Brasil 中文 – 简体 日本語 한국어

@@ -6,8 +6,7 @@
 
 <span class="css-1rsw1pf">Languages</span>GitHub
 
-React
-=====
+# React
 
 A JavaScript library for building user interfaces
 
@@ -33,7 +32,7 @@ We don’t make assumptions about the rest of your technology stack, so you can 
 
 React can also render on the server using Node and power mobile apps using [React Native](https://reactnative.dev/).
 
-------------------------------------------------------------------------
+---
 
 ### A Simple Component
 

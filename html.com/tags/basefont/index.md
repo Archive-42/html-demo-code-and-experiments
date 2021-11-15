@@ -10,8 +10,7 @@ Learn HTML Code, Tags & CSS
 
 Deprecated in HTML5. Do not use.
 
-`<basefont> HTML Tag`
-=====================
+# `<basefont> HTML Tag`
 
 In <span class="post-meta-category">[Deprecated](../../deprecated/index.html), [HTML Tags](../index.html)</span>
 
@@ -31,16 +30,15 @@ This element must not contain any content, and does not need a closing tag.
 
 <span class="underline"></span>
 
-The right way to set a “base font”
-----------------------------------
+## The right way to set a “base font”
 
 Use CSS for all typographical styling. Usually, the best approach for setting a document-wide font is to place your font rules in the `body`.
 
-    body {  font-family: Garamond, "Linux Libertine", Georgia, "Times New Roman", serif;  font-size: 16px;  font-weight: normal;  color: #000000; } 
+    body {  font-family: Garamond, "Linux Libertine", Georgia, "Times New Roman", serif;  font-size: 16px;  font-weight: normal;  color: #000000; }
 
 Because of the “cascade”, these rules will be inherited by all the other elements, and you can simply modify them from there. For example, if you want to make your main headlines twice the size as the other text, and your navigation menu slightly smaller than normal text, you can use `em`s to scale sizes based on the size you declared in your `body` rules.
 
-    h1 {  font-size: 2em;  }  .main-nav {  font-size: .8em; } 
+    h1 {  font-size: 2em;  }  .main-nav {  font-size: .8em; }
 
 If you approach all your font sizing and styling this way, if you want to change the overall font size (or if the user wants to do so), changes to the `body` font size will be reflected in the whole document, and all the different sizes will scale up and down appropriately. See our [tutorials](../../index.html) on [CSS](../../css/index.html) and [Web Typography](../../fonts/index.html) for more information.
 
@@ -58,16 +56,14 @@ If you approach all your font sizing and styling this way, if you want to change
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Attributes of basefont
-----------------------
+## Attributes of basefont
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="../../attributes/basefont-color/index.html" class="linked-name deprecated">color</a><br />
 </td><td></td><td>Used to set the text color for a whole document. Deprecated. Use CSS instead.</td></tr><tr class="even"><td><a href="../../attributes/basefont-face/index.html" class="linked-name deprecated">face</a><br />
 </td><td></td><td>Was used to set the base font face for a document. Deprecated. Use CSS instead.</td></tr><tr class="odd"><td><a href="../../attributes/basefont-size/index.html" class="linked-name deprecated">size</a><br />
 </td><td></td><td>Was used to set the base font size for a whole document. Deprecated. Use CSS instead.</td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](../../resources/citation-guide/index.html)
 
@@ -79,11 +75,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="../../attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="../comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../../attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../iframe/index.html" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../iframe/index.html#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../img/index.html" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="../img/index.html#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../../attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="../comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../../attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../iframe/index.html" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../iframe/index.html#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../img/index.html" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="../img/index.html#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](../../index.html) © 2015-2020 [Sitemap](../../sitemap/index.html) | [Privacy](../../privacy/index.html) | [Contact](../../contact/index.html)
 

@@ -246,7 +246,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -264,7 +264,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -304,7 +304,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -2730,17 +2730,11 @@ Copied!
 
 <span data-key="4bfa457a9b3143b4b3a8442a07cd5ee5"><span data-offset-key="4bfa457a9b3143b4b3a8442a07cd5ee5:0">The parameters of the </span>`animate()`<span data-offset-key="4bfa457a9b3143b4b3a8442a07cd5ee5:2"> method have the following meanings:</span></span>
 
--   
+- <span data-key="39dc88b26b094243adc9668cd6546569"><span data-offset-key="39dc88b26b094243adc9668cd6546569:0">The required properties parameter defines the </span></span><a href="https://www.tutorialrepublic.com/css-reference/css3-properties.php" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="42087f6f7e81435a8b80a19b251e702b" data-rnw-int-class="nearest_260-5896_262-5897-240__"><span data-key="266bedcf4c67450c8271f9edc8f98f75"><span data-offset-key="266bedcf4c67450c8271f9edc8f98f75:0">CSS properties</span></span></span></a><span data-key="d35277d9c9494fc79bd786846d274b40"><span data-offset-key="d35277d9c9494fc79bd786846d274b40:0"> to be animated.</span></span>
 
-    <span data-key="39dc88b26b094243adc9668cd6546569"><span data-offset-key="39dc88b26b094243adc9668cd6546569:0">The required properties parameter defines the </span></span><a href="https://www.tutorialrepublic.com/css-reference/css3-properties.php" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="42087f6f7e81435a8b80a19b251e702b" data-rnw-int-class="nearest_260-5896_262-5897-240__"><span data-key="266bedcf4c67450c8271f9edc8f98f75"><span data-offset-key="266bedcf4c67450c8271f9edc8f98f75:0">CSS properties</span></span></span></a><span data-key="d35277d9c9494fc79bd786846d274b40"><span data-offset-key="d35277d9c9494fc79bd786846d274b40:0"> to be animated.</span></span>
+- <span data-key="5687f61dc6664cef88b3ab5b000aee35"><span data-offset-key="5687f61dc6664cef88b3ab5b000aee35:0">The optional duration parameter specifies how long the animation will run. Durations can be specified either using one of the predefined string </span>`'slow'`<span data-offset-key="5687f61dc6664cef88b3ab5b000aee35:2"> or </span>`'fast'`<span data-offset-key="5687f61dc6664cef88b3ab5b000aee35:4">, or in a number of milliseconds; higher values indicate slower animations.</span></span>
 
--   
-
-    <span data-key="5687f61dc6664cef88b3ab5b000aee35"><span data-offset-key="5687f61dc6664cef88b3ab5b000aee35:0">The optional duration parameter specifies how long the animation will run. Durations can be specified either using one of the predefined string </span>`'slow'`<span data-offset-key="5687f61dc6664cef88b3ab5b000aee35:2"> or </span>`'fast'`<span data-offset-key="5687f61dc6664cef88b3ab5b000aee35:4">, or in a number of milliseconds; higher values indicate slower animations.</span></span>
-
--   
-
-    <span data-key="9728fa45a0214004be1ae2053d40ce12"><span data-offset-key="9728fa45a0214004be1ae2053d40ce12:0">The optional </span></span><a href="https://www.tutorialrepublic.com/jquery-tutorial/jquery-callback.php" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f799723a16444f9c893acaa8c5e8eba9" data-rnw-int-class="nearest_260-5896_262-5897-240__"><span data-key="7fa7cc6fece24c88b3b59749e3edef52"><span data-offset-key="7fa7cc6fece24c88b3b59749e3edef52:0">callback</span></span></span></a><span data-key="93cf8e5bb9f04ab0834a5dd1750a2400"><span data-offset-key="93cf8e5bb9f04ab0834a5dd1750a2400:0"> parameter is a function to call once the animation is complete.</span></span>
+- <span data-key="9728fa45a0214004be1ae2053d40ce12"><span data-offset-key="9728fa45a0214004be1ae2053d40ce12:0">The optional </span></span><a href="https://www.tutorialrepublic.com/jquery-tutorial/jquery-callback.php" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f799723a16444f9c893acaa8c5e8eba9" data-rnw-int-class="nearest_260-5896_262-5897-240__"><span data-key="7fa7cc6fece24c88b3b59749e3edef52"><span data-offset-key="7fa7cc6fece24c88b3b59749e3edef52:0">callback</span></span></span></a><span data-key="93cf8e5bb9f04ab0834a5dd1750a2400"><span data-offset-key="93cf8e5bb9f04ab0834a5dd1750a2400:0"> parameter is a function to call once the animation is complete.</span></span>
 
 <span data-key="cb0b82efde1942399c704fed54d3a01d"><span data-offset-key="cb0b82efde1942399c704fed54d3a01d:0">Here's a simple example of the jQuery </span>`animate()`<span data-offset-key="cb0b82efde1942399c704fed54d3a01d:2"> method that animates an image from its original position to the right by 300 pixels on click of the button.</span></span>
 

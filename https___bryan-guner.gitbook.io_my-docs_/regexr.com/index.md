@@ -2,45 +2,43 @@
 
 Pattern Settings
 
--   <span class="action">Save</span> <span class="savekey">(--)</span>
--   New
+- <span class="action">Save</span> <span class="savekey">(--)</span>
+- New
 
 <!-- -->
 
--   Dark UI
--   by [gskinner](http://gskinner.com/)
--   [GitHub](http://github.com/gskinner/regexr/)
--   <span class="label">Sign In</span>
+- Dark UI
+- by [gskinner](http://gskinner.com/)
+- [GitHub](http://github.com/gskinner/regexr/)
+- <span class="label">Sign In</span>
 
-Menu
-====
+# Menu
 
 Minimize menu
 
 RegExr is an online tool to **learn**, **build**, & **test** Regular Expressions (RegEx / RegExp).
 
-------------------------------------------------------------------------
+---
 
--   Supports **JavaScript** & **PHP/PCRE** RegEx.
--   Results update in **real-time** as you type.
--   **Roll over** a match or expression for details.
--   Validate patterns with suites of **Tests**.
--   **Save** & share expressions with others.
--   Use **Tools** to explore your results.
--   Full **RegEx Reference** with help & examples.
--   **Undo** & **Redo** with {{getCtrlKey()}}-Z / Y in editors.
--   Search for & rate **Community Patterns**.
+- Supports **JavaScript** & **PHP/PCRE** RegEx.
+- Results update in **real-time** as you type.
+- **Roll over** a match or expression for details.
+- Validate patterns with suites of **Tests**.
+- **Save** & share expressions with others.
+- Use **Tools** to explore your results.
+- Full **RegEx Reference** with help & examples.
+- **Undo** & **Redo** with {{getCtrlKey()}}-Z / Y in editors.
+- Search for & rate **Community Patterns**.
 
 <a href="#native_link#" class="native-flex"></a>
 
 <img src="#native_logo#" class="native-img" />
 
-<span class="native-company">Sponsored by \#native\_company\#</span> <span class="native-desc">\#native\_desc\#</span>
+<span class="native-company">Sponsored by \#native_company\#</span> <span class="native-desc">\#native_desc\#</span>
 
 **Want to support RegExr?** Consider disabling your ad-blocker for this domain. We'll show a non-intrusive, dev-oriented ad in this area.
 
-Expression
-==========
+# Expression
 
 <span class="label">JavaScript</span>
 
@@ -58,39 +56,34 @@ Build a suite of tests that your expression should (or should not) match.
 
 Create new tests with the 'Add Test' button. Click a test to edit the name, type, & text.
 
-Tools
-=====
+# Tools
 
 Toggle tools panel
 
-RegEx Engine
-============
+# RegEx Engine
 
-------------------------------------------------------------------------
+---
 
-Expression Flags
-================
+# Expression Flags
 
-------------------------------------------------------------------------
+---
 
-Sign In
-=======
+# Sign In
 
-------------------------------------------------------------------------
+---
 
-Sign in to persist favorites & patterns. Click the help icon above for info.  
-  
+Sign in to persist favorites & patterns. Click the help icon above for info.
+
 Any unsaved changes will be lost. Saved patterns & favorites will be migrated to your account.
 
-------------------------------------------------------------------------
+---
 
-Sign Out
-========
+# Sign Out
 
-------------------------------------------------------------------------
+---
 
-You are currently signed in as **--** via **--**.  
-  
+You are currently signed in as **--** via **--**.
+
 <span class="signoutbtn">Sign out.</span>
 
 One moment...
@@ -203,7 +196,7 @@ Rate pattern
 
 Rate pattern
 
-------------------------------------------------------------------------
+---
 
 Sign in to avoid losing your patterns!
 

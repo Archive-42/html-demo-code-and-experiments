@@ -2,80 +2,83 @@
 
 <a href="https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&amp;source=header-repo" class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5">Sign up</a>
 
--   Why GitHub?
-    -   <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- Why GitHub?
 
--   <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
--   <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
--   Explore
-    -   <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Learn and contribute
-    -   <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Connect with others
-    -   <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
--   <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
--   Pricing
-    -   <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
+- <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
+- Explore
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+  - <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Learn and contribute
+  - <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Connect with others
+  - <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+- <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
+- Pricing
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  - <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <!-- -->
 
--   <span class="color-fg-muted">No suggested jump to results</span>
+- <span class="color-fg-muted">No suggested jump to results</span>
 
 <!-- -->
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fbgoonz%2FUsefulResourceRepo2.0" class="HeaderMenu-link flex-shrink-0 no-underline">Sign in</a>
 
@@ -83,14 +86,13 @@
 
 {{ message }}
 
-<span class="author flex-self-stretch" itemprop="author"> <a href="https://github.com/bgoonz" class="url fn">bgoonz</a> </span> <span class="mx-1 flex-self-stretch color-fg-muted">/</span> **[UsefulResourceRepo2.0](https://github.com/bgoonz/UsefulResourceRepo2.0)** <span class="Label Label--secondary v-align-middle mr-1">Public template</span>
-=========================================================================================================================================================================================================================================================================================================================================================
+# <span class="author flex-self-stretch" itemprop="author"> <a href="https://github.com/bgoonz" class="url fn">bgoonz</a> </span> <span class="mx-1 flex-self-stretch color-fg-muted">/</span> **[UsefulResourceRepo2.0](https://github.com/bgoonz/UsefulResourceRepo2.0)** <span class="Label Label--secondary v-align-middle mr-1">Public template</span>
 
--   Notifications
--   <span data-view-component="true"> Star </span> <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/stargazers" class="social-count js-social-count">2</a>
+- Notifications
+- <span data-view-component="true"> Star </span> <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/stargazers" class="social-count js-social-count">2</a>
 
--   Fork <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/network/members" class="social-count">7</a>
--   
+- Fork <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/network/members" class="social-count">7</a>
+-
 
 \`[https://orange-hamster-lyz7d0pc.ws-us15.gitpod.io\`](https://orange-hamster-lyz7d0pc.ws-us15.gitpod.io%60/)
 
@@ -106,27 +108,27 @@ MIT License
 
 Notifications
 
--   <span data-content="Code">Code</span> <span id="code-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Issues">Issues</span> <span id="issues-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
--   <span data-content="Pull requests">Pull requests</span> <span id="pull-requests-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
--   <span data-content="Discussions">Discussions</span> <span id="discussions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Actions">Actions</span> <span id="actions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Projects">Projects</span> <span id="projects-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
--   <span data-content="Wiki">Wiki</span> <span id="wiki-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Security">Security</span>
--   <span data-content="Insights">Insights</span> <span id="insights-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Code">Code</span> <span id="code-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Issues">Issues</span> <span id="issues-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
+- <span data-content="Pull requests">Pull requests</span> <span id="pull-requests-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
+- <span data-content="Discussions">Discussions</span> <span id="discussions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Actions">Actions</span> <span id="actions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Projects">Projects</span> <span id="projects-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
+- <span data-content="Wiki">Wiki</span> <span id="wiki-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Security">Security</span>
+- <span data-content="Insights">Insights</span> <span id="insights-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
 
 <span class="sr-only">More</span>
 
--   <a href="https://github.com/bgoonz/UsefulResourceRepo2.0" class="js-selected-navigation-item selected dropdown-item">Code</a>
--   <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/issues" class="js-selected-navigation-item dropdown-item">Issues</a>
--   <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/pulls" class="js-selected-navigation-item dropdown-item">Pull requests</a>
--   <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/discussions" class="js-selected-navigation-item dropdown-item">Discussions</a>
--   <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/actions" class="js-selected-navigation-item dropdown-item">Actions</a>
--   <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/projects" class="js-selected-navigation-item dropdown-item">Projects</a>
--   <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/wiki" class="js-selected-navigation-item dropdown-item">Wiki</a>
--   <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/security" class="js-selected-navigation-item dropdown-item">Security</a>
--   <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/pulse" class="js-selected-navigation-item dropdown-item">Insights</a>
+- <a href="https://github.com/bgoonz/UsefulResourceRepo2.0" class="js-selected-navigation-item selected dropdown-item">Code</a>
+- <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/issues" class="js-selected-navigation-item dropdown-item">Issues</a>
+- <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/pulls" class="js-selected-navigation-item dropdown-item">Pull requests</a>
+- <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/discussions" class="js-selected-navigation-item dropdown-item">Discussions</a>
+- <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/actions" class="js-selected-navigation-item dropdown-item">Actions</a>
+- <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/projects" class="js-selected-navigation-item dropdown-item">Projects</a>
+- <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/wiki" class="js-selected-navigation-item dropdown-item">Wiki</a>
+- <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/security" class="js-selected-navigation-item dropdown-item">Security</a>
+- <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/pulse" class="js-selected-navigation-item dropdown-item">Insights</a>
 
 <span class="css-truncate-target" data-menu-button="">master</span> <span class="dropdown-caret"></span>
 
@@ -166,18 +168,15 @@ Code<span class="dropdown-caret"></span>
 
 <span class="sr-only">Loading</span>
 
-Latest commit
--------------
+## Latest commit
 
- 
 
-Git stats
----------
 
--   <span class="d-none d-sm-inline"> **1,110** <span class="color-fg-muted d-none d-lg-inline" aria-label="Commits on master"> commits </span> </span>
+## Git stats
 
-Files
------
+- <span class="d-none d-sm-inline"> **1,110** <span class="color-fg-muted d-none d-lg-inline" aria-label="Commits on master"> commits </span> </span>
+
+## Files
 
 <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/164c0e924ff01d50e243accec213ce153f4a0725" class="d-none js-permalink-shortcut">Permalink</a>
 
@@ -193,410 +192,409 @@ Commit time
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/.github/ISSUE_TEMPLATE" class="js-navigation-open Link--primary" title="This path skips through empty directories"><span class="color-text-tertiary">.github/</span>ISSUE_TEMPLATE</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/.vscode" class="js-navigation-open Link--primary" title=".vscode">.vscode</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/GIT-USERS" class="js-navigation-open Link--primary" title="GIT-USERS">GIT-USERS</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/MY_REPOS" class="js-navigation-open Link--primary" title="MY_REPOS">MY_REPOS</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/PROJECTS" class="js-navigation-open Link--primary" title="PROJECTS">PROJECTS</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_BLOG" class="js-navigation-open Link--primary" title="_BLOG">_BLOG</a></span>
 
- 
 
- 
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_BLOG" class="js-navigation-open Link--primary" title="_BLOG">\_BLOG</a></span>
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_COURSES" class="js-navigation-open Link--primary" title="_COURSES">_COURSES</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_DOCS" class="js-navigation-open Link--primary" title="_DOCS">_DOCS</a></span>
 
- 
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_COURSES" class="js-navigation-open Link--primary" title="_COURSES">\_COURSES</a></span>
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_EXPERIMENTs" class="js-navigation-open Link--primary" title="_EXPERIMENTs">_EXPERIMENTs</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_GENERAL" class="js-navigation-open Link--primary" title="_GENERAL">_GENERAL</a></span>
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_DOCS" class="js-navigation-open Link--primary" title="_DOCS">\_DOCS</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_Job-Search" class="js-navigation-open Link--primary" title="_Job-Search">_Job-Search</a></span>
 
- 
 
- 
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_EXPERIMENTs" class="js-navigation-open Link--primary" title="_EXPERIMENTs">\_EXPERIMENTs</a></span>
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_MISC" class="js-navigation-open Link--primary" title="_MISC">_MISC</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_MY_ORGS" class="js-navigation-open Link--primary" title="_MY_ORGS">_MY_ORGS</a></span>
 
- 
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_GENERAL" class="js-navigation-open Link--primary" title="_GENERAL">\_GENERAL</a></span>
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_NEW_POSSIBLE_PROJECTS/data-struc-reqork" class="js-navigation-open Link--primary" title="This path skips through empty directories"><span class="color-text-tertiary">_NEW_POSSIBLE_PROJECTS/</span>data-struc-reqork</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_NOTES/_SCRAP" class="js-navigation-open Link--primary" title="This path skips through empty directories"><span class="color-text-tertiary">_NOTES/</span>_SCRAP</a></span>
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_Job-Search" class="js-navigation-open Link--primary" title="_Job-Search">\_Job-Search</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_ORGS" class="js-navigation-open Link--primary" title="_ORGS">_ORGS</a></span>
 
- 
 
- 
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_MISC" class="js-navigation-open Link--primary" title="_MISC">\_MISC</a></span>
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_OVERFLOW" class="js-navigation-open Link--primary" title="_OVERFLOW">_OVERFLOW</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_PRAC" class="js-navigation-open Link--primary" title="_PRAC">_PRAC</a></span>
 
- 
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_MY_ORGS" class="js-navigation-open Link--primary" title="_MY_ORGS">\_MY_ORGS</a></span>
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_PYTHON" class="js-navigation-open Link--primary" title="_PYTHON">_PYTHON</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_REACT" class="js-navigation-open Link--primary" title="_REACT">_REACT</a></span>
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_NEW_POSSIBLE_PROJECTS/data-struc-reqork" class="js-navigation-open Link--primary" title="This path skips through empty directories"><span class="color-text-tertiary">\_NEW_POSSIBLE_PROJECTS/</span>data-struc-reqork</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_REPO" class="js-navigation-open Link--primary" title="_REPO">_REPO</a></span>
 
- 
 
- 
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_NOTES/_SCRAP" class="js-navigation-open Link--primary" title="This path skips through empty directories"><span class="color-text-tertiary">\_NOTES/</span>\_SCRAP</a></span>
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_RESOURCES" class="js-navigation-open Link--primary" title="_RESOURCES">_RESOURCES</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_REVISIT_L8R" class="js-navigation-open Link--primary" title="_REVISIT_L8R">_REVISIT_L8R</a></span>
 
- 
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_ORGS" class="js-navigation-open Link--primary" title="_ORGS">\_ORGS</a></span>
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_SCRAP" class="js-navigation-open Link--primary" title="_SCRAP">_SCRAP</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_TEMPLATES" class="js-navigation-open Link--primary" title="_TEMPLATES">_TEMPLATES</a></span>
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_OVERFLOW" class="js-navigation-open Link--primary" title="_OVERFLOW">\_OVERFLOW</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_TOOLS" class="js-navigation-open Link--primary" title="_TOOLS">_TOOLS</a></span>
 
- 
 
- 
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_PRAC" class="js-navigation-open Link--primary" title="_PRAC">\_PRAC</a></span>
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_VSCODE-extensions" class="js-navigation-open Link--primary" title="_VSCODE-extensions">_VSCODE-extensions</a></span>
 
- 
 
- 
+
+
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_PYTHON" class="js-navigation-open Link--primary" title="_PYTHON">\_PYTHON</a></span>
+
+
+
+
+
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_REACT" class="js-navigation-open Link--primary" title="_REACT">\_REACT</a></span>
+
+
+
+
+
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_REPO" class="js-navigation-open Link--primary" title="_REPO">\_REPO</a></span>
+
+
+
+
+
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_RESOURCES" class="js-navigation-open Link--primary" title="_RESOURCES">\_RESOURCES</a></span>
+
+
+
+
+
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_REVISIT_L8R" class="js-navigation-open Link--primary" title="_REVISIT_L8R">\_REVISIT_L8R</a></span>
+
+
+
+
+
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_SCRAP" class="js-navigation-open Link--primary" title="_SCRAP">\_SCRAP</a></span>
+
+
+
+
+
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_TEMPLATES" class="js-navigation-open Link--primary" title="_TEMPLATES">\_TEMPLATES</a></span>
+
+
+
+
+
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_TOOLS" class="js-navigation-open Link--primary" title="_TOOLS">\_TOOLS</a></span>
+
+
+
+
+
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/tree/master/_VSCODE-extensions" class="js-navigation-open Link--primary" title="_VSCODE-extensions">\_VSCODE-extensions</a></span>
+
+
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/.gitattributes" class="js-navigation-open Link--primary" title=".gitattributes">.gitattributes</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/.gitignore" class="js-navigation-open Link--primary" title=".gitignore">.gitignore</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/.gitpod.yml" class="js-navigation-open Link--primary" title=".gitpod.yml">.gitpod.yml</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/BASH_COMMANDS.md" class="js-navigation-open Link--primary" title="BASH_COMMANDS.md">BASH_COMMANDS.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/CODE_OF_CONDUCT.md" class="js-navigation-open Link--primary" title="CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/CONTRIBUTING.md" class="js-navigation-open Link--primary" title="CONTRIBUTING.md">CONTRIBUTING.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/Dir-TREE.md" class="js-navigation-open Link--primary" title="Dir-TREE.md">Dir-TREE.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/FOLDERS_BY_SIZE.md" class="js-navigation-open Link--primary" title="FOLDERS_BY_SIZE.md">FOLDERS_BY_SIZE.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/LICENSE" class="js-navigation-open Link--primary" title="LICENSE">LICENSE</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/Menu-test.html" class="js-navigation-open Link--primary" title="Menu-test.html">Menu-test.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/README.md" class="js-navigation-open Link--primary" title="README.md">README.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/RESOURCE_REPO.html" class="js-navigation-open Link--primary" title="RESOURCE_REPO.html">RESOURCE_REPO.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/SEARCH.html" class="js-navigation-open Link--primary" title="SEARCH.html">SEARCH.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/UsefulResourceRepo2.0.html" class="js-navigation-open Link--primary" title="UsefulResourceRepo2.0.html">UsefulResourceRepo2.0.html</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/_config.yml" class="js-navigation-open Link--primary" title="_config.yml">_config.yml</a></span>
 
- 
 
- 
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/_config.yml" class="js-navigation-open Link--primary" title="_config.yml">\_config.yml</a></span>
+
+
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/backup.html" class="js-navigation-open Link--primary" title="backup.html">backup.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/commands.txt" class="js-navigation-open Link--primary" title="commands.txt">commands.txt</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/commands3.md" class="js-navigation-open Link--primary" title="commands3.md">commands3.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/dir.html" class="js-navigation-open Link--primary" title="dir.html">dir.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/dir.js" class="js-navigation-open Link--primary" title="dir.js">dir.js</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/favicon.ico" class="js-navigation-open Link--primary" title="favicon.ico">favicon.ico</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/iframes.html" class="js-navigation-open Link--primary" title="iframes.html">iframes.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/index.html" class="js-navigation-open Link--primary" title="index.html">index.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/install.sh" class="js-navigation-open Link--primary" title="install.sh">install.sh</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/install.sh.1" class="js-navigation-open Link--primary" title="install.sh.1">install.sh.1</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/listing-path.md" class="js-navigation-open Link--primary" title="listing-path.md">listing-path.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/makefile" class="js-navigation-open Link--primary" title="makefile">makefile</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/out2.md" class="js-navigation-open Link--primary" title="out2.md">out2.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/package-lock.json" class="js-navigation-open Link--primary" title="package-lock.json">package-lock.json</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/path-fixer.js" class="js-navigation-open Link--primary" title="path-fixer.js">path-fixer.js</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/renovate.json" class="js-navigation-open Link--primary" title="renovate.json">renovate.json</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/result.png" class="js-navigation-open Link--primary" title="result.png">result.png</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/robots.txt" class="js-navigation-open Link--primary" title="robots.txt">robots.txt</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/scrap.md" class="js-navigation-open Link--primary" title="scrap.md">scrap.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/scrap2.md" class="js-navigation-open Link--primary" title="scrap2.md">scrap2.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/scrap3.md" class="js-navigation-open Link--primary" title="scrap3.md">scrap3.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/scrap6.md" class="js-navigation-open Link--primary" title="scrap6.md">scrap6.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/sitemap-template.html" class="js-navigation-open Link--primary" title="sitemap-template.html">sitemap-template.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/tree.md" class="js-navigation-open Link--primary" title="tree.md">tree.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/UsefulResourceRepo2.0/blob/master/tree2.md" class="js-navigation-open Link--primary" title="tree2.md">tree2.md</a></span>
 
- 
 
- 
+
+
 
 View code
 
-<a href="#readme" class="Link--primary">README.md</a>
------------------------------------------------------
+## <a href="#readme" class="Link--primary">README.md</a>
 
     .
     ├── ./backup.html
@@ -986,8 +984,7 @@ View code
 
     243 directories, 141 files
 
-About
------
+## About
 
 \`[https://orange-hamster-lyz7d0pc.ws-us15.gitpod.io\`](https://orange-hamster-lyz7d0pc.ws-us15.gitpod.io%60/)
 
@@ -1009,44 +1006,41 @@ MIT License
 
 Code of conduct
 
-<a href="https://github.com/bgoonz/UsefulResourceRepo2.0/releases" class="Link--primary no-underline">Releases</a>
-------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/releases" class="Link--primary no-underline">Releases</a>
 
 No releases published
 
-<a href="https://github.com/users/bgoonz/packages?repo_name=UsefulResourceRepo2.0" class="Link--primary no-underline">Packages <span class="Counter" title="0" hidden="hidden" data-view-component="true">0</span></a>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/users/bgoonz/packages?repo_name=UsefulResourceRepo2.0" class="Link--primary no-underline">Packages <span class="Counter" title="0" hidden="hidden" data-view-component="true">0</span></a>
 
-No packages published  
+No packages published
 
-<a href="https://github.com/bgoonz/UsefulResourceRepo2.0/graphs/contributors" class="Link--primary no-underline">Contributors <span class="Counter" title="5" data-view-component="true">5</span></a>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/bgoonz/UsefulResourceRepo2.0/graphs/contributors" class="Link--primary no-underline">Contributors <span class="Counter" title="5" data-view-component="true">5</span></a>
 
--   
+-
 
--   
+-
 
--   
+-
 
--   
+-
 
--   
+-
 
--   © 2021 GitHub, Inc.
--   [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
--   [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
--   [Security](https://github.com/security)
--   [Status](https://www.githubstatus.com/)
--   [Docs](https://docs.github.com/)
+- © 2021 GitHub, Inc.
+- [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
+- [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
+- [Security](https://github.com/security)
+- [Status](https://www.githubstatus.com/)
+- [Docs](https://docs.github.com/)
 
 <!-- -->
 
--   [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
--   [Pricing](https://github.com/pricing)
--   [API](https://docs.github.com/)
--   [Training](https://services.github.com/)
--   [Blog](https://github.blog/)
--   [About](https://github.com/about)
+- [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
+- [Pricing](https://github.com/pricing)
+- [API](https://docs.github.com/)
+- [Training](https://services.github.com/)
+- [Blog](https://github.blog/)
+- [About](https://github.com/about)
 
 <span class="f6 color-fg-muted"></span>
 

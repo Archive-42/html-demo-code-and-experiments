@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-HostMonster Review: Monster Hit Or Mistake For Your Hosting?
-============================================================
+# HostMonster Review: Monster Hit Or Mistake For Your Hosting?
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -32,36 +25,35 @@ Our [HostMonster](https://html.com/go/hostmonster/) review will help you decide.
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
--   [<span class="toc_number toc_depth_1">2</span> About HostMonster](#About_HostMonster)
--   [<span class="toc_number toc_depth_1">3</span> Hosting Plans](#Hosting_Plans)
--   [<span class="toc_number toc_depth_1">4</span> General HostMonster Features](#General_HostMonster_Features)
--   [<span class="toc_number toc_depth_1">5</span> Pricing and Billing](#Pricing_and_Billing)
--   [<span class="toc_number toc_depth_1">6</span> Resource Allocations and Limits](#Resource_Allocations_and_Limits)
--   [<span class="toc_number toc_depth_1">7</span> Performance/Uptime Guarantee](#PerformanceUptime_Guarantee)
--   [<span class="toc_number toc_depth_1">8</span> Freebies and Add-ons](#Freebies_and_Add-ons)
--   [<span class="toc_number toc_depth_1">9</span> Technical Support and Customer Service](#Technical_Support_and_Customer_Service)
--   [<span class="toc_number toc_depth_1">10</span> HostMonster vs HostGator](#HostMonster_vs_HostGator)
--   [<span class="toc_number toc_depth_1">11</span> Special Hosting Deal](#Special_Hosting_Deal)
--   [<span class="toc_number toc_depth_1">12</span> HostMonster Review Summary](#HostMonster_Review_Summary)
--   [<span class="toc_number toc_depth_1">13</span> Your Review of HostMonster](#Your_Review_of_HostMonster)
+- [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
+- [<span class="toc_number toc_depth_1">2</span> About HostMonster](#About_HostMonster)
+- [<span class="toc_number toc_depth_1">3</span> Hosting Plans](#Hosting_Plans)
+- [<span class="toc_number toc_depth_1">4</span> General HostMonster Features](#General_HostMonster_Features)
+- [<span class="toc_number toc_depth_1">5</span> Pricing and Billing](#Pricing_and_Billing)
+- [<span class="toc_number toc_depth_1">6</span> Resource Allocations and Limits](#Resource_Allocations_and_Limits)
+- [<span class="toc_number toc_depth_1">7</span> Performance/Uptime Guarantee](#PerformanceUptime_Guarantee)
+- [<span class="toc_number toc_depth_1">8</span> Freebies and Add-ons](#Freebies_and_Add-ons)
+- [<span class="toc_number toc_depth_1">9</span> Technical Support and Customer Service](#Technical_Support_and_Customer_Service)
+- [<span class="toc_number toc_depth_1">10</span> HostMonster vs HostGator](#HostMonster_vs_HostGator)
+- [<span class="toc_number toc_depth_1">11</span> Special Hosting Deal](#Special_Hosting_Deal)
+- [<span class="toc_number toc_depth_1">12</span> HostMonster Review Summary](#HostMonster_Review_Summary)
+- [<span class="toc_number toc_depth_1">13</span> Your Review of HostMonster](#Your_Review_of_HostMonster)
 
-<span id="Pros_and_Cons">Pros and Cons</span>
----------------------------------------------
+## <span id="Pros_and_Cons">Pros and Cons</span>
 
 Here’s a quick look at the pros and cons of HostMonster hosting.
 
 **Pros**
 
--   Basic shared plans with everything
--   Great uptime
--   Supports a wide variety of CMSs
--   Unlimited resource allocation
+- Basic shared plans with everything
+- Great uptime
+- Supports a wide variety of CMSs
+- Unlimited resource allocation
 
 **Cons**
 
--   Mediocre server speed
--   No monthly contracts for shared hosting
+- Mediocre server speed
+- No monthly contracts for shared hosting
 
 ### Pros
 
@@ -75,13 +67,11 @@ As discussed below, HostMonster’s page load speeds are not great. For most pur
 
 Another consideration is that HostMonster does not offer month-to-month shared hosting plans. You must sign up for at least a year.
 
-<span id="About_HostMonster">About HostMonster</span>
------------------------------------------------------
+## <span id="About_HostMonster">About HostMonster</span>
 
 [HostMonster](https://html.com/go/hostmonster/) is a Provo, Utah-based hosting company founded in 1996. In 2010, the company was acquired by internet conglomerate, Endurance International Group (EIG), which also owns well-known web hosting companies like [Bluehost](https://html.com/web-hosting/bluehost/), [HostGator](https://html.com/web-hosting/hostgator/), and [iPage](https://html.com/web-hosting/ipage/).
 
-<span id="Hosting_Plans">Hosting Plans</span>
----------------------------------------------
+## <span id="Hosting_Plans">Hosting Plans</span>
 
 Unlike many other providers that offer a wide array of options, [HostMonster](https://html.com/go/hostmonster/) offers just three types of web hosting: shared, VPS hosting and dedicated servers.
 
@@ -123,14 +113,14 @@ If you’re looking to launch an online store in addition to your website, [Host
 
 Your hosting plan includes:
 
--   SSL certificate
--   Password-protected directories
--   Encryption
--   Your choice of shopping cart integration
-    -   OS Commerce
-    -   Agora
-    -   Cube Cart
-    -   Zen Cart.
+- SSL certificate
+- Password-protected directories
+- Encryption
+- Your choice of shopping cart integration
+  - OS Commerce
+  - Agora
+  - Cube Cart
+  - Zen Cart.
 
 ### VPS Hosting
 
@@ -144,32 +134,31 @@ Unlike many other hosts, who require hours (or even days) to provision their ser
 
 Currently, there are four different VPS plans from which you can choose. All of them come with a free domain name.
 
--   **Standard:** dual-core ([$19.99](https://html.com/go/hostmonster/)). Comes with: 2 GB of RAM, 30 GB of storage, 1 TB of bandwidth, and a dedicated IP address.
--   **Enhanced:** dual-core ([$29.99](https://html.com/go/hostmonster/)). Comes with twice as many resources as the Standard plan.
--   **Premium:** triple-core ([$44.99](https://html.com/go/hostmonster/)). Comes with 6 GB of RAM, 90 GB of storage, 2 TB of bandwidth per month, and two dedicated IP addresses.
--   **Ultimate:** quad-core ([$59.99](https://html.com/go/hostmonster/)). Comes with 8 GB of RAM, 120 GB of storage, 3 TB of bandwidth, and two dedicated IP addresses.
+- **Standard:** dual-core ([$19.99](https://html.com/go/hostmonster/)). Comes with: 2 GB of RAM, 30 GB of storage, 1 TB of bandwidth, and a dedicated IP address.
+- **Enhanced:** dual-core ([$29.99](https://html.com/go/hostmonster/)). Comes with twice as many resources as the Standard plan.
+- **Premium:** triple-core ([$44.99](https://html.com/go/hostmonster/)). Comes with 6 GB of RAM, 90 GB of storage, 2 TB of bandwidth per month, and two dedicated IP addresses.
+- **Ultimate:** quad-core ([$59.99](https://html.com/go/hostmonster/)). Comes with 8 GB of RAM, 120 GB of storage, 3 TB of bandwidth, and two dedicated IP addresses.
 
 ### Dedicated Servers
 
 [HostMonster’s](https://html.com/go/hostmonster/) top-tier hosting option is its managed dedicated server. Like its VPS hosting, Hostmonster’s dedicated servers can be provisioned in mere seconds. Currently, there are three different dedicated servers from which you can choose. As with all plans at HostMonster, they each come with a free domain name.
 
--   **Entry-level server:** gets you a four-core environment with 3 MB of cache, 4 GB of RAM, 500 GB of storage (with RAID), 5 TB of data transfer per month, and three dedicated IP addresses.
--   M**id-range server:** is a four-core environment with 8 MB of cache. You’ll also 8 GB of RAM, 1000 GB of storage with RAID, 10 TB of bandwidth per month, and four dedicated IP addresses.
--   **High-end server:** is also a four-core environment with 8 MB of cache, but you’ll get 16 GB of RAM, 1000 GB of storage with RAID, 15 TB of bandwidth, and five dedicated IP addresses.
+- **Entry-level server:** gets you a four-core environment with 3 MB of cache, 4 GB of RAM, 500 GB of storage (with RAID), 5 TB of data transfer per month, and three dedicated IP addresses.
+- M**id-range server:** is a four-core environment with 8 MB of cache. You’ll also 8 GB of RAM, 1000 GB of storage with RAID, 10 TB of bandwidth per month, and four dedicated IP addresses.
+- **High-end server:** is also a four-core environment with 8 MB of cache, but you’ll get 16 GB of RAM, 1000 GB of storage with RAID, 15 TB of bandwidth, and five dedicated IP addresses.
 
-<span id="General_HostMonster_Features">General HostMonster Features</span>
----------------------------------------------------------------------------
+## <span id="General_HostMonster_Features">General HostMonster Features</span>
 
 There are a few key features to consider when you’re on the hunt for a new [web host](https://html.com/web-hosting/). These include things like support, bandwidth and storage, pricing and reliability.
 
 Here are the features that come with [HostMonster](https://html.com/go/hostmonster/) web hosting:
 
--   Unlimited data transfer
--   24/7 customer support
--   Free domain
--   Sitebuilder
--   cPanel control panel
--   Easy install for applications like WordPress.
+- Unlimited data transfer
+- 24/7 customer support
+- Free domain
+- Sitebuilder
+- cPanel control panel
+- Easy install for applications like WordPress.
 
 Below, we’ll take a closer at how cPanel hosting a one-click installs make it easier to run your website.
 
@@ -189,11 +178,11 @@ If you’re new to sitebuilder, you’ll be able to get a decent-looking basic s
 
 <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" alt="A demo of cPanel interface" class="lazy lazy-hidden wp-image-10181" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A demo of cPanel interface</figcaption></figure>You can think of cPanel as the “command central” of your web hosting environment, since it is where you would go to do things like:
 
--   Check on your website’s resource usage
--   Manage your email accounts
--   Upload files via FTP
--   Make backups of your site
--   Manage your account’s billing.
+- Check on your website’s resource usage
+- Manage your email accounts
+- Upload files via FTP
+- Make backups of your site
+- Manage your account’s billing.
 
 If you’re familiar with cPanel, you’ll feel right at home with HostMonster; the company does not modify cPanel in any way.
 
@@ -203,8 +192,7 @@ To extend the functionality of your website, HostMonster has partnered with MOJO
 
 By taking advantage of the one-click installer, you can add or install things like message boards, mailing lists, image galleries, and CMSs like WordPress, Drupal, and Joomla.
 
-<span id="Pricing_and_Billing">Pricing and Billing</span>
----------------------------------------------------------
+## <span id="Pricing_and_Billing">Pricing and Billing</span>
 
 [HostMonster](https://html.com/go/hostmonster/) bills their plans in cycles of 12 months, 24 months, or 36 months.
 
@@ -224,8 +212,7 @@ HostMonster does not offer any refunds after 30 days.
 
 VPS hosting plans, as well as dedicated servers, are billed slightly differently from shared plans. You can choose to pay for VPS plans on a monthly basis, but you can also pay upfront for extended contracts lasting 3, 6, 12, 24, or 36 months in exchange for a discount.
 
-<span id="Resource_Allocations_and_Limits">Resource Allocations and Limits</span>
----------------------------------------------------------------------------------
+## <span id="Resource_Allocations_and_Limits">Resource Allocations and Limits</span>
 
 > HostMonster’s shared hosting plans come with unlimited resource allocations.
 
@@ -233,14 +220,13 @@ HostMonster boasts that its shared hosting plans come with an unlimited resource
 
 In short, it means that HostMonster will not bill you based on how much disk space or bandwidth your website uses.
 
-The company is clear that 99.95% of its customers will have more than enough resources to manage their sites even though resources on a server *are* finite.
+The company is clear that 99.95% of its customers will have more than enough resources to manage their sites even though resources on a server _are_ finite.
 
 With that said, HostMonster requires that you comply with their Terms of Service and do not use the shared plan for websites and apps that would be better suited for a VPS or dedicated hosting plan.
 
 To find outliers, the company performs statistical analyses on a monthly basis and they will reach out to anyone who uses more resources than 99.95% of the company’s customers and ask them to reduce usage. They would then have 48 hours to comply before HostMonster takes corrective action.
 
-<span id="PerformanceUptime_Guarantee">Performance/Uptime Guarantee</span>
---------------------------------------------------------------------------
+## <span id="PerformanceUptime_Guarantee">Performance/Uptime Guarantee</span>
 
 [HostMonster](https://html.com/go/hostmonster/) does not offer any performance-related or uptime guarantees.
 
@@ -252,22 +238,20 @@ Using Pingdom, we tracked HostMonster’s uptime for a year. Our data shows Host
 
 HostMonster’s page load speeds have been less impressive — in the 700 ms range. This is not bad. It is distinctly better than [GoDaddy](https://html.com/web-hosting/godaddy/) but not as good as [HostGator](https://html.com/web-hosting/hostgator/).
 
-<span id="Freebies_and_Add-ons">Freebies and Add-ons</span>
------------------------------------------------------------
+## <span id="Freebies_and_Add-ons">Freebies and Add-ons</span>
 
 You can also add to your purchase Domain Privacy Protection, Search Engine Jumpstart, and/or SiteLock Security.
 
 If you purchase a plan that doesn’t come with any of the following options, you can add them to your hosting package during checkout:
 
--   **Domain Name**: Purchases of a hosting package include a free domain name during the first year of service (you will be responsible for renewal fees in the subsequent years)
--   **Domain Privacy Protection**: keep your personal details (such as name, address, and phone number) unlisted when HostMonster goes to register your new domain name
--   **Site Backup Pro**: automatic back-ups of your website that you can use to restore your website if there are any server hiccups resulting in data loss
--   **Search Engine Jumpstart**: get assistance with making sure that your site is found in search engine results
--   **SiteLock Security**: prove yourself to be a safe and legitimate entity to your visitors by verifying your credentials and displaying the certificate you earn
--   **Comodo PositiveSSL Bundle**: if you’re engaging in e-commerce, help protect your customers’ sensitive information with an SSL certificate.
+- **Domain Name**: Purchases of a hosting package include a free domain name during the first year of service (you will be responsible for renewal fees in the subsequent years)
+- **Domain Privacy Protection**: keep your personal details (such as name, address, and phone number) unlisted when HostMonster goes to register your new domain name
+- **Site Backup Pro**: automatic back-ups of your website that you can use to restore your website if there are any server hiccups resulting in data loss
+- **Search Engine Jumpstart**: get assistance with making sure that your site is found in search engine results
+- **SiteLock Security**: prove yourself to be a safe and legitimate entity to your visitors by verifying your credentials and displaying the certificate you earn
+- **Comodo PositiveSSL Bundle**: if you’re engaging in e-commerce, help protect your customers’ sensitive information with an SSL certificate.
 
-<span id="Technical_Support_and_Customer_Service">Technical Support and Customer Service</span>
------------------------------------------------------------------------------------------------
+## <span id="Technical_Support_and_Customer_Service">Technical Support and Customer Service</span>
 
 [HostMonster](https://html.com/go/hostmonster/) offers 24/7 technical support. You can get in touch with technicians via telephone, Live Chat, or the HostMonster support ticketing system.
 
@@ -275,17 +259,16 @@ You can access HostMonster’s live chat function even if you’re not an existi
 
 <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-10185" sizes="(max-width: 572px) 100vw, 572px" /></figure>In terms of self-help resources, [HostMonster](https://html.com/go/hostmonster/) offers the following options:
 
--   Knowledgebase: search for individual articles that help you with a specific question or issue
--   Getting Started guides: a full guide you can use if you’re new to the HostMonster platform and need assistance getting up and running
--   Video [tutorials](https://html.com/): videos you can watch to learn how to set up things (like email) or implement certain functionality
--   User forum: post questions and crowdsource answers, as well as ideas for your website.
+- Knowledgebase: search for individual articles that help you with a specific question or issue
+- Getting Started guides: a full guide you can use if you’re new to the HostMonster platform and need assistance getting up and running
+- Video [tutorials](https://html.com/): videos you can watch to learn how to set up things (like email) or implement certain functionality
+- User forum: post questions and crowdsource answers, as well as ideas for your website.
 
 ### User Ratings
 
 There are over [80 reviews](https://www.whoishostingthis.com/hosting-reviews/hostmonster/) of HostMonster written by the company’s actual customers. The company currently receives a rating of 2.4 out of 5.
 
-<span id="HostMonster_vs_HostGator">HostMonster vs HostGator</span>
--------------------------------------------------------------------
+## <span id="HostMonster_vs_HostGator">HostMonster vs HostGator</span>
 
 If HostMonster isn’t quite the right fit for you, you might consider HostGator instead.
 
@@ -311,13 +294,11 @@ Another option that might be right for you is [Bluehost](https://html.com/web-ho
 
 Even if you aren’t using WordPress, Bluehost offers a wide variety of feature-rich plans to support your website.
 
-<span id="Special_Hosting_Deal">Special Hosting Deal</span>
------------------------------------------------------------
+## <span id="Special_Hosting_Deal">Special Hosting Deal</span>
 
 Ready to get started with HostMonster? Use our [special link](https://html.com/go/hostmonster/) to save on your first purchase of hosting services from HostMonster. Visit [HostMonster](https://html.com/go/hostmonster/) now.
 
-<span id="HostMonster_Review_Summary">HostMonster Review Summary</span>
------------------------------------------------------------------------
+## <span id="HostMonster_Review_Summary">HostMonster Review Summary</span>
 
 [HostMonster](https://html.com/go/hostmonster/) is a provider of shared and VPS hosting plans, as well as dedicated servers, at reasonable prices. Its aim is to provide quality offerings to individuals, small businesses, or those who are looking for options that are reliable and are backed by solid customer service.
 
@@ -325,16 +306,15 @@ If you’re looking to get started with your first website, HostMonster is a sol
 
 Finally, be sure to take advantage of our [special offer](https://html.com/go/hostmonster/) to save on your purchase of web hosting services. Visit [HostMonster](https://html.com/go/hostmonster/) now.
 
-<span id="Your_Review_of_HostMonster">Your Review of HostMonster</span>
------------------------------------------------------------------------
+## <span id="Your_Review_of_HostMonster">Your Review of HostMonster</span>
 
 Are you a current or past customer of HostMonster? Would you recommend them? Please leave your comments below and let our visitors know what you think of HostMonster’s speed, features and customer service.
 
 <a href="https://html.com/go/hostmonster/" class="button-cta">Visit HostMonster Now</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing editor: Bronwynne Powell.*</span>
+<span class="small">_Contributing editor: Bronwynne Powell._</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -360,11 +340,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

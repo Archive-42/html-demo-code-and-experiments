@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 New in HTML5.
 
-`<main> HTML Tag`
-=================
+# `<main> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/), [New](https://html.com/new/)</span>
 
@@ -33,13 +30,12 @@ semantic | structural
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Structuring Your HTML Document](#Structuring_Your_HTML_Document)
-    -   [<span class="toc_number toc_depth_2">1.1</span> Usage](#Usage)
-    -   [<span class="toc_number toc_depth_2">1.2</span> Correct Definitions Within Your Page](#Correct_Definitions_Within_Your_Page)
--   [<span class="toc_number toc_depth_1">2</span> Browser Support for main](#Browser_Support_for_main)
+- [<span class="toc_number toc_depth_1">1</span> Structuring Your HTML Document](#Structuring_Your_HTML_Document)
+  - [<span class="toc_number toc_depth_2">1.1</span> Usage](#Usage)
+  - [<span class="toc_number toc_depth_2">1.2</span> Correct Definitions Within Your Page](#Correct_Definitions_Within_Your_Page)
+- [<span class="toc_number toc_depth_1">2</span> Browser Support for main](#Browser_Support_for_main)
 
-<span id="Structuring_Your_HTML_Document">Structuring Your HTML Document</span>
--------------------------------------------------------------------------------
+## <span id="Structuring_Your_HTML_Document">Structuring Your HTML Document</span>
 
 The `<main>` element is a structural and semantic element that defines the main section of a page where the content appears. Similar elements include [`<article>`](https://html.com/tags/article/), which denotes an article within an HTML file, and [`<aside>`](https://html.com/tags/aside/), which describes a note or comment. The `<main>` section is also useful when non-standard devices, such as screen readers, interpret the content of your page. It allows the screen reading device to detect and find the important content rapidly, while it skips over the code at the top of the file. `<main>` is one of 9 structural tags that were introduced in the HTML 5 specification.
 
@@ -65,8 +61,7 @@ The `<main>` element can only be used once in each HTML file. It is followed by 
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_main">Browser Support for main</span>
--------------------------------------------------------------------
+## <span id="Browser_Support_for_main">Browser Support for main</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -104,8 +99,7 @@ The `<main>` element can only be used once in each HTML file. It is followed by 
 
 <span class="browser-supported">16</span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`<keygen> HTML Tag`](https://html.com/tags/keygen/)
 
@@ -117,11 +111,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

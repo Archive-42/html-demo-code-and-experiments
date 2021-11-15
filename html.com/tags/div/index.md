@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [HTML Document Structure Before And After HTML5 – Here’s What Changed](https://html.com/document/) / &lt;div&gt; HTML Tag
 
-`<div> HTML Tag`
-================
+# `<div> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -29,18 +26,17 @@ structural
 
 <span class="underline"></span>
 
-Just a block
-------------
+## Just a block
 
 The `<div>` element has no particular semantic meaning. It simply defines a block of content which can be styled as a single unit on a page. Prior to the [semantic elements](https://html.com/semantic-markup/) added in [HTML5](https://html.com/html5/), it was the main structural element defining sections of an [HTML Document](https://html.com/tags/). Today, there are a number of better structural elements which can be styled the same way as `<div>` elements, but add semantic meaning, identifying their purpose in the overall document. These include:
 
--   [`<header>`](https://html.com/tags/header/)
--   [`<nav>`](https://html.com/tags/nav/)
--   [`<article>`](https://html.com/tags/article/)
--   [`<main>`](https://html.com/tags/main/)
--   [`<aside>`](https://html.com/tags/aside/)
--   [`<footer>`](https://html.com/tags/footer/)
--   [`<section>`](https://html.com/tags/section/)
+- [`<header>`](https://html.com/tags/header/)
+- [`<nav>`](https://html.com/tags/nav/)
+- [`<article>`](https://html.com/tags/article/)
+- [`<main>`](https://html.com/tags/main/)
+- [`<aside>`](https://html.com/tags/aside/)
+- [`<footer>`](https://html.com/tags/footer/)
+- [`<section>`](https://html.com/tags/section/)
 
 Adoption of these semantic structural elements is not universal, but they are widely supported on browsers. So, while you will continue to see `<div>` elements in existing websites (and front-end frameworks like [Twitter’s Bootstrap](https://getbootstrap.com/)), you should use the newer elements whenever appropriate.
 
@@ -58,8 +54,7 @@ Adoption of these semantic structural elements is not universal, but they are wi
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Browser Support for div
------------------------
+## Browser Support for div
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -97,14 +92,12 @@ Browser Support for div
 
 <span class="browser-supported">All</span>
 
-Attributes of div
------------------
+## Attributes of div
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/attributes/div-align/" class="linked-name deprecated">align</a><br />
 </td><td></td><td>Was used to specify the alignment of a div element. Deprecated. Use CSS instead.</td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](https://html.com/resources/citation-guide/)
 
@@ -116,11 +109,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

@@ -1,45 +1,37 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-JustHost Review: A “Bust” Or A “Must”?
-======================================
+# JustHost Review: A “Bust” Or A “Must”?
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
-[JustHost](https://html.com/go/justhost/) is a provider of low-cost shared, VPS, and dedicated hosting plans.  
-  
+[JustHost](https://html.com/go/justhost/) is a provider of low-cost shared, VPS, and dedicated hosting plans.
+
 But how is their hosting performance? Is there a money-back guarantee? How do they stack up against competitor Bluehost? And what other hosting services — like email and advertising — are provided by JustHost?
 
 Here’s what we found out.
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> About JustHost](#About_JustHost)
--   [<span class="toc_number toc_depth_1">2</span> Web Hosting Options](#Web_Hosting_Options)
-    -   [<span class="toc_number toc_depth_2">2.1</span> Shared Hosting Plans](#Shared_Hosting_Plans)
-    -   [<span class="toc_number toc_depth_2">2.2</span> VPS Hosting Plans](#VPS_Hosting_Plans)
-    -   [<span class="toc_number toc_depth_2">2.3</span> Dedicated Servers](#Dedicated_Servers)
--   [<span class="toc_number toc_depth_1">3</span> Web Hosting Features and Add-Ons](#Web_Hosting_Features_and_Add-Ons)
--   [<span class="toc_number toc_depth_1">4</span> Technical Support and Customer Service](#Technical_Support_and_Customer_Service)
-    -   [<span class="toc_number toc_depth_2">4.1</span> Phone Support for Dedicated Hosting Customers](#Phone_Support_for_Dedicated_Hosting_Customers)
-    -   [<span class="toc_number toc_depth_2">4.2</span> Online Resources](#Online_Resources)
--   [<span class="toc_number toc_depth_1">5</span> Uptime and Performance](#Uptime_and_Performance)
-    -   [<span class="toc_number toc_depth_2">5.1</span> Server Response Speeds](#Server_Response_Speeds)
--   [<span class="toc_number toc_depth_1">6</span> JustHost vs Bluehost](#JustHost_vs_Bluehost)
--   [<span class="toc_number toc_depth_1">7</span> Summary](#Summary)
--   [<span class="toc_number toc_depth_1">8</span> Your Review of JustHost](#Your_Review_of_JustHost)
+- [<span class="toc_number toc_depth_1">1</span> About JustHost](#About_JustHost)
+- [<span class="toc_number toc_depth_1">2</span> Web Hosting Options](#Web_Hosting_Options)
+  - [<span class="toc_number toc_depth_2">2.1</span> Shared Hosting Plans](#Shared_Hosting_Plans)
+  - [<span class="toc_number toc_depth_2">2.2</span> VPS Hosting Plans](#VPS_Hosting_Plans)
+  - [<span class="toc_number toc_depth_2">2.3</span> Dedicated Servers](#Dedicated_Servers)
+- [<span class="toc_number toc_depth_1">3</span> Web Hosting Features and Add-Ons](#Web_Hosting_Features_and_Add-Ons)
+- [<span class="toc_number toc_depth_1">4</span> Technical Support and Customer Service](#Technical_Support_and_Customer_Service)
+  - [<span class="toc_number toc_depth_2">4.1</span> Phone Support for Dedicated Hosting Customers](#Phone_Support_for_Dedicated_Hosting_Customers)
+  - [<span class="toc_number toc_depth_2">4.2</span> Online Resources](#Online_Resources)
+- [<span class="toc_number toc_depth_1">5</span> Uptime and Performance](#Uptime_and_Performance)
+  - [<span class="toc_number toc_depth_2">5.1</span> Server Response Speeds](#Server_Response_Speeds)
+- [<span class="toc_number toc_depth_1">6</span> JustHost vs Bluehost](#JustHost_vs_Bluehost)
+- [<span class="toc_number toc_depth_1">7</span> Summary](#Summary)
+- [<span class="toc_number toc_depth_1">8</span> Your Review of JustHost](#Your_Review_of_JustHost)
 
-<span id="About_JustHost">About JustHost</span>
------------------------------------------------
+## <span id="About_JustHost">About JustHost</span>
 
 JustHost is a small, Portsmouth, UK-based [web hosting](https://html.com/web-hosting/) company focused primarily on shared hosting packages.
 
@@ -61,9 +53,9 @@ JustHost offers comprehensive [shared hosting](https://html.com/go/justhost/) th
 
 Currently, JustHost offers three different shared plans from which you can choose:
 
--   The **entry-level plan** gets you hosting for one website, 50 GB of storage, unmetered bandwidth, a domain name, and five email accounts (each with 100 MB of storage).
--   The **mid-range plan** gets you hosting for up to ten websites, 150 GB of storage, unmetered bandwidth, a domain name, 100 email accounts (each with 500 MB of storage), special marketing offers, and spam prevention tools.
--   The **top-tier plan** includes support for an unlimited number of websites, unlimited storage, unmetered bandwidth, a domain name, an unlimited number of email accounts (all with unlimited storage), more valuable marketing offers, spam prevention tools, domain privacy protection, and automatic website backups.
+- The **entry-level plan** gets you hosting for one website, 50 GB of storage, unmetered bandwidth, a domain name, and five email accounts (each with 100 MB of storage).
+- The **mid-range plan** gets you hosting for up to ten websites, 150 GB of storage, unmetered bandwidth, a domain name, 100 email accounts (each with 500 MB of storage), special marketing offers, and spam prevention tools.
+- The **top-tier plan** includes support for an unlimited number of websites, unlimited storage, unmetered bandwidth, a domain name, an unlimited number of email accounts (all with unlimited storage), more valuable marketing offers, spam prevention tools, domain privacy protection, and automatic website backups.
 
 Finally, for those who want to improve the performance of their websites without upgrading to a VPS hosting plan or a dedicated server, there’s the  **Go Pro option**, which gets you everything in the top-tier plan plus a dedicated IP address and an SSL certificate. Your site will also be hosted on a high-performance server, instead of the more economical standard option.
 
@@ -89,9 +81,9 @@ In the latter case, opting for a VPS plan immediately (instead of choosing a sha
 
 JustHost offers four different VPS options from which you can choose. When deciding which option is best for your needs, look at:
 
--   The number of CPU cores
--   Allocation of RAM and storage
--   Data transfer limits.
+- The number of CPU cores
+- Allocation of RAM and storage
+- Data transfer limits.
 
 Regardless of which option you choose, you’ll get a free domain name, two dedicated IP addresses (unless you opt for the entry-level plan, which comes with just one dedicated IP address), and a Linux-based environment (specifically, CentOS 6.5).
 
@@ -107,11 +99,11 @@ JustHost’s top-tier offering is its cloud-based dedicated server hosting. Thes
 
 When opting for a dedicated server, there are three options from which you can choose. When deciding which server is best for your highly-trafficked, resource-intensive website, look at:
 
--   The CPU powering your server
--   The amount of space dedicated to your cache
--   RAM and storage allocation
--   Data transfer/bandwidth maximums
--   Number of dedicated IP addresses.
+- The CPU powering your server
+- The amount of space dedicated to your cache
+- RAM and storage allocation
+- Data transfer/bandwidth maximums
+- Number of dedicated IP addresses.
 
 Regardless of which option you choose, you’ll get a free domain name. Your server environment, by default, will be running CentOS 6.5. If you need to upgrade your storage, you can do so by purchasing increments of 500 GB, 1 TB, or 2 TB.
 
@@ -131,32 +123,30 @@ During the checkout process, you can opt for extra services (if they don’t alr
 
 Unlike many other providers, which do not offer any type of refunds for purchases of VPS plans and dedicated servers, JustHost includes these high-end options in its 30-day money back guarantee.
 
-<span id="Web_Hosting_Features_and_Add-Ons">Web Hosting Features and Add-Ons</span>
------------------------------------------------------------------------------------
+## <span id="Web_Hosting_Features_and_Add-Ons">Web Hosting Features and Add-Ons</span>
 
 All [JustHost packages](https://html.com/go/justhost/) come with the following:
 
--   **Free domain name**: register a free domain name, or transfer a domain name you already own to JustHost free of charge.
--   **Hosting for an unlimited number of domains**: all JustHost plans support hosting for an unlimited number of domains, so you can host all of your websites on one server and manage everything using one cPanel account.
--   Potentially **unlimited resource allocations**, including disk space, data transfer, and email accounts.
--   **Easy account management**: the cPanel provided with your account makes it easy to set up, manage, optimize, and promote your website. Your cPanel includes features for designing your website, installing apps. You can also configure your email accounts, manage your domains, see your website statistics, and manage your database.
--   **Free script library**: all JustHost users have access to the free script library, which includes things like WordPress, osCommerce, phpBB, and Joomla. This makes it easy for you to extend your website’s functionality and feature set and marketing capabilities without having to write a single line of code.
+- **Free domain name**: register a free domain name, or transfer a domain name you already own to JustHost free of charge.
+- **Hosting for an unlimited number of domains**: all JustHost plans support hosting for an unlimited number of domains, so you can host all of your websites on one server and manage everything using one cPanel account.
+- Potentially **unlimited resource allocations**, including disk space, data transfer, and email accounts.
+- **Easy account management**: the cPanel provided with your account makes it easy to set up, manage, optimize, and promote your website. Your cPanel includes features for designing your website, installing apps. You can also configure your email accounts, manage your domains, see your website statistics, and manage your database.
+- **Free script library**: all JustHost users have access to the free script library, which includes things like WordPress, osCommerce, phpBB, and Joomla. This makes it easy for you to extend your website’s functionality and feature set and marketing capabilities without having to write a single line of code.
 
 If you want more, the following add-ons are available for purchase during checkout:
 
--   **Domain Privacy Protection**: protect your name and contact details from being publicly available when your domain name is registered
--   **SiteLock Security**: get the tools you need to fight against malware
--   **CodeGuard**: automate your website backups and monitor your site
--   **SEO Tools**: Make sure that your website ranks as well as possible in search engine results
--   **Site Backup Pro**: an alternative to CodeGuard, but without monitoring features
--   **Office 365 Email Essentials**: get domain-based email.
+- **Domain Privacy Protection**: protect your name and contact details from being publicly available when your domain name is registered
+- **SiteLock Security**: get the tools you need to fight against malware
+- **CodeGuard**: automate your website backups and monitor your site
+- **SEO Tools**: Make sure that your website ranks as well as possible in search engine results
+- **Site Backup Pro**: an alternative to CodeGuard, but without monitoring features
+- **Office 365 Email Essentials**: get domain-based email.
 
 Please note that not all of these options will be available to you during checkout.
 
 If you have opted for a premium web hosting plan, you may already have some of these add-ons; as such, you will not see the option to purchase these.
 
-<span id="Technical_Support_and_Customer_Service">Technical Support and Customer Service</span>
------------------------------------------------------------------------------------------------
+## <span id="Technical_Support_and_Customer_Service">Technical Support and Customer Service</span>
 
 JustHost’s customer service offering is very similar to that offered by its competitors. Its technical support team can be reached 24/7 via telephone, live chat, or email.
 
@@ -172,8 +162,7 @@ In terms of self-help resources, JustHost offers basic documentation, a knowledg
 
 If you’re unsatisfied with your JustHost plan, you can cancel by logging in to your control panel and going to Account &gt; Renew. Then select the **Do Not Renew** button and click **Continue.**
 
-<span id="Uptime_and_Performance">Uptime and Performance</span>
----------------------------------------------------------------
+## <span id="Uptime_and_Performance">Uptime and Performance</span>
 
 Having a secure and reliable web hosting environment is important.  At JustHost all websites are hosted on high-performance servers with quad-core processors, and the datacenter has backup power sources in the event of an electrical outage. JustHost performs 24/7 monitoring, so it can respond proactively to any issues.
 
@@ -181,7 +170,7 @@ JustHost doesn’t offer uptime guarantees, but in our testing, we never saw upt
 
 ### <span id="Server_Response_Speeds">Server Response Speeds</span>
 
-In terms of performance, our tests showed an average server response speed in 2018 of 1,252 milliseconds. 
+In terms of performance, our tests showed an average server response speed in 2018 of 1,252 milliseconds.
 
 However, [JustHost’s](https://html.com/go/justhost/) server response speed picked up in December 2018, and in the first 4 months of 2019, averaged 746 milliseconds.
 
@@ -189,12 +178,11 @@ That represents a significant improvement, but it is still considerably slower t
 
 <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" alt="This chart compares JustHost to Bluehost on average daily server response speeds in milliseconds." class="lazy lazy-hidden wp-image-9335" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>This chart compares JustHost to Bluehost on average daily server response speeds in milliseconds.</figcaption></figure>For faster scoring web hosts at similar price points see:
 
--   [1&1 IONOS](https://www.whoishostingthis.com/hosting-reviews/1and1/#uptime)
--   [Bluehost](https://html.com/web-hosting/bluehost/)
--   [SiteGround](https://html.com/web-hosting/siteground/).
+- [1&1 IONOS](https://www.whoishostingthis.com/hosting-reviews/1and1/#uptime)
+- [Bluehost](https://html.com/web-hosting/bluehost/)
+- [SiteGround](https://html.com/web-hosting/siteground/).
 
-<span id="JustHost_vs_Bluehost">JustHost vs Bluehost</span>
------------------------------------------------------------
+## <span id="JustHost_vs_Bluehost">JustHost vs Bluehost</span>
 
 JustHost and [Bluehost](https://html.com/web-hosting/bluehost/) are separate companies owned by internet conglomerate Endurance International Group. Both companies are similar in that they offer a range of web hosting plans.
 
@@ -213,8 +201,7 @@ Both hosts offer PPC (pay-per-click) advertising, but [Bluehost](https://html.co
 
 In our testing, Bluehost’s server response speeds are significantly faster as well. For example, in April 2019 they had an average server response speed of 383 milliseconds compared to JustHost’s 718 milliseconds.
 
-<span id="Summary">Summary</span>
----------------------------------
+## <span id="Summary">Summary</span>
 
 [JustHost](https://html.com/go/justhost/) is a provider of inexpensive, yet reliable, shared, VPS, and dedicated hosting. Its comprehensive plans tend to come with features not usually offered by other providers, such as server management services and cPanels for VPS hosting and dedicated servers.
 
@@ -222,16 +209,15 @@ If you have a small business or online store and are looking for fast shared hos
 
 If you’re looking for a host for your first website, however, JustHost offers a good low-cost solution. Is that you? Visit [JustHost](https://html.com/go/justhost/) now.
 
-<span id="Your_Review_of_JustHost">Your Review of JustHost</span>
------------------------------------------------------------------
+## <span id="Your_Review_of_JustHost">Your Review of JustHost</span>
 
 Are you a current or past customer of JustHost? Would you recommend them? Please leave your comments below and let our visitors know what you think of JustHost’s speed, features and customer service.
 
 <a href="https://html.com/go/justhost/" class="button-cta">Visit JustHost Today</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing editor: Sherrie Gossett.*</span>
+<span class="small">_Contributing editor: Sherrie Gossett._</span>
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
@@ -245,11 +231,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

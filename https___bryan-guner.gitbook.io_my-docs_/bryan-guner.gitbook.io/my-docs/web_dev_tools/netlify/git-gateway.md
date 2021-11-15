@@ -242,7 +242,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -296,7 +296,7 @@ Netlify CMS
 
 Git Gateway
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -336,7 +336,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -454,7 +454,7 @@ Copied!
 
 4
 
-<span data-key="9488bf3e4c9e4ec49da12b4d26a7cb54"><span data-offset-key="9488bf3e4c9e4ec49da12b4d26a7cb54:0"> preview\_context: my-provider/deployment</span></span>
+<span data-key="9488bf3e4c9e4ec49da12b4d26a7cb54"><span data-offset-key="9488bf3e4c9e4ec49da12b4d26a7cb54:0"> preview_context: my-provider/deployment</span></span>
 
 Copied!
 
@@ -484,7 +484,7 @@ Copied!
 
 <span data-key="8e35b6d6ee0a42eba0d3baa7cd8b50b5"><span data-offset-key="8e35b6d6ee0a42eba0d3baa7cd8b50b5:0">Backend</span></span>
 
-<span data-key="1a356d6abcfe4efb9a782e5ffd737952">*This setting is required.*</span>
+<span data-key="1a356d6abcfe4efb9a782e5ffd737952">_This setting is required._</span>
 
 <span data-key="1b6ca75ea5f8410c991350a09dcda52f"><span data-offset-key="1b6ca75ea5f8410c991350a09dcda52f:0">The </span>`backend`<span data-offset-key="1b6ca75ea5f8410c991350a09dcda52f:2"> option specifies how to access the content for your site, including authentication. Full details and code samples can be found in </span></span><a href="https://www.netlifycms.org/docs/backends-overview" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7c7c6bfa359c4722b6dc94a7594337b9" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="3b3d43bb5d3148c7b7d59203b11f1671"><span data-offset-key="3b3d43bb5d3148c7b7d59203b11f1671:0">Backends</span></span></span></a><span data-key="5503eae86e0148f9ae2b42afba1d8395"><span data-offset-key="5503eae86e0148f9ae2b42afba1d8395:0">.</span></span>
 
@@ -506,7 +506,7 @@ Copied!
 
 2
 
-<span data-key="8a6e33d756d24b3b9fd445bbbb64c413"><span data-offset-key="8a6e33d756d24b3b9fd445bbbb64c413:0">publish\_mode: editorial\_workflow</span></span>
+<span data-key="8a6e33d756d24b3b9fd445bbbb64c413"><span data-offset-key="8a6e33d756d24b3b9fd445bbbb64c413:0">publish_mode: editorial_workflow</span></span>
 
 Copied!
 
@@ -532,21 +532,21 @@ Perform these Git actions
 
 <span data-key="9dba2552befe42a8a41880fc6dc6a7f4"><span data-offset-key="9dba2552befe42a8a41880fc6dc6a7f4:0">Netlify CMS users can upload files to your repository using the Media Gallery. The following settings specify where these files are saved, and where they can be accessed on your built site.</span></span>
 
-### 
+###
 
 <span data-key="f9314ffcc2004c76b11e23369f35dbec"><span data-offset-key="f9314ffcc2004c76b11e23369f35dbec:0">Media Folder</span></span>
 
-<span data-key="b2f4935654f7455d9d6c9d190da8ac42">*This setting is required.*</span>
+<span data-key="b2f4935654f7455d9d6c9d190da8ac42">_This setting is required._</span>
 
 <span data-key="61eab79c6acc421d88a323d536bdcf31"><span data-offset-key="61eab79c6acc421d88a323d536bdcf31:0">The </span>`media_folder`<span data-offset-key="61eab79c6acc421d88a323d536bdcf31:2"> option specifies the folder path where uploaded files should be saved, relative to the base of the repo.</span></span>
 
 1
 
-<span data-key="54520ec39d6b4197b5cc29ef7443b1f6"><span data-offset-key="54520ec39d6b4197b5cc29ef7443b1f6:0">media\_folder: "static/images/uploads"</span></span>
+<span data-key="54520ec39d6b4197b5cc29ef7443b1f6"><span data-offset-key="54520ec39d6b4197b5cc29ef7443b1f6:0">media_folder: "static/images/uploads"</span></span>
 
 Copied!
 
-### 
+###
 
 <span data-key="1ea9a72b31844f9a86368554930175eb"><span data-offset-key="1ea9a72b31844f9a86368554930175eb:0">Public Folder</span></span>
 
@@ -554,7 +554,7 @@ Copied!
 
 1
 
-<span data-key="a2851a597a6e41939b6fa62fdd0f49f6"><span data-offset-key="a2851a597a6e41939b6fa62fdd0f49f6:0">public\_folder: "/images/uploads"</span></span>
+<span data-key="a2851a597a6e41939b6fa62fdd0f49f6"><span data-offset-key="a2851a597a6e41939b6fa62fdd0f49f6:0">public_folder: "/images/uploads"</span></span>
 
 Copied!
 
@@ -570,7 +570,7 @@ Copied!
 
 1
 
-<span data-key="bca3a58afbc14a54978f3d3aa9508994"><span data-offset-key="bca3a58afbc14a54978f3d3aa9508994:0">media\_library:</span></span>
+<span data-key="bca3a58afbc14a54978f3d3aa9508994"><span data-offset-key="bca3a58afbc14a54978f3d3aa9508994:0">media_library:</span></span>
 
 2
 
@@ -594,7 +594,7 @@ Copied!
 
 1
 
-<span data-key="c1293ba470214a55ae6717d592a727b1"><span data-offset-key="c1293ba470214a55ae6717d592a727b1:0">site\_url: https://your-site.com</span></span>
+<span data-key="c1293ba470214a55ae6717d592a727b1"><span data-offset-key="c1293ba470214a55ae6717d592a727b1:0">site_url: https://your-site.com</span></span>
 
 Copied!
 
@@ -608,7 +608,7 @@ Copied!
 
 1
 
-<span data-key="edfa558141f74ff1ac8ddc0560e68fb5"><span data-offset-key="edfa558141f74ff1ac8ddc0560e68fb5:0">display\_url: https://your-site.com</span></span>
+<span data-key="edfa558141f74ff1ac8ddc0560e68fb5"><span data-offset-key="edfa558141f74ff1ac8ddc0560e68fb5:0">display_url: https://your-site.com</span></span>
 
 Copied!
 
@@ -620,7 +620,7 @@ Copied!
 
 1
 
-<span data-key="802c4a0f07da4f2cbcb68e65a4a3d1cf"><span data-offset-key="802c4a0f07da4f2cbcb68e65a4a3d1cf:0">logo\_url: https://your-site.com/images/logo.svg</span></span>
+<span data-key="802c4a0f07da4f2cbcb68e65a4a3d1cf"><span data-offset-key="802c4a0f07da4f2cbcb68e65a4a3d1cf:0">logo_url: https://your-site.com/images/logo.svg</span></span>
 
 Copied!
 
@@ -674,7 +674,7 @@ Copied!
 
 1
 
-<span data-key="3f7f8bc2f92648a59748aaa779ed6a90"><span data-offset-key="3f7f8bc2f92648a59748aaa779ed6a90:0">show\_preview\_links: false</span></span>
+<span data-key="3f7f8bc2f92648a59748aaa779ed6a90"><span data-offset-key="3f7f8bc2f92648a59748aaa779ed6a90:0">show_preview_links: false</span></span>
 
 Copied!
 
@@ -698,25 +698,15 @@ Copied!
 
 <span data-key="9e622128e62346278bdce91fe17f94ab">`slug`<span data-offset-key="9e622128e62346278bdce91fe17f94ab:1"> accepts multiple options:</span></span>
 
--   
+- <span data-key="6fbfb68f01a7424e96f7783195dd855d">`encoding`</span>
 
-    <span data-key="6fbfb68f01a7424e96f7783195dd855d">`encoding`</span>
+  - <span data-key="9aab931bb9ca4bb2ab7f96d562e45c08">`unicode`<span data-offset-key="9aab931bb9ca4bb2ab7f96d562e45c08:1"> (default): Sanitize filenames (slugs) according to </span></span><a href="https://tools.ietf.org/html/rfc3987" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ed82a31181bc428f9fd70b90e0b158cc" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="ebb7d676b1204254ad1b5a3ffe789be1"><span data-offset-key="ebb7d676b1204254ad1b5a3ffe789be1:0">RFC3987</span></span></span></a><span data-key="7239b94f94f7452a926f00b89ce0b7ca"><span data-offset-key="7239b94f94f7452a926f00b89ce0b7ca:0"> and the </span></span><a href="https://url.spec.whatwg.org/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="eb12c1cd27b448b0b188874cf5ee0306" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="455ba3ca88dd4243bebd10df7331e063"><span data-offset-key="455ba3ca88dd4243bebd10df7331e063:0">WHATWG URL spec</span></span></span></a><span data-key="2a51c1eff6454f359fddfbcacdd2bb4a"><span data-offset-key="2a51c1eff6454f359fddfbcacdd2bb4a:0">. This spec allows non-ASCII (or non-Latin) characters to exist in URLs.</span></span>
 
-    -   
+  - <span data-key="8bf6b0dbd6154f93b489284ba105639e">`ascii`<span data-offset-key="8bf6b0dbd6154f93b489284ba105639e:1">: Sanitize filenames (slugs) according to </span></span><a href="https://tools.ietf.org/html/rfc3986" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d9ec4bc4ba9a4ec991b55a14227c427d" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="531506b19355453c8499f0448a47ac1a"><span data-offset-key="531506b19355453c8499f0448a47ac1a:0">RFC3986</span></span></span></a><span data-key="7f1044b1a9d94e128dfe33f84cdd780f"><span data-offset-key="7f1044b1a9d94e128dfe33f84cdd780f:0">. The only allowed characters are (0-9, a-z, A-Z, </span>`_`<span data-offset-key="7f1044b1a9d94e128dfe33f84cdd780f:2">, </span>`-`<span data-offset-key="7f1044b1a9d94e128dfe33f84cdd780f:4">, </span>`~`<span data-offset-key="7f1044b1a9d94e128dfe33f84cdd780f:6">).</span></span>
 
-        <span data-key="9aab931bb9ca4bb2ab7f96d562e45c08">`unicode`<span data-offset-key="9aab931bb9ca4bb2ab7f96d562e45c08:1"> (default): Sanitize filenames (slugs) according to </span></span><a href="https://tools.ietf.org/html/rfc3987" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ed82a31181bc428f9fd70b90e0b158cc" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="ebb7d676b1204254ad1b5a3ffe789be1"><span data-offset-key="ebb7d676b1204254ad1b5a3ffe789be1:0">RFC3987</span></span></span></a><span data-key="7239b94f94f7452a926f00b89ce0b7ca"><span data-offset-key="7239b94f94f7452a926f00b89ce0b7ca:0"> and the </span></span><a href="https://url.spec.whatwg.org/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="eb12c1cd27b448b0b188874cf5ee0306" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="455ba3ca88dd4243bebd10df7331e063"><span data-offset-key="455ba3ca88dd4243bebd10df7331e063:0">WHATWG URL spec</span></span></span></a><span data-key="2a51c1eff6454f359fddfbcacdd2bb4a"><span data-offset-key="2a51c1eff6454f359fddfbcacdd2bb4a:0">. This spec allows non-ASCII (or non-Latin) characters to exist in URLs.</span></span>
+- <span data-key="508ec9867f2b4a5aaffb459f9bc06075">`clean_accents`<span data-offset-key="508ec9867f2b4a5aaffb459f9bc06075:1">: Set to </span>`true`<span data-offset-key="508ec9867f2b4a5aaffb459f9bc06075:3"> to remove diacritics from slug characters before sanitizing. This is often helpful when using </span>`ascii`<span data-offset-key="508ec9867f2b4a5aaffb459f9bc06075:5"> encoding.</span></span>
 
-    -   
-
-        <span data-key="8bf6b0dbd6154f93b489284ba105639e">`ascii`<span data-offset-key="8bf6b0dbd6154f93b489284ba105639e:1">: Sanitize filenames (slugs) according to </span></span><a href="https://tools.ietf.org/html/rfc3986" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d9ec4bc4ba9a4ec991b55a14227c427d" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="531506b19355453c8499f0448a47ac1a"><span data-offset-key="531506b19355453c8499f0448a47ac1a:0">RFC3986</span></span></span></a><span data-key="7f1044b1a9d94e128dfe33f84cdd780f"><span data-offset-key="7f1044b1a9d94e128dfe33f84cdd780f:0">. The only allowed characters are (0-9, a-z, A-Z, </span>`_`<span data-offset-key="7f1044b1a9d94e128dfe33f84cdd780f:2">, </span>`-`<span data-offset-key="7f1044b1a9d94e128dfe33f84cdd780f:4">, </span>`~`<span data-offset-key="7f1044b1a9d94e128dfe33f84cdd780f:6">).</span></span>
-
--   
-
-    <span data-key="508ec9867f2b4a5aaffb459f9bc06075">`clean_accents`<span data-offset-key="508ec9867f2b4a5aaffb459f9bc06075:1">: Set to </span>`true`<span data-offset-key="508ec9867f2b4a5aaffb459f9bc06075:3"> to remove diacritics from slug characters before sanitizing. This is often helpful when using </span>`ascii`<span data-offset-key="508ec9867f2b4a5aaffb459f9bc06075:5"> encoding.</span></span>
-
--   
-
-    <span data-key="89dd65215c4c445abfc43379e9874929">`sanitize_replacement`<span data-offset-key="89dd65215c4c445abfc43379e9874929:1">: The replacement string used to substitute unsafe characters, defaults to </span>`-`<span data-offset-key="89dd65215c4c445abfc43379e9874929:3">.</span></span>
+- <span data-key="89dd65215c4c445abfc43379e9874929">`sanitize_replacement`<span data-offset-key="89dd65215c4c445abfc43379e9874929:1">: The replacement string used to substitute unsafe characters, defaults to </span>`-`<span data-offset-key="89dd65215c4c445abfc43379e9874929:3">.</span></span>
 
 <span data-key="b7edf0e0958143a6a81969395832cdfe">**Example**</span>
 
@@ -730,117 +720,71 @@ Copied!
 
 3
 
-<span data-key="01de46e6feca403cb8d2f508e37a7fa3"><span data-offset-key="01de46e6feca403cb8d2f508e37a7fa3:0"> clean\_accents: true</span></span>
+<span data-key="01de46e6feca403cb8d2f508e37a7fa3"><span data-offset-key="01de46e6feca403cb8d2f508e37a7fa3:0"> clean_accents: true</span></span>
 
 4
 
-<span data-key="06127d4de0844465ad2bfe2fd19ef2f8"><span data-offset-key="06127d4de0844465ad2bfe2fd19ef2f8:0"> sanitize\_replacement: "\_"</span></span>
+<span data-key="06127d4de0844465ad2bfe2fd19ef2f8"><span data-offset-key="06127d4de0844465ad2bfe2fd19ef2f8:0"> sanitize_replacement: "\_"</span></span>
 
 Copied!
 
 <span data-key="78ff491fd3bd4ac9b5c2ff3bd6802b1d"><span data-offset-key="78ff491fd3bd4ac9b5c2ff3bd6802b1d:0">Collections</span></span>
 
-<span data-key="144c848b32ed4f9595c9be2cbaf6817e">*This setting is required.*</span>
+<span data-key="144c848b32ed4f9595c9be2cbaf6817e">_This setting is required._</span>
 
 <span data-key="831adea57bb34a2fa04304f233cd46e0"><span data-offset-key="831adea57bb34a2fa04304f233cd46e0:0">The </span>`collections`<span data-offset-key="831adea57bb34a2fa04304f233cd46e0:2"> setting is the heart of your Netlify CMS configuration, as it determines how content types and editor fields in the UI generate files and content in your repository. Each collection you configure displays in the left sidebar of the Content page of the editor UI, in the order they are entered into your Netlify CMS </span>`config.yml`<span data-offset-key="831adea57bb34a2fa04304f233cd46e0:4"> file.</span></span>
 
 <span data-key="c3f06884c10e40118e2ded86917eb9aa">`collections`<span data-offset-key="c3f06884c10e40118e2ded86917eb9aa:1"> accepts a list of collection objects, each with the following options:</span></span>
 
--   
+- <span data-key="00ed85b5fff3497d90b48206eaed58e7">`name`<span data-offset-key="00ed85b5fff3497d90b48206eaed58e7:1"> (required): unique identifier for the collection, used as the key when referenced in other contexts (like the </span></span><a href="https://www.netlifycms.org/docs/widgets/#relation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="db60f518df5a4c08b8aa7d47e964b0e0" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="ebe1beba35a744fca211c192f80c8cf3"><span data-offset-key="ebe1beba35a744fca211c192f80c8cf3:0">relation widget</span></span></span></a><span data-key="60c524cb37964e7dbf21f0b271fdd539"><span data-offset-key="60c524cb37964e7dbf21f0b271fdd539:0">)</span></span>
 
-    <span data-key="00ed85b5fff3497d90b48206eaed58e7">`name`<span data-offset-key="00ed85b5fff3497d90b48206eaed58e7:1"> (required): unique identifier for the collection, used as the key when referenced in other contexts (like the </span></span><a href="https://www.netlifycms.org/docs/widgets/#relation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="db60f518df5a4c08b8aa7d47e964b0e0" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="ebe1beba35a744fca211c192f80c8cf3"><span data-offset-key="ebe1beba35a744fca211c192f80c8cf3:0">relation widget</span></span></span></a><span data-key="60c524cb37964e7dbf21f0b271fdd539"><span data-offset-key="60c524cb37964e7dbf21f0b271fdd539:0">)</span></span>
+- <span data-key="e3770d096ec94372983f5d29f3cfaffa">`identifier_field`<span data-offset-key="e3770d096ec94372983f5d29f3cfaffa:1">: see detailed description below</span></span>
 
--   
+- <span data-key="1837fabc674a47e298834092bfd1a044">`label`<span data-offset-key="1837fabc674a47e298834092bfd1a044:1">: label for the collection in the editor UI; defaults to the value of </span>`name`</span>
 
-    <span data-key="e3770d096ec94372983f5d29f3cfaffa">`identifier_field`<span data-offset-key="e3770d096ec94372983f5d29f3cfaffa:1">: see detailed description below</span></span>
+- <span data-key="eac5184a73df4a9597aca152ed712c4c">`label_singular`<span data-offset-key="eac5184a73df4a9597aca152ed712c4c:1">: singular label for certain elements in the editor; defaults to the value of </span>`label`</span>
 
--   
+- <span data-key="2bed5da1a72f4da0944a55ed9fbe89b5">`description`<span data-offset-key="2bed5da1a72f4da0944a55ed9fbe89b5:1">: optional text, displayed below the label when viewing a collection</span></span>
 
-    <span data-key="1837fabc674a47e298834092bfd1a044">`label`<span data-offset-key="1837fabc674a47e298834092bfd1a044:1">: label for the collection in the editor UI; defaults to the value of </span>`name`</span>
+- <span data-key="fe9310b9fccc4062830eaac9aa8fe217">`files`<span data-offset-key="fe9310b9fccc4062830eaac9aa8fe217:1"> or </span>`folder`<span data-offset-key="fe9310b9fccc4062830eaac9aa8fe217:3"> (requires one of these): specifies the collection type and location; details in </span></span><a href="https://www.netlifycms.org/docs/collection-types" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="12c6705fa04f46588e8500e8a540c250" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="1ef83bdefdf24c23a53e16f549fc09b0"><span data-offset-key="1ef83bdefdf24c23a53e16f549fc09b0:0">Collection Types</span></span></span></a><span data-key="ddfb4690bb3d4b6eabaae304eb6e0eaa"><span data-offset-key="ddfb4690bb3d4b6eabaae304eb6e0eaa:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="4a869d674e0645e3b3dd60e4bf0adc04">`filter`<span data-offset-key="4a869d674e0645e3b3dd60e4bf0adc04:1">: optional filter for </span>`folder`<span data-offset-key="4a869d674e0645e3b3dd60e4bf0adc04:3"> collections; details in </span></span><a href="https://www.netlifycms.org/docs/collection-types" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9299f8fb7f264fc99115b8c14d8c46c7" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="f2ac444a334e47f78452b12cc0fd5238"><span data-offset-key="f2ac444a334e47f78452b12cc0fd5238:0">Collection Types</span></span></span></a><span data-key="ad85829579fa469eb5016686ab1e1faa"><span data-offset-key="ad85829579fa469eb5016686ab1e1faa:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="eac5184a73df4a9597aca152ed712c4c">`label_singular`<span data-offset-key="eac5184a73df4a9597aca152ed712c4c:1">: singular label for certain elements in the editor; defaults to the value of </span>`label`</span>
+- <span data-key="1719022837c44fde9d43d8ce5af3467b">`create`<span data-offset-key="1719022837c44fde9d43d8ce5af3467b:1">: for </span>`folder`<span data-offset-key="1719022837c44fde9d43d8ce5af3467b:3"> collections only; </span>`true`<span data-offset-key="1719022837c44fde9d43d8ce5af3467b:5"> allows users to create new items in the collection; defaults to </span>`false`</span>
 
--   
+- <span data-key="c90ef1eed4e64e70b5d036baed7723ec">`publish`<span data-offset-key="c90ef1eed4e64e70b5d036baed7723ec:1">: for </span>`publish_mode: editorial_workflow`<span data-offset-key="c90ef1eed4e64e70b5d036baed7723ec:3"> only; </span>`false`<span data-offset-key="c90ef1eed4e64e70b5d036baed7723ec:5"> hides UI publishing controls for a collection; defaults to </span>`true`</span>
 
-    <span data-key="2bed5da1a72f4da0944a55ed9fbe89b5">`description`<span data-offset-key="2bed5da1a72f4da0944a55ed9fbe89b5:1">: optional text, displayed below the label when viewing a collection</span></span>
+- <span data-key="7c83f07709b7401ca143d7d68223ce38">`hide`<span data-offset-key="7c83f07709b7401ca143d7d68223ce38:1">: </span>`true`<span data-offset-key="7c83f07709b7401ca143d7d68223ce38:3"> hides a collection in the CMS UI; defaults to </span>`false`<span data-offset-key="7c83f07709b7401ca143d7d68223ce38:5">. Useful when using the relation widget to hide referenced collections.</span></span>
 
--   
+- <span data-key="d277035908fd4b29a208113387a977a8">`delete`<span data-offset-key="d277035908fd4b29a208113387a977a8:1">: </span>`false`<span data-offset-key="d277035908fd4b29a208113387a977a8:3"> prevents users from deleting items in a collection; defaults to </span>`true`</span>
 
-    <span data-key="fe9310b9fccc4062830eaac9aa8fe217">`files`<span data-offset-key="fe9310b9fccc4062830eaac9aa8fe217:1"> or </span>`folder`<span data-offset-key="fe9310b9fccc4062830eaac9aa8fe217:3"> (requires one of these): specifies the collection type and location; details in </span></span><a href="https://www.netlifycms.org/docs/collection-types" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="12c6705fa04f46588e8500e8a540c250" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="1ef83bdefdf24c23a53e16f549fc09b0"><span data-offset-key="1ef83bdefdf24c23a53e16f549fc09b0:0">Collection Types</span></span></span></a><span data-key="ddfb4690bb3d4b6eabaae304eb6e0eaa"><span data-offset-key="ddfb4690bb3d4b6eabaae304eb6e0eaa:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="8e0330d5b1a6470295e57bd9c3dac509">`extension`<span data-offset-key="8e0330d5b1a6470295e57bd9c3dac509:1">: see detailed description below</span></span>
 
--   
+- <span data-key="d20d101bc8f44f9cba2a403f1927a8f5">`format`<span data-offset-key="d20d101bc8f44f9cba2a403f1927a8f5:1">: see detailed description below</span></span>
 
-    <span data-key="4a869d674e0645e3b3dd60e4bf0adc04">`filter`<span data-offset-key="4a869d674e0645e3b3dd60e4bf0adc04:1">: optional filter for </span>`folder`<span data-offset-key="4a869d674e0645e3b3dd60e4bf0adc04:3"> collections; details in </span></span><a href="https://www.netlifycms.org/docs/collection-types" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9299f8fb7f264fc99115b8c14d8c46c7" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="f2ac444a334e47f78452b12cc0fd5238"><span data-offset-key="f2ac444a334e47f78452b12cc0fd5238:0">Collection Types</span></span></span></a><span data-key="ad85829579fa469eb5016686ab1e1faa"><span data-offset-key="ad85829579fa469eb5016686ab1e1faa:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="64963e3e6f9c42f4950b8232b231760a">`frontmatter_delimiter`<span data-offset-key="64963e3e6f9c42f4950b8232b231760a:1">: see detailed description under </span>`format`</span>
 
--   
+- <span data-key="1c659ac8fc724d06bf3ae57286ad9b53">`slug`<span data-offset-key="1c659ac8fc724d06bf3ae57286ad9b53:1">: see detailed description below</span></span>
 
-    <span data-key="1719022837c44fde9d43d8ce5af3467b">`create`<span data-offset-key="1719022837c44fde9d43d8ce5af3467b:1">: for </span>`folder`<span data-offset-key="1719022837c44fde9d43d8ce5af3467b:3"> collections only; </span>`true`<span data-offset-key="1719022837c44fde9d43d8ce5af3467b:5"> allows users to create new items in the collection; defaults to </span>`false`</span>
+- <span data-key="a949e4d9aace4cb49b95308f945513a1">`preview_path`<span data-offset-key="a949e4d9aace4cb49b95308f945513a1:1">: see detailed description below</span></span>
 
--   
+- <span data-key="8b33fa153d40417bb8da348f744764b6">`preview_path_date_field`<span data-offset-key="8b33fa153d40417bb8da348f744764b6:1">: see detailed description below</span></span>
 
-    <span data-key="c90ef1eed4e64e70b5d036baed7723ec">`publish`<span data-offset-key="c90ef1eed4e64e70b5d036baed7723ec:1">: for </span>`publish_mode:                                                 editorial_workflow`<span data-offset-key="c90ef1eed4e64e70b5d036baed7723ec:3"> only; </span>`false`<span data-offset-key="c90ef1eed4e64e70b5d036baed7723ec:5"> hides UI publishing controls for a collection; defaults to </span>`true`</span>
+- <span data-key="509a53e27d1b4fabbdafeedaa3e64cac">`fields`<span data-offset-key="509a53e27d1b4fabbdafeedaa3e64cac:1"> (required): see detailed description below</span></span>
 
--   
+- <span data-key="261f4276669c487bb66156d330cc4f8f">`editor`<span data-offset-key="261f4276669c487bb66156d330cc4f8f:1">: see detailed description below</span></span>
 
-    <span data-key="7c83f07709b7401ca143d7d68223ce38">`hide`<span data-offset-key="7c83f07709b7401ca143d7d68223ce38:1">: </span>`true`<span data-offset-key="7c83f07709b7401ca143d7d68223ce38:3"> hides a collection in the CMS UI; defaults to </span>`false`<span data-offset-key="7c83f07709b7401ca143d7d68223ce38:5">. Useful when using the relation widget to hide referenced collections.</span></span>
+- <span data-key="21ca96e85d8a483da8d84568d8c7e690">`summary`<span data-offset-key="21ca96e85d8a483da8d84568d8c7e690:1">: see detailed description below</span></span>
 
--   
+- <span data-key="a13b27b5128b4d4094e0bcf69e23a5df">`sortable_fields`<span data-offset-key="a13b27b5128b4d4094e0bcf69e23a5df:1">: see detailed description below</span></span>
 
-    <span data-key="d277035908fd4b29a208113387a977a8">`delete`<span data-offset-key="d277035908fd4b29a208113387a977a8:1">: </span>`false`<span data-offset-key="d277035908fd4b29a208113387a977a8:3"> prevents users from deleting items in a collection; defaults to </span>`true`</span>
+- <span data-key="61b9d1c372554c408d756c60cca32455">`view_filters`<span data-offset-key="61b9d1c372554c408d756c60cca32455:1">: see detailed description below</span></span>
 
--   
-
-    <span data-key="8e0330d5b1a6470295e57bd9c3dac509">`extension`<span data-offset-key="8e0330d5b1a6470295e57bd9c3dac509:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="d20d101bc8f44f9cba2a403f1927a8f5">`format`<span data-offset-key="d20d101bc8f44f9cba2a403f1927a8f5:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="64963e3e6f9c42f4950b8232b231760a">`frontmatter_delimiter`<span data-offset-key="64963e3e6f9c42f4950b8232b231760a:1">: see detailed description under </span>`format`</span>
-
--   
-
-    <span data-key="1c659ac8fc724d06bf3ae57286ad9b53">`slug`<span data-offset-key="1c659ac8fc724d06bf3ae57286ad9b53:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="a949e4d9aace4cb49b95308f945513a1">`preview_path`<span data-offset-key="a949e4d9aace4cb49b95308f945513a1:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="8b33fa153d40417bb8da348f744764b6">`preview_path_date_field`<span data-offset-key="8b33fa153d40417bb8da348f744764b6:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="509a53e27d1b4fabbdafeedaa3e64cac">`fields`<span data-offset-key="509a53e27d1b4fabbdafeedaa3e64cac:1"> (required): see detailed description below</span></span>
-
--   
-
-    <span data-key="261f4276669c487bb66156d330cc4f8f">`editor`<span data-offset-key="261f4276669c487bb66156d330cc4f8f:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="21ca96e85d8a483da8d84568d8c7e690">`summary`<span data-offset-key="21ca96e85d8a483da8d84568d8c7e690:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="a13b27b5128b4d4094e0bcf69e23a5df">`sortable_fields`<span data-offset-key="a13b27b5128b4d4094e0bcf69e23a5df:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="61b9d1c372554c408d756c60cca32455">`view_filters`<span data-offset-key="61b9d1c372554c408d756c60cca32455:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="4543081ee31b4e95a3068eeb58357378">`view_groups`<span data-offset-key="4543081ee31b4e95a3068eeb58357378:1">: see detailed description below</span></span>
+- <span data-key="4543081ee31b4e95a3068eeb58357378">`view_groups`<span data-offset-key="4543081ee31b4e95a3068eeb58357378:1">: see detailed description below</span></span>
 
 <span data-key="fc8df227a5364fbcbac7891c55e8806f"><span data-offset-key="fc8df227a5364fbcbac7891c55e8806f:0">The last few options require more detailed information.</span></span>
 
-### 
+###
 
 <span data-key="3c4c072214e7479e8178f7f2ceae1c82">`identifier_field`</span>
 
@@ -858,11 +802,11 @@ Copied!
 
 3
 
-<span data-key="aab228773caf466fa37778174f451482"><span data-offset-key="aab228773caf466fa37778174f451482:0"> identifier\_field: name</span></span>
+<span data-key="aab228773caf466fa37778174f451482"><span data-offset-key="aab228773caf466fa37778174f451482:0"> identifier_field: name</span></span>
 
 Copied!
 
-### 
+###
 
 <span data-key="9ab1d4f528b04f32a57f37f7cee36217">`extension`<span data-offset-key="9ab1d4f528b04f32a57f37f7cee36217:1"> and </span>`format`</span>
 
@@ -874,41 +818,27 @@ Copied!
 
 <span data-key="bbf7c08f31db487a9b28491c4adadb38">`format`<span data-offset-key="bbf7c08f31db487a9b28491c4adadb38:1"> determines how collection files are parsed and saved. It will be inferred if the </span>`extension`<span data-offset-key="bbf7c08f31db487a9b28491c4adadb38:3"> field or existing collection file extensions match one of the supported extensions above. It accepts the following values:</span></span>
 
--   
+- <span data-key="0b73bf7fe4f84c319a81cd5bd0051b1c">`yml`<span data-offset-key="0b73bf7fe4f84c319a81cd5bd0051b1c:1"> or </span>`yaml`<span data-offset-key="0b73bf7fe4f84c319a81cd5bd0051b1c:3">: parses and saves files as YAML-formatted data files; saves with </span>`yml`<span data-offset-key="0b73bf7fe4f84c319a81cd5bd0051b1c:5"> extension by default</span></span>
 
-    <span data-key="0b73bf7fe4f84c319a81cd5bd0051b1c">`yml`<span data-offset-key="0b73bf7fe4f84c319a81cd5bd0051b1c:1"> or </span>`yaml`<span data-offset-key="0b73bf7fe4f84c319a81cd5bd0051b1c:3">: parses and saves files as YAML-formatted data files; saves with </span>`yml`<span data-offset-key="0b73bf7fe4f84c319a81cd5bd0051b1c:5"> extension by default</span></span>
+- <span data-key="4c8a918099e14d08b48fcfc728f9395b">`toml`<span data-offset-key="4c8a918099e14d08b48fcfc728f9395b:1">: parses and saves files as TOML-formatted data files; saves with </span>`toml`<span data-offset-key="4c8a918099e14d08b48fcfc728f9395b:3"> extension by default</span></span>
 
--   
+- <span data-key="3e20344348324f379963c4e352b5ac3c">`json`<span data-offset-key="3e20344348324f379963c4e352b5ac3c:1">: parses and saves files as JSON-formatted data files; saves with </span>`json`<span data-offset-key="3e20344348324f379963c4e352b5ac3c:3"> extension by default</span></span>
 
-    <span data-key="4c8a918099e14d08b48fcfc728f9395b">`toml`<span data-offset-key="4c8a918099e14d08b48fcfc728f9395b:1">: parses and saves files as TOML-formatted data files; saves with </span>`toml`<span data-offset-key="4c8a918099e14d08b48fcfc728f9395b:3"> extension by default</span></span>
+- <span data-key="cac82b643f4147709f8385f59f6145c4">`frontmatter`<span data-offset-key="cac82b643f4147709f8385f59f6145c4:1">: parses files and saves files with data frontmatter followed by an unparsed body text (edited using a </span>`body`<span data-offset-key="cac82b643f4147709f8385f59f6145c4:3"> field); saves with </span>`md`<span data-offset-key="cac82b643f4147709f8385f59f6145c4:5"> extension by default; default for collections that can't be inferred. Collections with </span>`frontmatter`<span data-offset-key="cac82b643f4147709f8385f59f6145c4:7"> format (either inferred or explicitly set) can parse files with frontmatter in YAML, TOML, or JSON format. However, they will be saved with YAML frontmatter.</span></span>
 
--   
+- <span data-key="4740977087a345b989318b5f63c20d7a">`yaml-frontmatter`<span data-offset-key="4740977087a345b989318b5f63c20d7a:1">: same as the </span>`frontmatter`<span data-offset-key="4740977087a345b989318b5f63c20d7a:3"> format above, except frontmatter will be both parsed and saved only as YAML, followed by unparsed body text. The default delimiter for this option is </span>`---`<span data-offset-key="4740977087a345b989318b5f63c20d7a:5">.</span></span>
 
-    <span data-key="3e20344348324f379963c4e352b5ac3c">`json`<span data-offset-key="3e20344348324f379963c4e352b5ac3c:1">: parses and saves files as JSON-formatted data files; saves with </span>`json`<span data-offset-key="3e20344348324f379963c4e352b5ac3c:3"> extension by default</span></span>
+- <span data-key="64f43198e0cb49dba9d89fabcd78fe5c">`toml-frontmatter`<span data-offset-key="64f43198e0cb49dba9d89fabcd78fe5c:1">: same as the </span>`frontmatter`<span data-offset-key="64f43198e0cb49dba9d89fabcd78fe5c:3"> format above, except frontmatter will be both parsed and saved only as TOML, followed by unparsed body text. The default delimiter for this option is </span>`+++`<span data-offset-key="64f43198e0cb49dba9d89fabcd78fe5c:5">.</span></span>
 
--   
+- <span data-key="ba8b4ea9b6b34473861b1962aa0c07e9">`json-frontmatter`<span data-offset-key="ba8b4ea9b6b34473861b1962aa0c07e9:1">: same as the </span>`frontmatter`<span data-offset-key="ba8b4ea9b6b34473861b1962aa0c07e9:3"> format above, except frontmatter will be both parsed and saved as JSON, followed by unparsed body text. The default delimiter for this option is </span>`{`<span data-offset-key="ba8b4ea9b6b34473861b1962aa0c07e9:5"> </span>`}`<span data-offset-key="ba8b4ea9b6b34473861b1962aa0c07e9:7">.</span></span>
 
-    <span data-key="cac82b643f4147709f8385f59f6145c4">`frontmatter`<span data-offset-key="cac82b643f4147709f8385f59f6145c4:1">: parses files and saves files with data frontmatter followed by an unparsed body text (edited using a </span>`body`<span data-offset-key="cac82b643f4147709f8385f59f6145c4:3"> field); saves with </span>`md`<span data-offset-key="cac82b643f4147709f8385f59f6145c4:5"> extension by default; default for collections that can't be inferred. Collections with </span>`frontmatter`<span data-offset-key="cac82b643f4147709f8385f59f6145c4:7"> format (either inferred or explicitly set) can parse files with frontmatter in YAML, TOML, or JSON format. However, they will be saved with YAML frontmatter.</span></span>
-
--   
-
-    <span data-key="4740977087a345b989318b5f63c20d7a">`yaml-frontmatter`<span data-offset-key="4740977087a345b989318b5f63c20d7a:1">: same as the </span>`frontmatter`<span data-offset-key="4740977087a345b989318b5f63c20d7a:3"> format above, except frontmatter will be both parsed and saved only as YAML, followed by unparsed body text. The default delimiter for this option is </span>`---`<span data-offset-key="4740977087a345b989318b5f63c20d7a:5">.</span></span>
-
--   
-
-    <span data-key="64f43198e0cb49dba9d89fabcd78fe5c">`toml-frontmatter`<span data-offset-key="64f43198e0cb49dba9d89fabcd78fe5c:1">: same as the </span>`frontmatter`<span data-offset-key="64f43198e0cb49dba9d89fabcd78fe5c:3"> format above, except frontmatter will be both parsed and saved only as TOML, followed by unparsed body text. The default delimiter for this option is </span>`+++`<span data-offset-key="64f43198e0cb49dba9d89fabcd78fe5c:5">.</span></span>
-
--   
-
-    <span data-key="ba8b4ea9b6b34473861b1962aa0c07e9">`json-frontmatter`<span data-offset-key="ba8b4ea9b6b34473861b1962aa0c07e9:1">: same as the </span>`frontmatter`<span data-offset-key="ba8b4ea9b6b34473861b1962aa0c07e9:3"> format above, except frontmatter will be both parsed and saved as JSON, followed by unparsed body text. The default delimiter for this option is </span>`{`<span data-offset-key="ba8b4ea9b6b34473861b1962aa0c07e9:5"> </span>`}`<span data-offset-key="ba8b4ea9b6b34473861b1962aa0c07e9:7">.</span></span>
-
-### 
+###
 
 <span data-key="961f7240d04247cd9a6e5cd6bf945ac7">`frontmatter_delimiter`</span>
 
 <span data-key="4c9a789f03724fc497942f43c541a1b4"><span data-offset-key="4c9a789f03724fc497942f43c541a1b4:0">If you have an explicit frontmatter format declared, this option allows you to specify a custom delimiter like </span>`~~~`<span data-offset-key="4c9a789f03724fc497942f43c541a1b4:2">. If you need different beginning and ending delimiters, you can use an array like </span>`["(", ")"]`<span data-offset-key="4c9a789f03724fc497942f43c541a1b4:4">.</span></span>
 
-### 
+###
 
 <span data-key="48a6a4794db84edca9cf267170dce29c">`slug`</span>
 
@@ -918,37 +848,21 @@ Copied!
 
 <span data-key="9e7d21600611475c97a2af53c954d006">**Available template tags:**</span>
 
--   
+- <span data-key="7214f428873d4a67b1a93c46a8969f92"><span data-offset-key="7214f428873d4a67b1a93c46a8969f92:0">Any field can be referenced by wrapping the field name in double curly braces, eg. </span>`{{author}}`</span>
 
-    <span data-key="7214f428873d4a67b1a93c46a8969f92"><span data-offset-key="7214f428873d4a67b1a93c46a8969f92:0">Any field can be referenced by wrapping the field name in double curly braces, eg. </span>`{{author}}`</span>
+- <span data-key="04c4b191fa4c43a79cebd03252b7b8db">`{{slug}}`<span data-offset-key="04c4b191fa4c43a79cebd03252b7b8db:1">: a url-safe version of the </span>`title`<span data-offset-key="04c4b191fa4c43a79cebd03252b7b8db:3"> field (or identifier field) for the file</span></span>
 
--   
+- <span data-key="616c8e160aff412db6b9cf4d5088be5a">`{{year}}`<span data-offset-key="616c8e160aff412db6b9cf4d5088be5a:1">: 4-digit year of the file creation date</span></span>
 
-    <span data-key="04c4b191fa4c43a79cebd03252b7b8db">`{{slug}}`<span data-offset-key="04c4b191fa4c43a79cebd03252b7b8db:1">: a url-safe version of the </span>`title`<span data-offset-key="04c4b191fa4c43a79cebd03252b7b8db:3"> field (or identifier field) for the file</span></span>
+- <span data-key="fa074257c5d2484ab324a7639b45a12f">`{{month}}`<span data-offset-key="fa074257c5d2484ab324a7639b45a12f:1">: 2-digit month of the file creation date</span></span>
 
--   
+- <span data-key="372d9e34ea1646799b5fed2ca4774b31">`{{day}}`<span data-offset-key="372d9e34ea1646799b5fed2ca4774b31:1">: 2-digit day of the month of the file creation date</span></span>
 
-    <span data-key="616c8e160aff412db6b9cf4d5088be5a">`{{year}}`<span data-offset-key="616c8e160aff412db6b9cf4d5088be5a:1">: 4-digit year of the file creation date</span></span>
+- <span data-key="9930e2f7a30f4003b25c0f32553a1efd">`{{hour}}`<span data-offset-key="9930e2f7a30f4003b25c0f32553a1efd:1">: 2-digit hour of the file creation date</span></span>
 
--   
+- <span data-key="6f02cb3575fa465da428913096d32e93">`{{minute}}`<span data-offset-key="6f02cb3575fa465da428913096d32e93:1">: 2-digit minute of the file creation date</span></span>
 
-    <span data-key="fa074257c5d2484ab324a7639b45a12f">`{{month}}`<span data-offset-key="fa074257c5d2484ab324a7639b45a12f:1">: 2-digit month of the file creation date</span></span>
-
--   
-
-    <span data-key="372d9e34ea1646799b5fed2ca4774b31">`{{day}}`<span data-offset-key="372d9e34ea1646799b5fed2ca4774b31:1">: 2-digit day of the month of the file creation date</span></span>
-
--   
-
-    <span data-key="9930e2f7a30f4003b25c0f32553a1efd">`{{hour}}`<span data-offset-key="9930e2f7a30f4003b25c0f32553a1efd:1">: 2-digit hour of the file creation date</span></span>
-
--   
-
-    <span data-key="6f02cb3575fa465da428913096d32e93">`{{minute}}`<span data-offset-key="6f02cb3575fa465da428913096d32e93:1">: 2-digit minute of the file creation date</span></span>
-
--   
-
-    <span data-key="da8eb8a1b40d47279f0ec2564255a52f">`{{second}}`<span data-offset-key="da8eb8a1b40d47279f0ec2564255a52f:1">: 2-digit second of the file creation date</span></span>
+- <span data-key="da8eb8a1b40d47279f0ec2564255a52f">`{{second}}`<span data-offset-key="da8eb8a1b40d47279f0ec2564255a52f:1">: 2-digit second of the file creation date</span></span>
 
 <span data-key="c2e46fdca0d44fc2b9bb1188efa7c733">**Example:**</span>
 
@@ -974,7 +888,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="48da11c3cb614053a63f37e1790ac7c6">`preview_path`</span>
 
@@ -984,25 +898,15 @@ Copied!
 
 <span data-key="9b1a95bc7e8d4eb1acab0b7ef4118849"><span data-offset-key="9b1a95bc7e8d4eb1acab0b7ef4118849:0">Template tags are the same as those for </span></span><a href="https://www.netlifycms.org/docs/configuration-options/#slug" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ebb6f1966f75479aaaadb7fea83819f6" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="17d702adf3224acd83d24559273dfb3b"><span data-offset-key="17d702adf3224acd83d24559273dfb3b:0">slug</span></span></span></a><span data-key="f13acfb6f16c40d4aaf3234fd9be0084"><span data-offset-key="f13acfb6f16c40d4aaf3234fd9be0084:0">, with the following exceptions:</span></span>
 
--   
+- <span data-key="b7418c7cdaf74ec099db87fd76ce8bea">`{{slug}}`<span data-offset-key="b7418c7cdaf74ec099db87fd76ce8bea:1"> is the entire slug for the current entry (not just the url-safe identifier, as is the case with </span></span><a href="https://www.netlifycms.org/docs/configuration-options/#slug" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1375674a8e404767bac6c8090f075541" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="ebdc213cdae6418fbd829ff7d1855897"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="ebdc213cdae6418fbd829ff7d1855897:0">slug</code><span data-offset-key="ebdc213cdae6418fbd829ff7d1855897:1"> configuration</span></span></span></a><span data-key="d4091264cea2442687950bcab6df83fe"><span data-offset-key="d4091264cea2442687950bcab6df83fe:0">)</span></span>
 
-    <span data-key="b7418c7cdaf74ec099db87fd76ce8bea">`{{slug}}`<span data-offset-key="b7418c7cdaf74ec099db87fd76ce8bea:1"> is the entire slug for the current entry (not just the url-safe identifier, as is the case with </span></span><a href="https://www.netlifycms.org/docs/configuration-options/#slug" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1375674a8e404767bac6c8090f075541" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="ebdc213cdae6418fbd829ff7d1855897"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="ebdc213cdae6418fbd829ff7d1855897:0">slug</code><span data-offset-key="ebdc213cdae6418fbd829ff7d1855897:1"> configuration</span></span></span></a><span data-key="d4091264cea2442687950bcab6df83fe"><span data-offset-key="d4091264cea2442687950bcab6df83fe:0">)</span></span>
+- <span data-key="e10ff0c4486040449817c833bfa9be3c"><span data-offset-key="e10ff0c4486040449817c833bfa9be3c:0">The date based template tags, such as </span>`{{year}}`<span data-offset-key="e10ff0c4486040449817c833bfa9be3c:2"> and </span>`{{month}}`<span data-offset-key="e10ff0c4486040449817c833bfa9be3c:4">, are pulled from a date field in your entry, and may require additional configuration - see </span></span><a href="https://www.netlifycms.org/docs/configuration-options/#preview_path_date_field" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3de3bdd729314b798d1b2e54306a24a6" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="0373adc29d0343ab9cff1f1bcc8fe123"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="0373adc29d0343ab9cff1f1bcc8fe123:0">preview_path_date_field</code></span></span></a><span data-key="b36d7ef6f4894f6d81008674d5fe122e"><span data-offset-key="b36d7ef6f4894f6d81008674d5fe122e:0"> for details. If a date template tag is used and no date can be found, </span>`preview_path`<span data-offset-key="b36d7ef6f4894f6d81008674d5fe122e:2"> will be ignored.</span></span>
 
--   
+- <span data-key="1357554b4086424a9d57c439527c3868">`{{dirname}}`<span data-offset-key="1357554b4086424a9d57c439527c3868:1"> The path to the file's parent directory, relative to the collection's </span>`folder`<span data-offset-key="1357554b4086424a9d57c439527c3868:3">.</span></span>
 
-    <span data-key="e10ff0c4486040449817c833bfa9be3c"><span data-offset-key="e10ff0c4486040449817c833bfa9be3c:0">The date based template tags, such as </span>`{{year}}`<span data-offset-key="e10ff0c4486040449817c833bfa9be3c:2"> and </span>`{{month}}`<span data-offset-key="e10ff0c4486040449817c833bfa9be3c:4">, are pulled from a date field in your entry, and may require additional configuration - see </span></span><a href="https://www.netlifycms.org/docs/configuration-options/#preview_path_date_field" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3de3bdd729314b798d1b2e54306a24a6" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="0373adc29d0343ab9cff1f1bcc8fe123"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="0373adc29d0343ab9cff1f1bcc8fe123:0">preview_path_date_field</code></span></span></a><span data-key="b36d7ef6f4894f6d81008674d5fe122e"><span data-offset-key="b36d7ef6f4894f6d81008674d5fe122e:0"> for details. If a date template tag is used and no date can be found, </span>`preview_path`<span data-offset-key="b36d7ef6f4894f6d81008674d5fe122e:2"> will be ignored.</span></span>
+- <span data-key="0f2251f415504bcc844fcea88d775b11">`{{filename}}`<span data-offset-key="0f2251f415504bcc844fcea88d775b11:1"> The file name without the extension part.</span></span>
 
--   
-
-    <span data-key="1357554b4086424a9d57c439527c3868">`{{dirname}}`<span data-offset-key="1357554b4086424a9d57c439527c3868:1"> The path to the file's parent directory, relative to the collection's </span>`folder`<span data-offset-key="1357554b4086424a9d57c439527c3868:3">.</span></span>
-
--   
-
-    <span data-key="0f2251f415504bcc844fcea88d775b11">`{{filename}}`<span data-offset-key="0f2251f415504bcc844fcea88d775b11:1"> The file name without the extension part.</span></span>
-
--   
-
-    <span data-key="200cf561bf9749aab823bba54b4966ce">`{{extension}}`<span data-offset-key="200cf561bf9749aab823bba54b4966ce:1"> The file extension.</span></span>
+- <span data-key="200cf561bf9749aab823bba54b4966ce">`{{extension}}`<span data-offset-key="200cf561bf9749aab823bba54b4966ce:1"> The file extension.</span></span>
 
 <span data-key="830c0708d0a04190bf004c62ac1a0112">**Examples:**</span>
 
@@ -1016,7 +920,7 @@ Copied!
 
 3
 
-<span data-key="afdd62c7c483406f9e6937f0a80f7f3b"><span data-offset-key="afdd62c7c483406f9e6937f0a80f7f3b:0"> preview\_path: "blog/{{year}}/{{month}}/{{slug}}"</span></span>
+<span data-key="afdd62c7c483406f9e6937f0a80f7f3b"><span data-offset-key="afdd62c7c483406f9e6937f0a80f7f3b:0"> preview_path: "blog/{{year}}/{{month}}/{{slug}}"</span></span>
 
 Copied!
 
@@ -1030,11 +934,11 @@ Copied!
 
 3
 
-<span data-key="1b880b0b172740429b2bc1f22758ab04"><span data-offset-key="1b880b0b172740429b2bc1f22758ab04:0"> preview\_path: "blog/{{year}}/{{month}}/{{filename}}.{{extension}}"</span></span>
+<span data-key="1b880b0b172740429b2bc1f22758ab04"><span data-offset-key="1b880b0b172740429b2bc1f22758ab04:0"> preview_path: "blog/{{year}}/{{month}}/{{filename}}.{{extension}}"</span></span>
 
 Copied!
 
-### 
+###
 
 <span data-key="07eab558b8db4d8795dd5fdbdb546967">`preview_path_date_field`</span>
 
@@ -1052,11 +956,11 @@ Copied!
 
 3
 
-<span data-key="a23e0601b5074f08baf73a0b3def3e31"><span data-offset-key="a23e0601b5074f08baf73a0b3def3e31:0"> preview\_path\_date\_field: "updated\_on"</span></span>
+<span data-key="a23e0601b5074f08baf73a0b3def3e31"><span data-offset-key="a23e0601b5074f08baf73a0b3def3e31:0"> preview_path_date_field: "updated_on"</span></span>
 
 Copied!
 
-### 
+###
 
 <span data-key="0091b3d4552e40d98b81c467215cd41a">`fields`</span>
 
@@ -1064,33 +968,19 @@ Copied!
 
 <span data-key="cfcb0beafe02425aba1a2528465f27f1">`fields`<span data-offset-key="cfcb0beafe02425aba1a2528465f27f1:1"> accepts a list of collection objects, each with the following options:</span></span>
 
--   
+- <span data-key="716713f5a8094929a835e77b0a70a645">`name`<span data-offset-key="716713f5a8094929a835e77b0a70a645:1"> (required): unique identifier for the field, used as the key when referenced in other contexts (like the </span></span><a href="https://www.netlifycms.org/docs/widgets/#relation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6993ed35d7394a85b346974b0ae06335" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="783773c3cc7343d2905ebe03fc5d3985"><span data-offset-key="783773c3cc7343d2905ebe03fc5d3985:0">relation widget</span></span></span></a><span data-key="83e2524739594412a6746781d598e33a"><span data-offset-key="83e2524739594412a6746781d598e33a:0">)</span></span>
 
-    <span data-key="716713f5a8094929a835e77b0a70a645">`name`<span data-offset-key="716713f5a8094929a835e77b0a70a645:1"> (required): unique identifier for the field, used as the key when referenced in other contexts (like the </span></span><a href="https://www.netlifycms.org/docs/widgets/#relation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6993ed35d7394a85b346974b0ae06335" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="783773c3cc7343d2905ebe03fc5d3985"><span data-offset-key="783773c3cc7343d2905ebe03fc5d3985:0">relation widget</span></span></span></a><span data-key="83e2524739594412a6746781d598e33a"><span data-offset-key="83e2524739594412a6746781d598e33a:0">)</span></span>
+- <span data-key="6c39486ac8fc4344a24f57745f7ae06f">`label`<span data-offset-key="6c39486ac8fc4344a24f57745f7ae06f:1">: label for the field in the editor UI; defaults to the value of </span>`name`</span>
 
--   
+- <span data-key="05898268bc714ced8e11a4b55284d138">`widget`<span data-offset-key="05898268bc714ced8e11a4b55284d138:1">: defines editor UI and inputs and file field data types; details in </span></span><a href="https://www.netlifycms.org/docs/widgets" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e63659a7922d4445911b78a0e7cf1706" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="1d1681c44ee943ae98d4a010dd7c14c4"><span data-offset-key="1d1681c44ee943ae98d4a010dd7c14c4:0">Widgets</span></span></span></a><span data-key="79b4b8e2c44a4199a90979c3ec315268"><span data-offset-key="79b4b8e2c44a4199a90979c3ec315268:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="6c39486ac8fc4344a24f57745f7ae06f">`label`<span data-offset-key="6c39486ac8fc4344a24f57745f7ae06f:1">: label for the field in the editor UI; defaults to the value of </span>`name`</span>
+- <span data-key="cdd6e36c77b847ee8dd6d87642be82f2">`default`<span data-offset-key="cdd6e36c77b847ee8dd6d87642be82f2:1">: specify a default value for a field; available for most widget types (see </span></span><a href="https://www.netlifycms.org/docs/widgets" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3209248e29684747a8502f261128d916" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="3b5d6f216ffe43168e04b54ba6564b1a"><span data-offset-key="3b5d6f216ffe43168e04b54ba6564b1a:0">Widgets</span></span></span></a><span data-key="2f24035e97594d3baca442d82df55166"><span data-offset-key="2f24035e97594d3baca442d82df55166:0"> for details on each widget type). Please note that field default value only works for folder collection type.</span></span>
 
--   
+- <span data-key="a3490a488cb445f5b9cfdc90ebebb88f">`required`<span data-offset-key="a3490a488cb445f5b9cfdc90ebebb88f:1">: specify as </span>`false`<span data-offset-key="a3490a488cb445f5b9cfdc90ebebb88f:3"> to make a field optional; defaults to </span>`true`</span>
 
-    <span data-key="05898268bc714ced8e11a4b55284d138">`widget`<span data-offset-key="05898268bc714ced8e11a4b55284d138:1">: defines editor UI and inputs and file field data types; details in </span></span><a href="https://www.netlifycms.org/docs/widgets" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e63659a7922d4445911b78a0e7cf1706" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="1d1681c44ee943ae98d4a010dd7c14c4"><span data-offset-key="1d1681c44ee943ae98d4a010dd7c14c4:0">Widgets</span></span></span></a><span data-key="79b4b8e2c44a4199a90979c3ec315268"><span data-offset-key="79b4b8e2c44a4199a90979c3ec315268:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="fbb46b646c564504a73055862775c78a">`pattern`<span data-offset-key="fbb46b646c564504a73055862775c78a:1">: add field validation by specifying a list with a regex pattern and an error message; more extensive validation can be achieved with </span></span><a href="https://www.netlifycms.org/docs/custom-widgets/#advanced-field-validation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0d3c7bc9ba834364a631302ed0593e13" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="70d334f0e82a48b1a7e9fd008fef006b"><span data-offset-key="70d334f0e82a48b1a7e9fd008fef006b:0">custom widgets</span></span></span></a><span data-key="40c877dd56aa4f3e88cbee70210094a6"><span data-offset-key="40c877dd56aa4f3e88cbee70210094a6:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
-
-    <span data-key="cdd6e36c77b847ee8dd6d87642be82f2">`default`<span data-offset-key="cdd6e36c77b847ee8dd6d87642be82f2:1">: specify a default value for a field; available for most widget types (see </span></span><a href="https://www.netlifycms.org/docs/widgets" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3209248e29684747a8502f261128d916" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="3b5d6f216ffe43168e04b54ba6564b1a"><span data-offset-key="3b5d6f216ffe43168e04b54ba6564b1a:0">Widgets</span></span></span></a><span data-key="2f24035e97594d3baca442d82df55166"><span data-offset-key="2f24035e97594d3baca442d82df55166:0"> for details on each widget type). Please note that field default value only works for folder collection type.</span></span>
-
--   
-
-    <span data-key="a3490a488cb445f5b9cfdc90ebebb88f">`required`<span data-offset-key="a3490a488cb445f5b9cfdc90ebebb88f:1">: specify as </span>`false`<span data-offset-key="a3490a488cb445f5b9cfdc90ebebb88f:3"> to make a field optional; defaults to </span>`true`</span>
-
--   
-
-    <span data-key="fbb46b646c564504a73055862775c78a">`pattern`<span data-offset-key="fbb46b646c564504a73055862775c78a:1">: add field validation by specifying a list with a regex pattern and an error message; more extensive validation can be achieved with </span></span><a href="https://www.netlifycms.org/docs/custom-widgets/#advanced-field-validation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0d3c7bc9ba834364a631302ed0593e13" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="70d334f0e82a48b1a7e9fd008fef006b"><span data-offset-key="70d334f0e82a48b1a7e9fd008fef006b:0">custom widgets</span></span></span></a><span data-key="40c877dd56aa4f3e88cbee70210094a6"><span data-offset-key="40c877dd56aa4f3e88cbee70210094a6:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="5c0169e6b1524272bbfd6eb2a8ffb97b">`comment`<span data-offset-key="5c0169e6b1524272bbfd6eb2a8ffb97b:1">: optional comment to add before the field (only supported for </span>`yaml`<span data-offset-key="5c0169e6b1524272bbfd6eb2a8ffb97b:3">)</span></span>
+- <span data-key="5c0169e6b1524272bbfd6eb2a8ffb97b">`comment`<span data-offset-key="5c0169e6b1524272bbfd6eb2a8ffb97b:1">: optional comment to add before the field (only supported for </span>`yaml`<span data-offset-key="5c0169e6b1524272bbfd6eb2a8ffb97b:3">)</span></span>
 
 <span data-key="fc0a79bd7a394b248307e71a57657b3a"><span data-offset-key="fc0a79bd7a394b248307e71a57657b3a:0">In files with frontmatter, one field should be named </span>`body`<span data-offset-key="fc0a79bd7a394b248307e71a57657b3a:2">. This special field represents the section of the document (usually markdown) that comes after the frontmatter.</span></span>
 
@@ -1134,15 +1024,13 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="e11292e498974def930e8fc132cc75a3">`editor`</span>
 
 <span data-key="7b521fa5b30f45afb295a283e3e43f86"><span data-offset-key="7b521fa5b30f45afb295a283e3e43f86:0">This setting changes options for the editor view of a collection or a file inside a files collection. It has one option so far:</span></span>
 
--   
-
-    <span data-key="fe85532176904c48b2d7af8dba8bf36d">`preview`<span data-offset-key="fe85532176904c48b2d7af8dba8bf36d:1">: set to </span>`false`<span data-offset-key="fe85532176904c48b2d7af8dba8bf36d:3"> to disable the preview pane for this collection or file; defaults to </span>`true`</span>
+- <span data-key="fe85532176904c48b2d7af8dba8bf36d">`preview`<span data-offset-key="fe85532176904c48b2d7af8dba8bf36d:1">: set to </span>`false`<span data-offset-key="fe85532176904c48b2d7af8dba8bf36d:3"> to disable the preview pane for this collection or file; defaults to </span>`true`</span>
 
 <span data-key="d0240bfe5ce740ecbb3be4e93cc9c5cb">**Example:**</span>
 
@@ -1158,7 +1046,7 @@ Copied!
 
 <span data-key="c7350cf6293e4d3abc7144e0ab2a9455">**Note**<span data-offset-key="c7350cf6293e4d3abc7144e0ab2a9455:1">: Setting this as a top level configuration will set the default for all collections</span></span>
 
-### 
+###
 
 <span data-key="818d8f0eb3d549c8bf134988c84cb006">`summary`</span>
 
@@ -1168,25 +1056,15 @@ Copied!
 
 <span data-key="acbf0d7bcdc547b7846958f32a5b50bd"><span data-offset-key="acbf0d7bcdc547b7846958f32a5b50bd:0">Template tags are the same as those for </span></span><a href="https://www.netlifycms.org/docs/configuration-options/#slug" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d1b1842edfef47409a625925ba3e5284" data-rnw-int-class="nearest_260-7391_262-7392-240__"><span data-key="d3278631a5a84ae8a36b1a5e308c0279"><span data-offset-key="d3278631a5a84ae8a36b1a5e308c0279:0">slug</span></span></span></a><span data-key="256d81e843124638b2706328b2d927be"><span data-offset-key="256d81e843124638b2706328b2d927be:0">, with the following additions:</span></span>
 
--   
+- <span data-key="0c900a64c5374e09a9b86734757f18e0">`{{dirname}}`<span data-offset-key="0c900a64c5374e09a9b86734757f18e0:1"> The path to the file's parent directory, relative to the collection's </span>`folder`<span data-offset-key="0c900a64c5374e09a9b86734757f18e0:3">.</span></span>
 
-    <span data-key="0c900a64c5374e09a9b86734757f18e0">`{{dirname}}`<span data-offset-key="0c900a64c5374e09a9b86734757f18e0:1"> The path to the file's parent directory, relative to the collection's </span>`folder`<span data-offset-key="0c900a64c5374e09a9b86734757f18e0:3">.</span></span>
+- <span data-key="e8e0d62509974577ba4061857b853068">`{{filename}}`<span data-offset-key="e8e0d62509974577ba4061857b853068:1"> The file name without the extension part.</span></span>
 
--   
+- <span data-key="bacf068d7cfb49779db06949e5cd1068">`{{extension}}`<span data-offset-key="bacf068d7cfb49779db06949e5cd1068:1"> The file extension.</span></span>
 
-    <span data-key="e8e0d62509974577ba4061857b853068">`{{filename}}`<span data-offset-key="e8e0d62509974577ba4061857b853068:1"> The file name without the extension part.</span></span>
+- <span data-key="f1503ab3e5f74932937330e2f3e4fd94">`{{commit_date}}`<span data-offset-key="f1503ab3e5f74932937330e2f3e4fd94:1"> The file commit date on supported backends (git based backends).</span></span>
 
--   
-
-    <span data-key="bacf068d7cfb49779db06949e5cd1068">`{{extension}}`<span data-offset-key="bacf068d7cfb49779db06949e5cd1068:1"> The file extension.</span></span>
-
--   
-
-    <span data-key="f1503ab3e5f74932937330e2f3e4fd94">`{{commit_date}}`<span data-offset-key="f1503ab3e5f74932937330e2f3e4fd94:1"> The file commit date on supported backends (git based backends).</span></span>
-
--   
-
-    <span data-key="7adc0c4752ac421faba81b5ea5e7a34f">`{{commit_author}}`<span data-offset-key="7adc0c4752ac421faba81b5ea5e7a34f:1"> The file author date on supported backends (git based backends).</span></span>
+- <span data-key="7adc0c4752ac421faba81b5ea5e7a34f">`{{commit_author}}`<span data-offset-key="7adc0c4752ac421faba81b5ea5e7a34f:1"> The file author date on supported backends (git based backends).</span></span>
 
 <span data-key="8c2e885938f54afe8c74ae4997369268">**Example**</span>
 
@@ -1196,7 +1074,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="12857ab31796422fb6c493902bf3e51a">`sortable_fields`</span>
 
@@ -1214,11 +1092,11 @@ Copied!
 
 2
 
-<span data-key="3f71b427740b4fd8a985a8c556e7e531"><span data-offset-key="3f71b427740b4fd8a985a8c556e7e531:0"> sortable\_fields: \['commit\_date', 'title', 'commit\_author', 'language.en'\]</span></span>
+<span data-key="3f71b427740b4fd8a985a8c556e7e531"><span data-offset-key="3f71b427740b4fd8a985a8c556e7e531:0"> sortable_fields: \['commit_date', 'title', 'commit_author', 'language.en'\]</span></span>
 
 Copied!
 
-### 
+###
 
 <span data-key="fe589eba8ba14af88bc3ea32b9c74bd9">`view_filters`</span>
 
@@ -1230,7 +1108,7 @@ Copied!
 
 1
 
-<span data-key="5a63fa8763f247b388c7b3e6f0ac3904"><span data-offset-key="5a63fa8763f247b388c7b3e6f0ac3904:0"> view\_filters:</span></span>
+<span data-key="5a63fa8763f247b388c7b3e6f0ac3904"><span data-offset-key="5a63fa8763f247b388c7b3e6f0ac3904:0"> view_filters:</span></span>
 
 2
 
@@ -1270,7 +1148,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="458285285c594887af00c28d0aa4cab9">`view_groups`</span>
 
@@ -1282,7 +1160,7 @@ Copied!
 
 1
 
-<span data-key="cc4658b2421c4f7589b1b2bcb21b6f78"><span data-offset-key="cc4658b2421c4f7589b1b2bcb21b6f78:0"> view\_groups:</span></span>
+<span data-key="cc4658b2421c4f7589b1b2bcb21b6f78"><span data-offset-key="cc4658b2421c4f7589b1b2bcb21b6f78:0"> view_groups:</span></span>
 
 2
 
@@ -1318,7 +1196,7 @@ Netlify CMS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
-Next - DS\_ALGOS\_BRAINTEASERS
+Next - DS_ALGOS_BRAINTEASERS
 
 A Quick Guide to Big-O Notation, Memoization, Tabulation, and Sorting Algorithms by Example
 

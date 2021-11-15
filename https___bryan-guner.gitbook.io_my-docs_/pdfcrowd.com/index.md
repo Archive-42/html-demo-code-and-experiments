@@ -2,42 +2,38 @@
 
 <span class="navbar-toggler-icon"></span>
 
--   
+-
 
--   <a href="#" id="navbarDropdown" class="nav-link dropdown-toggle">Products</a>
-    <a href="https://pdfcrowd.com/doc/api/" class="dropdown-item">Pdfcrowd API</a> <a href="https://pdfcrowd.com/save-to-pdf/" class="dropdown-item">Save to PDF Link</a> <a href="https://pdfcrowd.com/save-as-pdf-addon/" class="dropdown-item">Conversions in Browser</a> <a href="https://pdfcrowd.com/save-as-pdf-image-wordpress-plugin/" class="dropdown-item">WordPress Plugins</a>
+- <a href="#" id="navbarDropdown" class="nav-link dropdown-toggle">Products</a>
+  <a href="https://pdfcrowd.com/doc/api/" class="dropdown-item">Pdfcrowd API</a> <a href="https://pdfcrowd.com/save-to-pdf/" class="dropdown-item">Save to PDF Link</a> <a href="https://pdfcrowd.com/save-as-pdf-addon/" class="dropdown-item">Conversions in Browser</a> <a href="https://pdfcrowd.com/save-as-pdf-image-wordpress-plugin/" class="dropdown-item">WordPress Plugins</a>
 
--   <a href="https://pdfcrowd.com/pricing/" class="nav-link">Pricing</a>
--   <a href="https://pdfcrowd.com/user/sign_in/" class="nav-link">Log in</a>
--   <a href="https://pdfcrowd.com/user/sign_up/" class="nav-link">Sign up</a>
+- <a href="https://pdfcrowd.com/pricing/" class="nav-link">Pricing</a>
+- <a href="https://pdfcrowd.com/user/sign_in/" class="nav-link">Log in</a>
+- <a href="https://pdfcrowd.com/user/sign_up/" class="nav-link">Sign up</a>
 
-HTML to PDF as Service
-======================
+# HTML to PDF as Service
 
 Convert HTML to PDF in your applications
 
 Please enable JavaScript to view the form correctly.
 
-HTML to PDF API
----------------
+## HTML to PDF API
 
--   Easy to use API client SDK libraries.
--   Support for the latest web standards.
--   Reliable, secure and highly scalable.
+- Easy to use API client SDK libraries.
+- Support for the latest web standards.
+- Reliable, secure and highly scalable.
 
 <a href="https://pdfcrowd.com/doc/api/" class="btn btn-outline-primary">Read the Docs</a>
 
-API Playground
---------------
+## API Playground
 
--   Interactively explore API settings.
--   PDF preview, automatic code generation.
--   Convert web page, HTML file or HTML code.
+- Interactively explore API settings.
+- PDF preview, automatic code generation.
+- Convert web page, HTML file or HTML code.
 
 <a href="https://pdfcrowd.com/playground/html-to-pdf/" class="btn btn-outline-primary">Try the Playground</a>
 
-Quick Try
----------
+## Quick Try
 
 Enter a web page address or upload an HTML file and we will generate a PDF preview and API integration code.
 
@@ -73,7 +69,7 @@ Integration takes only a few lines of code.
     // install: "nuget install -OutputDirectory packages Pdfcrowd.Official"
     pdfcrowd.HtmlToPdfClient api =
         new pdfcrowd.HtmlToPdfClient("demo", "ce544b6ea52a5621fb9d55f8b542d14d");
-        
+
     api.convertUrlToFile("https://example.com", "document.pdf");
 
 [more .NET examples](https://pdfcrowd.com/doc/api/html-to-pdf/dotnet/)
@@ -121,12 +117,11 @@ Integration takes only a few lines of code.
     # install: "pip install pdfcrowd"
     $ html2pdf -user-name "demo" \
     >          -api-key "ce544b6ea52a5621fb9d55f8b542d14d" \
-    >          "https://example.com" > document.pdf        
+    >          "https://example.com" > document.pdf
 
 [more CLI examples](https://pdfcrowd.com/doc/api/html-to-pdf/command-line/)
 
-Pdfcrowd Products
------------------
+## Pdfcrowd Products
 
 [Conversion API](https://pdfcrowd.com/doc/api/)
 
@@ -166,21 +161,21 @@ We are pioneers in the field of online document generation and we continuously i
 
 We serve customers from all over the world.
 
--   <a href="https://pdfcrowd.com/contact/" class="footer-link">Contact</a>
--   |
--   <a href="https://pdfcrowd.com/about/" class="footer-link">About</a>
--   |
--   <a href="https://pdfcrowd.com/blog/" class="footer-link">Blog</a>
--   |
--   <a href="https://pdfcrowd.com/faq/" class="footer-link">FAQ</a>
--   |
--   <a href="https://pdfcrowd.com/customers/" class="footer-link">Customers</a>
--   |
--   <a href="http://twitter.com/pdfcrowd" class="footer-link">Twitter</a>
--   |
--   <a href="https://pdfcrowd.com/press/" class="footer-link">Press</a>
+- <a href="https://pdfcrowd.com/contact/" class="footer-link">Contact</a>
+- |
+- <a href="https://pdfcrowd.com/about/" class="footer-link">About</a>
+- |
+- <a href="https://pdfcrowd.com/blog/" class="footer-link">Blog</a>
+- |
+- <a href="https://pdfcrowd.com/faq/" class="footer-link">FAQ</a>
+- |
+- <a href="https://pdfcrowd.com/customers/" class="footer-link">Customers</a>
+- |
+- <a href="http://twitter.com/pdfcrowd" class="footer-link">Twitter</a>
+- |
+- <a href="https://pdfcrowd.com/press/" class="footer-link">Press</a>
 
--   Copyright © 2009-2021 Pdfcrowd s.r.o.
--   <a href="https://pdfcrowd.com/legal/" class="footer-link">Legal</a>
--   |
--   <a href="https://pdfcrowd.com/privacy/" class="footer-link">Privacy</a>
+- Copyright © 2009-2021 Pdfcrowd s.r.o.
+- <a href="https://pdfcrowd.com/legal/" class="footer-link">Legal</a>
+- |
+- <a href="https://pdfcrowd.com/privacy/" class="footer-link">Privacy</a>

@@ -2,17 +2,16 @@
 
 <span class="hide-small">TypeScript</span>
 
--   [Download](https://www.typescriptlang.org/download)
--   [Docs](https://www.typescriptlang.org/docs/)
--   [Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
--   [Community](https://www.typescriptlang.org/community)
--   [Playground](https://www.typescriptlang.org/play)
--   [Tools](https://www.typescriptlang.org/tools)
+- [Download](https://www.typescriptlang.org/download)
+- [Docs](https://www.typescriptlang.org/docs/)
+- [Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [Community](https://www.typescriptlang.org/community)
+- [Playground](https://www.typescriptlang.org/play)
+- [Tools](https://www.typescriptlang.org/tools)
 
 [in En](#)
 
-TypeScript is **JavaScript with syntax for types.**
-===================================================
+# TypeScript is **JavaScript with syntax for types.**
 
 TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 
@@ -22,19 +21,18 @@ Try TypeScript Now
 
 Online or via npm
 
--   [Editor Checks](#)
--   [Auto-complete](#)
--   [Interfaces](#)
--   [JSX](#)
+- [Editor Checks](#)
+- [Auto-complete](#)
+- [Interfaces](#)
+- [JSX](#)
 
-    tsconst user = {  firstName: "Angela",  lastName: "Davis",  role: "Professor",} console.log(user.name)Property 'name' does not exist on type '{ firstName: string; lastName: string; role: string; }'.2339Property 'name' does not exist on type '{ firstName: string; lastName: string; role: string; }'. 
+  tsconst user = { firstName: "Angela", lastName: "Davis", role: "Professor",} console.log(user.name)Property 'name' does not exist on type '{ firstName: string; lastName: string; role: string; }'.2339Property 'name' does not exist on type '{ firstName: string; lastName: string; role: string; }'.
 
-    tsconst user = {  firstName: "Angela",  lastName: "Davis",  role: "Professor",} console.log(user.name)Property 'name' does not exist on type '{ firstName: string; lastName: string; role: string; }'.2339Property 'name' does not exist on type '{ firstName: string; lastName: string; role: string; }'. 
+  tsconst user = { firstName: "Angela", lastName: "Davis", role: "Professor",} console.log(user.name)Property 'name' does not exist on type '{ firstName: string; lastName: string; role: string; }'.2339Property 'name' does not exist on type '{ firstName: string; lastName: string; role: string; }'.
 
 [TypeScript 4.4](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-4.html) is now available, [4.5](https://devblogs.microsoft.com/typescript/announcing-typescript-4-5-beta/) has a release candidate to try.
 
-What is TypeScript?
--------------------
+## What is TypeScript?
 
 ### JavaScript and More
 
@@ -48,8 +46,7 @@ TypeScript code converts to JavaScript, which **runs anywhere JavaScript runs**:
 
 TypeScript understands JavaScript and uses **type inference to give you great tooling** without additional code.
 
-Get Started
------------
+## Get Started
 
 <a href="https://www.typescriptlang.org/docs/handbook/intro.html" class="get-started tall handbook"></a>
 
@@ -69,8 +66,7 @@ Download
 
 Install TypeScript
 
-Adopt TypeScript Gradually
---------------------------
+## Adopt TypeScript Gradually
 
 Apply types to your JavaScript project incrementally, **each step improves editor support** and improves your codebase.
 
@@ -78,8 +74,8 @@ Let's take this incorrect JavaScript code, and see how **TypeScript can catch mi
 
     jsfunction compact(arr) {    if (orr.length > 10)        return arr.trim(0, 10)    return arr}
 
-No editor warnings in JavaScript files  
-  
+No editor warnings in JavaScript files
+
 This code crashes at runtime!
 
 JavaScript file
@@ -116,8 +112,7 @@ Making it possible to see **documentation and issues in your editor**.
 
     tstype Result = "pass" | "fail" function verify(result: Result) {  if (result === "pass") {    console.log("Passed")  } else {    console.log("Failed")  }}
 
-TypeScript becomes JavaScript via the delete key.
--------------------------------------------------
+## TypeScript becomes JavaScript via the delete key.
 
     tstype Result = "pass" | "fail" function verify(result: Result) {  if (result === "pass") {    console.log("Passed")  } else {    console.log("Failed")  }} 
 
@@ -131,8 +126,7 @@ TypeScript becomes JavaScript via the delete key.
 
 **JavaScript file**.
 
-TypeScript Testimonials
------------------------
+## TypeScript Testimonials
 
 **First**, we were surprised by the number of small bugs we found when converting our code.
 
@@ -167,8 +161,7 @@ Yarn
 GitHub  
 Desktop
 
-Loved by Developers
--------------------
+## Loved by Developers
 
 ![Image of the stack overflow logo, and a graph showing TypeScript as the 2nd most popular language](https://www.typescriptlang.org/images/index/stack-overflow.svg)
 
@@ -180,8 +173,7 @@ TypeScript was **used by 78%** of the [2020 State of JS](https://2020.stateofjs.
 
 TypeScript was given the award for **“Most Adopted Technology”** based on year-on-year growth.
 
-Get Started
------------
+## Get Started
 
 <a href="https://www.typescriptlang.org/docs/handbook/intro.html" class="get-started short handbook"></a>
 
@@ -210,132 +202,133 @@ Made with ♥ in Redmond, Boston, SF & Dublin
 
 ### Using TypeScript
 
--   [Get Started](https://www.typescriptlang.org/docs/home)
--   [Download](https://www.typescriptlang.org/download)
--   [Community](https://www.typescriptlang.org/community)
--   [Playground](https://www.typescriptlang.org/play/)
--   [TSConfig Ref](https://www.typescriptlang.org/tsconfig)
--   [Why TypeScript](https://www.typescriptlang.org/why-create-typescript)
--   [Design](https://www.typescriptlang.org/branding)
--   <span id="popover-trigger"><a href="https://www.typescriptlang.org/play/#show-examples" id="popover-trigger-anchor"><span class="link-prefix footer-icon" style="display: none"></span>Code Samples</a></span>
-    1.  JavaScript
-    2.  TypeScript
+- [Get Started](https://www.typescriptlang.org/docs/home)
+- [Download](https://www.typescriptlang.org/download)
+- [Community](https://www.typescriptlang.org/community)
+- [Playground](https://www.typescriptlang.org/play/)
+- [TSConfig Ref](https://www.typescriptlang.org/tsconfig)
+- [Why TypeScript](https://www.typescriptlang.org/why-create-typescript)
+- [Design](https://www.typescriptlang.org/branding)
+- <span id="popover-trigger"><a href="https://www.typescriptlang.org/play/#show-examples" id="popover-trigger-anchor"><span class="link-prefix footer-icon" style="display: none"></span>Code Samples</a></span>
 
-    See how TypeScript improves day to day working with JavaScript with minimal additional syntax.
+  1.  JavaScript
+  2.  TypeScript
 
-    #### JavaScript Essentials
+  See how TypeScript improves day to day working with JavaScript with minimal additional syntax.
 
-    1.  <a href="https://www.typescriptlang.org/play/?target=1&amp;q=195#example/hello-world" class="example-link" title="Open the example: Hello World">Hello World</a>
+  #### JavaScript Essentials
 
-    2.  <a href="https://www.typescriptlang.org/play/?strict=false&amp;q=214#example/objects-and-arrays" class="example-link" title="Open the example: Objects and Arrays">Objects and Arrays</a>
+  1.  <a href="https://www.typescriptlang.org/play/?target=1&amp;q=195#example/hello-world" class="example-link" title="Open the example: Hello World">Hello World</a>
 
-    3.  <a href="https://www.typescriptlang.org/play/?noImplicitAny=false&amp;q=184#example/functions" class="example-link" title="Open the example: Functions">Functions</a>
+  2.  <a href="https://www.typescriptlang.org/play/?strict=false&amp;q=214#example/objects-and-arrays" class="example-link" title="Open the example: Objects and Arrays">Objects and Arrays</a>
 
-    4.  <a href="https://www.typescriptlang.org/play/?strictNullChecks=true&amp;q=60#example/code-flow" class="example-link" title="Open the example: Code Flow">Code Flow</a>
+  3.  <a href="https://www.typescriptlang.org/play/?noImplicitAny=false&amp;q=184#example/functions" class="example-link" title="Open the example: Functions">Functions</a>
 
-    #### Functions with JavaScript
+  4.  <a href="https://www.typescriptlang.org/play/?strictNullChecks=true&amp;q=60#example/code-flow" class="example-link" title="Open the example: Code Flow">Code Flow</a>
 
-    1.  <a href="https://www.typescriptlang.org/play/?q=446#example/generic-functions" class="example-link" title="Open the example: Generic Functions">Generic Functions</a>
+  #### Functions with JavaScript
 
-    2.  <a href="https://www.typescriptlang.org/play/?q=153#example/typing-functions" class="example-link" title="Open the example: Typing Functions">Typing Functions</a>
+  1.  <a href="https://www.typescriptlang.org/play/?q=446#example/generic-functions" class="example-link" title="Open the example: Generic Functions">Generic Functions</a>
 
-    3.  <a href="https://www.typescriptlang.org/play/?esModuleInterop=true&amp;q=309#example/function-chaining" class="example-link" title="Open the example: Function Chaining">Function Chaining</a>
+  2.  <a href="https://www.typescriptlang.org/play/?q=153#example/typing-functions" class="example-link" title="Open the example: Typing Functions">Typing Functions</a>
 
-    #### Working With Classes
+  3.  <a href="https://www.typescriptlang.org/play/?esModuleInterop=true&amp;q=309#example/function-chaining" class="example-link" title="Open the example: Function Chaining">Function Chaining</a>
 
-    1.  <a href="https://www.typescriptlang.org/play/?q=305#example/classes-101" class="example-link" title="Open the example: Classes 101">Classes 101</a>
+  #### Working With Classes
 
-    2.  <a href="https://www.typescriptlang.org/play/?q=495#example/this" class="example-link" title="Open the example: This">This</a>
+  1.  <a href="https://www.typescriptlang.org/play/?q=305#example/classes-101" class="example-link" title="Open the example: Classes 101">Classes 101</a>
 
-    3.  <a href="https://www.typescriptlang.org/play/?q=183#example/generic-classes" class="example-link" title="Open the example: Generic Classes">Generic Classes</a>
+  2.  <a href="https://www.typescriptlang.org/play/?q=495#example/this" class="example-link" title="Open the example: This">This</a>
 
-    4.  <a href="https://www.typescriptlang.org/play/?q=8#example/mixins" class="example-link" title="Open the example: Mixins">Mixins</a>
+  3.  <a href="https://www.typescriptlang.org/play/?q=183#example/generic-classes" class="example-link" title="Open the example: Generic Classes">Generic Classes</a>
 
-    #### Modern JavaScript
+  4.  <a href="https://www.typescriptlang.org/play/?q=8#example/mixins" class="example-link" title="Open the example: Mixins">Mixins</a>
 
-    1.  <a href="https://www.typescriptlang.org/play/?q=327#example/async-await" class="example-link" title="Open the example: Async Await">Async Await</a>
+  #### Modern JavaScript
 
-    2.  <a href="https://www.typescriptlang.org/play/?q=195#example/immutability" class="example-link" title="Open the example: Immutability">Immutability</a>
+  1.  <a href="https://www.typescriptlang.org/play/?q=327#example/async-await" class="example-link" title="Open the example: Async Await">Async Await</a>
 
-    3.  <a href="https://www.typescriptlang.org/play/?q=511#example/import-export" class="example-link" title="Open the example: Import Export">Import Export</a>
+  2.  <a href="https://www.typescriptlang.org/play/?q=195#example/immutability" class="example-link" title="Open the example: Immutability">Immutability</a>
 
-    4.  <a href="https://www.typescriptlang.org/play/?useJavaScript=trueq=431#example/jsdoc-support" class="example-link" title="Open the example: JSDoc Support">JSDoc Support</a>
+  3.  <a href="https://www.typescriptlang.org/play/?q=511#example/import-export" class="example-link" title="Open the example: Import Export">Import Export</a>
 
-    #### External APIs
+  4.  <a href="https://www.typescriptlang.org/play/?useJavaScript=trueq=431#example/jsdoc-support" class="example-link" title="Open the example: JSDoc Support">JSDoc Support</a>
 
-    1.  <a href="https://www.typescriptlang.org/play/?useJavaScript=trueq=311#example/typescript-with-web" class="example-link" title="Open the example: TypeScript with Web">TypeScript with Web</a>
+  #### External APIs
 
-    2.  <a href="https://www.typescriptlang.org/play/?jsx=2&amp;esModuleInterop=true&amp;q=233#example/typescript-with-react" class="example-link" title="Open the example: TypeScript with React">TypeScript with React</a>
+  1.  <a href="https://www.typescriptlang.org/play/?useJavaScript=trueq=311#example/typescript-with-web" class="example-link" title="Open the example: TypeScript with Web">TypeScript with Web</a>
 
-    3.  <a href="https://www.typescriptlang.org/play/?q=26#example/typescript-with-deno" class="example-link" title="Open the example: TypeScript with Deno">TypeScript with Deno</a>
+  2.  <a href="https://www.typescriptlang.org/play/?jsx=2&amp;esModuleInterop=true&amp;q=233#example/typescript-with-react" class="example-link" title="Open the example: TypeScript with React">TypeScript with React</a>
 
-    4.  <a href="https://www.typescriptlang.org/play/?useJavaScript=trueq=123#example/typescript-with-node" class="example-link" title="Open the example: TypeScript with Node">TypeScript with Node</a>
+  3.  <a href="https://www.typescriptlang.org/play/?q=26#example/typescript-with-deno" class="example-link" title="Open the example: TypeScript with Deno">TypeScript with Deno</a>
 
-    5.  <a href="https://www.typescriptlang.org/play/?useJavaScript=trueq=279#example/typescript-with-webgl" class="example-link" title="Open the example: TypeScript with WebGL">TypeScript with WebGL</a>
+  4.  <a href="https://www.typescriptlang.org/play/?useJavaScript=trueq=123#example/typescript-with-node" class="example-link" title="Open the example: TypeScript with Node">TypeScript with Node</a>
 
-    #### Helping with JavaScript
+  5.  <a href="https://www.typescriptlang.org/play/?useJavaScript=trueq=279#example/typescript-with-webgl" class="example-link" title="Open the example: TypeScript with WebGL">TypeScript with WebGL</a>
 
-    1.  <a href="https://www.typescriptlang.org/play/?q=360#example/quick-fixes" class="example-link" title="Open the example: Quick Fixes">Quick Fixes</a>
+  #### Helping with JavaScript
 
-    2.  <a href="https://www.typescriptlang.org/play/?q=112#example/errors" class="example-link" title="Open the example: Errors">Errors</a>
+  1.  <a href="https://www.typescriptlang.org/play/?q=360#example/quick-fixes" class="example-link" title="Open the example: Quick Fixes">Quick Fixes</a>
 
-    Explore how TypeScript extends JavaScript to add more safety and tooling.
+  2.  <a href="https://www.typescriptlang.org/play/?q=112#example/errors" class="example-link" title="Open the example: Errors">Errors</a>
 
-    #### Primitives
+  Explore how TypeScript extends JavaScript to add more safety and tooling.
 
-    1.  <a href="https://www.typescriptlang.org/play/?q=171#example/any" class="example-link" title="Open the example: Any">Any</a>
+  #### Primitives
 
-    2.  <a href="https://www.typescriptlang.org/play/?q=429#example/literals" class="example-link" title="Open the example: Literals">Literals</a>
+  1.  <a href="https://www.typescriptlang.org/play/?q=171#example/any" class="example-link" title="Open the example: Any">Any</a>
 
-    3.  <a href="https://www.typescriptlang.org/play/?q=12#example/union-and-intersection-types" class="example-link" title="Open the example: Union and Intersection Types">Union and Intersection Types</a>
+  2.  <a href="https://www.typescriptlang.org/play/?q=429#example/literals" class="example-link" title="Open the example: Literals">Literals</a>
 
-    4.  <a href="https://www.typescriptlang.org/play/?q=316#example/unknown-and-never" class="example-link" title="Open the example: Unknown and Never">Unknown and Never</a>
+  3.  <a href="https://www.typescriptlang.org/play/?q=12#example/union-and-intersection-types" class="example-link" title="Open the example: Union and Intersection Types">Union and Intersection Types</a>
 
-    #### Type Primitives
+  4.  <a href="https://www.typescriptlang.org/play/?q=316#example/unknown-and-never" class="example-link" title="Open the example: Unknown and Never">Unknown and Never</a>
 
-    1.  <a href="https://www.typescriptlang.org/play/?q=223#example/tuples" class="example-link" title="Open the example: Tuples">Tuples</a>
+  #### Type Primitives
 
-    2.  <a href="https://www.typescriptlang.org/play/?strictNullChecks=true&amp;q=55#example/built-in-utility-types" class="example-link" title="Open the example: Built-in Utility Types">Built-in Utility Types</a>
+  1.  <a href="https://www.typescriptlang.org/play/?q=223#example/tuples" class="example-link" title="Open the example: Tuples">Tuples</a>
 
-    3.  <a href="https://www.typescriptlang.org/play/?strictNullChecks=false&amp;q=478#example/nullable-types" class="example-link" title="Open the example: Nullable Types">Nullable Types</a>
+  2.  <a href="https://www.typescriptlang.org/play/?strictNullChecks=true&amp;q=55#example/built-in-utility-types" class="example-link" title="Open the example: Built-in Utility Types">Built-in Utility Types</a>
 
-    #### Meta-Types
+  3.  <a href="https://www.typescriptlang.org/play/?strictNullChecks=false&amp;q=478#example/nullable-types" class="example-link" title="Open the example: Nullable Types">Nullable Types</a>
 
-    1.  <a href="https://www.typescriptlang.org/play/?q=475#example/conditional-types" class="example-link" title="Open the example: Conditional Types">Conditional Types</a>
+  #### Meta-Types
 
-    2.  <a href="https://www.typescriptlang.org/play/?q=96#example/discriminate-types" class="example-link" title="Open the example: Discriminate Types">Discriminate Types</a>
+  1.  <a href="https://www.typescriptlang.org/play/?q=475#example/conditional-types" class="example-link" title="Open the example: Conditional Types">Conditional Types</a>
 
-    3.  <a href="https://www.typescriptlang.org/play/?q=128#example/indexed-types" class="example-link" title="Open the example: Indexed Types">Indexed Types</a>
+  2.  <a href="https://www.typescriptlang.org/play/?q=96#example/discriminate-types" class="example-link" title="Open the example: Discriminate Types">Discriminate Types</a>
 
-    4.  <a href="https://www.typescriptlang.org/play/?q=418#example/mapped-types" class="example-link" title="Open the example: Mapped Types">Mapped Types</a>
+  3.  <a href="https://www.typescriptlang.org/play/?q=128#example/indexed-types" class="example-link" title="Open the example: Indexed Types">Indexed Types</a>
 
-    #### Language
+  4.  <a href="https://www.typescriptlang.org/play/?q=418#example/mapped-types" class="example-link" title="Open the example: Mapped Types">Mapped Types</a>
 
-    1.  <a href="https://www.typescriptlang.org/play/?strictFunctionTypes=false&amp;q=227#example/soundness" class="example-link" title="Open the example: Soundness">Soundness</a>
+  #### Language
 
-    2.  <a href="https://www.typescriptlang.org/play/?q=328#example/structural-typing" class="example-link" title="Open the example: Structural Typing">Structural Typing</a>
+  1.  <a href="https://www.typescriptlang.org/play/?strictFunctionTypes=false&amp;q=227#example/soundness" class="example-link" title="Open the example: Soundness">Soundness</a>
 
-    3.  <a href="https://www.typescriptlang.org/play/?q=403#example/type-guards" class="example-link" title="Open the example: Type Guards">Type Guards</a>
+  2.  <a href="https://www.typescriptlang.org/play/?q=328#example/structural-typing" class="example-link" title="Open the example: Structural Typing">Structural Typing</a>
 
-    4.  <a href="https://www.typescriptlang.org/play/?q=129#example/type-widening-and-narrowing" class="example-link" title="Open the example: Type Widening and Narrowing">Type Widening and Narrowing</a>
+  3.  <a href="https://www.typescriptlang.org/play/?q=403#example/type-guards" class="example-link" title="Open the example: Type Guards">Type Guards</a>
 
-    #### Language Extensions
+  4.  <a href="https://www.typescriptlang.org/play/?q=129#example/type-widening-and-narrowing" class="example-link" title="Open the example: Type Widening and Narrowing">Type Widening and Narrowing</a>
 
-    1.  <a href="https://www.typescriptlang.org/play/?q=430#example/enums" class="example-link" title="Open the example: Enums">Enums</a>
+  #### Language Extensions
 
-    2.  <a href="https://www.typescriptlang.org/play/?q=158#example/nominal-typing" class="example-link" title="Open the example: Nominal Typing">Nominal Typing</a>
+  1.  <a href="https://www.typescriptlang.org/play/?q=430#example/enums" class="example-link" title="Open the example: Enums">Enums</a>
 
-    3.  <a href="https://www.typescriptlang.org/play/?q=154#example/types-vs-interfaces" class="example-link" title="Open the example: Types vs Interfaces">Types vs Interfaces</a>
+  2.  <a href="https://www.typescriptlang.org/play/?q=158#example/nominal-typing" class="example-link" title="Open the example: Nominal Typing">Nominal Typing</a>
+
+  3.  <a href="https://www.typescriptlang.org/play/?q=154#example/types-vs-interfaces" class="example-link" title="Open the example: Types vs Interfaces">Types vs Interfaces</a>
 
 ### Community
 
--   [Get Help](https://www.typescriptlang.org/community)
--   [Blog](https://devblogs.microsoft.com/typescript/)
--   GitHub Repo
--   Community Chat
--   @TypeScript
--   Stack Overflow
--   [Web Updates](https://github.com/microsoft/TypeScript-Website/issues/130)
--   Web Repo
+- [Get Help](https://www.typescriptlang.org/community)
+- [Blog](https://devblogs.microsoft.com/typescript/)
+- GitHub Repo
+- Community Chat
+- @TypeScript
+- Stack Overflow
+- [Web Updates](https://github.com/microsoft/TypeScript-Website/issues/130)
+- Web Repo
 
 MSG

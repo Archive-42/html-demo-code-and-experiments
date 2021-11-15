@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-6 Bad Digital Habits and How to Beat Them
-=========================================
+# 6 Bad Digital Habits and How to Beat Them
 
 In <span class="post-meta-category">[Blog](https://html.com/blog/), [Features](https://html.com/blog/features/)</span>
 
@@ -39,8 +32,7 @@ Ready to reap your karmic rewards? Check out the top six bad habits new technolo
                               https://html.com/wp-content/uploads/6-Bad-Digital-Habits-2-2.jpg
                             " width="720" height="5646" />
 
-Transcript: 6 Bad Digital Habits (And How to Beat Them)
--------------------------------------------------------
+## Transcript: 6 Bad Digital Habits (And How to Beat Them)
 
 As much as technology and the internet has benefited us, it has also given us some really bad habits. Here are a few common ones, and how you can kick them.
 
@@ -50,8 +42,8 @@ As much as technology and the internet has benefited us, it has also given us so
 
 **Did you know?**
 
--   ‘**Ping-ponging’**, or rapid replies to office emails, is the most annoying habit according to a Kingston University study (2011).
--   Emailing out of hours isn’t helpful – try saving the message till the next day.
+- ‘**Ping-ponging’**, or rapid replies to office emails, is the most annoying habit according to a Kingston University study (2011).
+- Emailing out of hours isn’t helpful – try saving the message till the next day.
 
 **How to stop it:**
 
@@ -64,8 +56,8 @@ As much as technology and the internet has benefited us, it has also given us so
 
 **Did you know?**
 
--   **Over 20%** of Americans believe their mobile usage causes marital conflict, according to a TIME study (2012).
--   **17%** of users check their phone at a meal regardless of company, according to the same study.
+- **Over 20%** of Americans believe their mobile usage causes marital conflict, according to a TIME study (2012).
+- **17%** of users check their phone at a meal regardless of company, according to the same study.
 
 **How to stop it:**
 
@@ -78,8 +70,8 @@ As much as technology and the internet has benefited us, it has also given us so
 
 **Did you know?**
 
--   **9%** of children are addicted to gaming, according to an American Academy of Pediatrics study (2011).
--   **46%** of online gamers play Massively Multiplayer Online Role-Playing Games (MMORPGS), making it the most popular online gaming experience.
+- **9%** of children are addicted to gaming, according to an American Academy of Pediatrics study (2011).
+- **46%** of online gamers play Massively Multiplayer Online Role-Playing Games (MMORPGS), making it the most popular online gaming experience.
 
 **How to stop it:**
 
@@ -92,8 +84,8 @@ As much as technology and the internet has benefited us, it has also given us so
 
 **Did you know?**
 
--   **40 minutes a day** – the average time Americans spend on Facebook. That’s over 243 hours a year.
--   **500m tweets** are sent each day by Twitter’s 271 million active users.
+- **40 minutes a day** – the average time Americans spend on Facebook. That’s over 243 hours a year.
+- **500m tweets** are sent each day by Twitter’s 271 million active users.
 
 **How to stop it:**
 
@@ -106,8 +98,8 @@ As much as technology and the internet has benefited us, it has also given us so
 
 **Did you know?**
 
--   **64-68%** of young adult men view porn at least once a week
--   **9%** of porn viewers have tried unsuccessfully to stop.
+- **64-68%** of young adult men view porn at least once a week
+- **9%** of porn viewers have tried unsuccessfully to stop.
 
 **How to stop it:**
 
@@ -120,8 +112,8 @@ As much as technology and the internet has benefited us, it has also given us so
 
 **Did you know?**
 
--   **Only 23%** of small to medium-sized businesses (SMBs) back up data daily.
--   **50%** of SMBs only start backing up data after a catastrophic loss.
+- **Only 23%** of small to medium-sized businesses (SMBs) back up data daily.
+- **50%** of SMBs only start backing up data after a catastrophic loss.
 
 **How to stop it:**
 
@@ -132,39 +124,39 @@ Whether you’re a gaming addict or glued to your phone, don’t let bad habits 
 
 ### Sources
 
--   Video Gaming Can Lead to Mental Health Problems – [aap.org](http://www.aap.org/)
--   Is Pornography Addictive? – [apa.org](https://www.apa.org/monitor/2014/04/pornography.aspx)
--   Americans Now Spend More Time on Facebook Than They Do on Their Pets – [businessweek.com](https://www.bloomberg.com/bw/articles/2014-07-23/heres-how-much-time-people-spend-on-facebook-daily)
--   Brain Activity in Sex Addiction Mirrors that of Drug Addiction – [cam.ac.uk](https://www.cam.ac.uk/)
--   Get Smart! Your Phone Habits are Annoying at Work – [cnbc.com](https://www.cnbc.com/)
--   Pornography Statistics – [covenanteyes.com](http://www.covenanteyes.com/2013/02/19/pornography-statistics/)
--   5 Tips to Fix Your Annoying Email Etiquette – [deliverbliss.com](http://deliverbliss.com/)
--   How Much of the Internet Is Actually for Porn – [forbes.com](https://www.forbes.com/)
--   The New Rules of Business Etiquette – [forbes.com](https://www.forbes.com/)
--   ICT Use and Mental Health in Young Adults: Effects of Computer and Mobile Phone Use on Stress, Sleep Disturbances, and Symptoms of Depression – [gupea.ub.gu.se](https://gupea.ub.gu.se/bitstream/2077/28245/1/gupea_2077_28245_1.pdf)
--   Internet Pornography Statistics – internet-filter-review.toptenreviews.com
--   Occupational Psychologist Warns of Health Risks of Email Obsession – [kingston.ac.uk](http://www.kingston.ac.uk/)
--   How Can I Stop Using My Phone All the Time and Actually Connect With People in the Real World? – [lifehacker.com](https://lifehacker.com/5898612/how-can-i-stop-using-my-phone-all-the-time-and-actually-connect-with-people-in-the-real-world)
--   Social Media Report 2012 – [nielsen.com](http://www.nielsen.com/)
--   Is Online Gaming Bad for You? – [news.bbc.co.uk](http://news.bbc.co.uk/1/hi/technology/4273125.stm)
--   Right to Silence – [news.bbc.co.uk](http://news.bbc.co.uk/1/hi/magazine/3738652.stm)
--   Internet Gaming Addiction: Current Perspectives – [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3832462/)
--   Reduce Bad Email Habits – [nytimes.com](http://www.nytimes.com/roomfordebate/2011/12/05/should-workplaces-ban-e-mail-37/reduce-bad-e-mail-habits)
--   Swear Off Social Media, for Good or Just for Now – [nytimes.com](https://www.nytimes.com/2014/07/03/technology/personaltech/swear-off-social-media-forever-or-just-for-now.html)
--   Get Back to Work! StayFocusd, YouMail and Other Apps to Keep You on Task – [pcworld.com](https://www.pcworld.com/article/2158627/get-back-to-work-stayfocusd-youmail-and-other-apps-to-keep-you-on-task.html)
--   How to Build a Bulletproof Cloud Backup System – [pcworld.com](https://www.pcworld.com/article/2036488/how-to-build-a-bulletproof-cloud-backup-system-without-spending-a-dime.html)
--   Taking a Whack at Porn Addiction – [projectknow.com](http://www.projectknow.com/discover/taking-a-whack-at-porn-addiction/)
--   What is Your Worst Data Loss – [reddit.com](https://reddit.com/)
--   Do I Need to Back Up My Computer – [safety.yahoo.com](https://safety.yahoo.com/Security/BACKUP.html)
--   Support RSS Feed PS4 Parental Controls – support.us.playstation.com
--   Set Parental Controls for Xbox 360 and Xbox Live – [support.xbox.com](https://support.xbox.com/en-CA/xbox-360/security/xbox-live-parental-control)
--   Symantec 2012 SMB Disaster Preparedness Survey – [symantec.com](https://www.symantec.com/en/uk/about/news/resources/press_kits/detail.jsp?pkid=dpsurvey)
--   Five Tips on Beating Video Game Addiction – [telegraph.co.uk](https://www.telegraph.co.uk/technology/video-games/10451600/Five-tips-on-beating-video-game-addiction.html)
--   Why Teenagersâ€™ Obsession with Porn is Creating a Generation of 20 Year Old Virgins – [telegraph.co.uk](https://www.telegraph.co.uk/women/sex/11045859/Why-teenagers-obsession-with-porn-is-creating-a-generation-of-20-year-old-virgins.html)
--   What is the Best Way to Back Up Data – [theguardian.com](https://www.theguardian.com/technology/askjack/2014/aug/28/the-best-way-to-back-up-data)
--   How Much Time Have You Wasted on Facebook – [time.com](https://time.com/6107/how-much-time-have-you-wasted-on-facebook/)
--   Your Wireless Life: Results of TIME’s Mobility Poll – [time.com](http://content.time.com/time/interactive/0,31813,2122187,00.html)
--   About: Company – [twitter.com](https://about.twitter.com/company)
+- Video Gaming Can Lead to Mental Health Problems – [aap.org](http://www.aap.org/)
+- Is Pornography Addictive? – [apa.org](https://www.apa.org/monitor/2014/04/pornography.aspx)
+- Americans Now Spend More Time on Facebook Than They Do on Their Pets – [businessweek.com](https://www.bloomberg.com/bw/articles/2014-07-23/heres-how-much-time-people-spend-on-facebook-daily)
+- Brain Activity in Sex Addiction Mirrors that of Drug Addiction – [cam.ac.uk](https://www.cam.ac.uk/)
+- Get Smart! Your Phone Habits are Annoying at Work – [cnbc.com](https://www.cnbc.com/)
+- Pornography Statistics – [covenanteyes.com](http://www.covenanteyes.com/2013/02/19/pornography-statistics/)
+- 5 Tips to Fix Your Annoying Email Etiquette – [deliverbliss.com](http://deliverbliss.com/)
+- How Much of the Internet Is Actually for Porn – [forbes.com](https://www.forbes.com/)
+- The New Rules of Business Etiquette – [forbes.com](https://www.forbes.com/)
+- ICT Use and Mental Health in Young Adults: Effects of Computer and Mobile Phone Use on Stress, Sleep Disturbances, and Symptoms of Depression – [gupea.ub.gu.se](https://gupea.ub.gu.se/bitstream/2077/28245/1/gupea_2077_28245_1.pdf)
+- Internet Pornography Statistics – internet-filter-review.toptenreviews.com
+- Occupational Psychologist Warns of Health Risks of Email Obsession – [kingston.ac.uk](http://www.kingston.ac.uk/)
+- How Can I Stop Using My Phone All the Time and Actually Connect With People in the Real World? – [lifehacker.com](https://lifehacker.com/5898612/how-can-i-stop-using-my-phone-all-the-time-and-actually-connect-with-people-in-the-real-world)
+- Social Media Report 2012 – [nielsen.com](http://www.nielsen.com/)
+- Is Online Gaming Bad for You? – [news.bbc.co.uk](http://news.bbc.co.uk/1/hi/technology/4273125.stm)
+- Right to Silence – [news.bbc.co.uk](http://news.bbc.co.uk/1/hi/magazine/3738652.stm)
+- Internet Gaming Addiction: Current Perspectives – [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3832462/)
+- Reduce Bad Email Habits – [nytimes.com](http://www.nytimes.com/roomfordebate/2011/12/05/should-workplaces-ban-e-mail-37/reduce-bad-e-mail-habits)
+- Swear Off Social Media, for Good or Just for Now – [nytimes.com](https://www.nytimes.com/2014/07/03/technology/personaltech/swear-off-social-media-forever-or-just-for-now.html)
+- Get Back to Work! StayFocusd, YouMail and Other Apps to Keep You on Task – [pcworld.com](https://www.pcworld.com/article/2158627/get-back-to-work-stayfocusd-youmail-and-other-apps-to-keep-you-on-task.html)
+- How to Build a Bulletproof Cloud Backup System – [pcworld.com](https://www.pcworld.com/article/2036488/how-to-build-a-bulletproof-cloud-backup-system-without-spending-a-dime.html)
+- Taking a Whack at Porn Addiction – [projectknow.com](http://www.projectknow.com/discover/taking-a-whack-at-porn-addiction/)
+- What is Your Worst Data Loss – [reddit.com](https://reddit.com/)
+- Do I Need to Back Up My Computer – [safety.yahoo.com](https://safety.yahoo.com/Security/BACKUP.html)
+- Support RSS Feed PS4 Parental Controls – support.us.playstation.com
+- Set Parental Controls for Xbox 360 and Xbox Live – [support.xbox.com](https://support.xbox.com/en-CA/xbox-360/security/xbox-live-parental-control)
+- Symantec 2012 SMB Disaster Preparedness Survey – [symantec.com](https://www.symantec.com/en/uk/about/news/resources/press_kits/detail.jsp?pkid=dpsurvey)
+- Five Tips on Beating Video Game Addiction – [telegraph.co.uk](https://www.telegraph.co.uk/technology/video-games/10451600/Five-tips-on-beating-video-game-addiction.html)
+- Why Teenagersâ€™ Obsession with Porn is Creating a Generation of 20 Year Old Virgins – [telegraph.co.uk](https://www.telegraph.co.uk/women/sex/11045859/Why-teenagers-obsession-with-porn-is-creating-a-generation-of-20-year-old-virgins.html)
+- What is the Best Way to Back Up Data – [theguardian.com](https://www.theguardian.com/technology/askjack/2014/aug/28/the-best-way-to-back-up-data)
+- How Much Time Have You Wasted on Facebook – [time.com](https://time.com/6107/how-much-time-have-you-wasted-on-facebook/)
+- Your Wireless Life: Results of TIME’s Mobility Poll – [time.com](http://content.time.com/time/interactive/0,31813,2122187,00.html)
+- About: Company – [twitter.com](https://about.twitter.com/company)
 
 [Download](https://html.com/wp-content/uploads/2015/03/6-Bad-Digital-Habits-2-2.jpg) this infographic.
 
@@ -172,14 +164,13 @@ Embed Our Infographic On Your Site!
 
 Image Width % px
 
-&lt;img src="https://[html](https://html.com/).com/wp-content/uploads/2015/03/6-Bad-Digital-Habits-2-2.jpg" alt="6 Bad Digital Habits and How to Beat Them - An Infographic from " width="100%" class="infographic\_embedder" /&gt;&lt;p class="infographic\_attr"&gt;Embedded from &lt;a href="https://html.com/blog/6-bad-digital-habits/" target="\_blank"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://[html](https://html.com/).com/wp-content/uploads/2015/03/6-Bad-Digital-Habits-2-2.jpg" alt="6 Bad Digital Habits and How to Beat Them - An Infographic from " width="100%" class="infographic_embedder" /&gt;&lt;p class="infographic_attr"&gt;Embedded from &lt;a href="https://html.com/blog/6-bad-digital-habits/" target="\_blank"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;img src="https://html.com/wp-content/uploads/2015/03/6-Bad-Digital-Habits-2-2.jpg" alt="6 Bad Digital Habits and How to Beat Them - An Infographic from " width="100%" class="infographic\_embedder" /&gt;&lt;p class="infographic\_attr"&gt;Embedded from &lt;a href="https://html.com/blog/6-bad-digital-habits/" target="\_blank"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://html.com/wp-content/uploads/2015/03/6-Bad-Digital-Habits-2-2.jpg" alt="6 Bad Digital Habits and How to Beat Them - An Infographic from " width="100%" class="infographic_embedder" /&gt;&lt;p class="infographic_attr"&gt;Embedded from &lt;a href="https://html.com/blog/6-bad-digital-habits/" target="\_blank"&gt;&lt;/a&gt;&lt;/p&gt;
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>Blackphone Security Features – What Are They And Do You Need Them? \[Infographic\]](https://html.com/blog/blackphone-security/)
 
@@ -195,11 +186,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

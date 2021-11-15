@@ -11,35 +11,34 @@
 
 <a href="#navigation" id="more-links" title="More..."><span>Site navigation</span></a> <a href="#content" id="less-links"><strong>Skip</strong></a>
 
--   <span id="tabAboutGNU">[ABOUT GNU](https://www.gnu.org/gnu/gnu.html)</span>
--   <span id="tabPhilosophy">[PHILOSOPHY](https://www.gnu.org/philosophy/philosophy.html)</span>
--   <span id="tabLicenses">[LICENSES](https://www.gnu.org/licenses/licenses.html)</span>
--   <span id="tabEducation">[EDUCATION](https://www.gnu.org/education/education.html)</span>
--   <span id="tabSoftware"><span class="no-display">=</span> [SOFTWARE](https://www.gnu.org/software/software.html) <span class="gnun-split"></span> <span class="no-display">=</span></span>
--   <span id="tabDoc">[DOCS](https://www.gnu.org/doc/doc.html)</span>
--   <span id="tabMalware">[MALWARE](https://www.gnu.org/proprietary/proprietary.html)</span>
--   <span id="tabHelp">[HELP GNU](https://www.gnu.org/help/help.html)</span>
--   <span id="tabArt">[GNU ART](https://www.gnu.org/graphics/graphics.html)</span>
--   <span id="tabPeople">[GNU'S WHO?](https://www.gnu.org/people/people.html)</span>
--   [SITEMAP](https://www.gnu.org/server/sitemap.html)
--   [SOFTWARE DIRECTORY](http://directory.fsf.org/)
--   [HARDWARE](https://h-node.org/)
+- <span id="tabAboutGNU">[ABOUT GNU](https://www.gnu.org/gnu/gnu.html)</span>
+- <span id="tabPhilosophy">[PHILOSOPHY](https://www.gnu.org/philosophy/philosophy.html)</span>
+- <span id="tabLicenses">[LICENSES](https://www.gnu.org/licenses/licenses.html)</span>
+- <span id="tabEducation">[EDUCATION](https://www.gnu.org/education/education.html)</span>
+- <span id="tabSoftware"><span class="no-display">=</span> [SOFTWARE](https://www.gnu.org/software/software.html) <span class="gnun-split"></span> <span class="no-display">=</span></span>
+- <span id="tabDoc">[DOCS](https://www.gnu.org/doc/doc.html)</span>
+- <span id="tabMalware">[MALWARE](https://www.gnu.org/proprietary/proprietary.html)</span>
+- <span id="tabHelp">[HELP GNU](https://www.gnu.org/help/help.html)</span>
+- <span id="tabArt">[GNU ART](https://www.gnu.org/graphics/graphics.html)</span>
+- <span id="tabPeople">[GNU'S WHO?](https://www.gnu.org/people/people.html)</span>
+- [SITEMAP](https://www.gnu.org/server/sitemap.html)
+- [SOFTWARE DIRECTORY](http://directory.fsf.org/)
+- [HARDWARE](https://h-node.org/)
 
-GNU Bash
---------
+## GNU Bash
 
-------------------------------------------------------------------------
+---
 
 Bash is the GNU Project's shell—the Bourne Again SHell. This is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and the C shell (csh). It is intended to conform to the IEEE POSIX P1003.2/ISO 9945.2 Shell and Tools standard. It offers functional improvements over sh for both programming and interactive use. In addition, most sh scripts can be run by Bash without modification.
 
 The improvements offered by Bash include:
 
--   command-line editing,
--   unlimited size command history,
--   job control,
--   shell functions and aliases,
--   indexed arrays of unlimited size,
--   integer arithmetic in any base from two to sixty-four.
+- command-line editing,
+- unlimited size command history,
+- job control,
+- shell functions and aliases,
+- indexed arrays of unlimited size,
+- integer arithmetic in any base from two to sixty-four.
 
 The maintainer also has a [Bash page](https://tiswww.case.edu/php/chet/bash/bashtop.html) which includes [Frequently Asked Questions](ftp://ftp.cwru.edu/pub/bash/FAQ).
 
@@ -53,12 +52,12 @@ Stable releases can be found on the main GNU server ([HTTPS](https://ftp.gnu.org
 
 ### Mailing lists
 
--   &lt;<help-bash@gnu.org>&gt; ([web interface](https://lists.gnu.org/mailman/listinfo/help-bash)) is used to ask for help about Bash, Bash programming or Bash shell scripting;
--   &lt;<bug-bash@gnu.org>&gt; ([web interface](https://lists.gnu.org/mailman/listinfo/bug-bash)) is used to report bugs or discuss most aspects of developing Bash.
+- &lt;<help-bash@gnu.org>&gt; ([web interface](https://lists.gnu.org/mailman/listinfo/help-bash)) is used to ask for help about Bash, Bash programming or Bash shell scripting;
+- &lt;<bug-bash@gnu.org>&gt; ([web interface](https://lists.gnu.org/mailman/listinfo/bug-bash)) is used to report bugs or discuss most aspects of developing Bash.
 
 Announcements about Bash and most other GNU software are made on [info-gnu@gnu.org](https://lists.gnu.org/mailman/listinfo/info-gnu).
 
-To subscribe to these or any GNU mailing lists, please send an empty mail with a *Subject:* header of just “subscribe” to the relevant *-request* list. For example, to subscribe yourself to the GNU announcement list, you would send mail to &lt;[info-gnu-request@gnu.org](mailto:info-gnu-request@gnu.org?Subject=subscribe)&gt;. Or you can use the web interface.
+To subscribe to these or any GNU mailing lists, please send an empty mail with a _Subject:_ header of just “subscribe” to the relevant _-request_ list. For example, to subscribe yourself to the GNU announcement list, you would send mail to &lt;[info-gnu-request@gnu.org](mailto:info-gnu-request@gnu.org?Subject=subscribe)&gt;. Or you can use the web interface.
 
 ### Getting involved
 
@@ -77,7 +76,7 @@ Bash is currently maintained by Chet Ramey. Please use the mailing lists for con
 
 Bash is free software; you can redistribute it and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 
-------------------------------------------------------------------------
+---
 
 [BACK TO TOP ▲](#header)
 

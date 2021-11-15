@@ -1,23 +1,16 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-WP Engine Review: Awesome WordPress Hosting For Power Users
-===========================================================
+# WP Engine Review: Awesome WordPress Hosting For Power Users
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
 If your WordPress site has out-grown its current [hosting](https://html.com/web-hosting/) plan, chances are you’re looking for managed WordPress hosting. This type of hosting typically provides fast site load times and high performance.
 
-[WP Engine](https://html.com/go/wpengine/) is one of the best-known providers of managed hosting, supporting personal sites, small businesses, and large companies like Asana, Rogers, and Telus. 
+[WP Engine](https://html.com/go/wpengine/) is one of the best-known providers of managed hosting, supporting personal sites, small businesses, and large companies like Asana, Rogers, and Telus.
 
 In this review, we’ll take a close look at their hosting services including their security, code updates, staging environments, and customer support.
 
@@ -28,17 +21,16 @@ In this review, we’ll take a close look at their hosting services including th
                             https://html.com/wp-content/uploads/screenshot_wpengine.png          1333w
                           " /></figure>Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Pros and Cons of WP Engine](#Pros_and_Cons_of_WP_Engine)
--   [<span class="toc_number toc_depth_1">2</span> Background of WP Engine](#Background_of_WP_Engine)
--   [<span class="toc_number toc_depth_1">3</span> Hosting Types and Plans](#Hosting_Types_and_Plans)
--   [<span class="toc_number toc_depth_1">4</span> Features](#Features)
--   [<span class="toc_number toc_depth_1">5</span> WP Engine vs Bluehost](#WP_Engine_vs_Bluehost)
--   [<span class="toc_number toc_depth_1">6</span> WP Engine Coupon Code](#WP_Engine_Coupon_Code)
--   [<span class="toc_number toc_depth_1">7</span> Summary](#Summary)
--   [<span class="toc_number toc_depth_1">8</span> Your Review of WP Engine](#Your_Review_of_WP_Engine)
+- [<span class="toc_number toc_depth_1">1</span> Pros and Cons of WP Engine](#Pros_and_Cons_of_WP_Engine)
+- [<span class="toc_number toc_depth_1">2</span> Background of WP Engine](#Background_of_WP_Engine)
+- [<span class="toc_number toc_depth_1">3</span> Hosting Types and Plans](#Hosting_Types_and_Plans)
+- [<span class="toc_number toc_depth_1">4</span> Features](#Features)
+- [<span class="toc_number toc_depth_1">5</span> WP Engine vs Bluehost](#WP_Engine_vs_Bluehost)
+- [<span class="toc_number toc_depth_1">6</span> WP Engine Coupon Code](#WP_Engine_Coupon_Code)
+- [<span class="toc_number toc_depth_1">7</span> Summary](#Summary)
+- [<span class="toc_number toc_depth_1">8</span> Your Review of WP Engine](#Your_Review_of_WP_Engine)
 
-<span id="Pros_and_Cons_of_WP_Engine">Pros and Cons of WP Engine</span>
------------------------------------------------------------------------
+## <span id="Pros_and_Cons_of_WP_Engine">Pros and Cons of WP Engine</span>
 
 There is no one perfect host for every business. Since every business has different needs, hosting providers have evolved to offer a wide range of features, capabilities, strengths, and weaknesses.
 
@@ -46,16 +38,16 @@ Here are the most critical pros and cons of WP Engine you need to be aware of be
 
 **Pros**
 
--   WordPress-specific support
--   Fast, stable servers
--   Free CDN, SSL, and themes
--   Automatic site backups
+- WordPress-specific support
+- Fast, stable servers
+- Free CDN, SSL, and themes
+- Automatic site backups
 
 **Cons**
 
--   Relatively expensive
--   No email support
--   Some limits on plugins
+- Relatively expensive
+- No email support
+- Some limits on plugins
 
 ### Pros
 
@@ -67,8 +59,7 @@ They only offer **managed hosting**. This means that WP Engine makes sure your s
 
 One of the main pros of WP Engine can also be a con: if you don’t use WordPress, you are out of luck. In addition, some of the decisions WP Engine makes in the name of security can limit functionality for more experienced developers.
 
-<span id="Background_of_WP_Engine">Background of WP Engine</span>
------------------------------------------------------------------
+## <span id="Background_of_WP_Engine">Background of WP Engine</span>
 
 When choosing a host, you are trusting them with a key aspect of your business. If your site goes down or if your host goes under, your business could be left in a lurch. Here is what you need to know about who [WP Engine](https://html.com/go/wpengine/) is and how they got started.
 
@@ -94,38 +85,37 @@ Choosing a datacenter located in geographic proximity to most of your visitors c
 
 [WP Engine](https://html.com/go/wpengine/) has datacenters located all over the globe through both Google and AWS. These datacenters are in:
 
--   Iowa
--   South Carolina
--   Oregon
--   Belgium
--   Taiwan
--   Tokyo
--   London
--   Frankfurt
--   Sydney
--   Montreal
--   Virginia
--   Ohio
--   Ireland.
+- Iowa
+- South Carolina
+- Oregon
+- Belgium
+- Taiwan
+- Tokyo
+- London
+- Frankfurt
+- Sydney
+- Montreal
+- Virginia
+- Ohio
+- Ireland.
 
 ### Can I Choose My Own Datacenter Location?
 
 You can easily choose the right datacenter for your site. New customers will select their datacenter while signing up for their plan.
 
-<span id="Hosting_Types_and_Plans">Hosting Types and Plans</span>
------------------------------------------------------------------
+## <span id="Hosting_Types_and_Plans">Hosting Types and Plans</span>
 
 Now, let’s take a deep dive into the three main hosting packages [WP Engine](https://html.com/go/wpengine/) offers. Keep in mind, all packages are **managed** hosting plans, so they are a bit pricer than your average budget host.
 
 All hosting plans include the following features.
 
--   Genesis Framework
--   35+ Studio themes
--   24/7 chat support
--   Dev, Stage, Prod environments
--   Transferable sites
--   Global CDN
--   Automated SSL Certificates.
+- Genesis Framework
+- 35+ Studio themes
+- 24/7 chat support
+- Dev, Stage, Prod environments
+- Transferable sites
+- Global CDN
+- Automated SSL Certificates.
 
 There are three main plans to choose from, plus the option of building a custom plan to fit your needs. Here’s a quick overview of the most important hosting plans and the features they provide.
 
@@ -177,17 +167,16 @@ The interface is clean and intuitive. The control panel is well-organized with a
 
 The resource limits for WP Engine vary based on the hosting package you choose. They monitor the number of visitors your site receives:
 
--   **Startup:** 25,000 visits per month
--   **Growth:** 100,000 visits per month
--   **Scale:** 400,000 visits per month
--   **Custom:** Millions+
+- **Startup:** 25,000 visits per month
+- **Growth:** 100,000 visits per month
+- **Scale:** 400,000 visits per month
+- **Custom:** Millions+
 
 ### What Is WP Engine’s Uptime Guarantee?
 
 They promise an **uptime of 99.95%**, minus downtime due to scheduled maintenance.
 
-<span id="Features">Features</span>
------------------------------------
+## <span id="Features">Features</span>
 
 At first, it might not be obvious why it’s good that [WP Engine](https://html.com/go/wpengine/) powers huge sites.
 
@@ -215,9 +204,9 @@ WP Engine hires all of their own support and has over 100 full-time WordPress ex
 
 Support is available **24 hours a day**, every day of the year. You can choose to get support through:
 
--   Live Chat
--   Email
--   Phone (not the lowest plan).
+- Live Chat
+- Email
+- Phone (not the lowest plan).
 
 Video: WP Engine support staff
 
@@ -295,8 +284,7 @@ Simply put, it analyzes all the steps of the page load, then tells you what part
 
 You can set up automated reports so that you can see how any changes to your website affect page load speed over time.
 
-<span id="WP_Engine_vs_Bluehost">WP Engine vs Bluehost</span>
--------------------------------------------------------------
+## <span id="WP_Engine_vs_Bluehost">WP Engine vs Bluehost</span>
 
 [Bluehost](https://html.com/web-hosting/bluehost/) provides a wide range of hosting plans, including three fully managed WordPress hosting packages: Build, Grow, and Scale.
 
@@ -312,12 +300,11 @@ However, Bluehost does also offer several marketing tools, and the slightly more
 
 If you need a few more WordPress hosting options to consider, check out these hosts.
 
--   **[SiteGround](https://html.com/web-hosting/siteground/):** Great choice if you want WordPress-specific hosting, but can’t swing WP Engine’s prices. SiteGround packages offer fewer features, but start at $3.95 a month.
--   **[WordPress.com](https://html.com/web-hosting/wordpress/):** If you need a bit less, but still want the support of WordPress experts, this is the way to go. They offer a total of five plans starting at just $3 a month
--   **Flywheel:** They offer cheaper plans (starting at $14 per month), but still provide very robust managed WP hosting plans. They also do not charge overage fees as WP Engine does.
+- **[SiteGround](https://html.com/web-hosting/siteground/):** Great choice if you want WordPress-specific hosting, but can’t swing WP Engine’s prices. SiteGround packages offer fewer features, but start at $3.95 a month.
+- **[WordPress.com](https://html.com/web-hosting/wordpress/):** If you need a bit less, but still want the support of WordPress experts, this is the way to go. They offer a total of five plans starting at just $3 a month
+- **Flywheel:** They offer cheaper plans (starting at $14 per month), but still provide very robust managed WP hosting plans. They also do not charge overage fees as WP Engine does.
 
-<span id="WP_Engine_Coupon_Code">WP Engine Coupon Code</span>
--------------------------------------------------------------
+## <span id="WP_Engine_Coupon_Code">WP Engine Coupon Code</span>
 
 Considering giving WP Engine a try for your website? You can use our code and save 20% off your hosting package:
 
@@ -325,8 +312,7 @@ Considering giving WP Engine a try for your website? You can use our code and sa
 
 [Save 20% off](https://html.com/go/wpengine/) WP Engine hosting.
 
-<span id="Summary">Summary</span>
----------------------------------
+## <span id="Summary">Summary</span>
 
 Overall, [WP Engine](https://html.com/go/wpengine/) is the leading host when it comes to WordPress specifically. They provide professional-level performance and support.
 
@@ -334,16 +320,15 @@ That being said, it’s relatively expensive, which is why most sites hosted on 
 
 If you’re building a WordPress site that could benefit from a high-performance host, visit [WP Engine](https://html.com/go/wpengine/) now.
 
-<span id="Your_Review_of_WP_Engine">Your Review of WP Engine</span>
--------------------------------------------------------------------
+## <span id="Your_Review_of_WP_Engine">Your Review of WP Engine</span>
 
 Are you a current or past customer of WP Engine? Would you recommend them? Please leave your comments below and let our visitors know what you think of WP Engine’s speed, features and customer service.
 
 <a href="https://html.com/go/wpengine/" class="button-cta">Visit WP Engine Now</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing author: Danielle Antosz. Contributing editor: [Frank Moraes](https://html.com/author/frank/).*</span>
+<span class="small">_Contributing author: Danielle Antosz. Contributing editor: [Frank Moraes](https://html.com/author/frank/)._</span>
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
@@ -357,11 +342,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

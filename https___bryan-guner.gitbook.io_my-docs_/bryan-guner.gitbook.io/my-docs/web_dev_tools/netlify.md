@@ -242,7 +242,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -296,7 +296,7 @@ Netlify CMS
 
 Git Gateway
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -336,7 +336,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -364,7 +364,7 @@ Powered By <span class="css-901oao css-16my406 r-b88u0q">GitBook</span>
 
 Netlify
 
-### 
+###
 
 <span data-key="7143f7759ef94ff8aeb01e4dfa3c097e"><span data-offset-key="7143f7759ef94ff8aeb01e4dfa3c097e:0">Netlify CMS</span></span>
 
@@ -372,7 +372,7 @@ Netlify
 
 <span data-key="90bbe1b9ad7e44ab8df6ff501deab4d6"><span data-offset-key="90bbe1b9ad7e44ab8df6ff501deab4d6:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/netlify/netlify-cms" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="655bf5a850b946c09b9e9d7752924fde" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="3ffd5022bc974e679be8fe97e7f4b582"><span data-offset-key="3ffd5022bc974e679be8fe97e7f4b582:0">Contribute on GitHub</span></span></span></a><span data-key="7fecdc4c138e4b5492890de007825612"><span data-offset-key="7fecdc4c138e4b5492890de007825612:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="0e95e9762ed0454daa043dc4ff2eb31c"><span data-offset-key="0e95e9762ed0454daa043dc4ff2eb31c:0">Netlify Playground</span></span>
 
@@ -380,7 +380,7 @@ Netlify
 
 <span data-key="2c266110876541ca9eebf9bb79681b74"><span data-offset-key="2c266110876541ca9eebf9bb79681b74:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/netlify/netlify-playground" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="35cb262cf0f549db9e4f7397124844de" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="382728b0f0f94797aa501564b9a2874a"><span data-offset-key="382728b0f0f94797aa501564b9a2874a:0">Contribute on GitHub</span></span></span></a><span data-key="499f27a39858412098ea244100f69862"><span data-offset-key="499f27a39858412098ea244100f69862:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="8905f7445cc4401db1154c790a5199e4"><span data-offset-key="8905f7445cc4401db1154c790a5199e4:0">GoTell</span></span>
 
@@ -388,7 +388,7 @@ Netlify
 
 <span data-key="8c5210cfacdd483d88a23f918c201b9e"><span data-offset-key="8c5210cfacdd483d88a23f918c201b9e:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/netlify/gotell" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="bffb3131634f4d718d34607ec0255630" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="27b15ca5bbc542299a14f64933e3af61"><span data-offset-key="27b15ca5bbc542299a14f64933e3af61:0">Contribute on GitHub</span></span></span></a><span data-key="3048f3dbdba044ebbfed8d9598a2ab90"><span data-offset-key="3048f3dbdba044ebbfed8d9598a2ab90:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="4b02542390414c58b5ddff5a7564c11c"><span data-offset-key="4b02542390414c58b5ddff5a7564c11c:0">GoTrue</span></span>
 
@@ -396,7 +396,7 @@ Netlify
 
 <span data-key="6e092b57163746b499bef0067057ec54"><span data-offset-key="6e092b57163746b499bef0067057ec54:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/netlify/gotrue" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="dc09644db09944768b92005c319a1d44" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="45614dd05ab94991a95f59600eee04af"><span data-offset-key="45614dd05ab94991a95f59600eee04af:0">Contribute on GitHub</span></span></span></a><span data-key="56faf2e49a7046ffa38c753645fd4095"><span data-offset-key="56faf2e49a7046ffa38c753645fd4095:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="dea41dc59bed4bdebe9fe156ffe88c2a"><span data-offset-key="dea41dc59bed4bdebe9fe156ffe88c2a:0">GoJoin</span></span>
 
@@ -404,7 +404,7 @@ Netlify
 
 <span data-key="5e5a8a25bffc4e1b93480ea404b9ab95"><span data-offset-key="5e5a8a25bffc4e1b93480ea404b9ab95:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/netlify/gojoin" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e029d215e307495893915767fc5ee4d1" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="942f35ef807a49738df792a156c27360"><span data-offset-key="942f35ef807a49738df792a156c27360:0">Contribute on GitHub</span></span></span></a><span data-key="549b5d584695482b8d0de139d2501b54"><span data-offset-key="549b5d584695482b8d0de139d2501b54:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="a31790281ff748458adba5439f451c53"><span data-offset-key="a31790281ff748458adba5439f451c53:0">GoCommerce</span></span>
 
@@ -412,7 +412,7 @@ Netlify
 
 <span data-key="2bd14762ee39471d841f08627f47f57d"><span data-offset-key="2bd14762ee39471d841f08627f47f57d:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/netlify/gocommerce" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3628eae00d0c4a3e9a01979eefce134e" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="d09e187589b546bea454990163668959"><span data-offset-key="d09e187589b546bea454990163668959:0">Contribute on GitHub</span></span></span></a><span data-key="1e5b88ca4907400ca8b47e635dc1f4ad"><span data-offset-key="1e5b88ca4907400ca8b47e635dc1f4ad:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="2ee34b8735aa47938c61a9f1626cb242"><span data-offset-key="2ee34b8735aa47938c61a9f1626cb242:0">Gotiator</span></span>
 
@@ -424,7 +424,7 @@ Netlify
 
 <span data-key="a8c9fa3c8a32458a894d9ebb97be84b8"><span data-offset-key="a8c9fa3c8a32458a894d9ebb97be84b8:0">Many open source projects have found their home on Netlify.</span></span>
 
-### 
+###
 
 <span data-key="bbfd642307124d788acd7c83c7ac7af6"><span data-offset-key="bbfd642307124d788acd7c83c7ac7af6:0">Lodash</span></span>
 
@@ -432,7 +432,7 @@ Netlify
 
 <span data-key="06f7bbe62d684037829cc53f081a3c7c"><span data-offset-key="06f7bbe62d684037829cc53f081a3c7c:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://lodash.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f7c424eff0d34c9b99345ce1374318b3" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="56b751530b1d4f61b3fb426726c49580"><span data-offset-key="56b751530b1d4f61b3fb426726c49580:0">Learn more</span></span></span></a><span data-key="173c17a8dfd545e6b3d91d4b4ab2497a"><span data-offset-key="173c17a8dfd545e6b3d91d4b4ab2497a:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="349d77f8d77f40b1a13fd87f95c4987e"><span data-offset-key="349d77f8d77f40b1a13fd87f95c4987e:0">Yarn</span></span>
 
@@ -440,7 +440,7 @@ Netlify
 
 <span data-key="cc84f8de246641228fdd7efffb0307a8"><span data-offset-key="cc84f8de246641228fdd7efffb0307a8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://yarnpkg.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="aa9e6aa0da13499ca5865fbaa1f864ce" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="6d2749b1de8742e59644d7da37094447"><span data-offset-key="6d2749b1de8742e59644d7da37094447:0">Learn more</span></span></span></a><span data-key="62086879273d4f4fa6f96ee9ab097a3d"><span data-offset-key="62086879273d4f4fa6f96ee9ab097a3d:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="2c26f5236f534b338636077480cc8495"><span data-offset-key="2c26f5236f534b338636077480cc8495:0">Serverless</span></span>
 
@@ -448,7 +448,7 @@ Netlify
 
 <span data-key="68ac19f7641c4ead820ff0b2177a76af"><span data-offset-key="68ac19f7641c4ead820ff0b2177a76af:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://serverless.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="908237d3cc1f49c08e3fc4fec196c96a" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="c63546bc35184c6cad3fc89f42fbaabf"><span data-offset-key="c63546bc35184c6cad3fc89f42fbaabf:0">Learn more</span></span></span></a><span data-key="fd23ee60820f40eaa354625e0b459aa8"><span data-offset-key="fd23ee60820f40eaa354625e0b459aa8:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="e88aa06a49334448a7757b010a795d1e"><span data-offset-key="e88aa06a49334448a7757b010a795d1e:0">Framer.js</span></span>
 
@@ -456,7 +456,7 @@ Netlify
 
 <span data-key="b37e6927526b49b68adbdcba16c4536c"><span data-offset-key="b37e6927526b49b68adbdcba16c4536c:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://framerjs.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="de05ba6a33b6411b89025c12e0f6b836" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="b44d0e6cab7c4f7dafdfa154df072581"><span data-offset-key="b44d0e6cab7c4f7dafdfa154df072581:0">Learn more</span></span></span></a><span data-key="bcca643ee2aa4bdf9e7f8c74d3fb2626"><span data-offset-key="bcca643ee2aa4bdf9e7f8c74d3fb2626:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="31acab14fe374ac6844bb0b65d25124b"><span data-offset-key="31acab14fe374ac6844bb0b65d25124b:0">Kubernetes</span></span>
 
@@ -464,7 +464,7 @@ Netlify
 
 <span data-key="70aa2c8af0e84d4289b582b03b9a777b"><span data-offset-key="70aa2c8af0e84d4289b582b03b9a777b:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://kubernetes.io/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f5eaca9acef14d5d9652b1b62264df00" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="71813de7edcb46b9b2319f09cbd1fea0"><span data-offset-key="71813de7edcb46b9b2319f09cbd1fea0:0">Learn more</span></span></span></a><span data-key="bacb1f8735ea43a2ba2bc5f104c1de95"><span data-offset-key="bacb1f8735ea43a2ba2bc5f104c1de95:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="dc6986badc3a44249b4a5ac8cf19de62"><span data-offset-key="dc6986badc3a44249b4a5ac8cf19de62:0">Your open source site on Netlify</span></span>
 
@@ -476,7 +476,7 @@ Netlify
 
 <span data-key="a9a575c148354bc5a9e9182b5dc23b67"><span data-offset-key="a9a575c148354bc5a9e9182b5dc23b67:0">Netlify frequently contributes to many different projects in our space, in an effort to push the category forward.</span></span>
 
-### 
+###
 
 <span data-key="5faa33da45284c9aa43b8d38bfd53f18"><span data-offset-key="5faa33da45284c9aa43b8d38bfd53f18:0">Jekyll</span></span>
 
@@ -484,7 +484,7 @@ Netlify
 
 <span data-key="d5e5d7f2c4474475ae9455f46fe820c6"><span data-offset-key="d5e5d7f2c4474475ae9455f46fe820c6:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/jekyll/jekyll" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b772a3bd8cd4456aa4ec989f7015273c" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="a1e022d480684397b921b3dcf715ebf4"><span data-offset-key="a1e022d480684397b921b3dcf715ebf4:0">Contribute on GitHub</span></span></span></a><span data-key="60300c0e55224bfbb1f6abb7783df4c9"><span data-offset-key="60300c0e55224bfbb1f6abb7783df4c9:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="fe17ba2e9cb94c8db62c8d2a41eaddf2"><span data-offset-key="fe17ba2e9cb94c8db62c8d2a41eaddf2:0">Roots</span></span>
 
@@ -492,7 +492,7 @@ Netlify
 
 <span data-key="94ac7d54a0184be886cee32d9885c624"><span data-offset-key="94ac7d54a0184be886cee32d9885c624:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/jescalan/roots" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5492dfdec49348a6bc65d7f57f887460" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="592c364e3ed84b228ae9e21525a30f6d"><span data-offset-key="592c364e3ed84b228ae9e21525a30f6d:0">Contribute on GitHub</span></span></span></a><span data-key="d3931503e6494c899e7eb4cb9a85cfdb"><span data-offset-key="d3931503e6494c899e7eb4cb9a85cfdb:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="844e207afc77419fa3ec27eb3d6ba281"><span data-offset-key="844e207afc77419fa3ec27eb3d6ba281:0">Hugo</span></span>
 
@@ -500,7 +500,7 @@ Netlify
 
 <span data-key="e2f5fe144b2040e6a5197db77c54fc42"><span data-offset-key="e2f5fe144b2040e6a5197db77c54fc42:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/spf13/hugo" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="38f8cb2d749d41bcb4885d2e9a9e3dc1" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="c0dccb2e884c40bdbd32da0188b1575c"><span data-offset-key="c0dccb2e884c40bdbd32da0188b1575c:0">Contribute on GitHub</span></span></span></a><span data-key="91bc57e0fc964540b774bf783cc5e481"><span data-offset-key="91bc57e0fc964540b774bf783cc5e481:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="72ac49bd4ca74f27a95288234057bb55"><span data-offset-key="72ac49bd4ca74f27a95288234057bb55:0">Apache Traffic Server</span></span>
 
@@ -508,7 +508,7 @@ Netlify
 
 <span data-key="0a786f32f17842c7913fab4b47b3c8f3"><span data-offset-key="0a786f32f17842c7913fab4b47b3c8f3:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/apache/trafficserver" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="683bfa806aef495abf4cb0b0d1ad565e" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="a150022d72c2421c9d6765224aa248e1"><span data-offset-key="a150022d72c2421c9d6765224aa248e1:0">Contribute on GitHub</span></span></span></a><span data-key="69cd53b505e14e8db640e08f7f259dcb"><span data-offset-key="69cd53b505e14e8db640e08f7f259dcb:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="c5b0a62b6cdf44dbb72ee9a097723189"><span data-offset-key="c5b0a62b6cdf44dbb72ee9a097723189:0">Middleman</span></span>
 
@@ -516,7 +516,7 @@ Netlify
 
 <span data-key="b2359d6c78c248079dfefab5dea6edff"><span data-offset-key="b2359d6c78c248079dfefab5dea6edff:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/middleman/middleman" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d6244bb5d3d3405c824ec203f485fd53" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="4f899bfcd07741729fe55802f8b96936"><span data-offset-key="4f899bfcd07741729fe55802f8b96936:0">Contribute on GitHub</span></span></span></a><span data-key="31f6e4155228426f8db780a9bf250150"><span data-offset-key="31f6e4155228426f8db780a9bf250150:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="d476a5252f784103b64eab6600de440b"><span data-offset-key="d476a5252f784103b64eab6600de440b:0">Docker</span></span>
 
@@ -524,7 +524,7 @@ Netlify
 
 <span data-key="da4cd88b38ac450886f63778517152a8"><span data-offset-key="da4cd88b38ac450886f63778517152a8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/docker/docker" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fe8c5b9edda74cb6916c3dbe859fd2ef" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="548d778bd141427595e7ea270b3784f0"><span data-offset-key="548d778bd141427595e7ea270b3784f0:0">Contribute on GitHub</span></span></span></a><span data-key="e7ec63c9c1b843b99861d8bc3d7d72be"><span data-offset-key="e7ec63c9c1b843b99861d8bc3d7d72be:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="9e0636ebe8714decbe88303e55729dca"><span data-offset-key="9e0636ebe8714decbe88303e55729dca:0">NATS</span></span>
 
@@ -532,7 +532,7 @@ Netlify
 
 <span data-key="222572d139e647db8274cd12db1c4869"><span data-offset-key="222572d139e647db8274cd12db1c4869:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/nats-io/nats" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f5d0abf291ee430689043dcc34f6d6ab" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="a077e386425c4495b001e0ed43602bdd"><span data-offset-key="a077e386425c4495b001e0ed43602bdd:0">Contribute on GitHub</span></span></span></a><span data-key="354f4ca81d9448f39a6ec279601e09b7"><span data-offset-key="354f4ca81d9448f39a6ec279601e09b7:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="cde5a3179490461c842791264d750dd6"><span data-offset-key="cde5a3179490461c842791264d750dd6:0">Git2Go</span></span>
 
@@ -540,7 +540,7 @@ Netlify
 
 <span data-key="35165ec0efc34f3387d374cdafbc9d4f"><span data-offset-key="35165ec0efc34f3387d374cdafbc9d4f:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/libgit2/git2go" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="10744dbcb6f04194ac89e346a7bb9ca5" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="117d193aa6014145b70dea6a7e07bd62"><span data-offset-key="117d193aa6014145b70dea6a7e07bd62:0">Contribute on GitHub</span></span></span></a><span data-key="865a01bb97b7406896a0ab229f9a6801"><span data-offset-key="865a01bb97b7406896a0ab229f9a6801:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="f3c049a4f3894ba59e614b7aaf524076"><span data-offset-key="f3c049a4f3894ba59e614b7aaf524076:0">Octokit</span></span>
 
@@ -548,7 +548,7 @@ Netlify
 
 <span data-key="a49aa99d27ea4da2ba5d17280722e881"><span data-offset-key="a49aa99d27ea4da2ba5d17280722e881:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/octokit/octokit.rb" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="eeaaa97bee4349228f3fbc7deed7a03d" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="c773c348debb46b8814d2ac6ada0d1fb"><span data-offset-key="c773c348debb46b8814d2ac6ada0d1fb:0">Contribute on GitHub</span></span></span></a><span data-key="0423ed599da64f3e9f382cdbe59bbef0"><span data-offset-key="0423ed599da64f3e9f382cdbe59bbef0:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="7f977dbed0f7449f9e097ab346b976fd"><span data-offset-key="7f977dbed0f7449f9e097ab346b976fd:0">Google Cloud Client Library for Ruby</span></span>
 
@@ -556,7 +556,7 @@ Netlify
 
 <span data-key="9df7774e650140fdafa66fdb621199cf"><span data-offset-key="9df7774e650140fdafa66fdb621199cf:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/GoogleCloudPlatform/google-cloud-ruby" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2038414d4bfa439c9c292e4e0ce162ac" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="60c05f4cdbf34a10b6ef68629973f4f2"><span data-offset-key="60c05f4cdbf34a10b6ef68629973f4f2:0">Contribute on GitHub</span></span></span></a><span data-key="a5038919a7ed41fe87afdd25cf8e0890"><span data-offset-key="a5038919a7ed41fe87afdd25cf8e0890:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="b2723b1ddacf4eaf95f7e6cf0d490bae"><span data-offset-key="b2723b1ddacf4eaf95f7e6cf0d490bae:0">Boulder</span></span>
 
@@ -564,7 +564,7 @@ Netlify
 
 <span data-key="fc77e7f9a66b48c6859f320067e44209"><span data-offset-key="fc77e7f9a66b48c6859f320067e44209:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/letsencrypt/boulder" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="996bf8e0db4d472da47bc0f0f8f45e43" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="88005d6d83654ac7a28b42b2d47c9d9d"><span data-offset-key="88005d6d83654ac7a28b42b2d47c9d9d:0">Contribute on GitHub</span></span></span></a><span data-key="d93e471d2a1745d1a915bd8db7e7791c"><span data-offset-key="d93e471d2a1745d1a915bd8db7e7791c:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="d40dde62503f407aa09d11bf23a75931"><span data-offset-key="d40dde62503f407aa09d11bf23a75931:0">Lego</span></span>
 
@@ -600,21 +600,15 @@ Netlify
 
 <span data-key="062ed61ad32742a0a459470eaa1fd5ef"><span data-offset-key="062ed61ad32742a0a459470eaa1fd5ef:0">You can find a deploy log on the detail page of every deploy. The log provides content such as:</span></span>
 
--   
+- <span data-key="2436e5747cc148dbb2ab558ca5f1a6ee"><span data-offset-key="2436e5747cc148dbb2ab558ca5f1a6ee:0">details about your site’s build image, dependency caching, and Netlify Build process, including all of the standard output which comes from running your build</span></span>
 
-    <span data-key="2436e5747cc148dbb2ab558ca5f1a6ee"><span data-offset-key="2436e5747cc148dbb2ab558ca5f1a6ee:0">details about your site’s build image, dependency caching, and Netlify Build process, including all of the standard output which comes from running your build</span></span>
+- <span data-key="9f15c6020ffe4b508c533c87e16356a4"><span data-offset-key="9f15c6020ffe4b508c533c87e16356a4:0">information about any Build Plugins your site may have installed and their execution</span></span>
 
--   
-
-    <span data-key="9f15c6020ffe4b508c533c87e16356a4"><span data-offset-key="9f15c6020ffe4b508c533c87e16356a4:0">information about any Build Plugins your site may have installed and their execution</span></span>
-
--   
-
-    <span data-key="86d10103b1d5413f9d5fbdf721506e98"><span data-offset-key="86d10103b1d5413f9d5fbdf721506e98:0">details about the success, failure, or cancellation of the deploy</span></span>
+- <span data-key="86d10103b1d5413f9d5fbdf721506e98"><span data-offset-key="86d10103b1d5413f9d5fbdf721506e98:0">details about the success, failure, or cancellation of the deploy</span></span>
 
 <span data-key="118691a2ccdf46c68b335fda28280b18"><span data-offset-key="118691a2ccdf46c68b335fda28280b18:0">For any successful deploy, highlights from the deploy log will be included in the </span></span><a href="https://docs.netlify.com/site-deploys/overview/#deploy-summary" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9d16c2ef793748799c2423f8337a7735" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="fa1fd598b31b456abc35ed1c53c37a87"><span data-offset-key="fa1fd598b31b456abc35ed1c53c37a87:0">deploy summary</span></span></span></a><span data-key="1d0b067183ac4780a00e7ca7ff31fc07"><span data-offset-key="1d0b067183ac4780a00e7ca7ff31fc07:0">. For failed deploys, visit our Forums for a verified Support Guide on </span></span><a href="https://answers.netlify.com/t/common-issue-using-build-logs-to-debug-your-build-process/3067" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e3bb2a4fdb304b52944a04a9579608ef" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="6b5fce59ff454a73aa7271d545c50c72"><span data-offset-key="6b5fce59ff454a73aa7271d545c50c72:0">using the log to debug your build process</span></span></span></a><span data-key="060defe0d7a14f87aa18964068e9d43a"><span data-offset-key="060defe0d7a14f87aa18964068e9d43a:0">.</span></span>
 
-### 
+###
 
 <span data-key="41bf1d8652a140a2bdb47bf0c26092ab"><span data-offset-key="41bf1d8652a140a2bdb47bf0c26092ab:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/overview/#share-log-content" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a540f858c3ec4d87a627b092bc3bf7a6" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="ab2eb7a024ca4e59b1007b25918f44c3"><span data-offset-key="ab2eb7a024ca4e59b1007b25918f44c3:0">#</span></span></span></a><span data-key="bfb051dd4a4d47c2bfe550711b17d476"><span data-offset-key="bfb051dd4a4d47c2bfe550711b17d476:0">Share log content</span></span>
 
@@ -622,21 +616,15 @@ Netlify
 
 <span data-key="9667c8b8dafe48d18d62abea8843270c"><span data-offset-key="9667c8b8dafe48d18d62abea8843270c:0">To share deploy log content, you can copy the entire log by selecting </span>**Copy to clipboard**<span data-offset-key="9667c8b8dafe48d18d62abea8843270c:2"> (the clipboard icon). You can also generate a shareable URL for a single log line or a range of lines.</span></span>
 
--   
+- <span data-key="a64b2a36a05c4243a71644892f497e90"><span data-offset-key="a64b2a36a05c4243a71644892f497e90:0">For a single log line, select the line number to highlight the line.</span></span>
 
-    <span data-key="a64b2a36a05c4243a71644892f497e90"><span data-offset-key="a64b2a36a05c4243a71644892f497e90:0">For a single log line, select the line number to highlight the line.</span></span>
+- <span data-key="44ce1131dece46fd8854292943df0c1b"><span data-offset-key="44ce1131dece46fd8854292943df0c1b:0">For a range of log lines, select the line number for the first log line in the range, then press shift and select the final log line number to highlight the full range.</span></span>
 
--   
+  <span data-key="958e4fda2c274538915530c7ddf2dbab"><span data-offset-key="958e4fda2c274538915530c7ddf2dbab:0"><span data-slate-zero-width="z">​</span></span></span><span data-slate-void="true" data-key="cbd57935c9ac4e23828ae6947bf2c9c4"></span>
 
-    <span data-key="44ce1131dece46fd8854292943df0c1b"><span data-offset-key="44ce1131dece46fd8854292943df0c1b:0">For a range of log lines, select the line number for the first log line in the range, then press shift and select the final log line number to highlight the full range.</span></span>
+  <span data-key="f403384fc65d43d89b70d4a6d873315d"><span data-offset-key="f403384fc65d43d89b70d4a6d873315d:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="958e4fda2c274538915530c7ddf2dbab"><span data-offset-key="958e4fda2c274538915530c7ddf2dbab:0"><span data-slate-zero-width="z">​</span></span></span><span data-slate-void="true" data-key="cbd57935c9ac4e23828ae6947bf2c9c4"></span>
-
-    <span data-key="f403384fc65d43d89b70d4a6d873315d"><span data-offset-key="f403384fc65d43d89b70d4a6d873315d:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="eb4bc44640a64a9695bb30cb9a133e77"><span data-offset-key="eb4bc44640a64a9695bb30cb9a133e77:0">If needed, press esc to deselect log lines.</span></span>
+- <span data-key="eb4bc44640a64a9695bb30cb9a133e77"><span data-offset-key="eb4bc44640a64a9695bb30cb9a133e77:0">If needed, press esc to deselect log lines.</span></span>
 
 <span data-key="108a5653dcab47cf8737b4bc3166a06f"><span data-offset-key="108a5653dcab47cf8737b4bc3166a06f:0">Once you’ve selected a line or range, copy the resulting URL from the address bar of your web browser. The URL syntax should resemble this: </span>`https://app.netlify.com/sites/SITE_NAME/deploys/DEPLOY_ID#L5-L10`</span>
 
@@ -644,31 +632,21 @@ Netlify
 
 <span data-key="c0e67b528f624c01b5e64724cd4a2e95"><span data-offset-key="c0e67b528f624c01b5e64724cd4a2e95:0">Netlify lets you control which branches in your Git repository you want to deploy.</span></span>
 
-### 
+###
 
 <span data-key="991c21d4bc3c40299329cca2c9fc4c30"><span data-offset-key="991c21d4bc3c40299329cca2c9fc4c30:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/overview/#definitions" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="05d483f8b1864f00b16a5a1c859204b7" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="b9b862af392b4a578b03478d861c6109"><span data-offset-key="b9b862af392b4a578b03478d861c6109:0">#</span></span></span></a><span data-key="5de3095a4ef4486591c5c8dd4a431ff3"><span data-offset-key="5de3095a4ef4486591c5c8dd4a431ff3:0">Definitions</span></span>
 
--   
+- <span data-key="df7165e92a3e4f3393df2ad1de59804a">**Production branch**<span data-offset-key="df7165e92a3e4f3393df2ad1de59804a:1">: the Git branch that Netlify uses to build and deploy changes to your site’s main URL. For example, </span>`www.yourcustomdomain.com`<span data-offset-key="df7165e92a3e4f3393df2ad1de59804a:3"> and </span>`yoursitename.netlify.app`<span data-offset-key="df7165e92a3e4f3393df2ad1de59804a:5">.</span></span>
 
-    <span data-key="df7165e92a3e4f3393df2ad1de59804a">**Production branch**<span data-offset-key="df7165e92a3e4f3393df2ad1de59804a:1">: the Git branch that Netlify uses to build and deploy changes to your site’s main URL. For example, </span>`www.yourcustomdomain.com`<span data-offset-key="df7165e92a3e4f3393df2ad1de59804a:3"> and </span>`yoursitename.netlify.app`<span data-offset-key="df7165e92a3e4f3393df2ad1de59804a:5">.</span></span>
+- <span data-key="55e9e616e9674fa5b1012f8f35d50391">**Production deploy**<span data-offset-key="55e9e616e9674fa5b1012f8f35d50391:1">: a deploy from the production branch. If auto publishing is enabled, each new production deploy will update what is published at your site’s main URL.</span></span>
 
--   
+- <span data-key="935131ad7f8b4feb8a913370a4bcca26">**Branch deploy**<span data-offset-key="935131ad7f8b4feb8a913370a4bcca26:1">: a deploy generated from a branch that is not your production branch. Branch deploys are published to a URL which includes the branch name as a prefix. For example, if a branch is called </span>`staging`<span data-offset-key="935131ad7f8b4feb8a913370a4bcca26:3">, it will deploy to </span>`staging--yoursitename.netlify.app`<span data-offset-key="935131ad7f8b4feb8a913370a4bcca26:5">. If you use Netlify DNS, you can enable branch subdomains, so the </span>`staging`<span data-offset-key="935131ad7f8b4feb8a913370a4bcca26:7"> branch example would deploy to </span>`staging.yourcustomdomain.com`<span data-offset-key="935131ad7f8b4feb8a913370a4bcca26:9">.</span></span>
 
-    <span data-key="55e9e616e9674fa5b1012f8f35d50391">**Production deploy**<span data-offset-key="55e9e616e9674fa5b1012f8f35d50391:1">: a deploy from the production branch. If auto publishing is enabled, each new production deploy will update what is published at your site’s main URL.</span></span>
+- <span data-key="c9af9e4065524819b9dcdcd277f6aabb">**Deploy Preview**<span data-offset-key="c9af9e4065524819b9dcdcd277f6aabb:1">: a deploy generated from a pull request or merge request, building the site as it would be if the proposed changes were merged. Deploy Previews are published to a URL which has the prefix </span>`deploy-preview`<span data-offset-key="c9af9e4065524819b9dcdcd277f6aabb:3"> followed by the identifier number of the pull request or merge request. For example, a Deploy Preview for pull/merge request \#42 will deploy to </span>`deploy-preview-42--yoursitename.netlify.app`<span data-offset-key="c9af9e4065524819b9dcdcd277f6aabb:5">. For more information, visit the docs on </span></span><a href="https://docs.netlify.com/site-deploys/deploy-previews/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2d6bd165e481486e968d854ee899f66e" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="d87cd65e691f4d7f92428500ec3fcc20"><span data-offset-key="d87cd65e691f4d7f92428500ec3fcc20:0">Deploy Previews</span></span></span></a><span data-key="ec23198dc6344d9c9d9610845701dec4"><span data-offset-key="ec23198dc6344d9c9d9610845701dec4:0">.</span></span>
 
--   
+- <span data-key="059fce2db335477482711b083962a06a">**Permalink**<span data-offset-key="059fce2db335477482711b083962a06a:1">: every successful build of your site also creates a deploy permalink that starts with the deploy ID number. For example: </span>`1234abcd12acde000111cdef--yoursitename.netlify.app`<span data-offset-key="059fce2db335477482711b083962a06a:3">. The web content at this URL never changes. This is in contrast to production deploys, branch deploys, and Deploy Previews where the web content is updated when you merge or push new commits.</span></span>
 
-    <span data-key="935131ad7f8b4feb8a913370a4bcca26">**Branch deploy**<span data-offset-key="935131ad7f8b4feb8a913370a4bcca26:1">: a deploy generated from a branch that is not your production branch. Branch deploys are published to a URL which includes the branch name as a prefix. For example, if a branch is called </span>`staging`<span data-offset-key="935131ad7f8b4feb8a913370a4bcca26:3">, it will deploy to </span>`staging--yoursitename.netlify.app`<span data-offset-key="935131ad7f8b4feb8a913370a4bcca26:5">. If you use Netlify DNS, you can enable branch subdomains, so the </span>`staging`<span data-offset-key="935131ad7f8b4feb8a913370a4bcca26:7"> branch example would deploy to </span>`staging.yourcustomdomain.com`<span data-offset-key="935131ad7f8b4feb8a913370a4bcca26:9">.</span></span>
-
--   
-
-    <span data-key="c9af9e4065524819b9dcdcd277f6aabb">**Deploy Preview**<span data-offset-key="c9af9e4065524819b9dcdcd277f6aabb:1">: a deploy generated from a pull request or merge request, building the site as it would be if the proposed changes were merged. Deploy Previews are published to a URL which has the prefix </span>`deploy-preview`<span data-offset-key="c9af9e4065524819b9dcdcd277f6aabb:3"> followed by the identifier number of the pull request or merge request. For example, a Deploy Preview for pull/merge request \#42 will deploy to </span>`deploy-preview-42--yoursitename.netlify.app`<span data-offset-key="c9af9e4065524819b9dcdcd277f6aabb:5">. For more information, visit the docs on </span></span><a href="https://docs.netlify.com/site-deploys/deploy-previews/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2d6bd165e481486e968d854ee899f66e" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="d87cd65e691f4d7f92428500ec3fcc20"><span data-offset-key="d87cd65e691f4d7f92428500ec3fcc20:0">Deploy Previews</span></span></span></a><span data-key="ec23198dc6344d9c9d9610845701dec4"><span data-offset-key="ec23198dc6344d9c9d9610845701dec4:0">.</span></span>
-
--   
-
-    <span data-key="059fce2db335477482711b083962a06a">**Permalink**<span data-offset-key="059fce2db335477482711b083962a06a:1">: every successful build of your site also creates a deploy permalink that starts with the deploy ID number. For example: </span>`1234abcd12acde000111cdef--yoursitename.netlify.app`<span data-offset-key="059fce2db335477482711b083962a06a:3">. The web content at this URL never changes. This is in contrast to production deploys, branch deploys, and Deploy Previews where the web content is updated when you merge or push new commits.</span></span>
-
-### 
+###
 
 <span data-key="b16e190d266a463fa68988d9516ba8d4"><span data-offset-key="b16e190d266a463fa68988d9516ba8d4:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/overview/#branch-deploy-controls" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="83a7f8a17f6d4563808ee5f9ced31a2e" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="df5a24ee5bf746b485f9b3410425e9b7"><span data-offset-key="df5a24ee5bf746b485f9b3410425e9b7:0">#</span></span></span></a><span data-key="4758143f3dc24e1b858cb3829183356b"><span data-offset-key="4758143f3dc24e1b858cb3829183356b:0">Branch deploy controls</span></span>
 
@@ -682,7 +660,7 @@ Netlify
 
 <span data-key="573f52530f634748ad29db6ad9850bd5"><span data-offset-key="573f52530f634748ad29db6ad9850bd5:0">Once you select some or all of your branches for branch deploys, Netlify will start watching those branches for new commits and pull/merge requests. As soon as you start pushing changes to those branches, you’ll find new deploys for those branches.</span></span>
 
-### 
+###
 
 <span data-key="ac74f8ef303b4ceeafbc4b03751075a8"><span data-offset-key="ac74f8ef303b4ceeafbc4b03751075a8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/overview/#deploy-preview-controls" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7bdf4a22660045b18ee6368a5a77f9e3" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="1379effa71484a2085d8d3338e78355c"><span data-offset-key="1379effa71484a2085d8d3338e78355c:0">#</span></span></span></a><span data-key="dd1a0acfa3fd41d1b1ca846076803383"><span data-offset-key="dd1a0acfa3fd41d1b1ca846076803383:0">Deploy Preview controls</span></span>
 
@@ -690,7 +668,7 @@ Netlify
 
 <span data-key="255f558820af4231a0d1c200d68e7ed3"><span data-offset-key="255f558820af4231a0d1c200d68e7ed3:0">You can control in the UI whether or not Deploy Previews are generated for pull/merge requests. You can also enable or disable the Netlify Drawer. To change these settings, select your site and go to </span>**Site settings &gt; Build & deploy &gt; Continuous Deployment &gt; Deploy Previews**<span data-offset-key="255f558820af4231a0d1c200d68e7ed3:2">, then select </span>**Edit settings**<span data-offset-key="255f558820af4231a0d1c200d68e7ed3:4">.</span></span>
 
-### 
+###
 
 <span data-key="f1bff1e4b3bf4c6a8c5e92920122ed1c"><span data-offset-key="f1bff1e4b3bf4c6a8c5e92920122ed1c:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/overview/#search-engine-indexing" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7e93717c9c6647a1a72402a665348193" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="421b7e6a354c45e290881ef116695be5"><span data-offset-key="421b7e6a354c45e290881ef116695be5:0">#</span></span></span></a><span data-key="cf826b791cea4212ba080032325d75c0"><span data-offset-key="cf826b791cea4212ba080032325d75c0:0">Search engine indexing</span></span>
 
@@ -702,17 +680,11 @@ Netlify
 
 <span data-key="440375ab12e344909d175b7bec26cf1b"><span data-offset-key="440375ab12e344909d175b7bec26cf1b:0">There are three predefined deploy contexts:</span></span>
 
--   
+- <span data-key="8c8e382324af4625b5867c726bfcb786">`production`<span data-offset-key="8c8e382324af4625b5867c726bfcb786:1">: this context corresponds to the main site’s deployment, attached to the Git branch you set when the site is created.</span></span>
 
-    <span data-key="8c8e382324af4625b5867c726bfcb786">`production`<span data-offset-key="8c8e382324af4625b5867c726bfcb786:1">: this context corresponds to the main site’s deployment, attached to the Git branch you set when the site is created.</span></span>
+- <span data-key="df227717d83e401595f44d7314ea3187">`deploy-preview`<span data-offset-key="df227717d83e401595f44d7314ea3187:1">: this context corresponds to the previews we build for pull/merge requests.</span></span>
 
--   
-
-    <span data-key="df227717d83e401595f44d7314ea3187">`deploy-preview`<span data-offset-key="df227717d83e401595f44d7314ea3187:1">: this context corresponds to the previews we build for pull/merge requests.</span></span>
-
--   
-
-    <span data-key="3e55456a6a084da0b069df3c0c059597">`branch-deploy`<span data-offset-key="3e55456a6a084da0b069df3c0c059597:1">: this context corresponds to deploys from branches that are not the site’s main production branch.</span></span>
+- <span data-key="3e55456a6a084da0b069df3c0c059597">`branch-deploy`<span data-offset-key="3e55456a6a084da0b069df3c0c059597:1">: this context corresponds to deploys from branches that are not the site’s main production branch.</span></span>
 
 <span data-key="2ed28194e190429c977193fd72d5bd4d"><span data-offset-key="2ed28194e190429c977193fd72d5bd4d:0">Besides these three predefined contexts, sites can use also branch names as custom deploy contexts. For example, a branch called </span>`staging`<span data-offset-key="2ed28194e190429c977193fd72d5bd4d:2"> will match a deploy context called </span>`staging`<span data-offset-key="2ed28194e190429c977193fd72d5bd4d:4">.</span></span>
 
@@ -748,7 +720,7 @@ Netlify
 
 7
 
-<span data-key="ea45209a675046c0a285b5505ff3530d"><span data-offset-key="ea45209a675046c0a285b5505ff3530d:0"> ACCESS\_TOKEN = "super secret"</span></span>
+<span data-key="ea45209a675046c0a285b5505ff3530d"><span data-offset-key="ea45209a675046c0a285b5505ff3530d:0"> ACCESS_TOKEN = "super secret"</span></span>
 
 8
 
@@ -788,7 +760,7 @@ Netlify
 
 17
 
-<span data-key="176078ede6824a18b055a4d6ea3e8eaa"><span data-offset-key="176078ede6824a18b055a4d6ea3e8eaa:0"> ACCESS\_TOKEN = "not so secret"</span></span>
+<span data-key="176078ede6824a18b055a4d6ea3e8eaa"><span data-offset-key="176078ede6824a18b055a4d6ea3e8eaa:0"> ACCESS_TOKEN = "not so secret"</span></span>
 
 18
 
@@ -858,29 +830,17 @@ Copied!
 
 <span data-key="5dcc416196f84579ace3d430585ea15c"><span data-offset-key="5dcc416196f84579ace3d430585ea15c:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/overview/#more-site-deploys-resources" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="97132dfed15e47328a75f547162922ac" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="9adb73764c314cfd8962e750f1513e72"><span data-offset-key="9adb73764c314cfd8962e750f1513e72:0">#</span></span></span></a><span data-key="144c48bc7de24e118ff1a6e1c00355e3"><span data-offset-key="144c48bc7de24e118ff1a6e1c00355e3:0">More site deploys resources</span></span>
 
--   
+- <span data-key="d3b826eaa32d404bbcf40e67cea73c57"><span data-offset-key="d3b826eaa32d404bbcf40e67cea73c57:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/create-deploys/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ddb6bad75b264b9d92a7204848f24f79" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="ee5593417c5e4daf9c1045046c0feedc"><span data-offset-key="ee5593417c5e4daf9c1045046c0feedc:0">Create deploys</span></span></span></a><span data-key="ff3f3ae5cf3a4f97bd7ff9f92ebf038a"><span data-offset-key="ff3f3ae5cf3a4f97bd7ff9f92ebf038a:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="d3b826eaa32d404bbcf40e67cea73c57"><span data-offset-key="d3b826eaa32d404bbcf40e67cea73c57:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/create-deploys/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ddb6bad75b264b9d92a7204848f24f79" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="ee5593417c5e4daf9c1045046c0feedc"><span data-offset-key="ee5593417c5e4daf9c1045046c0feedc:0">Create deploys</span></span></span></a><span data-key="ff3f3ae5cf3a4f97bd7ff9f92ebf038a"><span data-offset-key="ff3f3ae5cf3a4f97bd7ff9f92ebf038a:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="29f76292e248477a9a92d61c40ab4fb8"><span data-offset-key="29f76292e248477a9a92d61c40ab4fb8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/manage-deploys/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2c484e1734a149bebb19f9731568905c" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="90ae3f058d404235b4a62f1c83734533"><span data-offset-key="90ae3f058d404235b4a62f1c83734533:0">Manage deploys</span></span></span></a><span data-key="7411d40588f747fcbeb99ad45d6aa479"><span data-offset-key="7411d40588f747fcbeb99ad45d6aa479:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="994cd0d480fd407ab0ab2ab6219f5028"><span data-offset-key="994cd0d480fd407ab0ab2ab6219f5028:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/deploy-previews/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3828cff195a44c6eaaaebf6b04dc3349" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="d296b4a148754067a47a9f50f5720719"><span data-offset-key="d296b4a148754067a47a9f50f5720719:0">Deploy Previews</span></span></span></a><span data-key="da983ba6127e41d39db5574a83b0fa17"><span data-offset-key="da983ba6127e41d39db5574a83b0fa17:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="29f76292e248477a9a92d61c40ab4fb8"><span data-offset-key="29f76292e248477a9a92d61c40ab4fb8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/manage-deploys/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2c484e1734a149bebb19f9731568905c" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="90ae3f058d404235b4a62f1c83734533"><span data-offset-key="90ae3f058d404235b4a62f1c83734533:0">Manage deploys</span></span></span></a><span data-key="7411d40588f747fcbeb99ad45d6aa479"><span data-offset-key="7411d40588f747fcbeb99ad45d6aa479:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="7ca2b594729c4fa4a7ba2234c9d7ceed"><span data-offset-key="7ca2b594729c4fa4a7ba2234c9d7ceed:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/split-testing/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0f4ae2476bf84310b236df5a57af3d46" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="4d30e47052f64ec0b3ab0dbdac12543d"><span data-offset-key="4d30e47052f64ec0b3ab0dbdac12543d:0">Split Testing</span></span></span></a><span data-key="db6cbacb55cc460a94526a452f2a231d"><span data-offset-key="db6cbacb55cc460a94526a452f2a231d:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="7d81b02fba3c4efe9a6fde181e6e57c7"><span data-offset-key="7d81b02fba3c4efe9a6fde181e6e57c7:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/notifications/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a44a9c7536d94f3799fcfb2b0fa92bd3" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="408499b0587b457fb2293246675182a3"><span data-offset-key="408499b0587b457fb2293246675182a3:0">Deploy notifications</span></span></span></a><span data-key="74705e14b6d249aa829fb7d06eb9985e"><span data-offset-key="74705e14b6d249aa829fb7d06eb9985e:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="994cd0d480fd407ab0ab2ab6219f5028"><span data-offset-key="994cd0d480fd407ab0ab2ab6219f5028:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/deploy-previews/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3828cff195a44c6eaaaebf6b04dc3349" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="d296b4a148754067a47a9f50f5720719"><span data-offset-key="d296b4a148754067a47a9f50f5720719:0">Deploy Previews</span></span></span></a><span data-key="da983ba6127e41d39db5574a83b0fa17"><span data-offset-key="da983ba6127e41d39db5574a83b0fa17:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="7ca2b594729c4fa4a7ba2234c9d7ceed"><span data-offset-key="7ca2b594729c4fa4a7ba2234c9d7ceed:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/split-testing/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0f4ae2476bf84310b236df5a57af3d46" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="4d30e47052f64ec0b3ab0dbdac12543d"><span data-offset-key="4d30e47052f64ec0b3ab0dbdac12543d:0">Split Testing</span></span></span></a><span data-key="db6cbacb55cc460a94526a452f2a231d"><span data-offset-key="db6cbacb55cc460a94526a452f2a231d:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="7d81b02fba3c4efe9a6fde181e6e57c7"><span data-offset-key="7d81b02fba3c4efe9a6fde181e6e57c7:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/notifications/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a44a9c7536d94f3799fcfb2b0fa92bd3" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="408499b0587b457fb2293246675182a3"><span data-offset-key="408499b0587b457fb2293246675182a3:0">Deploy notifications</span></span></span></a><span data-key="74705e14b6d249aa829fb7d06eb9985e"><span data-offset-key="74705e14b6d249aa829fb7d06eb9985e:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="d841e0a745c54b3b93a58d9adc055871"><span data-offset-key="d841e0a745c54b3b93a58d9adc055871:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/post-processing/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9f25a5c431cf452cb32688c61789fad2" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="b2fb420ba8d04cb29608e2a9c6e002e4"><span data-offset-key="b2fb420ba8d04cb29608e2a9c6e002e4:0">Post processing</span></span></span></a><span data-key="5bb9eef4995d4e81904050906b3c2267"><span data-offset-key="5bb9eef4995d4e81904050906b3c2267:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="d841e0a745c54b3b93a58d9adc055871"><span data-offset-key="d841e0a745c54b3b93a58d9adc055871:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/post-processing/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9f25a5c431cf452cb32688c61789fad2" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="b2fb420ba8d04cb29608e2a9c6e002e4"><span data-offset-key="b2fb420ba8d04cb29608e2a9c6e002e4:0">Post processing</span></span></span></a><span data-key="5bb9eef4995d4e81904050906b3c2267"><span data-offset-key="5bb9eef4995d4e81904050906b3c2267:0"><span data-slate-zero-width="z">​</span></span></span>
 
 <span data-key="60fdaec8f34b46f19ed27308af42d032"><span data-offset-key="60fdaec8f34b46f19ed27308af42d032:0">Create deploys</span></span>
 
@@ -898,21 +858,13 @@ Copied!
 
 <span data-key="54c28f5a279d421cb34043553c31439a"><span data-offset-key="54c28f5a279d421cb34043553c31439a:0">Netlify will run your build command and deploy the result whenever you push to your Git repo. The benefits of Netlify’s continuous deployment include:</span></span>
 
--   
+- <span data-key="014460138e3a41a893b5c1c97db75e36"><span data-offset-key="014460138e3a41a893b5c1c97db75e36:0">No deploying without committing and pushing first</span></span>
 
-    <span data-key="014460138e3a41a893b5c1c97db75e36"><span data-offset-key="014460138e3a41a893b5c1c97db75e36:0">No deploying without committing and pushing first</span></span>
+- <span data-key="29f3a8b79cd14fba88172ae45b5e6bee"><span data-offset-key="29f3a8b79cd14fba88172ae45b5e6bee:0">Easy collaboration through pull/merge requests</span></span>
 
--   
+- <span data-key="c8f8ad82400f46868187f7b7482600bd"><span data-offset-key="c8f8ad82400f46868187f7b7482600bd:0">Fix a typo through your Git provider’s web UI from your mobile</span></span>
 
-    <span data-key="29f3a8b79cd14fba88172ae45b5e6bee"><span data-offset-key="29f3a8b79cd14fba88172ae45b5e6bee:0">Easy collaboration through pull/merge requests</span></span>
-
--   
-
-    <span data-key="c8f8ad82400f46868187f7b7482600bd"><span data-offset-key="c8f8ad82400f46868187f7b7482600bd:0">Fix a typo through your Git provider’s web UI from your mobile</span></span>
-
--   
-
-    <span data-key="b02f34fdfb6b4d0689cab3e1562c0c1f"><span data-offset-key="b02f34fdfb6b4d0689cab3e1562c0c1f:0">Edit content without code by using a static site CMS, </span></span><a href="https://netlifycms.org/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b84faa4fad2041a6a553bf4b63812434" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="ba671c34d1ad4af6baf44483e65ee8ad"><span data-offset-key="ba671c34d1ad4af6baf44483e65ee8ad:0">Netlify CMS</span></span></span></a><span data-key="e035b0e5e69a401481d17efb9b68b846"><span data-offset-key="e035b0e5e69a401481d17efb9b68b846:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="b02f34fdfb6b4d0689cab3e1562c0c1f"><span data-offset-key="b02f34fdfb6b4d0689cab3e1562c0c1f:0">Edit content without code by using a static site CMS, </span></span><a href="https://netlifycms.org/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b84faa4fad2041a6a553bf4b63812434" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="ba671c34d1ad4af6baf44483e65ee8ad"><span data-offset-key="ba671c34d1ad4af6baf44483e65ee8ad:0">Netlify CMS</span></span></span></a><span data-key="e035b0e5e69a401481d17efb9b68b846"><span data-offset-key="e035b0e5e69a401481d17efb9b68b846:0"><span data-slate-zero-width="z">​</span></span></span>
 
 <span data-key="645b0576af794fe5b473cd7111eb9dea"><span data-offset-key="645b0576af794fe5b473cd7111eb9dea:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/create-deploys/#netlify-cli" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1301cd948e5f4e3bb9780549f0ed9e6e" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="f2ac97484a2447659f27cf86454a5ec7"><span data-offset-key="f2ac97484a2447659f27cf86454a5ec7:0">#</span></span></span></a><span data-key="ca5e10b543114863b2c5ab54f56f9ad7"><span data-offset-key="ca5e10b543114863b2c5ab54f56f9ad7:0">Netlify CLI</span></span>
 
@@ -938,27 +890,23 @@ Copied!
 
 <span data-key="a77f0bf6ae9e4953b7f29ac732df7952"><span data-offset-key="a77f0bf6ae9e4953b7f29ac732df7952:0">The template code must be available in a public repository stored on GitHub.com or GitLab.com.</span></span>
 
-### 
+###
 
 <span data-key="7453784914ca4aafa900c4f148dd6b1d"><span data-offset-key="7453784914ca4aafa900c4f148dd6b1d:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/create-deploys/#markup" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="59a30043007745aea9983af3356f0dc1" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="1ce2bafa2afe471083eb34d20677cb3b"><span data-offset-key="1ce2bafa2afe471083eb34d20677cb3b:0">#</span></span></span></a><span data-key="07411ea677e24690938640204c4b517e"><span data-offset-key="07411ea677e24690938640204c4b517e:0">Markup</span></span>
 
 <span data-key="aef2218ce61445858e3563618ab61436"><span data-offset-key="aef2218ce61445858e3563618ab61436:0">You can use any markup language that renders as HTML to display the button. There are two very important URLs that you’ll need:</span></span>
 
--   
+- <span data-key="5ac0e1688ee74487afdcefc423ff3941"><span data-offset-key="5ac0e1688ee74487afdcefc423ff3941:0">The SVG URL for the button: </span>`https://www.netlify.com/img/deploy/button.svg`<span data-offset-key="5ac0e1688ee74487afdcefc423ff3941:2">.</span></span>
 
-    <span data-key="5ac0e1688ee74487afdcefc423ff3941"><span data-offset-key="5ac0e1688ee74487afdcefc423ff3941:0">The SVG URL for the button: </span>`https://www.netlify.com/img/deploy/button.svg`<span data-offset-key="5ac0e1688ee74487afdcefc423ff3941:2">.</span></span>
+- <span data-key="023992cecee548a19176c0a6727a0c0c"><span data-offset-key="023992cecee548a19176c0a6727a0c0c:0">The URL the button takes users to: </span>`https://app.netlify.com/start/deploy`<span data-offset-key="023992cecee548a19176c0a6727a0c0c:2">. This link requires the public Git repository as a parameter, for example:</span></span>
 
--   
+  1
 
-    <span data-key="023992cecee548a19176c0a6727a0c0c"><span data-offset-key="023992cecee548a19176c0a6727a0c0c:0">The URL the button takes users to: </span>`https://app.netlify.com/start/deploy`<span data-offset-key="023992cecee548a19176c0a6727a0c0c:2">. This link requires the public Git repository as a parameter, for example:</span></span>
+  <span data-key="823a3adf6d164bf58bbc20210b8e7f3e"><span data-offset-key="823a3adf6d164bf58bbc20210b8e7f3e:0">https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit</span></span>
 
-    1
+  Copied!
 
-    <span data-key="823a3adf6d164bf58bbc20210b8e7f3e"><span data-offset-key="823a3adf6d164bf58bbc20210b8e7f3e:0">https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit</span></span>
-
-    Copied!
-
-### 
+###
 
 <span data-key="ec3fba2cc591489fb6e1f50b6d7ac15c"><span data-offset-key="ec3fba2cc591489fb6e1f50b6d7ac15c:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/create-deploys/#template-configuration" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0d9dda3b384e4506a2fcc7e7dbc935c6" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="a26d69d3d6794f7a81aabe3bf20e7fdc"><span data-offset-key="a26d69d3d6794f7a81aabe3bf20e7fdc:0">#</span></span></span></a><span data-key="462b1488f4bd4feb8d4ff419674e2b5a"><span data-offset-key="462b1488f4bd4feb8d4ff419674e2b5a:0">Template configuration</span></span>
 
@@ -966,39 +914,35 @@ Copied!
 
 <span data-key="4489030cf5834303810ee897479b2b54"><span data-offset-key="4489030cf5834303810ee897479b2b54:0">Within the </span>`[template]`<span data-offset-key="4489030cf5834303810ee897479b2b54:2"> section in that file, you can set two directives:</span></span>
 
--   
+- <span data-key="010aca6ffb044a5b98a6a9d23416ddbb"><span data-offset-key="010aca6ffb044a5b98a6a9d23416ddbb:0">A list of incoming hooks for the users site. This is very useful if you want to allow a third party service to control when to deploy the site. This is what headless CMS services like Contentful and DatoCMS do. Users can give those providers the address Netlify generates for their specific incoming requests.</span></span>
 
-    <span data-key="010aca6ffb044a5b98a6a9d23416ddbb"><span data-offset-key="010aca6ffb044a5b98a6a9d23416ddbb:0">A list of incoming hooks for the users site. This is very useful if you want to allow a third party service to control when to deploy the site. This is what headless CMS services like Contentful and DatoCMS do. Users can give those providers the address Netlify generates for their specific incoming requests.</span></span>
+  1
 
-    1
+  <span data-key="668970976b9f4fe8940a5f2cf1ee364a"><span data-offset-key="668970976b9f4fe8940a5f2cf1ee364a:0">\[template\]</span></span>
 
-    <span data-key="668970976b9f4fe8940a5f2cf1ee364a"><span data-offset-key="668970976b9f4fe8940a5f2cf1ee364a:0">\[template\]</span></span>
+  2
 
-    2
+  <span data-key="5fba8eee7ad8493ba818ab1c04b6641c"><span data-offset-key="5fba8eee7ad8493ba818ab1c04b6641c:0"> incoming-hooks = \["Contentful"\]</span></span>
 
-    <span data-key="5fba8eee7ad8493ba818ab1c04b6641c"><span data-offset-key="5fba8eee7ad8493ba818ab1c04b6641c:0"> incoming-hooks = \["Contentful"\]</span></span>
+  Copied!
 
-    Copied!
+- <span data-key="c957e186d7464a0181a6bb925342eb64"><span data-offset-key="c957e186d7464a0181a6bb925342eb64:0">A list of required environment variables. This is the way to let users configure specific configuration options upon deployment. It also enables customization without having to change the code of the base template.</span></span>
 
--   
+  1
 
-    <span data-key="c957e186d7464a0181a6bb925342eb64"><span data-offset-key="c957e186d7464a0181a6bb925342eb64:0">A list of required environment variables. This is the way to let users configure specific configuration options upon deployment. It also enables customization without having to change the code of the base template.</span></span>
+  <span data-key="ecda316006194fb28ae669d98a0c6b54"><span data-offset-key="ecda316006194fb28ae669d98a0c6b54:0">\[template.environment\]</span></span>
 
-    1
+  2
 
-    <span data-key="ecda316006194fb28ae669d98a0c6b54"><span data-offset-key="ecda316006194fb28ae669d98a0c6b54:0">\[template.environment\]</span></span>
+  <span data-key="8ec704f96abc4c53920a0691f974dd52"><span data-offset-key="8ec704f96abc4c53920a0691f974dd52:0"> SECRET_TOKEN = "change me for your secret token"</span></span>
 
-    2
+  3
 
-    <span data-key="8ec704f96abc4c53920a0691f974dd52"><span data-offset-key="8ec704f96abc4c53920a0691f974dd52:0"> SECRET\_TOKEN = "change me for your secret token"</span></span>
+  <span data-key="652f63564a53461da75682f48d303557"><span data-offset-key="652f63564a53461da75682f48d303557:0"> CUSTOM_LOGO = "set the url to your custom logo here"</span></span>
 
-    3
+  Copied!
 
-    <span data-key="652f63564a53461da75682f48d303557"><span data-offset-key="652f63564a53461da75682f48d303557:0"> CUSTOM\_LOGO = "set the url to your custom logo here"</span></span>
-
-    Copied!
-
-### 
+###
 
 <span data-key="55296f32eb2544b195747a06bd68af6d"><span data-offset-key="55296f32eb2544b195747a06bd68af6d:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/create-deploys/#pre-fill-environment-variables" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="657f905d5df740f8b4d5c20981dc177a" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="30bbe9df08ff4ecaa1e191339d18738f"><span data-offset-key="30bbe9df08ff4ecaa1e191339d18738f:0">#</span></span></span></a><span data-key="c45be1eef4984cf1ad9636fcac959efc"><span data-offset-key="c45be1eef4984cf1ad9636fcac959efc:0">Pre-fill environment variables</span></span>
 
@@ -1022,7 +966,7 @@ Copied!
 
 <span data-key="8954ef7f57f749df906d6014bb9abb49"><span data-offset-key="8954ef7f57f749df906d6014bb9abb49:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="e0363f174ca84372b695133b36e8f8ae"><span data-offset-key="e0363f174ca84372b695133b36e8f8ae:0">Did you find this doc useful?</span></span>
 
@@ -1050,7 +994,7 @@ Copied!
 
 <span data-key="36d5c2a7eed243db889a5bfa4f0f7884"><span data-offset-key="36d5c2a7eed243db889a5bfa4f0f7884:0">Netlify Drawer icon</span></span>
 
-### 
+###
 
 <span data-key="bfbc2da69ac74765a0fe70fd40e8dbf9"><span data-offset-key="bfbc2da69ac74765a0fe70fd40e8dbf9:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/deploy-previews/#requirements-and-limitations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9ede14d8fb674813a6d988c6c2b5fc7b" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="9e3132ba57a348f088d927364b8db2da"><span data-offset-key="9e3132ba57a348f088d927364b8db2da:0">#</span></span></span></a><span data-key="0749b6c0cf3347199439ec90d8b01906"><span data-offset-key="0749b6c0cf3347199439ec90d8b01906:0">Requirements and limitations</span></span>
 
@@ -1058,33 +1002,21 @@ Copied!
 
 <span data-key="0aaf3e370c234e9eb627665be8d9a958">**\#Requirements**</span>
 
--   
+- <span data-key="ab325cbf4bfb4255890c35b6f4886f91">**Deploy Preview URLs**<span data-offset-key="ab325cbf4bfb4255890c35b6f4886f91:1">. Collaboration tools are only available on Deploy Previews accessed through their </span>`deploy-preview`<span data-offset-key="ab325cbf4bfb4255890c35b6f4886f91:3"> prefixed URLs.</span></span>
 
-    <span data-key="ab325cbf4bfb4255890c35b6f4886f91">**Deploy Preview URLs**<span data-offset-key="ab325cbf4bfb4255890c35b6f4886f91:1">. Collaboration tools are only available on Deploy Previews accessed through their </span>`deploy-preview`<span data-offset-key="ab325cbf4bfb4255890c35b6f4886f91:3"> prefixed URLs.</span></span>
+- <span data-key="96eb074a883c46e089da4795c34f8dc7">**GitHub app permissions**<span data-offset-key="96eb074a883c46e089da4795c34f8dc7:1">. If you’re using GitHub, verify that the Netlify GitHub app is </span></span><a href="https://docs.netlify.com/configure-builds/repo-permissions-linking/#authentication-with-the-netlify-github-app" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fb6f401b968a42c98ccf1e42dba1a40f" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="59f8b0b3e74048cfbf09f2d867dee06a"><span data-offset-key="59f8b0b3e74048cfbf09f2d867dee06a:0">installed with the necessary permissions</span></span></span></a><span data-key="6679040bdef24d679cd156698300b580"><span data-offset-key="6679040bdef24d679cd156698300b580:0">.</span></span>
 
--   
+- <span data-key="8e47653ccd6b43f49fe5e14657b18a64">**Valid HTML**<span data-offset-key="8e47653ccd6b43f49fe5e14657b18a64:1">. Your site must have valid HTML output with opening and closing </span>`body`<span data-offset-key="8e47653ccd6b43f49fe5e14657b18a64:3"> tags.</span></span>
 
-    <span data-key="96eb074a883c46e089da4795c34f8dc7">**GitHub app permissions**<span data-offset-key="96eb074a883c46e089da4795c34f8dc7:1">. If you’re using GitHub, verify that the Netlify GitHub app is </span></span><a href="https://docs.netlify.com/configure-builds/repo-permissions-linking/#authentication-with-the-netlify-github-app" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fb6f401b968a42c98ccf1e42dba1a40f" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="59f8b0b3e74048cfbf09f2d867dee06a"><span data-offset-key="59f8b0b3e74048cfbf09f2d867dee06a:0">installed with the necessary permissions</span></span></span></a><span data-key="6679040bdef24d679cd156698300b580"><span data-offset-key="6679040bdef24d679cd156698300b580:0">.</span></span>
-
--   
-
-    <span data-key="8e47653ccd6b43f49fe5e14657b18a64">**Valid HTML**<span data-offset-key="8e47653ccd6b43f49fe5e14657b18a64:1">. Your site must have valid HTML output with opening and closing </span>`body`<span data-offset-key="8e47653ccd6b43f49fe5e14657b18a64:3"> tags.</span></span>
-
--   
-
-    <span data-key="1079736ba6974415aa66809bf129c116">**Team access**<span data-offset-key="1079736ba6974415aa66809bf129c116:1">. Stakeholders must be signed into Netlify and </span></span><a href="https://docs.netlify.com/accounts-and-billing/team-management/manage-team-members" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e488cb75a79a410d808b236af61f2493" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="9fee321f196747a19409305614827210"><span data-offset-key="9fee321f196747a19409305614827210:0">granted access</span></span></span></a><span data-key="773fbfaa91a04d81b2990d59c97fe52c"><span data-offset-key="773fbfaa91a04d81b2990d59c97fe52c:0"> to a team to use the collaboration tools. To request access to collaborate, select the </span>**Team Members**<span data-offset-key="773fbfaa91a04d81b2990d59c97fe52c:2"> tab and select </span>**Request to join team**<span data-offset-key="773fbfaa91a04d81b2990d59c97fe52c:4">.</span></span>
+- <span data-key="1079736ba6974415aa66809bf129c116">**Team access**<span data-offset-key="1079736ba6974415aa66809bf129c116:1">. Stakeholders must be signed into Netlify and </span></span><a href="https://docs.netlify.com/accounts-and-billing/team-management/manage-team-members" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e488cb75a79a410d808b236af61f2493" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="9fee321f196747a19409305614827210"><span data-offset-key="9fee321f196747a19409305614827210:0">granted access</span></span></span></a><span data-key="773fbfaa91a04d81b2990d59c97fe52c"><span data-offset-key="773fbfaa91a04d81b2990d59c97fe52c:0"> to a team to use the collaboration tools. To request access to collaborate, select the </span>**Team Members**<span data-offset-key="773fbfaa91a04d81b2990d59c97fe52c:2"> tab and select </span>**Request to join team**<span data-offset-key="773fbfaa91a04d81b2990d59c97fe52c:4">.</span></span>
 
 <span data-key="338e0c73d9634d90bf23a044f5f02f18">**\#Limitations**</span>
 
--   
+- <span data-key="6504205965d94bbabc0df8d73f11d557">**On-demand Builders and server-side rendering**<span data-offset-key="6504205965d94bbabc0df8d73f11d557:1">. Collaboration tools are not available on sites using On-demand Builders or server-side rendering.</span></span>
 
-    <span data-key="6504205965d94bbabc0df8d73f11d557">**On-demand Builders and server-side rendering**<span data-offset-key="6504205965d94bbabc0df8d73f11d557:1">. Collaboration tools are not available on sites using On-demand Builders or server-side rendering.</span></span>
+- <span data-key="7e10068a6f1f477295f2306d94760975">**Bitbucket**<span data-offset-key="7e10068a6f1f477295f2306d94760975:1">. Collaboration tools are currently not available on Bitbucket deploys.</span></span>
 
--   
-
-    <span data-key="7e10068a6f1f477295f2306d94760975">**Bitbucket**<span data-offset-key="7e10068a6f1f477295f2306d94760975:1">. Collaboration tools are currently not available on Bitbucket deploys.</span></span>
-
-### 
+###
 
 <span data-key="c063b916aa4b43e3909d26e0c29c294e"><span data-offset-key="c063b916aa4b43e3909d26e0c29c294e:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/deploy-previews/#give-feedback" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="78cdb0ac68ae4d2bb6b2e2964ae7d71b" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="edb3aa57506e430194e8685f5e81a60f"><span data-offset-key="edb3aa57506e430194e8685f5e81a60f:0">#</span></span></span></a><span data-key="2c3e5d0e17934aa5aa7aaea7f98d7077"><span data-offset-key="2c3e5d0e17934aa5aa7aaea7f98d7077:0">Give feedback</span></span>
 
@@ -1100,29 +1032,17 @@ Copied!
 
 <span data-key="0ea29899fdc644a1bde01b8de7cf0f07"><span data-offset-key="0ea29899fdc644a1bde01b8de7cf0f07:0">You can send feedback about a Deploy Preview to a number of productivity tools by connecting your Netlify user account to your user account for the tool:</span></span>
 
--   
+- <span data-key="74817ac36bcc4ae3921c507fb5318129"><span data-offset-key="74817ac36bcc4ae3921c507fb5318129:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f085dcfec1204356b3e35076d7eb5666" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="ec82723dab6d471cacd7b9954776f536"><span data-offset-key="ec82723dab6d471cacd7b9954776f536:0">GitHub</span></span></span></a><span data-key="a64ca38c200d4225baf0ea8293a2d985"><span data-offset-key="a64ca38c200d4225baf0ea8293a2d985:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="74817ac36bcc4ae3921c507fb5318129"><span data-offset-key="74817ac36bcc4ae3921c507fb5318129:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://github.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f085dcfec1204356b3e35076d7eb5666" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="ec82723dab6d471cacd7b9954776f536"><span data-offset-key="ec82723dab6d471cacd7b9954776f536:0">GitHub</span></span></span></a><span data-key="a64ca38c200d4225baf0ea8293a2d985"><span data-offset-key="a64ca38c200d4225baf0ea8293a2d985:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="de1efc3473594f5284f995f00b994d8b"><span data-offset-key="de1efc3473594f5284f995f00b994d8b:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://gitlab.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5b984e20742e4bbab6dd20c1fa5defbe" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="c06f0e2599e042d89bb10b21c730d32c"><span data-offset-key="c06f0e2599e042d89bb10b21c730d32c:0">GitLab</span></span></span></a><span data-key="ca735d9134fb44208b4adcc00ca53c3e"><span data-offset-key="ca735d9134fb44208b4adcc00ca53c3e:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="c6773f1122b448f4bf779f2357562ff5"><span data-offset-key="c6773f1122b448f4bf779f2357562ff5:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.atlassian.com/software/jira" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="79ff8bbc75b7463b95560595b5b91144" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="d10e54b2f642409ba94035bbab9f2e3e"><span data-offset-key="d10e54b2f642409ba94035bbab9f2e3e:0">Jira Software</span></span></span></a><span data-key="f5ade76743f14e4b98f560ae7dccc96b"><span data-offset-key="f5ade76743f14e4b98f560ae7dccc96b:0"> (may not be available on all </span></span><a href="https://www.netlify.com/pricing/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2e4de4d6240b4793a4eab4a4c28affa4" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="a797be9437af4b6ca8dcb5e891dd6fd3"><span data-offset-key="a797be9437af4b6ca8dcb5e891dd6fd3:0">plans</span></span></span></a><span data-key="ac89779b3db94fd7a78d6cb8bd13d69c"><span data-offset-key="ac89779b3db94fd7a78d6cb8bd13d69c:0">)</span></span>
 
-    <span data-key="de1efc3473594f5284f995f00b994d8b"><span data-offset-key="de1efc3473594f5284f995f00b994d8b:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://gitlab.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5b984e20742e4bbab6dd20c1fa5defbe" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="c06f0e2599e042d89bb10b21c730d32c"><span data-offset-key="c06f0e2599e042d89bb10b21c730d32c:0">GitLab</span></span></span></a><span data-key="ca735d9134fb44208b4adcc00ca53c3e"><span data-offset-key="ca735d9134fb44208b4adcc00ca53c3e:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="3be0fd272a9247f083b20bc5d20f38b8"><span data-offset-key="3be0fd272a9247f083b20bc5d20f38b8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://shortcut.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8f0af963844947e4b36be7a25a344fd2" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="9adfba77624944f082d56c6a1fdd8d00"><span data-offset-key="9adfba77624944f082d56c6a1fdd8d00:0">Shortcut</span></span></span></a><span data-key="02a22b8ce4e9411db3f966fdba15df1c"><span data-offset-key="02a22b8ce4e9411db3f966fdba15df1c:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="8aca1750d66f4bfa8db5f7f584793597"><span data-offset-key="8aca1750d66f4bfa8db5f7f584793597:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://linear.app/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1b031c5e135e4b078d3d585729b785e2" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="4b67a97958c74d1fa887e20cfeb83b8e"><span data-offset-key="4b67a97958c74d1fa887e20cfeb83b8e:0">Linear</span></span></span></a><span data-key="9b76f3cd23884e38bc2c225e509163e3"><span data-offset-key="9b76f3cd23884e38bc2c225e509163e3:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="c6773f1122b448f4bf779f2357562ff5"><span data-offset-key="c6773f1122b448f4bf779f2357562ff5:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.atlassian.com/software/jira" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="79ff8bbc75b7463b95560595b5b91144" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="d10e54b2f642409ba94035bbab9f2e3e"><span data-offset-key="d10e54b2f642409ba94035bbab9f2e3e:0">Jira Software</span></span></span></a><span data-key="f5ade76743f14e4b98f560ae7dccc96b"><span data-offset-key="f5ade76743f14e4b98f560ae7dccc96b:0"> (may not be available on all </span></span><a href="https://www.netlify.com/pricing/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2e4de4d6240b4793a4eab4a4c28affa4" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="a797be9437af4b6ca8dcb5e891dd6fd3"><span data-offset-key="a797be9437af4b6ca8dcb5e891dd6fd3:0">plans</span></span></span></a><span data-key="ac89779b3db94fd7a78d6cb8bd13d69c"><span data-offset-key="ac89779b3db94fd7a78d6cb8bd13d69c:0">)</span></span>
-
--   
-
-    <span data-key="3be0fd272a9247f083b20bc5d20f38b8"><span data-offset-key="3be0fd272a9247f083b20bc5d20f38b8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://shortcut.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8f0af963844947e4b36be7a25a344fd2" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="9adfba77624944f082d56c6a1fdd8d00"><span data-offset-key="9adfba77624944f082d56c6a1fdd8d00:0">Shortcut</span></span></span></a><span data-key="02a22b8ce4e9411db3f966fdba15df1c"><span data-offset-key="02a22b8ce4e9411db3f966fdba15df1c:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="8aca1750d66f4bfa8db5f7f584793597"><span data-offset-key="8aca1750d66f4bfa8db5f7f584793597:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://linear.app/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1b031c5e135e4b078d3d585729b785e2" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="4b67a97958c74d1fa887e20cfeb83b8e"><span data-offset-key="4b67a97958c74d1fa887e20cfeb83b8e:0">Linear</span></span></span></a><span data-key="9b76f3cd23884e38bc2c225e509163e3"><span data-offset-key="9b76f3cd23884e38bc2c225e509163e3:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="1c69e4b858004093b263f824219dc6c3"><span data-offset-key="1c69e4b858004093b263f824219dc6c3:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://trello.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2b1fa826fe9c46ebb193c6f02e2a9487" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="0684368b9a674a8eb3f7974cde5a0fff"><span data-offset-key="0684368b9a674a8eb3f7974cde5a0fff:0">Trello</span></span></span></a><span data-key="0c3cf1ee965a4c699d58ca31e2c8323b"><span data-offset-key="0c3cf1ee965a4c699d58ca31e2c8323b:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="1c69e4b858004093b263f824219dc6c3"><span data-offset-key="1c69e4b858004093b263f824219dc6c3:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://trello.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2b1fa826fe9c46ebb193c6f02e2a9487" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="0684368b9a674a8eb3f7974cde5a0fff"><span data-offset-key="0684368b9a674a8eb3f7974cde5a0fff:0">Trello</span></span></span></a><span data-key="0c3cf1ee965a4c699d58ca31e2c8323b"><span data-offset-key="0c3cf1ee965a4c699d58ca31e2c8323b:0"><span data-slate-zero-width="z">​</span></span></span>
 
 <span data-key="fdf505376f814051afd9a8d578ce49bd"><span data-offset-key="fdf505376f814051afd9a8d578ce49bd:0">To get started, go to the </span>**Integrations**<span data-offset-key="fdf505376f814051afd9a8d578ce49bd:2"> tab in the Netlify Drawer and select </span>**Connect**<span data-offset-key="fdf505376f814051afd9a8d578ce49bd:4"> for the third-party service you want to use.</span></span>
 
@@ -1140,7 +1060,7 @@ Copied!
 
 <span data-key="49e980953e644d74b9068599574f575b"><span data-offset-key="49e980953e644d74b9068599574f575b:0">You can also drag and drop image and video files directly onto the </span>**Activity tab**<span data-offset-key="49e980953e644d74b9068599574f575b:2"> text area to include them in a comment using Markdown syntax.</span></span>
 
-### 
+###
 
 <span data-key="79f4b487e2844b02afa1ab0d3470f65b"><span data-offset-key="79f4b487e2844b02afa1ab0d3470f65b:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/deploy-previews/#get-feedback" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7f746050836249e8bb74e6ac8dc0ab30" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="6fac5359fc30433b8520a044520c5dbc"><span data-offset-key="6fac5359fc30433b8520a044520c5dbc:0">#</span></span></span></a><span data-key="1b84c853f1e14996834530c876f5f409"><span data-offset-key="1b84c853f1e14996834530c876f5f409:0">Get feedback</span></span>
 
@@ -1156,21 +1076,15 @@ Copied!
 
 <span data-key="6f66d3214fc94f93be2da96a588d03f8"><span data-offset-key="6f66d3214fc94f93be2da96a588d03f8:0">The entry path is the page visitors will land on when they access your Deploy Preview using links on the </span>**Deploys**<span data-offset-key="6f66d3214fc94f93be2da96a588d03f8:2"> page, deploy details page, in GitHub, or in GitLab. You can set an entry path in the following ways:</span></span>
 
--   
+- <span data-key="2a040c1c5f4e43c8a4835f6af33083ce"><span data-offset-key="2a040c1c5f4e43c8a4835f6af33083ce:0">Enter the path in the </span>**Settings**<span data-offset-key="2a040c1c5f4e43c8a4835f6af33083ce:2"> tab of the Netlify Drawer.</span></span>
 
-    <span data-key="2a040c1c5f4e43c8a4835f6af33083ce"><span data-offset-key="2a040c1c5f4e43c8a4835f6af33083ce:0">Enter the path in the </span>**Settings**<span data-offset-key="2a040c1c5f4e43c8a4835f6af33083ce:2"> tab of the Netlify Drawer.</span></span>
+- <span data-key="3a283960b007450a965efd477b0e8b28"><span data-offset-key="3a283960b007450a965efd477b0e8b28:0">Tag </span>`@netlify /path/to/page`<span data-offset-key="3a283960b007450a965efd477b0e8b28:2"> in the initial description of your GitHub pull request or GitLab merge request.</span></span>
 
--   
-
-    <span data-key="3a283960b007450a965efd477b0e8b28"><span data-offset-key="3a283960b007450a965efd477b0e8b28:0">Tag </span>`@netlify /path/to/page`<span data-offset-key="3a283960b007450a965efd477b0e8b28:2"> in the initial description of your GitHub pull request or GitLab merge request.</span></span>
-
--   
-
-    <span data-key="cbadbf06ebbe4c129be45ed7b9cdfdbc"><span data-offset-key="cbadbf06ebbe4c129be45ed7b9cdfdbc:0">Hover over the Netlify icon and select </span>**Set as entry path**<span data-offset-key="cbadbf06ebbe4c129be45ed7b9cdfdbc:2"> to save the current page as the initial route. This option only appears if you are the author of the pull/merge request.</span></span>
+- <span data-key="cbadbf06ebbe4c129be45ed7b9cdfdbc"><span data-offset-key="cbadbf06ebbe4c129be45ed7b9cdfdbc:0">Hover over the Netlify icon and select </span>**Set as entry path**<span data-offset-key="cbadbf06ebbe4c129be45ed7b9cdfdbc:2"> to save the current page as the initial route. This option only appears if you are the author of the pull/merge request.</span></span>
 
 <span data-key="20f4428b2d464f7a9251d8c2e3c147a1"><span data-offset-key="20f4428b2d464f7a9251d8c2e3c147a1:0">When writing a value for the entry path, it must be relative and start with </span>`/`<span data-offset-key="20f4428b2d464f7a9251d8c2e3c147a1:2">.</span></span>
 
-### 
+###
 
 <span data-key="5d71977d78d944ba8dc10b7b554f2ed1"><span data-offset-key="5d71977d78d944ba8dc10b7b554f2ed1:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/deploy-previews/#test-and-troubleshoot-with-collaboration-tools" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="63fa9e2202ae452597a6787f82c39245" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="2aecbc0bc1c44b88be69d301ab25a69f"><span data-offset-key="2aecbc0bc1c44b88be69d301ab25a69f:0">#</span></span></span></a><span data-key="59f81ddc3d3c485a9c0edaa57adf8938"><span data-offset-key="59f81ddc3d3c485a9c0edaa57adf8938:0">Test and troubleshoot with collaboration tools</span></span>
 
@@ -1196,7 +1110,7 @@ Copied!
 
 <span data-key="6d83966fae994dfebcece9c6a18cf260"><span data-offset-key="6d83966fae994dfebcece9c6a18cf260:0">The BrowserStack service provides a free </span></span><a href="https://www.netlify.com/blog/2021/07/20/troubleshoot-qa-issues-faster-with-browserstack-and-deploy-previews/#extended-free-browserstack-minutes-for-netlify-users" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3cc91eb32d724ca28456a757ab0911da" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="a916710a6e2a427b8893338951ca5588"><span data-offset-key="a916710a6e2a427b8893338951ca5588:0">60 minute total usage allotment</span></span></span></a><span data-key="bb2d9bb40e2441ab963b7095e32941b0"><span data-offset-key="bb2d9bb40e2441ab963b7095e32941b0:0"> for users who sign up from Netlify. An option to upgrade is available in BrowserStack once the allotment is finished.</span></span>
 
-### 
+###
 
 <span data-key="7d1551b8591248c29fb9a4a57f517c0a"><span data-offset-key="7d1551b8591248c29fb9a4a57f517c0a:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/deploy-previews/#troubleshooting-collaborative-deploy-previews" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7ec09386af0b4d4ba8f5733b8837e176" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="01ec9c4696dc4e8f8e25f159704b97b8"><span data-offset-key="01ec9c4696dc4e8f8e25f159704b97b8:0">#</span></span></span></a><span data-key="457f0a19fd9a4bd4bb0dad2fc8e8333f"><span data-offset-key="457f0a19fd9a4bd4bb0dad2fc8e8333f:0">Troubleshooting collaborative Deploy Previews</span></span>
 
@@ -1210,31 +1124,19 @@ Copied!
 
 <span data-key="a070652b29a94f8da3f95c2b3fdf0130"><span data-offset-key="a070652b29a94f8da3f95c2b3fdf0130:0">The Netlify Drawer also might not appear if your site’s </span></span><a href="https://docs.netlify.com/routing/headers/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="62d434a4057941d093bc9ec01b30d04e" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="e6d7746fa1ed43bdb65c8dbddc806a1f"><span data-offset-key="e6d7746fa1ed43bdb65c8dbddc806a1f:0">custom headers</span></span></span></a><span data-key="a5ea9712c1644048a082d7f7de6c59b0"><span data-offset-key="a5ea9712c1644048a082d7f7de6c59b0:0"> include the following Content Security Policy (CSP) directives:</span></span>
 
--   
+- <span data-key="d824e3b05d2e4976bd95b7c1baccb8c2">`default-src`</span>
 
-    <span data-key="d824e3b05d2e4976bd95b7c1baccb8c2">`default-src`</span>
+- <span data-key="fad2049170e341289d90450a9a94d8ac">`script-src`</span>
 
--   
+- <span data-key="df995577ac4c494297ac783434b361c1">`frame-src`</span>
 
-    <span data-key="fad2049170e341289d90450a9a94d8ac">`script-src`</span>
-
--   
-
-    <span data-key="df995577ac4c494297ac783434b361c1">`frame-src`</span>
-
--   
-
-    <span data-key="85dec20e8c1f4ea1bc3462ab1587df7c">`child-src`</span>
+- <span data-key="85dec20e8c1f4ea1bc3462ab1587df7c">`child-src`</span>
 
 <span data-key="6eb38db942d34b578e2bd70a6ff4e3fb"><span data-offset-key="6eb38db942d34b578e2bd70a6ff4e3fb:0">To address this issue, add </span>`app.netlify.com`<span data-offset-key="6eb38db942d34b578e2bd70a6ff4e3fb:2"> and </span>`netlify-cdp-loader.netlify.app`<span data-offset-key="6eb38db942d34b578e2bd70a6ff4e3fb:4"> to the allow list in the </span>`_headers`<span data-offset-key="6eb38db942d34b578e2bd70a6ff4e3fb:6"> or </span>`netlify.toml`<span data-offset-key="6eb38db942d34b578e2bd70a6ff4e3fb:8"> file. For example:</span></span>
 
--   
+- <span data-key="85b8feed0f3e43bab576f9d94833fa7f"><span data-offset-key="85b8feed0f3e43bab576f9d94833fa7f:0">\_headers</span></span>
 
-    <span data-key="85b8feed0f3e43bab576f9d94833fa7f"><span data-offset-key="85b8feed0f3e43bab576f9d94833fa7f:0">\_headers</span></span>
-
--   
-
-    <span data-key="11d5ade085ba43bf8aa7d0509e4f666e"><span data-offset-key="11d5ade085ba43bf8aa7d0509e4f666e:0">netlify.toml</span></span>
+- <span data-key="11d5ade085ba43bf8aa7d0509e4f666e"><span data-offset-key="11d5ade085ba43bf8aa7d0509e4f666e:0">netlify.toml</span></span>
 
 1
 
@@ -1317,17 +1219,13 @@ Copied!
 
 <span data-key="847d9020a1df412bad81ed05e7c16750"><span data-offset-key="847d9020a1df412bad81ed05e7c16750:0">Explore snippet injection examples in our blog:</span></span>
 
--   
+- <span data-key="1f0bd44993404a3aae0c9f9ef463f462"><span data-offset-key="1f0bd44993404a3aae0c9f9ef463f462:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.netlify.com/blog/2018/09/06/promoting-open-source-with-netlify-snippet-injection/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="08d2669aee134d1fa52348aec8200534" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="80e28a32162343d8bb0c0e9752d0a82a"><span data-offset-key="80e28a32162343d8bb0c0e9752d0a82a:0">Promoting open source with Netlify snippet injection</span></span></span></a><span data-key="43666b4abf274be5b172f3bc0763b906"><span data-offset-key="43666b4abf274be5b172f3bc0763b906:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="1f0bd44993404a3aae0c9f9ef463f462"><span data-offset-key="1f0bd44993404a3aae0c9f9ef463f462:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.netlify.com/blog/2018/09/06/promoting-open-source-with-netlify-snippet-injection/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="08d2669aee134d1fa52348aec8200534" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="80e28a32162343d8bb0c0e9752d0a82a"><span data-offset-key="80e28a32162343d8bb0c0e9752d0a82a:0">Promoting open source with Netlify snippet injection</span></span></span></a><span data-key="43666b4abf274be5b172f3bc0763b906"><span data-offset-key="43666b4abf274be5b172f3bc0763b906:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="dd14358411f74bc0a6fbf0f505582fcf"><span data-offset-key="dd14358411f74bc0a6fbf0f505582fcf:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.netlify.com/blog/2020/12/14/add-web-monetization-to-your-sites-with-snippet-injection/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="99cdef4ca1874132b7d0e19b95a75028" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="2b25b143daee4ea88cc4ea8b8f8fd4e9"><span data-offset-key="2b25b143daee4ea88cc4ea8b8f8fd4e9:0">Add web monetization to your sites with snippet injection</span></span></span></a><span data-key="f7cf1c793b6240a4bc7b5c58032d6199"><span data-offset-key="f7cf1c793b6240a4bc7b5c58032d6199:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="dd14358411f74bc0a6fbf0f505582fcf"><span data-offset-key="dd14358411f74bc0a6fbf0f505582fcf:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.netlify.com/blog/2020/12/14/add-web-monetization-to-your-sites-with-snippet-injection/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="99cdef4ca1874132b7d0e19b95a75028" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="2b25b143daee4ea88cc4ea8b8f8fd4e9"><span data-offset-key="2b25b143daee4ea88cc4ea8b8f8fd4e9:0">Add web monetization to your sites with snippet injection</span></span></span></a><span data-key="f7cf1c793b6240a4bc7b5c58032d6199"><span data-offset-key="f7cf1c793b6240a4bc7b5c58032d6199:0"><span data-slate-zero-width="z">​</span></span></span>
 
 <span data-key="007fbd1b28eb43abafa86050acf7b4f8"><span data-offset-key="007fbd1b28eb43abafa86050acf7b4f8:0">Prerendering</span></span>
 
-<span data-key="cf322aef5cf9479d81414c1efd4be684">*This feature is in*<span data-offset-key="cf322aef5cf9479d81414c1efd4be684:1"> </span>`BETA`<span data-offset-key="cf322aef5cf9479d81414c1efd4be684:3">.</span></span>
+<span data-key="cf322aef5cf9479d81414c1efd4be684">_This feature is in_<span data-offset-key="cf322aef5cf9479d81414c1efd4be684:1"> </span>`BETA`<span data-offset-key="cf322aef5cf9479d81414c1efd4be684:3">.</span></span>
 
 <span data-key="10de4db4b3dc4c429c3d28822fc1fcba"><span data-offset-key="10de4db4b3dc4c429c3d28822fc1fcba:0">If you’re using a single-page app for a site that’s not behind a login, SEO is an important concern.</span></span>
 
@@ -1347,25 +1245,19 @@ Copied!
 
 <span data-key="b74e654558314931b10ce4def717e937"><span data-offset-key="b74e654558314931b10ce4def717e937:0">Our built-in prerendering service will cache prerendered pages for between 24 and 48 hours; this is not adjustable.</span></span>
 
-### 
+###
 
 <span data-key="b36f620f64f0415aa2346505c3de9ede"><span data-offset-key="b36f620f64f0415aa2346505c3de9ede:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/site-deploys/post-processing/prerendering/#external-services" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="faa7106c1d534a599fabf2fb696a6eb8" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="6b7bb7c0f0cc48a7a41d629123fc59fc"><span data-offset-key="6b7bb7c0f0cc48a7a41d629123fc59fc:0">#</span></span></span></a><span data-key="6eca4fd9539845ab8f9dcc976b8a4c99"><span data-offset-key="6eca4fd9539845ab8f9dcc976b8a4c99:0">External services</span></span>
 
-<span data-key="b69cc9a47e6d47f69f5fd7894ffbda31">*This feature may not be available on all* </span><a href="https://www.netlify.com/pricing/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8076367de6dd4e349858c7d1ba7c189a" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="7027e7abf126403c8babe3664eba56cb"><em>plans</em></span></span></a><span data-key="538f953639e54f6f965e1bacb5e9789e">*.*</span>
+<span data-key="b69cc9a47e6d47f69f5fd7894ffbda31">_This feature may not be available on all_ </span><a href="https://www.netlify.com/pricing/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8076367de6dd4e349858c7d1ba7c189a" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="7027e7abf126403c8babe3664eba56cb"><em>plans</em></span></span></a><span data-key="538f953639e54f6f965e1bacb5e9789e">_._</span>
 
 <span data-key="ba01b579079d4e69bef9d81458836fbf"><span data-offset-key="ba01b579079d4e69bef9d81458836fbf:0">You can also use external services that can automate prerendering for you:</span></span>
 
--   
+- <span data-key="b5ec5d5152f84f0197a20a5d88bdb341"><span data-offset-key="b5ec5d5152f84f0197a20a5d88bdb341:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://prerender.io/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b71896a35180496c8047011bb1ba5a72" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="e53973ed1da04361ace20eb9bc919127"><span data-offset-key="e53973ed1da04361ace20eb9bc919127:0">Prerender.io</span></span></span></a><span data-key="17e84a56e953462baf52764887e3f253"><span data-offset-key="17e84a56e953462baf52764887e3f253:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="b5ec5d5152f84f0197a20a5d88bdb341"><span data-offset-key="b5ec5d5152f84f0197a20a5d88bdb341:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://prerender.io/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b71896a35180496c8047011bb1ba5a72" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="e53973ed1da04361ace20eb9bc919127"><span data-offset-key="e53973ed1da04361ace20eb9bc919127:0">Prerender.io</span></span></span></a><span data-key="17e84a56e953462baf52764887e3f253"><span data-offset-key="17e84a56e953462baf52764887e3f253:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="f8a455807eb04de7b6075be85cf98eac"><span data-offset-key="f8a455807eb04de7b6075be85cf98eac:0"><span data-slate-zero-width="z">​</span></span></span><a href="http://www.brombone.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ee5f4ebb74464b29a9cae21066f5080f" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="539b83ea64094abfbf748883d7a71612"><span data-offset-key="539b83ea64094abfbf748883d7a71612:0">Brombone</span></span></span></a><span data-key="87273e73e1164655852d36b142df71d0"><span data-offset-key="87273e73e1164655852d36b142df71d0:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
-
-    <span data-key="f8a455807eb04de7b6075be85cf98eac"><span data-offset-key="f8a455807eb04de7b6075be85cf98eac:0"><span data-slate-zero-width="z">​</span></span></span><a href="http://www.brombone.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ee5f4ebb74464b29a9cae21066f5080f" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="539b83ea64094abfbf748883d7a71612"><span data-offset-key="539b83ea64094abfbf748883d7a71612:0">Brombone</span></span></span></a><span data-key="87273e73e1164655852d36b142df71d0"><span data-offset-key="87273e73e1164655852d36b142df71d0:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="0880f8eb0fe74e6983db47b62de9b2e8"><span data-offset-key="0880f8eb0fe74e6983db47b62de9b2e8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://prerender.cloud/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="50299dff0bed4edd9a6d440bd1c51626" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="0ca2a0b6057e4128ac656cbd1d9e291c"><span data-offset-key="0ca2a0b6057e4128ac656cbd1d9e291c:0">Prerender.cloud</span></span></span></a><span data-key="851d1ec0411842a890d73ffd437c2ff9"><span data-offset-key="851d1ec0411842a890d73ffd437c2ff9:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="0880f8eb0fe74e6983db47b62de9b2e8"><span data-offset-key="0880f8eb0fe74e6983db47b62de9b2e8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://prerender.cloud/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="50299dff0bed4edd9a6d440bd1c51626" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="0ca2a0b6057e4128ac656cbd1d9e291c"><span data-offset-key="0ca2a0b6057e4128ac656cbd1d9e291c:0">Prerender.cloud</span></span></span></a><span data-key="851d1ec0411842a890d73ffd437c2ff9"><span data-offset-key="851d1ec0411842a890d73ffd437c2ff9:0"><span data-slate-zero-width="z">​</span></span></span>
 
 <span data-key="996550a0872c42bbb9835cb45a5a3182"><span data-offset-key="996550a0872c42bbb9835cb45a5a3182:0">Prerender.io has an open-source version of their service that you can self-host.</span></span>
 
@@ -1427,7 +1319,7 @@ Copied!
 
 <span data-key="671e16c32729498abc903e8d1d0ae021"><span data-offset-key="671e16c32729498abc903e8d1d0ae021:0">Backend</span></span>
 
-<span data-key="efb25589306f4b03beee18e542e72fd8">*This setting is required.*</span>
+<span data-key="efb25589306f4b03beee18e542e72fd8">_This setting is required._</span>
 
 <span data-key="52b18024083c445c80c11dbe979188a8"><span data-offset-key="52b18024083c445c80c11dbe979188a8:0">The </span>`backend`<span data-offset-key="52b18024083c445c80c11dbe979188a8:2"> option specifies how to access the content for your site, including authentication. Full details and code samples can be found in </span></span><a href="https://www.netlifycms.org/docs/backends-overview" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fe315ee0483644ea95865fad29094dd0" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="df38a77d710e4ebab20c48db8fbd37c2"><span data-offset-key="df38a77d710e4ebab20c48db8fbd37c2:0">Backends</span></span></span></a><span data-key="6d8a82f356c644bcb6d4c156409d90a6"><span data-offset-key="6d8a82f356c644bcb6d4c156409d90a6:0">.</span></span>
 
@@ -1449,7 +1341,7 @@ Copied!
 
 2
 
-<span data-key="2f1fbc9ad5864a2f909380ad11a5eb90"><span data-offset-key="2f1fbc9ad5864a2f909380ad11a5eb90:0">publish\_mode: editorial\_workflow</span></span>
+<span data-key="2f1fbc9ad5864a2f909380ad11a5eb90"><span data-offset-key="2f1fbc9ad5864a2f909380ad11a5eb90:0">publish_mode: editorial_workflow</span></span>
 
 Copied!
 
@@ -1475,21 +1367,21 @@ Perform these Git actions
 
 <span data-key="ad7f3f62a6244e129253ec4410643a2c"><span data-offset-key="ad7f3f62a6244e129253ec4410643a2c:0">Netlify CMS users can upload files to your repository using the Media Gallery. The following settings specify where these files are saved, and where they can be accessed on your built site.</span></span>
 
-### 
+###
 
 <span data-key="4b364e8efb7b4da5bde288430beb6954"><span data-offset-key="4b364e8efb7b4da5bde288430beb6954:0">Media Folder</span></span>
 
-<span data-key="d43551e56d55405993c4643229dcd839">*This setting is required.*</span>
+<span data-key="d43551e56d55405993c4643229dcd839">_This setting is required._</span>
 
 <span data-key="b47c9c8b03dd43828d68fbf29236e4e4"><span data-offset-key="b47c9c8b03dd43828d68fbf29236e4e4:0">The </span>`media_folder`<span data-offset-key="b47c9c8b03dd43828d68fbf29236e4e4:2"> option specifies the folder path where uploaded files should be saved, relative to the base of the repo.</span></span>
 
 1
 
-<span data-key="38fab067ba644d59889e4a91057f1cb6"><span data-offset-key="38fab067ba644d59889e4a91057f1cb6:0">media\_folder: "static/images/uploads"</span></span>
+<span data-key="38fab067ba644d59889e4a91057f1cb6"><span data-offset-key="38fab067ba644d59889e4a91057f1cb6:0">media_folder: "static/images/uploads"</span></span>
 
 Copied!
 
-### 
+###
 
 <span data-key="70168061371e4a2c997ea908c7947a74"><span data-offset-key="70168061371e4a2c997ea908c7947a74:0">Public Folder</span></span>
 
@@ -1497,7 +1389,7 @@ Copied!
 
 1
 
-<span data-key="52b9a1c9067e40cf9e4c354ac1dc1708"><span data-offset-key="52b9a1c9067e40cf9e4c354ac1dc1708:0">public\_folder: "/images/uploads"</span></span>
+<span data-key="52b9a1c9067e40cf9e4c354ac1dc1708"><span data-offset-key="52b9a1c9067e40cf9e4c354ac1dc1708:0">public_folder: "/images/uploads"</span></span>
 
 Copied!
 
@@ -1513,7 +1405,7 @@ Copied!
 
 1
 
-<span data-key="bca2ddc37608470097fe430a70b00dd5"><span data-offset-key="bca2ddc37608470097fe430a70b00dd5:0">media\_library:</span></span>
+<span data-key="bca2ddc37608470097fe430a70b00dd5"><span data-offset-key="bca2ddc37608470097fe430a70b00dd5:0">media_library:</span></span>
 
 2
 
@@ -1537,7 +1429,7 @@ Copied!
 
 1
 
-<span data-key="8510d484b1b84668a0afd54c1bb698a1"><span data-offset-key="8510d484b1b84668a0afd54c1bb698a1:0">site\_url: https://your-site.com</span></span>
+<span data-key="8510d484b1b84668a0afd54c1bb698a1"><span data-offset-key="8510d484b1b84668a0afd54c1bb698a1:0">site_url: https://your-site.com</span></span>
 
 Copied!
 
@@ -1551,7 +1443,7 @@ Copied!
 
 1
 
-<span data-key="e0add46652234367a4e7c37b8abcc351"><span data-offset-key="e0add46652234367a4e7c37b8abcc351:0">display\_url: https://your-site.com</span></span>
+<span data-key="e0add46652234367a4e7c37b8abcc351"><span data-offset-key="e0add46652234367a4e7c37b8abcc351:0">display_url: https://your-site.com</span></span>
 
 Copied!
 
@@ -1563,7 +1455,7 @@ Copied!
 
 1
 
-<span data-key="d480fca19a0a4d5d9821d4dab281bc4f"><span data-offset-key="d480fca19a0a4d5d9821d4dab281bc4f:0">logo\_url: https://your-site.com/images/logo.svg</span></span>
+<span data-key="d480fca19a0a4d5d9821d4dab281bc4f"><span data-offset-key="d480fca19a0a4d5d9821d4dab281bc4f:0">logo_url: https://your-site.com/images/logo.svg</span></span>
 
 Copied!
 
@@ -1617,7 +1509,7 @@ Copied!
 
 1
 
-<span data-key="5b88b937c45c41319e4788f78c9ebe73"><span data-offset-key="5b88b937c45c41319e4788f78c9ebe73:0">show\_preview\_links: false</span></span>
+<span data-key="5b88b937c45c41319e4788f78c9ebe73"><span data-offset-key="5b88b937c45c41319e4788f78c9ebe73:0">show_preview_links: false</span></span>
 
 Copied!
 
@@ -1641,25 +1533,15 @@ Copied!
 
 <span data-key="e54f663604e4451e9c837da9f00c2ebd">`slug`<span data-offset-key="e54f663604e4451e9c837da9f00c2ebd:1"> accepts multiple options:</span></span>
 
--   
+- <span data-key="25391c06093344e3aaf5db4704e92980">`encoding`</span>
 
-    <span data-key="25391c06093344e3aaf5db4704e92980">`encoding`</span>
+  - <span data-key="20901c1a60d347979095c3e01fbef6c3">`unicode`<span data-offset-key="20901c1a60d347979095c3e01fbef6c3:1"> (default): Sanitize filenames (slugs) according to </span></span><a href="https://tools.ietf.org/html/rfc3987" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a2223a449f7a48c8a195d255eca8a44f" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="24e4d5b46e6a4affbd5b639350baa7d8"><span data-offset-key="24e4d5b46e6a4affbd5b639350baa7d8:0">RFC3987</span></span></span></a><span data-key="afb2d44dbbd84381b606dd35b915afec"><span data-offset-key="afb2d44dbbd84381b606dd35b915afec:0"> and the </span></span><a href="https://url.spec.whatwg.org/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="177d97a804a14e55b40a4e27a0bda936" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="2aa097bfe05744a2bf139b4d1fcae1ba"><span data-offset-key="2aa097bfe05744a2bf139b4d1fcae1ba:0">WHATWG URL spec</span></span></span></a><span data-key="d01e2a27af564c21b3c489065a46f502"><span data-offset-key="d01e2a27af564c21b3c489065a46f502:0">. This spec allows non-ASCII (or non-Latin) characters to exist in URLs.</span></span>
 
-    -   
+  - <span data-key="923daa032d5141e586f7622960f97c47">`ascii`<span data-offset-key="923daa032d5141e586f7622960f97c47:1">: Sanitize filenames (slugs) according to </span></span><a href="https://tools.ietf.org/html/rfc3986" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="348409a00d114a1c82deebd4052419b5" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="b7419ebfc07b49e190b7a6552c2477b3"><span data-offset-key="b7419ebfc07b49e190b7a6552c2477b3:0">RFC3986</span></span></span></a><span data-key="c57f97ee8143476faae7b17bdac1467b"><span data-offset-key="c57f97ee8143476faae7b17bdac1467b:0">. The only allowed characters are (0-9, a-z, A-Z, </span>`_`<span data-offset-key="c57f97ee8143476faae7b17bdac1467b:2">, </span>`-`<span data-offset-key="c57f97ee8143476faae7b17bdac1467b:4">, </span>`~`<span data-offset-key="c57f97ee8143476faae7b17bdac1467b:6">).</span></span>
 
-        <span data-key="20901c1a60d347979095c3e01fbef6c3">`unicode`<span data-offset-key="20901c1a60d347979095c3e01fbef6c3:1"> (default): Sanitize filenames (slugs) according to </span></span><a href="https://tools.ietf.org/html/rfc3987" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a2223a449f7a48c8a195d255eca8a44f" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="24e4d5b46e6a4affbd5b639350baa7d8"><span data-offset-key="24e4d5b46e6a4affbd5b639350baa7d8:0">RFC3987</span></span></span></a><span data-key="afb2d44dbbd84381b606dd35b915afec"><span data-offset-key="afb2d44dbbd84381b606dd35b915afec:0"> and the </span></span><a href="https://url.spec.whatwg.org/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="177d97a804a14e55b40a4e27a0bda936" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="2aa097bfe05744a2bf139b4d1fcae1ba"><span data-offset-key="2aa097bfe05744a2bf139b4d1fcae1ba:0">WHATWG URL spec</span></span></span></a><span data-key="d01e2a27af564c21b3c489065a46f502"><span data-offset-key="d01e2a27af564c21b3c489065a46f502:0">. This spec allows non-ASCII (or non-Latin) characters to exist in URLs.</span></span>
+- <span data-key="d4d4090030ba4394b2eea4990d5dcf16">`clean_accents`<span data-offset-key="d4d4090030ba4394b2eea4990d5dcf16:1">: Set to </span>`true`<span data-offset-key="d4d4090030ba4394b2eea4990d5dcf16:3"> to remove diacritics from slug characters before sanitizing. This is often helpful when using </span>`ascii`<span data-offset-key="d4d4090030ba4394b2eea4990d5dcf16:5"> encoding.</span></span>
 
-    -   
-
-        <span data-key="923daa032d5141e586f7622960f97c47">`ascii`<span data-offset-key="923daa032d5141e586f7622960f97c47:1">: Sanitize filenames (slugs) according to </span></span><a href="https://tools.ietf.org/html/rfc3986" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="348409a00d114a1c82deebd4052419b5" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="b7419ebfc07b49e190b7a6552c2477b3"><span data-offset-key="b7419ebfc07b49e190b7a6552c2477b3:0">RFC3986</span></span></span></a><span data-key="c57f97ee8143476faae7b17bdac1467b"><span data-offset-key="c57f97ee8143476faae7b17bdac1467b:0">. The only allowed characters are (0-9, a-z, A-Z, </span>`_`<span data-offset-key="c57f97ee8143476faae7b17bdac1467b:2">, </span>`-`<span data-offset-key="c57f97ee8143476faae7b17bdac1467b:4">, </span>`~`<span data-offset-key="c57f97ee8143476faae7b17bdac1467b:6">).</span></span>
-
--   
-
-    <span data-key="d4d4090030ba4394b2eea4990d5dcf16">`clean_accents`<span data-offset-key="d4d4090030ba4394b2eea4990d5dcf16:1">: Set to </span>`true`<span data-offset-key="d4d4090030ba4394b2eea4990d5dcf16:3"> to remove diacritics from slug characters before sanitizing. This is often helpful when using </span>`ascii`<span data-offset-key="d4d4090030ba4394b2eea4990d5dcf16:5"> encoding.</span></span>
-
--   
-
-    <span data-key="3e33ae8e68be4a158c45c81c8fa9d537">`sanitize_replacement`<span data-offset-key="3e33ae8e68be4a158c45c81c8fa9d537:1">: The replacement string used to substitute unsafe characters, defaults to </span>`-`<span data-offset-key="3e33ae8e68be4a158c45c81c8fa9d537:3">.</span></span>
+- <span data-key="3e33ae8e68be4a158c45c81c8fa9d537">`sanitize_replacement`<span data-offset-key="3e33ae8e68be4a158c45c81c8fa9d537:1">: The replacement string used to substitute unsafe characters, defaults to </span>`-`<span data-offset-key="3e33ae8e68be4a158c45c81c8fa9d537:3">.</span></span>
 
 <span data-key="7e41a2bfb8ae4097bbc5582dba561e2d">**Example**</span>
 
@@ -1673,117 +1555,71 @@ Copied!
 
 3
 
-<span data-key="69f0a4f29edf4ec28796f4938d07b8b1"><span data-offset-key="69f0a4f29edf4ec28796f4938d07b8b1:0"> clean\_accents: true</span></span>
+<span data-key="69f0a4f29edf4ec28796f4938d07b8b1"><span data-offset-key="69f0a4f29edf4ec28796f4938d07b8b1:0"> clean_accents: true</span></span>
 
 4
 
-<span data-key="5b9e88272abe48859366f6cf26a10835"><span data-offset-key="5b9e88272abe48859366f6cf26a10835:0"> sanitize\_replacement: "\_"</span></span>
+<span data-key="5b9e88272abe48859366f6cf26a10835"><span data-offset-key="5b9e88272abe48859366f6cf26a10835:0"> sanitize_replacement: "\_"</span></span>
 
 Copied!
 
 <span data-key="2fd450c9b5ed4e40b010cbdd510e0abb"><span data-offset-key="2fd450c9b5ed4e40b010cbdd510e0abb:0">Collections</span></span>
 
-<span data-key="831fdafd27ab481b936a4bdba2cfa824">*This setting is required.*</span>
+<span data-key="831fdafd27ab481b936a4bdba2cfa824">_This setting is required._</span>
 
 <span data-key="ddb2121e51044bf8989a50c742e3193a"><span data-offset-key="ddb2121e51044bf8989a50c742e3193a:0">The </span>`collections`<span data-offset-key="ddb2121e51044bf8989a50c742e3193a:2"> setting is the heart of your Netlify CMS configuration, as it determines how content types and editor fields in the UI generate files and content in your repository. Each collection you configure displays in the left sidebar of the Content page of the editor UI, in the order they are entered into your Netlify CMS </span>`config.yml`<span data-offset-key="ddb2121e51044bf8989a50c742e3193a:4"> file.</span></span>
 
 <span data-key="ebef929eafcc47e0bc12b78bf397b7e2">`collections`<span data-offset-key="ebef929eafcc47e0bc12b78bf397b7e2:1"> accepts a list of collection objects, each with the following options:</span></span>
 
--   
+- <span data-key="48f66ec25ceb4ec19f74dac9a2c3faae">`name`<span data-offset-key="48f66ec25ceb4ec19f74dac9a2c3faae:1"> (required): unique identifier for the collection, used as the key when referenced in other contexts (like the </span></span><a href="https://www.netlifycms.org/docs/widgets/#relation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="10c0aab5fa914268a9b4eab0c46fce6b" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="1ac93b2c79794fddab5bf9fac5b5919c"><span data-offset-key="1ac93b2c79794fddab5bf9fac5b5919c:0">relation widget</span></span></span></a><span data-key="8529abe528614c11b303d75bea3745b2"><span data-offset-key="8529abe528614c11b303d75bea3745b2:0">)</span></span>
 
-    <span data-key="48f66ec25ceb4ec19f74dac9a2c3faae">`name`<span data-offset-key="48f66ec25ceb4ec19f74dac9a2c3faae:1"> (required): unique identifier for the collection, used as the key when referenced in other contexts (like the </span></span><a href="https://www.netlifycms.org/docs/widgets/#relation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="10c0aab5fa914268a9b4eab0c46fce6b" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="1ac93b2c79794fddab5bf9fac5b5919c"><span data-offset-key="1ac93b2c79794fddab5bf9fac5b5919c:0">relation widget</span></span></span></a><span data-key="8529abe528614c11b303d75bea3745b2"><span data-offset-key="8529abe528614c11b303d75bea3745b2:0">)</span></span>
+- <span data-key="06cb25c53e294b9e888f2cdfdedff4e3">`identifier_field`<span data-offset-key="06cb25c53e294b9e888f2cdfdedff4e3:1">: see detailed description below</span></span>
 
--   
+- <span data-key="6fb609b34e9947439ed56e0943031ab3">`label`<span data-offset-key="6fb609b34e9947439ed56e0943031ab3:1">: label for the collection in the editor UI; defaults to the value of </span>`name`</span>
 
-    <span data-key="06cb25c53e294b9e888f2cdfdedff4e3">`identifier_field`<span data-offset-key="06cb25c53e294b9e888f2cdfdedff4e3:1">: see detailed description below</span></span>
+- <span data-key="d5f0008c331c40ec8b37594a4c888a11">`label_singular`<span data-offset-key="d5f0008c331c40ec8b37594a4c888a11:1">: singular label for certain elements in the editor; defaults to the value of </span>`label`</span>
 
--   
+- <span data-key="daa65ed9bbd94d489f42f9017f7864e3">`description`<span data-offset-key="daa65ed9bbd94d489f42f9017f7864e3:1">: optional text, displayed below the label when viewing a collection</span></span>
 
-    <span data-key="6fb609b34e9947439ed56e0943031ab3">`label`<span data-offset-key="6fb609b34e9947439ed56e0943031ab3:1">: label for the collection in the editor UI; defaults to the value of </span>`name`</span>
+- <span data-key="b2ca7bdf8db14389aa4f2609f459195d">`files`<span data-offset-key="b2ca7bdf8db14389aa4f2609f459195d:1"> or </span>`folder`<span data-offset-key="b2ca7bdf8db14389aa4f2609f459195d:3"> (requires one of these): specifies the collection type and location; details in </span></span><a href="https://www.netlifycms.org/docs/collection-types" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4042b5647ff8440083b8d38cf4508ab8" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="c301c4a908254313ac462e7363eed94b"><span data-offset-key="c301c4a908254313ac462e7363eed94b:0">Collection Types</span></span></span></a><span data-key="8ea24b6e2bb3418caa054cc710a8dbc2"><span data-offset-key="8ea24b6e2bb3418caa054cc710a8dbc2:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="4724bc228f844577b1c9d493b4fc41c0">`filter`<span data-offset-key="4724bc228f844577b1c9d493b4fc41c0:1">: optional filter for </span>`folder`<span data-offset-key="4724bc228f844577b1c9d493b4fc41c0:3"> collections; details in </span></span><a href="https://www.netlifycms.org/docs/collection-types" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3f28864926024b31b41fdc99e66b95af" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="bfe0aa6eb25d416e9036ce6c1dfb1304"><span data-offset-key="bfe0aa6eb25d416e9036ce6c1dfb1304:0">Collection Types</span></span></span></a><span data-key="9a12a5c545f54d96acbb3bbcdaa39301"><span data-offset-key="9a12a5c545f54d96acbb3bbcdaa39301:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="d5f0008c331c40ec8b37594a4c888a11">`label_singular`<span data-offset-key="d5f0008c331c40ec8b37594a4c888a11:1">: singular label for certain elements in the editor; defaults to the value of </span>`label`</span>
+- <span data-key="e01eb1768f3243e4b029d2a81df73193">`create`<span data-offset-key="e01eb1768f3243e4b029d2a81df73193:1">: for </span>`folder`<span data-offset-key="e01eb1768f3243e4b029d2a81df73193:3"> collections only; </span>`true`<span data-offset-key="e01eb1768f3243e4b029d2a81df73193:5"> allows users to create new items in the collection; defaults to </span>`false`</span>
 
--   
+- <span data-key="50f40d336b7f483291881412c6bc6b08">`publish`<span data-offset-key="50f40d336b7f483291881412c6bc6b08:1">: for </span>`publish_mode: editorial_workflow`<span data-offset-key="50f40d336b7f483291881412c6bc6b08:3"> only; </span>`false`<span data-offset-key="50f40d336b7f483291881412c6bc6b08:5"> hides UI publishing controls for a collection; defaults to </span>`true`</span>
 
-    <span data-key="daa65ed9bbd94d489f42f9017f7864e3">`description`<span data-offset-key="daa65ed9bbd94d489f42f9017f7864e3:1">: optional text, displayed below the label when viewing a collection</span></span>
+- <span data-key="50d6d3dbb2a447f2a7c87efbae2bb55a">`hide`<span data-offset-key="50d6d3dbb2a447f2a7c87efbae2bb55a:1">: </span>`true`<span data-offset-key="50d6d3dbb2a447f2a7c87efbae2bb55a:3"> hides a collection in the CMS UI; defaults to </span>`false`<span data-offset-key="50d6d3dbb2a447f2a7c87efbae2bb55a:5">. Useful when using the relation widget to hide referenced collections.</span></span>
 
--   
+- <span data-key="853b27e39a5946a38fbf663fedc4e7e8">`delete`<span data-offset-key="853b27e39a5946a38fbf663fedc4e7e8:1">: </span>`false`<span data-offset-key="853b27e39a5946a38fbf663fedc4e7e8:3"> prevents users from deleting items in a collection; defaults to </span>`true`</span>
 
-    <span data-key="b2ca7bdf8db14389aa4f2609f459195d">`files`<span data-offset-key="b2ca7bdf8db14389aa4f2609f459195d:1"> or </span>`folder`<span data-offset-key="b2ca7bdf8db14389aa4f2609f459195d:3"> (requires one of these): specifies the collection type and location; details in </span></span><a href="https://www.netlifycms.org/docs/collection-types" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4042b5647ff8440083b8d38cf4508ab8" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="c301c4a908254313ac462e7363eed94b"><span data-offset-key="c301c4a908254313ac462e7363eed94b:0">Collection Types</span></span></span></a><span data-key="8ea24b6e2bb3418caa054cc710a8dbc2"><span data-offset-key="8ea24b6e2bb3418caa054cc710a8dbc2:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="a1c987c946a741139c629500e6bb7768">`extension`<span data-offset-key="a1c987c946a741139c629500e6bb7768:1">: see detailed description below</span></span>
 
--   
+- <span data-key="5a603182536d4b468f66ecf18a4647ec">`format`<span data-offset-key="5a603182536d4b468f66ecf18a4647ec:1">: see detailed description below</span></span>
 
-    <span data-key="4724bc228f844577b1c9d493b4fc41c0">`filter`<span data-offset-key="4724bc228f844577b1c9d493b4fc41c0:1">: optional filter for </span>`folder`<span data-offset-key="4724bc228f844577b1c9d493b4fc41c0:3"> collections; details in </span></span><a href="https://www.netlifycms.org/docs/collection-types" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3f28864926024b31b41fdc99e66b95af" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="bfe0aa6eb25d416e9036ce6c1dfb1304"><span data-offset-key="bfe0aa6eb25d416e9036ce6c1dfb1304:0">Collection Types</span></span></span></a><span data-key="9a12a5c545f54d96acbb3bbcdaa39301"><span data-offset-key="9a12a5c545f54d96acbb3bbcdaa39301:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="e20c179ccb3e44f19993efcc93c0386b">`frontmatter_delimiter`<span data-offset-key="e20c179ccb3e44f19993efcc93c0386b:1">: see detailed description under </span>`format`</span>
 
--   
+- <span data-key="15f7f9a969de480d8b9c1d035c5c50b6">`slug`<span data-offset-key="15f7f9a969de480d8b9c1d035c5c50b6:1">: see detailed description below</span></span>
 
-    <span data-key="e01eb1768f3243e4b029d2a81df73193">`create`<span data-offset-key="e01eb1768f3243e4b029d2a81df73193:1">: for </span>`folder`<span data-offset-key="e01eb1768f3243e4b029d2a81df73193:3"> collections only; </span>`true`<span data-offset-key="e01eb1768f3243e4b029d2a81df73193:5"> allows users to create new items in the collection; defaults to </span>`false`</span>
+- <span data-key="a28a54b0c59e4c51affed2b957dd5af5">`preview_path`<span data-offset-key="a28a54b0c59e4c51affed2b957dd5af5:1">: see detailed description below</span></span>
 
--   
+- <span data-key="d41fb2475fb24b9ebc212f152bd465a9">`preview_path_date_field`<span data-offset-key="d41fb2475fb24b9ebc212f152bd465a9:1">: see detailed description below</span></span>
 
-    <span data-key="50f40d336b7f483291881412c6bc6b08">`publish`<span data-offset-key="50f40d336b7f483291881412c6bc6b08:1">: for </span>`publish_mode:                                                 editorial_workflow`<span data-offset-key="50f40d336b7f483291881412c6bc6b08:3"> only; </span>`false`<span data-offset-key="50f40d336b7f483291881412c6bc6b08:5"> hides UI publishing controls for a collection; defaults to </span>`true`</span>
+- <span data-key="2a4b0610487e44548924a24d813d4f97">`fields`<span data-offset-key="2a4b0610487e44548924a24d813d4f97:1"> (required): see detailed description below</span></span>
 
--   
+- <span data-key="360339fa0f6e4992b105f96a650a48c2">`editor`<span data-offset-key="360339fa0f6e4992b105f96a650a48c2:1">: see detailed description below</span></span>
 
-    <span data-key="50d6d3dbb2a447f2a7c87efbae2bb55a">`hide`<span data-offset-key="50d6d3dbb2a447f2a7c87efbae2bb55a:1">: </span>`true`<span data-offset-key="50d6d3dbb2a447f2a7c87efbae2bb55a:3"> hides a collection in the CMS UI; defaults to </span>`false`<span data-offset-key="50d6d3dbb2a447f2a7c87efbae2bb55a:5">. Useful when using the relation widget to hide referenced collections.</span></span>
+- <span data-key="3ed6c15241c84e779596b5083b024365">`summary`<span data-offset-key="3ed6c15241c84e779596b5083b024365:1">: see detailed description below</span></span>
 
--   
+- <span data-key="09f2afa63b1246e0920adb671c129144">`sortable_fields`<span data-offset-key="09f2afa63b1246e0920adb671c129144:1">: see detailed description below</span></span>
 
-    <span data-key="853b27e39a5946a38fbf663fedc4e7e8">`delete`<span data-offset-key="853b27e39a5946a38fbf663fedc4e7e8:1">: </span>`false`<span data-offset-key="853b27e39a5946a38fbf663fedc4e7e8:3"> prevents users from deleting items in a collection; defaults to </span>`true`</span>
+- <span data-key="9b4b9243daaa4a05a9133a2e90a311b3">`view_filters`<span data-offset-key="9b4b9243daaa4a05a9133a2e90a311b3:1">: see detailed description below</span></span>
 
--   
-
-    <span data-key="a1c987c946a741139c629500e6bb7768">`extension`<span data-offset-key="a1c987c946a741139c629500e6bb7768:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="5a603182536d4b468f66ecf18a4647ec">`format`<span data-offset-key="5a603182536d4b468f66ecf18a4647ec:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="e20c179ccb3e44f19993efcc93c0386b">`frontmatter_delimiter`<span data-offset-key="e20c179ccb3e44f19993efcc93c0386b:1">: see detailed description under </span>`format`</span>
-
--   
-
-    <span data-key="15f7f9a969de480d8b9c1d035c5c50b6">`slug`<span data-offset-key="15f7f9a969de480d8b9c1d035c5c50b6:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="a28a54b0c59e4c51affed2b957dd5af5">`preview_path`<span data-offset-key="a28a54b0c59e4c51affed2b957dd5af5:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="d41fb2475fb24b9ebc212f152bd465a9">`preview_path_date_field`<span data-offset-key="d41fb2475fb24b9ebc212f152bd465a9:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="2a4b0610487e44548924a24d813d4f97">`fields`<span data-offset-key="2a4b0610487e44548924a24d813d4f97:1"> (required): see detailed description below</span></span>
-
--   
-
-    <span data-key="360339fa0f6e4992b105f96a650a48c2">`editor`<span data-offset-key="360339fa0f6e4992b105f96a650a48c2:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="3ed6c15241c84e779596b5083b024365">`summary`<span data-offset-key="3ed6c15241c84e779596b5083b024365:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="09f2afa63b1246e0920adb671c129144">`sortable_fields`<span data-offset-key="09f2afa63b1246e0920adb671c129144:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="9b4b9243daaa4a05a9133a2e90a311b3">`view_filters`<span data-offset-key="9b4b9243daaa4a05a9133a2e90a311b3:1">: see detailed description below</span></span>
-
--   
-
-    <span data-key="43b3f8b10e6b45e489acc1c4e85470a9">`view_groups`<span data-offset-key="43b3f8b10e6b45e489acc1c4e85470a9:1">: see detailed description below</span></span>
+- <span data-key="43b3f8b10e6b45e489acc1c4e85470a9">`view_groups`<span data-offset-key="43b3f8b10e6b45e489acc1c4e85470a9:1">: see detailed description below</span></span>
 
 <span data-key="6bf8ee8d7c404d71bc765bd0c21933f4"><span data-offset-key="6bf8ee8d7c404d71bc765bd0c21933f4:0">The last few options require more detailed information.</span></span>
 
-### 
+###
 
 <span data-key="33f5faad15354575b41ec9bceecbd876">`identifier_field`</span>
 
@@ -1801,11 +1637,11 @@ Copied!
 
 3
 
-<span data-key="479f2666a775438f9887eed207dd11dc"><span data-offset-key="479f2666a775438f9887eed207dd11dc:0"> identifier\_field: name</span></span>
+<span data-key="479f2666a775438f9887eed207dd11dc"><span data-offset-key="479f2666a775438f9887eed207dd11dc:0"> identifier_field: name</span></span>
 
 Copied!
 
-### 
+###
 
 <span data-key="d48fa6ae45b04f4386e4dbe969717f78">`extension`<span data-offset-key="d48fa6ae45b04f4386e4dbe969717f78:1"> and </span>`format`</span>
 
@@ -1817,41 +1653,27 @@ Copied!
 
 <span data-key="ddf6f210031f4d0aa44500c89c2b2959">`format`<span data-offset-key="ddf6f210031f4d0aa44500c89c2b2959:1"> determines how collection files are parsed and saved. It will be inferred if the </span>`extension`<span data-offset-key="ddf6f210031f4d0aa44500c89c2b2959:3"> field or existing collection file extensions match one of the supported extensions above. It accepts the following values:</span></span>
 
--   
+- <span data-key="edd182e5b1df48dea9e2af2170126f26">`yml`<span data-offset-key="edd182e5b1df48dea9e2af2170126f26:1"> or </span>`yaml`<span data-offset-key="edd182e5b1df48dea9e2af2170126f26:3">: parses and saves files as YAML-formatted data files; saves with </span>`yml`<span data-offset-key="edd182e5b1df48dea9e2af2170126f26:5"> extension by default</span></span>
 
-    <span data-key="edd182e5b1df48dea9e2af2170126f26">`yml`<span data-offset-key="edd182e5b1df48dea9e2af2170126f26:1"> or </span>`yaml`<span data-offset-key="edd182e5b1df48dea9e2af2170126f26:3">: parses and saves files as YAML-formatted data files; saves with </span>`yml`<span data-offset-key="edd182e5b1df48dea9e2af2170126f26:5"> extension by default</span></span>
+- <span data-key="e50a24054e254f8baabf4e3150acac42">`toml`<span data-offset-key="e50a24054e254f8baabf4e3150acac42:1">: parses and saves files as TOML-formatted data files; saves with </span>`toml`<span data-offset-key="e50a24054e254f8baabf4e3150acac42:3"> extension by default</span></span>
 
--   
+- <span data-key="754ac10d65c64c22abe597ecb2320444">`json`<span data-offset-key="754ac10d65c64c22abe597ecb2320444:1">: parses and saves files as JSON-formatted data files; saves with </span>`json`<span data-offset-key="754ac10d65c64c22abe597ecb2320444:3"> extension by default</span></span>
 
-    <span data-key="e50a24054e254f8baabf4e3150acac42">`toml`<span data-offset-key="e50a24054e254f8baabf4e3150acac42:1">: parses and saves files as TOML-formatted data files; saves with </span>`toml`<span data-offset-key="e50a24054e254f8baabf4e3150acac42:3"> extension by default</span></span>
+- <span data-key="e53a812f69054968af734e60b3756fe5">`frontmatter`<span data-offset-key="e53a812f69054968af734e60b3756fe5:1">: parses files and saves files with data frontmatter followed by an unparsed body text (edited using a </span>`body`<span data-offset-key="e53a812f69054968af734e60b3756fe5:3"> field); saves with </span>`md`<span data-offset-key="e53a812f69054968af734e60b3756fe5:5"> extension by default; default for collections that can't be inferred. Collections with </span>`frontmatter`<span data-offset-key="e53a812f69054968af734e60b3756fe5:7"> format (either inferred or explicitly set) can parse files with frontmatter in YAML, TOML, or JSON format. However, they will be saved with YAML frontmatter.</span></span>
 
--   
+- <span data-key="c97dd752c8d647df8ff26440f3bedcfa">`yaml-frontmatter`<span data-offset-key="c97dd752c8d647df8ff26440f3bedcfa:1">: same as the </span>`frontmatter`<span data-offset-key="c97dd752c8d647df8ff26440f3bedcfa:3"> format above, except frontmatter will be both parsed and saved only as YAML, followed by unparsed body text. The default delimiter for this option is </span>`---`<span data-offset-key="c97dd752c8d647df8ff26440f3bedcfa:5">.</span></span>
 
-    <span data-key="754ac10d65c64c22abe597ecb2320444">`json`<span data-offset-key="754ac10d65c64c22abe597ecb2320444:1">: parses and saves files as JSON-formatted data files; saves with </span>`json`<span data-offset-key="754ac10d65c64c22abe597ecb2320444:3"> extension by default</span></span>
+- <span data-key="aa015ebcd22645b2b6e11c4e719b2f40">`toml-frontmatter`<span data-offset-key="aa015ebcd22645b2b6e11c4e719b2f40:1">: same as the </span>`frontmatter`<span data-offset-key="aa015ebcd22645b2b6e11c4e719b2f40:3"> format above, except frontmatter will be both parsed and saved only as TOML, followed by unparsed body text. The default delimiter for this option is </span>`+++`<span data-offset-key="aa015ebcd22645b2b6e11c4e719b2f40:5">.</span></span>
 
--   
+- <span data-key="9d7119dabb774b69b47dea03ba0c4eb9">`json-frontmatter`<span data-offset-key="9d7119dabb774b69b47dea03ba0c4eb9:1">: same as the </span>`frontmatter`<span data-offset-key="9d7119dabb774b69b47dea03ba0c4eb9:3"> format above, except frontmatter will be both parsed and saved as JSON, followed by unparsed body text. The default delimiter for this option is </span>`{`<span data-offset-key="9d7119dabb774b69b47dea03ba0c4eb9:5"> </span>`}`<span data-offset-key="9d7119dabb774b69b47dea03ba0c4eb9:7">.</span></span>
 
-    <span data-key="e53a812f69054968af734e60b3756fe5">`frontmatter`<span data-offset-key="e53a812f69054968af734e60b3756fe5:1">: parses files and saves files with data frontmatter followed by an unparsed body text (edited using a </span>`body`<span data-offset-key="e53a812f69054968af734e60b3756fe5:3"> field); saves with </span>`md`<span data-offset-key="e53a812f69054968af734e60b3756fe5:5"> extension by default; default for collections that can't be inferred. Collections with </span>`frontmatter`<span data-offset-key="e53a812f69054968af734e60b3756fe5:7"> format (either inferred or explicitly set) can parse files with frontmatter in YAML, TOML, or JSON format. However, they will be saved with YAML frontmatter.</span></span>
-
--   
-
-    <span data-key="c97dd752c8d647df8ff26440f3bedcfa">`yaml-frontmatter`<span data-offset-key="c97dd752c8d647df8ff26440f3bedcfa:1">: same as the </span>`frontmatter`<span data-offset-key="c97dd752c8d647df8ff26440f3bedcfa:3"> format above, except frontmatter will be both parsed and saved only as YAML, followed by unparsed body text. The default delimiter for this option is </span>`---`<span data-offset-key="c97dd752c8d647df8ff26440f3bedcfa:5">.</span></span>
-
--   
-
-    <span data-key="aa015ebcd22645b2b6e11c4e719b2f40">`toml-frontmatter`<span data-offset-key="aa015ebcd22645b2b6e11c4e719b2f40:1">: same as the </span>`frontmatter`<span data-offset-key="aa015ebcd22645b2b6e11c4e719b2f40:3"> format above, except frontmatter will be both parsed and saved only as TOML, followed by unparsed body text. The default delimiter for this option is </span>`+++`<span data-offset-key="aa015ebcd22645b2b6e11c4e719b2f40:5">.</span></span>
-
--   
-
-    <span data-key="9d7119dabb774b69b47dea03ba0c4eb9">`json-frontmatter`<span data-offset-key="9d7119dabb774b69b47dea03ba0c4eb9:1">: same as the </span>`frontmatter`<span data-offset-key="9d7119dabb774b69b47dea03ba0c4eb9:3"> format above, except frontmatter will be both parsed and saved as JSON, followed by unparsed body text. The default delimiter for this option is </span>`{`<span data-offset-key="9d7119dabb774b69b47dea03ba0c4eb9:5"> </span>`}`<span data-offset-key="9d7119dabb774b69b47dea03ba0c4eb9:7">.</span></span>
-
-### 
+###
 
 <span data-key="2f391438c2b64d039968b7909b386055">`frontmatter_delimiter`</span>
 
 <span data-key="99deffa08ff74afdaed5d2bb89472e53"><span data-offset-key="99deffa08ff74afdaed5d2bb89472e53:0">If you have an explicit frontmatter format declared, this option allows you to specify a custom delimiter like </span>`~~~`<span data-offset-key="99deffa08ff74afdaed5d2bb89472e53:2">. If you need different beginning and ending delimiters, you can use an array like </span>`["(", ")"]`<span data-offset-key="99deffa08ff74afdaed5d2bb89472e53:4">.</span></span>
 
-### 
+###
 
 <span data-key="dcb33594226f4eeba72a2c0755b01cc6">`slug`</span>
 
@@ -1861,37 +1683,21 @@ Copied!
 
 <span data-key="c29cfee0a00b474c87e7dbc45b98ca4c">**Available template tags:**</span>
 
--   
+- <span data-key="5c63c55578324c54b1cb9e09b7cdb064"><span data-offset-key="5c63c55578324c54b1cb9e09b7cdb064:0">Any field can be referenced by wrapping the field name in double curly braces, eg. </span>`{{author}}`</span>
 
-    <span data-key="5c63c55578324c54b1cb9e09b7cdb064"><span data-offset-key="5c63c55578324c54b1cb9e09b7cdb064:0">Any field can be referenced by wrapping the field name in double curly braces, eg. </span>`{{author}}`</span>
+- <span data-key="aee746b0087c41d995bce73f87a03caa">`{{slug}}`<span data-offset-key="aee746b0087c41d995bce73f87a03caa:1">: a url-safe version of the </span>`title`<span data-offset-key="aee746b0087c41d995bce73f87a03caa:3"> field (or identifier field) for the file</span></span>
 
--   
+- <span data-key="92b050e912ab45e680c34701a77fab9c">`{{year}}`<span data-offset-key="92b050e912ab45e680c34701a77fab9c:1">: 4-digit year of the file creation date</span></span>
 
-    <span data-key="aee746b0087c41d995bce73f87a03caa">`{{slug}}`<span data-offset-key="aee746b0087c41d995bce73f87a03caa:1">: a url-safe version of the </span>`title`<span data-offset-key="aee746b0087c41d995bce73f87a03caa:3"> field (or identifier field) for the file</span></span>
+- <span data-key="c9c3375a2c3f4f9d985d1523344ca48c">`{{month}}`<span data-offset-key="c9c3375a2c3f4f9d985d1523344ca48c:1">: 2-digit month of the file creation date</span></span>
 
--   
+- <span data-key="8e47e31a1c194e3ea7c50596657ab4a8">`{{day}}`<span data-offset-key="8e47e31a1c194e3ea7c50596657ab4a8:1">: 2-digit day of the month of the file creation date</span></span>
 
-    <span data-key="92b050e912ab45e680c34701a77fab9c">`{{year}}`<span data-offset-key="92b050e912ab45e680c34701a77fab9c:1">: 4-digit year of the file creation date</span></span>
+- <span data-key="e7af890024854334a63237f8037091ac">`{{hour}}`<span data-offset-key="e7af890024854334a63237f8037091ac:1">: 2-digit hour of the file creation date</span></span>
 
--   
+- <span data-key="e7d5492644874b7f88f00d6ccb632882">`{{minute}}`<span data-offset-key="e7d5492644874b7f88f00d6ccb632882:1">: 2-digit minute of the file creation date</span></span>
 
-    <span data-key="c9c3375a2c3f4f9d985d1523344ca48c">`{{month}}`<span data-offset-key="c9c3375a2c3f4f9d985d1523344ca48c:1">: 2-digit month of the file creation date</span></span>
-
--   
-
-    <span data-key="8e47e31a1c194e3ea7c50596657ab4a8">`{{day}}`<span data-offset-key="8e47e31a1c194e3ea7c50596657ab4a8:1">: 2-digit day of the month of the file creation date</span></span>
-
--   
-
-    <span data-key="e7af890024854334a63237f8037091ac">`{{hour}}`<span data-offset-key="e7af890024854334a63237f8037091ac:1">: 2-digit hour of the file creation date</span></span>
-
--   
-
-    <span data-key="e7d5492644874b7f88f00d6ccb632882">`{{minute}}`<span data-offset-key="e7d5492644874b7f88f00d6ccb632882:1">: 2-digit minute of the file creation date</span></span>
-
--   
-
-    <span data-key="952fc98d38364d038cc43caf3f506631">`{{second}}`<span data-offset-key="952fc98d38364d038cc43caf3f506631:1">: 2-digit second of the file creation date</span></span>
+- <span data-key="952fc98d38364d038cc43caf3f506631">`{{second}}`<span data-offset-key="952fc98d38364d038cc43caf3f506631:1">: 2-digit second of the file creation date</span></span>
 
 <span data-key="9686750d9d404b5e8a53fb93512deb5a">**Example:**</span>
 
@@ -1917,7 +1723,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="22b8511707d842259adf7b9a701ee475">`preview_path`</span>
 
@@ -1927,25 +1733,15 @@ Copied!
 
 <span data-key="2122e7f1af5b42a492a7fa57625dc9f0"><span data-offset-key="2122e7f1af5b42a492a7fa57625dc9f0:0">Template tags are the same as those for </span></span><a href="https://www.netlifycms.org/docs/configuration-options/#slug" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="dfe57a4801584d7986a48f922971f761" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="6930439ec8224b5d90c86ecec50a56df"><span data-offset-key="6930439ec8224b5d90c86ecec50a56df:0">slug</span></span></span></a><span data-key="72a51a688a204b0baa07c6468de41430"><span data-offset-key="72a51a688a204b0baa07c6468de41430:0">, with the following exceptions:</span></span>
 
--   
+- <span data-key="06b20c5d6ba74e46b4bb6c7520981331">`{{slug}}`<span data-offset-key="06b20c5d6ba74e46b4bb6c7520981331:1"> is the entire slug for the current entry (not just the url-safe identifier, as is the case with </span></span><a href="https://www.netlifycms.org/docs/configuration-options/#slug" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4707da6ea28b49b58639be8a7577153a" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="5d47d69654864f369291d4c0e17b4f78"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="5d47d69654864f369291d4c0e17b4f78:0">slug</code><span data-offset-key="5d47d69654864f369291d4c0e17b4f78:1"> configuration</span></span></span></a><span data-key="d4957bceff5e43d6be376b06e2b9cf3c"><span data-offset-key="d4957bceff5e43d6be376b06e2b9cf3c:0">)</span></span>
 
-    <span data-key="06b20c5d6ba74e46b4bb6c7520981331">`{{slug}}`<span data-offset-key="06b20c5d6ba74e46b4bb6c7520981331:1"> is the entire slug for the current entry (not just the url-safe identifier, as is the case with </span></span><a href="https://www.netlifycms.org/docs/configuration-options/#slug" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4707da6ea28b49b58639be8a7577153a" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="5d47d69654864f369291d4c0e17b4f78"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="5d47d69654864f369291d4c0e17b4f78:0">slug</code><span data-offset-key="5d47d69654864f369291d4c0e17b4f78:1"> configuration</span></span></span></a><span data-key="d4957bceff5e43d6be376b06e2b9cf3c"><span data-offset-key="d4957bceff5e43d6be376b06e2b9cf3c:0">)</span></span>
+- <span data-key="51b2accea1b9484ab40847682b789870"><span data-offset-key="51b2accea1b9484ab40847682b789870:0">The date based template tags, such as </span>`{{year}}`<span data-offset-key="51b2accea1b9484ab40847682b789870:2"> and </span>`{{month}}`<span data-offset-key="51b2accea1b9484ab40847682b789870:4">, are pulled from a date field in your entry, and may require additional configuration - see </span></span><a href="https://www.netlifycms.org/docs/configuration-options/#preview_path_date_field" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="73f6cd7edf254cb28384cea83664c88d" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="e9ffb3ac66584e6e915111a55ad84146"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="e9ffb3ac66584e6e915111a55ad84146:0">preview_path_date_field</code></span></span></a><span data-key="77972c724de44ac78e03bdec31513356"><span data-offset-key="77972c724de44ac78e03bdec31513356:0"> for details. If a date template tag is used and no date can be found, </span>`preview_path`<span data-offset-key="77972c724de44ac78e03bdec31513356:2"> will be ignored.</span></span>
 
--   
+- <span data-key="9c559c186b124091affa019c884ae2bc">`{{dirname}}`<span data-offset-key="9c559c186b124091affa019c884ae2bc:1"> The path to the file's parent directory, relative to the collection's </span>`folder`<span data-offset-key="9c559c186b124091affa019c884ae2bc:3">.</span></span>
 
-    <span data-key="51b2accea1b9484ab40847682b789870"><span data-offset-key="51b2accea1b9484ab40847682b789870:0">The date based template tags, such as </span>`{{year}}`<span data-offset-key="51b2accea1b9484ab40847682b789870:2"> and </span>`{{month}}`<span data-offset-key="51b2accea1b9484ab40847682b789870:4">, are pulled from a date field in your entry, and may require additional configuration - see </span></span><a href="https://www.netlifycms.org/docs/configuration-options/#preview_path_date_field" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="73f6cd7edf254cb28384cea83664c88d" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="e9ffb3ac66584e6e915111a55ad84146"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="e9ffb3ac66584e6e915111a55ad84146:0">preview_path_date_field</code></span></span></a><span data-key="77972c724de44ac78e03bdec31513356"><span data-offset-key="77972c724de44ac78e03bdec31513356:0"> for details. If a date template tag is used and no date can be found, </span>`preview_path`<span data-offset-key="77972c724de44ac78e03bdec31513356:2"> will be ignored.</span></span>
+- <span data-key="599701668ace4206a6fd41182d8a5ffc">`{{filename}}`<span data-offset-key="599701668ace4206a6fd41182d8a5ffc:1"> The file name without the extension part.</span></span>
 
--   
-
-    <span data-key="9c559c186b124091affa019c884ae2bc">`{{dirname}}`<span data-offset-key="9c559c186b124091affa019c884ae2bc:1"> The path to the file's parent directory, relative to the collection's </span>`folder`<span data-offset-key="9c559c186b124091affa019c884ae2bc:3">.</span></span>
-
--   
-
-    <span data-key="599701668ace4206a6fd41182d8a5ffc">`{{filename}}`<span data-offset-key="599701668ace4206a6fd41182d8a5ffc:1"> The file name without the extension part.</span></span>
-
--   
-
-    <span data-key="4ee170e04dab4d60be53fcb1820d0b5a">`{{extension}}`<span data-offset-key="4ee170e04dab4d60be53fcb1820d0b5a:1"> The file extension.</span></span>
+- <span data-key="4ee170e04dab4d60be53fcb1820d0b5a">`{{extension}}`<span data-offset-key="4ee170e04dab4d60be53fcb1820d0b5a:1"> The file extension.</span></span>
 
 <span data-key="5770d961e1d04c79952b65ec00de8853">**Examples:**</span>
 
@@ -1959,7 +1755,7 @@ Copied!
 
 3
 
-<span data-key="9d47255dc83d454a9423338820db02ec"><span data-offset-key="9d47255dc83d454a9423338820db02ec:0"> preview\_path: "blog/{{year}}/{{month}}/{{slug}}"</span></span>
+<span data-key="9d47255dc83d454a9423338820db02ec"><span data-offset-key="9d47255dc83d454a9423338820db02ec:0"> preview_path: "blog/{{year}}/{{month}}/{{slug}}"</span></span>
 
 Copied!
 
@@ -1973,11 +1769,11 @@ Copied!
 
 3
 
-<span data-key="25490e76bbe4414eab33cb4f2072e2f7"><span data-offset-key="25490e76bbe4414eab33cb4f2072e2f7:0"> preview\_path: "blog/{{year}}/{{month}}/{{filename}}.{{extension}}"</span></span>
+<span data-key="25490e76bbe4414eab33cb4f2072e2f7"><span data-offset-key="25490e76bbe4414eab33cb4f2072e2f7:0"> preview_path: "blog/{{year}}/{{month}}/{{filename}}.{{extension}}"</span></span>
 
 Copied!
 
-### 
+###
 
 <span data-key="a44ae0bcecb941cb98c998b74d1c8dcb">`preview_path_date_field`</span>
 
@@ -1995,11 +1791,11 @@ Copied!
 
 3
 
-<span data-key="bc22a66273244f039876333b9e09bf43"><span data-offset-key="bc22a66273244f039876333b9e09bf43:0"> preview\_path\_date\_field: "updated\_on"</span></span>
+<span data-key="bc22a66273244f039876333b9e09bf43"><span data-offset-key="bc22a66273244f039876333b9e09bf43:0"> preview_path_date_field: "updated_on"</span></span>
 
 Copied!
 
-### 
+###
 
 <span data-key="4caf0de4e85a480191250852eb79f627">`fields`</span>
 
@@ -2007,33 +1803,19 @@ Copied!
 
 <span data-key="597c996037e04c4aa301089ba41ae265">`fields`<span data-offset-key="597c996037e04c4aa301089ba41ae265:1"> accepts a list of collection objects, each with the following options:</span></span>
 
--   
+- <span data-key="66f99a0314fb4474a0f01fc8aecbbc85">`name`<span data-offset-key="66f99a0314fb4474a0f01fc8aecbbc85:1"> (required): unique identifier for the field, used as the key when referenced in other contexts (like the </span></span><a href="https://www.netlifycms.org/docs/widgets/#relation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="74c6cad8f449463cac4705cf984580b1" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="9d3ce75ed0214503aeb6cc929d0858f8"><span data-offset-key="9d3ce75ed0214503aeb6cc929d0858f8:0">relation widget</span></span></span></a><span data-key="7afecd79b6cf443a9f1ba0326e884a5e"><span data-offset-key="7afecd79b6cf443a9f1ba0326e884a5e:0">)</span></span>
 
-    <span data-key="66f99a0314fb4474a0f01fc8aecbbc85">`name`<span data-offset-key="66f99a0314fb4474a0f01fc8aecbbc85:1"> (required): unique identifier for the field, used as the key when referenced in other contexts (like the </span></span><a href="https://www.netlifycms.org/docs/widgets/#relation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="74c6cad8f449463cac4705cf984580b1" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="9d3ce75ed0214503aeb6cc929d0858f8"><span data-offset-key="9d3ce75ed0214503aeb6cc929d0858f8:0">relation widget</span></span></span></a><span data-key="7afecd79b6cf443a9f1ba0326e884a5e"><span data-offset-key="7afecd79b6cf443a9f1ba0326e884a5e:0">)</span></span>
+- <span data-key="7876fac2500441f78e616699ee572dcb">`label`<span data-offset-key="7876fac2500441f78e616699ee572dcb:1">: label for the field in the editor UI; defaults to the value of </span>`name`</span>
 
--   
+- <span data-key="9635e25661ab4bf79f9ec68fd2a74b81">`widget`<span data-offset-key="9635e25661ab4bf79f9ec68fd2a74b81:1">: defines editor UI and inputs and file field data types; details in </span></span><a href="https://www.netlifycms.org/docs/widgets" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4cbe763f58804b0b8360e9077fbd0ad9" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="88f73551617c483495b427d5f915d5fc"><span data-offset-key="88f73551617c483495b427d5f915d5fc:0">Widgets</span></span></span></a><span data-key="11d9bda700fc45ebb9247f406b27f443"><span data-offset-key="11d9bda700fc45ebb9247f406b27f443:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="7876fac2500441f78e616699ee572dcb">`label`<span data-offset-key="7876fac2500441f78e616699ee572dcb:1">: label for the field in the editor UI; defaults to the value of </span>`name`</span>
+- <span data-key="58c6c8461b9246bc88602897dd88e56b">`default`<span data-offset-key="58c6c8461b9246bc88602897dd88e56b:1">: specify a default value for a field; available for most widget types (see </span></span><a href="https://www.netlifycms.org/docs/widgets" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e707fb71eab9425a83f336eb65270bf9" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="a936c548cd204868bd2aa8d2043e76d7"><span data-offset-key="a936c548cd204868bd2aa8d2043e76d7:0">Widgets</span></span></span></a><span data-key="770959de83884c888af58d5ce81db9e5"><span data-offset-key="770959de83884c888af58d5ce81db9e5:0"> for details on each widget type). Please note that field default value only works for folder collection type.</span></span>
 
--   
+- <span data-key="e668a534f5634750ab1d045e7531c61a">`required`<span data-offset-key="e668a534f5634750ab1d045e7531c61a:1">: specify as </span>`false`<span data-offset-key="e668a534f5634750ab1d045e7531c61a:3"> to make a field optional; defaults to </span>`true`</span>
 
-    <span data-key="9635e25661ab4bf79f9ec68fd2a74b81">`widget`<span data-offset-key="9635e25661ab4bf79f9ec68fd2a74b81:1">: defines editor UI and inputs and file field data types; details in </span></span><a href="https://www.netlifycms.org/docs/widgets" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4cbe763f58804b0b8360e9077fbd0ad9" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="88f73551617c483495b427d5f915d5fc"><span data-offset-key="88f73551617c483495b427d5f915d5fc:0">Widgets</span></span></span></a><span data-key="11d9bda700fc45ebb9247f406b27f443"><span data-offset-key="11d9bda700fc45ebb9247f406b27f443:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="289bcfa6edaa46819be235fb4bd15040">`pattern`<span data-offset-key="289bcfa6edaa46819be235fb4bd15040:1">: add field validation by specifying a list with a regex pattern and an error message; more extensive validation can be achieved with </span></span><a href="https://www.netlifycms.org/docs/custom-widgets/#advanced-field-validation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="23d72ca7ab174a7f902dfd6e4bfb0733" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="346164d40e724350b33e0ab5fd20e310"><span data-offset-key="346164d40e724350b33e0ab5fd20e310:0">custom widgets</span></span></span></a><span data-key="60ec467d3bab424bad86dbcb7c7fb951"><span data-offset-key="60ec467d3bab424bad86dbcb7c7fb951:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
-
-    <span data-key="58c6c8461b9246bc88602897dd88e56b">`default`<span data-offset-key="58c6c8461b9246bc88602897dd88e56b:1">: specify a default value for a field; available for most widget types (see </span></span><a href="https://www.netlifycms.org/docs/widgets" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e707fb71eab9425a83f336eb65270bf9" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="a936c548cd204868bd2aa8d2043e76d7"><span data-offset-key="a936c548cd204868bd2aa8d2043e76d7:0">Widgets</span></span></span></a><span data-key="770959de83884c888af58d5ce81db9e5"><span data-offset-key="770959de83884c888af58d5ce81db9e5:0"> for details on each widget type). Please note that field default value only works for folder collection type.</span></span>
-
--   
-
-    <span data-key="e668a534f5634750ab1d045e7531c61a">`required`<span data-offset-key="e668a534f5634750ab1d045e7531c61a:1">: specify as </span>`false`<span data-offset-key="e668a534f5634750ab1d045e7531c61a:3"> to make a field optional; defaults to </span>`true`</span>
-
--   
-
-    <span data-key="289bcfa6edaa46819be235fb4bd15040">`pattern`<span data-offset-key="289bcfa6edaa46819be235fb4bd15040:1">: add field validation by specifying a list with a regex pattern and an error message; more extensive validation can be achieved with </span></span><a href="https://www.netlifycms.org/docs/custom-widgets/#advanced-field-validation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="23d72ca7ab174a7f902dfd6e4bfb0733" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="346164d40e724350b33e0ab5fd20e310"><span data-offset-key="346164d40e724350b33e0ab5fd20e310:0">custom widgets</span></span></span></a><span data-key="60ec467d3bab424bad86dbcb7c7fb951"><span data-offset-key="60ec467d3bab424bad86dbcb7c7fb951:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="6e15ea03e454411f8b6dca055693e88a">`comment`<span data-offset-key="6e15ea03e454411f8b6dca055693e88a:1">: optional comment to add before the field (only supported for </span>`yaml`<span data-offset-key="6e15ea03e454411f8b6dca055693e88a:3">)</span></span>
+- <span data-key="6e15ea03e454411f8b6dca055693e88a">`comment`<span data-offset-key="6e15ea03e454411f8b6dca055693e88a:1">: optional comment to add before the field (only supported for </span>`yaml`<span data-offset-key="6e15ea03e454411f8b6dca055693e88a:3">)</span></span>
 
 <span data-key="33f09428abc14be7b7dd2666ac99a1bb"><span data-offset-key="33f09428abc14be7b7dd2666ac99a1bb:0">In files with frontmatter, one field should be named </span>`body`<span data-offset-key="33f09428abc14be7b7dd2666ac99a1bb:2">. This special field represents the section of the document (usually markdown) that comes after the frontmatter.</span></span>
 
@@ -2077,15 +1859,13 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="1ae489cc51e0462e99786d0c85c5931a">`editor`</span>
 
 <span data-key="87890a044abd4ad8acba782ac7bd29a9"><span data-offset-key="87890a044abd4ad8acba782ac7bd29a9:0">This setting changes options for the editor view of a collection or a file inside a files collection. It has one option so far:</span></span>
 
--   
-
-    <span data-key="dedd83fdd5d74fa88d9e21aebd641cdc">`preview`<span data-offset-key="dedd83fdd5d74fa88d9e21aebd641cdc:1">: set to </span>`false`<span data-offset-key="dedd83fdd5d74fa88d9e21aebd641cdc:3"> to disable the preview pane for this collection or file; defaults to </span>`true`</span>
+- <span data-key="dedd83fdd5d74fa88d9e21aebd641cdc">`preview`<span data-offset-key="dedd83fdd5d74fa88d9e21aebd641cdc:1">: set to </span>`false`<span data-offset-key="dedd83fdd5d74fa88d9e21aebd641cdc:3"> to disable the preview pane for this collection or file; defaults to </span>`true`</span>
 
 <span data-key="272e3b287fb04bfc88f075e0e18fc120">**Example:**</span>
 
@@ -2101,7 +1881,7 @@ Copied!
 
 <span data-key="f6b02e9c64dc4fd4b509a83c49bbd583">**Note**<span data-offset-key="f6b02e9c64dc4fd4b509a83c49bbd583:1">: Setting this as a top level configuration will set the default for all collections</span></span>
 
-### 
+###
 
 <span data-key="fdc111e7a176472785a9d38aac8e7505">`summary`</span>
 
@@ -2111,25 +1891,15 @@ Copied!
 
 <span data-key="4af8711361a3421f95a3395caf42d1f5"><span data-offset-key="4af8711361a3421f95a3395caf42d1f5:0">Template tags are the same as those for </span></span><a href="https://www.netlifycms.org/docs/configuration-options/#slug" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7a513baaf5d24887b401343af3ec2f82" data-rnw-int-class="nearest_260-3187_262-3188-240__"><span data-key="71964aac8d4b4d9da56c20a0b61b86ff"><span data-offset-key="71964aac8d4b4d9da56c20a0b61b86ff:0">slug</span></span></span></a><span data-key="430c42b5d7864fe59af125d4d4072aff"><span data-offset-key="430c42b5d7864fe59af125d4d4072aff:0">, with the following additions:</span></span>
 
--   
+- <span data-key="3703f6bd41b94669ba46c9041dc45aea">`{{dirname}}`<span data-offset-key="3703f6bd41b94669ba46c9041dc45aea:1"> The path to the file's parent directory, relative to the collection's </span>`folder`<span data-offset-key="3703f6bd41b94669ba46c9041dc45aea:3">.</span></span>
 
-    <span data-key="3703f6bd41b94669ba46c9041dc45aea">`{{dirname}}`<span data-offset-key="3703f6bd41b94669ba46c9041dc45aea:1"> The path to the file's parent directory, relative to the collection's </span>`folder`<span data-offset-key="3703f6bd41b94669ba46c9041dc45aea:3">.</span></span>
+- <span data-key="3c35fb293e2b47c0b0c0781db871d079">`{{filename}}`<span data-offset-key="3c35fb293e2b47c0b0c0781db871d079:1"> The file name without the extension part.</span></span>
 
--   
+- <span data-key="b21947a89335435eaa04c19841809075">`{{extension}}`<span data-offset-key="b21947a89335435eaa04c19841809075:1"> The file extension.</span></span>
 
-    <span data-key="3c35fb293e2b47c0b0c0781db871d079">`{{filename}}`<span data-offset-key="3c35fb293e2b47c0b0c0781db871d079:1"> The file name without the extension part.</span></span>
+- <span data-key="f84b782ffcdf4d78b91f0777f44988e2">`{{commit_date}}`<span data-offset-key="f84b782ffcdf4d78b91f0777f44988e2:1"> The file commit date on supported backends (git based backends).</span></span>
 
--   
-
-    <span data-key="b21947a89335435eaa04c19841809075">`{{extension}}`<span data-offset-key="b21947a89335435eaa04c19841809075:1"> The file extension.</span></span>
-
--   
-
-    <span data-key="f84b782ffcdf4d78b91f0777f44988e2">`{{commit_date}}`<span data-offset-key="f84b782ffcdf4d78b91f0777f44988e2:1"> The file commit date on supported backends (git based backends).</span></span>
-
--   
-
-    <span data-key="4a614dffc2c44daeb81702119e1782ee">`{{commit_author}}`<span data-offset-key="4a614dffc2c44daeb81702119e1782ee:1"> The file author date on supported backends (git based backends).</span></span>
+- <span data-key="4a614dffc2c44daeb81702119e1782ee">`{{commit_author}}`<span data-offset-key="4a614dffc2c44daeb81702119e1782ee:1"> The file author date on supported backends (git based backends).</span></span>
 
 <span data-key="49e50745a9984b16804c5e50e9bcc437">**Example**</span>
 
@@ -2139,7 +1909,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="c79336e8fd1a41c49005427e175f8ccf">`sortable_fields`</span>
 
@@ -2157,11 +1927,11 @@ Copied!
 
 2
 
-<span data-key="20d3d60441644146b9fbdde03c2dd78e"><span data-offset-key="20d3d60441644146b9fbdde03c2dd78e:0"> sortable\_fields: \['commit\_date', 'title', 'commit\_author', 'language.en'\]</span></span>
+<span data-key="20d3d60441644146b9fbdde03c2dd78e"><span data-offset-key="20d3d60441644146b9fbdde03c2dd78e:0"> sortable_fields: \['commit_date', 'title', 'commit_author', 'language.en'\]</span></span>
 
 Copied!
 
-### 
+###
 
 <span data-key="5c53376cafbd416faff9c55267e68691">`view_filters`</span>
 
@@ -2173,7 +1943,7 @@ Copied!
 
 1
 
-<span data-key="a242ebfcb86d4455a0c1655e783edc25"><span data-offset-key="a242ebfcb86d4455a0c1655e783edc25:0"> view\_filters:</span></span>
+<span data-key="a242ebfcb86d4455a0c1655e783edc25"><span data-offset-key="a242ebfcb86d4455a0c1655e783edc25:0"> view_filters:</span></span>
 
 2
 
@@ -2213,7 +1983,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="86a4aef21e3f4772937c845736407646">`view_groups`</span>
 
@@ -2225,7 +1995,7 @@ Copied!
 
 1
 
-<span data-key="c16e399b67154e1abfc780bb0543847d"><span data-offset-key="c16e399b67154e1abfc780bb0543847d:0"> view\_groups:</span></span>
+<span data-key="c16e399b67154e1abfc780bb0543847d"><span data-offset-key="c16e399b67154e1abfc780bb0543847d:0"> view_groups:</span></span>
 
 2
 

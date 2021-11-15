@@ -14,36 +14,33 @@ Search
 
 <a href="https://dev.to/enter" class="crayons-btn crayons-btn--ghost-brand mr-2 hidden m:block whitespace-nowrap ml-auto">Log in</a> <a href="https://dev.to/enter?state=new-user" class="crayons-btn mr-2 whitespace-nowrap fs-s s:fs-base">Create account</a>
 
-DEV Community
--------------
+## DEV Community
 
 Close
 
-[DEV Community](https://dev.to/) is a community of 753,234 amazing developers
------------------------------------------------------------------------------
+## [DEV Community](https://dev.to/) is a community of 753,234 amazing developers
 
 We're a place where coders share, stay up-to-date and grow their careers.
 
 <a href="https://dev.to/enter?state=new-user" class="crayons-btn w-100 mb-2">Create account</a> <a href="https://dev.to/enter" class="crayons-btn crayons-btn--ghost-brand w-100">Log in</a>
 
--   Home
--   Sign In/Up
--   Listings
--   Podcasts
--   Videos
--   Tags
--   FAQ
--   DEV Shop
--   Sponsors
--   About
--   Contact
+- Home
+- Sign In/Up
+- Listings
+- Podcasts
+- Videos
+- Tags
+- FAQ
+- DEV Shop
+- Sponsors
+- About
+- Contact
 
-Other
------
+## Other
 
--   Code of Conduct
--   Privacy Policy
--   Terms of use
+- Code of Conduct
+- Privacy Policy
+- Terms of use
 
 Twitter
 
@@ -63,8 +60,7 @@ User actions
 
 <span class="report-abuse-link-wrapper" data-path="/report-abuse?url=https://dev.to/bgoonz"></span>
 
-Bryan C Guner
-=============
+# Bryan C Guner
 
 I am a musician, former electrical engineer and current web-development student at Lambda School bootcamp!
 
@@ -98,8 +94,7 @@ Software Enginer at n/a
 
 More info about @bgoonz
 
-Chat with Bryan C Guner
------------------------
+## Chat with Bryan C Guner
 
 Close modal
 
@@ -111,19 +106,19 @@ All private interactions **must** abide by the [code of conduct](https://dev.to/
 
 <a href="https://dev.to/badge/one-year-club" class="js-profile-badge" title="One Year Club"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--mvoi2vUk--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" alt="One Year Club" class="mx-auto max-w-75 h-auto align-middle" /></a> <a href="https://dev.to/badge/4-week-streak" class="js-profile-badge" title="4 Week Streak"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--76zWVT__--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/11/4WeekStreak-badge.png" alt="4 Week Streak" class="mx-auto max-w-75 h-auto align-middle" /></a>
 
-### 
+###
 
 Currently learning
 
 JavaScript, React, PostgreSQL, Redux, Python, HTML, and CSS.
 
-### 
+###
 
 Skills/Languages
 
 JavaScript, HTML, Cascading Style Sheets (CSS),React.js, PostgreSQL,jQuery AJAX, Data Structures,, Python, Control Systems, Algorithms, Digital Signal Processing
 
-### 
+###
 
 Currently hacking on
 
@@ -155,8 +150,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/intro-to-the-concepts-behind-react-l8k" class="crayons-story__tertiary fs-xs">Oct 30<span class="time-ago-indicator-initial-placeholder" data-seconds="1635590430"></span></a>
 
-<a href="https://dev.to/bgoonz/intro-to-the-concepts-behind-react-l8k" id="article-link-881915">Intro To The Concepts Behind React</a>
---------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/intro-to-the-concepts-behind-react-l8k" id="article-link-881915">Intro To The Concepts Behind React</a>
 
 Reactions
 
@@ -194,8 +188,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/ultimate-markdown-cheatsheet-1o1e" class="crayons-story__tertiary fs-xs">Oct 15<span class="time-ago-indicator-initial-placeholder" data-seconds="1634309815"></span></a>
 
-<a href="https://dev.to/bgoonz/ultimate-markdown-cheatsheet-1o1e" id="article-link-864794">Ultimate Markdown Cheatsheet</a>
----------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/ultimate-markdown-cheatsheet-1o1e" id="article-link-864794">Ultimate Markdown Cheatsheet</a>
 
 Reactions
 
@@ -223,8 +216,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/python-tutorial-1cig" class="crayons-story__tertiary fs-xs">Sep 15<span class="time-ago-indicator-initial-placeholder" data-seconds="1631737822"></span></a>
 
-<a href="https://dev.to/bgoonz/python-tutorial-1cig" id="article-link-825425">Python Tutorial</a>
--------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/python-tutorial-1cig" id="article-link-825425">Python Tutorial</a>
 
 Reactions
 
@@ -252,8 +244,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/awesome-list-of-github-repositories-ni0" class="crayons-story__tertiary fs-xs">Aug 31<span class="time-ago-indicator-initial-placeholder" data-seconds="1630424962"></span></a>
 
-<a href="https://dev.to/bgoonz/awesome-list-of-github-repositories-ni0" id="article-link-809165">Awesome List Of Github Repositories</a>
-----------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/awesome-list-of-github-repositories-ni0" id="article-link-809165">Awesome List Of Github Repositories</a>
 
 Reactions
 
@@ -281,8 +272,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/array-callback-methods-implemented-with-for-loops-2d17" class="crayons-story__tertiary fs-xs">Aug 31<span class="time-ago-indicator-initial-placeholder" data-seconds="1630424895"></span></a>
 
-<a href="https://dev.to/bgoonz/array-callback-methods-implemented-with-for-loops-2d17" id="article-link-809164">Array Callback Methods Implemented With For Loops</a>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/array-callback-methods-implemented-with-for-loops-2d17" id="article-link-809164">Array Callback Methods Implemented With For Loops</a>
 
 Comments
 
@@ -306,8 +296,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/all-of-my-articles-part-2-59pb" class="crayons-story__tertiary fs-xs">Aug 25<span class="time-ago-indicator-initial-placeholder" data-seconds="1629850501"></span></a>
 
-<a href="https://dev.to/bgoonz/all-of-my-articles-part-2-59pb" id="article-link-802498">All Of My Articles Part 2</a>
----------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/all-of-my-articles-part-2-59pb" id="article-link-802498">All Of My Articles Part 2</a>
 
 Reactions
 
@@ -335,8 +324,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/all-of-my-articles-combined-284m" class="crayons-story__tertiary fs-xs">Aug 25<span class="time-ago-indicator-initial-placeholder" data-seconds="1629850429"></span></a>
 
-<a href="https://dev.to/bgoonz/all-of-my-articles-combined-284m" id="article-link-802497">All Of My Articles Combined</a>
--------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/all-of-my-articles-combined-284m" id="article-link-802497">All Of My Articles Combined</a>
 
 <a href="https://dev.to/t/webdev" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>webdev</a> <a href="https://dev.to/t/javascript" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>javascript</a> <a href="https://dev.to/t/python" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>python</a> <a href="https://dev.to/t/linux" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>linux</a>
 
@@ -366,8 +354,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/big-o-in-javascript-how-to-master-it-h6f" class="crayons-story__tertiary fs-xs">Aug 24<span class="time-ago-indicator-initial-placeholder" data-seconds="1629836870"></span></a>
 
-<a href="https://dev.to/bgoonz/big-o-in-javascript-how-to-master-it-h6f" id="article-link-802361">Big O In Javascript &amp; How To Master It.</a>
--------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/big-o-in-javascript-how-to-master-it-h6f" id="article-link-802361">Big O In Javascript &amp; How To Master It.</a>
 
 Reactions
 
@@ -395,8 +382,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/the-expressjs-way-to-write-apis-3g0" class="crayons-story__tertiary fs-xs">Aug 13<span class="time-ago-indicator-initial-placeholder" data-seconds="1628839490"></span></a>
 
-<a href="https://dev.to/bgoonz/the-expressjs-way-to-write-apis-3g0" id="article-link-790326">The ExpressJS Way To Write APIs</a>
---------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/the-expressjs-way-to-write-apis-3g0" id="article-link-790326">The ExpressJS Way To Write APIs</a>
 
 Reactions
 
@@ -424,8 +410,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/everything-you-need-to-become-a-machine-learner-1cjp" class="crayons-story__tertiary fs-xs">Aug 6<span class="time-ago-indicator-initial-placeholder" data-seconds="1628219734"></span></a>
 
-<a href="https://dev.to/bgoonz/everything-you-need-to-become-a-machine-learner-1cjp" id="article-link-783093">Everything You Need To Become A Machine Learner</a>
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/everything-you-need-to-become-a-machine-learner-1cjp" id="article-link-783093">Everything You Need To Become A Machine Learner</a>
 
 Reactions
 
@@ -453,8 +438,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/data-structures-explained-js-38ll" class="crayons-story__tertiary fs-xs">Jul 16<span class="time-ago-indicator-initial-placeholder" data-seconds="1626425472"></span></a>
 
-<a href="https://dev.to/bgoonz/data-structures-explained-js-38ll" id="article-link-760939">Data Structures Explained JS</a>
----------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/data-structures-explained-js-38ll" id="article-link-760939">Data Structures Explained JS</a>
 
 Reactions
 
@@ -482,8 +466,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/awesome-bash-commands-5gi2" class="crayons-story__tertiary fs-xs">Jul 16<span class="time-ago-indicator-initial-placeholder" data-seconds="1626425384"></span></a>
 
-<a href="https://dev.to/bgoonz/awesome-bash-commands-5gi2" id="article-link-760938">Awesome Bash Commands</a>
--------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/awesome-bash-commands-5gi2" id="article-link-760938">Awesome Bash Commands</a>
 
 Reactions
 
@@ -511,8 +494,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/implementing-array-callback-methods-under-the-hood-5cep" class="crayons-story__tertiary fs-xs">Jul 16<span class="time-ago-indicator-initial-placeholder" data-seconds="1626425336"></span></a>
 
-<a href="https://dev.to/bgoonz/implementing-array-callback-methods-under-the-hood-5cep" id="article-link-760936">Implementing Array Callback Methods (Under The Hood)</a>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/implementing-array-callback-methods-under-the-hood-5cep" id="article-link-760936">Implementing Array Callback Methods (Under The Hood)</a>
 
 Reactions
 
@@ -540,8 +522,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/quick-guide-to-big-o-523g" class="crayons-story__tertiary fs-xs">Jul 16<span class="time-ago-indicator-initial-placeholder" data-seconds="1626425282"></span></a>
 
-<a href="https://dev.to/bgoonz/quick-guide-to-big-o-523g" id="article-link-760935">Quick Guide To Big O</a>
------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/quick-guide-to-big-o-523g" id="article-link-760935">Quick Guide To Big O</a>
 
 Reactions
 
@@ -569,8 +550,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/js-modules-4c4d" class="crayons-story__tertiary fs-xs">Jul 3<span class="time-ago-indicator-initial-placeholder" data-seconds="1625311188"></span></a>
 
-<a href="https://dev.to/bgoonz/js-modules-4c4d" id="article-link-747030">JS Modules</a>
----------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/js-modules-4c4d" id="article-link-747030">JS Modules</a>
 
 Reactions
 
@@ -598,8 +578,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/introductory-react-written-by-a-complete-beginner-e38" class="crayons-story__tertiary fs-xs">May 13<span class="time-ago-indicator-initial-placeholder" data-seconds="1620903363"></span></a>
 
-<a href="https://dev.to/bgoonz/introductory-react-written-by-a-complete-beginner-e38" id="article-link-697119">Introductory React Written By A Complete Beginner</a>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/introductory-react-written-by-a-complete-beginner-e38" id="article-link-697119">Introductory React Written By A Complete Beginner</a>
 
 Reactions
 
@@ -627,8 +606,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/beginner-s-guide-to-javascript-part-1-3m2h" class="crayons-story__tertiary fs-xs">May 13<span class="time-ago-indicator-initial-placeholder" data-seconds="1620898368"></span></a>
 
-<a href="https://dev.to/bgoonz/beginner-s-guide-to-javascript-part-1-3m2h" id="article-link-696975">Beginner's Guide To Javascript Part 1</a>
----------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/beginner-s-guide-to-javascript-part-1-3m2h" id="article-link-696975">Beginner's Guide To Javascript Part 1</a>
 
 Reactions
 
@@ -656,8 +634,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/bigoooo-1fpd" class="crayons-story__tertiary fs-xs">May 13<span class="time-ago-indicator-initial-placeholder" data-seconds="1620887010"></span></a>
 
-<a href="https://dev.to/bgoonz/bigoooo-1fpd" id="article-link-696854">BIGOOOO</a>
----------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/bigoooo-1fpd" id="article-link-696854">BIGOOOO</a>
 
 Reactions
 
@@ -685,8 +662,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/scope-and-context-in-javascript-5cma" class="crayons-story__tertiary fs-xs">Apr 24<span class="time-ago-indicator-initial-placeholder" data-seconds="1619225700"></span></a>
 
-<a href="https://dev.to/bgoonz/scope-and-context-in-javascript-5cma" id="article-link-676743">Scope And Context In Javascript</a>
----------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/scope-and-context-in-javascript-5cma" id="article-link-676743">Scope And Context In Javascript</a>
 
 Reactions
 
@@ -714,8 +690,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/objects-in-javascript-3gic" class="crayons-story__tertiary fs-xs">Apr 15<span class="time-ago-indicator-initial-placeholder" data-seconds="1618514341"></span></a>
 
-<a href="https://dev.to/bgoonz/objects-in-javascript-3gic" id="article-link-667392">Objects in Javascript</a>
--------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/objects-in-javascript-3gic" id="article-link-667392">Objects in Javascript</a>
 
 Reactions
 
@@ -743,8 +718,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/the-beginner-s-guide-to-javascript-4871" class="crayons-story__tertiary fs-xs">Apr 9<span class="time-ago-indicator-initial-placeholder" data-seconds="1617965983"></span></a>
 
-<a href="https://dev.to/bgoonz/the-beginner-s-guide-to-javascript-4871" id="article-link-659997">The Beginner's Guide To JavaScript</a>
----------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/the-beginner-s-guide-to-javascript-4871" id="article-link-659997">The Beginner's Guide To JavaScript</a>
 
 Reactions
 
@@ -772,8 +746,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/express-quick-sheet-1n9d" class="crayons-story__tertiary fs-xs">Apr 9<span class="time-ago-indicator-initial-placeholder" data-seconds="1617965675"></span></a>
 
-<a href="https://dev.to/bgoonz/express-quick-sheet-1n9d" id="article-link-659995">Express Quick Sheet</a>
----------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/express-quick-sheet-1n9d" id="article-link-659995">Express Quick Sheet</a>
 
 Reactions
 
@@ -801,8 +774,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/modules-in-javascript-4kai" class="crayons-story__tertiary fs-xs">Apr 9<span class="time-ago-indicator-initial-placeholder" data-seconds="1617965002"></span></a>
 
-<a href="https://dev.to/bgoonz/modules-in-javascript-4kai" id="article-link-659991">Modules In JavaScript</a>
--------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/modules-in-javascript-4kai" id="article-link-659991">Modules In JavaScript</a>
 
 <a href="https://dev.to/t/modules" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>modules</a> <a href="https://dev.to/t/javascript" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>javascript</a> <a href="https://dev.to/t/website" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>website</a> <a href="https://dev.to/t/import" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>import</a>
 
@@ -832,8 +804,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/about-me-how-to-pimp-out-your-github-profile-4d7n" class="crayons-story__tertiary fs-xs">Apr 6<span class="time-ago-indicator-initial-placeholder" data-seconds="1617736537"></span></a>
 
-<a href="https://dev.to/bgoonz/about-me-how-to-pimp-out-your-github-profile-4d7n" id="article-link-657081">About Me &amp; How To Pimp Out Your Github Profile</a>
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/about-me-how-to-pimp-out-your-github-profile-4d7n" id="article-link-657081">About Me &amp; How To Pimp Out Your Github Profile</a>
 
 <a href="https://dev.to/t/github" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>github</a> <a href="https://dev.to/t/programming" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>programming</a> <a href="https://dev.to/t/netlify" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>netlify</a> <a href="https://dev.to/t/githunt" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>githunt</a>
 
@@ -863,8 +834,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/closures-in-javascript-1moc" class="crayons-story__tertiary fs-xs">Apr 6<span class="time-ago-indicator-initial-placeholder" data-seconds="1617706608"></span></a>
 
-<a href="https://dev.to/bgoonz/closures-in-javascript-1moc" id="article-link-656552">Closures In Javascript</a>
----------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/closures-in-javascript-1moc" id="article-link-656552">Closures In Javascript</a>
 
 <a href="https://dev.to/t/javascript" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>javascript</a>
 
@@ -894,8 +864,7 @@ Follow
 
 <a href="https://dev.to/bgoonz/common-data-structures-their-background-11eg" class="crayons-story__tertiary fs-xs">Mar 31<span class="time-ago-indicator-initial-placeholder" data-seconds="1617231008"></span></a>
 
-<a href="https://dev.to/bgoonz/common-data-structures-their-background-11eg" id="article-link-651554">Common Data Structures &amp; Their background.</a>
---------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://dev.to/bgoonz/common-data-structures-their-background-11eg" id="article-link-651554">Common Data Structures &amp; Their background.</a>
 
 <a href="https://dev.to/t/tech" class="crayons-tag crayons-tag--monochrome"><span class="crayons-tag__prefix">#</span>tech</a>
 

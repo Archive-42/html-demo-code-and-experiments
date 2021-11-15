@@ -1,24 +1,24 @@
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 MORE
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 HubPages
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 <a href="https://hubpages.com/signin/" id="signin_span">Sign In</a><a href="https://hubpages.com/user/new/" class="call_to_action">Join</a>
 
@@ -28,8 +28,7 @@ HubPages
 
 <span class="user-pic-label" title="Hubber Score">60</span>
 
-<span class="author_primary_name">Bryan Guner</span>
-====================================================
+# <span class="author_primary_name">Bryan Guner</span>
 
 Joined 3 months ago
 
@@ -37,17 +36,17 @@ Contact Bryan Guner
 
 <span class="line-correction"></span>report
 
--   0
+- 0
 
-    Articles
+  Articles
 
--   0
+- 0
 
-    Followers
+  Followers
 
--   0
+- 0
 
-    Following
+  Following
 
 <a href="#" class="about_b"><span>About</span></a><a href="#" class="articles_b"><span class="selected">Articles</span></a><a href="#" class="activity_b"><span>Activity</span></a><a href="#" class="following_b"><span>Following</span></a><a href="#" class="followers_b"><span>Followers</span></a><a href="#" class="fanmail_b"><span>Fan Mail</span></a>
 
@@ -55,11 +54,11 @@ Bio not available for this author
 
 This author has no Featured articles yet
 
--   [About Us](https://hubpages.com/about/us)
--   [Copyright](https://hubpages.com/copyright)
--   [Terms of Use](https://corp.maven.io/terms-of-use)
--   [Privacy Policy](https://corp.maven.io/privacy-policy)
--   [Advertising](https://hubpages.com/advertising)
+- [About Us](https://hubpages.com/about/us)
+- [Copyright](https://hubpages.com/copyright)
+- [Terms of Use](https://corp.maven.io/terms-of-use)
+- [Privacy Policy](https://corp.maven.io/privacy-policy)
+- [Advertising](https://hubpages.com/advertising)
 
 Copyright © 2021 Maven Media Brands, LLC and respective content providers on this website. HubPages<sup>®</sup> is a registered trademark of Maven Coalition, Inc. Other product and company names shown may be trademarks of their respective owners. Maven Media Brands, LLC and respective content providers to this website may receive compensation for some links to products and services on this website.
 
@@ -109,33 +108,32 @@ Copyright © 2021 Maven Media Brands, LLC and respective content providers on th
 
 ### [Travel and Places](https://discover.hubpages.com/travel/)
 
--   [Blog](https://blog.hubpages.com/)
--   [Help](https://hubpages.com/help-wizard/)
+- [Blog](https://blog.hubpages.com/)
+- [Help](https://hubpages.com/help-wizard/)
 
 ### [About Us](https://hubpages.com/about/us)
 
--   [Editorial Policy](https://hubpages.com/help/sites-editorial-policy)
--   [Copyright](https://hubpages.com/copyright)
--   [Terms of Use](https://corp.maven.io/terms-of-use)
--   [Privacy Policy](https://corp.maven.io/privacy-policy)
--   [Advertising](https://hubpages.com/advertising)
+- [Editorial Policy](https://hubpages.com/help/sites-editorial-policy)
+- [Copyright](https://hubpages.com/copyright)
+- [Terms of Use](https://corp.maven.io/terms-of-use)
+- [Privacy Policy](https://corp.maven.io/privacy-policy)
+- [Advertising](https://hubpages.com/advertising)
 
 Copyright © 2021 Maven Media Brands, LLC and respective owners.
 
 working
 
-This website uses cookies
--------------------------
+## This website uses cookies
 
 As a user in the EEA, your approval is needed on a few things. To provide a better website experience, hubpages.com uses cookies (and other similar technologies) and may collect, process, and share personal data. Please choose which areas of our service you consent to our doing so.
 
- Necessary
+Necessary
 
- Features
+Features
 
- Marketing
+Marketing
 
- Statistics
+Statistics
 
 <span id="gdpr_accept_button" class="button small primary_action green_bg">Approve All & Submit</span>  
 <span id="gdpr_accept_checkedonly" class="button small">Approve Checked Only</span>

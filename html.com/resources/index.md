@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-The Student Web Developer’s Ultimate Resource Centre – 10 Articles You Need In 2020
-===================================================================================
+# The Student Web Developer’s Ultimate Resource Centre – 10 Articles You Need In 2020
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -22,16 +15,16 @@ The Student Web Developer’s Ultimate Resource Centre – 10 Articles You Need 
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> How to Ace a Front-End Developer Interview](#How_to_Ace_a_Front-End_Developer_Interview)
--   [<span class="toc_number toc_depth_1">2</span> How to Find the Best HTML Editor](#How_to_Find_the_Best_HTML_Editor)
--   [<span class="toc_number toc_depth_1">3</span> 99 Free HTML Templates You Can Download Right Now](#99_Free_HTML_Templates_You_Can_Download_Right_Now)
--   [<span class="toc_number toc_depth_1">4</span> Are You Using Cookies? Then This Ultimate Guide Is For You](#Are_You_Using_Cookies_Then_This_Ultimate_Guide_Is_For_You)
--   [<span class="toc_number toc_depth_1">5</span> The Student’s Guide To Citation Styles: Here’s When (And How) To Cite](#The_Students_Guide_To_Citation_Styles_Heres_When_And_How_To_Cite)
--   [<span class="toc_number toc_depth_1">6</span> StudyWeb’s 2015 Scholarship Essay Competition](#StudyWeb8217s_2015_Scholarship_Essay_Competition)
--   [<span class="toc_number toc_depth_1">7</span> Section 508: What it is and how to achieve compliance](#Section_508_What_it_is_and_how_to_achieve_compliance)
--   [<span class="toc_number toc_depth_1">8</span> Every Student Can Earn Money Online: Here’s How (But Beware Of Scams)](#Every_Student_Can_Earn_Money_Online_Heres_How_But_Beware_Of_Scams)
--   [<span class="toc_number toc_depth_1">9</span> Top 50 College and University Blogs](#Top_50_College_and_University_Blogs)
--   [<span class="toc_number toc_depth_1">10</span> Finding the Library You Need For Your Research](#Finding_the_Library_You_Need_For_Your_Research)
+- [<span class="toc_number toc_depth_1">1</span> How to Ace a Front-End Developer Interview](#How_to_Ace_a_Front-End_Developer_Interview)
+- [<span class="toc_number toc_depth_1">2</span> How to Find the Best HTML Editor](#How_to_Find_the_Best_HTML_Editor)
+- [<span class="toc_number toc_depth_1">3</span> 99 Free HTML Templates You Can Download Right Now](#99_Free_HTML_Templates_You_Can_Download_Right_Now)
+- [<span class="toc_number toc_depth_1">4</span> Are You Using Cookies? Then This Ultimate Guide Is For You](#Are_You_Using_Cookies_Then_This_Ultimate_Guide_Is_For_You)
+- [<span class="toc_number toc_depth_1">5</span> The Student’s Guide To Citation Styles: Here’s When (And How) To Cite](#The_Students_Guide_To_Citation_Styles_Heres_When_And_How_To_Cite)
+- [<span class="toc_number toc_depth_1">6</span> StudyWeb’s 2015 Scholarship Essay Competition](#StudyWeb8217s_2015_Scholarship_Essay_Competition)
+- [<span class="toc_number toc_depth_1">7</span> Section 508: What it is and how to achieve compliance](#Section_508_What_it_is_and_how_to_achieve_compliance)
+- [<span class="toc_number toc_depth_1">8</span> Every Student Can Earn Money Online: Here’s How (But Beware Of Scams)](#Every_Student_Can_Earn_Money_Online_Heres_How_But_Beware_Of_Scams)
+- [<span class="toc_number toc_depth_1">9</span> Top 50 College and University Blogs](#Top_50_College_and_University_Blogs)
+- [<span class="toc_number toc_depth_1">10</span> Finding the Library You Need For Your Research](#Finding_the_Library_You_Need_For_Your_Research)
 
 #### <span id="How_to_Ace_a_Front-End_Developer_Interview"><a href="https://html.com/resources/front-end-dev-interview/" class="_blank">How to Ace a Front-End Developer Interview</a></span>
 
@@ -136,11 +129,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,717 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,145 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">858 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">761 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">651 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,717 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,145 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">858 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">761 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">651 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

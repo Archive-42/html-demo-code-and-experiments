@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [HTML Anchors: Here’s How To Create Links For Fast Navigation](https://html.com/anchors-links/)  /  [How To Use a (For Creating Hyperlinks) In HTML](https://html.com/tags/a/) / HTML A Href Attribute: A Quick And Simple Guide
 
-`HTML A Href Attribute: A Quick And Simple Guide`
-=================================================
+# `HTML A Href Attribute: A Quick And Simple Guide`
 
 In <span class="post-meta-category">[HTML Attributes](https://html.com/attributes/)</span>
 
@@ -23,14 +20,13 @@ Specifies the linked document, resource, or location.
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> Different URL Forms](#Different_URL_Forms)
--   [<span class="toc_number toc_depth_1">3</span> Values of the href Attribute](#Values_of_the_href_Attribute)
--   [<span class="toc_number toc_depth_1">4</span> All Attributes of the anchor Element](#All_Attributes_of_the_anchor_Element)
--   [<span class="toc_number toc_depth_1">5</span> Browser Support for href](#Browser_Support_for_href)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> Different URL Forms](#Different_URL_Forms)
+- [<span class="toc_number toc_depth_1">3</span> Values of the href Attribute](#Values_of_the_href_Attribute)
+- [<span class="toc_number toc_depth_1">4</span> All Attributes of the anchor Element](#All_Attributes_of_the_anchor_Element)
+- [<span class="toc_number toc_depth_1">5</span> Browser Support for href](#Browser_Support_for_href)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <a href="https://html.com/attributes/a-href/">Learn about the a href attribute</a>
 
@@ -38,8 +34,7 @@ Contents
 
 <span class="underline"></span>
 
-<span id="Different_URL_Forms">Different URL Forms</span>
----------------------------------------------------------
+## <span id="Different_URL_Forms">Different URL Forms</span>
 
 The URL may be:
 
@@ -62,13 +57,11 @@ Relative to the current domain
 
 `/wp-content/uploads/flamingo.jpg`
 
-<span id="Values_of_the_href_Attribute">Values of the href Attribute</span>
----------------------------------------------------------------------------
+## <span id="Values_of_the_href_Attribute">Values of the href Attribute</span>
 
 <table><thead><tr class="header"><th>Value Name</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td>url</td><td>The URL (URI) of the linked resource.</td></tr></tbody></table>
 
-<span id="All_Attributes_of_the_anchor_Element">All Attributes of the [`anchor`](https://html.com/tags/a/) Element</span>
--------------------------------------------------------------------------------------------------------------------------
+## <span id="All_Attributes_of_the_anchor_Element">All Attributes of the [`anchor`](https://html.com/tags/a/) Element</span>
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/attributes/a-hreflang/">hreflang</a></td><td></td><td>Specifies the language of the linked resource.</td></tr><tr class="even"><td><a href="https://html.com/attributes/a-download/">download</a></td><td></td><td>Directs the browser to download the linked resource rather than opening it.</td></tr><tr class="odd"><td><a href="https://html.com/attributes/a-target/">target</a></td><td>_blank<br />
 _parent<br />
@@ -90,8 +83,7 @@ frame name</td><td>Specifies the context in which the linked resource will open
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_href">Browser Support for href</span>
--------------------------------------------------------------------
+## <span id="Browser_Support_for_href">Browser Support for href</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -129,8 +121,7 @@ frame name</td><td>Specifies the context in which the linked resource will open
 
 <span class="browser-supported">All</span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](https://html.com/resources/citation-guide/)
 
@@ -142,11 +133,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,787 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">1,230 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,215 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">754 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">749 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,787 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">1,230 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,215 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">754 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">749 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

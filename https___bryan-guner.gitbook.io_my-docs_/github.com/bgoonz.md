@@ -2,80 +2,83 @@
 
 <a href="https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E&amp;source=header" class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5">Sign up</a>
 
--   Why GitHub?
-    -   <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- Why GitHub?
 
--   <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
--   <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
--   Explore
-    -   <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Learn and contribute
-    -   <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Connect with others
-    -   <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
--   <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
--   Pricing
-    -   <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
+- <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
+- Explore
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+  - <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Learn and contribute
+  - <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Connect with others
+  - <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+- <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
+- Pricing
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  - <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <!-- -->
 
--   <span class="color-fg-muted">No suggested jump to results</span>
+- <span class="color-fg-muted">No suggested jump to results</span>
 
 <!-- -->
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in all of GitHub"> Search </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in all of GitHub"> Search </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fbgoonz" class="HeaderMenu-link flex-shrink-0 no-underline">Sign in</a>
 
@@ -101,8 +104,7 @@ Packages <span class="Counter" title="0" hidden="hidden" data-view-component="tr
 
 learning
 
-<span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name"> Bryan C Guner </span> <span class="p-nickname vcard-username d-block" itemprop="additionalName"> bgoonz </span>
-============================================================================================================================================================================================
+# <span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name"> Bryan C Guner </span> <span class="p-nickname vcard-username d-block" itemprop="additionalName"> bgoonz </span>
 
 🎯
 
@@ -116,24 +118,22 @@ Web Developer, Electrical Engineer https://github.com/bgoonz/BGOONZ\_BLOG\_2.0 h
 
 <span class="text-bold color-fg-default">850</span>
 
--   <span class="p-org"></span>
-    https://app.gitbook.com/@bryan-guner/spaces
+- <span class="p-org"></span>
+  https://app.gitbook.com/@bryan-guner/spaces
 
--   <span class="p-label">Weehawken, NJ</span>
--   <a href="https://bgoonz-blog.netlify.app/" class="Link--primary">https://bgoonz-blog.netlify.app/</a>
--   Twitter
-    <a href="https://twitter.com/bgooonz" class="Link--primary">@bgooonz</a>
+- <span class="p-label">Weehawken, NJ</span>
+- <a href="https://bgoonz-blog.netlify.app/" class="Link--primary">https://bgoonz-blog.netlify.app/</a>
+- Twitter
+  <a href="https://twitter.com/bgooonz" class="Link--primary">@bgooonz</a>
 
-Highlights
-----------
+## Highlights
 
--   Developer Program Member
--   <span class="Label Label--purple text-uppercase" title="Label: Pro" data-view-component="true"> Pro </span>
+- Developer Program Member
+- <span class="Label Label--purple text-uppercase" title="Label: Pro" data-view-component="true"> Pro </span>
 
 Block or Report
 
-Block or report bgoonz
-======================
+# Block or report bgoonz
 
 **Block user**
 
@@ -159,8 +159,7 @@ Packages <span class="Counter" title="0" hidden="hidden" data-view-component="tr
 
 <a href="https://github.com/bgoonz/bgoonz" class="no-underline Link--primary">bgoonz</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
 
-<a href="#hi--im-bryan" id="user-content-hi--im-bryan" class="anchor"></a>Hi 👋, I'm Bryan
-=========================================================================================
+# <a href="#hi--im-bryan" id="user-content-hi--im-bryan" class="anchor"></a>Hi 👋, I'm Bryan
 
 ### <a href="#" class="anchor"></a>🛠
 
@@ -171,11 +170,9 @@ Packages <span class="Counter" title="0" hidden="hidden" data-view-component="tr
 
 [<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" width="30" />](https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png)[<img src="https://camo.githubusercontent.com/0dd56ef39528c4288d232ab9952cb31b8fbd51e47d6d3c732f8f31e65a26534d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676f6f676c65636c6f75642e737667" alt="GCP" width="30" />](https://camo.githubusercontent.com/0dd56ef39528c4288d232ab9952cb31b8fbd51e47d6d3c732f8f31e65a26534d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676f6f676c65636c6f75642e737667)[<img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" alt="GraphQL" width="30" />](https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png)
 
-  
-
 #### <a href="#my-docs" id="user-content-my-docs" class="anchor"></a>[MY DOCS](https://bryan-guner.gitbook.io/my-docs/)
 
-### <a href="#repo-list-click-to-see-more-below-this-line" id="user-content-repo-list-click-to-see-more-below-this-line" class="anchor"></a>➤Repo List: ***CLICK TO SEE MORE BELOW THIS LINE***
+### <a href="#repo-list-click-to-see-more-below-this-line" id="user-content-repo-list-click-to-see-more-below-this-line" class="anchor"></a>➤Repo List: **_CLICK TO SEE MORE BELOW THIS LINE_**
 
 ===➤(\_CLICK TO SEE MORE\_)
 
@@ -185,7 +182,7 @@ Packages <span class="Counter" title="0" hidden="hidden" data-view-component="tr
 
 [![Profile views](https://camo.githubusercontent.com/41fbd874c1ba0b69222440c1527ceb24831f388dcf4b875c048dbf0ce11fce58/68747470733a2f2f76696577732e77686174696c656172656e65642e746f6461792f76696577732f6769746875622f62676f6f6e7a2f76696577732e737667)](https://camo.githubusercontent.com/41fbd874c1ba0b69222440c1527ceb24831f388dcf4b875c048dbf0ce11fce58/68747470733a2f2f76696577732e77686174696c656172656e65642e746f6461792f76696577732f6769746875622f62676f6f6e7a2f76696577732e737667)[![Gitter](https://camo.githubusercontent.com/3b010aaec4938434c93c158f7ad38fd70693fdc8c1ec39baeadbebab61458138/68747470733a2f2f6261646765732e6769747465722e696d2f62676f6f6e7a2f636f6d6d756e6974792e737667)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![hackmd-github-sync-badge](https://camo.githubusercontent.com/c2a5c84d227b48f8b214bf813206875ac60e5f5a93ab8a22169e1b72e2764255/68747470733a2f2f6861636b6d642e696f2f354465596a326f585476474a312d587670314a6f32512f6261646765)](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q)[![GitHub followers](https://camo.githubusercontent.com/c2e34390f77ac43483e3b319f52845547e27f20b2efe79455385c132962cf102/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f62676f6f6e7a2e7376673f7374796c653d736f6369616c266c6162656c3d466f6c6c6f77266d61784167653d32353932303030)](https://github.com/bgoonz?tab=followers)
 
-### <a href="#-email-bryangunergmailcom-phone-551-254-5505" id="user-content--email-bryangunergmailcom-phone-551-254-5505" class="anchor"></a>➤ *Email* [bryan.guner@gmail.com](#) *Phone* [551-254-5505](https://github.com/bgoonz/bgoonz/blob/master/551-254-5505)
+### <a href="#-email-bryangunergmailcom-phone-551-254-5505" id="user-content--email-bryangunergmailcom-phone-551-254-5505" class="anchor"></a>➤ _Email_ [bryan.guner@gmail.com](#) _Phone_ [551-254-5505](https://github.com/bgoonz/bgoonz/blob/master/551-254-5505)
 
 #### <a href="#a-passionate-web-developer-electrical-engineer-musician--producer" id="user-content-a-passionate-web-developer-electrical-engineer-musician--producer" class="anchor"></a>A passionate Web Developer, Electrical Engineer, Musician & Producer
 
@@ -219,23 +216,23 @@ About Me
 
 [![statistics](https://github.com/bgoonz/bgoonz/raw/master/summary_50.png?raw=true)](https://github.com/bgoonz/bgoonz/blob/master/summary_50.png?raw=true)
 
--   🔭 Contract Web Development **Relational Concepts**
+- 🔭 Contract Web Development **Relational Concepts**
 
--   🌱 I'm currently learning **React/Redux, Python, Java, Express, jQuery**
+- 🌱 I'm currently learning **React/Redux, Python, Java, Express, jQuery**
 
--   👯 I'm looking to collaborate on [Any web audio or open source educational tools.](https://goofy-euclid-1cd736.netlify.app/core-site/index.html)
+- 👯 I'm looking to collaborate on [Any web audio or open source educational tools.](https://goofy-euclid-1cd736.netlify.app/core-site/index.html)
 
--   🤝 I'm looking for help with [Learning React](https://github.com/bgoonz/React-Practice)
+- 🤝 I'm looking for help with [Learning React](https://github.com/bgoonz/React-Practice)
 
--   👨‍💻 All of my projects are available at <https://bgoonz.github.io/>
+- 👨‍💻 All of my projects are available at <https://bgoonz.github.io/>
 
--   📝 I regularly write articles on [medium](https://bryanguner.medium.com/) && [Web-Dev-Resource-Hub](https://web-dev-resource-hub.netlify.app/)
+- 📝 I regularly write articles on [medium](https://bryanguner.medium.com/) && [Web-Dev-Resource-Hub](https://web-dev-resource-hub.netlify.app/)
 
--   💬 Ask me about **Anything:**
+- 💬 Ask me about **Anything:**
 
--   📫 How to reach me **<bryan.guner@gmail.com>**
+- 📫 How to reach me **<bryan.guner@gmail.com>**
 
--   ⚡ Fun fact **I played Bamboozle Music Festival at the Meadowlands Stadium Complex when I was 14.**
+- ⚡ Fun fact **I played Bamboozle Music Festival at the Meadowlands Stadium Complex when I was 14.**
 
 ### <a href="#i-really-like-music-headphones" id="user-content-i-really-like-music-headphones" class="anchor"></a>i really like music 🎧
 
@@ -291,8 +288,7 @@ Creating things that change my every day life.
 
 | | \#\# Portfolio:
 
-<a href="#netlify-" id="user-content-netlify-" class="anchor"></a>[netlify](https://portfolio42.netlify.app/) |
-===============================================================================================================
+# <a href="#netlify-" id="user-content-netlify-" class="anchor"></a>[netlify](https://portfolio42.netlify.app/) |
 
 | :------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | | **Languages** | [![](https://camo.githubusercontent.com/1048946110418180dbd0c560b7013c7a8e03cc94ca1e6dab6c1b04f033a40775/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d48544d4c352d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d48544d4c35266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/1048946110418180dbd0c560b7013c7a8e03cc94ca1e6dab6c1b04f033a40775/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d48544d4c352d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d48544d4c35266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) [![](https://camo.githubusercontent.com/465446114b32ae230d6fab10d623e1da0d5ecbd76b1c882462168c9754ddeb00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d4353532d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d43535325323057697a6172647279266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/465446114b32ae230d6fab10d623e1da0d5ecbd76b1c882462168c9754ddeb00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d4353532d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d43535325323057697a6172647279266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) [![](https://camo.githubusercontent.com/ae76e6020ab32845f3ef31f563ab0db9128b78430d5b52540eb1655f32dcd6be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/ae76e6020ab32845f3ef31f563ab0db9128b78430d5b52540eb1655f32dcd6be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) [![](https://camo.githubusercontent.com/ba32be5e8f3e5e0f9f083c10bc21b5ae68ad587c4d56fdc71ff15e60fd7ff44c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d53514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d53514c266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/ba32be5e8f3e5e0f9f083c10bc21b5ae68ad587c4d56fdc71ff15e60fd7ff44c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d53514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d53514c266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) [![](https://camo.githubusercontent.com/5ce3152002e75fa1008c5496102c3b67516e8ebd432073df03504548749d4eab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d4a6176612d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/5ce3152002e75fa1008c5496102c3b67516e8ebd432073df03504548749d4eab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d4a6176612d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)  
 [![](https://camo.githubusercontent.com/f124081207bb765f27d87381a0f1f6a40ace58f7751f56af5b6358d1a9558a16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d507974686f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d507974686f6e266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/f124081207bb765f27d87381a0f1f6a40ace58f7751f56af5b6358d1a9558a16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d507974686f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d507974686f6e266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) [![](https://camo.githubusercontent.com/f14e52954b4dc07615aa6da4919b3e04d9459fa7d3709b2578666cade336ac5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d547970655363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d54797065536372697074266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/f14e52954b4dc07615aa6da4919b3e04d9459fa7d3709b2578666cade336ac5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e672d547970655363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d54797065536372697074266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) | | **Libraries** | [![](https://camo.githubusercontent.com/286ee73b131fa972574d5480e4ab259d6eed5c429dff5f6b74682cb2af5e078a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c69622d426f6f7473747261702d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d426f6f747374726170266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/286ee73b131fa972574d5480e4ab259d6eed5c429dff5f6b74682cb2af5e078a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c69622d426f6f7473747261702d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d426f6f747374726170266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) [![](https://camo.githubusercontent.com/3c7194da5e4c19d234263e72bc4f2664632614b11d2c0a9738f059f7d8a440b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c69622d52656163742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d5265616374266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/3c7194da5e4c19d234263e72bc4f2664632614b11d2c0a9738f059f7d8a440b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c69622d52656163742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d5265616374266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) | | **Frameworks** | [![](https://camo.githubusercontent.com/da319532c0a94e42d979b54f447a5f0f628febc531f7c4db01f97a846fb09616/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46572d52656475782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d5265647578266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/da319532c0a94e42d979b54f447a5f0f628febc531f7c4db01f97a846fb09616/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46572d52656475782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d5265647578266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) [![](https://camo.githubusercontent.com/27671c032486eb86268da74e011cd09b7ffa878e2776bf4a4ef6a213ac0a59bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46572d4e6f64652e6a732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/27671c032486eb86268da74e011cd09b7ffa878e2776bf4a4ef6a213ac0a59bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46572d4e6f64652e6a732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) [![](https://camo.githubusercontent.com/5614baacde207769c765e6460fb7122396ed4387d7a23a19da7eeb1944f6b35f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46572d457870726573732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/5614baacde207769c765e6460fb7122396ed4387d7a23a19da7eeb1944f6b35f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46572d457870726573732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) [![](https://camo.githubusercontent.com/9a72d0680ae517e20e07118af495fe6b03596f8c11d9713d737a55e29986636f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46572d506f7765725368656c6c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d506f7765725368656c6c266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/9a72d0680ae517e20e07118af495fe6b03596f8c11d9713d737a55e29986636f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46572d506f7765725368656c6c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d506f7765725368656c6c266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) | | **Databases** | [![](https://camo.githubusercontent.com/c900720ca38c1800c100185761b2b46125300218eed98d17538e9d73ab97089a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44422d506f737467726553514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/c900720ca38c1800c100185761b2b46125300218eed98d17538e9d73ab97089a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44422d506f737467726553514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) [![](https://camo.githubusercontent.com/ac225cffd64240b9a5f22e4f4b290b421ee9e170f31befe1c1dc83ce14754c0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44422d4d7953514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4d7953514c266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/ac225cffd64240b9a5f22e4f4b290b421ee9e170f31befe1c1dc83ce14754c0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44422d4d7953514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4d7953514c266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) | | **Testing** | [![](https://camo.githubusercontent.com/93b3f5d06ac2d7cb7613c49707c0d79b8d56a05381f79c125cfbb7d60e9dbe86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546573742d4a6573742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a657374266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/93b3f5d06ac2d7cb7613c49707c0d79b8d56a05381f79c125cfbb7d60e9dbe86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546573742d4a6573742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a657374266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) [![](https://camo.githubusercontent.com/481127a1a4076922244f076d1db438098d01205a495a89159c230735631bb475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546573742d437970726573732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d43797072657373266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/481127a1a4076922244f076d1db438098d01205a495a89159c230735631bb475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546573742d437970726573732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d43797072657373266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) [![](https://camo.githubusercontent.com/676b75202f59e0363b809aa10a7f23b47489c2fec926828dbab1d47b2d81a636/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546573742d4a556e69742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a556e6974266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/676b75202f59e0363b809aa10a7f23b47489c2fec926828dbab1d47b2d81a636/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546573742d4a556e69742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a556e6974266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) | | **Other** | [![](https://camo.githubusercontent.com/716b1b47958d7bbd039eddc91ae92f157af5c30792cccc4f5f70a8f7f97e4ead/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456469746f722d5653253230436f64652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/716b1b47958d7bbd039eddc91ae92f157af5c30792cccc4f5f70a8f7f97e4ead/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456469746f722d5653253230436f64652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030) [![](https://camo.githubusercontent.com/41095ed1d3189944dbe058e3d61bde83985b9f2343aae369cd91e58c57489112/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456469746f722d496e74656c6c694a253230494445412d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d696e74656c6c696a69646561266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)](https://camo.githubusercontent.com/41095ed1d3189944dbe058e3d61bde83985b9f2343aae369cd91e58c57489112/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456469746f722d496e74656c6c694a253230494445412d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d696e74656c6c696a69646561266c6f676f436f6c6f723d776869746526636f6c6f723d303046463030)  
@@ -302,105 +298,96 @@ Creating things that change my every day life.
 
 Resume
 
-<a href="#-technical-skills" id="user-content--technical-skills" class="anchor"></a>➤ Technical Skills­­­
-=========================================================================================================
+# <a href="#-technical-skills" id="user-content--technical-skills" class="anchor"></a>➤ Technical Skills­­­
 
 <table><thead><tr class="header"><th><strong>Programming**</strong> Languages:**</th><th>JavaScript ES-6, NodeJS, React, HTML5, CSS3, SCSS, Bash Shell, Excel, SQL, NoSQL, MATLAB, Python, C++</th></tr></thead><tbody><tr class="odd"><td><strong>Databases:</strong></td><td>PostgreSQL, MongoDB</td></tr><tr class="even"><td><strong>Cloud:</strong></td><td>Docker, AWS, Google App Engine, Netlify, Digital Ocean, Heroku, Azure Cloud Services</td></tr><tr class="odd"><td><strong>OS:</strong></td><td>Linux, Windows (WSL), IOS</td></tr><tr class="even"><td><strong>Agile:</strong></td><td>GitHub, BitBucket, Jira, Confluence</td></tr><tr class="odd"><td><strong>IDEs:</strong></td><td>VSCode, Visual Studio, Atom, Code Blocks, Sublime Text 3, Brackets</td></tr></tbody></table>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#experience)
 
-<a href="#-experience" id="user-content--experience" class="anchor"></a>➤ Experience
-====================================================================================
+# <a href="#-experience" id="user-content--experience" class="anchor"></a>➤ Experience
 
 <table><thead><tr class="header"><th><strong>Relational Concepts:</strong> Hallandale Beach, FL</th><th>March 2020 - Present</th></tr></thead><tbody><tr class="odd"><td><strong>Front End Web Developer</strong></td><td></td></tr><tr class="even"><td></td><td></td></tr></tbody></table>
 
--   Responsible for front-end development for a custom real estate application which provides sophisticated and fully customizable filtering to allow investors and real estate professionals to narrow in on exact search targets.
--   Designed mock-up screens, wireframes, and workflows for intuitive user experience.
--   Migrated existing multi-page user experience into singular page interfaces using React components.
--   Participated in every stage of the design from conception through development and iterative improvement.
--   Produced user stories and internal documentation for future site development and maintenance.
--   Implemented modern frameworks including Bootstrap and Font-Awesome to give the site an aesthetic overhaul.
--   Managed all test deployments using a combination of Digital Ocean and Netlify.
--   Produced unit tests using a combination of Mocha and Chai.
--   Injected Google Analytics to capture pertinent usage data to produce an insightful dashboard experience.
+- Responsible for front-end development for a custom real estate application which provides sophisticated and fully customizable filtering to allow investors and real estate professionals to narrow in on exact search targets.
+- Designed mock-up screens, wireframes, and workflows for intuitive user experience.
+- Migrated existing multi-page user experience into singular page interfaces using React components.
+- Participated in every stage of the design from conception through development and iterative improvement.
+- Produced user stories and internal documentation for future site development and maintenance.
+- Implemented modern frameworks including Bootstrap and Font-Awesome to give the site an aesthetic overhaul.
+- Managed all test deployments using a combination of Digital Ocean and Netlify.
+- Produced unit tests using a combination of Mocha and Chai.
+- Injected Google Analytics to capture pertinent usage data to produce an insightful dashboard experience.
 
 <table><thead><tr class="header"><th><strong>Environment:</strong></th><th><strong>JavaScript, JQuery, React, HTML5 &amp; CSS, Bootstrap, DOJO, Google Cloud, Bash Script</strong></th></tr></thead><tbody><tr class="odd"><td><strong>Cembre:</strong> Edison, NJ</td><td>Nov 2019 – Mar 2020</td></tr><tr class="even"><td>--------------------------------</td><td>-------------------</td></tr><tr class="odd"><td><strong>Product Development Engineer</strong></td><td></td></tr><tr class="even"><td></td><td></td></tr></tbody></table>
 
--   Converted client's product needs into technical specs to be sent to the development team in Italy.
--   Reorganized internal file server structure.
--   Conducted remote / in person system integration and product demonstrations.
--   Presided over internal and end user software trainings in addition to producing the corresponding documentation.
--   Served as the primary point of contact for troubleshooting railroad hardware and software in the North America.
+- Converted client's product needs into technical specs to be sent to the development team in Italy.
+- Reorganized internal file server structure.
+- Conducted remote / in person system integration and product demonstrations.
+- Presided over internal and end user software trainings in addition to producing the corresponding documentation.
+- Served as the primary point of contact for troubleshooting railroad hardware and software in the North America.
 
 <table><thead><tr class="header"><th><strong>Environment:</strong></th><th><strong>Excel, AutoCAD, PowerPoint, Word</strong></th></tr></thead><tbody></tbody></table>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#education)
 
-<a href="#-education" id="user-content--education" class="anchor"></a>➤ Education
-=================================================================================
+# <a href="#-education" id="user-content--education" class="anchor"></a>➤ Education
 
 <table><thead><tr class="header"><th>**B.S. Electrical Engineering, TCNJ, ** Ewing NJ</th><th>2014 – 2019</th></tr></thead><tbody><tr class="odd"><td><strong>Capstone Project – Team Lead</strong></td><td></td></tr></tbody></table>
 
--   Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency & time domain analysis to track a current performance against prerecorded performance.
--   Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.
+- Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency & time domain analysis to track a current performance against prerecorded performance.
+- Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.
 
 <table><thead><tr class="header"><th><strong>Environment:</strong></th><th><strong>C++, Python, MATLAB, PureData</strong></th></tr></thead><tbody></tbody></table>
 
 My Projects
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 [<img src="https://camo.githubusercontent.com/627c52694b92ec1f13be3a7995d46352915ad96ac13261cc37ccf987364cabd2/68747470733a2f2f636c6f75642e6e65746c69667975736572636f6e74656e742e636f6d2f6173736574732f33343464626638382d666466392d343262622d616462342d3436663031656564643632392f32336239623233362d373436652d343039632d386538362d3330623433383565336237322f6872312d7261797068616d2e676966" alt="hr-line" style="width:100.0%" height="22" />](https://camo.githubusercontent.com/627c52694b92ec1f13be3a7995d46352915ad96ac13261cc37ccf987364cabd2/68747470733a2f2f636c6f75642e6e65746c69667975736572636f6e74656e742e636f6d2f6173736574732f33343464626638382d666466392d343262622d616462342d3436663031656564643632392f32336239623233362d373436652d343039632d386538362d3330623433383565336237322f6872312d7261797068616d2e676966)
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-<a href="#learning-react-blog" id="user-content-learning-react-blog" class="anchor"></a>[Learning React Blog](https://ecstatic-jang-593fd1.netlify.app/readme)
-==============================================================================================================================================================
+# <a href="#learning-react-blog" id="user-content-learning-react-blog" class="anchor"></a>[Learning React Blog](https://ecstatic-jang-593fd1.netlify.app/readme)
 
 #### <a href="#react-repo" id="user-content-react-repo" class="anchor"></a>React Repo:
 
 [React Repo](https://github.com/bgoonz/React-Practice)
 
-------------------------------------------------------------------------
+---
 
-<a href="#-1" id="user-content--1" class="anchor"></a>[![Foo](https://camo.githubusercontent.com/90808661433696bc57dce8d4ad732307b5cec6270e6b846f114dcd7ee7f9458a/68747470733a2f2f636f646573616e64626f782e696f2f7374617469632f696d672f706c61792d636f646573616e64626f782e737667)](https://codesandbox.io/embed/zealous-microservice-ti7em?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-1" id="user-content--1" class="anchor"></a>[![Foo](https://camo.githubusercontent.com/90808661433696bc57dce8d4ad732307b5cec6270e6b846f114dcd7ee7f9458a/68747470733a2f2f636f646573616e64626f782e696f2f7374617469632f696d672f706c61792d636f646573616e64626f782e737667)](https://codesandbox.io/embed/zealous-microservice-ti7em?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark)
 
 [<img src="https://camo.githubusercontent.com/627c52694b92ec1f13be3a7995d46352915ad96ac13261cc37ccf987364cabd2/68747470733a2f2f636c6f75642e6e65746c69667975736572636f6e74656e742e636f6d2f6173736574732f33343464626638382d666466392d343262622d616462342d3436663031656564643632392f32336239623233362d373436652d343039632d386538362d3330623433383565336237322f6872312d7261797068616d2e676966" alt="hr-line" style="width:100.0%" height="22" />](https://camo.githubusercontent.com/627c52694b92ec1f13be3a7995d46352915ad96ac13261cc37ccf987364cabd2/68747470733a2f2f636c6f75642e6e65746c69667975736572636f6e74656e742e636f6d2f6173736574732f33343464626638382d666466392d343262622d616462342d3436663031656564643632392f32336239623233362d373436652d343039632d386538362d3330623433383565336237322f6872312d7261797068616d2e676966)
 
-<a href="#react-documentation-site" id="user-content-react-documentation-site" class="anchor"></a>[react-documentation-site](https://documentation-site-react2-peitff669-bgoonz.vercel.app/)
-============================================================================================================================================================================================
+# <a href="#react-documentation-site" id="user-content-react-documentation-site" class="anchor"></a>[react-documentation-site](https://documentation-site-react2-peitff669-bgoonz.vercel.app/)
 
 [![Edit magical-stallman-ov0d1](https://camo.githubusercontent.com/90808661433696bc57dce8d4ad732307b5cec6270e6b846f114dcd7ee7f9458a/68747470733a2f2f636f646573616e64626f782e696f2f7374617469632f696d672f706c61792d636f646573616e64626f782e737667)](https://codesandbox.io/s/magical-stallman-ov0d1?autoresize=1&expanddevtools=1&fontsize=12&hidenavigation=1&moduleview=1&theme=dark)
 
 [<img src="https://camo.githubusercontent.com/627c52694b92ec1f13be3a7995d46352915ad96ac13261cc37ccf987364cabd2/68747470733a2f2f636c6f75642e6e65746c69667975736572636f6e74656e742e636f6d2f6173736574732f33343464626638382d666466392d343262622d616462342d3436663031656564643632392f32336239623233362d373436652d343039632d386538362d3330623433383565336237322f6872312d7261797068616d2e676966" alt="hr-line" style="width:100.0%" height="22" />](https://camo.githubusercontent.com/627c52694b92ec1f13be3a7995d46352915ad96ac13261cc37ccf987364cabd2/68747470733a2f2f636c6f75642e6e65746c69667975736572636f6e74656e742e636f6d2f6173736574732f33343464626638382d666466392d343262622d616462342d3436663031656564643632392f32336239623233362d373436652d343039632d386538362d3330623433383565336237322f6872312d7261797068616d2e676966)
 
-------------------------------------------------------------------------
+---
 
-<a href="#-codepens-mostly-embeded-animations" id="user-content--codepens-mostly-embeded-animations" class="anchor"></a>➤ Codepens (mostly embeded animations)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-codepens-mostly-embeded-animations" id="user-content--codepens-mostly-embeded-animations" class="anchor"></a>➤ Codepens (mostly embeded animations)
 
-<a href="#code-pens-embedded" id="user-content-code-pens-embedded" class="anchor"></a>[code-pens-embedded](https://embedable-content.netlify.app/)
-==================================================================================================================================================
+# <a href="#code-pens-embedded" id="user-content-code-pens-embedded" class="anchor"></a>[code-pens-embedded](https://embedable-content.netlify.app/)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#weekly-quick-snips)
 
-<a href="#-weekly-quick-snips" id="user-content--weekly-quick-snips" class="anchor"></a>➤ Weekly-Quick-Snips:
--------------------------------------------------------------------------------------------------------------
+## <a href="#-weekly-quick-snips" id="user-content--weekly-quick-snips" class="anchor"></a>➤ Weekly-Quick-Snips:
 
-------------------------------------------------------------------------
+---
 
 #### <a href="#snippet-of-the-day" id="user-content-snippet-of-the-day" class="anchor"></a>Snippet of the Day:
 
@@ -433,7 +420,7 @@ the method string.replaceAll(search, replaceWith) replaces all appearances of se
 
     const updatedStr = str.replaceAll('example', 'snippet'); //'this is a JSsnippets snippet and snippets are greatr'
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#fibonacci-in-python" id="user-content-fibonacci-in-python" class="anchor"></a>Fibonacci in Python:
 
@@ -452,11 +439,11 @@ the method string.replaceAll(search, replaceWith) replaces all appearances of se
     for i in range(10):
         print(f'{i}: {fib_iter(i)}')
 
-------------------------------------------------------------------------
+---
 
 #### <a href="#yesterdays-snippet-of-the-day" id="user-content-yesterdays-snippet-of-the-day" class="anchor"></a>Yesterday's Snippet of the day:
 
-------------------------------------------------------------------------
+---
 
     def quicksort(l):
         # One of our base cases is an empty list or list with one element
@@ -495,13 +482,13 @@ the method string.replaceAll(search, replaceWith) replaces all appearances of se
 
     print(quicksort([9,8,7,6,5,4,3,2,1]))
 
-------------------------------------------------------------------------
+---
 
 See Older Snippets!
 
 #### <a href="#this-weeks-snippets" id="user-content-this-weeks-snippets" class="anchor"></a>This Week's snippets:
 
-------------------------------------------------------------------------
+---
 
 > will replace any spaces in file names with an underscore!
 
@@ -529,7 +516,7 @@ See Older Snippets!
     }
     RecurseDirs "./"
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#copy-to-clipboard-jquerry" id="user-content-copy-to-clipboard-jquerry" class="anchor"></a>Copy to clipboard jQuerry
 
@@ -564,7 +551,7 @@ See Older Snippets!
       });
     })
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#append-files-in-pwd" id="user-content-append-files-in-pwd" class="anchor"></a>`Append Files in PWD`
 
@@ -575,7 +562,7 @@ See Older Snippets!
       if (err) throw err;
     });
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#doesuserfrequentstarbucksjs" id="user-content-doesuserfrequentstarbucksjs" class="anchor"></a>`doesUserFrequentStarbucks.js`
 
@@ -583,13 +570,13 @@ See Older Snippets!
     console.log(isAppleDevice);
     // Result: will return true if user is on an Apple device
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#arr-intersectionjs" id="user-content-arr-intersectionjs" class="anchor"></a>`arr-intersection.js`
 
     /*
      function named intersection(firstArr) that takes in an array and
-    returns a function. 
+    returns a function.
     When the function returned by intersection is invoked
     passing in an array (secondArr) it returns a new array containing the elements
     common to both firstArr and secondArr.
@@ -612,7 +599,7 @@ See Older Snippets!
     let fame = intersection(["f", "a", "m", "e"]); // returns a function
     console.log(fame(["a", "f", "z", "b"])); // returns [ 'f', 'a' ]
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#arr-of-cum-partial-sumsjs" id="user-content-arr-of-cum-partial-sumsjs" class="anchor"></a>`arr-of-cum-partial-sums.js`
 
@@ -660,7 +647,7 @@ See Older Snippets!
     ------------------------------------------------rPartSumArr------------------------------------------------
     */
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#camel2kababjs" id="user-content-camel2kababjs" class="anchor"></a>`camel2Kabab.js`
 
@@ -668,7 +655,7 @@ See Older Snippets!
       return value.replace(/([a-z])([A-Z])/g, "$1-$2").toLowerCase();
     }
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#camelcasejs" id="user-content-camelcasejs" class="anchor"></a>`camelCase.js`
 
@@ -679,7 +666,7 @@ See Older Snippets!
       });
     }
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#concatlinkedlistsjs" id="user-content-concatlinkedlistsjs" class="anchor"></a>`concatLinkedLists.js`
 
@@ -706,7 +693,7 @@ See Older Snippets!
       return result.next;
     }
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#fast-is-alpha-numericjs" id="user-content-fast-is-alpha-numericjs" class="anchor"></a>`fast-is-alpha-numeric.js`
 
@@ -732,7 +719,7 @@ See Older Snippets!
     console.log(isAlphaNumeric(" ")); //false
     console.log(isAlphaNumeric("!")); //false
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#find-n-replacejs" id="user-content-find-n-replacejs" class="anchor"></a>`find-n-replace.js`
 
@@ -749,7 +736,7 @@ See Older Snippets!
     console.log(replaceWords("His name is Tom", "Tom", "john"));
     //"His name is John"
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#flatten-arrjs" id="user-content-flatten-arrjs" class="anchor"></a>`flatten-arr.js`
 
@@ -760,7 +747,7 @@ See Older Snippets!
         []
       );
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#isweekdayjs" id="user-content-isweekdayjs" class="anchor"></a>`isWeekDay.js`
 
@@ -770,7 +757,7 @@ See Older Snippets!
     console.log(isWeekday(new Date(2021, 0, 10)));
     // Result: false (Sunday)
 
-------------------------------------------------------------------------
+---
 
 ### <a href="#longest-common-prefixjs" id="user-content-longest-common-prefixjs" class="anchor"></a>`longest-common-prefix.js`
 
@@ -789,15 +776,13 @@ See Older Snippets!
 
 ``
 
-------------------------------------------------------------------------
+---
 
 ``
 
-<a href="#-github-gists" id="user-content--github-gists" class="anchor"></a>`➤ Github Gists`
-============================================================================================
+# <a href="#-github-gists" id="user-content--github-gists" class="anchor"></a>`➤ Github Gists`
 
-<a href="#github-gists" id="user-content-github-gists" class="anchor"></a>`Github Gists`
-----------------------------------------------------------------------------------------
+## <a href="#github-gists" id="user-content-github-gists" class="anchor"></a>`Github Gists`
 
 `list-of-my-websites`
 
@@ -809,19 +794,17 @@ See Older Snippets!
 
 ` `
 
-`         `
+` `
 
-`   `
+` `
 
-<a href="#useful-links" id="user-content-useful-links" class="anchor"></a>`Useful Links:`
-=========================================================================================
+# <a href="#useful-links" id="user-content-useful-links" class="anchor"></a>`Useful Links:`
 
 `https://www.jsdelivr.com/github https://webdevhub.ghost.io/ghost/#/tags/new https://app.archbee.io/public/lI1AR-3-Ys9iITwuhct3i/treT9kilaJkzSjozhixGi`
 
 <table><thead><tr class="header"><th>Project Name</th><th>Skills used</th><th>Description</th></tr></thead><tbody><tr class="odd"><td><a href="https://web-dev-resource-hub.netlify.app/">Web-Dev-Resource-Hub (blog)</a></td><td>Html, Css, javascript, Python, jQuery, React, FireBase, AWS S3, Netlify, Heroku, NodeJS, PostgreSQL, C++, Web Audio API</td><td>My blog site contains my resource sharing and blog site ... centered mostly on web development and just a bit of audio production / generally nerdy things I find interesting.</td></tr><tr class="even"><td><a href="https://project-showcase-bgoonz.netlify.app/">Dynamic Guitar Effects Triggering Using A Modified Dynamic Time Warping Algorithm</a></td><td>C, C++, Python, Java, Pure Data, Matlab</td><td>Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency &amp; time domain analysis to track a current performance against prerecorded performance.Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.</td></tr><tr class="odd"><td><a href="https://trusting-dijkstra-4d3b17.netlify.app/">Data Structures &amp; Algorithms Interactive Learning Site</a></td><td>HTML, CSS, Javascript, Python, Java, jQuery, Repl.it-Database API</td><td>A interactive and comprehensive guide and learning tool for DataStructures and Algorithms ... concentrated on JS but with some examples in Python, C++ and Java as well</td></tr><tr class="even"><td><a href="https://mihirbegmusic.netlify.app/">MihirBeg.com</a></td><td>Html, Css, Javascript, Bootstrap, FontAwesome, jQuery</td><td>A responsive and mobile friendly content promotion site for an Audio Engineer to engage with fans and potential clients</td></tr><tr class="odd"><td><a href="https://tetris42.netlify.app/">Tetris-JS</a></td><td>Html, Css, Javascript</td><td>The classic game of tetris implemented in plain javascipt and styled with a retro-futureistic theme</td></tr><tr class="even"><td><a href="https://githtmlpreview.netlify.app/">Git Html Preview Tool</a></td><td>Git, Javascript, CSS3, HTML5, Bootstrap, BitBucket</td><td>Loads HTML using CORS proxy, then process all links, frames, scripts and styles, and load each of them using CORS proxy, so they can be evaluated by the browser.</td></tr><tr class="odd"><td><a href="https://project-showcase-bgoonz.netlify.app/">Mini Project Showcase</a></td><td>HTML, HTML5, CSS, CSS3, Javascript, jQuery</td><td>add songs and play music, it also uses to store data in INDEXEDB Database by which we can play songs, if we not clear the catch then song will remain stored in database.</td></tr></tbody></table>
 
-Pinned <span role="status"> <span class="sr-only">Loading</span> </span> <span class="ml-2 color-fg-muted f6 js-pinned-items-reorder-message" role="status" aria-live="polite" data-error-text="Something went wrong." data-success-text="Order updated."></span>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Pinned <span role="status"> <span class="sr-only">Loading</span> </span> <span class="ml-2 color-fg-muted f6 js-pinned-items-reorder-message" role="status" aria-live="polite" data-error-text="Something went wrong." data-success-text="Order updated."></span>
 
 1.  <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL" class="text-bold flex-auto min-width-0"><span class="repo" title="DS-ALGO-OFFICIAL">DS-ALGO-OFFICIAL</span></a> <span class="Label Label--secondary v-align-middle ml-1 no-wrap">Public</span>
 
@@ -857,8 +840,7 @@ Pinned <span role="status"> <span class="sr-only">Loading</span> </span> <span c
 
     <span class="d-inline-block mr-3"> <span class="repo-language-color" style="background-color: #f1e05a"></span> <span itemprop="programmingLanguage">JavaScript</span> </span> <a href="https://github.com/bgoonz/DATA_STRUC_PYTHON_NOTES/stargazers" class="pinned-item-meta Link--muted">5</a> <a href="https://github.com/bgoonz/DATA_STRUC_PYTHON_NOTES/network/members" class="pinned-item-meta Link--muted">6</a>
 
-58,448 contributions in the last year
--------------------------------------
+## 58,448 contributions in the last year
 
 Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Sun Mon Tue Wed Thu Fri Sat
 
@@ -874,62 +856,62 @@ More
 
 <span class="select-menu-title">Organizations</span>
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=Portfolio-Projects42" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/90531339?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @Portfolio-Projects42
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=Portfolio-Projects42" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/90531339?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @Portfolio-Projects42
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=my-lambda-projects" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/84947425?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @my-lambda-projects
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=my-lambda-projects" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/84947425?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @my-lambda-projects
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=ft-potluck-planer-05-units3-4" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/86155659?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @ft-potluck-planer-05-units3-4
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=ft-potluck-planer-05-units3-4" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/86155659?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @ft-potluck-planer-05-units3-4
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=FT-Potluck-Planner-5" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/84603449?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @FT-Potluck-Planner-5
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=FT-Potluck-Planner-5" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/84603449?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @FT-Potluck-Planner-5
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=ft-anywherefitness-2" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/87986998?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @ft-anywherefitness-2
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=ft-anywherefitness-2" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/87986998?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @ft-anywherefitness-2
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=Web-Audio-Tools" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/85440011?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @Web-Audio-Tools
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=Web-Audio-Tools" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/85440011?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @Web-Audio-Tools
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=Lambda-School-Labs" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/32200850?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @Lambda-School-Labs
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=Lambda-School-Labs" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/32200850?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @Lambda-School-Labs
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=github" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/9919?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @github
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=github" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/9919?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @github
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=facebook" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/69631?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @facebook
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=facebook" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/69631?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @facebook
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=GoogleChrome" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/1778935?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @GoogleChrome
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=GoogleChrome" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/1778935?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @GoogleChrome
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=algolia" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/2034458?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @algolia
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=algolia" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/2034458?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @algolia
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=MicrosoftDocs" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/22479449?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @MicrosoftDocs
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=MicrosoftDocs" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/22479449?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @MicrosoftDocs
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=LambdaSchool" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/24780114?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @LambdaSchool
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=LambdaSchool" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/24780114?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @LambdaSchool
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=stackblitz" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/28635252?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @stackblitz
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=stackblitz" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/28635252?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @stackblitz
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=learn-anything" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/28766659?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @learn-anything
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=learn-anything" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/28766659?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @learn-anything
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=gitpod-io" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/37021919?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @gitpod-io
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=gitpod-io" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/37021919?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @gitpod-io
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=stackbit" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/38996451?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @stackbit
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=stackbit" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/38996451?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @stackbit
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=nvm-sh" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/49963700?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @nvm-sh
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=nvm-sh" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/49963700?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @nvm-sh
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;org=google-github-actions" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/71461757?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
-    @google-github-actions
+- <a href="https://github.com/bgoonz?tab=overview&amp;org=google-github-actions" class="d-block select-menu-item wb-break-all js-org-filter-link"><img src="https://avatars.githubusercontent.com/u/71461757?s=60&amp;v=4" class="select-menu-item-icon mr-2" width="20" height="20" /></a>
+  @google-github-actions
 
 No organizations found
 
@@ -939,129 +921,128 @@ Contributed to <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0" class="text-b
 
 <span class="sr-only">Loading</span>
 
-Contribution activity
----------------------
+## Contribution activity
 
 ### <span class="color-bg-default pl-2 pr-3">November <span class="color-text-secondary">2021</span></span>
 
 <span class="color-fg-default ws-normal text-left"> Created 484 commits in 44 repositories </span>
 
--   [bgoonz/free-lance-realty](https://github.com/bgoonz/free-lance-realty) <a href="https://github.com/bgoonz/free-lance-realty/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">185 commits</a>
+- [bgoonz/free-lance-realty](https://github.com/bgoonz/free-lance-realty) <a href="https://github.com/bgoonz/free-lance-realty/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">185 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 39%;background-color: #40c463"></span>
+  <span class="Progress-item rounded-2" style="width: 39%;background-color: #40c463"></span>
 
--   [bgoonz/BGOONZ\_BLOG\_2.0](https://github.com/bgoonz/BGOONZ_BLOG_2.0) <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">108 commits</a>
+- [bgoonz/BGOONZ_BLOG_2.0](https://github.com/bgoonz/BGOONZ_BLOG_2.0) <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">108 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 23%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 23%;background-color: #9be9a8"></span>
 
--   [bgoonz/alternate-blog-theme3](https://github.com/bgoonz/alternate-blog-theme3) <a href="https://github.com/bgoonz/alternate-blog-theme3/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">31 commits</a>
+- [bgoonz/alternate-blog-theme3](https://github.com/bgoonz/alternate-blog-theme3) <a href="https://github.com/bgoonz/alternate-blog-theme3/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">31 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 7%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 7%;background-color: #9be9a8"></span>
 
--   [bgoonz/INTERVIEW-PREP-COMPLETE](https://github.com/bgoonz/INTERVIEW-PREP-COMPLETE) <a href="https://github.com/bgoonz/INTERVIEW-PREP-COMPLETE/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">25 commits</a>
+- [bgoonz/INTERVIEW-PREP-COMPLETE](https://github.com/bgoonz/INTERVIEW-PREP-COMPLETE) <a href="https://github.com/bgoonz/INTERVIEW-PREP-COMPLETE/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">25 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 6%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 6%;background-color: #9be9a8"></span>
 
--   [bgoonz/blog-starter2.0](https://github.com/bgoonz/blog-starter2.0) <a href="https://github.com/bgoonz/blog-starter2.0/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">15 commits</a>
+- [bgoonz/blog-starter2.0](https://github.com/bgoonz/blog-starter2.0) <a href="https://github.com/bgoonz/blog-starter2.0/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">15 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 4%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 4%;background-color: #9be9a8"></span>
 
--   [bgoonz/Web-Dev-Hub-Docs](https://github.com/bgoonz/Web-Dev-Hub-Docs) <a href="https://github.com/bgoonz/Web-Dev-Hub-Docs/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">11 commits</a>
+- [bgoonz/Web-Dev-Hub-Docs](https://github.com/bgoonz/Web-Dev-Hub-Docs) <a href="https://github.com/bgoonz/Web-Dev-Hub-Docs/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">11 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 3%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 3%;background-color: #9be9a8"></span>
 
--   [bgoonz/gitbook-docs](https://github.com/bgoonz/gitbook-docs) <a href="https://github.com/bgoonz/gitbook-docs/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">11 commits</a>
+- [bgoonz/gitbook-docs](https://github.com/bgoonz/gitbook-docs) <a href="https://github.com/bgoonz/gitbook-docs/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">11 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 3%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 3%;background-color: #9be9a8"></span>
 
--   [bgoonz/html-2-md-converter](https://github.com/bgoonz/html-2-md-converter) <a href="https://github.com/bgoonz/html-2-md-converter/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">9 commits</a>
+- [bgoonz/html-2-md-converter](https://github.com/bgoonz/html-2-md-converter) <a href="https://github.com/bgoonz/html-2-md-converter/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">9 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
 
--   [bgoonz/random-static-html-page-deploy](https://github.com/bgoonz/random-static-html-page-deploy) <a href="https://github.com/bgoonz/random-static-html-page-deploy/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">7 commits</a>
+- [bgoonz/random-static-html-page-deploy](https://github.com/bgoonz/random-static-html-page-deploy) <a href="https://github.com/bgoonz/random-static-html-page-deploy/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">7 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
 
--   [Web-Dev-Collaborative/plain-html-showcase-example](https://github.com/Web-Dev-Collaborative/plain-html-showcase-example) <a href="https://github.com/Web-Dev-Collaborative/plain-html-showcase-example/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">6 commits</a>
+- [Web-Dev-Collaborative/plain-html-showcase-example](https://github.com/Web-Dev-Collaborative/plain-html-showcase-example) <a href="https://github.com/Web-Dev-Collaborative/plain-html-showcase-example/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">6 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
 
--   [bgoonz/Web\_Utility\_Tools](https://github.com/bgoonz/Web_Utility_Tools) <a href="https://github.com/bgoonz/Web_Utility_Tools/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">6 commits</a>
+- [bgoonz/Web_Utility_Tools](https://github.com/bgoonz/Web_Utility_Tools) <a href="https://github.com/bgoonz/Web_Utility_Tools/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">6 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
 
--   [bgoonz/random-list-of-embedable-content](https://github.com/bgoonz/random-list-of-embedable-content) <a href="https://github.com/bgoonz/random-list-of-embedable-content/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">6 commits</a>
+- [bgoonz/random-list-of-embedable-content](https://github.com/bgoonz/random-list-of-embedable-content) <a href="https://github.com/bgoonz/random-list-of-embedable-content/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">6 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
 
--   [bgoonz/blog2.0-notes-backups](https://github.com/bgoonz/blog2.0-notes-backups) <a href="https://github.com/bgoonz/blog2.0-notes-backups/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">5 commits</a>
+- [bgoonz/blog2.0-notes-backups](https://github.com/bgoonz/blog2.0-notes-backups) <a href="https://github.com/bgoonz/blog2.0-notes-backups/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">5 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
 
--   [bgoonz/blog-w-comments](https://github.com/bgoonz/blog-w-comments) <a href="https://github.com/bgoonz/blog-w-comments/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">5 commits</a>
+- [bgoonz/blog-w-comments](https://github.com/bgoonz/blog-w-comments) <a href="https://github.com/bgoonz/blog-w-comments/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">5 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 2%;background-color: #9be9a8"></span>
 
--   [Portfolio-Projects42/BLOG2.oStarter](https://github.com/Portfolio-Projects42/BLOG2.oStarter) <a href="https://github.com/Portfolio-Projects42/BLOG2.oStarter/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">4 commits</a>
+- [Portfolio-Projects42/BLOG2.oStarter](https://github.com/Portfolio-Projects42/BLOG2.oStarter) <a href="https://github.com/Portfolio-Projects42/BLOG2.oStarter/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">4 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
 
--   [impastasyndrome/notion](https://github.com/impastasyndrome/notion) <a href="https://github.com/impastasyndrome/notion/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">4 commits</a>
+- [impastasyndrome/notion](https://github.com/impastasyndrome/notion) <a href="https://github.com/impastasyndrome/notion/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">4 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
 
--   [bgoonz/GIT-CDN-FILES](https://github.com/bgoonz/GIT-CDN-FILES) <a href="https://github.com/bgoonz/GIT-CDN-FILES/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">4 commits</a>
+- [bgoonz/GIT-CDN-FILES](https://github.com/bgoonz/GIT-CDN-FILES) <a href="https://github.com/bgoonz/GIT-CDN-FILES/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">4 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
 
--   [bgoonz/html-demo-code-and-experiments](https://github.com/bgoonz/html-demo-code-and-experiments) <a href="https://github.com/bgoonz/html-demo-code-and-experiments/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">3 commits</a>
+- [bgoonz/html-demo-code-and-experiments](https://github.com/bgoonz/html-demo-code-and-experiments) <a href="https://github.com/bgoonz/html-demo-code-and-experiments/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">3 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
 
--   [bgoonz/blog2.0-notes-backups-archive](https://github.com/bgoonz/blog2.0-notes-backups-archive) <a href="https://github.com/bgoonz/blog2.0-notes-backups-archive/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">3 commits</a>
+- [bgoonz/blog2.0-notes-backups-archive](https://github.com/bgoonz/blog2.0-notes-backups-archive) <a href="https://github.com/bgoonz/blog2.0-notes-backups-archive/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">3 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
 
--   [my-lambda-projects/readside](https://github.com/my-lambda-projects/readside) <a href="https://github.com/my-lambda-projects/readside/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">3 commits</a>
+- [my-lambda-projects/readside](https://github.com/my-lambda-projects/readside) <a href="https://github.com/my-lambda-projects/readside/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">3 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
 
--   [bgoonz/bgoonz](https://github.com/bgoonz/bgoonz) <a href="https://github.com/bgoonz/bgoonz/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">3 commits</a>
+- [bgoonz/bgoonz](https://github.com/bgoonz/bgoonz) <a href="https://github.com/bgoonz/bgoonz/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">3 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
 
--   [bgoonz/Jupyter-Notebooks](https://github.com/bgoonz/Jupyter-Notebooks) <a href="https://github.com/bgoonz/Jupyter-Notebooks/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">2 commits</a>
+- [bgoonz/Jupyter-Notebooks](https://github.com/bgoonz/Jupyter-Notebooks) <a href="https://github.com/bgoonz/Jupyter-Notebooks/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">2 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
 
--   [bgoonz/docs-collection](https://github.com/bgoonz/docs-collection) <a href="https://github.com/bgoonz/docs-collection/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">2 commits</a>
+- [bgoonz/docs-collection](https://github.com/bgoonz/docs-collection) <a href="https://github.com/bgoonz/docs-collection/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">2 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
 
--   [Archive-42/images](https://github.com/Archive-42/images) <a href="https://github.com/Archive-42/images/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">2 commits</a>
+- [Archive-42/images](https://github.com/Archive-42/images) <a href="https://github.com/Archive-42/images/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">2 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
 
--   [Archive-42/unique-zucchini](https://github.com/Archive-42/unique-zucchini) <a href="https://github.com/Archive-42/unique-zucchini/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">2 commits</a>
+- [Archive-42/unique-zucchini](https://github.com/Archive-42/unique-zucchini) <a href="https://github.com/Archive-42/unique-zucchini/commits?author=bgoonz&amp;since=2021-11-01&amp;until=2021-11-16" class="f6 Link--muted ml-lg-1 mt-1 mt-lg-0 d-block d-lg-inline">2 commits</a>
 
-    <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
+  <span class="Progress-item rounded-2" style="width: 1%;background-color: #9be9a8"></span>
 
--   19 repositories not shown
+- 19 repositories not shown
 
 <span class="float-left ws-normal text-left color-fg-default"> Created 12 repositories </span>
 
--   <a href="https://github.com/bgoonz/html-demo-code-and-experiments" class="mr-2">bgoonz/html-demo-code-and-experiments</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #e34c26"></span> <span itemprop="programmingLanguage">HTML</span> </span> </span> Nov 15
--   <a href="https://github.com/bgoonz/blog2.0-notes-backups-archive" class="mr-2">bgoonz/blog2.0-notes-backups-archive</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #e34c26"></span> <span itemprop="programmingLanguage">HTML</span> </span> </span> Nov 9
--   <a href="https://github.com/bgoonz/blog-starter2.0" class="mr-2">bgoonz/blog-starter2.0</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #f1e05a"></span> <span itemprop="programmingLanguage">JavaScript</span> </span> <span class="color-fg-muted mx-1">•</span> Built by <a href="https://github.com/bgoonz" class="d-inline-block"><img src="https://avatars.githubusercontent.com/u/66654881?s=30&amp;u=d7aec69fa6a60562f31a059b617f49f8dca3b450&amp;v=4" alt="@bgoonz" class="avatar avatar-user mb-1" width="15" height="15" /></a> <a href="https://github.com/ImgBotApp" class="d-inline-block"><img src="https://avatars.githubusercontent.com/u/31427850?s=30&amp;u=464006d20c236f7bbec4ae1b2ae80bf4c1ebd57a&amp;v=4" alt="@ImgBotApp" class="avatar avatar-user mb-1" width="15" height="15" /></a> <a href="https://github.com/stackbit-projects" class="d-inline-block"><img src="https://avatars.githubusercontent.com/u/63054031?s=30&amp;u=09958d8dffb3b2f7841e0a0c742e00f5072f9f39&amp;v=4" alt="@stackbit-projects" class="avatar avatar-user mb-1" width="15" height="15" /></a> </span> Nov 9
--   <a href="https://github.com/bgoonz/notion" class="mr-2">bgoonz/notion</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> </span> Nov 4
--   <a href="https://github.com/bgoonz/gitbook-docs" class="mr-2">bgoonz/gitbook-docs</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #e34c26"></span> <span itemprop="programmingLanguage">HTML</span> </span> </span> Nov 4
--   <a href="https://github.com/bgoonz/pop-quiz" class="mr-2">bgoonz/pop-quiz</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #e34c26"></span> <span itemprop="programmingLanguage">HTML</span> </span> </span> Nov 3
--   <a href="https://github.com/bgoonz/awesome" class="mr-2">bgoonz/awesome</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> </span> Nov 3
--   <a href="https://github.com/bgoonz/cors-defying-embed-repo" class="mr-2">bgoonz/cors-defying-embed-repo</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #e34c26"></span> <span itemprop="programmingLanguage">HTML</span> </span> </span> Nov 3
--   <a href="https://github.com/bgoonz/html-2-md-converter" class="mr-2">bgoonz/html-2-md-converter</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #e34c26"></span> <span itemprop="programmingLanguage">HTML</span> </span> <span class="color-fg-muted mx-1">•</span> Built by <a href="https://github.com/bgoonz" class="d-inline-block"><img src="https://avatars.githubusercontent.com/u/66654881?s=30&amp;u=d7aec69fa6a60562f31a059b617f49f8dca3b450&amp;v=4" alt="@bgoonz" class="avatar avatar-user mb-1" width="15" height="15" /></a> <a href="https://github.com/renovate-bot" class="d-inline-block"><img src="https://avatars.githubusercontent.com/u/25180681?s=30&amp;u=d3b431ab24d1b297a939591bbaeec5977eda6592&amp;v=4" alt="@renovate-bot" class="avatar avatar-user mb-1" width="15" height="15" /></a> </span> Nov 2
--   <a href="https://github.com/bgoonz/web-module-project-async-redux" class="mr-2">bgoonz/web-module-project-async-redux</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> </span> Nov 1
--   <a href="https://github.com/bgoonz/ARCHIVE" class="mr-2">bgoonz/ARCHIVE</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #f1e05a"></span> <span itemprop="programmingLanguage">JavaScript</span> </span> </span> Nov 1
--   <a href="https://github.com/bgoonz/web3_examples" class="mr-2">bgoonz/web3_examples</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #f1e05a"></span> <span itemprop="programmingLanguage">JavaScript</span> </span> </span> Nov 1
+- <a href="https://github.com/bgoonz/html-demo-code-and-experiments" class="mr-2">bgoonz/html-demo-code-and-experiments</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #e34c26"></span> <span itemprop="programmingLanguage">HTML</span> </span> </span> Nov 15
+- <a href="https://github.com/bgoonz/blog2.0-notes-backups-archive" class="mr-2">bgoonz/blog2.0-notes-backups-archive</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #e34c26"></span> <span itemprop="programmingLanguage">HTML</span> </span> </span> Nov 9
+- <a href="https://github.com/bgoonz/blog-starter2.0" class="mr-2">bgoonz/blog-starter2.0</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #f1e05a"></span> <span itemprop="programmingLanguage">JavaScript</span> </span> <span class="color-fg-muted mx-1">•</span> Built by <a href="https://github.com/bgoonz" class="d-inline-block"><img src="https://avatars.githubusercontent.com/u/66654881?s=30&amp;u=d7aec69fa6a60562f31a059b617f49f8dca3b450&amp;v=4" alt="@bgoonz" class="avatar avatar-user mb-1" width="15" height="15" /></a> <a href="https://github.com/ImgBotApp" class="d-inline-block"><img src="https://avatars.githubusercontent.com/u/31427850?s=30&amp;u=464006d20c236f7bbec4ae1b2ae80bf4c1ebd57a&amp;v=4" alt="@ImgBotApp" class="avatar avatar-user mb-1" width="15" height="15" /></a> <a href="https://github.com/stackbit-projects" class="d-inline-block"><img src="https://avatars.githubusercontent.com/u/63054031?s=30&amp;u=09958d8dffb3b2f7841e0a0c742e00f5072f9f39&amp;v=4" alt="@stackbit-projects" class="avatar avatar-user mb-1" width="15" height="15" /></a> </span> Nov 9
+- <a href="https://github.com/bgoonz/notion" class="mr-2">bgoonz/notion</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> </span> Nov 4
+- <a href="https://github.com/bgoonz/gitbook-docs" class="mr-2">bgoonz/gitbook-docs</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #e34c26"></span> <span itemprop="programmingLanguage">HTML</span> </span> </span> Nov 4
+- <a href="https://github.com/bgoonz/pop-quiz" class="mr-2">bgoonz/pop-quiz</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #e34c26"></span> <span itemprop="programmingLanguage">HTML</span> </span> </span> Nov 3
+- <a href="https://github.com/bgoonz/awesome" class="mr-2">bgoonz/awesome</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> </span> Nov 3
+- <a href="https://github.com/bgoonz/cors-defying-embed-repo" class="mr-2">bgoonz/cors-defying-embed-repo</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #e34c26"></span> <span itemprop="programmingLanguage">HTML</span> </span> </span> Nov 3
+- <a href="https://github.com/bgoonz/html-2-md-converter" class="mr-2">bgoonz/html-2-md-converter</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #e34c26"></span> <span itemprop="programmingLanguage">HTML</span> </span> <span class="color-fg-muted mx-1">•</span> Built by <a href="https://github.com/bgoonz" class="d-inline-block"><img src="https://avatars.githubusercontent.com/u/66654881?s=30&amp;u=d7aec69fa6a60562f31a059b617f49f8dca3b450&amp;v=4" alt="@bgoonz" class="avatar avatar-user mb-1" width="15" height="15" /></a> <a href="https://github.com/renovate-bot" class="d-inline-block"><img src="https://avatars.githubusercontent.com/u/25180681?s=30&amp;u=d3b431ab24d1b297a939591bbaeec5977eda6592&amp;v=4" alt="@renovate-bot" class="avatar avatar-user mb-1" width="15" height="15" /></a> </span> Nov 2
+- <a href="https://github.com/bgoonz/web-module-project-async-redux" class="mr-2">bgoonz/web-module-project-async-redux</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> </span> Nov 1
+- <a href="https://github.com/bgoonz/ARCHIVE" class="mr-2">bgoonz/ARCHIVE</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #f1e05a"></span> <span itemprop="programmingLanguage">JavaScript</span> </span> </span> Nov 1
+- <a href="https://github.com/bgoonz/web3_examples" class="mr-2">bgoonz/web3_examples</a> <span class="col-2 f6 color-fg-muted d-block mt-1 d-lg-inline mt-lg-0"> <span class="ml-0"> <span class="repo-language-color" style="background-color: #f1e05a"></span> <span itemprop="programmingLanguage">JavaScript</span> </span> </span> Nov 1
 
 #### Created a pull request in <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0" class="Link--primary">bgoonz/BGOONZ_BLOG_2.0</a> that received 3 comments
 
@@ -1077,89 +1058,89 @@ Merge pull request <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1072"
 
 <span class="css-truncate css-truncate-target" data-hovercard-type="repository" data-hovercard-url="/bgoonz/free-lance-realty/hovercard">bgoonz/free-lance-realty</span> <span class="f6 color-fg-muted float-right text-right"> <span class="State--merged State ml-2 px-1 py-0 lh-condensed-ultra f6"> 16 </span> merged </span>
 
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/35" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/34" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #33 from bgoonz/preview</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/33" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #32 from bgoonz/master</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/32" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #31 from bgoonz/preview</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/31" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/30" class="no-underline"><span class="Link--primary markdown-title">a lot</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/27" class="no-underline"><span class="Link--primary markdown-title">-update</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/26" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #25 from bgoonz/preview</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/25" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #24 from bgoonz/master</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/24" class="no-underline"><span class="Link--primary markdown-title">content</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/23" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/22" class="no-underline"><span class="Link--primary markdown-title">up</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/21" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/20" class="no-underline"><span class="Link--primary markdown-title">reset to original commit</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/19" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #18 from bgoonz/master</span></a> Nov 8
--   <a href="https://github.com/bgoonz/free-lance-realty/pull/18" class="no-underline"><span class="Link--primary markdown-title">oops</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/35" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/34" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #33 from bgoonz/preview</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/33" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #32 from bgoonz/master</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/32" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #31 from bgoonz/preview</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/31" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/30" class="no-underline"><span class="Link--primary markdown-title">a lot</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/27" class="no-underline"><span class="Link--primary markdown-title">-update</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/26" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #25 from bgoonz/preview</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/25" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #24 from bgoonz/master</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/24" class="no-underline"><span class="Link--primary markdown-title">content</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/23" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/22" class="no-underline"><span class="Link--primary markdown-title">up</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/21" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/20" class="no-underline"><span class="Link--primary markdown-title">reset to original commit</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/19" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #18 from bgoonz/master</span></a> Nov 8
+- <a href="https://github.com/bgoonz/free-lance-realty/pull/18" class="no-underline"><span class="Link--primary markdown-title">oops</span></a> Nov 8
 
-<span class="css-truncate css-truncate-target" data-hovercard-type="repository" data-hovercard-url="/bgoonz/BGOONZ_BLOG_2.0/hovercard">bgoonz/BGOONZ\_BLOG\_2.0</span> <span class="f6 color-fg-muted float-right text-right"> <span class="State--merged State ml-2 px-1 py-0 lh-condensed-ultra f6"> 12 </span> merged </span>
+<span class="css-truncate css-truncate-target" data-hovercard-type="repository" data-hovercard-url="/bgoonz/BGOONZ_BLOG_2.0/hovercard">bgoonz/BGOONZ_BLOG_2.0</span> <span class="f6 color-fg-muted float-right text-right"> <span class="State--merged State ml-2 px-1 py-0 lh-condensed-ultra f6"> 12 </span> merged </span>
 
--   <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1087" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1086 from bgoonz/preview</span></a> Nov 4
--   <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1086" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1085 from bgoonz/master</span></a> Nov 4
--   <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1085" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1084 from bgoonz/preview</span></a> Nov 4
--   <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1084" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 3
--   <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1083" class="no-underline"><span class="Link--primary markdown-title">yhi</span></a> Nov 3
--   <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1082" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1081 from bgoonz/master</span></a> Nov 2
--   <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1081" class="no-underline"><span class="Link--primary markdown-title">Update _general.scss</span></a> Nov 2
--   <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1080" class="no-underline"><span class="Link--primary markdown-title">hmm</span></a> Nov 2
--   <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1078" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1077 from bgoonz/preview</span></a> Nov 1
--   <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1077" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1076 from bgoonz/master</span></a> Nov 1
--   <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1076" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1075 from bgoonz/preview</span></a> Nov 1
--   <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1075" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 1
+- <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1087" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1086 from bgoonz/preview</span></a> Nov 4
+- <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1086" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1085 from bgoonz/master</span></a> Nov 4
+- <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1085" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1084 from bgoonz/preview</span></a> Nov 4
+- <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1084" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 3
+- <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1083" class="no-underline"><span class="Link--primary markdown-title">yhi</span></a> Nov 3
+- <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1082" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1081 from bgoonz/master</span></a> Nov 2
+- <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1081" class="no-underline"><span class="Link--primary markdown-title">Update \_general.scss</span></a> Nov 2
+- <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1080" class="no-underline"><span class="Link--primary markdown-title">hmm</span></a> Nov 2
+- <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1078" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1077 from bgoonz/preview</span></a> Nov 1
+- <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1077" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1076 from bgoonz/master</span></a> Nov 1
+- <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1076" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #1075 from bgoonz/preview</span></a> Nov 1
+- <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/pull/1075" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 1
 
 <span class="css-truncate css-truncate-target" data-hovercard-type="repository" data-hovercard-url="/bgoonz/blog-starter2.0/hovercard">bgoonz/blog-starter2.0</span> <span class="f6 color-fg-muted float-right text-right"> <span class="State--merged State ml-2 px-1 py-0 lh-condensed-ultra f6"> 11 </span> merged </span>
 
--   <a href="https://github.com/bgoonz/blog-starter2.0/pull/13" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #12 from bgoonz/preview</span></a> Nov 9
--   <a href="https://github.com/bgoonz/blog-starter2.0/pull/12" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #11 from bgoonz/master</span></a> Nov 9
--   <a href="https://github.com/bgoonz/blog-starter2.0/pull/11" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 9
--   <a href="https://github.com/bgoonz/blog-starter2.0/pull/10" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #9 from bgoonz/master</span></a> Nov 9
--   <a href="https://github.com/bgoonz/blog-starter2.0/pull/9" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 9
--   <a href="https://github.com/bgoonz/blog-starter2.0/pull/8" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #6 from bgoonz/master</span></a> Nov 9
--   <a href="https://github.com/bgoonz/blog-starter2.0/pull/6" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #5 from bgoonz/preview</span></a> Nov 9
--   <a href="https://github.com/bgoonz/blog-starter2.0/pull/5" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #4 from bgoonz/master</span></a> Nov 9
--   <a href="https://github.com/bgoonz/blog-starter2.0/pull/4" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 9
--   <a href="https://github.com/bgoonz/blog-starter2.0/pull/3" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 9
--   <a href="https://github.com/bgoonz/blog-starter2.0/pull/2" class="no-underline"><span class="Link--primary markdown-title">Update README.md</span></a> Nov 9
+- <a href="https://github.com/bgoonz/blog-starter2.0/pull/13" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #12 from bgoonz/preview</span></a> Nov 9
+- <a href="https://github.com/bgoonz/blog-starter2.0/pull/12" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #11 from bgoonz/master</span></a> Nov 9
+- <a href="https://github.com/bgoonz/blog-starter2.0/pull/11" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 9
+- <a href="https://github.com/bgoonz/blog-starter2.0/pull/10" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #9 from bgoonz/master</span></a> Nov 9
+- <a href="https://github.com/bgoonz/blog-starter2.0/pull/9" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 9
+- <a href="https://github.com/bgoonz/blog-starter2.0/pull/8" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #6 from bgoonz/master</span></a> Nov 9
+- <a href="https://github.com/bgoonz/blog-starter2.0/pull/6" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #5 from bgoonz/preview</span></a> Nov 9
+- <a href="https://github.com/bgoonz/blog-starter2.0/pull/5" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #4 from bgoonz/master</span></a> Nov 9
+- <a href="https://github.com/bgoonz/blog-starter2.0/pull/4" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 9
+- <a href="https://github.com/bgoonz/blog-starter2.0/pull/3" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 9
+- <a href="https://github.com/bgoonz/blog-starter2.0/pull/2" class="no-underline"><span class="Link--primary markdown-title">Update README.md</span></a> Nov 9
 
 <span class="css-truncate css-truncate-target" data-hovercard-type="repository" data-hovercard-url="/bgoonz/alternate-blog-theme3/hovercard">bgoonz/alternate-blog-theme3</span> <span class="f6 color-fg-muted float-right text-right"> <span class="State--closed State ml-2 px-1 py-0 lh-condensed-ultra f6"> 1 </span> closed <span class="State--merged State ml-2 px-1 py-0 lh-condensed-ultra f6"> 3 </span> merged </span>
 
--   <a href="https://github.com/bgoonz/alternate-blog-theme3/pull/107" class="no-underline"><span class="Link--primary markdown-title">hihi</span></a> Nov 9
--   <a href="https://github.com/bgoonz/alternate-blog-theme3/pull/106" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 9
--   <a href="https://github.com/bgoonz/alternate-blog-theme3/pull/102" class="no-underline"><span class="Link--primary markdown-title">stuff</span></a> Nov 4
--   <a href="https://github.com/bgoonz/alternate-blog-theme3/pull/101" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 3
+- <a href="https://github.com/bgoonz/alternate-blog-theme3/pull/107" class="no-underline"><span class="Link--primary markdown-title">hihi</span></a> Nov 9
+- <a href="https://github.com/bgoonz/alternate-blog-theme3/pull/106" class="no-underline"><span class="Link--primary markdown-title">Preview</span></a> Nov 9
+- <a href="https://github.com/bgoonz/alternate-blog-theme3/pull/102" class="no-underline"><span class="Link--primary markdown-title">stuff</span></a> Nov 4
+- <a href="https://github.com/bgoonz/alternate-blog-theme3/pull/101" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 3
 
 <span class="css-truncate css-truncate-target" data-hovercard-type="repository" data-hovercard-url="/Archive-42/unique-zucchini/hovercard">Archive-42/unique-zucchini</span> <span class="f6 color-fg-muted float-right text-right"> <span class="State--open State ml-2 px-1 py-0 lh-condensed-ultra f6"> 1 </span> open <span class="State--merged State ml-2 px-1 py-0 lh-condensed-ultra f6"> 2 </span> merged </span>
 
--   <a href="https://github.com/Archive-42/unique-zucchini/pull/10" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 4
--   <a href="https://github.com/Archive-42/unique-zucchini/pull/9" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 4
--   <a href="https://github.com/Archive-42/unique-zucchini/pull/5" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #2 from bgoonz/preview</span></a> Nov 4
+- <a href="https://github.com/Archive-42/unique-zucchini/pull/10" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 4
+- <a href="https://github.com/Archive-42/unique-zucchini/pull/9" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 4
+- <a href="https://github.com/Archive-42/unique-zucchini/pull/5" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #2 from bgoonz/preview</span></a> Nov 4
 
 <span class="css-truncate css-truncate-target" data-hovercard-type="repository" data-hovercard-url="/Archive-42/images/hovercard">Archive-42/images</span> <span class="f6 color-fg-muted float-right text-right"> <span class="State--merged State ml-2 px-1 py-0 lh-condensed-ultra f6"> 2 </span> merged </span>
 
--   <a href="https://github.com/Archive-42/images/pull/3" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #2 from Archive-42/master</span></a> Nov 9
--   <a href="https://github.com/Archive-42/images/pull/2" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 9
+- <a href="https://github.com/Archive-42/images/pull/3" class="no-underline"><span class="Link--primary markdown-title">Merge pull request #2 from Archive-42/master</span></a> Nov 9
+- <a href="https://github.com/Archive-42/images/pull/2" class="no-underline"><span class="Link--primary markdown-title">hi</span></a> Nov 9
 
 <span class="css-truncate css-truncate-target" data-hovercard-type="repository" data-hovercard-url="/github/docs/hovercard">github/docs</span> <span class="f6 color-fg-muted float-right text-right"> <span class="State--open State ml-2 px-1 py-0 lh-condensed-ultra f6"> 1 </span> open </span>
 
--   <a href="https://github.com/github/docs/pull/11613" class="no-underline"><span class="Link--primary markdown-title">Clarified some common misunderstandings about the seemingly contradictory mismatch between number of unique visitors and number of unique clones. </span></a> Nov 2
+- <a href="https://github.com/github/docs/pull/11613" class="no-underline"><span class="Link--primary markdown-title">Clarified some common misunderstandings about the seemingly contradictory mismatch between number of unique visitors and number of unique clones. </span></a> Nov 2
 
 <span class="float-left ws-normal text-left color-fg-default"> Opened 2 issues in 2 repositories </span>
 
 <span class="css-truncate css-truncate-target" data-hovercard-type="repository" data-hovercard-url="/LambdaSchool/CS-Wiki/hovercard">LambdaSchool/CS-Wiki</span> <span class="f6 color-fg-muted Link--onHover no-underline float-right text-right"> <span class="State--open State ml-2 px-1 py-0 lh-condensed-ultra f6"> 1 </span> open </span>
 
--   <a href="https://github.com/LambdaSchool/CS-Wiki/issues/5" class="no-underline"><span class="Link--primary markdown-title">Invalid file names</span></a> Nov 1
+- <a href="https://github.com/LambdaSchool/CS-Wiki/issues/5" class="no-underline"><span class="Link--primary markdown-title">Invalid file names</span></a> Nov 1
 
 <span class="css-truncate css-truncate-target" data-hovercard-type="repository" data-hovercard-url="/bgoonz/blog-w-comments/hovercard">bgoonz/blog-w-comments</span> <span class="f6 color-fg-muted Link--onHover no-underline float-right text-right"> <span class="State--open State ml-2 px-1 py-0 lh-condensed-ultra f6"> 1 </span> open </span>
 
--   <a href="https://github.com/bgoonz/blog-w-comments/issues/55" class="no-underline"><span class="Link--primary markdown-title">test</span></a> Nov 1
+- <a href="https://github.com/bgoonz/blog-w-comments/issues/55" class="no-underline"><span class="Link--primary markdown-title">test</span></a> Nov 1
 
 <span class="float-left ws-normal text-left color-fg-default"> Started 1 discussion in 1 repository </span>
 
-<span class="css-truncate css-truncate-target" data-hovercard-type="repository" data-hovercard-url="/bgoonz/BGOONZ_BLOG_2.0/hovercard">bgoonz/BGOONZ\_BLOG\_2.0</span>
+<span class="css-truncate css-truncate-target" data-hovercard-type="repository" data-hovercard-url="/bgoonz/BGOONZ_BLOG_2.0/hovercard">bgoonz/BGOONZ_BLOG_2.0</span>
 
--   <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/discussions/1079" class="no-underline"><span class="Link--primary"> Move tawk.to into react component in footer </span></a> Nov 1
+- <a href="https://github.com/bgoonz/BGOONZ_BLOG_2.0/discussions/1079" class="no-underline"><span class="Link--primary"> Move tawk.to into react component in footer </span></a> Nov 1
 
 <span class="f4 lh-condensed m-0 color-fg-muted"> 31 contributions in private repositories </span> <span class="float-right f6 color-fg-muted pt-1"> Nov 2 – Nov 10 </span>
 
@@ -1169,24 +1150,24 @@ Show more activity
 
 Seeing something unexpected? Take a look at the [GitHub profile guide](https://docs.github.com/categories/setting-up-and-managing-your-github-profile).
 
--   <a href="https://github.com/bgoonz?tab=overview&amp;from=2021-11-01&amp;to=2021-11-15" id="year-link-2021" class="js-year-link filter-item px-3 mb-2 py-2 selected">2021</a>
--   <a href="https://github.com/bgoonz?tab=overview&amp;from=2020-12-01&amp;to=2020-12-31" id="year-link-2020" class="js-year-link filter-item px-3 mb-2 py-2">2020</a>
+- <a href="https://github.com/bgoonz?tab=overview&amp;from=2021-11-01&amp;to=2021-11-15" id="year-link-2021" class="js-year-link filter-item px-3 mb-2 py-2 selected">2021</a>
+- <a href="https://github.com/bgoonz?tab=overview&amp;from=2020-12-01&amp;to=2020-12-31" id="year-link-2020" class="js-year-link filter-item px-3 mb-2 py-2">2020</a>
 
--   © 2021 GitHub, Inc.
--   [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
--   [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
--   [Security](https://github.com/security)
--   [Status](https://www.githubstatus.com/)
--   [Docs](https://docs.github.com/)
+- © 2021 GitHub, Inc.
+- [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
+- [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
+- [Security](https://github.com/security)
+- [Status](https://www.githubstatus.com/)
+- [Docs](https://docs.github.com/)
 
 <!-- -->
 
--   [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
--   [Pricing](https://github.com/pricing)
--   [API](https://docs.github.com/)
--   [Training](https://services.github.com/)
--   [Blog](https://github.blog/)
--   [About](https://github.com/about)
+- [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
+- [Pricing](https://github.com/pricing)
+- [API](https://docs.github.com/)
+- [Training](https://services.github.com/)
+- [Blog](https://github.blog/)
+- [About](https://github.com/about)
 
 <span class="f6 color-fg-muted"></span>
 

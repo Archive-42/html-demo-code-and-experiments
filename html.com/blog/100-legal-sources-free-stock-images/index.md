@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-100 Of The Best Free (And Legal) Stock Image Sources In 2020
-============================================================
+# 100 Of The Best Free (And Legal) Stock Image Sources In 2020
 
 In <span class="post-meta-category">[Blog](https://html.com/blog/), [Design](https://html.com/blog/design/)</span>
 
@@ -27,8 +20,7 @@ It is sometimes even worthwhile to pay for images that are not copyrighted. For 
 
 Fortunately, there are a number of sources for completely free images, and we’ve collected them here. So read on for 100 sources where you can find free stock images: and don’t worry — they’re all legal!
 
-**Most Popular**
-----------------
+## **Most Popular**
 
 These resources are some of the most popular free stock image sites on the Web and with good reason. If you’re looking for some mainstream images for your website, these are the first place to try.
 
@@ -48,8 +40,7 @@ These resources are some of the most popular free stock image sites on the Web a
 14. **[Dreamstime](http://www.dreamstime.com/)**: While most of the photos on this site cost a fee, Dreamstime provides a few free stock photos.
 15. **[Superfamous](http://images.superfamous.com/)**: This site offers a curated collection of beautiful high-resolution images.
 
-**Community-Powered Content**
------------------------------
+## **Community-Powered Content**
 
 In addition to being a great source of images, these sites [host](https://html.com/) forums, file sharing and other features designed to nurture community spirit.
 
@@ -64,8 +55,7 @@ In addition to being a great source of images, these sites [host](https://html.c
 9.  **[Photocase](http://www.photocase.com/en/)**: The good people at Photocase are “prettying up the world.” Check out their great library of stock images.
 10. **[deviantART](https://stockart.deviantart.com/)**: Provocative photos spawn great debates on the site’s forum.
 
-**Artists Welcome**
--------------------
+## **Artists Welcome**
 
 It’s probably pretty safe to say that every stock image site on the Web needs the help of photographers to keep it running. The following sites, however, really cater to the needs of photographers, designers, and other artists even though they’re donating their photos for free.
 
@@ -84,8 +74,7 @@ It’s probably pretty safe to say that every stock image site on the Web needs 
 13. **[Flickr](https://www.flickr.com/)**: Most of the photos on this site are not free, but a clever search will turn up some real goodies.
 14. **[FreeLargePhotos.com](http://freelargephotos.com/)**: Downloaders must link their chosen photo back to the site, which gives the photographer credit.
 
-**Less is Sometimes More**
---------------------------
+## **Less is Sometimes More**
 
 Just because the sites listed in this section aren’t as expansive as some of the others on our list doesn’t mean they’re not worth checking out. Sometimes less can really means more, especially when it comes to narrowing down your search or coming across hard-to-find treasures.
 
@@ -105,8 +94,7 @@ Just because the sites listed in this section aren’t as expansive as some of t
 14. **[Shutterstock Free Images Archive](http://www.shutterstock.com/blog/category/design/free-images)**: Stock photo site Shutterstock features free images weekly on their blog.
 15. **[Insect Images](http://www.insectimages.org/)**: Find all kinds of photos of creepy crawlers here.
 
-**Stock Images Plus**
----------------------
+## **Stock Images Plus**
 
 There is a lot more to legal stock images than just a bank of free photos. The sites in this section all go beyond being a basic stock photography resource by offering more services that will help improve your search for and use of stock images.
 
@@ -126,8 +114,7 @@ There is a lot more to legal stock images than just a bank of free photos. The s
 14. **[National Park Service Digital Image Archive](http://www.nps.gov/pub_aff/imagebase.html%20)**: Check out beautiful pictures taken for the NPS. This site also provides a link to the NPS official site.
 15. **[New York Public Library Digital Gallery](https://digitalcollections.nypl.org/)**: Browse through thousands of prints, illustrations, and photos. Read the photographic services and permissions page for more information on downloading high-res files.
 
-**Miscellaneous**
------------------
+## **Miscellaneous**
 
 These image sites don’t necessarily fit into one particular category, but they’ve still got a lot to offer for your [website’s needs](https://html.com/).
 
@@ -147,8 +134,7 @@ These image sites don’t necessarily fit into one particular category, but they
 14. **[BAJstock](http://www.bajstock.com/)**: Written in both French and English, this stock image site has tons of photos for you to use for free.
 15. **[NWYK Stock Image Library](http://digitalcollections.nypl.org/)**: Explore 841,537 items digitized from The New York Public Library’s collections.
 
-**General**
------------
+## **General**
 
 These stock image sites offer a wide range of photo subjects, perfect for casual browsing or a way to get ideas before you plan out your site.
 
@@ -171,12 +157,11 @@ These stock image sites offer a wide range of photo subjects, perfect for casual
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
- 
+
 
 Tags: [Images](https://html.com/blog/tags/images/)
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>How to Make an iPhone App](https://html.com/blog/how-to-get-your-app-on-the-iphone/)
 
@@ -192,11 +177,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

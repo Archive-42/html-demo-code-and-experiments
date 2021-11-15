@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-Picasa To Flickr: 100 Of The Best Places To Post & Share Photos Online
-======================================================================
+# Picasa To Flickr: 100 Of The Best Places To Post & Share Photos Online
 
 In <span class="post-meta-category">[Blog](https://html.com/blog/), [Design](https://html.com/blog/design/)</span>
 
@@ -21,8 +14,7 @@ In <span class="post-meta-category">[Blog](https://html.com/blog/), [Design](htt
 
 Personalizing your own web space to show the world snapshots of your lifestyle has become ever more popular thanks to digital cameras and the increasing number of social networking sites, online photo albums and blogs. Stuffing a dusty photo album with the pictures from your last vacation or family blowout will no longer do. Your adventures deserve a broader audience than the lucky few who drop by your house, and the internet is the perfect place to showcase your life. Read below for our list of over 100 places to post and share your photos online.
 
-**Most Popular**
-----------------
+## **Most Popular**
 
 The following sites feature some of the most sought after photo sharing programs online.
 
@@ -41,8 +33,7 @@ The following sites feature some of the most sought after photo sharing programs
 13. **[JuiceBox](http://www.juicebox.net/)**: Use Juicebox to create responsive JavaScript image galleries for your web site, blog or portfolio.
 14. **[Webshots](http://www.webshots.com/)**: This immensely popular site sponsors “photo sharing, free wallpaper and free screensavers.” Sign up for free to start sharing your images with family and friends.
 
-**Networking Sites**
---------------------
+## **Networking Sites**
 
 These sites feature add-ons and accessories for photo hosting sites like Facebook and support their own networking communities for photo lovers.
 
@@ -59,8 +50,7 @@ These sites feature add-ons and accessories for photo hosting sites like Faceboo
 11. **[500px](https://500px.com/)**: The “premier photography community” that’s home to everyone’s best photos. You can showcase your work, license amazing photos, and stay inspired by the active community of photographers.
 12. **[Photo.net](http://photo.net/)**: Photo.net is a website devoted to all things photography. Post your photos to find out what others think of your artistic style, or have fun rating other members’ images.
 
-**Privacy Features**
---------------------
+## **Privacy Features**
 
 If you want top-notch [security](https://html.com/blog/free-encryption-tools/) protection when you post your photos on the Web, try using one of these programs to keep your images private.
 
@@ -78,8 +68,7 @@ If you want top-notch [security](https://html.com/blog/free-encryption-tools/) p
 12. **[Amazon Prime Photos](https://smile.amazon.com/clouddrive/primephotos)**: Securely access your photos from your phone, computer, tablet, or any Fire device.
 13. **[Crypto Heaven](http://www.cryptoheaven.com/)**: Crypto Heaven supports secure e-mail, chat services, online storage and file sharing systems for your most private documents and photos.
 
-**Community and Forums**
-------------------------
+## **Community and Forums**
 
 Meet up with other members to discuss photography and your favorite images on the forums and message boards on these websites.
 
@@ -94,8 +83,7 @@ Meet up with other members to discuss photography and your favorite images on th
 9.  **[The Knot](https://www.theknot.com/)**: This popular wedding planning community features an online photo sharing option for newlyweds. The wedding party can work with any photographer they choose to set up and organize online albums.
 10. **[Flickr](https://flickr.com/)**: Make new friends by making connections through Flickr’s community-based photo sharing website. Users can also organize their various albums, make cards and other items and browse other members’ images.
 
-**Travel**
-----------
+## **Travel**
 
 Adventure junkies will love the photo sharing culture of the following websites, where members upload images and swap stories about all things travel.
 
@@ -113,8 +101,7 @@ Adventure junkies will love the photo sharing culture of the following websites,
 12. **[TrekEarth](http://www.trekearth.com/)**: A global community interested in photography from around the world.
 13. **[Travel China Guide](http://community.travelchinaguide.com/)**: A community for travel in China, including photo sharing.
 
-**Members Only**
-----------------
+## **Members Only**
 
 Sign up with these photo sharing systems to enter an exclusive online community.
 
@@ -126,8 +113,7 @@ Sign up with these photo sharing systems to enter an exclusive online community.
 6.  **[PicMonkey](http://www.picmonkey.com/)**: This photo sharing system is “pure magic.” Edit, upload, view and chat about your photos from any online connection, and the automatic backup system makes sure your images are always safe.
 7.  **[Photovations](http://www.photovations.com/)**: Photovations is a free online image hosting system that supports your images for projects like “auctions, bulletin boards, blogs, online stores, personal websites, safe image storage or for any other photo hosting need you might have.”
 
-**Social Media Sites**
-----------------------
+## **Social Media Sites**
 
 Facebook, MySpace and other [social media](https://html.com/blog/list-top-100-social-media-blogger-sites/) sites support photo sharing to connect members.
 
@@ -138,8 +124,7 @@ Facebook, MySpace and other [social media](https://html.com/blog/list-top-100-so
 5.  **[Reunion](http://reunion.com/)**: Searching for friends and family members on Reunion is the ultimate way to get back in touch. Upload photos or look through the galleries already on Reunion to find people from your past.
 6.  **[Tumblr](https://tumblr.com/)**: Not exactly a photo sharing site, but this social media platform leans heavily towards visual imagery.
 
-**Software and Downloads**
---------------------------
+## **Software and Downloads**
 
 Check out these software programs and special downloads to access superior photo management and photo sharing tools.
 
@@ -155,8 +140,7 @@ Check out these software programs and special downloads to access superior photo
 10. **[Shaw Photo Share 2.0](https://photoshare.shaw.ca/)**: If you use Shaw’s e-mail services, you can create a your own online photo album supported by the same system.
 11. [**Fotor**](http://www.fotor.com/features/photo-effects.html): Free online photo effects.
 
-**Miscellaneous**
------------------
+## **Miscellaneous**
 
 From pets to parties, these sites keep photo sharing fun.
 
@@ -179,12 +163,11 @@ From pets to parties, these sites keep photo sharing fun.
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
- 
+
 
 Tags: [Images](https://html.com/blog/tags/images/)
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>Landing Page Design Toolbox: 100 Tools, Tips & Resources](https://html.com/blog/100-tips-landing-page-design/)
 
@@ -200,11 +183,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">1,143 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,118 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">948 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">720 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">588 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">1,143 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,118 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">948 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">720 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">588 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

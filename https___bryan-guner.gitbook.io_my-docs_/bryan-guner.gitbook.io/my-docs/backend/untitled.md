@@ -242,7 +242,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -260,7 +260,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -300,7 +300,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -374,7 +374,7 @@ Backend
 
 <span data-key="a43051f0ec224d4e8520c078e0608c30"><span data-offset-key="a43051f0ec224d4e8520c078e0608c30:0">Now, let’s take a look at some specific backend development languages and what they’re used for.</span></span>
 
-### 
+###
 
 <span data-key="f01dd5d37cb54872af97bc8c3ca787c9"><span data-offset-key="f01dd5d37cb54872af97bc8c3ca787c9:0">Backend Language \#1: Java</span></span>
 
@@ -390,69 +390,39 @@ Backend
 
 <span data-key="5d737fd5d3e144daaa6191cd7f683ffe"><span data-offset-key="5d737fd5d3e144daaa6191cd7f683ffe:0">Java backend technologies can be used to achieve a lot of objectives, including these and more:</span></span>
 
--   
+- <span data-key="cca54f60f3554b38850801cdfb205834"><span data-offset-key="cca54f60f3554b38850801cdfb205834:0">(Android) mobile application development</span></span>
 
-    <span data-key="cca54f60f3554b38850801cdfb205834"><span data-offset-key="cca54f60f3554b38850801cdfb205834:0">(Android) mobile application development</span></span>
+- <span data-key="78eb1510995244759505282724126c55"><span data-offset-key="78eb1510995244759505282724126c55:0">Website development</span></span>
 
--   
+- <span data-key="6b145b50f2584fbbadf01f14091bdd59"><span data-offset-key="6b145b50f2584fbbadf01f14091bdd59:0">Database connectivity</span></span>
 
-    <span data-key="78eb1510995244759505282724126c55"><span data-offset-key="78eb1510995244759505282724126c55:0">Website development</span></span>
+- <span data-key="c716d00bd34f4963972289782d979303"><span data-offset-key="c716d00bd34f4963972289782d979303:0">Image processing</span></span>
 
--   
+- <span data-key="5b92b538cf2d4ebb8604e606905a0eda"><span data-offset-key="5b92b538cf2d4ebb8604e606905a0eda:0">GUI based programs</span></span>
 
-    <span data-key="6b145b50f2584fbbadf01f14091bdd59"><span data-offset-key="6b145b50f2584fbbadf01f14091bdd59:0">Database connectivity</span></span>
-
--   
-
-    <span data-key="c716d00bd34f4963972289782d979303"><span data-offset-key="c716d00bd34f4963972289782d979303:0">Image processing</span></span>
-
--   
-
-    <span data-key="5b92b538cf2d4ebb8604e606905a0eda"><span data-offset-key="5b92b538cf2d4ebb8604e606905a0eda:0">GUI based programs</span></span>
-
--   
-
-    <span data-key="bb09c38b637c4690b6f8756941e6c298"><span data-offset-key="bb09c38b637c4690b6f8756941e6c298:0">Networking</span></span>
+- <span data-key="bb09c38b637c4690b6f8756941e6c298"><span data-offset-key="bb09c38b637c4690b6f8756941e6c298:0">Networking</span></span>
 
 <span data-key="9d442dd557f641e4aee2cfaf35899fc4">**💼 COMPANIES THAT USE JAVA**</span>
 
 <span data-key="8cdff83ebd5241108b8d6f6d26c87c5f"><span data-offset-key="8cdff83ebd5241108b8d6f6d26c87c5f:0">There are some </span></span><a href="https://stackshare.io/java" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="efa8ce066b1b48a38c46755eb9962d37" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="9257f507381e4aa19c08a49e4168ca2c"><span data-offset-key="9257f507381e4aa19c08a49e4168ca2c:0">big names among companies</span></span></span></a><span data-key="81a0868a84ba434d80eeec2c80861b8d"><span data-offset-key="81a0868a84ba434d80eeec2c80861b8d:0"> that use Java backend technologies, including these:</span></span>
 
--   
+- <span data-key="cd37a5ac9b93497384f652e2f7fdcb08"><span data-offset-key="cd37a5ac9b93497384f652e2f7fdcb08:0">Airbnb</span></span>
 
-    <span data-key="cd37a5ac9b93497384f652e2f7fdcb08"><span data-offset-key="cd37a5ac9b93497384f652e2f7fdcb08:0">Airbnb</span></span>
+- <span data-key="0e29b4e0612b4a5c80323134d4663f62"><span data-offset-key="0e29b4e0612b4a5c80323134d4663f62:0">Uber</span></span>
 
--   
+- <span data-key="8834d73fa3004986ba981bba4cce46a6"><span data-offset-key="8834d73fa3004986ba981bba4cce46a6:0">Pinterest</span></span>
 
-    <span data-key="0e29b4e0612b4a5c80323134d4663f62"><span data-offset-key="0e29b4e0612b4a5c80323134d4663f62:0">Uber</span></span>
+- <span data-key="fbc3fd9bab094035810e49e17a0eb187"><span data-offset-key="fbc3fd9bab094035810e49e17a0eb187:0">LinkedIn</span></span>
 
--   
+- <span data-key="39edb43412334b41b8f2f4edea8da02e"><span data-offset-key="39edb43412334b41b8f2f4edea8da02e:0">Groupon</span></span>
 
-    <span data-key="8834d73fa3004986ba981bba4cce46a6"><span data-offset-key="8834d73fa3004986ba981bba4cce46a6:0">Pinterest</span></span>
+- <span data-key="922fd84d510948dbae20e90983bd9de8"><span data-offset-key="922fd84d510948dbae20e90983bd9de8:0">eBay</span></span>
 
--   
+- <span data-key="e440a5dab7af45beb3680fa1aa469f64"><span data-offset-key="e440a5dab7af45beb3680fa1aa469f64:0">Evernote</span></span>
 
-    <span data-key="fbc3fd9bab094035810e49e17a0eb187"><span data-offset-key="fbc3fd9bab094035810e49e17a0eb187:0">LinkedIn</span></span>
+- <span data-key="30b3f200e40d4b2dad6abf840353b15c"><span data-offset-key="30b3f200e40d4b2dad6abf840353b15c:0">FitBit</span></span>
 
--   
-
-    <span data-key="39edb43412334b41b8f2f4edea8da02e"><span data-offset-key="39edb43412334b41b8f2f4edea8da02e:0">Groupon</span></span>
-
--   
-
-    <span data-key="922fd84d510948dbae20e90983bd9de8"><span data-offset-key="922fd84d510948dbae20e90983bd9de8:0">eBay</span></span>
-
--   
-
-    <span data-key="e440a5dab7af45beb3680fa1aa469f64"><span data-offset-key="e440a5dab7af45beb3680fa1aa469f64:0">Evernote</span></span>
-
--   
-
-    <span data-key="30b3f200e40d4b2dad6abf840353b15c"><span data-offset-key="30b3f200e40d4b2dad6abf840353b15c:0">FitBit</span></span>
-
--   
-
-    <span data-key="55bfb44e92fe4c2d88e10743e4346fa3"><span data-offset-key="55bfb44e92fe4c2d88e10743e4346fa3:0">Hubspot</span></span>
+- <span data-key="55bfb44e92fe4c2d88e10743e4346fa3"><span data-offset-key="55bfb44e92fe4c2d88e10743e4346fa3:0">Hubspot</span></span>
 
 <span data-key="4c74d40b294246678f37eb22ef00eb31">**💵 AVERAGE SALARY FOR JAVA DEVELOPERS**</span>
 
@@ -464,25 +434,15 @@ Backend
 
 <span data-key="05cd7b536e884e86be595ce1075f2bd9">**Course facts:**</span>
 
--   
+- <span data-key="a47a45799b3c4cbfb67c668be4b49fa0">**Course Name:**<span data-offset-key="a47a45799b3c4cbfb67c668be4b49fa0:1"> The Ultimate Java Mastery Series</span></span>
 
-    <span data-key="a47a45799b3c4cbfb67c668be4b49fa0">**Course Name:**<span data-offset-key="a47a45799b3c4cbfb67c668be4b49fa0:1"> The Ultimate Java Mastery Series</span></span>
+- <span data-key="bbfa91f6cf35485da9274241a999fbdb"><span data-offset-key="bbfa91f6cf35485da9274241a999fbdb:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/code-with-mosh/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6f63142ee776415faebb2fdc0a2ff787" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="de5056434a3f4f23a953368eed6c8a06"><span data-offset-key="de5056434a3f4f23a953368eed6c8a06:0">Code With Mosh</span></span></span></a><span data-key="883397bccb7447d0b2753c2d098db851"><span data-offset-key="883397bccb7447d0b2753c2d098db851:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="9c02ca596e0d4448aee240a5c3da5970">**Instructed by:**<span data-offset-key="9c02ca596e0d4448aee240a5c3da5970:1"> Mosh Hamedani</span></span>
 
-    <span data-key="bbfa91f6cf35485da9274241a999fbdb"><span data-offset-key="bbfa91f6cf35485da9274241a999fbdb:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/code-with-mosh/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6f63142ee776415faebb2fdc0a2ff787" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="de5056434a3f4f23a953368eed6c8a06"><span data-offset-key="de5056434a3f4f23a953368eed6c8a06:0">Code With Mosh</span></span></span></a><span data-key="883397bccb7447d0b2753c2d098db851"><span data-offset-key="883397bccb7447d0b2753c2d098db851:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="5cbf8dbec8364664928a5df732c90320">**Price:**<span data-offset-key="5cbf8dbec8364664928a5df732c90320:1"> $49</span></span>
 
--   
-
-    <span data-key="9c02ca596e0d4448aee240a5c3da5970">**Instructed by:**<span data-offset-key="9c02ca596e0d4448aee240a5c3da5970:1"> Mosh Hamedani</span></span>
-
--   
-
-    <span data-key="5cbf8dbec8364664928a5df732c90320">**Price:**<span data-offset-key="5cbf8dbec8364664928a5df732c90320:1"> $49</span></span>
-
--   
-
-    <span data-key="8a98d9706bea47a3945ea04173e4dcc1">**Skill level:**<span data-offset-key="8a98d9706bea47a3945ea04173e4dcc1:1"> Beginner</span></span>
+- <span data-key="8a98d9706bea47a3945ea04173e4dcc1">**Skill level:**<span data-offset-key="8a98d9706bea47a3945ea04173e4dcc1:1"> Beginner</span></span>
 
 <span data-key="17dc530042e14e0682f83912c3892da4"><span data-offset-key="17dc530042e14e0682f83912c3892da4:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://twitter.com/share?text=Discover+all+the+different+programming+languages+you+can+use+for+backend+development&amp;via=learncodewithme&amp;related=learncodewithme&amp;url=https://learntocodewith.me/posts/backend-development/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b053cba10da74d35b871fedf0858f6e4" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="78e4fc6534d942d4b29e68f6b8514ed9"><span data-offset-key="78e4fc6534d942d4b29e68f6b8514ed9:0">Discover all the different programming languages you can use for backend development</span></span></span></a><span data-key="f6cbc9af7f674dec80db3ecb1f5eff9a"><span data-offset-key="f6cbc9af7f674dec80db3ecb1f5eff9a:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -490,7 +450,7 @@ Backend
 
 <span data-key="a2a4bd7d498a40eb87b6d7bfc78b02c5"><span data-offset-key="a2a4bd7d498a40eb87b6d7bfc78b02c5:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://learntocodewith.me/posts/backend-development/#toc" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4ed5f9e43fa04816a7c0ce58f80d3206" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="8e2e9d8a40be4329903e8be830c22a38"><span data-offset-key="8e2e9d8a40be4329903e8be830c22a38:0">Head back to the table of contents »</span></span></span></a><span data-key="225530e36f95450cb9a33f743f93e796"><span data-offset-key="225530e36f95450cb9a33f743f93e796:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="18ee9b8d2c774c069abe57888e12e627"><span data-offset-key="18ee9b8d2c774c069abe57888e12e627:0">Backend Language \#2: PHP</span></span>
 
@@ -502,77 +462,45 @@ Backend
 
 <span data-key="f92ccb735ce04a93907b0a56eb231302"><span data-offset-key="f92ccb735ce04a93907b0a56eb231302:0">PHP is a </span></span><a href="https://learntocodewith.me/go/goskills-intro-php/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a3ebe40e9d7143d9a9955af21bb5034f" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="999923926fd74b27a664826e63f5c064"><span data-offset-key="999923926fd74b27a664826e63f5c064:0">great language to learn</span></span></span></a><span data-key="fcb5f6dd25004d9fa147379c626363eb"><span data-offset-key="fcb5f6dd25004d9fa147379c626363eb:0"> for those who are just starting out for a number of reasons:</span></span>
 
--   
+- <span data-key="acbb1e8a1c7943b1a8982098f7fb2879"><span data-offset-key="acbb1e8a1c7943b1a8982098f7fb2879:0">It’s more forgiving of errors, which means that you’re able to compile and run a program until you reach a problematic part.</span></span>
 
-    <span data-key="acbb1e8a1c7943b1a8982098f7fb2879"><span data-offset-key="acbb1e8a1c7943b1a8982098f7fb2879:0">It’s more forgiving of errors, which means that you’re able to compile and run a program until you reach a problematic part.</span></span>
+- <span data-key="3a2c317754064c3e9a81d559b498d555"><span data-offset-key="3a2c317754064c3e9a81d559b498d555:0">There is an abundance of resources dedicated to the language as a result of the large community and tool support. The language undergoes updates, so ensure you’re learning from an up-to-date tutorial.</span></span>
 
--   
-
-    <span data-key="3a2c317754064c3e9a81d559b498d555"><span data-offset-key="3a2c317754064c3e9a81d559b498d555:0">There is an abundance of resources dedicated to the language as a result of the large community and tool support. The language undergoes updates, so ensure you’re learning from an up-to-date tutorial.</span></span>
-
--   
-
-    <span data-key="f5357305bfa540d3a059fa4058dd8a91"><span data-offset-key="f5357305bfa540d3a059fa4058dd8a91:0">The setup is relatively easy compared to a language like Ruby on Rails. You can download </span></span><a href="https://www.mamp.info/en/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="be12af0bec5a4c21b6fba236913535aa" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="6d20c0ef6a7b4b12bedfe69a54ab6d79"><span data-offset-key="6d20c0ef6a7b4b12bedfe69a54ab6d79:0">MAMP</span></span></span></a><span data-key="617adc59effc44d9b206ebbe9959e413"><span data-offset-key="617adc59effc44d9b206ebbe9959e413:0"> (for Macs) or WAMP (</span></span><a href="https://sourceforge.net/projects/wampserver/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8ae80d3861944716b1d4a9cd9bb920d9" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="c088c41eb19b43ed86898738fbdbbbef"><span data-offset-key="c088c41eb19b43ed86898738fbdbbbef:0">for Windows</span></span></span></a><span data-key="745ea8560ade46278a459b88e35ab8b0"><span data-offset-key="745ea8560ade46278a459b88e35ab8b0:0">) and you should be ready to go in 5 minutes.</span></span>
+- <span data-key="f5357305bfa540d3a059fa4058dd8a91"><span data-offset-key="f5357305bfa540d3a059fa4058dd8a91:0">The setup is relatively easy compared to a language like Ruby on Rails. You can download </span></span><a href="https://www.mamp.info/en/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="be12af0bec5a4c21b6fba236913535aa" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="6d20c0ef6a7b4b12bedfe69a54ab6d79"><span data-offset-key="6d20c0ef6a7b4b12bedfe69a54ab6d79:0">MAMP</span></span></span></a><span data-key="617adc59effc44d9b206ebbe9959e413"><span data-offset-key="617adc59effc44d9b206ebbe9959e413:0"> (for Macs) or WAMP (</span></span><a href="https://sourceforge.net/projects/wampserver/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8ae80d3861944716b1d4a9cd9bb920d9" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="c088c41eb19b43ed86898738fbdbbbef"><span data-offset-key="c088c41eb19b43ed86898738fbdbbbef:0">for Windows</span></span></span></a><span data-key="745ea8560ade46278a459b88e35ab8b0"><span data-offset-key="745ea8560ade46278a459b88e35ab8b0:0">) and you should be ready to go in 5 minutes.</span></span>
 
 <span data-key="d6e88054d8ef436cb9321fb6616e688a">**💡 WHAT YOU CAN DO WITH PHP**</span>
 
 <span data-key="4eab67efeccc4b5191f84bffef27f7ad"><span data-offset-key="4eab67efeccc4b5191f84bffef27f7ad:0">According to the </span></span><a href="http://php.net/manual/en/intro-whatcando.php" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7af552db580846acad220090da763c25" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="4b17acb155c540bea6adac1fe8b502ba"><span data-offset-key="4b17acb155c540bea6adac1fe8b502ba:0">PHP website</span></span></span></a><span data-key="7069cd34a88541f98e4c3b8e78f0a768"><span data-offset-key="7069cd34a88541f98e4c3b8e78f0a768:0">, you can:</span></span>
 
--   
+- <span data-key="7ef237d746d447849a8fd202b21dc85b"><span data-offset-key="7ef237d746d447849a8fd202b21dc85b:0">Collect form data</span></span>
 
-    <span data-key="7ef237d746d447849a8fd202b21dc85b"><span data-offset-key="7ef237d746d447849a8fd202b21dc85b:0">Collect form data</span></span>
+- <span data-key="132d9423aac1404a8235cb8b91361ba2"><span data-offset-key="132d9423aac1404a8235cb8b91361ba2:0">Generate dynamic page content</span></span>
 
--   
+- <span data-key="4058b33a570b4172ab5abf2feeabc0fb"><span data-offset-key="4058b33a570b4172ab5abf2feeabc0fb:0">Send and receive cookies</span></span>
 
-    <span data-key="132d9423aac1404a8235cb8b91361ba2"><span data-offset-key="132d9423aac1404a8235cb8b91361ba2:0">Generate dynamic page content</span></span>
+- <span data-key="c428e18972ab410b86ebe370375d09cb"><span data-offset-key="c428e18972ab410b86ebe370375d09cb:0">Write command line scripting</span></span>
 
--   
+- <span data-key="ab622e052d894c5290f2d41a48bbe712"><span data-offset-key="ab622e052d894c5290f2d41a48bbe712:0">Write server-side scripting</span></span>
 
-    <span data-key="4058b33a570b4172ab5abf2feeabc0fb"><span data-offset-key="4058b33a570b4172ab5abf2feeabc0fb:0">Send and receive cookies</span></span>
-
--   
-
-    <span data-key="c428e18972ab410b86ebe370375d09cb"><span data-offset-key="c428e18972ab410b86ebe370375d09cb:0">Write command line scripting</span></span>
-
--   
-
-    <span data-key="ab622e052d894c5290f2d41a48bbe712"><span data-offset-key="ab622e052d894c5290f2d41a48bbe712:0">Write server-side scripting</span></span>
-
--   
-
-    <span data-key="00f44550b37b469db6234921e8a391f1"><span data-offset-key="00f44550b37b469db6234921e8a391f1:0">Write desktop applications</span></span>
+- <span data-key="00f44550b37b469db6234921e8a391f1"><span data-offset-key="00f44550b37b469db6234921e8a391f1:0">Write desktop applications</span></span>
 
 <span data-key="b101209510b94e0e8a2a3f1aa3229552">**💼 COMPANIES THAT USE PHP 💼**</span>
 
 <span data-key="1e083d494c734a8dbacde75f33a4f150"><span data-offset-key="1e083d494c734a8dbacde75f33a4f150:0">Here are some </span></span><a href="https://stackshare.io/php" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7f3e9b1411314e04aa4153ae0c0ded3c" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="71056293c37043d3a8915736badc8e9d"><span data-offset-key="71056293c37043d3a8915736badc8e9d:0">companies using PHP</span></span></span></a><span data-key="0fb9bf964fa5407aa224f10d756c9e19"><span data-offset-key="0fb9bf964fa5407aa224f10d756c9e19:0"> in their dev teams:</span></span>
 
--   
+- <span data-key="4218782b207f4d029ed3da3bfcc74b8c"><span data-offset-key="4218782b207f4d029ed3da3bfcc74b8c:0">Facebook</span></span>
 
-    <span data-key="4218782b207f4d029ed3da3bfcc74b8c"><span data-offset-key="4218782b207f4d029ed3da3bfcc74b8c:0">Facebook</span></span>
+- <span data-key="27aae34f69b34571bbb0d1ecaf8a381a"><span data-offset-key="27aae34f69b34571bbb0d1ecaf8a381a:0">Lyft</span></span>
 
--   
+- <span data-key="1e61e0930f744d94b5c60bd1999f9063"><span data-offset-key="1e61e0930f744d94b5c60bd1999f9063:0">Mint</span></span>
 
-    <span data-key="27aae34f69b34571bbb0d1ecaf8a381a"><span data-offset-key="27aae34f69b34571bbb0d1ecaf8a381a:0">Lyft</span></span>
+- <span data-key="4cf9679c7cba4fe7ab9aeab5d9f8894c"><span data-offset-key="4cf9679c7cba4fe7ab9aeab5d9f8894c:0">Hootsuite</span></span>
 
--   
+- <span data-key="a537b7223cba40f984ba7efd652be0ab"><span data-offset-key="a537b7223cba40f984ba7efd652be0ab:0">Viber</span></span>
 
-    <span data-key="1e61e0930f744d94b5c60bd1999f9063"><span data-offset-key="1e61e0930f744d94b5c60bd1999f9063:0">Mint</span></span>
+- <span data-key="a4c7a3e4a61c4cf499ed02e1b6f36b1f"><span data-offset-key="a4c7a3e4a61c4cf499ed02e1b6f36b1f:0">Buffer</span></span>
 
--   
-
-    <span data-key="4cf9679c7cba4fe7ab9aeab5d9f8894c"><span data-offset-key="4cf9679c7cba4fe7ab9aeab5d9f8894c:0">Hootsuite</span></span>
-
--   
-
-    <span data-key="a537b7223cba40f984ba7efd652be0ab"><span data-offset-key="a537b7223cba40f984ba7efd652be0ab:0">Viber</span></span>
-
--   
-
-    <span data-key="a4c7a3e4a61c4cf499ed02e1b6f36b1f"><span data-offset-key="a4c7a3e4a61c4cf499ed02e1b6f36b1f:0">Buffer</span></span>
-
--   
-
-    <span data-key="37658293c13146978d221ad1b5f39ba0"><span data-offset-key="37658293c13146978d221ad1b5f39ba0:0">DocuSign</span></span>
+- <span data-key="37658293c13146978d221ad1b5f39ba0"><span data-offset-key="37658293c13146978d221ad1b5f39ba0:0">DocuSign</span></span>
 
 <span data-key="822229fe01a14f7892384ec160591d0b">**💵 AVERAGE SALARY FOR PHP DEVELOPERS 💵**</span>
 
@@ -584,29 +512,19 @@ Backend
 
 <span data-key="34622f5819384cf9b5c950961d05590b">**Course facts:**</span>
 
--   
+- <span data-key="2ac1778960ba4c4c81e047bf21db7e36">**Course Name:**<span data-offset-key="2ac1778960ba4c4c81e047bf21db7e36:1"> Beginning PHP Track</span></span>
 
-    <span data-key="2ac1778960ba4c4c81e047bf21db7e36">**Course Name:**<span data-offset-key="2ac1778960ba4c4c81e047bf21db7e36:1"> Beginning PHP Track</span></span>
+- <span data-key="6cce61fa024042eb8eadda1a928306fd"><span data-offset-key="6cce61fa024042eb8eadda1a928306fd:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/team-treehouse/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9e8af19fe7f644df96966b695cb5c685" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="04e5e923c8df41ed8d8140c6e70132da"><span data-offset-key="04e5e923c8df41ed8d8140c6e70132da:0">Team Treehouse</span></span></span></a><span data-key="d2a71ae3a3354041a953f2cd4efe5f51"><span data-offset-key="d2a71ae3a3354041a953f2cd4efe5f51:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="0dc90a5e8bef4b85a4054a6b778c596c">**Instructed by:**<span data-offset-key="0dc90a5e8bef4b85a4054a6b778c596c:1"> Many</span></span>
 
-    <span data-key="6cce61fa024042eb8eadda1a928306fd"><span data-offset-key="6cce61fa024042eb8eadda1a928306fd:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/team-treehouse/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9e8af19fe7f644df96966b695cb5c685" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="04e5e923c8df41ed8d8140c6e70132da"><span data-offset-key="04e5e923c8df41ed8d8140c6e70132da:0">Team Treehouse</span></span></span></a><span data-key="d2a71ae3a3354041a953f2cd4efe5f51"><span data-offset-key="d2a71ae3a3354041a953f2cd4efe5f51:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="11adf365be164585a3983d72b815ef44">**Price:**<span data-offset-key="11adf365be164585a3983d72b815ef44:1"> $25/month with a Team Treehouse subscription</span></span>
 
--   
-
-    <span data-key="0dc90a5e8bef4b85a4054a6b778c596c">**Instructed by:**<span data-offset-key="0dc90a5e8bef4b85a4054a6b778c596c:1"> Many</span></span>
-
--   
-
-    <span data-key="11adf365be164585a3983d72b815ef44">**Price:**<span data-offset-key="11adf365be164585a3983d72b815ef44:1"> $25/month with a Team Treehouse subscription</span></span>
-
--   
-
-    <span data-key="216f911d6c3c4d7283e86688983f6bfc">**Skill level:**<span data-offset-key="216f911d6c3c4d7283e86688983f6bfc:1"> Beginner</span></span>
+- <span data-key="216f911d6c3c4d7283e86688983f6bfc">**Skill level:**<span data-offset-key="216f911d6c3c4d7283e86688983f6bfc:1"> Beginner</span></span>
 
 <span data-key="f9cda4fe1d6249c78b9e198d1e06e793"><span data-offset-key="f9cda4fe1d6249c78b9e198d1e06e793:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://learntocodewith.me/posts/backend-development/#toc" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fd782cc5008347f6bea41101788a9fc6" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="9206f896d1ca4240ab9971b039e78fcd"><span data-offset-key="9206f896d1ca4240ab9971b039e78fcd:0">Head back to the table of contents »</span></span></span></a><span data-key="e2bcdd88cf224f63a51b392a33a165a3"><span data-offset-key="e2bcdd88cf224f63a51b392a33a165a3:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="689a65be439f4c3097d402751b8a7473"><span data-offset-key="689a65be439f4c3097d402751b8a7473:0">Backend Language \#3: .NET (C\#, VB)</span></span>
 
@@ -632,25 +550,15 @@ Backend
 
 <span data-key="6c42863fbacc427f9a265ab1cb6ed803">**💡 WHAT YOU CAN DO WITH .NET**</span>
 
--   
+- <span data-key="2aaacb340e6a4bdfbfd161e0275f3636"><span data-offset-key="2aaacb340e6a4bdfbfd161e0275f3636:0">Build desktop applications</span></span>
 
-    <span data-key="2aaacb340e6a4bdfbfd161e0275f3636"><span data-offset-key="2aaacb340e6a4bdfbfd161e0275f3636:0">Build desktop applications</span></span>
+- <span data-key="5ef97cc4bc6642518bf1961d663166bc"><span data-offset-key="5ef97cc4bc6642518bf1961d663166bc:0">Create mobile apps</span></span>
 
--   
+- <span data-key="fc3fe16440f04bf79338f9022949bfb6"><span data-offset-key="fc3fe16440f04bf79338f9022949bfb6:0">Build web applications and games</span></span>
 
-    <span data-key="5ef97cc4bc6642518bf1961d663166bc"><span data-offset-key="5ef97cc4bc6642518bf1961d663166bc:0">Create mobile apps</span></span>
+- <span data-key="b153043acacc4426992808ce49385540"><span data-offset-key="b153043acacc4426992808ce49385540:0">Work with Big Data</span></span>
 
--   
-
-    <span data-key="fc3fe16440f04bf79338f9022949bfb6"><span data-offset-key="fc3fe16440f04bf79338f9022949bfb6:0">Build web applications and games</span></span>
-
--   
-
-    <span data-key="b153043acacc4426992808ce49385540"><span data-offset-key="b153043acacc4426992808ce49385540:0">Work with Big Data</span></span>
-
--   
-
-    <span data-key="6b94e2bfe6124ddebc42c5fcfe91e4e5"><span data-offset-key="6b94e2bfe6124ddebc42c5fcfe91e4e5:0">And more</span></span>
+- <span data-key="6b94e2bfe6124ddebc42c5fcfe91e4e5"><span data-offset-key="6b94e2bfe6124ddebc42c5fcfe91e4e5:0">And more</span></span>
 
 <span data-key="e789168bbd2c4e888a0dd6a6d999aeb1"><span data-offset-key="e789168bbd2c4e888a0dd6a6d999aeb1:0">Backend programming languages</span></span>
 
@@ -658,21 +566,13 @@ Backend
 
 <span data-key="726945eb6ba04d788feb51e61d987d47"><span data-offset-key="726945eb6ba04d788feb51e61d987d47:0">A few of the </span></span><a href="https://stackshare.io/dot-net" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ff828cea204a4ae8a7002bde8762957b" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="9657ee389c214b829c0a5a1443598518"><span data-offset-key="9657ee389c214b829c0a5a1443598518:0">companies using .NET</span></span></span></a><span data-key="c1655191ebbc4fe199d7c252592c5172"><span data-offset-key="c1655191ebbc4fe199d7c252592c5172:0"> as a programming language:</span></span>
 
--   
+- <span data-key="258e38174a6c4d2d89c1676f9f815458"><span data-offset-key="258e38174a6c4d2d89c1676f9f815458:0">Microsoft</span></span>
 
-    <span data-key="258e38174a6c4d2d89c1676f9f815458"><span data-offset-key="258e38174a6c4d2d89c1676f9f815458:0">Microsoft</span></span>
+- <span data-key="154fb18a78c746408dfceba8b44619d9"><span data-offset-key="154fb18a78c746408dfceba8b44619d9:0">Starbucks</span></span>
 
--   
+- <span data-key="9fab45411a094f899c004452daf2653d"><span data-offset-key="9fab45411a094f899c004452daf2653d:0">Docplanner</span></span>
 
-    <span data-key="154fb18a78c746408dfceba8b44619d9"><span data-offset-key="154fb18a78c746408dfceba8b44619d9:0">Starbucks</span></span>
-
--   
-
-    <span data-key="9fab45411a094f899c004452daf2653d"><span data-offset-key="9fab45411a094f899c004452daf2653d:0">Docplanner</span></span>
-
--   
-
-    <span data-key="9dfd29da64ac4666bbf2250ec537c7fc"><span data-offset-key="9dfd29da64ac4666bbf2250ec537c7fc:0">Stack Overflow</span></span>
+- <span data-key="9dfd29da64ac4666bbf2250ec537c7fc"><span data-offset-key="9dfd29da64ac4666bbf2250ec537c7fc:0">Stack Overflow</span></span>
 
 <span data-key="d8bd9636d2bd4231baf698c1a04c830f">**💵 AVERAGE SALARY FOR .NET DEVELOPERS**</span>
 
@@ -684,25 +584,15 @@ Backend
 
 <span data-key="8580ec35689a44e68a93b88249f8b13f">**Course facts:**</span>
 
--   
+- <span data-key="8f1be29592bd46b586397a2f6d356b8e">**Course Name:**<span data-offset-key="8f1be29592bd46b586397a2f6d356b8e:1"> C\# and .NET Core for Beginners</span></span>
 
-    <span data-key="8f1be29592bd46b586397a2f6d356b8e">**Course Name:**<span data-offset-key="8f1be29592bd46b586397a2f6d356b8e:1"> C\# and .NET Core for Beginners</span></span>
+- <span data-key="fc89e4497995417aba7188c294a3f955"><span data-offset-key="fc89e4497995417aba7188c294a3f955:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/udemy/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9bff786acb0041bd94dba47043af77c0" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="12c231872b554daeb338d3971b7d9196"><span data-offset-key="12c231872b554daeb338d3971b7d9196:0">Udemy</span></span></span></a><span data-key="08ec129e0b544ef9b78d3d655959c2ba"><span data-offset-key="08ec129e0b544ef9b78d3d655959c2ba:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="23739b4a5c7f42dc8e11a4e0ff0541f4">**Instructed by:**<span data-offset-key="23739b4a5c7f42dc8e11a4e0ff0541f4:1"> Pontus Wittenmark</span></span>
 
-    <span data-key="fc89e4497995417aba7188c294a3f955"><span data-offset-key="fc89e4497995417aba7188c294a3f955:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/udemy/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9bff786acb0041bd94dba47043af77c0" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="12c231872b554daeb338d3971b7d9196"><span data-offset-key="12c231872b554daeb338d3971b7d9196:0">Udemy</span></span></span></a><span data-key="08ec129e0b544ef9b78d3d655959c2ba"><span data-offset-key="08ec129e0b544ef9b78d3d655959c2ba:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="98911c491e464e3b8e9433bc18344a43">**Price:**<span data-offset-key="98911c491e464e3b8e9433bc18344a43:1"> $114.99</span></span>
 
--   
-
-    <span data-key="23739b4a5c7f42dc8e11a4e0ff0541f4">**Instructed by:**<span data-offset-key="23739b4a5c7f42dc8e11a4e0ff0541f4:1"> Pontus Wittenmark</span></span>
-
--   
-
-    <span data-key="98911c491e464e3b8e9433bc18344a43">**Price:**<span data-offset-key="98911c491e464e3b8e9433bc18344a43:1"> $114.99</span></span>
-
--   
-
-    <span data-key="683da5817be1495e9b11a82f70142c80">**Skill level:**<span data-offset-key="683da5817be1495e9b11a82f70142c80:1"> Beginner</span></span>
+- <span data-key="683da5817be1495e9b11a82f70142c80">**Skill level:**<span data-offset-key="683da5817be1495e9b11a82f70142c80:1"> Beginner</span></span>
 
 <span data-key="f14804078e95410dac63835ec5b05930"><span data-offset-key="f14804078e95410dac63835ec5b05930:0">Start coding now</span></span>
 
@@ -710,7 +600,7 @@ Backend
 
 <span data-key="0f98d3cbd6c946fa9987a49c088879bd"><span data-offset-key="0f98d3cbd6c946fa9987a49c088879bd:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://learntocodewith.me/posts/backend-development/#toc" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="51d4efd0db664aec8b8c9509d56ea543" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="ee237527263643e0b9d6aeed7ab0639c"><span data-offset-key="ee237527263643e0b9d6aeed7ab0639c:0">Head back to the table of contents »</span></span></span></a><span data-key="8f9d0096cff246769d01859ead4a6d65"><span data-offset-key="8f9d0096cff246769d01859ead4a6d65:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="87a20b2c1b624abe8d88655e2d2615eb">**Backend Language \#4: Ruby**</span>
 
@@ -722,57 +612,33 @@ Backend
 
 <span data-key="3a188dfbe7524789a5ee69cf0775d95f">**💡 WHAT YOU CAN DO WITH RUBY**</span>
 
--   
+- <span data-key="c93171ace9254a2eaa41ebf118889fc1"><span data-offset-key="c93171ace9254a2eaa41ebf118889fc1:0">Automate repetitive tasks</span></span>
 
-    <span data-key="c93171ace9254a2eaa41ebf118889fc1"><span data-offset-key="c93171ace9254a2eaa41ebf118889fc1:0">Automate repetitive tasks</span></span>
+- <span data-key="069e313c5ad349d9994fe9a31f521494"><span data-offset-key="069e313c5ad349d9994fe9a31f521494:0">Build web applications</span></span>
 
--   
+- <span data-key="79c7c3c1c69b419eba78698bc5da97aa"><span data-offset-key="79c7c3c1c69b419eba78698bc5da97aa:0">Build mobile applications and games</span></span>
 
-    <span data-key="069e313c5ad349d9994fe9a31f521494"><span data-offset-key="069e313c5ad349d9994fe9a31f521494:0">Build web applications</span></span>
+- <span data-key="c28cad476dd14cbd8b27ea23c3919b5d"><span data-offset-key="c28cad476dd14cbd8b27ea23c3919b5d:0">Create prototypes</span></span>
 
--   
-
-    <span data-key="79c7c3c1c69b419eba78698bc5da97aa"><span data-offset-key="79c7c3c1c69b419eba78698bc5da97aa:0">Build mobile applications and games</span></span>
-
--   
-
-    <span data-key="c28cad476dd14cbd8b27ea23c3919b5d"><span data-offset-key="c28cad476dd14cbd8b27ea23c3919b5d:0">Create prototypes</span></span>
-
--   
-
-    <span data-key="b4fdc34ef8e44eca81990ee2b436d9f2"><span data-offset-key="b4fdc34ef8e44eca81990ee2b436d9f2:0">And more</span></span>
+- <span data-key="b4fdc34ef8e44eca81990ee2b436d9f2"><span data-offset-key="b4fdc34ef8e44eca81990ee2b436d9f2:0">And more</span></span>
 
 <span data-key="d68f36df3c884462b3fad88c0348dbf0">**💼 COMPANIES THAT USE RUBY**</span>
 
 <span data-key="ff538956399d45fd8a39d19acd456f50"><span data-offset-key="ff538956399d45fd8a39d19acd456f50:0">Here are some of the </span></span><a href="https://stackshare.io/ruby" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="87ed765094b94543944744be01765a09" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="d19ccb746dd840ecb30c0a0f5244d432"><span data-offset-key="d19ccb746dd840ecb30c0a0f5244d432:0">companies using Ruby</span></span></span></a><span data-key="40e18af73a774e70ba39c1eb00382776"><span data-offset-key="40e18af73a774e70ba39c1eb00382776:0"> as a backend language:</span></span>
 
--   
+- <span data-key="c4312d488187444a9f6f0a62937faf84"><span data-offset-key="c4312d488187444a9f6f0a62937faf84:0">Airbnb</span></span>
 
-    <span data-key="c4312d488187444a9f6f0a62937faf84"><span data-offset-key="c4312d488187444a9f6f0a62937faf84:0">Airbnb</span></span>
+- <span data-key="f4badb8ba2fc41efbb1baf097b4f6637"><span data-offset-key="f4badb8ba2fc41efbb1baf097b4f6637:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://learntocodewith.me/go/codecademy/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d3f72a036fc24c14a7ba71fd9f0da70c" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="243850c9f53e4306a9025a8b8bc8b6a6"><span data-offset-key="243850c9f53e4306a9025a8b8bc8b6a6:0">Codecademy</span></span></span></a><span data-key="129cf67c274b4f599f388f6e8b125e89"><span data-offset-key="129cf67c274b4f599f388f6e8b125e89:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="cd24edb0564a4d88aea5c3a0ceddedf8"><span data-offset-key="cd24edb0564a4d88aea5c3a0ceddedf8:0">TaskRabbit</span></span>
 
-    <span data-key="f4badb8ba2fc41efbb1baf097b4f6637"><span data-offset-key="f4badb8ba2fc41efbb1baf097b4f6637:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://learntocodewith.me/go/codecademy/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d3f72a036fc24c14a7ba71fd9f0da70c" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="243850c9f53e4306a9025a8b8bc8b6a6"><span data-offset-key="243850c9f53e4306a9025a8b8bc8b6a6:0">Codecademy</span></span></span></a><span data-key="129cf67c274b4f599f388f6e8b125e89"><span data-offset-key="129cf67c274b4f599f388f6e8b125e89:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="32718389169842179757cf165abac9e3"><span data-offset-key="32718389169842179757cf165abac9e3:0">Kickstarter</span></span>
 
--   
+- <span data-key="4a7b6806f06047bf9abced0705fba25b"><span data-offset-key="4a7b6806f06047bf9abced0705fba25b:0">RapGenius</span></span>
 
-    <span data-key="cd24edb0564a4d88aea5c3a0ceddedf8"><span data-offset-key="cd24edb0564a4d88aea5c3a0ceddedf8:0">TaskRabbit</span></span>
+- <span data-key="f80e7e4bc57944f5bbe7c543bbddfd6a"><span data-offset-key="f80e7e4bc57944f5bbe7c543bbddfd6a:0">Scribd</span></span>
 
--   
-
-    <span data-key="32718389169842179757cf165abac9e3"><span data-offset-key="32718389169842179757cf165abac9e3:0">Kickstarter</span></span>
-
--   
-
-    <span data-key="4a7b6806f06047bf9abced0705fba25b"><span data-offset-key="4a7b6806f06047bf9abced0705fba25b:0">RapGenius</span></span>
-
--   
-
-    <span data-key="f80e7e4bc57944f5bbe7c543bbddfd6a"><span data-offset-key="f80e7e4bc57944f5bbe7c543bbddfd6a:0">Scribd</span></span>
-
--   
-
-    <span data-key="c6b7864688f44333905b43c5aacfaa6f"><span data-offset-key="c6b7864688f44333905b43c5aacfaa6f:0">AngelList</span></span>
+- <span data-key="c6b7864688f44333905b43c5aacfaa6f"><span data-offset-key="c6b7864688f44333905b43c5aacfaa6f:0">AngelList</span></span>
 
 <span data-key="5fc6aadfc77147759182c999b2e7dc8a">**💵 AVERAGE SALARY FOR RUBY DEVELOPERS**</span>
 
@@ -784,25 +650,15 @@ Backend
 
 <span data-key="b437242709b147708625c4110610fca8">**Course facts:**</span>
 
--   
+- <span data-key="05455ca4f97d4b5495f4e756f98a3c23">**Course Name:**<span data-offset-key="05455ca4f97d4b5495f4e756f98a3c23:1"> Become a Web Developer: Learn the Basics and Fundamentals of Ruby!</span></span>
 
-    <span data-key="05455ca4f97d4b5495f4e756f98a3c23">**Course Name:**<span data-offset-key="05455ca4f97d4b5495f4e756f98a3c23:1"> Become a Web Developer: Learn the Basics and Fundamentals of Ruby!</span></span>
+- <span data-key="c8a8a4738047459e9fcf4a521fab7e06"><span data-offset-key="c8a8a4738047459e9fcf4a521fab7e06:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/mammoth-interactive/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cce5c71831c34547a983238a3c53936c" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="af242ea073704cf1b31b1409502e9818"><span data-offset-key="af242ea073704cf1b31b1409502e9818:0">Mammoth Interactive</span></span></span></a><span data-key="14f2f3368f494103a8bad904803b9f05"><span data-offset-key="14f2f3368f494103a8bad904803b9f05:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="ebb9486b40df487e90308714bd5925dd">**Instructed by:**<span data-offset-key="ebb9486b40df487e90308714bd5925dd:1"> John Bura</span></span>
 
-    <span data-key="c8a8a4738047459e9fcf4a521fab7e06"><span data-offset-key="c8a8a4738047459e9fcf4a521fab7e06:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/mammoth-interactive/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cce5c71831c34547a983238a3c53936c" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="af242ea073704cf1b31b1409502e9818"><span data-offset-key="af242ea073704cf1b31b1409502e9818:0">Mammoth Interactive</span></span></span></a><span data-key="14f2f3368f494103a8bad904803b9f05"><span data-offset-key="14f2f3368f494103a8bad904803b9f05:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="b09fd1e9e53b4942b09a87da1790630a">**Price:**<span data-offset-key="b09fd1e9e53b4942b09a87da1790630a:1"> $500</span></span>
 
--   
-
-    <span data-key="ebb9486b40df487e90308714bd5925dd">**Instructed by:**<span data-offset-key="ebb9486b40df487e90308714bd5925dd:1"> John Bura</span></span>
-
--   
-
-    <span data-key="b09fd1e9e53b4942b09a87da1790630a">**Price:**<span data-offset-key="b09fd1e9e53b4942b09a87da1790630a:1"> $500</span></span>
-
--   
-
-    <span data-key="c34c6ad95d6f4c46b02f1f8d75c1ca8e">**Skill level:**<span data-offset-key="c34c6ad95d6f4c46b02f1f8d75c1ca8e:1"> Complete beginners</span></span>
+- <span data-key="c34c6ad95d6f4c46b02f1f8d75c1ca8e">**Skill level:**<span data-offset-key="c34c6ad95d6f4c46b02f1f8d75c1ca8e:1"> Complete beginners</span></span>
 
 <span data-key="65b495fadf6044ff8177da12c0b62ba1"><span data-offset-key="65b495fadf6044ff8177da12c0b62ba1:0">Start coding now</span></span>
 
@@ -810,7 +666,7 @@ Backend
 
 <span data-key="5e7eae5439f24fe98523dba306fb40fb"><span data-offset-key="5e7eae5439f24fe98523dba306fb40fb:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://learntocodewith.me/posts/backend-development/#toc" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="87e2d766b7bd4f619f7bd82680a3fa10" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="5f99567d0b8c4d11a53ee7b240a65c63"><span data-offset-key="5f99567d0b8c4d11a53ee7b240a65c63:0">Head back to the table of contents »</span></span></span></a><span data-key="ea141b87425c49a6beda0ebbad0eb7f4"><span data-offset-key="ea141b87425c49a6beda0ebbad0eb7f4:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="2c990210c2e2489395d71845ab69b57f"><span data-offset-key="2c990210c2e2489395d71845ab69b57f:0">Backend Language \#5: Python</span></span>
 
@@ -828,53 +684,31 @@ Backend
 
 <span data-key="b553f34043e942e99cfec53d012e99a1"><span data-offset-key="b553f34043e942e99cfec53d012e99a1:0">Some of the most popular uses for Python include:</span></span>
 
--   
+- <span data-key="ad65525eacbe4ab3b50de635c5297872"><span data-offset-key="ad65525eacbe4ab3b50de635c5297872:0">Cross-platform </span></span><a href="https://searchdatacenter.techtarget.com/definition/shell-script" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d51c841a48f04d8e9c29e5c8cb02ab0f" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="5423de43d10d4aa19d54818ba46bf479"><span data-offset-key="5423de43d10d4aa19d54818ba46bf479:0">shell scripting</span></span></span></a><span data-key="1b441b44860444e88ba04b68a9383ce4"><span data-offset-key="1b441b44860444e88ba04b68a9383ce4:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="ad65525eacbe4ab3b50de635c5297872"><span data-offset-key="ad65525eacbe4ab3b50de635c5297872:0">Cross-platform </span></span><a href="https://searchdatacenter.techtarget.com/definition/shell-script" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d51c841a48f04d8e9c29e5c8cb02ab0f" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="5423de43d10d4aa19d54818ba46bf479"><span data-offset-key="5423de43d10d4aa19d54818ba46bf479:0">shell scripting</span></span></span></a><span data-key="1b441b44860444e88ba04b68a9383ce4"><span data-offset-key="1b441b44860444e88ba04b68a9383ce4:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="f9e18903b4254e0792b9e899236ed5cd"><span data-offset-key="f9e18903b4254e0792b9e899236ed5cd:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://automatetheboringstuff.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d5cdc18d7b0840acbc0d59861541b124" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="02cdfe0327f94f18894930d51d13d147"><span data-offset-key="02cdfe0327f94f18894930d51d13d147:0">Quick automation</span></span></span></a><span data-key="6b3ff930ab72415d8b06fe0fcbb2d1a6"><span data-offset-key="6b3ff930ab72415d8b06fe0fcbb2d1a6:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
-
-    <span data-key="f9e18903b4254e0792b9e899236ed5cd"><span data-offset-key="f9e18903b4254e0792b9e899236ed5cd:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://automatetheboringstuff.com/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d5cdc18d7b0840acbc0d59861541b124" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="02cdfe0327f94f18894930d51d13d147"><span data-offset-key="02cdfe0327f94f18894930d51d13d147:0">Quick automation</span></span></span></a><span data-key="6b3ff930ab72415d8b06fe0fcbb2d1a6"><span data-offset-key="6b3ff930ab72415d8b06fe0fcbb2d1a6:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="bf748e99c8364c93a280efc88193a797"><span data-offset-key="bf748e99c8364c93a280efc88193a797:0">Simple web development</span></span>
+- <span data-key="bf748e99c8364c93a280efc88193a797"><span data-offset-key="bf748e99c8364c93a280efc88193a797:0">Simple web development</span></span>
 
 <span data-key="f2678ab0c2aa47e2b4016fd8c9aca0be">**💼 COMPANIES THAT USE PYTHON**</span>
 
 <span data-key="daf932325c064b43a21cb4e05a5fea43"><span data-offset-key="daf932325c064b43a21cb4e05a5fea43:0">Among the biggest </span></span><a href="https://stackshare.io/python" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="08ff0ae546e44672ac98e51d883f047a" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="316b239b02374ab3b6437ec41b8e3bac"><span data-offset-key="316b239b02374ab3b6437ec41b8e3bac:0">companies using Python</span></span></span></a><span data-key="10160ffa23744817848676ccf7a00759"><span data-offset-key="10160ffa23744817848676ccf7a00759:0"> as a programming language are:</span></span>
 
--   
+- <span data-key="ae3dcb2637cd40418c99b34a60bdb6dc"><span data-offset-key="ae3dcb2637cd40418c99b34a60bdb6dc:0">Uber</span></span>
 
-    <span data-key="ae3dcb2637cd40418c99b34a60bdb6dc"><span data-offset-key="ae3dcb2637cd40418c99b34a60bdb6dc:0">Uber</span></span>
+- <span data-key="6de91c3bdca74a169de9fb3bb577115c"><span data-offset-key="6de91c3bdca74a169de9fb3bb577115c:0">Pinterest</span></span>
 
--   
+- <span data-key="76c9276d305445cea15f085d62cfda44"><span data-offset-key="76c9276d305445cea15f085d62cfda44:0">Mozilla</span></span>
 
-    <span data-key="6de91c3bdca74a169de9fb3bb577115c"><span data-offset-key="6de91c3bdca74a169de9fb3bb577115c:0">Pinterest</span></span>
+- <span data-key="05d4bc55c6ff46df958230ec504d2030"><span data-offset-key="05d4bc55c6ff46df958230ec504d2030:0">Spotify</span></span>
 
--   
+- <span data-key="d4bd2908c59648169547e69be0e66a83"><span data-offset-key="d4bd2908c59648169547e69be0e66a83:0">Quora</span></span>
 
-    <span data-key="76c9276d305445cea15f085d62cfda44"><span data-offset-key="76c9276d305445cea15f085d62cfda44:0">Mozilla</span></span>
+- <span data-key="432d845615ff4d6da34f83237b864d08"><span data-offset-key="432d845615ff4d6da34f83237b864d08:0">Pandora</span></span>
 
--   
+- <span data-key="84bd73902b1847718640d99a7cd88aa4"><span data-offset-key="84bd73902b1847718640d99a7cd88aa4:0">Netflix</span></span>
 
-    <span data-key="05d4bc55c6ff46df958230ec504d2030"><span data-offset-key="05d4bc55c6ff46df958230ec504d2030:0">Spotify</span></span>
-
--   
-
-    <span data-key="d4bd2908c59648169547e69be0e66a83"><span data-offset-key="d4bd2908c59648169547e69be0e66a83:0">Quora</span></span>
-
--   
-
-    <span data-key="432d845615ff4d6da34f83237b864d08"><span data-offset-key="432d845615ff4d6da34f83237b864d08:0">Pandora</span></span>
-
--   
-
-    <span data-key="84bd73902b1847718640d99a7cd88aa4"><span data-offset-key="84bd73902b1847718640d99a7cd88aa4:0">Netflix</span></span>
-
--   
-
-    <span data-key="c92a128cddae4676b22762287afca6e3"><span data-offset-key="c92a128cddae4676b22762287afca6e3:0">Asana</span></span>
+- <span data-key="c92a128cddae4676b22762287afca6e3"><span data-offset-key="c92a128cddae4676b22762287afca6e3:0">Asana</span></span>
 
 <span data-key="6cc17e657c4247c9bccf30995b4ef74b">**💵 AVERAGE SALARY OF PYTHON DEVELOPERS**</span>
 
@@ -886,25 +720,15 @@ Backend
 
 <span data-key="b824db166aaf4cf482efbc917bb1832b">**Course facts:**</span>
 
--   
+- <span data-key="03cf0d0bfc884d48a540a69c1436479a">**Course Name:**<span data-offset-key="03cf0d0bfc884d48a540a69c1436479a:1"> Complete Python Developer in 2021: Zero to Mastery</span></span>
 
-    <span data-key="03cf0d0bfc884d48a540a69c1436479a">**Course Name:**<span data-offset-key="03cf0d0bfc884d48a540a69c1436479a:1"> Complete Python Developer in 2021: Zero to Mastery</span></span>
+- <span data-key="81dd72153ffb4b5588a5fb4b48663c87"><span data-offset-key="81dd72153ffb4b5588a5fb4b48663c87:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/zero-to-mastery/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="05f46eeca4d14facbd76df037496c989" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="0884f5abdcef41da8ff9d2ddbb72bf8f"><span data-offset-key="0884f5abdcef41da8ff9d2ddbb72bf8f:0">Zero To Mastery</span></span></span></a><span data-key="f99e66a7222e41c2ba5be78f238aa03c"><span data-offset-key="f99e66a7222e41c2ba5be78f238aa03c:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="1c7c875be4184d5ba292aa658f3fa858">**Instructed by:**<span data-offset-key="1c7c875be4184d5ba292aa658f3fa858:1"> Andrei Neagoie</span></span>
 
-    <span data-key="81dd72153ffb4b5588a5fb4b48663c87"><span data-offset-key="81dd72153ffb4b5588a5fb4b48663c87:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/zero-to-mastery/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="05f46eeca4d14facbd76df037496c989" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="0884f5abdcef41da8ff9d2ddbb72bf8f"><span data-offset-key="0884f5abdcef41da8ff9d2ddbb72bf8f:0">Zero To Mastery</span></span></span></a><span data-key="f99e66a7222e41c2ba5be78f238aa03c"><span data-offset-key="f99e66a7222e41c2ba5be78f238aa03c:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="a787718e4c64467ea2d8fca0239e536d">**Price:**<span data-offset-key="a787718e4c64467ea2d8fca0239e536d:1"> $29/month with a Zero to Mastery subscription (or $264/year)</span></span>
 
--   
-
-    <span data-key="1c7c875be4184d5ba292aa658f3fa858">**Instructed by:**<span data-offset-key="1c7c875be4184d5ba292aa658f3fa858:1"> Andrei Neagoie</span></span>
-
--   
-
-    <span data-key="a787718e4c64467ea2d8fca0239e536d">**Price:**<span data-offset-key="a787718e4c64467ea2d8fca0239e536d:1"> $29/month with a Zero to Mastery subscription (or $264/year)</span></span>
-
--   
-
-    <span data-key="5f0033a5564f40c7b1e2bce523465ce4">**Skill level:**<span data-offset-key="5f0033a5564f40c7b1e2bce523465ce4:1"> Beginners</span></span>
+- <span data-key="5f0033a5564f40c7b1e2bce523465ce4">**Skill level:**<span data-offset-key="5f0033a5564f40c7b1e2bce523465ce4:1"> Beginners</span></span>
 
 <span data-key="e0d1aed6829f4112824bc50c1748e443"><span data-offset-key="e0d1aed6829f4112824bc50c1748e443:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://twitter.com/share?text=What+is+backend+development+and+how+does+it+work%3F&amp;via=learncodewithme&amp;related=learncodewithme&amp;url=https://learntocodewith.me/posts/backend-development/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f553f929ad9f4de88404fb130b3cd687" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="ffe6e6eb8ea446879a66e292ed1c5c59"><span data-offset-key="ffe6e6eb8ea446879a66e292ed1c5c59:0">What is backend development and how does it work?</span></span></span></a><span data-key="39f7b1755e9d492e99187d95fdfa0845"><span data-offset-key="39f7b1755e9d492e99187d95fdfa0845:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -912,7 +736,7 @@ Backend
 
 <span data-key="420a33916bfe4b5f947de512c02525f3"><span data-offset-key="420a33916bfe4b5f947de512c02525f3:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://learntocodewith.me/posts/backend-development/#toc" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="05700f3b6e9348339b996b4c0ea165cd" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="4d3648de8cdd41ffb3b92d1b7ed7400e"><span data-offset-key="4d3648de8cdd41ffb3b92d1b7ed7400e:0">Head back to the table of contents »</span></span></span></a><span data-key="182c27b4cef749f9929ee47bba33aec8"><span data-offset-key="182c27b4cef749f9929ee47bba33aec8:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="106d8e2f9dd74c54964a2cc2e2ed26be"><span data-offset-key="106d8e2f9dd74c54964a2cc2e2ed26be:0">Backend Language \#6: SQL</span></span>
 
@@ -944,31 +768,21 @@ Backend
 
 <span data-key="62135f5408844c31bb48eb1fdf284451">**Course facts:**</span>
 
--   
+- <span data-key="9e99faadb0924e5e919c26a4415b289f">**Course Name:**<span data-offset-key="9e99faadb0924e5e919c26a4415b289f:1"> Introduction to SQL</span></span>
 
-    <span data-key="9e99faadb0924e5e919c26a4415b289f">**Course Name:**<span data-offset-key="9e99faadb0924e5e919c26a4415b289f:1"> Introduction to SQL</span></span>
+- <span data-key="23b665ee95b84e44ad047dc40f873edc"><span data-offset-key="23b665ee95b84e44ad047dc40f873edc:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/pluralsight/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fb0be7fd683542e182461bd289d8b932" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="3ddde4edd64a4826ba20f28c9693daa2"><span data-offset-key="3ddde4edd64a4826ba20f28c9693daa2:0">Pluralsight</span></span></span></a><span data-key="2b0967b3137d464c9f265d3521b4da83"><span data-offset-key="2b0967b3137d464c9f265d3521b4da83:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="6c8e3ca4ec0344788c1c8707778b631c">**Instructed by:**<span data-offset-key="6c8e3ca4ec0344788c1c8707778b631c:1"> Jon Flanders</span></span>
 
-    <span data-key="23b665ee95b84e44ad047dc40f873edc"><span data-offset-key="23b665ee95b84e44ad047dc40f873edc:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/pluralsight/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fb0be7fd683542e182461bd289d8b932" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="3ddde4edd64a4826ba20f28c9693daa2"><span data-offset-key="3ddde4edd64a4826ba20f28c9693daa2:0">Pluralsight</span></span></span></a><span data-key="2b0967b3137d464c9f265d3521b4da83"><span data-offset-key="2b0967b3137d464c9f265d3521b4da83:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="59bd2c5f53dc4979a6ecb2a306e735e9">**Price:**<span data-offset-key="59bd2c5f53dc4979a6ecb2a306e735e9:1"> $29/month with a Pluralsight subscription</span></span>
 
--   
-
-    <span data-key="6c8e3ca4ec0344788c1c8707778b631c">**Instructed by:**<span data-offset-key="6c8e3ca4ec0344788c1c8707778b631c:1"> Jon Flanders</span></span>
-
--   
-
-    <span data-key="59bd2c5f53dc4979a6ecb2a306e735e9">**Price:**<span data-offset-key="59bd2c5f53dc4979a6ecb2a306e735e9:1"> $29/month with a Pluralsight subscription</span></span>
-
--   
-
-    <span data-key="b569c0b075394cb08c9ec4c5ab5b71a5">**Skill level:**<span data-offset-key="b569c0b075394cb08c9ec4c5ab5b71a5:1"> Beginners</span></span>
+- <span data-key="b569c0b075394cb08c9ec4c5ab5b71a5">**Skill level:**<span data-offset-key="b569c0b075394cb08c9ec4c5ab5b71a5:1"> Beginners</span></span>
 
 <span data-key="6293fae1fda44845bc545736ad8c362f"><span data-offset-key="6293fae1fda44845bc545736ad8c362f:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://learntocodewith.me/reviews/pluralsight/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0e253bcfa40a4ed2ab2096487cfe6c62" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="b3ae5d383d944645bcfa5a54190b24ad"><em>(Read our full review of Pluralsight here.)</em></span></span></a><span data-key="e46fe8bf2f12478d821d8e8fdb09b739"><span data-offset-key="e46fe8bf2f12478d821d8e8fdb09b739:0"><span data-slate-zero-width="z">​</span></span></span>
 
 <span data-key="b4dac7712dc44b6bb3f0bda5dff48a25"><span data-offset-key="b4dac7712dc44b6bb3f0bda5dff48a25:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://learntocodewith.me/posts/backend-development/#toc" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ee4fc6dfbb044b56b873c94779ea95ef" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="351e1b84575d4e55bc4d8944fc2bee97"><span data-offset-key="351e1b84575d4e55bc4d8944fc2bee97:0">Head back to the table of contents »</span></span></span></a><span data-key="02ca661868bd46708de8c94d067245d9"><span data-offset-key="02ca661868bd46708de8c94d067245d9:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="197f2c082b7444e7849a1910c37bbfa3"><span data-offset-key="197f2c082b7444e7849a1910c37bbfa3:0">Backend Language \#7: JavaScript</span></span>
 
@@ -986,61 +800,35 @@ Backend
 
 <span data-key="01d89fd320324dcc83d626bafa490bfe"><span data-offset-key="01d89fd320324dcc83d626bafa490bfe:0">JavaScript can be used to build many types of sites and software, including:</span></span>
 
--   
+- <span data-key="643770f6b4ab479eb545496a2a514ad0"><span data-offset-key="643770f6b4ab479eb545496a2a514ad0:0">Websites</span></span>
 
-    <span data-key="643770f6b4ab479eb545496a2a514ad0"><span data-offset-key="643770f6b4ab479eb545496a2a514ad0:0">Websites</span></span>
+- <span data-key="f6d256bd45f841b7bfca4c6c0a801dc5"><span data-offset-key="f6d256bd45f841b7bfca4c6c0a801dc5:0">Mobile apps</span></span>
 
--   
+- <span data-key="98366c00489e4fea9525d61c3e579c6a"><span data-offset-key="98366c00489e4fea9525d61c3e579c6a:0">Desktop applications</span></span>
 
-    <span data-key="f6d256bd45f841b7bfca4c6c0a801dc5"><span data-offset-key="f6d256bd45f841b7bfca4c6c0a801dc5:0">Mobile apps</span></span>
+- <span data-key="fa3be90ac8524d91915a36c6b8f43f6c"><span data-offset-key="fa3be90ac8524d91915a36c6b8f43f6c:0">Games</span></span>
 
--   
+- <span data-key="c73dc2a1eb59481cabb32ae8480f6c91"><span data-offset-key="c73dc2a1eb59481cabb32ae8480f6c91:0">Web servers</span></span>
 
-    <span data-key="98366c00489e4fea9525d61c3e579c6a"><span data-offset-key="98366c00489e4fea9525d61c3e579c6a:0">Desktop applications</span></span>
+- <span data-key="1c196327c7504f1688c5348cd37810fd"><span data-offset-key="1c196327c7504f1688c5348cd37810fd:0">Presentations</span></span>
 
--   
-
-    <span data-key="fa3be90ac8524d91915a36c6b8f43f6c"><span data-offset-key="fa3be90ac8524d91915a36c6b8f43f6c:0">Games</span></span>
-
--   
-
-    <span data-key="c73dc2a1eb59481cabb32ae8480f6c91"><span data-offset-key="c73dc2a1eb59481cabb32ae8480f6c91:0">Web servers</span></span>
-
--   
-
-    <span data-key="1c196327c7504f1688c5348cd37810fd"><span data-offset-key="1c196327c7504f1688c5348cd37810fd:0">Presentations</span></span>
-
--   
-
-    <span data-key="1f224aeebc8548a88df84bc154e5fa26"><span data-offset-key="1f224aeebc8548a88df84bc154e5fa26:0">And more</span></span>
+- <span data-key="1f224aeebc8548a88df84bc154e5fa26"><span data-offset-key="1f224aeebc8548a88df84bc154e5fa26:0">And more</span></span>
 
 <span data-key="73e0a9f423554e5aadb4b66349499983">**💼 COMPANIES THAT USE JAVASCRIPT**</span>
 
 <span data-key="8ebf081722624a918f26350f54c2c88d"><span data-offset-key="8ebf081722624a918f26350f54c2c88d:0">Famous </span></span><a href="https://stackshare.io/javascript" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="78d752d53fcc483fb19686376b7dcd85" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="de0c46c20385437daf8cab15b1442ae3"><span data-offset-key="de0c46c20385437daf8cab15b1442ae3:0">companies using JavaScript</span></span></span></a><span data-key="55fe3857564b48b4b5e9b7bac36f39e1"><span data-offset-key="55fe3857564b48b4b5e9b7bac36f39e1:0"> include:</span></span>
 
--   
+- <span data-key="d198a8c982dc47a099cb568b23af7c00"><span data-offset-key="d198a8c982dc47a099cb568b23af7c00:0">Airbnb</span></span>
 
-    <span data-key="d198a8c982dc47a099cb568b23af7c00"><span data-offset-key="d198a8c982dc47a099cb568b23af7c00:0">Airbnb</span></span>
+- <span data-key="5cbcb049f84a4571a28d16ee89880614"><span data-offset-key="5cbcb049f84a4571a28d16ee89880614:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://learntocodewith.me/go/codecademy/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="48f8bd7dcf884df5a4864ba6eaaabed2" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="7bab84f401564df8a8fba3b10f315f0e"><span data-offset-key="7bab84f401564df8a8fba3b10f315f0e:0">Codecademy</span></span></span></a><span data-key="d651dc599a2a4f52ad43473455c2e853"><span data-offset-key="d651dc599a2a4f52ad43473455c2e853:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="9002a666f7944e04af74e8817335755a"><span data-offset-key="9002a666f7944e04af74e8817335755a:0">HotelTonight</span></span>
 
-    <span data-key="5cbcb049f84a4571a28d16ee89880614"><span data-offset-key="5cbcb049f84a4571a28d16ee89880614:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://learntocodewith.me/go/codecademy/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="48f8bd7dcf884df5a4864ba6eaaabed2" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="7bab84f401564df8a8fba3b10f315f0e"><span data-offset-key="7bab84f401564df8a8fba3b10f315f0e:0">Codecademy</span></span></span></a><span data-key="d651dc599a2a4f52ad43473455c2e853"><span data-offset-key="d651dc599a2a4f52ad43473455c2e853:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="77cac91c15e449479bb41d3f8bf6aadf"><span data-offset-key="77cac91c15e449479bb41d3f8bf6aadf:0">eBay</span></span>
 
--   
+- <span data-key="dd6b5ee4edf74f37ba776053dfcf3d95"><span data-offset-key="dd6b5ee4edf74f37ba776053dfcf3d95:0">Square</span></span>
 
-    <span data-key="9002a666f7944e04af74e8817335755a"><span data-offset-key="9002a666f7944e04af74e8817335755a:0">HotelTonight</span></span>
-
--   
-
-    <span data-key="77cac91c15e449479bb41d3f8bf6aadf"><span data-offset-key="77cac91c15e449479bb41d3f8bf6aadf:0">eBay</span></span>
-
--   
-
-    <span data-key="dd6b5ee4edf74f37ba776053dfcf3d95"><span data-offset-key="dd6b5ee4edf74f37ba776053dfcf3d95:0">Square</span></span>
-
--   
-
-    <span data-key="6624c4cfe1ae43cdaaa9029fb7b06075"><span data-offset-key="6624c4cfe1ae43cdaaa9029fb7b06075:0">Asana</span></span>
+- <span data-key="6624c4cfe1ae43cdaaa9029fb7b06075"><span data-offset-key="6624c4cfe1ae43cdaaa9029fb7b06075:0">Asana</span></span>
 
 <span data-key="bff6ca13dec04c9fa11eb81a2d384cfc">**💵 AVERAGE SALARY OF JAVASCRIPT DEVELOPERS**</span>
 
@@ -1052,25 +840,15 @@ Backend
 
 <span data-key="affb639118304b9bb76da3f067a94d88">**Course facts:**</span>
 
--   
+- <span data-key="17fea3d6f215447dbcf2f3edd54a8af6">**Course Name:**<span data-offset-key="17fea3d6f215447dbcf2f3edd54a8af6:1"> Coding for Cats | Cat-Themed JavaScript Course</span></span>
 
-    <span data-key="17fea3d6f215447dbcf2f3edd54a8af6">**Course Name:**<span data-offset-key="17fea3d6f215447dbcf2f3edd54a8af6:1"> Coding for Cats | Cat-Themed JavaScript Course</span></span>
+- <span data-key="ad9a7836c4e74776a03b952fcd1bb127"><span data-offset-key="ad9a7836c4e74776a03b952fcd1bb127:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/mammoth-interactive/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b6ad93d97dd247e9a78a8f630079abe9" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="7b05d0e669fb46a3a504f2122908d09e"><span data-offset-key="7b05d0e669fb46a3a504f2122908d09e:0">Mammoth Interactive</span></span></span></a><span data-key="2e313ec1203d4aef9489b1f46e64ae65"><span data-offset-key="2e313ec1203d4aef9489b1f46e64ae65:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="0ac3f3e1d75746e2bab546aaaac68870">**Instructed by:**<span data-offset-key="0ac3f3e1d75746e2bab546aaaac68870:1"> John Bura</span></span>
 
-    <span data-key="ad9a7836c4e74776a03b952fcd1bb127"><span data-offset-key="ad9a7836c4e74776a03b952fcd1bb127:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/mammoth-interactive/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b6ad93d97dd247e9a78a8f630079abe9" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="7b05d0e669fb46a3a504f2122908d09e"><span data-offset-key="7b05d0e669fb46a3a504f2122908d09e:0">Mammoth Interactive</span></span></span></a><span data-key="2e313ec1203d4aef9489b1f46e64ae65"><span data-offset-key="2e313ec1203d4aef9489b1f46e64ae65:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="e989d9965e2a46089364e9a30a434833">**Price:**<span data-offset-key="e989d9965e2a46089364e9a30a434833:1"> $99</span></span>
 
--   
-
-    <span data-key="0ac3f3e1d75746e2bab546aaaac68870">**Instructed by:**<span data-offset-key="0ac3f3e1d75746e2bab546aaaac68870:1"> John Bura</span></span>
-
--   
-
-    <span data-key="e989d9965e2a46089364e9a30a434833">**Price:**<span data-offset-key="e989d9965e2a46089364e9a30a434833:1"> $99</span></span>
-
--   
-
-    <span data-key="88eb772046a14105aeb946c44b1b50b0">**Skill level:**<span data-offset-key="88eb772046a14105aeb946c44b1b50b0:1"> Beginners</span></span>
+- <span data-key="88eb772046a14105aeb946c44b1b50b0">**Skill level:**<span data-offset-key="88eb772046a14105aeb946c44b1b50b0:1"> Beginners</span></span>
 
 <span data-key="3b687068872d4d1eb4f8dfde28206331">**🗺️ LAUNCH SCHOOL’S INTRODUCTION TO PROGRAMMING WITH JAVASCRIPT**</span>
 
@@ -1078,21 +856,13 @@ Backend
 
 <span data-key="3847f3e8593c4dbcb1d7b2ad9e673df8">**Course facts:**</span>
 
--   
+- <span data-key="d63149eab33b46bf956acebb726d5228">**Course Name:**<span data-offset-key="d63149eab33b46bf956acebb726d5228:1"> Launch School’s Introduction to Programming with JavaScript</span></span>
 
-    <span data-key="d63149eab33b46bf956acebb726d5228">**Course Name:**<span data-offset-key="d63149eab33b46bf956acebb726d5228:1"> Launch School’s Introduction to Programming with JavaScript</span></span>
+- <span data-key="0ec14c2901cf4ffda008e921b8a1cae3"><span data-offset-key="0ec14c2901cf4ffda008e921b8a1cae3:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/launch-school/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="92b28b73032443f9aea0ff22387e04be" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="24c57ec535224f758e0ab52ee8250f3e"><span data-offset-key="24c57ec535224f758e0ab52ee8250f3e:0">Launch School</span></span></span></a><span data-key="b95dd2691b784731a2f247d48f68c5dc"><span data-offset-key="b95dd2691b784731a2f247d48f68c5dc:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="6037ece44638466d9bf1b10d1d881d1b">**Price:**<span data-offset-key="6037ece44638466d9bf1b10d1d881d1b:1"> $199/month</span></span>
 
-    <span data-key="0ec14c2901cf4ffda008e921b8a1cae3"><span data-offset-key="0ec14c2901cf4ffda008e921b8a1cae3:0">\*\*Platform: \*\*</span></span><a href="https://learntocodewith.me/go/launch-school/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="92b28b73032443f9aea0ff22387e04be" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="24c57ec535224f758e0ab52ee8250f3e"><span data-offset-key="24c57ec535224f758e0ab52ee8250f3e:0">Launch School</span></span></span></a><span data-key="b95dd2691b784731a2f247d48f68c5dc"><span data-offset-key="b95dd2691b784731a2f247d48f68c5dc:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="6037ece44638466d9bf1b10d1d881d1b">**Price:**<span data-offset-key="6037ece44638466d9bf1b10d1d881d1b:1"> $199/month</span></span>
-
--   
-
-    <span data-key="eab82f19cca9433dba30c25ea8facc51">**Skill level:**<span data-offset-key="eab82f19cca9433dba30c25ea8facc51:1"> Beginners</span></span>
+- <span data-key="eab82f19cca9433dba30c25ea8facc51">**Skill level:**<span data-offset-key="eab82f19cca9433dba30c25ea8facc51:1"> Beginners</span></span>
 
 <span data-key="9b2634107e4640f2aae958936d9cfd18"><span data-offset-key="9b2634107e4640f2aae958936d9cfd18:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://twitter.com/share?text=Check+out+this+beginner%27s+guide+to+backend+development&amp;via=learncodewithme&amp;related=learncodewithme&amp;url=https://learntocodewith.me/posts/backend-development/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="96550c97df7646b694bf0631e44342d7" data-rnw-int-class="nearest_260-6010_262-6011-240__"><span data-key="1d31e408b2044cad850762b90b2eb276"><span data-offset-key="1d31e408b2044cad850762b90b2eb276:0">Check out this beginner’s guide to backend development</span></span></span></a><span data-key="23c8e4a984bf495985c9f134ac1da12b"><span data-offset-key="23c8e4a984bf495985c9f134ac1da12b:0"><span data-slate-zero-width="z">​</span></span></span>
 

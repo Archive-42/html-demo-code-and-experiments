@@ -1,72 +1,74 @@
 This app works best with JavaScript enabled.
 
-  
-
 [![webdevhub logo](../d33wubrfki0l68.cloudfront.net/e5662f0d4f3e7730aea1a0faf7ff09ea20184700/6ca0b/images/dgqlkqjtmk.png)](OFFICIALindex.html)
 
 <span class="screen-reader-text">Open Menu</span><span class="icon-close" aria-hidden="true"></span>
 
--   <a href="docs/sitemap/index.html" class="button">Navigation</a>
-    <span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span>
-    -   <a href="docs/index.html" class="button">Docs</a>
-    -   <a href="showcase/index.html" class="button">Showcase</a>
-    -   <a href="docs/faq/contact/index.html" class="button">Contact!</a>
-    -   <a href="docs/python/python-ds/index.html" class="button">Python</a>
+- <a href="docs/sitemap/index.html" class="button">Navigation</a>
+  <span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span>
 
--   <a href="blog/index.html" class="button">Blog</a>
-    <span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span>
-    -   <a href="../bgoonz.blogspot.com/index.html" class="button">Blog-Post-Archive</a>
-    -   <a href="../blog-w-comments.vercel.app/index.html" class="button">Top Blog Posts</a>
-    -   <a href="blog/platform-docs/index.html" class="button">platform docs</a>
-    -   <a href="docs/articles/nodejs/index.html" class="button">nodejs</a>
-    -   <a href="blogWcomments/index.html" class="button">Blog w Comments</a>
+  - <a href="docs/index.html" class="button">Docs</a>
+  - <a href="showcase/index.html" class="button">Showcase</a>
+  - <a href="docs/faq/contact/index.html" class="button">Contact!</a>
+  - <a href="docs/python/python-ds/index.html" class="button">Python</a>
 
--   <a href="../github.com/bgoonz/UsefulResourceRepo2.html" class="button">Archive</a>
-    <span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span>
-    -   <a href="../github.com/Archive-42/Learning-Assets.html" class="button">Resource-Archive-Server</a>
-    -   <a href="../lambda-resources.netlify.app/index.html" class="button">Bootcamp Resources</a>
-    -   <a href="../web-dev-resource-hub.netlify.app/index.html" class="button">OG-Blog</a>
-    -   <a href="docs/gallery/index.html" class="button">Gallery</a>
-    -   <a href="docs/index.html" class="button">Top Repos</a>
-    -   <a href="../bryan-guner.gitbook.io/my-docs/index.html" class="button">MY_DOCS</a>
+- <a href="blog/index.html" class="button">Blog</a>
+  <span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span>
 
--   <a href="../project-portfolio42.netlify.app/index.html" class="button">Projects</a>
-    <span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span>
-    -   <a href="../potluck-landing.netlify.app/index.html" class="button">Potluck Planner</a>
-    -   <a href="../meditate42app.netlify.app/index.html" class="button">Meditation App</a>
-    -   <a href="../panoramic-eggplant-452e4.netlify.app/index.html" class="button">WebAudioLab</a>
-    -   <a href="../bgoonz.github.io/searchAwesome/index.html" class="button">SearchAwesome</a>
-    -   <a href="../bg-portfolio.netlify.app/index.html" class="button">Condensed -Portfolio</a>
-    -   <a href="../a.familypromiseservicetracker.dev/index.html" class="button">Family Promise Tracker</a>
-    -   [DTW-Guitar-FX-Automation](../github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering.html)
+  - <a href="../bgoonz.blogspot.com/index.html" class="button">Blog-Post-Archive</a>
+  - <a href="../blog-w-comments.vercel.app/index.html" class="button">Top Blog Posts</a>
+  - <a href="blog/platform-docs/index.html" class="button">platform docs</a>
+  - <a href="docs/articles/nodejs/index.html" class="button">nodejs</a>
+  - <a href="blogWcomments/index.html" class="button">Blog w Comments</a>
 
--   <a href="../bgoonz-blog-v3-0.netlify.app/index.html" class="button">External Nav</a>
-    <span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span>
-    -   <a href="../friendly-panda-b61ab.netlify.app/index.html" class="button">Embeds Blog</a>
-    -   <a href="../bgoonz-blog-v3-0.netlify.app/index.html" class="button">alt-blogs</a>
-    -   <a href="../bgoonz-games.netlify.app/index.html" class="button">Games</a>
-    -   <a href="../bgoonz-blog-v3-0.netlify.app/index.html" class="button">Blog Backup</a>
-    -   <a href="../bgoonz-cv.netlify.app/index.html" class="button">Cover Letter</a>
-    -   <a href="../project-portfolio42.netlify.app/index.html" class="button">Project Centric</a>
-    -   <a href="../web-dev-hub.com/index.html" class="button">Wordpress Blog</a>
-    -   <a href="../project-portfolio42.netlify.app/index.html" class="button">Project Portfolio Gallery</a>
-    -   <a href="../bgoonz.github.io/github-stats-website/index.html" class="button">github-stats-website</a>
+- <a href="../github.com/bgoonz/UsefulResourceRepo2.html" class="button">Archive</a>
+  <span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span>
 
--   <a href="docs/tools/index.html" class="button">Tools</a>
-    <span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span>
-    -   <a href="../githtmlpreview.netlify.app/index.html" class="button">Github HTML Previewer</a>
-    -   <a href="../devtools42.netlify.app/index.html" class="button">Text Tools</a>
-    -   <a href="../ternary42.netlify.app/index.html" class="button">Ternary 2 If Else</a>
-    -   <a href="../determined-dijkstra-ee7390.netlify.app/index.html" class="button">Job Search Resources</a>
-    -   <a href="../github.com/bgoonz/web-dev-setup-checker.html" class="button">Setup Checker</a>
-    -   <a href="../potluck-landing.netlify.app/index.html" class="button">PotluckPlanner</a>
-    -   <a href="../web-dev-interview-prep-quiz-website.netlify.app/index.html" class="button">WebDev Quizzes</a>
-    -   <span class="screen-reader-text">Github-Advanced-Search</span>
+  - <a href="../github.com/Archive-42/Learning-Assets.html" class="button">Resource-Archive-Server</a>
+  - <a href="../lambda-resources.netlify.app/index.html" class="button">Bootcamp Resources</a>
+  - <a href="../web-dev-resource-hub.netlify.app/index.html" class="button">OG-Blog</a>
+  - <a href="docs/gallery/index.html" class="button">Gallery</a>
+  - <a href="docs/index.html" class="button">Top Repos</a>
+  - <a href="../bryan-guner.gitbook.io/my-docs/index.html" class="button">MY_DOCS</a>
+
+- <a href="../project-portfolio42.netlify.app/index.html" class="button">Projects</a>
+  <span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span>
+
+  - <a href="../potluck-landing.netlify.app/index.html" class="button">Potluck Planner</a>
+  - <a href="../meditate42app.netlify.app/index.html" class="button">Meditation App</a>
+  - <a href="../panoramic-eggplant-452e4.netlify.app/index.html" class="button">WebAudioLab</a>
+  - <a href="../bgoonz.github.io/searchAwesome/index.html" class="button">SearchAwesome</a>
+  - <a href="../bg-portfolio.netlify.app/index.html" class="button">Condensed -Portfolio</a>
+  - <a href="../a.familypromiseservicetracker.dev/index.html" class="button">Family Promise Tracker</a>
+  - [DTW-Guitar-FX-Automation](../github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering.html)
+
+- <a href="../bgoonz-blog-v3-0.netlify.app/index.html" class="button">External Nav</a>
+  <span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span>
+
+  - <a href="../friendly-panda-b61ab.netlify.app/index.html" class="button">Embeds Blog</a>
+  - <a href="../bgoonz-blog-v3-0.netlify.app/index.html" class="button">alt-blogs</a>
+  - <a href="../bgoonz-games.netlify.app/index.html" class="button">Games</a>
+  - <a href="../bgoonz-blog-v3-0.netlify.app/index.html" class="button">Blog Backup</a>
+  - <a href="../bgoonz-cv.netlify.app/index.html" class="button">Cover Letter</a>
+  - <a href="../project-portfolio42.netlify.app/index.html" class="button">Project Centric</a>
+  - <a href="../web-dev-hub.com/index.html" class="button">Wordpress Blog</a>
+  - <a href="../project-portfolio42.netlify.app/index.html" class="button">Project Portfolio Gallery</a>
+  - <a href="../bgoonz.github.io/github-stats-website/index.html" class="button">github-stats-website</a>
+
+- <a href="docs/tools/index.html" class="button">Tools</a>
+  <span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span>
+  - <a href="../githtmlpreview.netlify.app/index.html" class="button">Github HTML Previewer</a>
+  - <a href="../devtools42.netlify.app/index.html" class="button">Text Tools</a>
+  - <a href="../ternary42.netlify.app/index.html" class="button">Ternary 2 If Else</a>
+  - <a href="../determined-dijkstra-ee7390.netlify.app/index.html" class="button">Job Search Resources</a>
+  - <a href="../github.com/bgoonz/web-dev-setup-checker.html" class="button">Setup Checker</a>
+  - <a href="../potluck-landing.netlify.app/index.html" class="button">PotluckPlanner</a>
+  - <a href="../web-dev-interview-prep-quiz-website.netlify.app/index.html" class="button">WebDev Quizzes</a>
+  - <span class="screen-reader-text">Github-Advanced-Search</span>
 
 <span class="screen-reader-text">Close Menu</span><span class="icon-menu" aria-hidden="true"></span>
 
-I am a musician, electrical engineer & web developer
-====================================================
+# I am a musician, electrical engineer & web developer
 
 ###### **A passionate student of web development from New Jersey U.S.A**
 
@@ -98,7 +100,7 @@ Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at run
 
 ### [Python Guide](../levelup.gitconnected.com/python-study-guide-for-a-native-javascript-developer-5cfdf3d2bdfb40d8.html)
 
-*Python has a built in help function that let’s you see a description of the source code without having to navigate to it… “-SickNasty … Autor Unknown” .*
+_Python has a built in help function that let’s you see a description of the source code without having to navigate to it… “-SickNasty … Autor Unknown” ._
 
 [View Posts](../levelup.gitconnected.com/python-study-guide-for-a-native-javascript-developer-5cfdf3d2bdfb40d8.html)
 
@@ -128,8 +130,7 @@ The **scope** of a program in JavaScript is the set of variables that are availa
 
 PostgreSQL Cheat Sheet, Everything You Need to Get Started With VSCode + Extensions & Resources, Super Simple Intro To HTML, Understanding Git... etc....
 
-Current Interests
------------------
+## Current Interests
 
 From github repositories to existential questions.
 
@@ -137,8 +138,7 @@ From github repositories to existential questions.
 
 ### [Angolia](angolia.html)
 
-Full Text Search
-----------------
+## Full Text Search
 
 [Full Text Search](../www.algolia.com/index.html)
 
@@ -152,10 +152,9 @@ Artificial neural networks, usually simply called neural networks, are computing
 
 ### [Jamstack](jamstack.html)
 
-Why Jamstack
-------------
+## Why Jamstack
 
-*Jamstack is the new standard architecture for the web. Using Git workflows and modern build tools, pre-rendered content is served to a CDN and made dynamic through APIs and serverless functions. Technologies in the stack include JavaScript frameworks, Static Site Generators, Headless CMSs, and CDNs.*
+_Jamstack is the new standard architecture for the web. Using Git workflows and modern build tools, pre-rendered content is served to a CDN and made dynamic through APIs and serverless functions. Technologies in the stack include JavaScript frameworks, Static Site Generators, Headless CMSs, and CDNs._
 
 ![lorem-ipsum](../d33wubrfki0l68.cloudfront.net/fb22b10eaa16e4ac0690115bf6c6987350d38d4b/13c10/images/eventloop.gif)
 
@@ -167,13 +166,11 @@ The term **asynchronous** refers to two or more objects or events **not** existi
 
 ### [NJ Devils](../www.allaboutthejersey.com/index.html)
 
-New Jersey Devils Hockey Team
-=============================
+# New Jersey Devils Hockey Team
 
 ### (Hockey in general)
 
-Team identity
--------------
+## Team identity
 
 [![](../upload.wikimedia.org/wikipedia/en/thumb/d/da/OldDevils.png/300px-OldDevils.png)](../en.wikipedia.org/wiki/File_OldDevils.html)
 
@@ -185,13 +182,11 @@ The old green style jerseys used from 1982 to 1992The jerseys used from 1992 to 
 
 ### [ITER Fusion Reactor Experiment (Southern France)](lorem-ipsum.html)
 
-Break Even Nuclear Fusion Candidate
-===================================
+# Break Even Nuclear Fusion Candidate
 
 In December, researchers at the Joint European Torus (JET) started conducting fusion experiments with tritium — a rare and radioactive isotope of hydrogen. The facility is a one-tenth-volume mock-up of the US$22-billion ITER project and has the same doughnut-shaped ‘tokamak’ design — the world’s most developed approach to fusion energy. It is the first time since 1997 that researchers have done experiments in a tokamak with any significant amount of tritium.
 
-Resume & Portfolio
-------------------
+## Resume & Portfolio
 
 ![](../d33wubrfki0l68.cloudfront.net/1f29cdd536464c9a9aadc0b47f779108540754a9/af8d6/images/bryan_guner_resume_2021-v4img.jpg)
 
@@ -207,18 +202,15 @@ Resume & Portfolio
 
 [Learn More](showcase/index.html)
 
-Blog-Archive-And-Mini-Projects
-------------------------------
+## Blog-Archive-And-Mini-Projects
 
 ![medium](../d33wubrfki0l68.cloudfront.net/e5828552ff6b5743ed241d9c926e60eb925dde97/8dbbf/images/goals.jpg)
 
-Web Audio DAW
--------------
+## Web Audio DAW
 
 <a href="../mihirbegmusiclab.netlify.app/index.html" class="button">Go To Web Audio Daw</a>
 
-Quick Links
------------
+## Quick Links
 
 quick links home
 
@@ -342,16 +334,11 @@ Reference materials and descriptions of fundamental concepts as well as visua
 
 [Learn More](docs/career/index.html)
 
-Contact
--------
+## Contact
 
 get in touch! +1 (551) - 254 - 5505
 
 <a href="docs/faq/contact/index.html" class="button">Contact</a><a href="mailto_bryan.guner%40gmail.html" class="button">email</a><a href="../webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c.html" class="button">Collaborate</a><a href="../www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXAb5e7.html?sub_confirmation=1" class="button">Subscribe (Youtube)</a>
-
-  
-
-  
 
 <table><colgroup><col style="width: 100%" /></colgroup><tbody><tr class="odd"><td><table><tbody><tr class="odd"><td style="text-align: left;"><a href="../search.freefind.com/siteindex3d75.html?si=14588965">index</a></td><td style="text-align: center;"><a href="../search.freefind.com/find8c28.html?si=14588965&amp;m=0&amp;p=0">sitemap</a></td><td style="text-align: right;"><a href="../search.freefind.com/findc8e7.html?si=14588965&amp;pid=a">advanced</a></td></tr></tbody></table></td></tr><tr class="even"><td><a href="../www.freefind.com/index.html">search engine</a><a href="../www.freefind.com/index.html">by<span style="color:transparent">freefind</span></a></td></tr></tbody></table>
 

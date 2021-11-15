@@ -1,23 +1,16 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-HostPapa Review: Papa Don’t Preach…
-===================================
+# HostPapa Review: Papa Don’t Preach…
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
 [HostPapa](https://html.com/go/hostpapa/) is a Canada-based web-hosting company that bills itself as the best hosting company for small businesses… and the earth. You get unlimited bandwidth, a free drag-and-drop website builder, 100s of email accounts and cPanel access.
 
-Should those of us who *aren’t* small business owners look elsewhere?
+Should those of us who _aren’t_ small business owners look elsewhere?
 
 (Spoiler: the answer is no.)
 
@@ -25,37 +18,36 @@ So, is there a catch? We present the facts in this HostPapa review.
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
--   [<span class="toc_number toc_depth_1">2</span> About HostPapa](#About_HostPapa)
--   [<span class="toc_number toc_depth_1">3</span> Web Hosting Options](#Web_Hosting_Options)
--   [<span class="toc_number toc_depth_1">4</span> General HostPapa Features](#General_HostPapa_Features)
--   [<span class="toc_number toc_depth_1">5</span> Customer Service and Technical Support](#Customer_Service_and_Technical_Support)
--   [<span class="toc_number toc_depth_1">6</span> User Experiences](#User_Experiences)
--   [<span class="toc_number toc_depth_1">7</span> HostPapa vs GoDaddy](#HostPapa_vs_GoDaddy)
--   [<span class="toc_number toc_depth_1">8</span> Special HostPapa Deals](#Special_HostPapa_Deals)
--   [<span class="toc_number toc_depth_1">9</span> HostPapa Review Summary](#HostPapa_Review_Summary)
--   [<span class="toc_number toc_depth_1">10</span> Your Review of HostPapa](#Your_Review_of_HostPapa)
+- [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
+- [<span class="toc_number toc_depth_1">2</span> About HostPapa](#About_HostPapa)
+- [<span class="toc_number toc_depth_1">3</span> Web Hosting Options](#Web_Hosting_Options)
+- [<span class="toc_number toc_depth_1">4</span> General HostPapa Features](#General_HostPapa_Features)
+- [<span class="toc_number toc_depth_1">5</span> Customer Service and Technical Support](#Customer_Service_and_Technical_Support)
+- [<span class="toc_number toc_depth_1">6</span> User Experiences](#User_Experiences)
+- [<span class="toc_number toc_depth_1">7</span> HostPapa vs GoDaddy](#HostPapa_vs_GoDaddy)
+- [<span class="toc_number toc_depth_1">8</span> Special HostPapa Deals](#Special_HostPapa_Deals)
+- [<span class="toc_number toc_depth_1">9</span> HostPapa Review Summary](#HostPapa_Review_Summary)
+- [<span class="toc_number toc_depth_1">10</span> Your Review of HostPapa](#Your_Review_of_HostPapa)
 
-<span id="Pros_and_Cons">Pros and Cons</span>
----------------------------------------------
+## <span id="Pros_and_Cons">Pros and Cons</span>
 
 If you’re unsure about whether HostPapa is the right hosting company for your needs, check our pros and cons to guide your decision.
 
 **Pros**
 
--   Uses renewable energy to power its business
--   WordPress friend
--   Free migration assistance by staff members
--   Plans include access to over 400 free apps
--   Basic security features offered to all
+- Uses renewable energy to power its business
+- WordPress friend
+- Free migration assistance by staff members
+- Plans include access to over 400 free apps
+- Basic security features offered to all
 
 **Cons**
 
--   Not the cheapest shared hosting plans around
--   Email functionality is not included in all plans, but is available as an add-on
--   No dedicated servers available
--   Shorter-term plans are pricey
--   You could end up playing almost double when you renew your hosting plan after the first term
+- Not the cheapest shared hosting plans around
+- Email functionality is not included in all plans, but is available as an add-on
+- No dedicated servers available
+- Shorter-term plans are pricey
+- You could end up playing almost double when you renew your hosting plan after the first term
 
 [HostPapa’s web hosting plans](https://html.com/go/hostpapa/) are full-featured, and regardless of which option you choose, you will have what you need to launch your website.
 
@@ -65,8 +57,7 @@ HostPapa isn’t the most expensive hosting option around, but it isn’t the ch
 
 Though, if you stick around after the first term, you could get stuck with a much pricier hosting bill.
 
-<span id="About_HostPapa">About HostPapa</span>
------------------------------------------------
+## <span id="About_HostPapa">About HostPapa</span>
 
 HostPapa is a Canadian [web hosting](https://html.com/web-hosting/) company founded in 2006 by Jamie Palchuk.
 
@@ -76,16 +67,15 @@ Today, HostPapa remains a privately-owned company hosting 500,000 sites. It is a
 
 HostPapa’s headquarters are located in Burlington, Ontario, Canada. The company operates a single datacenter, though they do not disclose its location.
 
-<span id="Web_Hosting_Options">Web Hosting Options</span>
----------------------------------------------------------
+## <span id="Web_Hosting_Options">Web Hosting Options</span>
 
 [HostPapa](https://html.com/go/hostpapa/) offers the following types of web hosting:
 
--   Shared hosting
--   WordPress hosting
--   Online stores
--   Reseller hosting
--   VPS hosting.
+- Shared hosting
+- WordPress hosting
+- Online stores
+- Reseller hosting
+- VPS hosting.
 
 ### Shared Hosting
 
@@ -95,9 +85,9 @@ Those who are just getting started with a website or are looking for a budget-fr
 
 The best option for you depends on the number of websites you need hosted and the size of your websites:
 
--   **Starter**: supports two websites and includes a free domain name, 100 GB of SSD storage, and unmetered bandwidth
--   **Business**: supports an unlimited number of websites and includes a free domain name and unlimited SSD storage and bandwidth
--   **Business Pro**: identical to the business plan, but includes enhanced performance and security
+- **Starter**: supports two websites and includes a free domain name, 100 GB of SSD storage, and unmetered bandwidth
+- **Business**: supports an unlimited number of websites and includes a free domain name and unlimited SSD storage and bandwidth
+- **Business Pro**: identical to the business plan, but includes enhanced performance and security
 
 As you can see, HostPapa’s plans are geared toward small businesses, but the company’s offerings are good options even for personal websites and blogs.
 
@@ -109,9 +99,9 @@ Shared hosting customers can also expect a 99.9% uptime, migration assistance, a
 
 WordPress users might be interested in HostPapa’s specialized [WordPress hosting plans](https://html.com/go/hostpapa/). These options are very similar to the shared plans:
 
--   **WP Starter**: supports two websites and includes a free domain name, 100 GB of SSD storage, 100 email accounts, pre-installation of the JetPack optimization suite, and unmetered bandwidth
--   **WP Business**: supports an unlimited number of websites and includes a free domain name and unlimited SSD storage, bandwidth, and email accounts, as well as pre-installation of the JetPack optimization suite
--   **WP Business Pro**: identical to the business plan, but includes enhanced performance and security and installation of the premium version of the JetPack optimization suite
+- **WP Starter**: supports two websites and includes a free domain name, 100 GB of SSD storage, 100 email accounts, pre-installation of the JetPack optimization suite, and unmetered bandwidth
+- **WP Business**: supports an unlimited number of websites and includes a free domain name and unlimited SSD storage, bandwidth, and email accounts, as well as pre-installation of the JetPack optimization suite
+- **WP Business Pro**: identical to the business plan, but includes enhanced performance and security and installation of the premium version of the JetPack optimization suite
 
 The primary difference, however, between the shared and WordPress plans is that the latter comes with WordPress pre-installed, includes email functionality and other advanced/premium WordPress features.
 
@@ -145,8 +135,7 @@ For those looking to start their own web hosting business, HostPapa offers five 
 
 Prices begin at just [$19.95 per month](https://html.com/go/hostpapa/), and you get everything you need to manage an unlimited number of websites, including a single cPanel/WHM control panel, installer for hundreds of apps like WordPress and Joomla, and around-the-clock support in case you ever need help. Visit [HostPapa](https://html.com/go/hostpapa/) now.
 
-<span id="General_HostPapa_Features">General HostPapa Features</span>
----------------------------------------------------------------------
+## <span id="General_HostPapa_Features">General HostPapa Features</span>
 
 Regardless of which hosting type you opt for, you can expect to get the following when working with HostPapa.
 
@@ -200,8 +189,7 @@ If you’re concerned about the security of your website, [HostPapa](https://htm
 
 SiteLock is a security suite that, depending on the plan you choose, can detect and remove malware, block spam and blacklist spammers, protect against DDoS attacks, and provide firewall protection.
 
-<span id="Customer_Service_and_Technical_Support">Customer Service and Technical Support</span>
------------------------------------------------------------------------------------------------
+## <span id="Customer_Service_and_Technical_Support">Customer Service and Technical Support</span>
 
 If you ever need help, you can get in touch with HostPapa’s customer service team 24/7 via email, telephone, or live chat.
 
@@ -209,15 +197,13 @@ Furthermore, HostPapa’s staff can communicate with customers in four languages
 
 If you prefer to do things on your own, HostPapa maintains a comprehensive support and information center that is packed with searchable knowlegebase articles. You can even download the information for later reference.
 
-<span id="User_Experiences">User Experiences</span>
----------------------------------------------------
+## <span id="User_Experiences">User Experiences</span>
 
 HostPapa is rated [4.1 out of 5 stars](https://www.whoishostingthis.com/hosting-reviews/hostpapa/) by 387 customers.
 
 From the reviews provided, it seems that HostPapa is a solid company offering good choices for those needing web hosting.
 
-<span id="HostPapa_vs_GoDaddy">HostPapa vs GoDaddy</span>
----------------------------------------------------------
+## <span id="HostPapa_vs_GoDaddy">HostPapa vs GoDaddy</span>
 
 If HostPapa isn’t quite the right fit for you, you might consider [GoDaddy](https://html.com/web-hosting/godaddy/) instead.
 
@@ -237,13 +223,11 @@ Other companies that are similar to HostPapa include [BlueHost](https://html.com
 
 All offer a variety of budget-friendly, well-rounded shared hosting plans that would serve beginning users well.
 
-<span id="Special_HostPapa_Deals">Special HostPapa Deals</span>
----------------------------------------------------------------
+## <span id="Special_HostPapa_Deals">Special HostPapa Deals</span>
 
 If you’re ready to get started with HostPapa, use [our HostPapa](https://html.com/go/hostpapa/) link to get up to 70% off when you buy web hosting services. Visit [HostPapa](https://html.com/go/hostpapa/) now.
 
-<span id="HostPapa_Review_Summary">HostPapa Review Summary</span>
------------------------------------------------------------------
+## <span id="HostPapa_Review_Summary">HostPapa Review Summary</span>
 
 In a sea of US-based hosting companies, [HostPapa](https://html.com/go/hostpapa/) stands out with its Canadian location.
 
@@ -251,18 +235,17 @@ Its commitment to using renewable energy will appeal to many who are concerned w
 
 While HostPapa brands itself as a small business-friendly option, the company’s offering can help get personal websites and blogs online.
 
-Ready to get started with solid web hosting that *won’t* destroy the earth? Visit [HostPapa](https://html.com/go/hostpapa/) now.
+Ready to get started with solid web hosting that _won’t_ destroy the earth? Visit [HostPapa](https://html.com/go/hostpapa/) now.
 
-<span id="Your_Review_of_HostPapa">Your Review of HostPapa</span>
------------------------------------------------------------------
+## <span id="Your_Review_of_HostPapa">Your Review of HostPapa</span>
 
 Are you a current or past customer of HostPapa? Would you recommend them? Please leave your comments below and let our visitors know what you think of HostPapa’s speed, features and customer service.
 
 <a href="https://html.com/go/hostpapa/" class="button-cta">Visit HostPapa Now!</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing editor: Bronwynne Powell.*</span>
+<span class="small">_Contributing editor: Bronwynne Powell._</span>
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
@@ -276,11 +259,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

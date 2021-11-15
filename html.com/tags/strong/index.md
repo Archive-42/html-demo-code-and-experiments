@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [Learn How Fonts And Web Typography Work In HTML: A Beginner's Guide](https://html.com/fonts/) / Proper Use Of The Strong Element In HTML (Plus Code Example)
 
-`Proper Use Of The Strong Element In HTML (Plus Code Example)`
-==============================================================
+# `Proper Use Of The Strong Element In HTML (Plus Code Example)`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -27,8 +24,7 @@ inline
 Usage  
 semantic
 
-Code Example
-------------
+## Code Example
 
     <p>Chapter 1: <strong>Proper Use of the Strong Element</strong></p>
 
@@ -40,8 +36,7 @@ This oft-misused element implies added importance, seriousness, or urgency. **Us
 
 <span class="underline"></span>
 
-Pay Attention!
---------------
+## Pay Attention!
 
 That’s what the `<strong>` element is all about. Use it and you are saying, in effect:
 
@@ -49,7 +44,7 @@ That’s what the `<strong>` element is all about. Use it and you are saying, in
 
 By default, browsers will render text between `<strong>` tags in a bold typeface. However, you can always adjust the browser defaults with a little [CSS](https://html.com/css/). It’s important to use the `<strong>` element for it’s semantic meaning–added importance, urgency, or seriousness–and not for it’s stylistic presentation. If your goal is just to make a word appear in bold typeface without added importance, urgency, or seriousness, it’s better to use the [`<b>`](https://html.com/tags/b/) element, or even better, just use [CSS](https://html.com/css/). Here’s what I mean:
 
-    <p><strong>Notice:</strong> Don't use &lt;strong&gt; just to make a word <b>bold</b>. Instead,  use the &lt;b&gt; tag or a &lt;span&gt; element and CSS to <span class="bold">make the font  bold</span>.</p>  <p><strong>Use &lt;strong&gt; to imply importance, urgency, or seriousness.</strong></p>  <style> .bold {   font-weight: bold; } </style> 
+    <p><strong>Notice:</strong> Don't use &lt;strong&gt; just to make a word <b>bold</b>. Instead,  use the &lt;b&gt; tag or a &lt;span&gt; element and CSS to <span class="bold">make the font  bold</span>.</p>  <p><strong>Use &lt;strong&gt; to imply importance, urgency, or seriousness.</strong></p>  <style> .bold {   font-weight: bold; } </style>
 
 Let’s see how that looks when rendered in the browser:
 
@@ -57,16 +52,15 @@ Let’s see how that looks when rendered in the browser:
 
 .bold{font-weight: bold;}
 
-This Word is **So** Serious
----------------------------
+## This Word is **So** Serious
 
 One little-known fact is that HTML actually allows you to imply levels of importance by stacking up multiple `<strong>` elements. While browsers won’t generally render these elements any differently, browsers and anyone using assistive technologies will pick up the cue. Here’s how you could use this option if you’re so inclined:
 
-    <p><strong>Danger: Swimming in this area is restricted. <strong>Do not enter the water.</strong></strong></p> 
+    <p><strong>Danger: Swimming in this area is restricted. <strong>Do not enter the water.</strong></strong></p>
 
 Let’s see what your browser does with the nested `<strong>` tags:
 
-**Danger: Swimming in this area is restricted. **Do not enter the water.****
+**Danger: Swimming in this area is restricted. **Do not enter the water.\*\*\*\*
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -82,10 +76,9 @@ Let’s see what your browser does with the nested `<strong>` tags:
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Post navigation
----------------
+## Post navigation
 
-[<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`How To Use  In HTML`](https://html.com/attributes/img-src/)
+[<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`How To Use In HTML`](https://html.com/attributes/img-src/)
 
 [`<td nowrap>`<span class="nav-link-label"><span class="genericon genericon-next"></span></span>](https://html.com/attributes/td-nowrap/)
 
@@ -95,11 +88,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

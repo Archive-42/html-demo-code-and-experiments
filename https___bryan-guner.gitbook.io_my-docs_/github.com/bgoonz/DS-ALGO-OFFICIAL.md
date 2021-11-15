@@ -2,80 +2,83 @@
 
 <a href="https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&amp;source=header-repo" class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5">Sign up</a>
 
--   Why GitHub?
-    -   <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- Why GitHub?
 
--   <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
--   <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
--   Explore
-    -   <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Learn and contribute
-    -   <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Connect with others
-    -   <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
--   <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
--   Pricing
-    -   <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
+- <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
+- Explore
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+  - <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Learn and contribute
+  - <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Connect with others
+  - <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+- <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
+- Pricing
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  - <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <!-- -->
 
--   <span class="color-fg-muted">No suggested jump to results</span>
+- <span class="color-fg-muted">No suggested jump to results</span>
 
 <!-- -->
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fbgoonz%2FDS-ALGO-OFFICIAL" class="HeaderMenu-link flex-shrink-0 no-underline">Sign in</a>
 
@@ -83,14 +86,13 @@
 
 {{ message }}
 
-<span class="author flex-self-stretch" itemprop="author"> <a href="https://github.com/bgoonz" class="url fn">bgoonz</a> </span> <span class="mx-1 flex-self-stretch color-fg-muted">/</span> **[DS-ALGO-OFFICIAL](https://github.com/bgoonz/DS-ALGO-OFFICIAL)** <span class="Label Label--secondary v-align-middle mr-1">Public</span>
-======================================================================================================================================================================================================================================================================================================================================
+# <span class="author flex-self-stretch" itemprop="author"> <a href="https://github.com/bgoonz" class="url fn">bgoonz</a> </span> <span class="mx-1 flex-self-stretch color-fg-muted">/</span> **[DS-ALGO-OFFICIAL](https://github.com/bgoonz/DS-ALGO-OFFICIAL)** <span class="Label Label--secondary v-align-middle mr-1">Public</span>
 
--   Notifications
--   <span data-view-component="true"> Star </span> <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/stargazers" class="social-count js-social-count">5</a>
+- Notifications
+- <span data-view-component="true"> Star </span> <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/stargazers" class="social-count js-social-count">5</a>
 
--   Fork <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/network/members" class="social-count">7</a>
--   
+- Fork <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/network/members" class="social-count">7</a>
+-
 
 The final Iteration of my data structures website
 
@@ -106,27 +108,27 @@ Apache-2.0 License
 
 Notifications
 
--   <span data-content="Code">Code</span> <span id="code-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Issues">Issues</span> <span id="issues-repo-tab-count" class="Counter" data-pjax-replace="" title="1" data-view-component="true">1</span>
--   <span data-content="Pull requests">Pull requests</span> <span id="pull-requests-repo-tab-count" class="Counter" data-pjax-replace="" title="3" data-view-component="true">3</span>
--   <span data-content="Discussions">Discussions</span> <span id="discussions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Actions">Actions</span> <span id="actions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Projects">Projects</span> <span id="projects-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
--   <span data-content="Wiki">Wiki</span> <span id="wiki-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Security">Security</span>
--   <span data-content="Insights">Insights</span> <span id="insights-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Code">Code</span> <span id="code-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Issues">Issues</span> <span id="issues-repo-tab-count" class="Counter" data-pjax-replace="" title="1" data-view-component="true">1</span>
+- <span data-content="Pull requests">Pull requests</span> <span id="pull-requests-repo-tab-count" class="Counter" data-pjax-replace="" title="3" data-view-component="true">3</span>
+- <span data-content="Discussions">Discussions</span> <span id="discussions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Actions">Actions</span> <span id="actions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Projects">Projects</span> <span id="projects-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
+- <span data-content="Wiki">Wiki</span> <span id="wiki-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Security">Security</span>
+- <span data-content="Insights">Insights</span> <span id="insights-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
 
 <span class="sr-only">More</span>
 
--   <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL" class="js-selected-navigation-item selected dropdown-item">Code</a>
--   <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/issues" class="js-selected-navigation-item dropdown-item">Issues</a>
--   <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/pulls" class="js-selected-navigation-item dropdown-item">Pull requests</a>
--   <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/discussions" class="js-selected-navigation-item dropdown-item">Discussions</a>
--   <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/actions" class="js-selected-navigation-item dropdown-item">Actions</a>
--   <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/projects" class="js-selected-navigation-item dropdown-item">Projects</a>
--   <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/wiki" class="js-selected-navigation-item dropdown-item">Wiki</a>
--   <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/security" class="js-selected-navigation-item dropdown-item">Security</a>
--   <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/pulse" class="js-selected-navigation-item dropdown-item">Insights</a>
+- <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL" class="js-selected-navigation-item selected dropdown-item">Code</a>
+- <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/issues" class="js-selected-navigation-item dropdown-item">Issues</a>
+- <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/pulls" class="js-selected-navigation-item dropdown-item">Pull requests</a>
+- <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/discussions" class="js-selected-navigation-item dropdown-item">Discussions</a>
+- <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/actions" class="js-selected-navigation-item dropdown-item">Actions</a>
+- <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/projects" class="js-selected-navigation-item dropdown-item">Projects</a>
+- <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/wiki" class="js-selected-navigation-item dropdown-item">Wiki</a>
+- <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/security" class="js-selected-navigation-item dropdown-item">Security</a>
+- <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/pulse" class="js-selected-navigation-item dropdown-item">Insights</a>
 
 <span class="css-truncate-target" data-menu-button="">master</span> <span class="dropdown-caret"></span>
 
@@ -166,18 +168,15 @@ Code<span class="dropdown-caret"></span>
 
 <span class="sr-only">Loading</span>
 
-Latest commit
--------------
+## Latest commit
 
- 
 
-Git stats
----------
 
--   <span class="d-none d-sm-inline"> **373** <span class="color-fg-muted d-none d-lg-inline" aria-label="Commits on master"> commits </span> </span>
+## Git stats
 
-Files
------
+- <span class="d-none d-sm-inline"> **373** <span class="color-fg-muted d-none d-lg-inline" aria-label="Commits on master"> commits </span> </span>
+
+## Files
 
 <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/tree/72f360da7ebea544bd2a681eb2af5a189fa41b20" class="d-none js-permalink-shortcut">Permalink</a>
 
@@ -193,262 +192,259 @@ Commit time
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/tree/master/.github" class="js-navigation-open Link--primary" title=".github">.github</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/tree/master/CONTENT" class="js-navigation-open Link--primary" title="CONTENT">CONTENT</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/.gitattributes" class="js-navigation-open Link--primary" title=".gitattributes">.gitattributes</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/.gitignore" class="js-navigation-open Link--primary" title=".gitignore">.gitignore</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/CODE_OF_CONDUCT.md" class="js-navigation-open Link--primary" title="CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/CONTRIBUTING.md" class="js-navigation-open Link--primary" title="CONTRIBUTING.md">CONTRIBUTING.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/DS-ALGO-OFFICIAL.html" class="js-navigation-open Link--primary" title="DS-ALGO-OFFICIAL.html">DS-ALGO-OFFICIAL.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/DS_ALGO.html" class="js-navigation-open Link--primary" title="DS_ALGO.html">DS_ALGO.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/LICENSE" class="js-navigation-open Link--primary" title="LICENSE">LICENSE</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/README.html" class="js-navigation-open Link--primary" title="README.html">README.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/README.md" class="js-navigation-open Link--primary" title="README.md">README.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/SECURITY.md" class="js-navigation-open Link--primary" title="SECURITY.md">SECURITY.md</a></span>
 
- 
 
- 
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/_config.yml" class="js-navigation-open Link--primary" title="_config.yml">_config.yml</a></span>
 
- 
 
- 
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/_config.yml" class="js-navigation-open Link--primary" title="_config.yml">\_config.yml</a></span>
+
+
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/apple-touch-icon.png" class="js-navigation-open Link--primary" title="apple-touch-icon.png">apple-touch-icon.png</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/clones.PNG" class="js-navigation-open Link--primary" title="clones.PNG">clones.PNG</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/copy-2-clip.js" class="js-navigation-open Link--primary" title="copy-2-clip.js">copy-2-clip.js</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/ds.html" class="js-navigation-open Link--primary" title="ds.html">ds.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/gradient.css" class="js-navigation-open Link--primary" title="gradient.css">gradient.css</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/inch.json" class="js-navigation-open Link--primary" title="inch.json">inch.json</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/index-style.css" class="js-navigation-open Link--primary" title="index-style.css">index-style.css</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/index.html" class="js-navigation-open Link--primary" title="index.html">index.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/makefile" class="js-navigation-open Link--primary" title="makefile">makefile</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/manual.yml" class="js-navigation-open Link--primary" title="manual.yml">manual.yml</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/netlify.toml" class="js-navigation-open Link--primary" title="netlify.toml">netlify.toml</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/package-lock.json" class="js-navigation-open Link--primary" title="package-lock.json">package-lock.json</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/package.json" class="js-navigation-open Link--primary" title="package.json">package.json</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/prism.css" class="js-navigation-open Link--primary" title="prism.css">prism.css</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/prism.js" class="js-navigation-open Link--primary" title="prism.js">prism.js</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/python-resources.md" class="js-navigation-open Link--primary" title="python-resources.md">python-resources.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/renovate.json" class="js-navigation-open Link--primary" title="renovate.json">renovate.json</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/repl.html" class="js-navigation-open Link--primary" title="repl.html">repl.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/robots.txt" class="js-navigation-open Link--primary" title="robots.txt">robots.txt</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/scrap.html" class="js-navigation-open Link--primary" title="scrap.html">scrap.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/scrap.md" class="js-navigation-open Link--primary" title="scrap.md">scrap.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/scroll-2-top.js" class="js-navigation-open Link--primary" title="scroll-2-top.js">scroll-2-top.js</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/sitemap.html" class="js-navigation-open Link--primary" title="sitemap.html">sitemap.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/style.css" class="js-navigation-open Link--primary" title="style.css">style.css</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/toc.css" class="js-navigation-open Link--primary" title="toc.css">toc.css</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/toc.js" class="js-navigation-open Link--primary" title="toc.js">toc.js</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/toc_es6.js" class="js-navigation-open Link--primary" title="toc_es6.js">toc_es6.js</a></span>
 
- 
 
- 
+
+
 
 View code
 
-<a href="#-live-site" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Live Site</a> <a href="#admin-panels" class="filter-item SelectMenu-item py-1">Admin Panels</a> <a href="#-authorbryan-guner" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Author:Bryan Guner</a> <a href="#clones-185-to-date" class="filter-item SelectMenu-item py-1 text-emphasized">Clones: 185 to date</a> <a href="#-the-idea-behind-big-o-notation" class="filter-item SelectMenu-item py-1">➤ The idea behind big O notation</a> <a href="#how-quickly-it-grows-relative-to-the-input-as-the-input-gets-arbitrarily-large_" class="filter-item SelectMenu-item py-1">how quickly it grows relative to the input, as the input gets arbitrarily large_.</a> <a href="#-data-structures-reference" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Data Structures Reference</a> <a href="#-array" class="filter-item SelectMenu-item py-1">➤ Array</a> <a href="#-linked-list" class="filter-item SelectMenu-item py-1">➤ Linked List</a> <a href="#-queue" class="filter-item SelectMenu-item py-1">➤ Queue</a> <a href="#-stack" class="filter-item SelectMenu-item py-1">➤ Stack</a> <a href="#-tree" class="filter-item SelectMenu-item py-1">➤ Tree</a> <a href="#-binary-search-tree" class="filter-item SelectMenu-item py-1">➤ Binary Search Tree</a> <a href="#-binary-search-tree-1" class="filter-item SelectMenu-item py-1">➤ Binary Search Tree</a> <a href="#-graph" class="filter-item SelectMenu-item py-1">➤ Graph</a> <a href="#-heap" class="filter-item SelectMenu-item py-1">➤ Heap</a> <a href="#adjacency-list" class="filter-item SelectMenu-item py-1">Adjacency list</a> <a href="#adjacency-matrix" class="filter-item SelectMenu-item py-1">Adjacency matrix</a> <a href="#-arrays" class="filter-item SelectMenu-item py-1">➤ Arrays</a> <a href="#pointers" class="filter-item SelectMenu-item py-1">Pointers</a> <a href="#-linked-lists" class="filter-item SelectMenu-item py-1">➤ Linked lists</a> <a href="#doubly-linked-lists" class="filter-item SelectMenu-item py-1">Doubly Linked Lists</a> <a href="#-not-cache-friendly" class="filter-item SelectMenu-item py-1">➤ Not cache-friendly</a> <a href="#hash-tables" class="filter-item SelectMenu-item py-1">Hash tables</a> <a href="#-breadth-first-search-bfs-and-breadth-first-traversal" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Breadth-First Search (BFS) and Breadth-First Traversal</a> <a href="#-binary-search-tree-2" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Binary Search Tree</a> <a href="#-graph-data-structure-directed-acyclic-etc" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Graph Data Structure: Directed, Acyclic, etc</a> <a href="#-binary-numbers" class="filter-item SelectMenu-item py-1">➤ Binary numbers</a> <a href="#-leetcode-patterns" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Leetcode Patterns</a> <a href="#-background" class="filter-item SelectMenu-item py-1">➤ Background</a> <a href="#-preface" class="filter-item SelectMenu-item py-1">➤ Preface</a> <a href="#-notes" class="filter-item SelectMenu-item py-1">➤ Notes</a> <a href="#-tips-to-consider" class="filter-item SelectMenu-item py-1">➤ Tips to Consider</a> <a href="#-suggestions" class="filter-item SelectMenu-item py-1">➤ Suggestions</a> <a href="#-repo-directory-structure" class="filter-item SelectMenu-item py-1 text-emphasized">➤ REPO Directory Structure</a> <a href="#-2-add-two-numbers" class="filter-item SelectMenu-item py-1">➤ 2. Add Two Numbers</a> <a href="#problem" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-4-median-of-two-sorted-arrays" class="filter-item SelectMenu-item py-1">➤ 4. Median of Two Sorted Arrays</a> <a href="#problem-1" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-1" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-6-zigzag-conversion" class="filter-item SelectMenu-item py-1">➤ 6. ZigZag Conversion</a> <a href="#problem-2" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-2" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-7-reverse-integer" class="filter-item SelectMenu-item py-1">➤ 7. Reverse Integer</a> <a href="#problem-3" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-3" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-8-string-to-integer-atoi" class="filter-item SelectMenu-item py-1">➤ 8. String to Integer (atoi)</a> <a href="#problem-4" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-4" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-1" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-1" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#three" class="filter-item SelectMenu-item py-1">THREE</a> <a href="#-9-palindrome-number" class="filter-item SelectMenu-item py-1">➤ 9. Palindrome Number</a> <a href="#problem-5" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-5" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-2" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-2" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#three-1" class="filter-item SelectMenu-item py-1">THREE</a> <a href="#-10-regular-expression-matching" class="filter-item SelectMenu-item py-1">➤ 10. Regular Expression Matching</a> <a href="#problem-6" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-6" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-3" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-3" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-11-container-with-most-water" class="filter-item SelectMenu-item py-1">➤ 11. Container With Most Water</a> <a href="#problem-7" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-7" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-12-integer-to-roman" class="filter-item SelectMenu-item py-1">➤ 12. Integer to Roman</a> <a href="#problem-8" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-8" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-13-roman-to-integer" class="filter-item SelectMenu-item py-1">➤ 13. Roman to Integer</a> <a href="#problem-9" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-9" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-14-longest-common-prefix" class="filter-item SelectMenu-item py-1">➤ 14. Longest Common Prefix</a> <a href="#problem-10" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-10" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-4" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-4" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#three-2" class="filter-item SelectMenu-item py-1">THREE</a> <a href="#-15-3sum" class="filter-item SelectMenu-item py-1">➤ 15. 3Sum</a> <a href="#problem-11" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-11" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-16-3sum-closest" class="filter-item SelectMenu-item py-1">➤ 16. 3Sum Closest</a> <a href="#problem-12" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-12" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-17-letter-combinations-of-a-phone-number" class="filter-item SelectMenu-item py-1">➤ 17. Letter Combinations of a Phone Number</a> <a href="#problem-13" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-13" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-5" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-5" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-18-4sum" class="filter-item SelectMenu-item py-1">➤ 18. 4Sum</a> <a href="#problem-14" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-14" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-19-remove-nth-node-from-end-of-list" class="filter-item SelectMenu-item py-1">➤ 19. Remove Nth Node From End of List</a> <a href="#problem-15" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-15" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-20-valid-parentheses" class="filter-item SelectMenu-item py-1">➤ 20. Valid Parentheses</a> <a href="#problem-16" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-16" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-21-merge-two-sorted-lists" class="filter-item SelectMenu-item py-1">➤ 21. Merge Two Sorted Lists</a> <a href="#problem-17" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-17" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-22-generate-parentheses" class="filter-item SelectMenu-item py-1">➤ 22. Generate Parentheses</a> <a href="#problem-18" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-18" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-6" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-6" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-23-merge-k-sorted-lists" class="filter-item SelectMenu-item py-1">➤ 23. Merge k Sorted Lists</a> <a href="#problem-19" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-19" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-7" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-7" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#three-3" class="filter-item SelectMenu-item py-1">THREE</a> <a href="#-24-swap-nodes-in-pairs" class="filter-item SelectMenu-item py-1">➤ 24. Swap Nodes in Pairs</a> <a href="#problem-20" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-20" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-25-reverse-nodes-in-k-group" class="filter-item SelectMenu-item py-1">➤ 25. Reverse Nodes in k-Group</a> <a href="#problem-21" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-21" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-26-remove-duplicates-from-sorted-array" class="filter-item SelectMenu-item py-1">➤ 26. Remove Duplicates from Sorted Array</a> <a href="#problem-22" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-22" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-27-remove-element" class="filter-item SelectMenu-item py-1">➤ 27. Remove Element</a> <a href="#problem-23" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-23" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-29-divide-two-integers" class="filter-item SelectMenu-item py-1">➤ 29. Divide Two Integers</a> <a href="#problem-24" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-24" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-31-next-permutation" class="filter-item SelectMenu-item py-1">➤ 31. Next Permutation</a> <a href="#problem-25" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-25" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-33-search-in-rotated-sorted-array" class="filter-item SelectMenu-item py-1">➤ 33. Search in Rotated Sorted Array</a> <a href="#problem-26" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-26" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-34-find-first-and-last-position-of-element-in-sorted-array" class="filter-item SelectMenu-item py-1">➤ 34. Find First and Last Position of Element in Sorted Array</a> <a href="#problem-27" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-27" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-35-search-insert-position" class="filter-item SelectMenu-item py-1">➤ 35. Search Insert Position</a> <a href="#problem-28" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-28" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-36-valid-sudoku" class="filter-item SelectMenu-item py-1">➤ 36. Valid Sudoku</a> <a href="#problem-29" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-29" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-37-sudoku-solver" class="filter-item SelectMenu-item py-1">➤ 37. Sudoku Solver</a> <a href="#problem-30" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-30" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-38-count-and-say" class="filter-item SelectMenu-item py-1">➤ 38. Count and Say</a> <a href="#problem-31" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-31" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-8" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-8" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-39-combination-sum" class="filter-item SelectMenu-item py-1">➤ 39. Combination Sum</a> <a href="#problem-32" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-32" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-40-combination-sum-ii" class="filter-item SelectMenu-item py-1">➤ 40. Combination Sum II</a> <a href="#problem-33" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-33" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-41-first-missing-positive" class="filter-item SelectMenu-item py-1">➤ 41. First Missing Positive</a> <a href="#problem-34" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-34" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-42-trapping-rain-water" class="filter-item SelectMenu-item py-1">➤ 42. Trapping Rain Water</a> <a href="#problem-35" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-35" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-43-multiply-strings" class="filter-item SelectMenu-item py-1">➤ 43. Multiply Strings</a> <a href="#problem-36" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-36" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-45-jump-game-ii" class="filter-item SelectMenu-item py-1">➤ 45. Jump Game II</a> <a href="#problem-37" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-37" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-46-permutations" class="filter-item SelectMenu-item py-1">➤ 46. Permutations</a> <a href="#problem-38" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-38" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-47-permutations-ii" class="filter-item SelectMenu-item py-1">➤ 47. Permutations II</a> <a href="#problem-39" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-39" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-48-rotate-image" class="filter-item SelectMenu-item py-1">➤ 48. Rotate Image</a> <a href="#problem-40" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-40" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-49-group-anagrams" class="filter-item SelectMenu-item py-1">➤ 49. Group Anagrams</a> <a href="#problem-41" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-41" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-9" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-9" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-50-powx-n" class="filter-item SelectMenu-item py-1">➤ 50. Pow(x, n)</a> <a href="#problem-42" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-42" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-51-n-queens" class="filter-item SelectMenu-item py-1">➤ 51. N-Queens</a> <a href="#problem-43" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-43" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-10" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-10" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-52-n-queens-ii" class="filter-item SelectMenu-item py-1">➤ 52. N-Queens II</a> <a href="#problem-44" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-44" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-53-maximum-subarray" class="filter-item SelectMenu-item py-1">➤ 53. Maximum Subarray</a> <a href="#problem-45" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-45" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-54-spiral-matrix" class="filter-item SelectMenu-item py-1">➤ 54. Spiral Matrix</a> <a href="#problem-46" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-46" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-55-jump-game" class="filter-item SelectMenu-item py-1">➤ 55. Jump Game</a> <a href="#problem-47" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-47" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-11" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-11" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-56-merge-intervals" class="filter-item SelectMenu-item py-1">➤ 56. Merge Intervals</a> <a href="#problem-48" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-48" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-57-insert-interval" class="filter-item SelectMenu-item py-1">➤ 57. Insert Interval</a> <a href="#problem-49" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-49" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-58-length-of-last-word" class="filter-item SelectMenu-item py-1">➤ 58. Length of Last Word</a> <a href="#problem-50" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-50" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-12" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-12" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#three-4" class="filter-item SelectMenu-item py-1">THREE</a> <a href="#-59-spiral-matrix-ii" class="filter-item SelectMenu-item py-1">➤ 59. Spiral Matrix II</a> <a href="#problem-51" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-51" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-60-permutation-sequence" class="filter-item SelectMenu-item py-1">➤ 60. Permutation Sequence</a> <a href="#problem-52" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-52" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-61-rotate-list" class="filter-item SelectMenu-item py-1">➤ 61. Rotate List</a> <a href="#problem-53" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-53" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-62-unique-paths" class="filter-item SelectMenu-item py-1">➤ 62. Unique Paths</a> <a href="#problem-54" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-54" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-64-minimum-path-sum" class="filter-item SelectMenu-item py-1">➤ 64. Minimum Path Sum</a> <a href="#problem-55" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-55" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-65-valid-number" class="filter-item SelectMenu-item py-1">➤ 65. Valid Number</a> <a href="#problem-56" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-56" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-13" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-13" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#three-5" class="filter-item SelectMenu-item py-1">THREE</a> <a href="#-66-plus-one" class="filter-item SelectMenu-item py-1">➤ 66. Plus One</a> <a href="#problem-57" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-57" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-14" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-14" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-68-text-justification" class="filter-item SelectMenu-item py-1">➤ 68. Text Justification</a> <a href="#problem-58" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-58" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-69-sqrtx" class="filter-item SelectMenu-item py-1">➤ 69. Sqrt(x)</a> <a href="#problem-59" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-59" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-71-simplify-path" class="filter-item SelectMenu-item py-1">➤ 71. Simplify Path</a> <a href="#problem-60" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-60" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-15" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-15" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-72-edit-distance" class="filter-item SelectMenu-item py-1">➤ 72. Edit Distance</a> <a href="#problem-61" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-61" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-73-set-matrix-zeroes" class="filter-item SelectMenu-item py-1">➤ 73. Set Matrix Zeroes</a> <a href="#problem-62" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-62" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-16" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-16" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-74-search-a-2d-matrix" class="filter-item SelectMenu-item py-1">➤ 74. Search a 2D Matrix</a> <a href="#problem-63" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-63" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-17" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-17" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-75-sort-colors" class="filter-item SelectMenu-item py-1">➤ 75. Sort Colors</a> <a href="#problem-64" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-64" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-77-combinations" class="filter-item SelectMenu-item py-1">➤ 77. Combinations</a> <a href="#problem-65" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-65" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-78-subsets" class="filter-item SelectMenu-item py-1">➤ 78. Subsets</a> <a href="#problem-66" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-66" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-18" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-18" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-79-word-search" class="filter-item SelectMenu-item py-1">➤ 79. Word Search</a> <a href="#problem-67" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-67" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-80-remove-duplicates-from-sorted-array-ii" class="filter-item SelectMenu-item py-1">➤ 80. Remove Duplicates from Sorted Array II</a> <a href="#problem-68" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-68" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-81-search-in-rotated-sorted-array-ii" class="filter-item SelectMenu-item py-1">➤ 81. Search in Rotated Sorted Array II</a> <a href="#problem-69" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-69" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-82-remove-duplicates-from-sorted-list-ii" class="filter-item SelectMenu-item py-1">➤ 82. Remove Duplicates from Sorted List II</a> <a href="#problem-70" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-70" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-83-remove-duplicates-from-sorted-list" class="filter-item SelectMenu-item py-1">➤ 83. Remove Duplicates from Sorted List</a> <a href="#problem-71" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-71" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-19" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-19" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-84-largest-rectangle-in-histogram" class="filter-item SelectMenu-item py-1">➤ 84. Largest Rectangle in Histogram</a> <a href="#problem-72" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-72" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-85-maximal-rectangle" class="filter-item SelectMenu-item py-1">➤ 85. Maximal Rectangle</a> <a href="#problem-73" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-73" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-20" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-20" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-86-partition-list" class="filter-item SelectMenu-item py-1">➤ 86. Partition List</a> <a href="#problem-74" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-74" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-88-merge-sorted-array" class="filter-item SelectMenu-item py-1">➤ 88. Merge Sorted Array</a> <a href="#problem-75" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-75" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-89-gray-code" class="filter-item SelectMenu-item py-1">➤ 89. Gray Code</a> <a href="#problem-76" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-76" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-90-subsets-ii" class="filter-item SelectMenu-item py-1">➤ 90. Subsets II</a> <a href="#problem-77" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-77" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-91-decode-ways" class="filter-item SelectMenu-item py-1">➤ 91. Decode Ways</a> <a href="#problem-78" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-78" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-92-reverse-linked-list-ii" class="filter-item SelectMenu-item py-1">➤ 92. Reverse Linked List II</a> <a href="#problem-79" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-79" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-93-restore-ip-addresses" class="filter-item SelectMenu-item py-1">➤ 93. Restore IP Addresses</a> <a href="#problem-80" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-80" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-97-interleaving-string" class="filter-item SelectMenu-item py-1">➤ 97. Interleaving String</a> <a href="#problem-81" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-81" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-100-same-tree" class="filter-item SelectMenu-item py-1">➤ 100. Same Tree</a> <a href="#problem-82" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-82" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-101-symmetric-tree" class="filter-item SelectMenu-item py-1">➤ 101. Symmetric Tree</a> <a href="#problem-83" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-83" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-21" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-21" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-102-binary-tree-level-order-traversal" class="filter-item SelectMenu-item py-1">➤ 102. Binary Tree Level Order Traversal</a> <a href="#problem-84" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-84" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-103-binary-tree-zigzag-level-order-traversal" class="filter-item SelectMenu-item py-1">➤ 103. Binary Tree Zigzag Level Order Traversal</a> <a href="#problem-85" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-85" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-104-maximum-depth-of-binary-tree" class="filter-item SelectMenu-item py-1">➤ 104. Maximum Depth of Binary Tree</a> <a href="#problem-86" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-86" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-105-construct-binary-tree-from-preorder-and-inorder-traversal" class="filter-item SelectMenu-item py-1">➤ 105. Construct Binary Tree from Preorder and Inorder Traversal</a> <a href="#problem-87" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-87" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-106-construct-binary-tree-from-inorder-and-postorder-traversal" class="filter-item SelectMenu-item py-1">➤ 106. Construct Binary Tree from Inorder and Postorder Traversal</a> <a href="#problem-88" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-88" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-107-binary-tree-level-order-traversal-ii" class="filter-item SelectMenu-item py-1">➤ 107. Binary Tree Level Order Traversal II</a> <a href="#problem-89" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-89" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-110-balanced-binary-tree" class="filter-item SelectMenu-item py-1">➤ 110. Balanced Binary Tree</a> <a href="#problem-90" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-90" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-111-minimum-depth-of-binary-tree" class="filter-item SelectMenu-item py-1">➤ 111. Minimum Depth of Binary Tree</a> <a href="#problem-91" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-91" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-112-path-sum" class="filter-item SelectMenu-item py-1">➤ 112. Path Sum</a> <a href="#problem-92" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-92" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-113-path-sum-ii" class="filter-item SelectMenu-item py-1">➤ 113. Path Sum II</a> <a href="#problem-93" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-93" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-114-flatten-binary-tree-to-linked-list" class="filter-item SelectMenu-item py-1">➤ 114. Flatten Binary Tree to Linked List</a> <a href="#problem-94" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-94" class="filter-item SelectMenu-item py-1">Solution:</a>
+<a href="#-live-site" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Live Site</a> <a href="#admin-panels" class="filter-item SelectMenu-item py-1">Admin Panels</a> <a href="#-authorbryan-guner" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Author:Bryan Guner</a> <a href="#clones-185-to-date" class="filter-item SelectMenu-item py-1 text-emphasized">Clones: 185 to date</a> <a href="#-the-idea-behind-big-o-notation" class="filter-item SelectMenu-item py-1">➤ The idea behind big O notation</a> <a href="#how-quickly-it-grows-relative-to-the-input-as-the-input-gets-arbitrarily-large_" class="filter-item SelectMenu-item py-1">how quickly it grows relative to the input, as the input gets arbitrarily large\_.</a> <a href="#-data-structures-reference" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Data Structures Reference</a> <a href="#-array" class="filter-item SelectMenu-item py-1">➤ Array</a> <a href="#-linked-list" class="filter-item SelectMenu-item py-1">➤ Linked List</a> <a href="#-queue" class="filter-item SelectMenu-item py-1">➤ Queue</a> <a href="#-stack" class="filter-item SelectMenu-item py-1">➤ Stack</a> <a href="#-tree" class="filter-item SelectMenu-item py-1">➤ Tree</a> <a href="#-binary-search-tree" class="filter-item SelectMenu-item py-1">➤ Binary Search Tree</a> <a href="#-binary-search-tree-1" class="filter-item SelectMenu-item py-1">➤ Binary Search Tree</a> <a href="#-graph" class="filter-item SelectMenu-item py-1">➤ Graph</a> <a href="#-heap" class="filter-item SelectMenu-item py-1">➤ Heap</a> <a href="#adjacency-list" class="filter-item SelectMenu-item py-1">Adjacency list</a> <a href="#adjacency-matrix" class="filter-item SelectMenu-item py-1">Adjacency matrix</a> <a href="#-arrays" class="filter-item SelectMenu-item py-1">➤ Arrays</a> <a href="#pointers" class="filter-item SelectMenu-item py-1">Pointers</a> <a href="#-linked-lists" class="filter-item SelectMenu-item py-1">➤ Linked lists</a> <a href="#doubly-linked-lists" class="filter-item SelectMenu-item py-1">Doubly Linked Lists</a> <a href="#-not-cache-friendly" class="filter-item SelectMenu-item py-1">➤ Not cache-friendly</a> <a href="#hash-tables" class="filter-item SelectMenu-item py-1">Hash tables</a> <a href="#-breadth-first-search-bfs-and-breadth-first-traversal" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Breadth-First Search (BFS) and Breadth-First Traversal</a> <a href="#-binary-search-tree-2" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Binary Search Tree</a> <a href="#-graph-data-structure-directed-acyclic-etc" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Graph Data Structure: Directed, Acyclic, etc</a> <a href="#-binary-numbers" class="filter-item SelectMenu-item py-1">➤ Binary numbers</a> <a href="#-leetcode-patterns" class="filter-item SelectMenu-item py-1 text-emphasized">➤ Leetcode Patterns</a> <a href="#-background" class="filter-item SelectMenu-item py-1">➤ Background</a> <a href="#-preface" class="filter-item SelectMenu-item py-1">➤ Preface</a> <a href="#-notes" class="filter-item SelectMenu-item py-1">➤ Notes</a> <a href="#-tips-to-consider" class="filter-item SelectMenu-item py-1">➤ Tips to Consider</a> <a href="#-suggestions" class="filter-item SelectMenu-item py-1">➤ Suggestions</a> <a href="#-repo-directory-structure" class="filter-item SelectMenu-item py-1 text-emphasized">➤ REPO Directory Structure</a> <a href="#-2-add-two-numbers" class="filter-item SelectMenu-item py-1">➤ 2. Add Two Numbers</a> <a href="#problem" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-4-median-of-two-sorted-arrays" class="filter-item SelectMenu-item py-1">➤ 4. Median of Two Sorted Arrays</a> <a href="#problem-1" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-1" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-6-zigzag-conversion" class="filter-item SelectMenu-item py-1">➤ 6. ZigZag Conversion</a> <a href="#problem-2" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-2" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-7-reverse-integer" class="filter-item SelectMenu-item py-1">➤ 7. Reverse Integer</a> <a href="#problem-3" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-3" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-8-string-to-integer-atoi" class="filter-item SelectMenu-item py-1">➤ 8. String to Integer (atoi)</a> <a href="#problem-4" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-4" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-1" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-1" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#three" class="filter-item SelectMenu-item py-1">THREE</a> <a href="#-9-palindrome-number" class="filter-item SelectMenu-item py-1">➤ 9. Palindrome Number</a> <a href="#problem-5" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-5" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-2" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-2" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#three-1" class="filter-item SelectMenu-item py-1">THREE</a> <a href="#-10-regular-expression-matching" class="filter-item SelectMenu-item py-1">➤ 10. Regular Expression Matching</a> <a href="#problem-6" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-6" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-3" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-3" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-11-container-with-most-water" class="filter-item SelectMenu-item py-1">➤ 11. Container With Most Water</a> <a href="#problem-7" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-7" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-12-integer-to-roman" class="filter-item SelectMenu-item py-1">➤ 12. Integer to Roman</a> <a href="#problem-8" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-8" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-13-roman-to-integer" class="filter-item SelectMenu-item py-1">➤ 13. Roman to Integer</a> <a href="#problem-9" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-9" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-14-longest-common-prefix" class="filter-item SelectMenu-item py-1">➤ 14. Longest Common Prefix</a> <a href="#problem-10" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-10" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-4" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-4" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#three-2" class="filter-item SelectMenu-item py-1">THREE</a> <a href="#-15-3sum" class="filter-item SelectMenu-item py-1">➤ 15. 3Sum</a> <a href="#problem-11" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-11" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-16-3sum-closest" class="filter-item SelectMenu-item py-1">➤ 16. 3Sum Closest</a> <a href="#problem-12" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-12" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-17-letter-combinations-of-a-phone-number" class="filter-item SelectMenu-item py-1">➤ 17. Letter Combinations of a Phone Number</a> <a href="#problem-13" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-13" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-5" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-5" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-18-4sum" class="filter-item SelectMenu-item py-1">➤ 18. 4Sum</a> <a href="#problem-14" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-14" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-19-remove-nth-node-from-end-of-list" class="filter-item SelectMenu-item py-1">➤ 19. Remove Nth Node From End of List</a> <a href="#problem-15" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-15" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-20-valid-parentheses" class="filter-item SelectMenu-item py-1">➤ 20. Valid Parentheses</a> <a href="#problem-16" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-16" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-21-merge-two-sorted-lists" class="filter-item SelectMenu-item py-1">➤ 21. Merge Two Sorted Lists</a> <a href="#problem-17" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-17" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-22-generate-parentheses" class="filter-item SelectMenu-item py-1">➤ 22. Generate Parentheses</a> <a href="#problem-18" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-18" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-6" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-6" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-23-merge-k-sorted-lists" class="filter-item SelectMenu-item py-1">➤ 23. Merge k Sorted Lists</a> <a href="#problem-19" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-19" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-7" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-7" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#three-3" class="filter-item SelectMenu-item py-1">THREE</a> <a href="#-24-swap-nodes-in-pairs" class="filter-item SelectMenu-item py-1">➤ 24. Swap Nodes in Pairs</a> <a href="#problem-20" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-20" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-25-reverse-nodes-in-k-group" class="filter-item SelectMenu-item py-1">➤ 25. Reverse Nodes in k-Group</a> <a href="#problem-21" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-21" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-26-remove-duplicates-from-sorted-array" class="filter-item SelectMenu-item py-1">➤ 26. Remove Duplicates from Sorted Array</a> <a href="#problem-22" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-22" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-27-remove-element" class="filter-item SelectMenu-item py-1">➤ 27. Remove Element</a> <a href="#problem-23" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-23" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-29-divide-two-integers" class="filter-item SelectMenu-item py-1">➤ 29. Divide Two Integers</a> <a href="#problem-24" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-24" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-31-next-permutation" class="filter-item SelectMenu-item py-1">➤ 31. Next Permutation</a> <a href="#problem-25" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-25" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-33-search-in-rotated-sorted-array" class="filter-item SelectMenu-item py-1">➤ 33. Search in Rotated Sorted Array</a> <a href="#problem-26" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-26" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-34-find-first-and-last-position-of-element-in-sorted-array" class="filter-item SelectMenu-item py-1">➤ 34. Find First and Last Position of Element in Sorted Array</a> <a href="#problem-27" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-27" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-35-search-insert-position" class="filter-item SelectMenu-item py-1">➤ 35. Search Insert Position</a> <a href="#problem-28" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-28" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-36-valid-sudoku" class="filter-item SelectMenu-item py-1">➤ 36. Valid Sudoku</a> <a href="#problem-29" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-29" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-37-sudoku-solver" class="filter-item SelectMenu-item py-1">➤ 37. Sudoku Solver</a> <a href="#problem-30" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-30" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-38-count-and-say" class="filter-item SelectMenu-item py-1">➤ 38. Count and Say</a> <a href="#problem-31" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-31" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-8" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-8" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-39-combination-sum" class="filter-item SelectMenu-item py-1">➤ 39. Combination Sum</a> <a href="#problem-32" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-32" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-40-combination-sum-ii" class="filter-item SelectMenu-item py-1">➤ 40. Combination Sum II</a> <a href="#problem-33" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-33" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-41-first-missing-positive" class="filter-item SelectMenu-item py-1">➤ 41. First Missing Positive</a> <a href="#problem-34" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-34" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-42-trapping-rain-water" class="filter-item SelectMenu-item py-1">➤ 42. Trapping Rain Water</a> <a href="#problem-35" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-35" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-43-multiply-strings" class="filter-item SelectMenu-item py-1">➤ 43. Multiply Strings</a> <a href="#problem-36" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-36" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-45-jump-game-ii" class="filter-item SelectMenu-item py-1">➤ 45. Jump Game II</a> <a href="#problem-37" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-37" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-46-permutations" class="filter-item SelectMenu-item py-1">➤ 46. Permutations</a> <a href="#problem-38" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-38" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-47-permutations-ii" class="filter-item SelectMenu-item py-1">➤ 47. Permutations II</a> <a href="#problem-39" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-39" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-48-rotate-image" class="filter-item SelectMenu-item py-1">➤ 48. Rotate Image</a> <a href="#problem-40" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-40" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-49-group-anagrams" class="filter-item SelectMenu-item py-1">➤ 49. Group Anagrams</a> <a href="#problem-41" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-41" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-9" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-9" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-50-powx-n" class="filter-item SelectMenu-item py-1">➤ 50. Pow(x, n)</a> <a href="#problem-42" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-42" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-51-n-queens" class="filter-item SelectMenu-item py-1">➤ 51. N-Queens</a> <a href="#problem-43" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-43" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-10" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-10" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-52-n-queens-ii" class="filter-item SelectMenu-item py-1">➤ 52. N-Queens II</a> <a href="#problem-44" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-44" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-53-maximum-subarray" class="filter-item SelectMenu-item py-1">➤ 53. Maximum Subarray</a> <a href="#problem-45" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-45" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-54-spiral-matrix" class="filter-item SelectMenu-item py-1">➤ 54. Spiral Matrix</a> <a href="#problem-46" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-46" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-55-jump-game" class="filter-item SelectMenu-item py-1">➤ 55. Jump Game</a> <a href="#problem-47" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-47" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-11" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-11" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-56-merge-intervals" class="filter-item SelectMenu-item py-1">➤ 56. Merge Intervals</a> <a href="#problem-48" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-48" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-57-insert-interval" class="filter-item SelectMenu-item py-1">➤ 57. Insert Interval</a> <a href="#problem-49" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-49" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-58-length-of-last-word" class="filter-item SelectMenu-item py-1">➤ 58. Length of Last Word</a> <a href="#problem-50" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-50" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-12" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-12" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#three-4" class="filter-item SelectMenu-item py-1">THREE</a> <a href="#-59-spiral-matrix-ii" class="filter-item SelectMenu-item py-1">➤ 59. Spiral Matrix II</a> <a href="#problem-51" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-51" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-60-permutation-sequence" class="filter-item SelectMenu-item py-1">➤ 60. Permutation Sequence</a> <a href="#problem-52" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-52" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-61-rotate-list" class="filter-item SelectMenu-item py-1">➤ 61. Rotate List</a> <a href="#problem-53" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-53" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-62-unique-paths" class="filter-item SelectMenu-item py-1">➤ 62. Unique Paths</a> <a href="#problem-54" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-54" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-64-minimum-path-sum" class="filter-item SelectMenu-item py-1">➤ 64. Minimum Path Sum</a> <a href="#problem-55" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-55" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-65-valid-number" class="filter-item SelectMenu-item py-1">➤ 65. Valid Number</a> <a href="#problem-56" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-56" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-13" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-13" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#three-5" class="filter-item SelectMenu-item py-1">THREE</a> <a href="#-66-plus-one" class="filter-item SelectMenu-item py-1">➤ 66. Plus One</a> <a href="#problem-57" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-57" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-14" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-14" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-68-text-justification" class="filter-item SelectMenu-item py-1">➤ 68. Text Justification</a> <a href="#problem-58" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-58" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-69-sqrtx" class="filter-item SelectMenu-item py-1">➤ 69. Sqrt(x)</a> <a href="#problem-59" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-59" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-71-simplify-path" class="filter-item SelectMenu-item py-1">➤ 71. Simplify Path</a> <a href="#problem-60" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-60" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-15" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-15" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-72-edit-distance" class="filter-item SelectMenu-item py-1">➤ 72. Edit Distance</a> <a href="#problem-61" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-61" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-73-set-matrix-zeroes" class="filter-item SelectMenu-item py-1">➤ 73. Set Matrix Zeroes</a> <a href="#problem-62" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-62" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-16" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-16" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-74-search-a-2d-matrix" class="filter-item SelectMenu-item py-1">➤ 74. Search a 2D Matrix</a> <a href="#problem-63" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-63" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-17" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-17" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-75-sort-colors" class="filter-item SelectMenu-item py-1">➤ 75. Sort Colors</a> <a href="#problem-64" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-64" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-77-combinations" class="filter-item SelectMenu-item py-1">➤ 77. Combinations</a> <a href="#problem-65" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-65" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-78-subsets" class="filter-item SelectMenu-item py-1">➤ 78. Subsets</a> <a href="#problem-66" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-66" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-18" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-18" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-79-word-search" class="filter-item SelectMenu-item py-1">➤ 79. Word Search</a> <a href="#problem-67" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-67" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-80-remove-duplicates-from-sorted-array-ii" class="filter-item SelectMenu-item py-1">➤ 80. Remove Duplicates from Sorted Array II</a> <a href="#problem-68" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-68" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-81-search-in-rotated-sorted-array-ii" class="filter-item SelectMenu-item py-1">➤ 81. Search in Rotated Sorted Array II</a> <a href="#problem-69" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-69" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-82-remove-duplicates-from-sorted-list-ii" class="filter-item SelectMenu-item py-1">➤ 82. Remove Duplicates from Sorted List II</a> <a href="#problem-70" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-70" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-83-remove-duplicates-from-sorted-list" class="filter-item SelectMenu-item py-1">➤ 83. Remove Duplicates from Sorted List</a> <a href="#problem-71" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-71" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-19" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-19" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-84-largest-rectangle-in-histogram" class="filter-item SelectMenu-item py-1">➤ 84. Largest Rectangle in Histogram</a> <a href="#problem-72" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-72" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-85-maximal-rectangle" class="filter-item SelectMenu-item py-1">➤ 85. Maximal Rectangle</a> <a href="#problem-73" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-73" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-20" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-20" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-86-partition-list" class="filter-item SelectMenu-item py-1">➤ 86. Partition List</a> <a href="#problem-74" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-74" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-88-merge-sorted-array" class="filter-item SelectMenu-item py-1">➤ 88. Merge Sorted Array</a> <a href="#problem-75" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-75" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-89-gray-code" class="filter-item SelectMenu-item py-1">➤ 89. Gray Code</a> <a href="#problem-76" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-76" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-90-subsets-ii" class="filter-item SelectMenu-item py-1">➤ 90. Subsets II</a> <a href="#problem-77" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-77" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-91-decode-ways" class="filter-item SelectMenu-item py-1">➤ 91. Decode Ways</a> <a href="#problem-78" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-78" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-92-reverse-linked-list-ii" class="filter-item SelectMenu-item py-1">➤ 92. Reverse Linked List II</a> <a href="#problem-79" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-79" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-93-restore-ip-addresses" class="filter-item SelectMenu-item py-1">➤ 93. Restore IP Addresses</a> <a href="#problem-80" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-80" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-97-interleaving-string" class="filter-item SelectMenu-item py-1">➤ 97. Interleaving String</a> <a href="#problem-81" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-81" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-100-same-tree" class="filter-item SelectMenu-item py-1">➤ 100. Same Tree</a> <a href="#problem-82" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-82" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-101-symmetric-tree" class="filter-item SelectMenu-item py-1">➤ 101. Symmetric Tree</a> <a href="#problem-83" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-83" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#one-21" class="filter-item SelectMenu-item py-1">ONE</a> <a href="#two-21" class="filter-item SelectMenu-item py-1">TWO</a> <a href="#-102-binary-tree-level-order-traversal" class="filter-item SelectMenu-item py-1">➤ 102. Binary Tree Level Order Traversal</a> <a href="#problem-84" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-84" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-103-binary-tree-zigzag-level-order-traversal" class="filter-item SelectMenu-item py-1">➤ 103. Binary Tree Zigzag Level Order Traversal</a> <a href="#problem-85" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-85" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-104-maximum-depth-of-binary-tree" class="filter-item SelectMenu-item py-1">➤ 104. Maximum Depth of Binary Tree</a> <a href="#problem-86" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-86" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-105-construct-binary-tree-from-preorder-and-inorder-traversal" class="filter-item SelectMenu-item py-1">➤ 105. Construct Binary Tree from Preorder and Inorder Traversal</a> <a href="#problem-87" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-87" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-106-construct-binary-tree-from-inorder-and-postorder-traversal" class="filter-item SelectMenu-item py-1">➤ 106. Construct Binary Tree from Inorder and Postorder Traversal</a> <a href="#problem-88" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-88" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-107-binary-tree-level-order-traversal-ii" class="filter-item SelectMenu-item py-1">➤ 107. Binary Tree Level Order Traversal II</a> <a href="#problem-89" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-89" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-110-balanced-binary-tree" class="filter-item SelectMenu-item py-1">➤ 110. Balanced Binary Tree</a> <a href="#problem-90" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-90" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-111-minimum-depth-of-binary-tree" class="filter-item SelectMenu-item py-1">➤ 111. Minimum Depth of Binary Tree</a> <a href="#problem-91" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-91" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-112-path-sum" class="filter-item SelectMenu-item py-1">➤ 112. Path Sum</a> <a href="#problem-92" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-92" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-113-path-sum-ii" class="filter-item SelectMenu-item py-1">➤ 113. Path Sum II</a> <a href="#problem-93" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-93" class="filter-item SelectMenu-item py-1">Solution:</a> <a href="#-114-flatten-binary-tree-to-linked-list" class="filter-item SelectMenu-item py-1">➤ 114. Flatten Binary Tree to Linked List</a> <a href="#problem-94" class="filter-item SelectMenu-item py-1">Problem:</a> <a href="#solution-94" class="filter-item SelectMenu-item py-1">Solution:</a>
 
-<a href="#readme" class="Link--primary">README.md</a>
------------------------------------------------------
+## <a href="#readme" class="Link--primary">README.md</a>
 
-<a href="#-live-site" id="user-content--live-site" class="anchor"></a>➤ [Live Site](https://ds-algo-official.netlify.app/)
-==========================================================================================================================
+# <a href="#-live-site" id="user-content--live-site" class="anchor"></a>➤ [Live Site](https://ds-algo-official.netlify.app/)
 
 [![logo](https://avatars.githubusercontent.com/u/66654881?s=460&u=fa9d2cc45bc228dd9b7d3dee6d4653f940fab35a&v=4)](https://avatars.githubusercontent.com/u/66654881?s=460&u=fa9d2cc45bc228dd9b7d3dee6d4653f940fab35a&v=4)
 
-------------------------------------------------------------------------
+---
 
-<a href="#admin-panels" id="user-content-admin-panels" class="anchor"></a>Admin Panels
---------------------------------------------------------------------------------------
+## <a href="#admin-panels" id="user-content-admin-panels" class="anchor"></a>Admin Panels
 
-*Libraries for administrative interfaces.*
+_Libraries for administrative interfaces._
 
 [![history](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/site-resources/dsago.PNG)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/site-resources/dsago.PNG)
 
@@ -466,20 +462,17 @@ View code
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#the-idea-behind-big-o-notation)
 
-<a href="#-authorbryan-guner" id="user-content--authorbryan-guner" class="anchor"></a>➤ Author:Bryan Guner
-==========================================================================================================
+# <a href="#-authorbryan-guner" id="user-content--authorbryan-guner" class="anchor"></a>➤ Author:Bryan Guner
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#the-idea-behind-big-o-notation)
 
-<a href="#clones-185-to-date" id="user-content-clones-185-to-date" class="anchor"></a>Clones: 185 to date
-=========================================================================================================
+# <a href="#clones-185-to-date" id="user-content-clones-185-to-date" class="anchor"></a>Clones: 185 to date
 
 [![clones](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/clones.PNG)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/clones.PNG)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#the-idea-behind-big-o-notation)
 
-<a href="#-the-idea-behind-big-o-notation" id="user-content--the-idea-behind-big-o-notation" class="anchor"></a>➤ The idea behind big O notation
-------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-the-idea-behind-big-o-notation" id="user-content--the-idea-behind-big-o-notation" class="anchor"></a>➤ The idea behind big O notation
 
 **Big O notation is the language we use for talking about how long an algorithm takes to run**. It's how we compare the efficiency of different approaches to a problem.
 
@@ -489,16 +482,16 @@ With big O notation we express the runtime in terms of
 
 1.  **how quickly the runtime grows**—
 
-It's hard to pin down the *exact runtime* of an algorithm.
+It's hard to pin down the _exact runtime_ of an algorithm.
 
--   It depends on the speed of the processor,
--   what else the computer is running, etc.
+- It depends on the speed of the processor,
+- what else the computer is running, etc.
 
-So instead of talking about the runtime directly, we use big O notation to talk about *how quickly the runtime grows*.
+So instead of talking about the runtime directly, we use big O notation to talk about _how quickly the runtime grows_.
 
 1.  **relative to the input**—If we were measuring our runtime directly,
 
-we could express our speed in seconds. Since we're measuring *how quickly our runtime grows*, we need to express our speed in terms of...something else. With Big O notation, we use the size of the input, which we call "n." So we can say things like the runtime grows "on the order of the size of the input" () or "on the order of the square of the size of the input" ().
+we could express our speed in seconds. Since we're measuring _how quickly our runtime grows_, we need to express our speed in terms of...something else. With Big O notation, we use the size of the input, which we call "n." So we can say things like the runtime grows "on the order of the size of the input" () or "on the order of the square of the size of the input" ().
 
 1.  **as the input gets arbitrarily large**—
 
@@ -506,34 +499,31 @@ Our algorithm may have steps that seem expensive when n is small but are eclipse
 
     "asymptotic analysis.")
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#data-structures-reference)
 
-<a href="#-data-structures-reference" id="user-content--data-structures-reference" class="anchor"></a>➤ Data Structures Reference
-=================================================================================================================================
+# <a href="#-data-structures-reference" id="user-content--data-structures-reference" class="anchor"></a>➤ Data Structures Reference
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#array)
 
-<a href="#-array" id="user-content--array" class="anchor"></a>➤ Array
----------------------------------------------------------------------
+## <a href="#-array" id="user-content--array" class="anchor"></a>➤ Array
 
 Stores things in order. Has quick lookups by index. [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/arr1.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/arr1.png) [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/array.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/array.png)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#linked-list)
 
-<a href="#-linked-list" id="user-content--linked-list" class="anchor"></a>➤ Linked List
----------------------------------------------------------------------------------------
+## <a href="#-linked-list" id="user-content--linked-list" class="anchor"></a>➤ Linked List
 
 [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/queue.gif)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/queue.gif)
 
@@ -543,48 +533,41 @@ Also stores things in order. Faster insertions and deletions than arrays, but sl
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#queue)
 
-<a href="#-queue" id="user-content--queue" class="anchor"></a>➤ Queue
----------------------------------------------------------------------
+## <a href="#-queue" id="user-content--queue" class="anchor"></a>➤ Queue
 
 Like the line outside a busy restaurant. "First come, first served." [](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/linked-list.png) [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/queue.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/queue.png)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#stack)
 
-<a href="#-stack" id="user-content--stack" class="anchor"></a>➤ Stack
----------------------------------------------------------------------
+## <a href="#-stack" id="user-content--stack" class="anchor"></a>➤ Stack
 
 [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/stack.gif)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/stack.gif) [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/stack.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/stack.png) Like a stack of dirty plates in the sink. The first one you take off the top is the last one you put down.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#tree)
 
-<a href="#-tree" id="user-content--tree" class="anchor"></a>➤ Tree
-------------------------------------------------------------------
+## <a href="#-tree" id="user-content--tree" class="anchor"></a>➤ Tree
 
 Good for storing hierarchies. Each node can have "child" nodes. [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/tree.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/tree.png) [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/leaves-depth-height.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/leaves-depth-height.png) [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/traversals.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/traversals.png) [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/dfs.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/dfs.png) [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/pre-and-in-order-traversal.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/pre-and-in-order-traversal.png) [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/post-order.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/post-order.png)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#binary-search-tree)
 
-<a href="#-binary-search-tree" id="user-content--binary-search-tree" class="anchor"></a>➤ Binary Search Tree
-------------------------------------------------------------------------------------------------------------
+## <a href="#-binary-search-tree" id="user-content--binary-search-tree" class="anchor"></a>➤ Binary Search Tree
 
 Everything in the left subtree is smaller than the current node, everything in the right subtree is larger. lookups, but only if the tree is balanced! [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/binary-tree.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/binary-tree.png)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#binary-search-tree)
 
-<a href="#-binary-search-tree-1" id="user-content--binary-search-tree-1" class="anchor"></a>➤ Binary Search Tree
-----------------------------------------------------------------------------------------------------------------
+## <a href="#-binary-search-tree-1" id="user-content--binary-search-tree-1" class="anchor"></a>➤ Binary Search Tree
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#graph)
 
-<a href="#-graph" id="user-content--graph" class="anchor"></a>➤ Graph
----------------------------------------------------------------------
+## <a href="#-graph" id="user-content--graph" class="anchor"></a>➤ Graph
 
 Good for storing networks, geography, social relationships, etc. [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/graph.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/graph.png) [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/directed-or-undirected-cycles.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/directed-or-undirected-cycles.png) [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/weighted-or-unweighted.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/weighted-or-unweighted.png)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#heap-)
 
-<a href="#-heap" id="user-content--heap" class="anchor"></a>➤ Heap
-------------------------------------------------------------------
+## <a href="#-heap" id="user-content--heap" class="anchor"></a>➤ Heap
 
 A binary tree where the smallest value is always at the top. Use it to implement a priority queue.
 
@@ -614,28 +597,27 @@ Since node 3 has edges to nodes 1 and 2, graph\[3\]\[1\] and graph\[3\]\[2\] hav
 
 a = LinkedListNode(5) b = LinkedListNode(1) c = LinkedListNode(9) a.next = b b.next = c
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#arrays-)
 
-<a href="#-arrays" id="user-content--arrays" class="anchor"></a>➤ Arrays
-------------------------------------------------------------------------
+## <a href="#-arrays" id="user-content--arrays" class="anchor"></a>➤ Arrays
 
-Ok, so we know how to store individual numbers. Let's talk about storing *several numbers*.
+Ok, so we know how to store individual numbers. Let's talk about storing _several numbers_.
 
-That's right, things are starting to *heat up*.
+That's right, things are starting to _heat up_.
 
 Suppose we wanted to keep a count of how many bottles of kombucha we drink every day.
 
-Let's store each day's kombucha count in an 8-bit, fixed-width, unsigned integer. That should be plenty—we're not likely to get through more than 256 (2^8) bottles in a *single day*, right?
+Let's store each day's kombucha count in an 8-bit, fixed-width, unsigned integer. That should be plenty—we're not likely to get through more than 256 (2^8) bottles in a _single day_, right?
 
 And let's store the kombucha counts right next to each other in RAM, starting at memory address 0:
 
 [![A stack of RAM in which we store kombucha counts starting at index 0.](https://camo.githubusercontent.com/0842982b0a08d5e73de0922a766ed68e949580d2983dd2e439d19638614bec5b/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f61727261795f6b6f6d62756368615f636f756e74732e7376673f627573743d323039)](https://camo.githubusercontent.com/0842982b0a08d5e73de0922a766ed68e949580d2983dd2e439d19638614bec5b/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f61727261795f6b6f6d62756368615f636f756e74732e7376673f627573743d323039)
 
-Bam. That's an **array**. RAM is *basically* an array already.
+Bam. That's an **array**. RAM is _basically_ an array already.
 
-Just like with RAM, the elements of an array are numbered. We call that number the **index** of the array element (plural: indices). In *this* example, each array element's index is the same as its address in RAM.
+Just like with RAM, the elements of an array are numbered. We call that number the **index** of the array element (plural: indices). In _this_ example, each array element's index is the same as its address in RAM.
 
 But that's not usually true. Suppose another program like Spotify had already stored some information at memory address 2:
 
@@ -645,19 +627,19 @@ We'd have to start our array below it, for example at memory address 3. So index
 
 [![A column of 9 RAM slots representing an array. The row at index 2 is highlighted, and the rows at indices 3 through 7 are selected with a bracket.](https://camo.githubusercontent.com/ff5f00b8794eb8a74a1016bb42fbc922cf1659d798eeb7b6e01dfa5bd311552d/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6172726179352e7376673f627573743d323039)](https://camo.githubusercontent.com/ff5f00b8794eb8a74a1016bb42fbc922cf1659d798eeb7b6e01dfa5bd311552d/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6172726179352e7376673f627573743d323039)
 
-Suppose we wanted to get the kombucha count at index 4 in our array. How do we figure out what *address in memory* to go to? Simple math:
+Suppose we wanted to get the kombucha count at index 4 in our array. How do we figure out what _address in memory_ to go to? Simple math:
 
 Take the array's starting address (3), add the index we're looking for (4), and that's the address of the item we're looking for. 3 + 4 = 7. In general, for getting the nth item in our array:
 
 \\text{address of nth item in array} = \\text{address of array start} + n
 
-This works out nicely because the size of the addressed memory slots and the size of each kombucha count are *both* 1 byte. So a slot in our array corresponds to a slot in RAM.
+This works out nicely because the size of the addressed memory slots and the size of each kombucha count are _both_ 1 byte. So a slot in our array corresponds to a slot in RAM.
 
-But that's not always the case. In fact, it's *usually not* the case. We *usually* use *64-bit* integers.
+But that's not always the case. In fact, it's _usually not_ the case. We _usually_ use _64-bit_ integers.
 
-So how do we build an array of *64-bit* (8 byte) integers on top of our *8-bit* (1 byte) memory slots?
+So how do we build an array of _64-bit_ (8 byte) integers on top of our _8-bit_ (1 byte) memory slots?
 
-We simply give each array index *8* address slots instead of 1:
+We simply give each array index _8_ address slots instead of 1:
 
 [![A column of RAM slots representing an array of 64-bit integers. Every 8 buckets of RAM represents one integer.](https://camo.githubusercontent.com/1d8cb37d1ff0002e44d8b9bf3c5353f1a0fec924a2f39410b48cc61ed0dc1576/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f617272617936345f6c6f6e672e7376673f627573743d323039)](https://camo.githubusercontent.com/1d8cb37d1ff0002e44d8b9bf3c5353f1a0fec924a2f39410b48cc61ed0dc1576/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f617272617936345f6c6f6e672e7376673f627573743d323039)
 
@@ -665,44 +647,43 @@ So we can still use simple math to grab the start of the nth item in our array�
 
 \\text{address of nth item in array} = \\text{address of array start} + (n \* \\text{size of each item in bytes})
 
-Don't worry—adding this multiplication doesn't really slow us down. Remember: addition, subtraction, multiplication, and division of fixed-width integers takes time. So *all* the math we're using here to get the address of the nth item in the array takes time.
+Don't worry—adding this multiplication doesn't really slow us down. Remember: addition, subtraction, multiplication, and division of fixed-width integers takes time. So _all_ the math we're using here to get the address of the nth item in the array takes time.
 
-And remember how we said the memory controller has a *direct connection* to each slot in RAM? That means we can read the stuff at any given memory address in time.
+And remember how we said the memory controller has a _direct connection_ to each slot in RAM? That means we can read the stuff at any given memory address in time.
 
 [![A memory controller connected to a section of RAM.](https://camo.githubusercontent.com/7dd08d811b7b64ec7f356370ad91dfb219a173ba657d0ddafac93e28f28d0abf/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6172726179735f6e6f5f70726f636573736f725f72616d5f6d656d6f72795f636f6e74726f6c6c65722e7376673f627573743d323039)](https://camo.githubusercontent.com/7dd08d811b7b64ec7f356370ad91dfb219a173ba657d0ddafac93e28f28d0abf/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6172726179735f6e6f5f70726f636573736f725f72616d5f6d656d6f72795f636f6e74726f6c6c65722e7376673f627573743d323039)
 
 **Together, this means looking up the contents of a given array index is time.** This fast lookup capability is the most important property of arrays.
 
-But the formula we used to get the address of the nth item in our array only works *if*:
+But the formula we used to get the address of the nth item in our array only works _if_:
 
-1.  **Each item in the array is the *same size*** (takes up the same
+1.  **Each item in the array is the _same size_** (takes up the same
 
 number of bytes).
 
-1.  **The array is *uninterrupted* (contiguous) in memory**. There can't
+1.  **The array is _uninterrupted_ (contiguous) in memory**. There can't
 
 be any gaps in the array...like to "skip over" a memory slot Spotify was already using.
 
-These things make our formula for finding the nth item *work* because they make our array *predictable*. We can *predict* exactly where in memory the nth element of our array will be.
+These things make our formula for finding the nth item _work_ because they make our array _predictable_. We can _predict_ exactly where in memory the nth element of our array will be.
 
-But they also constrain what kinds of things we can put in an array. Every item has to be the same size. And if our array is going to store a *lot* of stuff, we'll need a *bunch* of uninterrupted free space in RAM. Which gets hard when most of our RAM is already occupied by other programs (like Spotify).
+But they also constrain what kinds of things we can put in an array. Every item has to be the same size. And if our array is going to store a _lot_ of stuff, we'll need a _bunch_ of uninterrupted free space in RAM. Which gets hard when most of our RAM is already occupied by other programs (like Spotify).
 
 That's the tradeoff. Arrays have fast lookups ( time), but each item in the array needs to be the same size, and you need a big block of uninterrupted free memory to store the array.
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-<a href="#pointers" id="user-content-pointers" class="anchor"></a>Pointers
---------------------------------------------------------------------------
+## <a href="#pointers" id="user-content-pointers" class="anchor"></a>Pointers
 
 Remember how we said every item in an array had to be the same size? Let's dig into that a little more.
 
-Suppose we wanted to store a bunch of ideas for baby names. Because we've got some *really* cute ones.
+Suppose we wanted to store a bunch of ideas for baby names. Because we've got some _really_ cute ones.
 
-Each name is a string. Which is really an array. And now we want to store *those arrays* in an array. *Whoa*.
+Each name is a string. Which is really an array. And now we want to store _those arrays_ in an array. _Whoa_.
 
 Now, what if our baby names have different lengths? That'd violate our rule that all the items in an array need to be the same size!
 
@@ -712,15 +693,15 @@ We could put our baby names in arbitrarily large arrays (say, 13 characters each
 
 "Wigglesworth" is a cute baby name, right?
 
-But look at all that wasted space after "Bill". And what if we wanted to store a string that was *more* than 13 characters? We'd be out of luck.
+But look at all that wasted space after "Bill". And what if we wanted to store a string that was _more_ than 13 characters? We'd be out of luck.
 
-There's a better way. Instead of storing the strings right inside our array, let's just put the strings wherever we can fit them in memory. Then we'll have each element in our array hold the *address in memory* of its corresponding string. Each address is an integer, so really our outer array is just an array of integers. We can call each of these integers a **pointer**, since it points to another spot in memory.
+There's a better way. Instead of storing the strings right inside our array, let's just put the strings wherever we can fit them in memory. Then we'll have each element in our array hold the _address in memory_ of its corresponding string. Each address is an integer, so really our outer array is just an array of integers. We can call each of these integers a **pointer**, since it points to another spot in memory.
 
 [![An array of names represented in RAM. The names are stored out of order, but an array holds the address in memory of each of name with arrows pointing from the number to the memory address.](https://camo.githubusercontent.com/d58a69cfd641d20d705b71d17ac081eb677cc3c3c3fd9686061dd6022808fde7/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f706f696e746572735f706f696e7465725f61727261792e7376673f627573743d323039)](https://camo.githubusercontent.com/d58a69cfd641d20d705b71d17ac081eb677cc3c3c3fd9686061dd6022808fde7/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f706f696e746572735f706f696e7465725f61727261792e7376673f627573743d323039)
 
 The pointers are marked with a \* at the beginning.
 
-Pretty clever, right? This fixes *both* the disadvantages of arrays:
+Pretty clever, right? This fixes _both_ the disadvantages of arrays:
 
 1.  The items don't have to be the same length—each string can be as
 
@@ -732,40 +713,39 @@ strings next to each other—we can place each of them separately, wherever ther
 
 We fixed it! No more tradeoffs. Right?
 
-Nope. Now we have a *new* tradeoff:
+Nope. Now we have a _new_ tradeoff:
 
-Remember how the memory controller sends the contents of *nearby* memory addresses to the processor with each read? And the processor caches them? So reading sequential addresses in RAM is *faster* because we can get most of those reads right from the cache?
+Remember how the memory controller sends the contents of _nearby_ memory addresses to the processor with each read? And the processor caches them? So reading sequential addresses in RAM is _faster_ because we can get most of those reads right from the cache?
 
 [![A series of caches inside of the memory controller, where the processor stores what it has recently read from RAM.](https://camo.githubusercontent.com/c4184a0473f172cef3219f2c7865ce81ebc1a7e9b5f0ae2a53b5c92c664e343c/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f72616d5f63616368652e7376673f627573743d323039)](https://camo.githubusercontent.com/c4184a0473f172cef3219f2c7865ce81ebc1a7e9b5f0ae2a53b5c92c664e343c/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f72616d5f63616368652e7376673f627573743d323039)
 
 Our original array was very **cache-friendly**, because everything was sequential. So reading from the 0th index, then the 1st index, then the 2nd, etc. got an extra speedup from the processor cache.
 
-**But the pointers in this array make it *not* cache-friendly**, because the baby names are scattered randomly around RAM. So reading from the 0th index, then the 1st index, etc. doesn't get that extra speedup from the cache.
+**But the pointers in this array make it _not_ cache-friendly**, because the baby names are scattered randomly around RAM. So reading from the 0th index, then the 1st index, etc. doesn't get that extra speedup from the cache.
 
-That's the tradeoff. This pointer-based array requires less uninterrupted memory and can accommodate elements that aren't all the same size, *but* it's *slower* because it's not cache-friendly.
+That's the tradeoff. This pointer-based array requires less uninterrupted memory and can accommodate elements that aren't all the same size, _but_ it's _slower_ because it's not cache-friendly.
 
-This slowdown isn't reflected in the big O time cost. Lookups in this pointer-based array are *still* time.
+This slowdown isn't reflected in the big O time cost. Lookups in this pointer-based array are _still_ time.
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#linked-lists-)
 
-<a href="#-linked-lists" id="user-content--linked-lists" class="anchor"></a>➤ Linked lists
-------------------------------------------------------------------------------------------
+## <a href="#-linked-lists" id="user-content--linked-lists" class="anchor"></a>➤ Linked lists
 
-Our word processor is definitely going to need fast appends—appending to the document is like the *main thing* you do with a word processor.
+Our word processor is definitely going to need fast appends—appending to the document is like the _main thing_ you do with a word processor.
 
-Can we build a data structure that can store a string, has fast appends, *and* doesn't require you to say how long the string will be ahead of time?
+Can we build a data structure that can store a string, has fast appends, _and_ doesn't require you to say how long the string will be ahead of time?
 
-Let's focus first on not having to know the length of our string ahead of time. Remember how we used *pointers* to get around length issues with our array of baby names?
+Let's focus first on not having to know the length of our string ahead of time. Remember how we used _pointers_ to get around length issues with our array of baby names?
 
 What if we pushed that idea even further?
 
-What if each *character* in our string were a *two-index array* with:
+What if each _character_ in our string were a _two-index array_ with:
 
 1.  the character itself 2. a pointer to the next character
 
@@ -777,7 +757,7 @@ Here's how we'd actually implement it in memory:
 
 [![The same linked list represented in RAM, showing the nodes scattered in memory but connected by pointers.](https://camo.githubusercontent.com/e3a4686ecfeb2c627a7fe6a3b0d0960871dbfc33341034b9f315e9c7920f8ecc/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f696e5f6d656d6f72792e7376673f627573743d323039)](https://camo.githubusercontent.com/e3a4686ecfeb2c627a7fe6a3b0d0960871dbfc33341034b9f315e9c7920f8ecc/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f696e5f6d656d6f72792e7376673f627573743d323039)
 
-Notice how we're free to store our nodes wherever we can find two open slots in memory. They don't have to be next to each other. They don't even have to be *in order*:
+Notice how we're free to store our nodes wherever we can find two open slots in memory. They don't have to be next to each other. They don't even have to be _in order_:
 
 [![The same linked list represented in RAM. This time the characters are stored out of order to show that the pointers still keep everything in place.](https://camo.githubusercontent.com/fa3b58a6b434598c6e68fc7282a6448d065e5e3a41f9b98d2438ebf0873501f4/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f696e5f6d656d6f72795f6f75745f6f665f6f726465722e7376673f627573743d323039)](https://camo.githubusercontent.com/fa3b58a6b434598c6e68fc7282a6448d065e5e3a41f9b98d2438ebf0873501f4/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f696e5f6d656d6f72795f6f75745f6f665f6f726465722e7376673f627573743d323039)
 
@@ -785,7 +765,7 @@ Notice how we're free to store our nodes wherever we can find two open slots in 
 
 The first node of a linked list is called the **head**, and the last node is usually called the **tail**.
 
-Confusingly, some people prefer to use "tail" to refer to *everything after the head* of a linked list. In an interview it's fine to use either definition. Briefly say which definition you're using, just to be clear.
+Confusingly, some people prefer to use "tail" to refer to _everything after the head_ of a linked list. In an interview it's fine to use either definition. Briefly say which definition you're using, just to be clear.
 
 It's important to have a pointer variable referencing the head of the list—otherwise we'd be unable to find our way back to the start of the list!
 
@@ -793,7 +773,7 @@ We'll also sometimes keep a pointer to the tail. That comes in handy when we wan
 
 Suppose we had the string "LOG" stored in a linked list:
 
-[![A linked list with head and tail pointers storing the word "LOG." The \*head points to the first character "L, " and the tail points to the last letter "G."](https://camo.githubusercontent.com/9b6d17c1b51626b326c5bb71ca4119973d95693cb5c63bfb79fad46a58cd130b/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e672e7376673f627573743d323039)](https://camo.githubusercontent.com/9b6d17c1b51626b326c5bb71ca4119973d95693cb5c63bfb79fad46a58cd130b/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e672e7376673f627573743d323039)
+[![A linked list with head and tail pointers storing the word "LOG." The *head points to the first character "L, " and the tail points to the last letter "G."](https://camo.githubusercontent.com/9b6d17c1b51626b326c5bb71ca4119973d95693cb5c63bfb79fad46a58cd130b/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e672e7376673f627573743d323039)](https://camo.githubusercontent.com/9b6d17c1b51626b326c5bb71ca4119973d95693cb5c63bfb79fad46a58cd130b/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e672e7376673f627573743d323039)
 
 Suppose we wanted to add an "S" to the end, to make it "LOGS". How would we do that?
 
@@ -805,29 +785,29 @@ And tweak some pointers:
 
 ​1. Grab the last letter, which is "G". Our tail pointer lets us do this in time.
 
-[![A linked list with head and tail pointers storing the word "LOG." The \*tail pointer and the character "G" are bolded.](https://camo.githubusercontent.com/84de492765f2ea4d8641f38c23fb7cf32c0c5472a6d2e71d295781555978388c/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f67735f737472696e675f677261625f6c6173745f6c65747465722e7376673f627573743d323039)](https://camo.githubusercontent.com/84de492765f2ea4d8641f38c23fb7cf32c0c5472a6d2e71d295781555978388c/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f67735f737472696e675f677261625f6c6173745f6c65747465722e7376673f627573743d323039)
+[![A linked list with head and tail pointers storing the word "LOG." The *tail pointer and the character "G" are bolded.](https://camo.githubusercontent.com/84de492765f2ea4d8641f38c23fb7cf32c0c5472a6d2e71d295781555978388c/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f67735f737472696e675f677261625f6c6173745f6c65747465722e7376673f627573743d323039)](https://camo.githubusercontent.com/84de492765f2ea4d8641f38c23fb7cf32c0c5472a6d2e71d295781555978388c/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f67735f737472696e675f677261625f6c6173745f6c65747465722e7376673f627573743d323039)
 
 ​2. Point the last letter's next to the letter we're appending ("S").
 
-[![A linked list with head and tail pointers storing the word "LOG." The "G"'s \*next pointer is bolded and pointing to the appended "S".](https://camo.githubusercontent.com/61200c2f701a755b841a615429b3704b44556bff034a1e811420d2f124ab382d/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f67735f737472696e675f706f696e745f6e6578742e7376673f627573743d323039)](https://camo.githubusercontent.com/61200c2f701a755b841a615429b3704b44556bff034a1e811420d2f124ab382d/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f67735f737472696e675f706f696e745f6e6578742e7376673f627573743d323039)
+[![A linked list with head and tail pointers storing the word "LOG." The "G"'s *next pointer is bolded and pointing to the appended "S".](https://camo.githubusercontent.com/61200c2f701a755b841a615429b3704b44556bff034a1e811420d2f124ab382d/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f67735f737472696e675f706f696e745f6e6578742e7376673f627573743d323039)](https://camo.githubusercontent.com/61200c2f701a755b841a615429b3704b44556bff034a1e811420d2f124ab382d/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f67735f737472696e675f706f696e745f6e6578742e7376673f627573743d323039)
 
-​3. Update the tail pointer to point to our *new* last letter, "S".
+​3. Update the tail pointer to point to our _new_ last letter, "S".
 
-[![A linked list with head and tail pointers storing the word "LOGS." The \*tail pointer is now pointed to the new last letter: "S".](https://camo.githubusercontent.com/f9294609834c6c588810cb6915978dd3c484295eb485cc9abb469f0775b79018/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f67735f737472696e675f747765616b5f706f696e746572732e7376673f627573743d323039)](https://camo.githubusercontent.com/f9294609834c6c588810cb6915978dd3c484295eb485cc9abb469f0775b79018/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f67735f737472696e675f747765616b5f706f696e746572732e7376673f627573743d323039)
+[![A linked list with head and tail pointers storing the word "LOGS." The *tail pointer is now pointed to the new last letter: "S".](https://camo.githubusercontent.com/f9294609834c6c588810cb6915978dd3c484295eb485cc9abb469f0775b79018/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f67735f737472696e675f747765616b5f706f696e746572732e7376673f627573743d323039)](https://camo.githubusercontent.com/f9294609834c6c588810cb6915978dd3c484295eb485cc9abb469f0775b79018/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f67735f737472696e675f747765616b5f706f696e746572732e7376673f627573743d323039)
 
 That's time.
 
 Why is it time? Because the runtime doesn't get bigger if the string gets bigger. No matter how many characters are in our string, we still just have to tweak a couple pointers for any append.
 
-Now, what if instead of a linked list, our string had been a *dynamic array*? We might not have any room at the end, forcing us to do one of those doubling operations to make space:
+Now, what if instead of a linked list, our string had been a _dynamic array_? We might not have any room at the end, forcing us to do one of those doubling operations to make space:
 
 [![A dynamic array containing the word "LOG" going through a doubling operation to make space for an appended letter.](https://camo.githubusercontent.com/9967d444fb646ba399faa461af6876626f19a3d7306643f6bc49b99b3194abc7/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e675f646f75626c65645f61727261792e7376673f627573743d323039)](https://camo.githubusercontent.com/9967d444fb646ba399faa461af6876626f19a3d7306643f6bc49b99b3194abc7/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e675f646f75626c65645f61727261792e7376673f627573743d323039)
 
-So with a dynamic array, our append would have a *worst-case* time cost of .
+So with a dynamic array, our append would have a _worst-case_ time cost of .
 
 **Linked lists have worst-case -time appends, which is better than the worst-case time of dynamic arrays.**
 
-That *worst-case* part is important. The *average case* runtime for appends to linked lists and dynamic arrays is the same: .
+That _worst-case_ part is important. The _average case_ runtime for appends to linked lists and dynamic arrays is the same: .
 
 Now, what if we wanted to *pre*pend something to our string? Let's say we wanted to put a "B" at the beginning.
 
@@ -839,11 +819,11 @@ And tweak some pointers:
 
 1.  Point "B"'s next to "L". 2. Point the head to "B".
 
-[![A linked list with head and tail pointers storing the word "LOGS." The "B"'s \*next pointer is bolded and pointing to the letter "L, " and the \*head pointer is bolded and pointing to the prepended letter "B".](https://camo.githubusercontent.com/fc239d6711fdaf7e69ee9bfcbea3d6816031f1eb11a962a35a8a9a14a9b42828/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f626c6f67735f737472696e675f747765616b5f706f696e746572732e7376673f627573743d323039)](https://camo.githubusercontent.com/fc239d6711fdaf7e69ee9bfcbea3d6816031f1eb11a962a35a8a9a14a9b42828/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f626c6f67735f737472696e675f747765616b5f706f696e746572732e7376673f627573743d323039)
+[![A linked list with head and tail pointers storing the word "LOGS." The "B"'s *next pointer is bolded and pointing to the letter "L, " and the *head pointer is bolded and pointing to the prepended letter "B".](https://camo.githubusercontent.com/fc239d6711fdaf7e69ee9bfcbea3d6816031f1eb11a962a35a8a9a14a9b42828/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f626c6f67735f737472696e675f747765616b5f706f696e746572732e7376673f627573743d323039)](https://camo.githubusercontent.com/fc239d6711fdaf7e69ee9bfcbea3d6816031f1eb11a962a35a8a9a14a9b42828/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f626c6f67735f737472696e675f747765616b5f706f696e746572732e7376673f627573743d323039)
 
 Bam. time again.
 
-But if our string were a *dynamic array*...
+But if our string were a _dynamic array_...
 
 [![A dynamic array storing the string "LOGS."](https://camo.githubusercontent.com/0583d5aefcdfa75602ea231e0bc42bc2f263b1fa54265e88a1b0fe44947382e1/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e675f64796e616d69635f61727261792e7376673f627573743d323039)](https://camo.githubusercontent.com/0583d5aefcdfa75602ea231e0bc42bc2f263b1fa54265e88a1b0fe44947382e1/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e675f64796e616d69635f61727261792e7376673f627573743d323039)
 
@@ -851,9 +831,9 @@ And we wanted to add in that "B":
 
 [![A dynamic array storing the string "LOGS." A bolded "B" is added above the array.](https://camo.githubusercontent.com/cc824a5a1f7cd8a194819e6b172ad36cb23c321bfef877e6bc88b2a382a923be/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e675f64796e616d69635f61727261795f6164645f622e7376673f627573743d323039)](https://camo.githubusercontent.com/cc824a5a1f7cd8a194819e6b172ad36cb23c321bfef877e6bc88b2a382a923be/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e675f64796e616d69635f61727261795f6164645f622e7376673f627573743d323039)
 
-Eep. We have to *make room* for the "B"!
+Eep. We have to _make room_ for the "B"!
 
-We have to move *each character* one space down:
+We have to move _each character_ one space down:
 
 [![A dynamic array storing the string "LOGS" with the letter "B" floating above. The "S" is bolded with an arrow attached showing how the character is being moved one index up.](https://camo.githubusercontent.com/46b1e104239588fd065af4931494074fa1d373392678a347bb1247a4d7a3cd4b/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e675f64796e616d69635f61727261795f6d6f76655f732e7376673f627573743d323039)](https://camo.githubusercontent.com/46b1e104239588fd065af4931494074fa1d373392678a347bb1247a4d7a3cd4b/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e675f64796e616d69635f61727261795f6d6f76655f732e7376673f627573743d323039)
 
@@ -863,53 +843,51 @@ We have to move *each character* one space down:
 
 [![A dynamic array storing the string "LOGS" with the letter "B" floating above. The "L" is bolded with an arrow attached showing how the character is being moved one index up.](https://camo.githubusercontent.com/3aa73362d6d44a18a267c31f3d29cac4b6a264503a0481de2d9e8c5d94f62fe0/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e675f64796e616d69635f61727261795f6d6f76655f6c2e7376673f627573743d323039)](https://camo.githubusercontent.com/3aa73362d6d44a18a267c31f3d29cac4b6a264503a0481de2d9e8c5d94f62fe0/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e675f64796e616d69635f61727261795f6d6f76655f6c2e7376673f627573743d323039)
 
-*Now* we can drop the "B" in there:
+_Now_ we can drop the "B" in there:
 
 [![A dynamic array storing the string "LOGS" with the letter "B" floating above. The "B" is bolded with an arrow attached showing how the character is now being placed in the first index.](https://camo.githubusercontent.com/31dcea1e415df6f7206ae2ed86427eb86d2abfb4158ae9de6c9db07e7462a3a1/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e675f64796e616d69635f61727261795f63686172735f6d6f7665642e7376673f627573743d323039)](https://camo.githubusercontent.com/31dcea1e415df6f7206ae2ed86427eb86d2abfb4158ae9de6c9db07e7462a3a1/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f6c696e6b65645f6c697374735f6c6f675f737472696e675f64796e616d69635f61727261795f63686172735f6d6f7665642e7376673f627573743d323039)
 
 What's our time cost here?
 
-It's all in the step where we made room for the first letter. We had to move *all n* characters in our string. One at a time. That's time.
+It's all in the step where we made room for the first letter. We had to move _all n_ characters in our string. One at a time. That's time.
 
 **So linked lists have faster *pre*pends ( time) than dynamic arrays ( time).**
 
-No "worst case" caveat this time—prepends for dynamic arrays are *always* time. And prepends for linked lists are *always* time.
+No "worst case" caveat this time—prepends for dynamic arrays are _always_ time. And prepends for linked lists are _always_ time.
 
 These quick appends and prepends for linked lists come from the fact that linked list nodes can go anywhere in memory. They don't have to sit right next to each other the way items in an array do.
 
-So if linked lists are so great, why do we usually store strings in an array? **Because [arrays have -time lookups](#constant-time-array-lookups).** And those constant-time lookups *come from* the fact that all the array elements are lined up next to each other in memory.
+So if linked lists are so great, why do we usually store strings in an array? **Because [arrays have -time lookups](#constant-time-array-lookups).** And those constant-time lookups _come from_ the fact that all the array elements are lined up next to each other in memory.
 
 Lookups with a linked list are more of a process, because we have no way of knowing where the ith node is in memory. So we have to walk through the linked list node by node, counting as we go, until we hit the ith item.
 
-def get\_ith\_item\_in\_linked\_list(head, i): if i &lt; 0: raise ValueError("i can't be negative: %d" % i) current\_node = head current\_position = 0 while current\_node: if current\_position == i: \# Found it! return current\_node \# Move on to the next node current\_node = current\_node.next current\_position += 1 raise ValueError('List has fewer than i + 1 (%d) nodes' % (i + 1))
+def get_ith_item_in_linked_list(head, i): if i &lt; 0: raise ValueError("i can't be negative: %d" % i) current_node = head current_position = 0 while current_node: if current_position == i: \# Found it! return current_node \# Move on to the next node current_node = current_node.next current_position += 1 raise ValueError('List has fewer than i + 1 (%d) nodes' % (i + 1))
 
 That's i + 1 steps down our linked list to get to the ith node (we made our function zero-based to match indices in arrays). **So linked lists have -time lookups.** Much slower than the -time lookups for arrays and dynamic arrays.
 
-Not only that—**walking down a linked list is *not* cache-friendly.** Because the next node could be *anywhere* in memory, we don't get any benefit from the processor cache. This means lookups in a linked list are even slower.
+Not only that—**walking down a linked list is _not_ cache-friendly.** Because the next node could be _anywhere_ in memory, we don't get any benefit from the processor cache. This means lookups in a linked list are even slower.
 
-So the tradeoff with linked lists is they have faster prepends and faster appends than dynamic arrays, *but* they have slower lookups.
+So the tradeoff with linked lists is they have faster prepends and faster appends than dynamic arrays, _but_ they have slower lookups.
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-<a href="#doubly-linked-lists" id="user-content-doubly-linked-lists" class="anchor"></a>Doubly Linked Lists
------------------------------------------------------------------------------------------------------------
+## <a href="#doubly-linked-lists" id="user-content-doubly-linked-lists" class="anchor"></a>Doubly Linked Lists
 
 In a basic linked list, each item stores a single pointer to the next element.
 
-In a **doubly linked list**, items have pointers to the next *and the previous* nodes.
+In a **doubly linked list**, items have pointers to the next _and the previous_ nodes.
 
 [![A doubly-linked list with 3 nodes. The first node has value 5 with a "next" arrow pointing ahead to the second node and a "previous" arrow pointing back to "None." The second node has value 1 with a "next" arrow pointing ahead to the third node and a "previous" arrow pointing back to the first node. The third node has value 9 with a "next" arrow pointing ahead to "None" and a "previous" arrow pointing back to the second node.](https://camo.githubusercontent.com/d5cd02a71e0d1fc305d94ada8de8eb16b291608804d121e2441638e585a0cb6d/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f6c696e6b65645f6c6973745f5f646f75626c795f6c696e6b65645f6e6f6465735f616e645f706f696e746572732e7376673f627573743d323039)](https://camo.githubusercontent.com/d5cd02a71e0d1fc305d94ada8de8eb16b291608804d121e2441638e585a0cb6d/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f6c696e6b65645f6c6973745f5f646f75626c795f6c696e6b65645f6e6f6465735f616e645f706f696e746572732e7376673f627573743d323039)
 
-Doubly linked lists allow us to traverse our list *backwards*. In a *singly* linked list, if you just had a pointer to a node in the *middle* of a list, there would be *no way* to know what nodes came before it. Not a problem in a doubly linked list.
+Doubly linked lists allow us to traverse our list _backwards_. In a _singly_ linked list, if you just had a pointer to a node in the _middle_ of a list, there would be _no way_ to know what nodes came before it. Not a problem in a doubly linked list.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#not-cache-friendly-)
 
-<a href="#-not-cache-friendly" id="user-content--not-cache-friendly" class="anchor"></a>➤ Not cache-friendly
-------------------------------------------------------------------------------------------------------------
+## <a href="#-not-cache-friendly" id="user-content--not-cache-friendly" class="anchor"></a>➤ Not cache-friendly
 
 Most computers have [caching systems that make reading from sequential addresses in memory faster than reading from scattered addresses](https://www.interviewcake.com/article/data-structures-coding-interview#ram).
 
@@ -917,14 +895,13 @@ Most computers have [caching systems that make reading from sequential addresses
 
 So iterating through a linked list is usually quite a bit slower than iterating through the items in an array, even though they're both theoretically time.
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-<a href="#hash-tables" id="user-content-hash-tables" class="anchor"></a>Hash tables
------------------------------------------------------------------------------------
+## <a href="#hash-tables" id="user-content-hash-tables" class="anchor"></a>Hash tables
 
 Quick lookups are often really important. For that reason, we tend to use arrays (-time lookups) much more often than linked lists (-time lookups).
 
@@ -932,21 +909,21 @@ For example, suppose we wanted to count how many times each ASCII character appe
 
 We can use arrays in a clever way here. Remember—characters are just numbers. In ASCII (a common character encoding) 'A' is 65, 'B' is 66, etc.
 
-So we can use the character('s number value) as the *index* in our array, and store the *count* for that character *at that index* in the array:
+So we can use the character('s number value) as the _index_ in our array, and store the _count_ for that character _at that index_ in the array:
 
 [![An array showing indices 63 through 68. To the left of the indices are the ASCII characters that correspond to the numeric indices with arrows pointing from each character to its corresponding number.](https://camo.githubusercontent.com/afe147833e4a1ae945c4c8f9d2b0f0d838500d7c595534079e4bae5630777385/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f686173685f7461626c65735f63686172735f746f5f696e74732e7376673f627573743d323039)](https://camo.githubusercontent.com/afe147833e4a1ae945c4c8f9d2b0f0d838500d7c595534079e4bae5630777385/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f686173685f7461626c65735f63686172735f746f5f696e74732e7376673f627573743d323039)
 
 With this array, we can look up (and edit) the count for any character in constant time. Because we can access any index in our array in constant time.
 
-Something interesting is happening here—this array isn't just a list of values. This array is storing *two* things: characters and counts. The characters are *implied* by the indices.
+Something interesting is happening here—this array isn't just a list of values. This array is storing _two_ things: characters and counts. The characters are _implied_ by the indices.
 
-**So we can think of an array as a *table* with *two columns*...except you don't really get to pick the values in one column (the indices)—they're always 0, 1, 2, 3, etc.**
+**So we can think of an array as a _table_ with _two columns_...except you don't really get to pick the values in one column (the indices)—they're always 0, 1, 2, 3, etc.**
 
-But what if we wanted to put *any* value in that column and still get quick lookups?
+But what if we wanted to put _any_ value in that column and still get quick lookups?
 
-Suppose we wanted to count the number of times each *word* appears in Romeo and Juliet. Can we adapt our array?
+Suppose we wanted to count the number of times each _word_ appears in Romeo and Juliet. Can we adapt our array?
 
-Translating a *character* into an array index was easy. But we'll have to do something more clever to translate a *word* (a string) into an array index...
+Translating a _character_ into an array index was easy. But we'll have to do something more clever to translate a _word_ (a string) into an array index...
 
 [![A blank array except for the value 20 stored at index 9. To the left the array is the word "lies" with an arrow pointing to the right at diamond with a question mark in the middle. The diamond points to the 9th index of the array.](https://camo.githubusercontent.com/1f45bfe15eda23debcd0867768cf65e2befe4b5b7f620884aeb6f3cb493051a3/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f686173685f7461626c65735f6c6965735f6b65795f756e6c6162656c65642e7376673f627573743d323039)](https://camo.githubusercontent.com/1f45bfe15eda23debcd0867768cf65e2befe4b5b7f620884aeb6f3cb493051a3/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f686173685f7461626c65735f6c6965735f6b65795f756e6c6162656c65642e7376673f627573743d323039)
 
@@ -956,13 +933,13 @@ Grab the number value for each character and add those up.
 
 [![The word "lies" in quotes. Arrows point from each character down to their corresponding number values, which are separated by plus signs and shown in sum to equal 429.](https://camo.githubusercontent.com/4f635bb2822403306414139d89aecfd5ca78a2572fce075557bf45710a1f6769/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f686173685f7461626c65735f6c6965735f63686172732e7376673f627573743d323039)](https://camo.githubusercontent.com/4f635bb2822403306414139d89aecfd5ca78a2572fce075557bf45710a1f6769/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f686173685f7461626c65735f6c6965735f63686172732e7376673f627573743d323039)
 
-The result is 429. But what if we only have *30* slots in our array? We'll use a common trick for forcing a number into a specific range: the modulus operator (%). Modding our sum by 30 ensures we get a whole number that's less than 30 (and at least 0):
+The result is 429. But what if we only have _30_ slots in our array? We'll use a common trick for forcing a number into a specific range: the modulus operator (%). Modding our sum by 30 ensures we get a whole number that's less than 30 (and at least 0):
 
 429 \\: \\% \\: 30 = 9
 
 Bam. That'll get us from a word (or any string) to an array index.
 
-This data structure is called a **hash table** or **hash map**. In our hash table, the *counts* are the **values** and the *words* ("lies, " etc.) are the **keys** (analogous to the *indices* in an array). The process we used to translate a key into an array index is called a **hashing function**.
+This data structure is called a **hash table** or **hash map**. In our hash table, the _counts_ are the **values** and the _words_ ("lies, " etc.) are the **keys** (analogous to the _indices_ in an array). The process we used to translate a key into an array index is called a **hashing function**.
 
 !\[A blank array except for a 20, labeled as the value, stored at index
 
@@ -986,24 +963,23 @@ They both sum up to 429! So of course they'll have the same answer when we mod b
 
 So our hashing function gives us the same answer for "lies" and "foes." This is called a **hash collision**. There are a few different strategies for dealing with them.
 
-Here's a common one: instead of storing the actual values in our array, let's have each array slot hold a *pointer* to a *linked list* holding the counts for all the words that hash to that index:
+Here's a common one: instead of storing the actual values in our array, let's have each array slot hold a _pointer_ to a _linked list_ holding the counts for all the words that hash to that index:
 
 [![An array storing pointers. Three of the pointers have arrows pointing to linked lists to the right of the array.](https://camo.githubusercontent.com/fe75f5999c101386fdb86654b4406b3bc41ed753fad95ea211981d62e332069f/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f686173685f7461626c65735f686173685f636f6c6c6973696f6e2e7376673f627573743d323039)](https://camo.githubusercontent.com/fe75f5999c101386fdb86654b4406b3bc41ed753fad95ea211981d62e332069f/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f686173685f7461626c65735f686173685f636f6c6c6973696f6e2e7376673f627573743d323039)
 
-One problem—how do we know which count is for "lies" and which is for "foes"? To fix this, we'll store the *word* as well as the count in each linked list node:
+One problem—how do we know which count is for "lies" and which is for "foes"? To fix this, we'll store the _word_ as well as the count in each linked list node:
 
 [![An array storing pointers. The pointer at index 9 has an arrow pointing to a linked list to the right of the array. Each linked list node now stores the word as well as its count and a pointer.](https://camo.githubusercontent.com/25e57af79d055e51086b8fba5c94672923c349765e78db25488f59622d394a20/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f686173685f7461626c65735f686173685f636f6c6c6973696f6e5f6b65795f76616c2e7376673f627573743d323039)](https://camo.githubusercontent.com/25e57af79d055e51086b8fba5c94672923c349765e78db25488f59622d394a20/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f686173685f7461626c65735f686173685f636f6c6c6973696f6e5f6b65795f76616c2e7376673f627573743d323039)
 
-"But wait!" you may be thinking, "Now lookups in our hash table take time in the worst case, since we have to walk down a linked list." That's true! You could even say that in the worst case *every* key creates a hash collision, so our whole hash table *degrades to a linked list*.
+"But wait!" you may be thinking, "Now lookups in our hash table take time in the worst case, since we have to walk down a linked list." That's true! You could even say that in the worst case _every_ key creates a hash collision, so our whole hash table _degrades to a linked list_.
 
-In industry though, we usually wave our hands and say **collisions are rare enough that on *average* lookups in a hash table are time**. And there are fancy algorithms that keep the number of collisions low and keep the lengths of our linked lists nice and short.
+In industry though, we usually wave our hands and say **collisions are rare enough that on _average_ lookups in a hash table are time**. And there are fancy algorithms that keep the number of collisions low and keep the lengths of our linked lists nice and short.
 
-But that's sort of the tradeoff with hash tables. You get fast lookups by key...except *some* lookups could be slow. And of course, you only get those fast lookups in one direction—looking up the *key* for a given *value* still takes time. ------ --- &lt;==(------------------------------------------------------------------------------------------------------)==&gt; --- ------
+But that's sort of the tradeoff with hash tables. You get fast lookups by key...except _some_ lookups could be slow. And of course, you only get those fast lookups in one direction—looking up the _key_ for a given _value_ still takes time. ------ --- &lt;==(------------------------------------------------------------------------------------------------------)==&gt; --- ------
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#breadth-first-search-bfs-and-breadth-first-traversal-)
 
-<a href="#-breadth-first-search-bfs-and-breadth-first-traversal" id="user-content--breadth-first-search-bfs-and-breadth-first-traversal" class="anchor"></a>➤ Breadth-First Search (BFS) and Breadth-First Traversal
-====================================================================================================================================================================================================================
+# <a href="#-breadth-first-search-bfs-and-breadth-first-traversal" id="user-content--breadth-first-search-bfs-and-breadth-first-traversal" class="anchor"></a>➤ Breadth-First Search (BFS) and Breadth-First Traversal
 
 **Breadth-first search** (BFS) is a method for exploring a tree or graph. In a BFS, you first explore all the nodes one step away, then all the nodes two steps away, etc.
 
@@ -1017,7 +993,7 @@ We'd visit all the immediate children (all the nodes that're one step away from 
 
 [![The same 4-row binary tree with all nodes at depth 1 (second row) bolded after being visited.](https://camo.githubusercontent.com/15469a940c5c0787cc1a942993dab35fc99e54992bc3a4951c22fa9326e8062c/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f627265616474685f66697273745f7365617263685f66697273745f6c6576656c2e7376673f627573743d323039)](https://camo.githubusercontent.com/15469a940c5c0787cc1a942993dab35fc99e54992bc3a4951c22fa9326e8062c/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f627265616474685f66697273745f7365617263685f66697273745f6c6576656c2e7376673f627573743d323039)
 
-Then we'd move on to all *those* nodes' children (all the nodes that're *two steps* away from our starting node):
+Then we'd move on to all _those_ nodes' children (all the nodes that're _two steps_ away from our starting node):
 
 [![The same 4-row binary tree with all nodes at depth 2 (third row) bolded after being visited.](https://camo.githubusercontent.com/5ebc0a5755affc49cfa80bb54f8d0154191bff84ca34cf780105be614c836b63/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f627265616474685f66697273745f7365617263685f7365636f6e645f6c6576656c2e7376673f627573743d323039)](https://camo.githubusercontent.com/5ebc0a5755affc49cfa80bb54f8d0154191bff84ca34cf780105be614c836b63/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f627265616474685f66697273745f7365617263685f7365636f6e645f6c6576656c2e7376673f627573743d323039)
 
@@ -1031,22 +1007,21 @@ Breadth-first search is often compared with **depth-first search**.
 
 Advantages:
 
--   A BFS will find the **shortest path** between the starting point and
+- A BFS will find the **shortest path** between the starting point and
 
 any other reachable node. A depth-first search will not necessarily find the shortest path.
 
 Disadvantages
 
--   A BFS on a binary tree *generally* requires more memory than a DFS.
+- A BFS on a binary tree _generally_ requires more memory than a DFS.
 
 [![A binary search tree with nodes containing integers. The root node contains the integer 50. Each child node to the left of the root contains integers less than 50, and each child node to the right of the root contains integers greater than 50.](https://camo.githubusercontent.com/ac7da87f0da4973201059efccf65151ff8f8283bcf39f5f35ec667ceab25431d/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f62696e6172795f7365617263685f747265655f5f707265766965772e7376673f627573743d323039)](https://camo.githubusercontent.com/ac7da87f0da4973201059efccf65151ff8f8283bcf39f5f35ec667ceab25431d/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f62696e6172795f7365617263685f747265655f5f707265766965772e7376673f627573743d323039)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#binary-search-tree-)
 
-<a href="#-binary-search-tree-2" id="user-content--binary-search-tree-2" class="anchor"></a>➤ Binary Search Tree
-================================================================================================================
+# <a href="#-binary-search-tree-2" id="user-content--binary-search-tree-2" class="anchor"></a>➤ Binary Search Tree
 
-A **binary tree** is a **tree** where &lt;==(***every node has two or fewer children***)==&gt;. The children are usually called ***left*** and ***right***.
+A **binary tree** is a **tree** where &lt;==(**_every node has two or fewer children_**)==&gt;. The children are usually called **_left_** and **_right_**.
 
 class BinaryTreeNode(object):
 
@@ -1062,9 +1037,9 @@ Binary trees have a few interesting properties when they're perfect:
 
 [![A binary tree with 5 rows of nodes. The root node is on top, and every node has 2 children in the row below. Each row is labelled with the number of nodes in the row, which doubles from the top down: 1, 2, 4, 8, 16.](https://camo.githubusercontent.com/3a4ef3cfc0b2aac25474918d5a0712a3023163932a28aaff287f1ba56b3b9f2e/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f62696e6172795f747265655f5f64657074685f355f776974685f6e756d6265725f6f665f6e6f6465735f6c6162656c6c65642e7376673f627573743d323039)](https://camo.githubusercontent.com/3a4ef3cfc0b2aac25474918d5a0712a3023163932a28aaff287f1ba56b3b9f2e/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f62696e6172795f747265655f5f64657074685f355f776974685f6e756d6265725f6f665f6e6f6465735f6c6162656c6c65642e7376673f627573743d323039)
 
-**Property 2: the number of nodes on the last level is equal to the sum of the number of nodes on all other levels (plus 1).** In other words, about *half* of our nodes are on the last level.
+**Property 2: the number of nodes on the last level is equal to the sum of the number of nodes on all other levels (plus 1).** In other words, about _half_ of our nodes are on the last level.
 
-&lt;==(*\*\*Let's call the number of nodes n, \*\**)==&gt;
+&lt;==(\*\*\*Let's call the number of nodes n, \*\*\*)==&gt;
 
 &lt;==(\*\*\_\*\*and the height of the tree h. **\_**)==&gt;
 
@@ -1083,7 +1058,7 @@ If we zero-index the levels, the number of nodes on the xth level is exactly 2^x
 
 4.  1.  Level 3: 2^3 nodes,
 
-5.  1.  *etc*
+5.  1.  _etc_
 
 So our total number of nodes is:
 
@@ -1093,9 +1068,9 @@ Why only up to 2^{h-1}?
 
 Notice that we **started counting our levels at 0.**
 
--   So if we have h levels in total,
--   the last level is actually the "h-1"-th level.
--   That means the number of nodes on the last level is 2^{h-1}.
+- So if we have h levels in total,
+- the last level is actually the "h-1"-th level.
+- That means the number of nodes on the last level is 2^{h-1}.
 
 But we can simplify.
 
@@ -1103,9 +1078,9 @@ But we can simplify.
 
 **so we can just take the number of nodes on the last level, multiply it by 2, and subtract 1 to get the number of nodes overall**.
 
--   We know the number of nodes on the last level is 2^{h-1},
+- We know the number of nodes on the last level is 2^{h-1},
 
--   So:
+- So:
 
 **n = 2^{h-1} \* 2 - 1 n = 2^{h-1} \* 2^1 - 1 n = 2^{h-1+1}- 1 n = 2^{h} - 1**
 
@@ -1131,21 +1106,19 @@ because .
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#graph-data-structure-directed-acyclic-etc-)
 
-<a href="#-graph-data-structure-directed-acyclic-etc" id="user-content--graph-data-structure-directed-acyclic-etc" class="anchor"></a>➤ Graph Data Structure: Directed, Acyclic, etc
-====================================================================================================================================================================================
+# <a href="#-graph-data-structure-directed-acyclic-etc" id="user-content--graph-data-structure-directed-acyclic-etc" class="anchor"></a>➤ Graph Data Structure: Directed, Acyclic, etc
 
 Graph ===== [![](https://github.com/bgoonz/DS-ALGO-OFFICIAL/raw/master/graph-md.png)](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/graph-md.png)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#binary-numbers-)
 
-<a href="#-binary-numbers" id="user-content--binary-numbers" class="anchor"></a>➤ Binary numbers
-------------------------------------------------------------------------------------------------
+## <a href="#-binary-numbers" id="user-content--binary-numbers" class="anchor"></a>➤ Binary numbers
 
 Let's put those bits to use. Let's store some stuff. Starting with numbers.
 
-The number system we usually use (the one you probably learned in elementary school) is called **base 10**, because each digit has *ten* possible values (1, 2, 3, 4, 5, 6, 7, 8, 9, and 0).
+The number system we usually use (the one you probably learned in elementary school) is called **base 10**, because each digit has _ten_ possible values (1, 2, 3, 4, 5, 6, 7, 8, 9, and 0).
 
-But computers don't have digits with ten possible values. They have *bits* with *two* possible values. So they use **base 2** numbers.
+But computers don't have digits with ten possible values. They have _bits_ with _two_ possible values. So they use **base 2** numbers.
 
 Base 10 is also called **decimal**. Base 2 is also called **binary**.
 
@@ -1153,7 +1126,7 @@ To understand binary, let's take a closer look at how decimal numbers work. Take
 
 [![In base 10, the digits 101 represent 1 hundred, 0 tens, and 1 one.](https://camo.githubusercontent.com/18fa9cf2bf08f69db930a50b8e0e7fedbc397630c98b5cc1577b2c8aeaae578b/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f62696e6172795f6e756d626572735f626173655f31305f3130312e7376673f627573743d323039)](https://camo.githubusercontent.com/18fa9cf2bf08f69db930a50b8e0e7fedbc397630c98b5cc1577b2c8aeaae578b/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f62696e6172795f6e756d626572735f626173655f31305f3130312e7376673f627573743d323039)
 
-Notice we have two "1"s here, but they don't *mean* the same thing. The leftmost "1" *means* 100, and the rightmost "1" *means* 1. That's because the leftmost "1" is in the hundreds place, while the rightmost "1" is in the ones place. And the "0" between them is in the tens place.
+Notice we have two "1"s here, but they don't _mean_ the same thing. The leftmost "1" _means_ 100, and the rightmost "1" _means_ 1. That's because the leftmost "1" is in the hundreds place, while the rightmost "1" is in the ones place. And the "0" between them is in the tens place.
 
 [![In base 10, the digits 101 represent 1 hundred, 0 tens, and 1 one.](https://camo.githubusercontent.com/9e88c8ec2d7557480f68d670f50595f178e707919f0f5f1d0f7eb53a98becdba/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f62696e6172795f6e756d626572735f626173655f31305f6469676974732e7376673f627573743d323039)](https://camo.githubusercontent.com/9e88c8ec2d7557480f68d670f50595f178e707919f0f5f1d0f7eb53a98becdba/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f62696e6172795f6e756d626572735f626173655f31305f6469676974732e7376673f627573743d323039)
 
@@ -1161,15 +1134,15 @@ Notice we have two "1"s here, but they don't *mean* the same thing. The leftmost
 
 [![In base 10, the digits 101 represent 1 hundred, 0 tens, and 1 one, which add to give the value one hundred and one.](https://camo.githubusercontent.com/34c4759e7b22a2bf361a54bc04a0c996ee02654079d8c85b780a02877944c0ab/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f62696e6172795f6e756d626572735f626173655f31302e7376673f627573743d323039)](https://camo.githubusercontent.com/34c4759e7b22a2bf361a54bc04a0c996ee02654079d8c85b780a02877944c0ab/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f62696e6172795f6e756d626572735f626173655f31302e7376673f627573743d323039)
 
-Notice how the *places* in base 10 (ones place, tens place, hundreds place, etc.) are *sequential powers of 10*:
+Notice how the _places_ in base 10 (ones place, tens place, hundreds place, etc.) are _sequential powers of 10_:
 
--   10^0=1 \_ 10^1=10 \_ 10^2=100 \_ 10^3=1000 \_ etc.
+- 10^0=1 \_ 10^1=10 \_ 10^2=100 \_ 10^3=1000 \_ etc.
 
-**The places in *binary* (base 2) are sequential powers of *2*:**
+**The places in _binary_ (base 2) are sequential powers of _2_:**
 
--   2^0=1 \_ 2^1=2 \_ 2^2=4 \_ 2^3=8 \_ etc.
+- 2^0=1 \_ 2^1=2 \_ 2^2=4 \_ 2^3=8 \_ etc.
 
-So let's take that same "101" but this time let's read it as a *binary* number:
+So let's take that same "101" but this time let's read it as a _binary_ number:
 
 [![In base 2, the digits 101 represent 1 four, 0 twos, and 1 one.](https://camo.githubusercontent.com/44367758058e5514a1c1f33f884f7cce532d51662bac1f3083e8daeebb84502a/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f62696e6172795f6e756d626572735f626173655f325f6469676974732e7376673f627573743d323039)](https://camo.githubusercontent.com/44367758058e5514a1c1f33f884f7cce532d51662bac1f3083e8daeebb84502a/68747470733a2f2f7777772e696e7465727669657763616b652e636f6d2f696d616765732f737667732f63735f666f725f6861636b6572735f5f62696e6172795f6e756d626572735f626173655f325f6469676974732e7376673f627573743d323039)
 
@@ -1179,13 +1152,11 @@ Reading this from right to left: we have a 1 in the ones place, a 0 in the twos 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#leetcode-patterns)
 
-<a href="#-leetcode-patterns" id="user-content--leetcode-patterns" class="anchor"></a>➤ Leetcode Patterns
-=========================================================================================================
+# <a href="#-leetcode-patterns" id="user-content--leetcode-patterns" class="anchor"></a>➤ Leetcode Patterns
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#background)
 
-<a href="#-background" id="user-content--background" class="anchor"></a>➤ Background
-------------------------------------------------------------------------------------
+## <a href="#-background" id="user-content--background" class="anchor"></a>➤ Background
 
 This repo is intended for any individual wanting to improve their problem solving skills for software engineering interviews.
 
@@ -1195,36 +1166,33 @@ All questions are available on \[leetcode.com\] with some requiring \[leetcode p
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#preface)
 
-<a href="#-preface" id="user-content--preface" class="anchor"></a>➤ Preface
----------------------------------------------------------------------------
+## <a href="#-preface" id="user-content--preface" class="anchor"></a>➤ Preface
 
 It is highly recommended to read chapters 1, 2, 3, 4, 8, and 10 of \[Cracking The Coding Interview\] to familiarize yourself with the following data structures and their operations:
 
--   Arrays
--   Maps
--   Linked Lists
--   Queues
--   Heaps
--   Stacks
--   Trees
--   Graphs
+- Arrays
+- Maps
+- Linked Lists
+- Queues
+- Heaps
+- Stacks
+- Trees
+- Graphs
 
 In addition, you should have a good grasp on common algorithms such as:
 
--   Breadth-first search
--   Depth-first search
--   Binary search
--   Recursion
+- Breadth-first search
+- Depth-first search
+- Binary search
+- Recursion
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#notes)
 
-<a href="#-notes" id="user-content--notes" class="anchor"></a>➤ Notes
----------------------------------------------------------------------
+## <a href="#-notes" id="user-content--notes" class="anchor"></a>➤ Notes
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#tips-to-consider)
 
-<a href="#-tips-to-consider" id="user-content--tips-to-consider" class="anchor"></a>➤ Tips to Consider
-------------------------------------------------------------------------------------------------------
+## <a href="#-tips-to-consider" id="user-content--tips-to-consider" class="anchor"></a>➤ Tips to Consider
 
     If input array is sorted then
         - Binary search
@@ -1263,15 +1231,13 @@ In addition, you should have a good grasp on common algorithms such as:
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#suggestions)
 
-<a href="#-suggestions" id="user-content--suggestions" class="anchor"></a>➤ Suggestions
----------------------------------------------------------------------------------------
+## <a href="#-suggestions" id="user-content--suggestions" class="anchor"></a>➤ Suggestions
 
 Think a question should/shouldn't be included? Wish there was another feature?
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#repo-directory-structure)
 
-<a href="#-repo-directory-structure" id="user-content--repo-directory-structure" class="anchor"></a>➤ REPO Directory Structure
-==============================================================================================================================
+# <a href="#-repo-directory-structure" id="user-content--repo-directory-structure" class="anchor"></a>➤ REPO Directory Structure
 
     .
     ├── CONTAINER
@@ -1885,12 +1851,11 @@ Think a question should/shouldn't be included? Wish there was another feature?
     │   │   │   │   ├── __test__
     │   │   │ 
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#2-add-two-numbershttpsleetcodecomproblemsadd-two-numbersdescription)
 
-<a href="#-2-add-two-numbers" id="user-content--2-add-two-numbers" class="anchor"></a>➤ [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-2-add-two-numbers" id="user-content--2-add-two-numbers" class="anchor"></a>➤ [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 
 ### <a href="#problem" id="user-content-problem" class="anchor"></a>Problem:
 
@@ -1942,16 +1907,15 @@ Mind the last carry.
       return prehead.next
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "Array": <https://leetcode.com/tag/array> "Binary Search": <https://leetcode.com/tag/binary-search> "Divide and Conquer": <https://leetcode.com/tag/divide-and-conquer>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#4-median-of-two-sorted-arrayshttpsleetcodecomproblemsmedian-of-two-sorted-arraysdescription)
 
-<a href="#-4-median-of-two-sorted-arrays" id="user-content--4-median-of-two-sorted-arrays" class="anchor"></a>➤ [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-4-median-of-two-sorted-arrays" id="user-content--4-median-of-two-sorted-arrays" class="anchor"></a>➤ [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
 ### <a href="#problem-1" id="user-content-problem-1" class="anchor"></a>Problem:
 
@@ -1989,9 +1953,9 @@ Let `i + j = k`, if we find `nums2[j-1] <= nums1[i] <= nums2[j]` or `nums1[i-1] 
 
 Otherwise, if `nums1[i] <= nums2[j]` then we know `nums1[i] < nums2[j-1]` (because we did not find `k`).
 
--   There are `i` items before `nums1[i]`, and `j-1` items brefor `nums2[j-1]`, which means `nums1[0...i]` are before `nums3[i+j-1]`. So we now know `nums1[0...i] < nums3[k]`. They can be safely discarded.
+- There are `i` items before `nums1[i]`, and `j-1` items brefor `nums2[j-1]`, which means `nums1[0...i]` are before `nums3[i+j-1]`. So we now know `nums1[0...i] < nums3[k]`. They can be safely discarded.
 
--   We Also have `nums1[i] < nums2[j]`, which means `nums2[j...n)` are after `nums3[i+j]`. So `nums2[j...n) > nums3[k]`.
+- We Also have `nums1[i] < nums2[j]`, which means `nums2[j...n)` are after `nums3[i+j]`. So `nums2[j...n) > nums3[k]`.
 
 Same goes `nums1[i-1] <= nums2[j] <= nums1[i]`.
 
@@ -2047,16 +2011,15 @@ Same goes `nums1[i-1] <= nums2[j] <= nums1[i]`.
       }
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "String": <https://leetcode.com/tag/string>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#6-zigzag-conversionhttpsleetcodecomproblemszigzag-conversiondescription)
 
-<a href="#-6-zigzag-conversion" id="user-content--6-zigzag-conversion" class="anchor"></a>➤ [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-6-zigzag-conversion" id="user-content--6-zigzag-conversion" class="anchor"></a>➤ [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
 
 ### <a href="#problem-2" id="user-content-problem-2" class="anchor"></a>Problem:
 
@@ -2160,16 +2123,15 @@ If row == 1 or row == numRows, skip the odd columns.
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Math": <https://leetcode.com/tag/math> Similar Questions: "String to Integer (atoi)": <https://leetcode.com/problems/string-to-integer-atoi>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#7-reverse-integerhttpsleetcodecomproblemsreverse-integerdescription)
 
-<a href="#-7-reverse-integer" id="user-content--7-reverse-integer" class="anchor"></a>➤ [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-7-reverse-integer" id="user-content--7-reverse-integer" class="anchor"></a>➤ [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 
 ### <a href="#problem-3" id="user-content-problem-3" class="anchor"></a>Problem:
 
@@ -2227,16 +2189,15 @@ Pure mathamatical solution.
       return Math.abs(result) > 2147483647 ? 0 : result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Math": <https://leetcode.com/tag/math> "String": <https://leetcode.com/tag/string> Similar Questions: "Reverse Integer": <https://leetcode.com/problems/reverse-integer> "Valid Number": <https://leetcode.com/problems/valid-number>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#8-string-to-integer-atoihttpsleetcodecomproblemsstring-to-integer-atoidescription)
 
-<a href="#-8-string-to-integer-atoi" id="user-content--8-string-to-integer-atoi" class="anchor"></a>➤ [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-8-string-to-integer-atoi" id="user-content--8-string-to-integer-atoi" class="anchor"></a>➤ [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
 
 ### <a href="#problem-4" id="user-content-problem-4" class="anchor"></a>Problem:
 
@@ -2252,7 +2213,7 @@ If no valid conversion could be performed, a zero value is returned.
 
 **Note:**
 
-Only the space character `' '` is considered as whitespace character. Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: \[−231,  231 − 1\]. If the numerical value is out of the range of representable values, INT\_MAX (231 − 1) or INT\_MIN (−231) is returned.
+Only the space character `' '` is considered as whitespace character. Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: \[−231,  231 − 1\]. If the numerical value is out of the range of representable values, INT_MAX (231 − 1) or INT_MIN (−231) is returned.
 
 **Example 1:**
 
@@ -2356,16 +2317,15 @@ General solution.
       return Math.min(2147483647, Math.max(-2147483648, result * sign));
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Math": <https://leetcode.com/tag/math> Similar Questions: "Palindrome Linked List": <https://leetcode.com/problems/palindrome-linked-list>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#9-palindrome-numberhttpsleetcodecomproblemspalindrome-numberdescription)
 
-<a href="#-9-palindrome-number" id="user-content--9-palindrome-number" class="anchor"></a>➤ [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-9-palindrome-number" id="user-content--9-palindrome-number" class="anchor"></a>➤ [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 
 ### <a href="#problem-5" id="user-content-problem-5" class="anchor"></a>Problem:
 
@@ -2452,16 +2412,15 @@ General solution. Combining [7. Reverse Integer](https://github.com/bgoonz/DS-AL
       return result;
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "String": <https://leetcode.com/tag/string> "Dynamic Programming": <https://leetcode.com/tag/dynamic-programming> "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "Wildcard Matching": <https://leetcode.com/problems/wildcard-matching>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#10-regular-expression-matchinghttpsleetcodecomproblemsregular-expression-matchingdescription)
 
-<a href="#-10-regular-expression-matching" id="user-content--10-regular-expression-matching" class="anchor"></a>➤ [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-10-regular-expression-matching" id="user-content--10-regular-expression-matching" class="anchor"></a>➤ [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 
 ### <a href="#problem-6" id="user-content-problem-6" class="anchor"></a>Problem:
 
@@ -2589,16 +2548,15 @@ Let f(i, j) be the matching result of s\[0...i) and p\[0...j).
       return !!dp[s.length][p.length];
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Two Pointers": <https://leetcode.com/tag/two-pointers> Similar Questions: "Trapping Rain Water": <https://leetcode.com/problems/trapping-rain-water>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#11-container-with-most-waterhttpsleetcodecomproblemscontainer-with-most-waterdescription)
 
-<a href="#-11-container-with-most-water" id="user-content--11-container-with-most-water" class="anchor"></a>➤ [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-11-container-with-most-water" id="user-content--11-container-with-most-water" class="anchor"></a>➤ [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 
 ### <a href="#problem-7" id="user-content-problem-7" class="anchor"></a>Problem:
 
@@ -2639,16 +2597,15 @@ What if `height[l] == height[r]`? It is safe to get rid of both. We do not need 
       return max;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Math": <https://leetcode.com/tag/math> "String": <https://leetcode.com/tag/string> Similar Questions: "Roman to Integer": <https://leetcode.com/problems/roman-to-integer> "Integer to English Words": <https://leetcode.com/problems/integer-to-english-words>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#12-integer-to-romanhttpsleetcodecomproblemsinteger-to-romandescription)
 
-<a href="#-12-integer-to-roman" id="user-content--12-integer-to-roman" class="anchor"></a>➤ [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-12-integer-to-roman" id="user-content--12-integer-to-roman" class="anchor"></a>➤ [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)
 
 ### <a href="#problem-8" id="user-content-problem-8" class="anchor"></a>Problem:
 
@@ -2667,9 +2624,9 @@ For example, two is written as `II` in Roman numeral, just two one's added tog
 
 Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not `IIII`. Instead, the number four is written as `IV`. Because the one is before the five we subtract it making four. The same principle applies to the number nine, which is written as `IX`. There are six instances where subtraction is used:
 
--   `I` can be placed before `V` (5) and `X` (10) to make 4 and 9.
--   `X` can be placed before `L` (50) and `C` (100) to make 40 and 90.
--   `C` can be placed before `D` (500) and `M` (1000) to make 400 and 900.
+- `I` can be placed before `V` (5) and `X` (10) to make 4 and 9.
+- `X` can be placed before `L` (50) and `C` (100) to make 40 and 90.
+- `C` can be placed before `D` (500) and `M` (1000) to make 400 and 900.
 
 Given an integer, convert it to a roman numeral. Input is guaranteed to be within the range from 1 to 3999.
 
@@ -2738,16 +2695,15 @@ Treat 4, 40, 400 and 9, 90, 900 specially.
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Math": <https://leetcode.com/tag/math> "String": <https://leetcode.com/tag/string> Similar Questions: "Integer to Roman": <https://leetcode.com/problems/integer-to-roman>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#13-roman-to-integerhttpsleetcodecomproblemsroman-to-integerdescription)
 
-<a href="#-13-roman-to-integer" id="user-content--13-roman-to-integer" class="anchor"></a>➤ [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-13-roman-to-integer" id="user-content--13-roman-to-integer" class="anchor"></a>➤ [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 
 ### <a href="#problem-9" id="user-content-problem-9" class="anchor"></a>Problem:
 
@@ -2766,9 +2722,9 @@ For example, two is written as `II` in Roman numeral, just two one's added tog
 
 Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not `IIII`. Instead, the number four is written as `IV`. Because the one is before the five we subtract it making four. The same principle applies to the number nine, which is written as `IX`. There are six instances where subtraction is used:
 
--   `I` can be placed before `V` (5) and `X` (10) to make 4 and 9.
--   `X` can be placed before `L` (50) and `C` (100) to make 40 and 90.
--   `C` can be placed before `D` (500) and `M` (1000) to make 400 and 900.
+- `I` can be placed before `V` (5) and `X` (10) to make 4 and 9.
+- `X` can be placed before `L` (50) and `C` (100) to make 40 and 90.
+- `C` can be placed before `D` (500) and `M` (1000) to make 400 and 900.
 
 Given a roman numeral, convert it to an integer. Input is guaranteed to be within the range from 1 to 3999.
 
@@ -2827,16 +2783,15 @@ Normally we just add up the digits, except when the digit is greater than its le
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "String": <https://leetcode.com/tag/string>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#14-longest-common-prefixhttpsleetcodecomproblemslongest-common-prefixdescription)
 
-<a href="#-14-longest-common-prefix" id="user-content--14-longest-common-prefix" class="anchor"></a>➤ [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-14-longest-common-prefix" id="user-content--14-longest-common-prefix" class="anchor"></a>➤ [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 
 ### <a href="#problem-10" id="user-content-problem-10" class="anchor"></a>Problem:
 
@@ -2928,20 +2883,19 @@ General solution. Build up the prefix.
       return prefix;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Two Pointers": <https://leetcode.com/tag/two-pointers> Similar Questions: "Two Sum": <https://leetcode.com/problems/two-sum> "3Sum Closest": <https://leetcode.com/problems/3sum-closest> "4Sum": <https://leetcode.com/problems/4sum> "3Sum Smaller": <https://leetcode.com/problems/3sum-smaller>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#15-3sumhttpsleetcodecomproblems3sumdescription)
 
-<a href="#-15-3sum" id="user-content--15-3sum" class="anchor"></a>➤ [15. 3Sum](https://leetcode.com/problems/3sum/description/)
--------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-15-3sum" id="user-content--15-3sum" class="anchor"></a>➤ [15. 3Sum](https://leetcode.com/problems/3sum/description/)
 
 ### <a href="#problem-11" id="user-content-problem-11" class="anchor"></a>Problem:
 
-Given an array `nums` of *n* integers, are there elements *a*, *b*, *c* in `nums` such that *a* + *b* + *c* = 0? Find all unique triplets in the array which gives the sum of zero.
+Given an array `nums` of _n_ integers, are there elements _a_, _b_, _c_ in `nums` such that _a_ + _b_ + _c_ = 0? Find all unique triplets in the array which gives the sum of zero.
 
 **Note:**
 
@@ -2967,8 +2921,8 @@ From i = `0` to `len(sorted) - 2`, pick `sorted[i]` as the first number of a pos
 
 Let `l = i + 1`, `r = len(sorted) - 1`, we want to narrow them down to enumerate all possible combinations.
 
--   `l++` if `sorted[i] + sorted[l] + sorted[r] > 0`.
--   `r--` if `sorted[i] + sorted[l] + sorted[r] < 0`.
+- `l++` if `sorted[i] + sorted[l] + sorted[r] > 0`.
+- `r--` if `sorted[i] + sorted[l] + sorted[r] < 0`.
 
 Skip any duplicate number as we iterate to avoid duplicate triplets.
 
@@ -3013,20 +2967,19 @@ Skip any duplicate number as we iterate to avoid duplicate triplets.
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Two Pointers": <https://leetcode.com/tag/two-pointers> Similar Questions: "3Sum": <https://leetcode.com/problems/3sum> "3Sum Smaller": <https://leetcode.com/problems/3sum-smaller>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#16-3sum-closesthttpsleetcodecomproblems3sum-closestdescription)
 
-<a href="#-16-3sum-closest" id="user-content--16-3sum-closest" class="anchor"></a>➤ [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-16-3sum-closest" id="user-content--16-3sum-closest" class="anchor"></a>➤ [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)
 
 ### <a href="#problem-12" id="user-content-problem-12" class="anchor"></a>Problem:
 
-Given an array `nums` of *n* integers and an integer `target`, find three integers in `nums` such that the sum is closest to `target`. Return the sum of the three integers. You may assume that each input would have exactly one solution.
+Given an array `nums` of _n_ integers and an integer `target`, find three integers in `nums` such that the sum is closest to `target`. Return the sum of the three integers. You may assume that each input would have exactly one solution.
 
 **Example:**
 
@@ -3077,16 +3030,15 @@ Simplified version of [15. 3Sum](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob
       return target - minDiff;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "String": <https://leetcode.com/tag/string> "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "Generate Parentheses": <https://leetcode.com/problems/generate-parentheses> "Combination Sum": <https://leetcode.com/problems/combination-sum> "Binary Watch": <https://leetcode.com/problems/binary-watch>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#17-letter-combinations-of-a-phone-numberhttpsleetcodecomproblemsletter-combinations-of-a-phone-numberdescription)
 
-<a href="#-17-letter-combinations-of-a-phone-number" id="user-content--17-letter-combinations-of-a-phone-number" class="anchor"></a>➤ [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-17-letter-combinations-of-a-phone-number" id="user-content--17-letter-combinations-of-a-phone-number" class="anchor"></a>➤ [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 
 ### <a href="#problem-13" id="user-content-problem-13" class="anchor"></a>Problem:
 
@@ -3188,20 +3140,19 @@ General recursive DFS solution.
       }
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Hash Table": <https://leetcode.com/tag/hash-table> "Two Pointers": <https://leetcode.com/tag/two-pointers> Similar Questions: "Two Sum": <https://leetcode.com/problems/two-sum> "3Sum": <https://leetcode.com/problems/3sum> "4Sum II": <https://leetcode.com/problems/4sum-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#18-4sumhttpsleetcodecomproblems4sumdescription)
 
-<a href="#-18-4sum" id="user-content--18-4sum" class="anchor"></a>➤ [18. 4Sum](https://leetcode.com/problems/4sum/description/)
--------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-18-4sum" id="user-content--18-4sum" class="anchor"></a>➤ [18. 4Sum](https://leetcode.com/problems/4sum/description/)
 
 ### <a href="#problem-14" id="user-content-problem-14" class="anchor"></a>Problem:
 
-Given an array `nums` of *n* integers and an integer `target`, are there elements *a*, *b*, *c*, and *d* in `nums` such that *a* + *b* + *c* + *d* = `target`? Find all unique quadruplets in the array which gives the sum of `target`.
+Given an array `nums` of _n_ integers and an integer `target`, are there elements _a_, _b_, _c_, and _d_ in `nums` such that _a_ + _b_ + _c_ + _d_ = `target`? Find all unique quadruplets in the array which gives the sum of `target`.
 
 **Note:**
 
@@ -3264,20 +3215,19 @@ Like [15. 3Sum](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/015.%203S
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Linked List": <https://leetcode.com/tag/linked-list> "Two Pointers": <https://leetcode.com/tag/two-pointers>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#19-remove-nth-node-from-end-of-listhttpsleetcodecomproblemsremove-nth-node-from-end-of-listdescription)
 
-<a href="#-19-remove-nth-node-from-end-of-list" id="user-content--19-remove-nth-node-from-end-of-list" class="anchor"></a>➤ [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-19-remove-nth-node-from-end-of-list" id="user-content--19-remove-nth-node-from-end-of-list" class="anchor"></a>➤ [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 
 ### <a href="#problem-15" id="user-content-problem-15" class="anchor"></a>Problem:
 
-Given a linked list, remove the *n*-th node from the end of list and return its head.
+Given a linked list, remove the _n_-th node from the end of list and return its head.
 
 **Example:**
 
@@ -3287,7 +3237,7 @@ Given a linked list, remove the *n*-th node from the end of list and return its 
 
 **Note:**
 
-Given *n* will always be valid.
+Given _n_ will always be valid.
 
 **Follow up:**
 
@@ -3299,53 +3249,53 @@ Set a pointer `p1` for iterating, and `p2` which is `n` nodes behind, pointing a
 
 Boundaries that should be awared of:
 
--   `p2` could be one node before `head`, which means the `head` should be removed.
--   `p2` could be larger than the length of the list (Though the description says `n` will always be valid, we take care of it anyway).
--   It should be `p1.next` touches the end rather than `p1` because we want `p1` pointing at the last node.
+- `p2` could be one node before `head`, which means the `head` should be removed.
+- `p2` could be larger than the length of the list (Though the description says `n` will always be valid, we take care of it anyway).
+- It should be `p1.next` touches the end rather than `p1` because we want `p1` pointing at the last node.
 
-    /**
-     * Definition for singly-linked list.
-     * function ListNode(val) {
-     *     this.val = val;
-     *     this.next = null;
-     * }
-     */
-    /**
-     * @param {ListNode} head
-     * @param {number} n
-     * @return {ListNode}
-     */
+  /\*\*
+
+  - Definition for singly-linked list.
+  - function ListNode(val) {
+  -     this.val = val;
+  -     this.next = null;
+  - }
+    \*/
+    /\*\*
+  - @param {ListNode} head
+  - @param {number} n
+  - @return {ListNode}
+    \*/
     let removeNthFromEnd = function (head, n) {
-      let p1 = head;
-      while (p1 && n--) {
-        p1 = p1.next;
-      }
+    let p1 = head;
+    while (p1 && n--) {
+    p1 = p1.next;
+    }
 
-      if (!p1) {
-        return n ? head : head.next;
-      }
+  if (!p1) {
+  return n ? head : head.next;
+  }
 
-      let p2 = head;
-      while (p1.next) {
-        p1 = p1.next;
-        p2 = p2.next;
-      }
+  let p2 = head;
+  while (p1.next) {
+  p1 = p1.next;
+  p2 = p2.next;
+  }
 
-      p2.next = p2.next.next;
+  p2.next = p2.next.next;
 
-      return head;
-    };
+  return head;
+  };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "String": <https://leetcode.com/tag/string> "Stack": <https://leetcode.com/tag/stack> Similar Questions: "Generate Parentheses": <https://leetcode.com/problems/generate-parentheses> "Longest Valid Parentheses": <https://leetcode.com/problems/longest-valid-parentheses> "Remove Invalid Parentheses": <https://leetcode.com/problems/remove-invalid-parentheses>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#20-valid-parentheseshttpsleetcodecomproblemsvalid-parenthesesdescription)
 
-<a href="#-20-valid-parentheses" id="user-content--20-valid-parentheses" class="anchor"></a>➤ [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-20-valid-parentheses" id="user-content--20-valid-parentheses" class="anchor"></a>➤ [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 
 ### <a href="#problem-16" id="user-content-problem-16" class="anchor"></a>Problem:
 
@@ -3417,16 +3367,15 @@ And since there is only bracket characters, the last open bracket happens to be 
       return stack.length <= 0;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Linked List": <https://leetcode.com/tag/linked-list> Similar Questions: "Merge k Sorted Lists": <https://leetcode.com/problems/merge-k-sorted-lists> "Merge Sorted Array": <https://leetcode.com/problems/merge-sorted-array> "Sort List": <https://leetcode.com/problems/sort-list> "Shortest Word Distance II": <https://leetcode.com/problems/shortest-word-distance-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#21-merge-two-sorted-listshttpsleetcodecomproblemsmerge-two-sorted-listsdescription)
 
-<a href="#-21-merge-two-sorted-lists" id="user-content--21-merge-two-sorted-lists" class="anchor"></a>➤ [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-21-merge-two-sorted-lists" id="user-content--21-merge-two-sorted-lists" class="anchor"></a>➤ [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
 ### <a href="#problem-17" id="user-content-problem-17" class="anchor"></a>Problem:
 
@@ -3476,16 +3425,15 @@ Keep tracking the head of two lists and keep moving the pointer of smaller one t
       return prehead.next;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "String": <https://leetcode.com/tag/string> "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "Letter Combinations of a Phone Number": <https://leetcode.com/problems/letter-combinations-of-a-phone-number> "Valid Parentheses": <https://leetcode.com/problems/valid-parentheses>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#22-generate-parentheseshttpsleetcodecomproblemsgenerate-parenthesesdescription)
 
-<a href="#-22-generate-parentheses" id="user-content--22-generate-parentheses" class="anchor"></a>➤ [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-22-generate-parentheses" id="user-content--22-generate-parentheses" class="anchor"></a>➤ [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
 
 ### <a href="#problem-18" id="user-content-problem-18" class="anchor"></a>Problem:
 
@@ -3576,20 +3524,19 @@ BFS.
       return queue.map((x) => x.path);
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "Linked List": <https://leetcode.com/tag/linked-list> "Divide and Conquer": <https://leetcode.com/tag/divide-and-conquer> "Heap": <https://leetcode.com/tag/heap> Similar Questions: "Merge Two Sorted Lists": <https://leetcode.com/problems/merge-two-sorted-lists> "Ugly Number II": <https://leetcode.com/problems/ugly-number-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#23-merge-k-sorted-listshttpsleetcodecomproblemsmerge-k-sorted-listsdescription)
 
-<a href="#-23-merge-k-sorted-lists" id="user-content--23-merge-k-sorted-lists" class="anchor"></a>➤ [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-23-merge-k-sorted-lists" id="user-content--23-merge-k-sorted-lists" class="anchor"></a>➤ [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 
 ### <a href="#problem-19" id="user-content-problem-19" class="anchor"></a>Problem:
 
-Merge *k* sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
+Merge _k_ sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
 
 **Example:**
 
@@ -3674,16 +3621,15 @@ Divide N lists into ceil(N/2) pairs and merge your way up.
       return prehead.next;
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Linked List": <https://leetcode.com/tag/linked-list> Similar Questions: "Reverse Nodes in k-Group": <https://leetcode.com/problems/reverse-nodes-in-k-group>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#24-swap-nodes-in-pairshttpsleetcodecomproblemsswap-nodes-in-pairsdescription)
 
-<a href="#-24-swap-nodes-in-pairs" id="user-content--24-swap-nodes-in-pairs" class="anchor"></a>➤ [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-24-swap-nodes-in-pairs" id="user-content--24-swap-nodes-in-pairs" class="anchor"></a>➤ [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 
 ### <a href="#problem-20" id="user-content-problem-20" class="anchor"></a>Problem:
 
@@ -3695,69 +3641,69 @@ Given a linked list, swap every two adjacent nodes and return its head.
 
 **Note:**
 
--   Your algorithm should use only constant extra space.
--   You may **not** modify the values in the list's nodes, only nodes itself may be changed.
+- Your algorithm should use only constant extra space.
+- You may **not** modify the values in the list's nodes, only nodes itself may be changed.
 
 ### <a href="#solution-20" id="user-content-solution-20" class="anchor"></a>Solution:
 
 1.  Draw the nodes down on paper to reason about the relationships.
 2.  Pointing to every active node is an easy way to keep on track.
 
-    /**
-     * Definition for singly-linked list.
-     * function ListNode(val) {
-     *     this.val = val;
-     *     this.next = null;
-     * }
-     */
-    /**
-     * @param {ListNode} head
-     * @return {ListNode}
-     */
-    let swapPairs = function (head) {
+    /\*\*
+
+    - Definition for singly-linked list.
+    - function ListNode(val) {
+    -     this.val = val;
+    -     this.next = null;
+    - }
+      \*/
+      /\*\*
+    - @param {ListNode} head
+    - @return {ListNode}
+      \*/
+      let swapPairs = function (head) {
       const prehead = { next: head };
 
-      for (let p = prehead; p.next !== null && p.next.next !== null; ) {
-        const p1 = p.next;
-        const p2 = p1.next;
-        p1.next = p2.next;
-        p2.next = p1;
-        p.next = p2;
-        p = p1;
-      }
+    for (let p = prehead; p.next !== null && p.next.next !== null; ) {
+    const p1 = p.next;
+    const p2 = p1.next;
+    p1.next = p2.next;
+    p2.next = p1;
+    p.next = p2;
+    p = p1;
+    }
 
-      return prehead.next;
+    return prehead.next;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "Linked List": <https://leetcode.com/tag/linked-list> Similar Questions: "Swap Nodes in Pairs": <https://leetcode.com/problems/swap-nodes-in-pairs>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#25-reverse-nodes-in-k-grouphttpsleetcodecomproblemsreverse-nodes-in-k-groupdescription)
 
-<a href="#-25-reverse-nodes-in-k-group" id="user-content--25-reverse-nodes-in-k-group" class="anchor"></a>➤ [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-25-reverse-nodes-in-k-group" id="user-content--25-reverse-nodes-in-k-group" class="anchor"></a>➤ [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 
 ### <a href="#problem-21" id="user-content-problem-21" class="anchor"></a>Problem:
 
-Given a linked list, reverse the nodes of a linked list *k* at a time and return its modified list.
+Given a linked list, reverse the nodes of a linked list _k_ at a time and return its modified list.
 
-*k* is a positive integer and is less than or equal to the length of the linked list. If the number of nodes is not a multiple of *k* then left-out nodes in the end should remain as it is.
+_k_ is a positive integer and is less than or equal to the length of the linked list. If the number of nodes is not a multiple of _k_ then left-out nodes in the end should remain as it is.
 
 **Example:**
 
 Given this linked list: `1->2->3->4->5`
 
-For *k* = 2, you should return: `2->1->4->3->5`
+For _k_ = 2, you should return: `2->1->4->3->5`
 
-For *k* = 3, you should return: `3->2->1->4->5`
+For _k_ = 3, you should return: `3->2->1->4->5`
 
 **Note:**
 
--   Only constant extra memory is allowed.
--   You may not alter the values in the list's nodes, only nodes itself may be changed.
+- Only constant extra memory is allowed.
+- You may not alter the values in the list's nodes, only nodes itself may be changed.
 
 ### <a href="#solution-21" id="user-content-solution-21" class="anchor"></a>Solution:
 
@@ -3766,67 +3712,68 @@ For *k* = 3, you should return: `3->2->1->4->5`
 3.  Reverse the portion using the next node as edge(null) pointer.
 4.  Connect it back to the main linked list.
 
-    /**
-     * Definition for singly-linked list.
-     * function ListNode(val) {
-     *     this.val = val;
-     *     this.next = null;
-     * }
-     */
-    /**
-     * @param {ListNode} head
-     * @param {number} k
-     * @return {ListNode}
-     */
-    let reverseKGroup = function (head, k) {
+    /\*\*
+
+    - Definition for singly-linked list.
+    - function ListNode(val) {
+    -     this.val = val;
+    -     this.next = null;
+    - }
+      \*/
+      /\*\*
+    - @param {ListNode} head
+    - @param {number} k
+    - @return {ListNode}
+      \*/
+      let reverseKGroup = function (head, k) {
       const prehead = { next: head };
       let p = prehead;
       while (true) {
-        let n = k;
-        let pEndNext = p.next;
-        while (pEndNext && n) {
-          pEndNext = pEndNext.next;
-          n--;
-        }
-
-        if (n !== 0) {
-          break;
-        }
-
-        const nextp = p.next; // The first node will be the last after reverse
-        p.next = reverseLinkList(p.next, pEndNext);
-        p = nextp;
+      let n = k;
+      let pEndNext = p.next;
+      while (pEndNext && n) {
+      pEndNext = pEndNext.next;
+      n--;
       }
 
-      return prehead.next;
+          if (n !== 0) {
+            break;
+          }
+
+          const nextp = p.next; // The first node will be the last after reverse
+          p.next = reverseLinkList(p.next, pEndNext);
+          p = nextp;
+
+      }
+
+    return prehead.next;
     };
 
     function reverseLinkList(head, nullNode = null) {
-      let prev = nullNode;
-      let curr = head;
-      while (curr !== nullNode) {
-        const next = curr.next;
-        curr.next = prev;
-        prev = curr;
-        curr = next;
-      }
-      return prev;
+    let prev = nullNode;
+    let curr = head;
+    while (curr !== nullNode) {
+    const next = curr.next;
+    curr.next = prev;
+    prev = curr;
+    curr = next;
+    }
+    return prev;
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Array": <https://leetcode.com/tag/array> "Two Pointers": <https://leetcode.com/tag/two-pointers> Similar Questions: "Remove Element": <https://leetcode.com/problems/remove-element> "Remove Duplicates from Sorted Array II": <https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#26-remove-duplicates-from-sorted-arrayhttpsleetcodecomproblemsremove-duplicates-from-sorted-arraydescription)
 
-<a href="#-26-remove-duplicates-from-sorted-array" id="user-content--26-remove-duplicates-from-sorted-array" class="anchor"></a>➤ [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-26-remove-duplicates-from-sorted-array" id="user-content--26-remove-duplicates-from-sorted-array" class="anchor"></a>➤ [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 
 ### <a href="#problem-22" id="user-content-problem-22" class="anchor"></a>Problem:
 
-Given a sorted array *nums*, remove the duplicates [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) such that each element appear only *once* and return the new length.
+Given a sorted array _nums_, remove the duplicates [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) such that each element appear only _once_ and return the new length.
 
 Do not allocate extra space for another array, you must do this by **modifying the input array in-place** with O(1) extra memory.
 
@@ -3881,20 +3828,19 @@ The result array can only be shorter. That is why we can build the array in-plac
       return len;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Array": <https://leetcode.com/tag/array> "Two Pointers": <https://leetcode.com/tag/two-pointers> Similar Questions: "Remove Duplicates from Sorted Array": <https://leetcode.com/problems/remove-duplicates-from-sorted-array> "Remove Linked List Elements": <https://leetcode.com/problems/remove-linked-list-elements> "Move Zeroes": <https://leetcode.com/problems/move-zeroes>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#27-remove-elementhttpsleetcodecomproblemsremove-elementdescription)
 
-<a href="#-27-remove-element" id="user-content--27-remove-element" class="anchor"></a>➤ [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-27-remove-element" id="user-content--27-remove-element" class="anchor"></a>➤ [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
 
 ### <a href="#problem-23" id="user-content-problem-23" class="anchor"></a>Problem:
 
-Given an array *nums* and a value *val*, remove all instances of that value [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) and return the new length.
+Given an array _nums_ and a value _val_, remove all instances of that value [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) and return the new length.
 
 Do not allocate extra space for another array, you must do this by **modifying the input array in-place** with O(1) extra memory.
 
@@ -3954,16 +3900,15 @@ The order does not matter. So just take the last number to fill the vacancy.
       return len;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Math": <https://leetcode.com/tag/math> "Binary Search": <https://leetcode.com/tag/binary-search>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#29-divide-two-integershttpsleetcodecomproblemsdivide-two-integersdescription)
 
-<a href="#-29-divide-two-integers" id="user-content--29-divide-two-integers" class="anchor"></a>➤ [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-29-divide-two-integers" id="user-content--29-divide-two-integers" class="anchor"></a>➤ [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)
 
 ### <a href="#problem-24" id="user-content-problem-24" class="anchor"></a>Problem:
 
@@ -3985,9 +3930,9 @@ The integer division should truncate toward zero.
 
 **Note:**
 
--   Both dividend and divisor will be 32-bit signed integers.
--   The divisor will never be 0.
--   Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: \[−231,  231 − 1\]. For the purpose of this problem, assume that your function returns 231 − 1 when the division result overflows.
+- Both dividend and divisor will be 32-bit signed integers.
+- The divisor will never be 0.
+- Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: \[−231,  231 − 1\]. For the purpose of this problem, assume that your function returns 231 − 1 when the division result overflows.
 
 ### <a href="#solution-24" id="user-content-solution-24" class="anchor"></a>Solution:
 
@@ -4034,16 +3979,15 @@ Replace multiplication and division with binary shifting.
       return isNegative ? -result : result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> Similar Questions: "Permutations": <https://leetcode.com/problems/permutations> "Permutations II": <https://leetcode.com/problems/permutations-ii> "Permutation Sequence": <https://leetcode.com/problems/permutation-sequence> "Palindrome Permutation II": <https://leetcode.com/problems/palindrome-permutation-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#31-next-permutationhttpsleetcodecomproblemsnext-permutationdescription)
 
-<a href="#-31-next-permutation" id="user-content--31-next-permutation" class="anchor"></a>➤ [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-31-next-permutation" id="user-content--31-next-permutation" class="anchor"></a>➤ [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 
 ### <a href="#problem-25" id="user-content-problem-25" class="anchor"></a>Problem:
 
@@ -4106,16 +4050,15 @@ Swap the two.
       }
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Binary Search": <https://leetcode.com/tag/binary-search> Similar Questions: "Search in Rotated Sorted Array II": <https://leetcode.com/problems/search-in-rotated-sorted-array-ii> "Find Minimum in Rotated Sorted Array": <https://leetcode.com/problems/find-minimum-in-rotated-sorted-array>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#33-search-in-rotated-sorted-arrayhttpsleetcodecomproblemssearch-in-rotated-sorted-arraydescription)
 
-<a href="#-33-search-in-rotated-sorted-array" id="user-content--33-search-in-rotated-sorted-array" class="anchor"></a>➤ [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-33-search-in-rotated-sorted-array" id="user-content--33-search-in-rotated-sorted-array" class="anchor"></a>➤ [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 
 ### <a href="#problem-26" id="user-content-problem-26" class="anchor"></a>Problem:
 
@@ -4151,64 +4094,65 @@ But take a closer look and we realize that only one of the two halves needs to b
 
 Whenever we choose a pivot, it must be in one of the two sorted parts of the rotated array.
 
--   If the pivot is in the left part. We know that the begin of the left part to the pivot are sorted.
--   Otherwise the pivot is in the right part. We know that the end of the right part to the pivot are sorted.
+- If the pivot is in the left part. We know that the begin of the left part to the pivot are sorted.
+- Otherwise the pivot is in the right part. We know that the end of the right part to the pivot are sorted.
 
-    /**
-     * @param {number[]} nums
-     * @param {number} target
-     * @return {number}
-     */
+  /\*\*
+
+  - @param {number[]} nums
+  - @param {number} target
+  - @return {number}
+    \*/
     let search = function (nums, target) {
-      let s = 0;
-      let e = nums.length - 1;
+    let s = 0;
+    let e = nums.length - 1;
 
-      while (s <= e) {
-        const p = ((e + s) / 2) | 0;
-        const pivot = nums[p];
+  while (s <= e) {
+  const p = ((e + s) / 2) | 0;
+  const pivot = nums[p];
 
-        if (pivot === target) {
-          return p;
-        }
+      if (pivot === target) {
+        return p;
+      }
 
-        if (pivot < nums[e]) {
-          // right half is sorted
-          if (target > pivot && target <= nums[e]) {
-            // target is inside the right half
-            s = p + 1;
-          } else {
-            e = p - 1;
-          }
+      if (pivot < nums[e]) {
+        // right half is sorted
+        if (target > pivot && target <= nums[e]) {
+          // target is inside the right half
+          s = p + 1;
         } else {
-          // left half is sorted
-          if (target < pivot && target >= nums[s]) {
-            // target is inside the left half
-            e = p - 1;
-          } else {
-            s = p + 1;
-          }
+          e = p - 1;
+        }
+      } else {
+        // left half is sorted
+        if (target < pivot && target >= nums[s]) {
+          // target is inside the left half
+          e = p - 1;
+        } else {
+          s = p + 1;
         }
       }
 
-      return -1;
-    };
+  }
 
-------------------------------------------------------------------------
+  return -1;
+  };
+
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Binary Search": <https://leetcode.com/tag/binary-search> Similar Questions: "First Bad Version": <https://leetcode.com/problems/first-bad-version>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#34-find-first-and-last-position-of-element-in-sorted-arrayhttpsleetcodecomproblemsfind-first-and-last-position-of-element-in-sorted-arraydescription)
 
-<a href="#-34-find-first-and-last-position-of-element-in-sorted-array" id="user-content--34-find-first-and-last-position-of-element-in-sorted-array" class="anchor"></a>➤ [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-34-find-first-and-last-position-of-element-in-sorted-array" id="user-content--34-find-first-and-last-position-of-element-in-sorted-array" class="anchor"></a>➤ [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
 
 ### <a href="#problem-27" id="user-content-problem-27" class="anchor"></a>Problem:
 
 Given an array of integers `nums` sorted in ascending order, find the starting and ending position of a given `target` value.
 
-Your algorithm's runtime complexity must be in the order of *O*(log *n*).
+Your algorithm's runtime complexity must be in the order of _O_(log _n_).
 
 If the target is not found in the array, return `[-1, -1]`.
 
@@ -4286,16 +4230,15 @@ If we want to get the first, we dump the right half. Vice versa.
       return result;
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Array": <https://leetcode.com/tag/array> "Binary Search": <https://leetcode.com/tag/binary-search> Similar Questions: "First Bad Version": <https://leetcode.com/problems/first-bad-version>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#35-search-insert-positionhttpsleetcodecomproblemssearch-insert-positiondescription)
 
-<a href="#-35-search-insert-position" id="user-content--35-search-insert-position" class="anchor"></a>➤ [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-35-search-insert-position" id="user-content--35-search-insert-position" class="anchor"></a>➤ [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 
 ### <a href="#problem-28" id="user-content-problem-28" class="anchor"></a>Problem:
 
@@ -4351,16 +4294,15 @@ Same as simple binary search except it returns the start index when does not fin
       return s;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Hash Table": <https://leetcode.com/tag/hash-table> Similar Questions: "Sudoku Solver": <https://leetcode.com/problems/sudoku-solver>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#36-valid-sudokuhttpsleetcodecomproblemsvalid-sudokudescription)
 
-<a href="#-36-valid-sudoku" id="user-content--36-valid-sudoku" class="anchor"></a>➤ [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-36-valid-sudoku" id="user-content--36-valid-sudoku" class="anchor"></a>➤ [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 
 ### <a href="#problem-29" id="user-content-problem-29" class="anchor"></a>Problem:
 
@@ -4412,10 +4354,10 @@ The Sudoku board could be partially filled, where empty cells are filled with th
 
 **Note:**
 
--   A Sudoku board (partially filled) could be valid but is not necessarily solvable.
--   Only the filled cells need to be validated according to the mentioned rules.
--   The given board contain only digits `1-9` and the character `'.'`.
--   The given board size is always `9x9`.
+- A Sudoku board (partially filled) could be valid but is not necessarily solvable.
+- Only the filled cells need to be validated according to the mentioned rules.
+- The given board contain only digits `1-9` and the character `'.'`.
+- The given board size is always `9x9`.
 
 ### <a href="#solution-29" id="user-content-solution-29" class="anchor"></a>Solution:
 
@@ -4462,16 +4404,15 @@ Scan the board once.
       return true;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "Hash Table": <https://leetcode.com/tag/hash-table> "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "Valid Sudoku": <https://leetcode.com/problems/valid-sudoku>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#37-sudoku-solverhttpsleetcodecomproblemssudoku-solverdescription)
 
-<a href="#-37-sudoku-solver" id="user-content--37-sudoku-solver" class="anchor"></a>➤ [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-37-sudoku-solver" id="user-content--37-sudoku-solver" class="anchor"></a>➤ [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)
 
 ### <a href="#problem-30" id="user-content-problem-30" class="anchor"></a>Problem:
 
@@ -4488,14 +4429,14 @@ Empty cells are indicated by the character `'.'`.
 [![250px-Sudoku-by-L2G-20050714.svg.png](https://camo.githubusercontent.com/a350001a8d45079c3b5d6a959fc5ab69e3892557d498fbe99ad3a19fa68223d4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66662f5375646f6b752d62792d4c32472d32303035303731342e7376672f32353070782d5375646f6b752d62792d4c32472d32303035303731342e7376672e706e67)](https://camo.githubusercontent.com/a350001a8d45079c3b5d6a959fc5ab69e3892557d498fbe99ad3a19fa68223d4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66662f5375646f6b752d62792d4c32472d32303035303731342e7376672f32353070782d5375646f6b752d62792d4c32472d32303035303731342e7376672e706e67)  
 A sudoku puzzle...
 
-[![250px-Sudoku-by-L2G-20050714\_solution.svg.png](https://camo.githubusercontent.com/c65a888c8cddc9012aea39bd77e2953c3f577ea0fe938e0903ab0b85657f5683/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33312f5375646f6b752d62792d4c32472d32303035303731345f736f6c7574696f6e2e7376672f32353070782d5375646f6b752d62792d4c32472d32303035303731345f736f6c7574696f6e2e7376672e706e67)](https://camo.githubusercontent.com/c65a888c8cddc9012aea39bd77e2953c3f577ea0fe938e0903ab0b85657f5683/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33312f5375646f6b752d62792d4c32472d32303035303731345f736f6c7574696f6e2e7376672f32353070782d5375646f6b752d62792d4c32472d32303035303731345f736f6c7574696f6e2e7376672e706e67)  
+[![250px-Sudoku-by-L2G-20050714_solution.svg.png](https://camo.githubusercontent.com/c65a888c8cddc9012aea39bd77e2953c3f577ea0fe938e0903ab0b85657f5683/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33312f5375646f6b752d62792d4c32472d32303035303731345f736f6c7574696f6e2e7376672f32353070782d5375646f6b752d62792d4c32472d32303035303731345f736f6c7574696f6e2e7376672e706e67)](https://camo.githubusercontent.com/c65a888c8cddc9012aea39bd77e2953c3f577ea0fe938e0903ab0b85657f5683/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33312f5375646f6b752d62792d4c32472d32303035303731345f736f6c7574696f6e2e7376672f32353070782d5375646f6b752d62792d4c32472d32303035303731345f736f6c7574696f6e2e7376672e706e67)  
 ...and its solution numbers marked in red.
 
 **Note:**
 
--   The given board contain only digits `1-9` and the character `'.'`.
--   You may assume that the given Sudoku puzzle will have a single unique solution.
--   The given board size is always `9x9`.
+- The given board contain only digits `1-9` and the character `'.'`.
+- You may assume that the given Sudoku puzzle will have a single unique solution.
+- The given board size is always `9x9`.
 
 ### <a href="#solution-30" id="user-content-solution-30" class="anchor"></a>Solution:
 
@@ -4568,16 +4509,15 @@ If all possible solutions fail, we just dump the current position and go back to
       return false;
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "String": <https://leetcode.com/tag/string> Similar Questions: "Encode and Decode Strings": <https://leetcode.com/problems/encode-and-decode-strings> "String Compression": <https://leetcode.com/problems/string-compression>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#38-count-and-sayhttpsleetcodecomproblemscount-and-saydescription)
 
-<a href="#-38-count-and-say" id="user-content--38-count-and-say" class="anchor"></a>➤ [38. Count and Say](https://leetcode.com/problems/count-and-say/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-38-count-and-say" id="user-content--38-count-and-say" class="anchor"></a>➤ [38. Count and Say](https://leetcode.com/problems/count-and-say/description/)
 
 ### <a href="#problem-31" id="user-content-problem-31" class="anchor"></a>Problem:
 
@@ -4655,16 +4595,15 @@ General solution.
       return num;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "Letter Combinations of a Phone Number": <https://leetcode.com/problems/letter-combinations-of-a-phone-number> "Combination Sum II": <https://leetcode.com/problems/combination-sum-ii> "Combinations": <https://leetcode.com/problems/combinations> "Combination Sum III": <https://leetcode.com/problems/combination-sum-iii> "Factor Combinations": <https://leetcode.com/problems/factor-combinations> "Combination Sum IV": <https://leetcode.com/problems/combination-sum-iv>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#39-combination-sumhttpsleetcodecomproblemscombination-sumdescription)
 
-<a href="#-39-combination-sum" id="user-content--39-combination-sum" class="anchor"></a>➤ [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-39-combination-sum" id="user-content--39-combination-sum" class="anchor"></a>➤ [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/)
 
 ### <a href="#problem-32" id="user-content-problem-32" class="anchor"></a>Problem:
 
@@ -4674,8 +4613,8 @@ The **same** repeated number may be chosen from `candidates` unlimited number o
 
 **Note:**
 
--   All numbers (including `target`) will be positive integers.
--   The solution set must not contain duplicate combinations.
+- All numbers (including `target`) will be positive integers.
+- The solution set must not contain duplicate combinations.
 
 **Example 1:**
 
@@ -4731,16 +4670,15 @@ To prevent duplications, only loop the right side of the candidates.
       return result;
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "Combination Sum": <https://leetcode.com/problems/combination-sum>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#40-combination-sum-iihttpsleetcodecomproblemscombination-sum-iidescription)
 
-<a href="#-40-combination-sum-ii" id="user-content--40-combination-sum-ii" class="anchor"></a>➤ [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-40-combination-sum-ii" id="user-content--40-combination-sum-ii" class="anchor"></a>➤ [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)
 
 ### <a href="#problem-33" id="user-content-problem-33" class="anchor"></a>Problem:
 
@@ -4750,8 +4688,8 @@ Each number in `candidates` may only be used **once** in the combination.
 
 **Note:**
 
--   All numbers (including `target`) will be positive integers.
--   The solution set must not contain duplicate combinations.
+- All numbers (including `target`) will be positive integers.
+- The solution set must not contain duplicate combinations.
 
 **Example 1:**
 
@@ -4824,16 +4762,15 @@ Notice the number at `start` is immune by the rule because we assume that the cu
       return result;
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "Array": <https://leetcode.com/tag/array> Similar Questions: "Missing Number": <https://leetcode.com/problems/missing-number> "Find the Duplicate Number": <https://leetcode.com/problems/find-the-duplicate-number> "Find All Numbers Disappeared in an Array": <https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array> "Couples Holding Hands": <https://leetcode.com/problems/couples-holding-hands>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#41-first-missing-positivehttpsleetcodecomproblemsfirst-missing-positivedescription)
 
-<a href="#-41-first-missing-positive" id="user-content--41-first-missing-positive" class="anchor"></a>➤ [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-41-first-missing-positive" id="user-content--41-first-missing-positive" class="anchor"></a>➤ [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 
 ### <a href="#problem-34" id="user-content-problem-34" class="anchor"></a>Problem:
 
@@ -4856,13 +4793,13 @@ Given an unsorted integer array, find the smallest missing positive integer.
 
 **Note:**
 
-Your algorithm should run in *O*(*n*) time and uses constant extra space.
+Your algorithm should run in _O_(_n_) time and uses constant extra space.
 
 ### <a href="#solution-34" id="user-content-solution-34" class="anchor"></a>Solution:
 
 The last requirement is why this problem is marked "hard". Though the solution feels like cheating: it modifies the array to mark numbers.
 
-So the algorithm still requires *O*(*n*) space but *O*(*1*) **extra** space.
+So the algorithm still requires _O_(_n_) space but _O_(_1_) **extra** space.
 
 The core idea of the solution is, if the length of the array is n, then the smallest missing positive integer must be within \[1, n+1\].
 
@@ -4898,20 +4835,19 @@ So here we reuse the array and keep trying to put integer `k` into the slot inde
       return n + 1;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "Array": <https://leetcode.com/tag/array> "Two Pointers": <https://leetcode.com/tag/two-pointers> "Stack": <https://leetcode.com/tag/stack> Similar Questions: "Container With Most Water": <https://leetcode.com/problems/container-with-most-water> "Product of Array Except Self": <https://leetcode.com/problems/product-of-array-except-self> "Trapping Rain Water II": <https://leetcode.com/problems/trapping-rain-water-ii> "Pour Water": <https://leetcode.com/problems/pour-water>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#42-trapping-rain-waterhttpsleetcodecomproblemstrapping-rain-waterdescription)
 
-<a href="#-42-trapping-rain-water" id="user-content--42-trapping-rain-water" class="anchor"></a>➤ [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-42-trapping-rain-water" id="user-content--42-trapping-rain-water" class="anchor"></a>➤ [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
 
 ### <a href="#problem-35" id="user-content-problem-35" class="anchor"></a>Problem:
 
-Given *n* non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+Given _n_ non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
 
 [![rainwatertrap.png](https://camo.githubusercontent.com/c7f9fa3cfa04e67e525ad20e29a518e861dfdca0fcb97a6ca07531f356f8cbc1/687474703a2f2f7777772e6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f7261696e7761746572747261702e706e67)](https://camo.githubusercontent.com/c7f9fa3cfa04e67e525ad20e29a518e861dfdca0fcb97a6ca07531f356f8cbc1/687474703a2f2f7777772e6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f7261696e7761746572747261702e706e67) The above elevation map is represented by array \[0,1,0,2,1,0,1,3,2,1,2,1\]. In this case, 6 units of rain water (blue section) are being trapped. **Thanks Marcos** for contributing this image!
 
@@ -4958,16 +4894,15 @@ Well explained by Leetcode official: <https://leetcode.com/articles/trapping-rai
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Math": <https://leetcode.com/tag/math> "String": <https://leetcode.com/tag/string> Similar Questions: "Add Two Numbers": <https://leetcode.com/problems/add-two-numbers> "Plus One": <https://leetcode.com/problems/plus-one> "Add Binary": <https://leetcode.com/problems/add-binary> "Add Strings": <https://leetcode.com/problems/add-strings>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#43-multiply-stringshttpsleetcodecomproblemsmultiply-stringsdescription)
 
-<a href="#-43-multiply-strings" id="user-content--43-multiply-strings" class="anchor"></a>➤ [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-43-multiply-strings" id="user-content--43-multiply-strings" class="anchor"></a>➤ [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
 
 ### <a href="#problem-36" id="user-content-problem-36" class="anchor"></a>Problem:
 
@@ -5013,16 +4948,15 @@ Same as we do multiplication on a paper.
       return result.join("").replace(/^0+(?=[0-9])/, "");
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "Array": <https://leetcode.com/tag/array> "Greedy": <https://leetcode.com/tag/greedy> Similar Questions: "Jump Game": <https://leetcode.com/problems/jump-game>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#45-jump-game-iihttpsleetcodecomproblemsjump-game-iidescription)
 
-<a href="#-45-jump-game-ii" id="user-content--45-jump-game-ii" class="anchor"></a>➤ [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-45-jump-game-ii" id="user-content--45-jump-game-ii" class="anchor"></a>➤ [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 
 ### <a href="#problem-37" id="user-content-problem-37" class="anchor"></a>Problem:
 
@@ -5068,16 +5002,15 @@ Greedy. Always pick the one that would allow to jump to the rightest.
       return jump;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "Next Permutation": <https://leetcode.com/problems/next-permutation> "Permutations II": <https://leetcode.com/problems/permutations-ii> "Permutation Sequence": <https://leetcode.com/problems/permutation-sequence> "Combinations": <https://leetcode.com/problems/combinations>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#46-permutationshttpsleetcodecomproblemspermutationsdescription)
 
-<a href="#-46-permutations" id="user-content--46-permutations" class="anchor"></a>➤ [46. Permutations](https://leetcode.com/problems/permutations/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-46-permutations" id="user-content--46-permutations" class="anchor"></a>➤ [46. Permutations](https://leetcode.com/problems/permutations/description/)
 
 ### <a href="#problem-38" id="user-content-problem-38" class="anchor"></a>Problem:
 
@@ -5129,16 +5062,15 @@ One position at a time, pick a number from the unused set and put it in that pos
       }
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "Next Permutation": <https://leetcode.com/problems/next-permutation> "Permutations": <https://leetcode.com/problems/permutations> "Palindrome Permutation II": <https://leetcode.com/problems/palindrome-permutation-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#47-permutations-iihttpsleetcodecomproblemspermutations-iidescription)
 
-<a href="#-47-permutations-ii" id="user-content--47-permutations-ii" class="anchor"></a>➤ [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-47-permutations-ii" id="user-content--47-permutations-ii" class="anchor"></a>➤ [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/)
 
 ### <a href="#problem-39" id="user-content-problem-39" class="anchor"></a>Problem:
 
@@ -5194,20 +5126,19 @@ Same as [46. Permutations](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/maste
       }
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#48-rotate-imagehttpsleetcodecomproblemsrotate-imagedescription)
 
-<a href="#-48-rotate-image" id="user-content--48-rotate-image" class="anchor"></a>➤ [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-48-rotate-image" id="user-content--48-rotate-image" class="anchor"></a>➤ [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 
 ### <a href="#problem-40" id="user-content-problem-40" class="anchor"></a>Problem:
 
-You are given an *n* x *n* 2D matrix representing an image.
+You are given an _n_ x _n_ 2D matrix representing an image.
 
 Rotate the image by 90 degrees (clockwise).
 
@@ -5277,16 +5208,15 @@ Outside-in. Rotate one square at a time.
       }
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Hash Table": <https://leetcode.com/tag/hash-table> "String": <https://leetcode.com/tag/string> Similar Questions: "Valid Anagram": <https://leetcode.com/problems/valid-anagram> "Group Shifted Strings": <https://leetcode.com/problems/group-shifted-strings>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#49-group-anagramshttpsleetcodecomproblemsgroup-anagramsdescription)
 
-<a href="#-49-group-anagrams" id="user-content--49-group-anagrams" class="anchor"></a>➤ [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-49-group-anagrams" id="user-content--49-group-anagrams" class="anchor"></a>➤ [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 
 ### <a href="#problem-41" id="user-content-problem-41" class="anchor"></a>Problem:
 
@@ -5304,8 +5234,8 @@ Given an array of strings, group anagrams together.
 
 **Note:**
 
--   All inputs will be in lowercase.
--   The order of your output does not matter.
+- All inputs will be in lowercase.
+- The order of your output does not matter.
 
 ### <a href="#solution-41" id="user-content-solution-41" class="anchor"></a>Solution:
 
@@ -5356,20 +5286,19 @@ Use the product of prime numbers to generate unique keys.
       return Object.values(result);
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Math": <https://leetcode.com/tag/math> "Binary Search": <https://leetcode.com/tag/binary-search> Similar Questions: "Sqrt(x)": <https://leetcode.com/problems/sqrtx> "Super Pow": <https://leetcode.com/problems/super-pow>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#50-powx-nhttpsleetcodecomproblemspowx-ndescription)
 
-<a href="#-50-powx-n" id="user-content--50-powx-n" class="anchor"></a>➤ [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
-------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-50-powx-n" id="user-content--50-powx-n" class="anchor"></a>➤ [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
 
 ### <a href="#problem-42" id="user-content-problem-42" class="anchor"></a>Problem:
 
-Implement [pow(*x*, *n*)](http://www.cplusplus.com/reference/valarray/pow/), which calculates *x* raised to the power *n* (xn).
+Implement [pow(_x_, _n_)](http://www.cplusplus.com/reference/valarray/pow/), which calculates *x* raised to the power _n_ (xn).
 
 **Example 1:**
 
@@ -5389,8 +5318,8 @@ Implement [pow(*x*, *n*)](http://www.cplusplus.com/reference/valarray/pow/), whi
 
 **Note:**
 
--   -100.0 &lt; *x* &lt; 100.0
--   *n* is a 32-bit signed integer, within the range \[−231, 231 − 1\]
+- -100.0 &lt; _x_ &lt; 100.0
+- _n_ is a 32-bit signed integer, within the range \[−231, 231 − 1\]
 
 ### <a href="#solution-42" id="user-content-solution-42" class="anchor"></a>Solution:
 
@@ -5399,8 +5328,8 @@ Implement [pow(*x*, *n*)](http://www.cplusplus.com/reference/valarray/pow/), whi
 
 Corner cases:
 
--   n == 0
--   n &lt; 0
+- n == 0
+- n &lt; 0
 
 Note here we can not use any bitwise operator, `n = -2^31` might overflow.
 
@@ -5427,26 +5356,25 @@ Note here we can not use any bitwise operator, `n = -2^31` might overflow.
       return x * res * res;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "N-Queens II": <https://leetcode.com/problems/n-queens-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#51-n-queenshttpsleetcodecomproblemsn-queensdescription)
 
-<a href="#-51-n-queens" id="user-content--51-n-queens" class="anchor"></a>➤ [51. N-Queens](https://leetcode.com/problems/n-queens/description/)
------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-51-n-queens" id="user-content--51-n-queens" class="anchor"></a>➤ [51. N-Queens](https://leetcode.com/problems/n-queens/description/)
 
 ### <a href="#problem-43" id="user-content-problem-43" class="anchor"></a>Problem:
 
-The *n*-queens puzzle is the problem of placing *n* queens on an *n*×*n* chessboard such that no two queens attack each other.
+The _n_-queens puzzle is the problem of placing _n_ queens on an *n*×*n* chessboard such that no two queens attack each other.
 
 [![8-queens.png](https://camo.githubusercontent.com/6bc3595685a9028cffefe2b7131695013774e0538b9cdb806c08d4bea95e8497/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f382d717565656e732e706e67)](https://camo.githubusercontent.com/6bc3595685a9028cffefe2b7131695013774e0538b9cdb806c08d4bea95e8497/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f382d717565656e732e706e67)
 
-Given an integer *n*, return all distinct solutions to the *n*-queens puzzle.
+Given an integer _n_, return all distinct solutions to the _n_-queens puzzle.
 
-Each solution contains a distinct board configuration of the *n*-queens' placement, where `'Q'` and `'.'` both indicate a queen and an empty space respectively.
+Each solution contains a distinct board configuration of the _n_-queens' placement, where `'Q'` and `'.'` both indicate a queen and an empty space respectively.
 
 **Example:**
 
@@ -5578,20 +5506,19 @@ This is slow because we test diagonal in the end. We can do a tree pruning by mo
       return board;
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "N-Queens": <https://leetcode.com/problems/n-queens>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#52-n-queens-iihttpsleetcodecomproblemsn-queens-iidescription)
 
-<a href="#-52-n-queens-ii" id="user-content--52-n-queens-ii" class="anchor"></a>➤ [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-52-n-queens-ii" id="user-content--52-n-queens-ii" class="anchor"></a>➤ [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)
 
 ### <a href="#problem-44" id="user-content-problem-44" class="anchor"></a>Problem:
 
-The *n*-queens puzzle is the problem of placing *n* queens on an *n*×*n* chessboard such that no two queens attack each other.
+The _n_-queens puzzle is the problem of placing _n_ queens on an *n*×*n* chessboard such that no two queens attack each other.
 
 [![8-queens.png](https://camo.githubusercontent.com/6bc3595685a9028cffefe2b7131695013774e0538b9cdb806c08d4bea95e8497/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f382d717565656e732e706e67)](https://camo.githubusercontent.com/6bc3595685a9028cffefe2b7131695013774e0538b9cdb806c08d4bea95e8497/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f382d717565656e732e706e67)
 
@@ -5663,16 +5590,15 @@ Just modify [51. N-Queens](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/maste
       return true;
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Array": <https://leetcode.com/tag/array> "Divide and Conquer": <https://leetcode.com/tag/divide-and-conquer> "Dynamic Programming": <https://leetcode.com/tag/dynamic-programming> Similar Questions: "Best Time to Buy and Sell Stock": <https://leetcode.com/problems/best-time-to-buy-and-sell-stock> "Maximum Product Subarray": <https://leetcode.com/problems/maximum-product-subarray> "Degree of an Array": <https://leetcode.com/problems/degree-of-an-array>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#53-maximum-subarrayhttpsleetcodecomproblemsmaximum-subarraydescription)
 
-<a href="#-53-maximum-subarray" id="user-content--53-maximum-subarray" class="anchor"></a>➤ [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-53-maximum-subarray" id="user-content--53-maximum-subarray" class="anchor"></a>➤ [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 
 ### <a href="#problem-45" id="user-content-problem-45" class="anchor"></a>Problem:
 
@@ -5686,7 +5612,7 @@ Given an integer array `nums`, find the contiguous subarray (containing at leas
 
 **Follow up:**
 
-If you have figured out the O(*n*) solution, try coding another solution using the divide and conquer approach, which is more subtle.
+If you have figured out the O(_n_) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 
 ### <a href="#solution-45" id="user-content-solution-45" class="anchor"></a>Solution:
 
@@ -5732,20 +5658,19 @@ We can also compress the dp array:
       return max;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> Similar Questions: "Spiral Matrix II": <https://leetcode.com/problems/spiral-matrix-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#54-spiral-matrixhttpsleetcodecomproblemsspiral-matrixdescription)
 
-<a href="#-54-spiral-matrix" id="user-content--54-spiral-matrix" class="anchor"></a>➤ [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-54-spiral-matrix" id="user-content--54-spiral-matrix" class="anchor"></a>➤ [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 
 ### <a href="#problem-46" id="user-content-problem-46" class="anchor"></a>Problem:
 
-Given a matrix of *m* x *n* elements (*m* rows, *n* columns), return all elements of the matrix in spiral order.
+Given a matrix of _m_ x _n_ elements (_m_ rows, _n_ columns), return all elements of the matrix in spiral order.
 
 **Example 1:**
 
@@ -5810,16 +5735,15 @@ Loop outside-in. Break each cycle into four stages. Note that the last two stage
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Greedy": <https://leetcode.com/tag/greedy> Similar Questions: "Jump Game II": <https://leetcode.com/problems/jump-game-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#55-jump-gamehttpsleetcodecomproblemsjump-gamedescription)
 
-<a href="#-55-jump-game" id="user-content--55-jump-game" class="anchor"></a>➤ [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-55-jump-game" id="user-content--55-jump-game" class="anchor"></a>➤ [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
 
 ### <a href="#problem-47" id="user-content-problem-47" class="anchor"></a>Problem:
 
@@ -5890,16 +5814,15 @@ If `nums[0]` can cover the last destination point, it is good.
       return nums[0] >= des;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Sort": <https://leetcode.com/tag/sort> Similar Questions: "Insert Interval": <https://leetcode.com/problems/insert-interval> "Meeting Rooms": <https://leetcode.com/problems/meeting-rooms> "Meeting Rooms II": <https://leetcode.com/problems/meeting-rooms-ii> "Teemo Attacking": <https://leetcode.com/problems/teemo-attacking> "Add Bold Tag in String": <https://leetcode.com/problems/add-bold-tag-in-string> "Range Module": <https://leetcode.com/problems/range-module> "Employee Free Time": <https://leetcode.com/problems/employee-free-time> "Partition Labels": <https://leetcode.com/problems/partition-labels>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#56-merge-intervalshttpsleetcodecomproblemsmerge-intervalsdescription)
 
-<a href="#-56-merge-intervals" id="user-content--56-merge-intervals" class="anchor"></a>➤ [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-56-merge-intervals" id="user-content--56-merge-intervals" class="anchor"></a>➤ [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 
 ### <a href="#problem-48" id="user-content-problem-48" class="anchor"></a>Problem:
 
@@ -5951,20 +5874,19 @@ Sort then merge.
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "Array": <https://leetcode.com/tag/array> "Sort": <https://leetcode.com/tag/sort> Similar Questions: "Merge Intervals": <https://leetcode.com/problems/merge-intervals> "Range Module": <https://leetcode.com/problems/range-module>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#57-insert-intervalhttpsleetcodecomproblemsinsert-intervaldescription)
 
-<a href="#-57-insert-interval" id="user-content--57-insert-interval" class="anchor"></a>➤ [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-57-insert-interval" id="user-content--57-insert-interval" class="anchor"></a>➤ [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/)
 
 ### <a href="#problem-49" id="user-content-problem-49" class="anchor"></a>Problem:
 
-Given a set of *non-overlapping* intervals, insert a new interval into the intervals (merge if necessary).
+Given a set of _non-overlapping_ intervals, insert a new interval into the intervals (merge if necessary).
 
 You may assume that the intervals were initially sorted according to their start times.
 
@@ -6020,16 +5942,15 @@ The logic of the solution is pretty straight forward. Just need to carefully thi
       return [...result, p, ...intervals.slice(i)];
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "String": <https://leetcode.com/tag/string>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#58-length-of-last-wordhttpsleetcodecomproblemslength-of-last-worddescription)
 
-<a href="#-58-length-of-last-word" id="user-content--58-length-of-last-word" class="anchor"></a>➤ [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-58-length-of-last-word" id="user-content--58-length-of-last-word" class="anchor"></a>➤ [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 
 ### <a href="#problem-50" id="user-content-problem-50" class="anchor"></a>Problem:
 
@@ -6092,20 +6013,19 @@ General solution.
       return end - start;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> Similar Questions: "Spiral Matrix": <https://leetcode.com/problems/spiral-matrix>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#59-spiral-matrix-iihttpsleetcodecomproblemsspiral-matrix-iidescription)
 
-<a href="#-59-spiral-matrix-ii" id="user-content--59-spiral-matrix-ii" class="anchor"></a>➤ [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-59-spiral-matrix-ii" id="user-content--59-spiral-matrix-ii" class="anchor"></a>➤ [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
 
 ### <a href="#problem-51" id="user-content-problem-51" class="anchor"></a>Problem:
 
-Given a positive integer *n*, generate a square matrix filled with elements from 1 to *n*2 in spiral order.
+Given a positive integer _n_, generate a square matrix filled with elements from 1 to *n*2 in spiral order.
 
 **Example:**
 
@@ -6147,22 +6067,21 @@ Straight-forward.
       return matrix;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Math": <https://leetcode.com/tag/math> "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "Next Permutation": <https://leetcode.com/problems/next-permutation> "Permutations": <https://leetcode.com/problems/permutations>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#60-permutation-sequencehttpsleetcodecomproblemspermutation-sequencedescription)
 
-<a href="#-60-permutation-sequence" id="user-content--60-permutation-sequence" class="anchor"></a>➤ [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-60-permutation-sequence" id="user-content--60-permutation-sequence" class="anchor"></a>➤ [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)
 
 ### <a href="#problem-52" id="user-content-problem-52" class="anchor"></a>Problem:
 
-The set `[1,2,3,...,*n*]` contains a total of *n*! unique permutations.
+The set `[1,2,3,...,*n*]` contains a total of _n_! unique permutations.
 
-By listing and labeling all of the permutations in order, we get the following sequence for *n* = 3:
+By listing and labeling all of the permutations in order, we get the following sequence for _n_ = 3:
 
 1.  `"123"`
 2.  `"132"`
@@ -6171,12 +6090,12 @@ By listing and labeling all of the permutations in order, we get the following s
 5.  `"312"`
 6.  `"321"`
 
-Given *n* and *k*, return the *k*th permutation sequence.
+Given _n_ and _k_, return the *k*th permutation sequence.
 
 **Note:**
 
--   Given *n* will be between 1 and 9 inclusive.
--   Given *k* will be between 1 and *n*! inclusive.
+- Given _n_ will be between 1 and 9 inclusive.
+- Given *k* will be between 1 and _n_! inclusive.
 
 **Example 1:**
 
@@ -6222,20 +6141,19 @@ We also need `k--` to convert `k` into index so that `k <= (n-1)!` maps `0` (and
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Linked List": <https://leetcode.com/tag/linked-list> "Two Pointers": <https://leetcode.com/tag/two-pointers> Similar Questions: "Rotate Array": <https://leetcode.com/problems/rotate-array> "Split Linked List in Parts": <https://leetcode.com/problems/split-linked-list-in-parts>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#61-rotate-listhttpsleetcodecomproblemsrotate-listdescription)
 
-<a href="#-61-rotate-list" id="user-content--61-rotate-list" class="anchor"></a>➤ [61. Rotate List](https://leetcode.com/problems/rotate-list/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-61-rotate-list" id="user-content--61-rotate-list" class="anchor"></a>➤ [61. Rotate List](https://leetcode.com/problems/rotate-list/description/)
 
 ### <a href="#problem-53" id="user-content-problem-53" class="anchor"></a>Problem:
 
-Given a linked list, rotate the list to the right by *k* places, where *k* is non-negative.
+Given a linked list, rotate the list to the right by _k_ places, where _k_ is non-negative.
 
 **Example 1:**
 
@@ -6313,30 +6231,29 @@ Locate the right pointer again with `k % len`.
       return head;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Dynamic Programming": <https://leetcode.com/tag/dynamic-programming> Similar Questions: "Unique Paths II": <https://leetcode.com/problems/unique-paths-ii> "Minimum Path Sum": <https://leetcode.com/problems/minimum-path-sum> "Dungeon Game": <https://leetcode.com/problems/dungeon-game>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#62-unique-pathshttpsleetcodecomproblemsunique-pathsdescription)
 
-<a href="#-62-unique-paths" id="user-content--62-unique-paths" class="anchor"></a>➤ [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-62-unique-paths" id="user-content--62-unique-paths" class="anchor"></a>➤ [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)
 
 ### <a href="#problem-54" id="user-content-problem-54" class="anchor"></a>Problem:
 
-A robot is located at the top-left corner of a *m* x *n* grid (marked 'Start' in the diagram below).
+A robot is located at the top-left corner of a _m_ x _n_ grid (marked 'Start' in the diagram below).
 
 The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).
 
 How many possible unique paths are there?
 
-[![robot\_maze.png](https://camo.githubusercontent.com/8ee10ecda3d0a16ae3637e2710bd5b1a26f25e1237dda0d2c6812b155f5f44b6/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f726f626f745f6d617a652e706e67)](https://camo.githubusercontent.com/8ee10ecda3d0a16ae3637e2710bd5b1a26f25e1237dda0d2c6812b155f5f44b6/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f726f626f745f6d617a652e706e67)
+[![robot_maze.png](https://camo.githubusercontent.com/8ee10ecda3d0a16ae3637e2710bd5b1a26f25e1237dda0d2c6812b155f5f44b6/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f726f626f745f6d617a652e706e67)](https://camo.githubusercontent.com/8ee10ecda3d0a16ae3637e2710bd5b1a26f25e1237dda0d2c6812b155f5f44b6/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f726f626f745f6d617a652e706e67)
 
 Above is a 7 x 3 grid. How many possible unique paths are there?
 
-**Note:** *m* and *n* will be at most 100.
+**Note:** _m_ and _n_ will be at most 100.
 
 **Example 1:**
 
@@ -6380,20 +6297,19 @@ Only two previous states are dependant. Use dynamic array to reduce memory alloc
       return dp[m - 1] || 1;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Dynamic Programming": <https://leetcode.com/tag/dynamic-programming> Similar Questions: "Unique Paths": <https://leetcode.com/problems/unique-paths> "Dungeon Game": <https://leetcode.com/problems/dungeon-game> "Cherry Pickup": <https://leetcode.com/problems/cherry-pickup>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#64-minimum-path-sumhttpsleetcodecomproblemsminimum-path-sumdescription)
 
-<a href="#-64-minimum-path-sum" id="user-content--64-minimum-path-sum" class="anchor"></a>➤ [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-64-minimum-path-sum" id="user-content--64-minimum-path-sum" class="anchor"></a>➤ [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
 
 ### <a href="#problem-55" id="user-content-problem-55" class="anchor"></a>Problem:
 
-Given a *m* x *n* grid filled with non-negative numbers, find a path from top left to bottom right which *minimizes* the sum of all numbers along its path.
+Given a _m_ x _n_ grid filled with non-negative numbers, find a path from top left to bottom right which _minimizes_ the sum of all numbers along its path.
 
 **Note:** You can only move either down or right at any point in time.
 
@@ -6445,16 +6361,15 @@ Only two previous states are dependant. Use dynamic array to reduce memory alloc
       return dp[width - 1] || 0;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "Math": <https://leetcode.com/tag/math> "String": <https://leetcode.com/tag/string> Similar Questions: "String to Integer (atoi)": <https://leetcode.com/problems/string-to-integer-atoi>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#65-valid-numberhttpsleetcodecomproblemsvalid-numberdescription)
 
-<a href="#-65-valid-number" id="user-content--65-valid-number" class="anchor"></a>➤ [65. Valid Number](https://leetcode.com/problems/valid-number/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-65-valid-number" id="user-content--65-valid-number" class="anchor"></a>➤ [65. Valid Number](https://leetcode.com/problems/valid-number/description/)
 
 ### <a href="#problem-56" id="user-content-problem-56" class="anchor"></a>Problem:
 
@@ -6477,28 +6392,30 @@ JavaScript specific solutions:
 
 #### <a href="#one-13" id="user-content-one-13" class="anchor"></a>ONE
 
--   `Math.abs` will first convert the argument to number.
--   `Math.abs(' ') === 0`.
+- `Math.abs` will first convert the argument to number.
+- `Math.abs(' ') === 0`.
 
-    /**
-     * @param {string} s
-     * @return {boolean}
-     */
+  /\*\*
+
+  - @param {string} s
+  - @return {boolean}
+    \*/
     let isNumber = function (s) {
-      return !!s.trim() && Math.abs(s) >= 0;
+    return !!s.trim() && Math.abs(s) >= 0;
     };
 
 #### <a href="#two-13" id="user-content-two-13" class="anchor"></a>TWO
 
--   `isNaN` will first convert the argument to number.
--   `isNaN(' ') === false`.
+- `isNaN` will first convert the argument to number.
+- `isNaN(' ') === false`.
 
-    /**
-     * @param {string} s
-     * @return {boolean}
-     */
+  /\*\*
+
+  - @param {string} s
+  - @return {boolean}
+    \*/
     let isNumber = function (s) {
-      return !!s.trim() && !isNaN(s);
+    return !!s.trim() && !isNaN(s);
     };
 
 #### <a href="#three-5" id="user-content-three-5" class="anchor"></a>THREE
@@ -6648,16 +6565,15 @@ Now implement the parser. It is much easier now because we have a clear mental m
       return parseDecimalDigits(s, nextIndex);
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Array": <https://leetcode.com/tag/array> "Math": <https://leetcode.com/tag/math> Similar Questions: "Multiply Strings": <https://leetcode.com/problems/multiply-strings> "Add Binary": <https://leetcode.com/problems/add-binary> "Plus One Linked List": <https://leetcode.com/problems/plus-one-linked-list>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#66-plus-onehttpsleetcodecomproblemsplus-onedescription)
 
-<a href="#-66-plus-one" id="user-content--66-plus-one" class="anchor"></a>➤ [66. Plus One](https://leetcode.com/problems/plus-one/description/)
------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-66-plus-one" id="user-content--66-plus-one" class="anchor"></a>➤ [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 
 ### <a href="#problem-57" id="user-content-problem-57" class="anchor"></a>Problem:
 
@@ -6725,22 +6641,21 @@ General solution.
       return digits;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "String": <https://leetcode.com/tag/string>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#68-text-justificationhttpsleetcodecomproblemstext-justificationdescription)
 
-<a href="#-68-text-justification" id="user-content--68-text-justification" class="anchor"></a>➤ [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-68-text-justification" id="user-content--68-text-justification" class="anchor"></a>➤ [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 
 ### <a href="#problem-58" id="user-content-problem-58" class="anchor"></a>Problem:
 
-Given an array of words and a width *maxWidth*, format the text such that each line has exactly *maxWidth* characters and is fully (left and right) justified.
+Given an array of words and a width *maxWidth*, format the text such that each line has exactly _maxWidth_ characters and is fully (left and right) justified.
 
-You should pack your words in a greedy approach; that is, pack as many words as you can in each line. Pad extra spaces `' '` when necessary so that each line has exactly *maxWidth* characters.
+You should pack your words in a greedy approach; that is, pack as many words as you can in each line. Pad extra spaces `' '` when necessary so that each line has exactly _maxWidth_ characters.
 
 Extra spaces between words should be distributed as evenly as possible. If the number of spaces on a line do not divide evenly between words, the empty slots on the left will be assigned more spaces than the slots on the right.
 
@@ -6748,9 +6663,9 @@ For the last line of text, it should be left justified and no **extra** space is
 
 **Note:**
 
--   A word is defined as a character sequence consisting of non-space characters only.
--   Each word's length is guaranteed to be greater than 0 and not exceed *maxWidth*.
--   The input array `words` contains at least one word.
+- A word is defined as a character sequence consisting of non-space characters only.
+- Each word's length is guaranteed to be greater than 0 and not exceed _maxWidth_.
+- The input array `words` contains at least one word.
 
 **Example 1:**
 
@@ -6797,72 +6712,72 @@ For the last line of text, it should be left justified and no **extra** space is
 
 ### <a href="#solution-58" id="user-content-solution-58" class="anchor"></a>Solution:
 
--   Count the current line width (plus 1 space between each two words).
--   When a line is full:
-    -   If there is only one word, pad spaces at the end.
-    -   Otherwise calculate the gap length using `Math.ceil`.
--   Handle the last line.
+- Count the current line width (plus 1 space between each two words).
+- When a line is full:
+  - If there is only one word, pad spaces at the end.
+  - Otherwise calculate the gap length using `Math.ceil`.
+- Handle the last line.
 
-    /**
-     * @param {string[]} words
-     * @param {number} maxWidth
-     * @return {string[]}
-     */
+  /\*\*
+
+  - @param {string[]} words
+  - @param {number} maxWidth
+  - @return {string[]}
+    \*/
     let fullJustify = function (words, maxWidth) {
-      let start = 0;
-      let end = 1;
-      let lineLen = words[start].length;
-      const result = [];
+    let start = 0;
+    let end = 1;
+    let lineLen = words[start].length;
+    const result = [];
 
-      while (end < words.length) {
-        const newLen = words[end].length + 1 + lineLen;
-        if (newLen <= maxWidth) {
-          lineLen = newLen;
-        } else {
-          let line = "";
-          let nWords = end - start;
-          if (nWords === 1) {
-            line = words[start].padEnd(maxWidth);
-          } else {
-            let nSpaces = maxWidth - (lineLen - (nWords - 1));
-            for (let i = start; i < end; i++) {
-              const gap = Math.ceil(nSpaces / (end - i - 1));
-              line += words[i] + " ".repeat(gap);
-              nSpaces -= gap;
-            }
-          }
-          result.push(line);
-          start = end;
-          lineLen = words[start].length;
-        }
-        end++;
-      }
+  while (end < words.length) {
+  const newLen = words[end].length + 1 + lineLen;
+  if (newLen <= maxWidth) {
+  lineLen = newLen;
+  } else {
+  let line = "";
+  let nWords = end - start;
+  if (nWords === 1) {
+  line = words[start].padEnd(maxWidth);
+  } else {
+  let nSpaces = maxWidth - (lineLen - (nWords - 1));
+  for (let i = start; i < end; i++) {
+  const gap = Math.ceil(nSpaces / (end - i - 1));
+  line += words[i] + " ".repeat(gap);
+  nSpaces -= gap;
+  }
+  }
+  result.push(line);
+  start = end;
+  lineLen = words[start].length;
+  }
+  end++;
+  }
 
-      let lastline = words[start];
-      for (let i = start + 1; i < end; i++) {
-        lastline += " " + words[i];
-      }
-      result.push(lastline.padEnd(maxWidth));
+  let lastline = words[start];
+  for (let i = start + 1; i < end; i++) {
+  lastline += " " + words[i];
+  }
+  result.push(lastline.padEnd(maxWidth));
 
-      return result;
-    };
+  return result;
+  };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Math": <https://leetcode.com/tag/math> "Binary Search": <https://leetcode.com/tag/binary-search> Similar Questions: "Pow(x, n)": <https://leetcode.com/problems/powx-n> "Valid Perfect Square": <https://leetcode.com/problems/valid-perfect-square>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#69-sqrtxhttpsleetcodecomproblemssqrtxdescription)
 
-<a href="#-69-sqrtx" id="user-content--69-sqrtx" class="anchor"></a>➤ [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
--------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-69-sqrtx" id="user-content--69-sqrtx" class="anchor"></a>➤ [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 
 ### <a href="#problem-59" id="user-content-problem-59" class="anchor"></a>Problem:
 
 Implement `int sqrt(int x)`.
 
-Compute and return the square root of *x*, where *x* is guaranteed to be a non-negative integer.
+Compute and return the square root of _x_, where *x* is guaranteed to be a non-negative integer.
 
 Since the return type is an integer, the decimal digits are truncated and only the integer part of the result is returned.
 
@@ -6903,16 +6818,15 @@ Binary Search. The square root of x is within \[0...(x+1)/2\].
       return max;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "String": <https://leetcode.com/tag/string> "Stack": <https://leetcode.com/tag/stack>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#71-simplify-pathhttpsleetcodecomproblemssimplify-pathdescription)
 
-<a href="#-71-simplify-path" id="user-content--71-simplify-path" class="anchor"></a>➤ [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-71-simplify-path" id="user-content--71-simplify-path" class="anchor"></a>➤ [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/)
 
 ### <a href="#problem-60" id="user-content-problem-60" class="anchor"></a>Problem:
 
@@ -6922,8 +6836,8 @@ For example, **path** = `"/home/"`, =&gt; `"/home"` **path** = `"/a/./b/../../c/
 
 **Corner Cases:**
 
--   Did you consider the case where **path** = `"/../"`? In this case, you should return `"/"`.
--   Another corner case is the path might contain multiple slashes `'/'` together, such as `"/home//foo/"`. In this case, you should ignore redundant slashes and return `"/home/foo"`.
+- Did you consider the case where **path** = `"/../"`? In this case, you should return `"/"`.
+- Another corner case is the path might contain multiple slashes `'/'` together, such as `"/home//foo/"`. In this case, you should ignore redundant slashes and return `"/home/foo"`.
 
 ### <a href="#solution-60" id="user-content-solution-60" class="anchor"></a>Solution:
 
@@ -6985,20 +6899,19 @@ Direct search.
       return "/" + stack.join("/");
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "String": <https://leetcode.com/tag/string> "Dynamic Programming": <https://leetcode.com/tag/dynamic-programming> Similar Questions: "One Edit Distance": <https://leetcode.com/problems/one-edit-distance> "Delete Operation for Two Strings": <https://leetcode.com/problems/delete-operation-for-two-strings> "Minimum ASCII Delete Sum for Two Strings": <https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#72-edit-distancehttpsleetcodecomproblemsedit-distancedescription)
 
-<a href="#-72-edit-distance" id="user-content--72-edit-distance" class="anchor"></a>➤ [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-72-edit-distance" id="user-content--72-edit-distance" class="anchor"></a>➤ [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
 
 ### <a href="#problem-61" id="user-content-problem-61" class="anchor"></a>Problem:
 
-Given two words *word1* and *word2*, find the minimum number of operations required to convert *word1* to *word2*.
+Given two words _word1_ and _word2_, find the minimum number of operations required to convert _word1_ to _word2_.
 
 You have the following 3 operations permitted on a word:
 
@@ -7077,20 +6990,19 @@ Define `f(i, j)` to be the min edit distance from `word1[0...i)` to `word2[0...j
       return dp[len1][len2];
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> Similar Questions: "Game of Life": <https://leetcode.com/problems/game-of-life>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#73-set-matrix-zeroeshttpsleetcodecomproblemsset-matrix-zeroesdescription)
 
-<a href="#-73-set-matrix-zeroes" id="user-content--73-set-matrix-zeroes" class="anchor"></a>➤ [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-73-set-matrix-zeroes" id="user-content--73-set-matrix-zeroes" class="anchor"></a>➤ [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 
 ### <a href="#problem-62" id="user-content-problem-62" class="anchor"></a>Problem:
 
-Given a *m* x *n* matrix, if an element is 0, set its entire row and column to 0. Do it [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm).
+Given a _m_ x _n_ matrix, if an element is 0, set its entire row and column to 0. Do it [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm).
 
 **Example 1:**
 
@@ -7124,15 +7036,15 @@ Given a *m* x *n* matrix, if an element is 0, set its entire row and column to 0
 
 **Follow up:**
 
--   A straight forward solution using O(*m\*\*n*) space is probably a bad idea.
--   A simple improvement uses O(*m* + *n*) space, but still not the best solution.
--   Could you devise a constant space solution?
+- A straight forward solution using O(_m\*\*n_) space is probably a bad idea.
+- A simple improvement uses O(_m_ + _n_) space, but still not the best solution.
+- Could you devise a constant space solution?
 
 ### <a href="#solution-62" id="user-content-solution-62" class="anchor"></a>Solution:
 
--   O(*m\*\*n*) space solution: Copy a new matrix.
--   O(*m* + *n*) space solution: Use extra arrays to store rows and columns that need to be set 0.
--   Constant space solutions:
+- O(_m\*\*n_) space solution: Copy a new matrix.
+- O(_m_ + _n_) space solution: Use extra arrays to store rows and columns that need to be set 0.
+- Constant space solutions:
 
 #### <a href="#one-16" id="user-content-one-16" class="anchor"></a>ONE
 
@@ -7240,23 +7152,22 @@ Still constant space just a bit slower due to repeatedly setting overlapping `Na
       }
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Binary Search": <https://leetcode.com/tag/binary-search> Similar Questions: "Search a 2D Matrix II": <https://leetcode.com/problems/search-a-2d-matrix-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#74-search-a-2d-matrixhttpsleetcodecomproblemssearch-a-2d-matrixdescription)
 
-<a href="#-74-search-a-2d-matrix" id="user-content--74-search-a-2d-matrix" class="anchor"></a>➤ [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-74-search-a-2d-matrix" id="user-content--74-search-a-2d-matrix" class="anchor"></a>➤ [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
 
 ### <a href="#problem-63" id="user-content-problem-63" class="anchor"></a>Problem:
 
-Write an efficient algorithm that searches for a value in an *m* x *n* matrix. This matrix has the following properties:
+Write an efficient algorithm that searches for a value in an _m_ x _n_ matrix. This matrix has the following properties:
 
--   Integers in each row are sorted from left to right.
--   The first integer of each row is greater than the last integer of the previous row.
+- Integers in each row are sorted from left to right.
+- The first integer of each row is greater than the last integer of the previous row.
 
 **Example 1:**
 
@@ -7284,7 +7195,7 @@ Write an efficient algorithm that searches for a value in an *m* x *n* matrix. T
 
 #### <a href="#one-17" id="user-content-one-17" class="anchor"></a>ONE
 
-Search from top-left to bottom-right. O(*n*).
+Search from top-left to bottom-right. O(_n_).
 
     /**
      * @param {number[][]} matrix
@@ -7357,20 +7268,19 @@ Take the algorithm from [35. Search Insert Position](https://github.com/bgoonz/D
       return false;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Two Pointers": <https://leetcode.com/tag/two-pointers> "Sort": <https://leetcode.com/tag/sort> Similar Questions: "Sort List": <https://leetcode.com/problems/sort-list> "Wiggle Sort": <https://leetcode.com/problems/wiggle-sort> "Wiggle Sort II": <https://leetcode.com/problems/wiggle-sort-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#75-sort-colorshttpsleetcodecomproblemssort-colorsdescription)
 
-<a href="#-75-sort-colors" id="user-content--75-sort-colors" class="anchor"></a>➤ [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-75-sort-colors" id="user-content--75-sort-colors" class="anchor"></a>➤ [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 
 ### <a href="#problem-64" id="user-content-problem-64" class="anchor"></a>Problem:
 
-Given an array with *n* objects colored red, white or blue, sort them **in-place**so that objects of the same color are adjacent, with the colors in the order red, white and blue.
+Given an array with _n_ objects colored red, white or blue, sort them **in-place**so that objects of the same color are adjacent, with the colors in the order red, white and blue.
 
 Here, we will use the integers 0, 1, and 2 to represent the color red, white, and blue respectively.
 
@@ -7383,8 +7293,8 @@ Here, we will use the integers 0, 1, and 2 to represent the color red, white, an
 
 **Follow up:**
 
--   A rather straight forward solution is a two-pass algorithm using counting sort. First, iterate the array counting number of 0's, 1's, and 2's, then overwrite array with total number of 0's, then 1's and followed by 2's.
--   Could you come up with a one-pass algorithm using only constant space?
+- A rather straight forward solution is a two-pass algorithm using counting sort. First, iterate the array counting number of 0's, 1's, and 2's, then overwrite array with total number of 0's, then 1's and followed by 2's.
+- Could you come up with a one-pass algorithm using only constant space?
 
 ### <a href="#solution-64" id="user-content-solution-64" class="anchor"></a>Solution:
 
@@ -7420,20 +7330,19 @@ Count the number of sorted `0`s and `2`s so that we know where to swap.
       }
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "Combination Sum": <https://leetcode.com/problems/combination-sum> "Permutations": <https://leetcode.com/problems/permutations>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#77-combinationshttpsleetcodecomproblemscombinationsdescription)
 
-<a href="#-77-combinations" id="user-content--77-combinations" class="anchor"></a>➤ [77. Combinations](https://leetcode.com/problems/combinations/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-77-combinations" id="user-content--77-combinations" class="anchor"></a>➤ [77. Combinations](https://leetcode.com/problems/combinations/description/)
 
 ### <a href="#problem-65" id="user-content-problem-65" class="anchor"></a>Problem:
 
-Given two integers *n* and *k*, return all possible combinations of *k* numbers out of 1 ... *n*.
+Given two integers _n_ and _k_, return all possible combinations of _k_ numbers out of 1 ... _n_.
 
 **Example:**
 
@@ -7475,20 +7384,19 @@ Basic DFS + Backtracking.
       }
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Backtracking": <https://leetcode.com/tag/backtracking> "Bit Manipulation": <https://leetcode.com/tag/bit-manipulation> Similar Questions: "Subsets II": <https://leetcode.com/problems/subsets-ii> "Generalized Abbreviation": <https://leetcode.com/problems/generalized-abbreviation> "Letter Case Permutation": <https://leetcode.com/problems/letter-case-permutation>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#78-subsetshttpsleetcodecomproblemssubsetsdescription)
 
-<a href="#-78-subsets" id="user-content--78-subsets" class="anchor"></a>➤ [78. Subsets](https://leetcode.com/problems/subsets/description/)
--------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-78-subsets" id="user-content--78-subsets" class="anchor"></a>➤ [78. Subsets](https://leetcode.com/problems/subsets/description/)
 
 ### <a href="#problem-66" id="user-content-problem-66" class="anchor"></a>Problem:
 
-Given a set of **distinct** integers, *nums*, return all possible subsets (the power set).
+Given a set of **distinct** integers, _nums_, return all possible subsets (the power set).
 
 **Note:** The solution set must not contain duplicate subsets.
 
@@ -7563,16 +7471,15 @@ DFS + Backtracking.
       }
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "Word Search II": <https://leetcode.com/problems/word-search-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#79-word-searchhttpsleetcodecomproblemsword-searchdescription)
 
-<a href="#-79-word-search" id="user-content--79-word-search" class="anchor"></a>➤ [79. Word Search](https://leetcode.com/problems/word-search/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-79-word-search" id="user-content--79-word-search" class="anchor"></a>➤ [79. Word Search](https://leetcode.com/problems/word-search/description/)
 
 ### <a href="#problem-67" id="user-content-problem-67" class="anchor"></a>Problem:
 
@@ -7670,20 +7577,19 @@ DFS + Backtracking. Replace the cell with `NaN` before proceeding to the next le
       return false;
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Two Pointers": <https://leetcode.com/tag/two-pointers> Similar Questions: "Remove Duplicates from Sorted Array": <https://leetcode.com/problems/remove-duplicates-from-sorted-array>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#80-remove-duplicates-from-sorted-array-iihttpsleetcodecomproblemsremove-duplicates-from-sorted-array-iidescription)
 
-<a href="#-80-remove-duplicates-from-sorted-array-ii" id="user-content--80-remove-duplicates-from-sorted-array-ii" class="anchor"></a>➤ [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-80-remove-duplicates-from-sorted-array-ii" id="user-content--80-remove-duplicates-from-sorted-array-ii" class="anchor"></a>➤ [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
 
 ### <a href="#problem-68" id="user-content-problem-68" class="anchor"></a>Problem:
 
-Given a sorted array *nums*, remove the duplicates [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) such that duplicates appeared at most *twice* and return the new length.
+Given a sorted array _nums_, remove the duplicates [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) such that duplicates appeared at most *twice* and return the new length.
 
 Do not allocate extra space for another array, you must do this by **modifying the input array in-place** with O(1) extra memory.
 
@@ -7738,16 +7644,15 @@ Similar to [26. Remove Duplicates from Sorted Array](https://github.com/bgoonz/D
       return len;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Binary Search": <https://leetcode.com/tag/binary-search> Similar Questions: "Search in Rotated Sorted Array": <https://leetcode.com/problems/search-in-rotated-sorted-array>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#81-search-in-rotated-sorted-array-iihttpsleetcodecomproblemssearch-in-rotated-sorted-array-iidescription)
 
-<a href="#-81-search-in-rotated-sorted-array-ii" id="user-content--81-search-in-rotated-sorted-array-ii" class="anchor"></a>➤ [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-81-search-in-rotated-sorted-array-ii" id="user-content--81-search-in-rotated-sorted-array-ii" class="anchor"></a>➤ [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 
 ### <a href="#problem-69" id="user-content-problem-69" class="anchor"></a>Problem:
 
@@ -7769,8 +7674,8 @@ You are given a target value to search. If found in the array return `true`, oth
 
 **Follow up:**
 
--   This is a follow up problem to [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/), where `nums` may contain duplicates.
--   Would this affect the run-time complexity? How and why?
+- This is a follow up problem to [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/), where `nums` may contain duplicates.
+- Would this affect the run-time complexity? How and why?
 
 ### <a href="#solution-69" id="user-content-solution-69" class="anchor"></a>Solution:
 
@@ -7813,20 +7718,19 @@ See [33. Search in Rotated Sorted Array](https://github.com/bgoonz/DS-ALGO-OFFIC
       return false;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Linked List": <https://leetcode.com/tag/linked-list> Similar Questions: "Remove Duplicates from Sorted List": <https://leetcode.com/problems/remove-duplicates-from-sorted-list>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#82-remove-duplicates-from-sorted-list-iihttpsleetcodecomproblemsremove-duplicates-from-sorted-list-iidescription)
 
-<a href="#-82-remove-duplicates-from-sorted-list-ii" id="user-content--82-remove-duplicates-from-sorted-list-ii" class="anchor"></a>➤ [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-82-remove-duplicates-from-sorted-list-ii" id="user-content--82-remove-duplicates-from-sorted-list-ii" class="anchor"></a>➤ [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
 
 ### <a href="#problem-70" id="user-content-problem-70" class="anchor"></a>Problem:
 
-Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only *distinct* numbers from the original list.
+Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only _distinct_ numbers from the original list.
 
 **Example 1:**
 
@@ -7878,20 +7782,19 @@ The list is sorted so we only need `dupVal` to keep the latest duplicate value.
       return prehead.next;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Linked List": <https://leetcode.com/tag/linked-list> Similar Questions: "Remove Duplicates from Sorted List II": <https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#83-remove-duplicates-from-sorted-listhttpsleetcodecomproblemsremove-duplicates-from-sorted-listdescription)
 
-<a href="#-83-remove-duplicates-from-sorted-list" id="user-content--83-remove-duplicates-from-sorted-list" class="anchor"></a>➤ [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-83-remove-duplicates-from-sorted-list" id="user-content--83-remove-duplicates-from-sorted-list" class="anchor"></a>➤ [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 
 ### <a href="#problem-71" id="user-content-problem-71" class="anchor"></a>Problem:
 
-Given a sorted linked list, delete all duplicates such that each element appear only *once*.
+Given a sorted linked list, delete all duplicates such that each element appear only _once_.
 
 **Example 1:**
 
@@ -7975,26 +7878,25 @@ Just compare the next node. This is way more faster.
       return head;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "Array": <https://leetcode.com/tag/array> "Stack": <https://leetcode.com/tag/stack> Similar Questions: "Maximal Rectangle": <https://leetcode.com/problems/maximal-rectangle>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#84-largest-rectangle-in-histogramhttpsleetcodecomproblemslargest-rectangle-in-histogramdescription)
 
-<a href="#-84-largest-rectangle-in-histogram" id="user-content--84-largest-rectangle-in-histogram" class="anchor"></a>➤ [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-84-largest-rectangle-in-histogram" id="user-content--84-largest-rectangle-in-histogram" class="anchor"></a>➤ [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 
 ### <a href="#problem-72" id="user-content-problem-72" class="anchor"></a>Problem:
 
-Given *n* non-negative integers representing the histogram's bar height where the width of each bar is 1, find the area of largest rectangle in the histogram.
+Given _n_ non-negative integers representing the histogram's bar height where the width of each bar is 1, find the area of largest rectangle in the histogram.
 
 [![histogram.png](https://camo.githubusercontent.com/f963d6331166901b3a26a1d61bcb92c5a6f04987805cf9f1b31bf29ce9fffb31/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f686973746f6772616d2e706e67)](https://camo.githubusercontent.com/f963d6331166901b3a26a1d61bcb92c5a6f04987805cf9f1b31bf29ce9fffb31/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f686973746f6772616d2e706e67)
 
 Above is a histogram where width of each bar is 1, given height = `[2,1,5,6,2,3]`.
 
-[![histogram\_area.png](https://camo.githubusercontent.com/815ea9e0f6b93e260e758b02fd133352f4649508ca0307cb5aea6f639a3e6f7e/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f686973746f6772616d5f617265612e706e67)](https://camo.githubusercontent.com/815ea9e0f6b93e260e758b02fd133352f4649508ca0307cb5aea6f639a3e6f7e/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f686973746f6772616d5f617265612e706e67)
+[![histogram_area.png](https://camo.githubusercontent.com/815ea9e0f6b93e260e758b02fd133352f4649508ca0307cb5aea6f639a3e6f7e/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f686973746f6772616d5f617265612e706e67)](https://camo.githubusercontent.com/815ea9e0f6b93e260e758b02fd133352f4649508ca0307cb5aea6f639a3e6f7e/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f70726f626c656d7365742f686973746f6772616d5f617265612e706e67)
 
 The largest rectangle is shown in the shaded area, which has area = `10` unit.
 
@@ -8015,7 +7917,7 @@ Notice that if we just loop the bars from left to right, `b1` and `b2` of each b
 
 Observe how `i1` and `i2` changes depending on the height.
 
-To reduce O(*n^2*) to O(*n*), we use a stack to store incremental `b`s. Because `b1` and `b2` are both lower than `b`, whenever we reach a bar that is lower than the top of the stack, we know it's a `b2`. So stack top is a `b`. Second top is a `b1`. Keep popping the `b` to calculate areas until `b2` is no longer lower than stack top.
+To reduce O(_n^2_) to O(_n_), we use a stack to store incremental `b`s. Because `b1` and `b2` are both lower than `b`, whenever we reach a bar that is lower than the top of the stack, we know it's a `b2`. So stack top is a `b`. Second top is a `b1`. Keep popping the `b` to calculate areas until `b2` is no longer lower than stack top.
 
     /**
      * @param {number[]} heights
@@ -8035,16 +7937,15 @@ To reduce O(*n^2*) to O(*n*), we use a stack to store incremental `b`s. Because 
       return max;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "Array": <https://leetcode.com/tag/array> "Hash Table": <https://leetcode.com/tag/hash-table> "Dynamic Programming": <https://leetcode.com/tag/dynamic-programming> "Stack": <https://leetcode.com/tag/stack> Similar Questions: "Largest Rectangle in Histogram": <https://leetcode.com/problems/largest-rectangle-in-histogram> "Maximal Square": <https://leetcode.com/problems/maximal-square>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#85-maximal-rectanglehttpsleetcodecomproblemsmaximal-rectangledescription)
 
-<a href="#-85-maximal-rectangle" id="user-content--85-maximal-rectangle" class="anchor"></a>➤ [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-85-maximal-rectangle" id="user-content--85-maximal-rectangle" class="anchor"></a>➤ [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
 
 ### <a href="#problem-73" id="user-content-problem-73" class="anchor"></a>Problem:
 
@@ -8119,15 +8020,15 @@ Pick a pivot point `(row, col)` and assume it is on the base line. The adjoining
 
 So for the rectangle whose bottom pivot is `(row, col)`:
 
--   Define `area(row, col)` to be the area.
--   Define `height(row, col)` to be the height.
--   Define `left(row, col)` to be the `col` value of the bottom-left corner.
--   Define `right(row, col)` to be the `col` value of the bottom-right corner.
+- Define `area(row, col)` to be the area.
+- Define `height(row, col)` to be the height.
+- Define `left(row, col)` to be the `col` value of the bottom-left corner.
+- Define `right(row, col)` to be the `col` value of the bottom-right corner.
 
 Also:
 
--   Define `conLeft(row, col)` to be the `col` value of the leftmost cell of the consecutive `1`s on the left of `(row, col)`.
--   Define `conRight(row, col)` to be the `col` value of the rightmost cell of the consecutive `1`s on the right of `(row, col)`.
+- Define `conLeft(row, col)` to be the `col` value of the leftmost cell of the consecutive `1`s on the left of `(row, col)`.
+- Define `conRight(row, col)` to be the `col` value of the rightmost cell of the consecutive `1`s on the right of `(row, col)`.
 
 With `conLeft` and `conRight` we can know if the rectangle on `(row, col)` shrinks comparing to `(row-1, col)`.
 
@@ -8204,20 +8105,19 @@ We only need to keep the last state. Use dynamic arrays to reduce space complexi
       return max;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Linked List": <https://leetcode.com/tag/linked-list> "Two Pointers": <https://leetcode.com/tag/two-pointers>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#86-partition-listhttpsleetcodecomproblemspartition-listdescription)
 
-<a href="#-86-partition-list" id="user-content--86-partition-list" class="anchor"></a>➤ [86. Partition List](https://leetcode.com/problems/partition-list/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-86-partition-list" id="user-content--86-partition-list" class="anchor"></a>➤ [86. Partition List](https://leetcode.com/problems/partition-list/description/)
 
 ### <a href="#problem-74" id="user-content-problem-74" class="anchor"></a>Problem:
 
-Given a linked list and a value *x*, partition it such that all nodes less than *x* come before nodes greater than or equal to *x*.
+Given a linked list and a value _x_, partition it such that all nodes less than _x_ come before nodes greater than or equal to _x_.
 
 You should preserve the original relative order of the nodes in each of the two partitions.
 
@@ -8268,25 +8168,24 @@ Take the second part out as a new list and connect it back.
       return prehead1.next;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Array": <https://leetcode.com/tag/array> "Two Pointers": <https://leetcode.com/tag/two-pointers> Similar Questions: "Merge Two Sorted Lists": <https://leetcode.com/problems/merge-two-sorted-lists>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#88-merge-sorted-arrayhttpsleetcodecomproblemsmerge-sorted-arraydescription)
 
-<a href="#-88-merge-sorted-array" id="user-content--88-merge-sorted-array" class="anchor"></a>➤ [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-88-merge-sorted-array" id="user-content--88-merge-sorted-array" class="anchor"></a>➤ [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 
 ### <a href="#problem-75" id="user-content-problem-75" class="anchor"></a>Problem:
 
-Given two sorted integer arrays *nums1* and *nums2*, merge *nums2* into *nums1* as one sorted array.
+Given two sorted integer arrays _nums1_ and _nums2_, merge _nums2_ into _nums1_ as one sorted array.
 
 **Note:**
 
--   The number of elements initialized in *nums1* and *nums2* are *m* and *n* respectively.
--   You may assume that *nums1* has enough space (size that is greater or equal to *m* + *n*) to hold additional elements from *nums2*.
+- The number of elements initialized in _nums1_ and _nums2_ are _m_ and _n_ respectively.
+- You may assume that _nums1_ has enough space (size that is greater or equal to _m_ + _n_) to hold additional elements from _nums2_.
 
 **Example:**
 
@@ -8314,22 +8213,21 @@ Loop backward and keep picking the larger one. `nums1` is guaranteed longer than
       }
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "1-bit and 2-bit Characters": <https://leetcode.com/problems/1-bit-and-2-bit-characters>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#89-gray-codehttpsleetcodecomproblemsgray-codedescription)
 
-<a href="#-89-gray-code" id="user-content--89-gray-code" class="anchor"></a>➤ [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
----------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-89-gray-code" id="user-content--89-gray-code" class="anchor"></a>➤ [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
 
 ### <a href="#problem-76" id="user-content-problem-76" class="anchor"></a>Problem:
 
 The gray code is a binary numeral system where two successive values differ in only one bit.
 
-Given a non-negative integer *n* representing the total number of bits in the code, print the sequence of gray code. A gray code sequence must begin with 0.
+Given a non-negative integer _n_ representing the total number of bits in the code, print the sequence of gray code. A gray code sequence must begin with 0.
 
 **Example 1:**
 
@@ -8383,16 +8281,15 @@ Use bitwise shift to speed up the calculation. It is unlikely to overflow since 
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "Subsets": <https://leetcode.com/problems/subsets>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#90-subsets-iihttpsleetcodecomproblemssubsets-iidescription)
 
-<a href="#-90-subsets-ii" id="user-content--90-subsets-ii" class="anchor"></a>➤ [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-90-subsets-ii" id="user-content--90-subsets-ii" class="anchor"></a>➤ [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/)
 
 ### <a href="#problem-77" id="user-content-problem-77" class="anchor"></a>Problem:
 
@@ -8420,38 +8317,38 @@ See [78. Subsets](https://github.com/bgoonz/DS-ALGO-OFFICIAL/blob/master/078.%20
 1.  Sort input to group duplicates.
 2.  Only consider each duplicate once, that is, when it is at the first slot.
 
-    /**
-     * @param {number[]} nums
-     * @return {number[][]}
-     */
-    let subsetsWithDup = function (nums) {
-      const result = [];
-      _subsetsWithDup(nums.sort(), 0, [], result);
-      return result;
-    };
+    /\*\*
 
-    function _subsetsWithDup(nums, start, path, result) {
-      result.push(path.slice());
-      for (let i = start; i < nums.length; i++) {
-        if (i > start && nums[i] === nums[i - 1]) {
-          continue;
-        }
-        path.push(nums[i]);
-        _subsetsWithDup(nums, i + 1, path, result);
-        path.pop();
-      }
+    - @param {number[]} nums
+    - @return {number[][]}
+      \*/
+      let subsetsWithDup = function (nums) {
+      const result = [];
+      \_subsetsWithDup(nums.sort(), 0, [], result);
+      return result;
+      };
+
+    function \_subsetsWithDup(nums, start, path, result) {
+    result.push(path.slice());
+    for (let i = start; i < nums.length; i++) {
+    if (i > start && nums[i] === nums[i - 1]) {
+    continue;
+    }
+    path.push(nums[i]);
+    \_subsetsWithDup(nums, i + 1, path, result);
+    path.pop();
+    }
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "String": <https://leetcode.com/tag/string> "Dynamic Programming": <https://leetcode.com/tag/dynamic-programming> Similar Questions: "Decode Ways II": <https://leetcode.com/problems/decode-ways-ii>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#91-decode-wayshttpsleetcodecomproblemsdecode-waysdescription)
 
-<a href="#-91-decode-ways" id="user-content--91-decode-ways" class="anchor"></a>➤ [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-91-decode-ways" id="user-content--91-decode-ways" class="anchor"></a>➤ [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)
 
 ### <a href="#problem-78" id="user-content-problem-78" class="anchor"></a>Problem:
 
@@ -8514,22 +8411,21 @@ Only need to store the last two states. Init `f(-1) = 1` for easy calculation.
       return dp;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Linked List": <https://leetcode.com/tag/linked-list> Similar Questions: "Reverse Linked List": <https://leetcode.com/problems/reverse-linked-list>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#92-reverse-linked-list-iihttpsleetcodecomproblemsreverse-linked-list-iidescription)
 
-<a href="#-92-reverse-linked-list-ii" id="user-content--92-reverse-linked-list-ii" class="anchor"></a>➤ [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-92-reverse-linked-list-ii" id="user-content--92-reverse-linked-list-ii" class="anchor"></a>➤ [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
 
 ### <a href="#problem-79" id="user-content-problem-79" class="anchor"></a>Problem:
 
-Reverse a linked list from position *m* to *n*. Do it in one-pass.
+Reverse a linked list from position _m_ to _n_. Do it in one-pass.
 
-\*\*Note:\*\*1 ≤ *m* ≤ *n* ≤ length of list.
+\*\*Note:\*\*1 ≤ _m_ ≤ _n_ ≤ length of list.
 
 **Example:**
 
@@ -8583,16 +8479,15 @@ Break the list into 3 parts.
       return prehead.next;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "String": <https://leetcode.com/tag/string> "Backtracking": <https://leetcode.com/tag/backtracking> Similar Questions: "IP to CIDR": <https://leetcode.com/problems/ip-to-cidr>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#93-restore-ip-addresseshttpsleetcodecomproblemsrestore-ip-addressesdescription)
 
-<a href="#-93-restore-ip-addresses" id="user-content--93-restore-ip-addresses" class="anchor"></a>➤ [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-93-restore-ip-addresses" id="user-content--93-restore-ip-addresses" class="anchor"></a>➤ [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
 
 ### <a href="#problem-80" id="user-content-problem-80" class="anchor"></a>Problem:
 
@@ -8645,20 +8540,19 @@ Backtracking. Note that leading `'0'` is not allowed except just `'0'`.
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Hard Related Topics: "String": <https://leetcode.com/tag/string> "Dynamic Programming": <https://leetcode.com/tag/dynamic-programming>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#97-interleaving-stringhttpsleetcodecomproblemsinterleaving-stringdescription)
 
-<a href="#-97-interleaving-string" id="user-content--97-interleaving-string" class="anchor"></a>➤ [97. Interleaving String](https://leetcode.com/problems/interleaving-string/description/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-97-interleaving-string" id="user-content--97-interleaving-string" class="anchor"></a>➤ [97. Interleaving String](https://leetcode.com/problems/interleaving-string/description/)
 
 ### <a href="#problem-81" id="user-content-problem-81" class="anchor"></a>Problem:
 
-Given *s1*, *s2*, *s3*, find whether *s3* is formed by the interleaving of *s1* and *s2*.
+Given _s1_, _s2_, _s3_, find whether _s3_ is formed by the interleaving of _s1_ and _s2_.
 
 **Example 1:**
 
@@ -8710,16 +8604,15 @@ Dynamic array can be used.
       return dp[len2];
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Tree": <https://leetcode.com/tag/tree> "Depth-first Search": <https://leetcode.com/tag/depth-first-search>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#100-same-treehttpsleetcodecomproblemssame-treedescription)
 
-<a href="#-100-same-tree" id="user-content--100-same-tree" class="anchor"></a>➤ [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
-------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-100-same-tree" id="user-content--100-same-tree" class="anchor"></a>➤ [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
 
 ### <a href="#problem-82" id="user-content-problem-82" class="anchor"></a>Problem:
 
@@ -8784,16 +8677,15 @@ The code should be self-evident.
       );
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Tree": <https://leetcode.com/tag/tree> "Depth-first Search": <https://leetcode.com/tag/depth-first-search> "Breadth-first Search": <https://leetcode.com/tag/breadth-first-search>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#101-symmetric-treehttpsleetcodecomproblemssymmetric-treedescription)
 
-<a href="#-101-symmetric-tree" id="user-content--101-symmetric-tree" class="anchor"></a>➤ [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-101-symmetric-tree" id="user-content--101-symmetric-tree" class="anchor"></a>➤ [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
 
 ### <a href="#problem-83" id="user-content-problem-83" class="anchor"></a>Problem:
 
@@ -8904,16 +8796,15 @@ Level order traversal. Check symmetry before entering the next level.
       return true;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Tree": <https://leetcode.com/tag/tree> "Breadth-first Search": <https://leetcode.com/tag/breadth-first-search> Similar Questions: "Binary Tree Zigzag Level Order Traversal": <https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal> "Binary Tree Level Order Traversal II": <https://leetcode.com/problems/binary-tree-level-order-traversal-ii> "Minimum Depth of Binary Tree": <https://leetcode.com/problems/minimum-depth-of-binary-tree> "Binary Tree Vertical Order Traversal": <https://leetcode.com/problems/binary-tree-vertical-order-traversal> "Average of Levels in Binary Tree": <https://leetcode.com/problems/average-of-levels-in-binary-tree> "N-ary Tree Level Order Traversal": <https://leetcode.com/problems/n-ary-tree-level-order-traversal>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#102-binary-tree-level-order-traversalhttpsleetcodecomproblemsbinary-tree-level-order-traversaldescription)
 
-<a href="#-102-binary-tree-level-order-traversal" id="user-content--102-binary-tree-level-order-traversal" class="anchor"></a>➤ [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-102-binary-tree-level-order-traversal" id="user-content--102-binary-tree-level-order-traversal" class="anchor"></a>➤ [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 
 ### <a href="#problem-84" id="user-content-problem-84" class="anchor"></a>Problem:
 
@@ -8975,16 +8866,15 @@ The code should be self-evident.
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Stack": <https://leetcode.com/tag/stack> "Tree": <https://leetcode.com/tag/tree> "Breadth-first Search": <https://leetcode.com/tag/breadth-first-search> Similar Questions: "Binary Tree Level Order Traversal": <https://leetcode.com/problems/binary-tree-level-order-traversal>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#103-binary-tree-zigzag-level-order-traversalhttpsleetcodecomproblemsbinary-tree-zigzag-level-order-traversaldescription)
 
-<a href="#-103-binary-tree-zigzag-level-order-traversal" id="user-content--103-binary-tree-zigzag-level-order-traversal" class="anchor"></a>➤ [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-103-binary-tree-zigzag-level-order-traversal" id="user-content--103-binary-tree-zigzag-level-order-traversal" class="anchor"></a>➤ [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
 
 ### <a href="#problem-85" id="user-content-problem-85" class="anchor"></a>Problem:
 
@@ -9051,16 +8941,15 @@ Reverse the level when pushing to the reuslt.
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Tree": <https://leetcode.com/tag/tree> "Depth-first Search": <https://leetcode.com/tag/depth-first-search> Similar Questions: "Balanced Binary Tree": <https://leetcode.com/problems/balanced-binary-tree> "Minimum Depth of Binary Tree": <https://leetcode.com/problems/minimum-depth-of-binary-tree> "Maximum Depth of N-ary Tree": <https://leetcode.com/problems/maximum-depth-of-n-ary-tree>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#104-maximum-depth-of-binary-treehttpsleetcodecomproblemsmaximum-depth-of-binary-treedescription)
 
-<a href="#-104-maximum-depth-of-binary-tree" id="user-content--104-maximum-depth-of-binary-tree" class="anchor"></a>➤ [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-104-maximum-depth-of-binary-tree" id="user-content--104-maximum-depth-of-binary-tree" class="anchor"></a>➤ [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 
 ### <a href="#problem-86" id="user-content-problem-86" class="anchor"></a>Problem:
 
@@ -9103,16 +8992,15 @@ The code should be self-evident.
         : Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Tree": <https://leetcode.com/tag/tree> "Depth-first Search": <https://leetcode.com/tag/depth-first-search> Similar Questions: "Construct Binary Tree from Inorder and Postorder Traversal": <https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#105-construct-binary-tree-from-preorder-and-inorder-traversalhttpsleetcodecomproblemsconstruct-binary-tree-from-preorder-and-inorder-traversaldescription)
 
-<a href="#-105-construct-binary-tree-from-preorder-and-inorder-traversal" id="user-content--105-construct-binary-tree-from-preorder-and-inorder-traversal" class="anchor"></a>➤ [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-105-construct-binary-tree-from-preorder-and-inorder-traversal" id="user-content--105-construct-binary-tree-from-preorder-and-inorder-traversal" class="anchor"></a>➤ [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
 
 ### <a href="#problem-87" id="user-content-problem-87" class="anchor"></a>Problem:
 
@@ -9189,16 +9077,15 @@ Repeat the process on subtrees.
       return node;
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Array": <https://leetcode.com/tag/array> "Tree": <https://leetcode.com/tag/tree> "Depth-first Search": <https://leetcode.com/tag/depth-first-search> Similar Questions: "Construct Binary Tree from Preorder and Inorder Traversal": <https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#106-construct-binary-tree-from-inorder-and-postorder-traversalhttpsleetcodecomproblemsconstruct-binary-tree-from-inorder-and-postorder-traversaldescription)
 
-<a href="#-106-construct-binary-tree-from-inorder-and-postorder-traversal" id="user-content--106-construct-binary-tree-from-inorder-and-postorder-traversal" class="anchor"></a>➤ [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-106-construct-binary-tree-from-inorder-and-postorder-traversal" id="user-content--106-construct-binary-tree-from-inorder-and-postorder-traversal" class="anchor"></a>➤ [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
 
 ### <a href="#problem-88" id="user-content-problem-88" class="anchor"></a>Problem:
 
@@ -9275,16 +9162,15 @@ Repeat the process on subtrees.
       return node;
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Tree": <https://leetcode.com/tag/tree> "Breadth-first Search": <https://leetcode.com/tag/breadth-first-search> Similar Questions: "Binary Tree Level Order Traversal": <https://leetcode.com/problems/binary-tree-level-order-traversal> "Average of Levels in Binary Tree": <https://leetcode.com/problems/average-of-levels-in-binary-tree>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#107-binary-tree-level-order-traversal-iihttpsleetcodecomproblemsbinary-tree-level-order-traversal-iidescription)
 
-<a href="#-107-binary-tree-level-order-traversal-ii" id="user-content--107-binary-tree-level-order-traversal-ii" class="anchor"></a>➤ [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-107-binary-tree-level-order-traversal-ii" id="user-content--107-binary-tree-level-order-traversal-ii" class="anchor"></a>➤ [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)
 
 ### <a href="#problem-89" id="user-content-problem-89" class="anchor"></a>Problem:
 
@@ -9346,16 +9232,15 @@ See [102. Binary Tree Level Order Traversal](https://github.com/bgoonz/DS-ALGO-O
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Tree": <https://leetcode.com/tag/tree> "Depth-first Search": <https://leetcode.com/tag/depth-first-search> Similar Questions: "Maximum Depth of Binary Tree": <https://leetcode.com/problems/maximum-depth-of-binary-tree>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#110-balanced-binary-treehttpsleetcodecomproblemsbalanced-binary-treedescription)
 
-<a href="#-110-balanced-binary-tree" id="user-content--110-balanced-binary-tree" class="anchor"></a>➤ [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-110-balanced-binary-tree" id="user-content--110-balanced-binary-tree" class="anchor"></a>➤ [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 
 ### <a href="#problem-90" id="user-content-problem-90" class="anchor"></a>Problem:
 
@@ -9363,7 +9248,7 @@ Given a binary tree, determine if it is height-balanced.
 
 For this problem, a height-balanced binary tree is defined as:
 
-a binary tree in which the depth of the two subtrees of *every* node never differ by more than 1.
+a binary tree in which the depth of the two subtrees of _every_ node never differ by more than 1.
 
 **Example 1:**
 
@@ -9427,16 +9312,15 @@ Get the depth of subtrees and compare. Prune the DFS tree by returning `-1`.
         : -1;
     }
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Tree": <https://leetcode.com/tag/tree> "Depth-first Search": <https://leetcode.com/tag/depth-first-search> "Breadth-first Search": <https://leetcode.com/tag/breadth-first-search> Similar Questions: "Binary Tree Level Order Traversal": <https://leetcode.com/problems/binary-tree-level-order-traversal> "Maximum Depth of Binary Tree": <https://leetcode.com/problems/maximum-depth-of-binary-tree>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#111-minimum-depth-of-binary-treehttpsleetcodecomproblemsminimum-depth-of-binary-treedescription)
 
-<a href="#-111-minimum-depth-of-binary-tree" id="user-content--111-minimum-depth-of-binary-tree" class="anchor"></a>➤ [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-111-minimum-depth-of-binary-tree" id="user-content--111-minimum-depth-of-binary-tree" class="anchor"></a>➤ [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
 
 ### <a href="#problem-91" id="user-content-problem-91" class="anchor"></a>Problem:
 
@@ -9486,16 +9370,15 @@ Ignore `null` children.
       }
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Easy Related Topics: "Tree": <https://leetcode.com/tag/tree> "Depth-first Search": <https://leetcode.com/tag/depth-first-search> Similar Questions: "Path Sum II": <https://leetcode.com/problems/path-sum-ii> "Binary Tree Maximum Path Sum": <https://leetcode.com/problems/binary-tree-maximum-path-sum> "Sum Root to Leaf Numbers": <https://leetcode.com/problems/sum-root-to-leaf-numbers> "Path Sum III": <https://leetcode.com/problems/path-sum-iii> "Path Sum IV": <https://leetcode.com/problems/path-sum-iv>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#112-path-sumhttpsleetcodecomproblemspath-sumdescription)
 
-<a href="#-112-path-sum" id="user-content--112-path-sum" class="anchor"></a>➤ [112. Path Sum](https://leetcode.com/problems/path-sum/description/)
---------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-112-path-sum" id="user-content--112-path-sum" class="anchor"></a>➤ [112. Path Sum](https://leetcode.com/problems/path-sum/description/)
 
 ### <a href="#problem-92" id="user-content-problem-92" class="anchor"></a>Problem:
 
@@ -9546,16 +9429,15 @@ Note that node value could be negative so pruning can not be performed.
       );
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Tree": <https://leetcode.com/tag/tree> "Depth-first Search": <https://leetcode.com/tag/depth-first-search> Similar Questions: "Path Sum": <https://leetcode.com/problems/path-sum> "Binary Tree Paths": <https://leetcode.com/problems/binary-tree-paths> "Path Sum III": <https://leetcode.com/problems/path-sum-iii> "Path Sum IV": <https://leetcode.com/problems/path-sum-iv>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#113-path-sum-iihttpsleetcodecomproblemspath-sum-iidescription)
 
-<a href="#-113-path-sum-ii" id="user-content--113-path-sum-ii" class="anchor"></a>➤ [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-113-path-sum-ii" id="user-content--113-path-sum-ii" class="anchor"></a>➤ [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)
 
 ### <a href="#problem-93" id="user-content-problem-93" class="anchor"></a>Problem:
 
@@ -9618,16 +9500,15 @@ Simple backtracking.
       return result;
     };
 
-------------------------------------------------------------------------
+---
 
 Difficulty: Medium Related Topics: "Tree": <https://leetcode.com/tag/tree> "Depth-first Search": <https://leetcode.com/tag/depth-first-search> Similar Questions: "Flatten a Multilevel Doubly Linked List": <https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list>
 
-------------------------------------------------------------------------
+---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#114-flatten-binary-tree-to-linked-listhttpsleetcodecomproblemsflatten-binary-tree-to-linked-listdescription)
 
-<a href="#-114-flatten-binary-tree-to-linked-list" id="user-content--114-flatten-binary-tree-to-linked-list" class="anchor"></a>➤ [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#-114-flatten-binary-tree-to-linked-list" id="user-content--114-flatten-binary-tree-to-linked-list" class="anchor"></a>➤ [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 
 ### <a href="#problem-94" id="user-content-problem-94" class="anchor"></a>Problem:
 
@@ -9695,8 +9576,7 @@ Return the leaf node of a flattened subtree for concatenation.
       return rightLeaf || leftLeaf;
     }
 
-About
------
+## About
 
 The final Iteration of my data structures website
 
@@ -9718,56 +9598,52 @@ Apache-2.0 License
 
 Code of conduct
 
-<a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/releases" class="Link--primary no-underline">Releases</a>
--------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/releases" class="Link--primary no-underline">Releases</a>
 
 No releases published
 
-<a href="https://github.com/users/bgoonz/packages?repo_name=DS-ALGO-OFFICIAL" class="Link--primary no-underline">Packages <span class="Counter" title="0" hidden="hidden" data-view-component="true">0</span></a>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/users/bgoonz/packages?repo_name=DS-ALGO-OFFICIAL" class="Link--primary no-underline">Packages <span class="Counter" title="0" hidden="hidden" data-view-component="true">0</span></a>
 
-No packages published  
+No packages published
 
-<a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/graphs/contributors" class="Link--primary no-underline">Contributors <span class="Counter" title="5" data-view-component="true">5</span></a>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/bgoonz/DS-ALGO-OFFICIAL/graphs/contributors" class="Link--primary no-underline">Contributors <span class="Counter" title="5" data-view-component="true">5</span></a>
 
--   
+-
 
--   
+-
 
--   
+-
 
--   
+-
 
--   
+-
 
-Languages
----------
+## Languages
 
 <span class="Progress" data-view-component="true"> <span class="Progress-item color-bg-success-inverse" style="background-color:#f1e05a !important;;width: 53.8%;" itemprop="keywords" aria-label="JavaScript 53.8" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#3572A5 !important;;width: 39.5%;" itemprop="keywords" aria-label="Python 39.5" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#563d7c !important;;width: 6.7%;" itemprop="keywords" aria-label="CSS 6.7" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#1d365d !important;;width: 0.0%;" itemprop="keywords" aria-label="Less 0.0" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#427819 !important;;width: 0.0%;" itemprop="keywords" aria-label="Makefile 0.0" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#F05138 !important;;width: 0.0%;" itemprop="keywords" aria-label="Swift 0.0" data-view-component="true"></span> </span>
 
--   <span class="color-fg-default text-bold mr-1">JavaScript</span> 53.8%
--   <span class="color-fg-default text-bold mr-1">Python</span> 39.5%
--   <span class="color-fg-default text-bold mr-1">CSS</span> 6.7%
--   <span class="color-fg-default text-bold mr-1">Less</span> 0.0%
--   <span class="color-fg-default text-bold mr-1">Makefile</span> 0.0%
--   <span class="color-fg-default text-bold mr-1">Swift</span> 0.0%
+- <span class="color-fg-default text-bold mr-1">JavaScript</span> 53.8%
+- <span class="color-fg-default text-bold mr-1">Python</span> 39.5%
+- <span class="color-fg-default text-bold mr-1">CSS</span> 6.7%
+- <span class="color-fg-default text-bold mr-1">Less</span> 0.0%
+- <span class="color-fg-default text-bold mr-1">Makefile</span> 0.0%
+- <span class="color-fg-default text-bold mr-1">Swift</span> 0.0%
 
--   © 2021 GitHub, Inc.
--   [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
--   [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
--   [Security](https://github.com/security)
--   [Status](https://www.githubstatus.com/)
--   [Docs](https://docs.github.com/)
+- © 2021 GitHub, Inc.
+- [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
+- [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
+- [Security](https://github.com/security)
+- [Status](https://www.githubstatus.com/)
+- [Docs](https://docs.github.com/)
 
 <!-- -->
 
--   [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
--   [Pricing](https://github.com/pricing)
--   [API](https://docs.github.com/)
--   [Training](https://services.github.com/)
--   [Blog](https://github.blog/)
--   [About](https://github.com/about)
+- [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
+- [Pricing](https://github.com/pricing)
+- [API](https://docs.github.com/)
+- [Training](https://services.github.com/)
+- [Blog](https://github.blog/)
+- [About](https://github.com/about)
 
 <span class="f6 color-fg-muted"></span>
 

@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 Deprecated in HTML5. Do not use.
 
-`Still Using HTML Marquee Tags? Find Out Why They Aren’t Recommended`
-=====================================================================
+# `Still Using HTML Marquee Tags? Find Out Why They Aren’t Recommended`
 
 In <span class="post-meta-category">[Deprecated](https://html.com/deprecated/), [HTML Tags](https://html.com/tags/)</span>
 
@@ -30,18 +27,17 @@ textual
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> The Marquee Element](#The_Marquee_Element)
--   [<span class="toc_number toc_depth_1">2</span> Width and Height Attributes](#Width_and_Height_Attributes)
--   [<span class="toc_number toc_depth_1">3</span> The Direction Attribute](#The_Direction_Attribute)
--   [<span class="toc_number toc_depth_1">4</span> The Behavior Attribute](#The_Behavior_Attribute)
--   [<span class="toc_number toc_depth_1">5</span> The Scrolldelay Attribute](#The_Scrolldelay_Attribute)
--   [<span class="toc_number toc_depth_1">6</span> The Scrollamount Attribute](#The_Scrollamount_Attribute)
--   [<span class="toc_number toc_depth_1">7</span> The BGColor Attribute](#The_BGColor_Attribute)
--   [<span class="toc_number toc_depth_1">8</span> HSpace and VSpace Attributes](#HSpace_and_VSpace_Attributes)
--   [<span class="toc_number toc_depth_1">9</span> The Loop Attribute](#The_Loop_Attribute)
+- [<span class="toc_number toc_depth_1">1</span> The Marquee Element](#The_Marquee_Element)
+- [<span class="toc_number toc_depth_1">2</span> Width and Height Attributes](#Width_and_Height_Attributes)
+- [<span class="toc_number toc_depth_1">3</span> The Direction Attribute](#The_Direction_Attribute)
+- [<span class="toc_number toc_depth_1">4</span> The Behavior Attribute](#The_Behavior_Attribute)
+- [<span class="toc_number toc_depth_1">5</span> The Scrolldelay Attribute](#The_Scrolldelay_Attribute)
+- [<span class="toc_number toc_depth_1">6</span> The Scrollamount Attribute](#The_Scrollamount_Attribute)
+- [<span class="toc_number toc_depth_1">7</span> The BGColor Attribute](#The_BGColor_Attribute)
+- [<span class="toc_number toc_depth_1">8</span> HSpace and VSpace Attributes](#HSpace_and_VSpace_Attributes)
+- [<span class="toc_number toc_depth_1">9</span> The Loop Attribute](#The_Loop_Attribute)
 
-<span id="The_Marquee_Element">The Marquee Element</span>
----------------------------------------------------------
+## <span id="The_Marquee_Element">The Marquee Element</span>
 
 <span class="useWarnHead">The Marquee Tag is Obsolete</span>  
 This element is obsolete and should not be used. Browser support for this element is limited and using it may produce unexpected results. The following [tutorials](https://html.com/) are for historical value only.
@@ -60,8 +56,7 @@ Is it inline?
 
 The content of ``does not start scrolling until the “ element becomes visible.
 
-<span id="Width_and_Height_Attributes">Width and Height Attributes</span>
--------------------------------------------------------------------------
+## <span id="Width_and_Height_Attributes">Width and Height Attributes</span>
 
 `WIDTH` and `HEIGHT` set the dimensions of the marquee.
 
@@ -75,12 +70,11 @@ Howdy!
 
 Neither attribute is required. The default value for `WIDTH` is 100%. The `HEIGHT` defaults to the natural height of content as it appears in the width.
 
-Happy Halloween!  
-  
+Happy Halloween!
+
 <img src="https://html.com/wp-content/uploads/pumpkin.gif" alt="picture of a pumpkin" class="sp-no-webp" srcset="/wp-content/uploads/pumpkin.gif" width="100" height="100" />
 
-<span id="The_Direction_Attribute">The Direction Attribute</span>
------------------------------------------------------------------
+## <span id="The_Direction_Attribute">The Direction Attribute</span>
 
 `DIRECTION` indicates which direction the marquee scrolls. `DIRECTION=LEFT`, which is the default, indicates that the marquee starts at the right and moves leftwards across the page. `DIRECTION=RIGHT` indicates that the marquee starts at the left and moves rightwards across the page.
 
@@ -94,8 +88,7 @@ Produces this:
 Hi There.  
 Hi There.
 
-<span id="The_Behavior_Attribute">The Behavior Attribute</span>
----------------------------------------------------------------
+## <span id="The_Behavior_Attribute">The Behavior Attribute</span>
 
 `BEHAVIOR` indicates how the contents scroll.
 
@@ -123,8 +116,7 @@ Produces this result:
 
 Hello
 
-<span id="The_Scrolldelay_Attribute">The Scrolldelay Attribute</span>
----------------------------------------------------------------------
+## <span id="The_Scrolldelay_Attribute">The Scrolldelay Attribute</span>
 
 `SCROLLDELAY`, together with `SCROLLAMOUNT`, sets the speed of the scrolling. Marquee moves the content by displaying the content, then delaying for some short period of time, then displaying the content again in a new position. `SCROLLDELAY` sets the amount of delay in milliseconds (a millisecond is 1/1000th of a second). The default delay is 85.
 
@@ -140,8 +132,7 @@ Hello
 
 `SCROLLDELAY` is good for making the marquee slower than the default but it’s not much help in speeding it up. Try `SCROLLAMOUNT` to speed up the marquee.
 
-<span id="The_Scrollamount_Attribute">The Scrollamount Attribute</span>
------------------------------------------------------------------------
+## <span id="The_Scrollamount_Attribute">The Scrollamount Attribute</span>
 
 `SCROLLAMOUNT`, together with `SCROLLDELAY`, sets the speed of the scrolling. Marquee moves the content by displaying the content, then delaying for some short period of time, then displaying the content again in a new position. `SCROLLAMOUNT` sets the size in pixels of each jump. A higher value for `SCROLLAMOUNT` makes the marquee scroll faster. The default value is 6.
 
@@ -155,8 +146,7 @@ Hello
 Hello  
 Hello
 
-<span id="The_BGColor_Attribute">The BGColor Attribute</span>
--------------------------------------------------------------
+## <span id="The_BGColor_Attribute">The BGColor Attribute</span>
 
 `BGCOLOR` sets the background color of the marquee.
 
@@ -166,8 +156,7 @@ Gives us this marquee:
 
 Howdy there!
 
-<span id="HSpace_and_VSpace_Attributes">HSpace and VSpace Attributes</span>
----------------------------------------------------------------------------
+## <span id="HSpace_and_VSpace_Attributes">HSpace and VSpace Attributes</span>
 
 `HSPACE` sets the horizontal space to the left and right of the marquee. `VSPACE` sets the vertical space at the top and bottom of the marquee.
 
@@ -209,8 +198,7 @@ Hello.Howdy there!Hi There!
 
 Hello.Howdy there!Hi There!
 
-<span id="The_Loop_Attribute">The Loop Attribute</span>
--------------------------------------------------------
+## <span id="The_Loop_Attribute">The Loop Attribute</span>
 
 `LOOP` sets how many times the marquee should loop. The default value (i.e. if you don’t put a LOOP attribute at all) is `INFINITE`, which means that the marquee loops endlessly.
 
@@ -240,10 +228,9 @@ Hello
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Post navigation
----------------
+## Post navigation
 
-[<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`How To Use  In HTML`](https://html.com/attributes/img-src/)
+[<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`How To Use In HTML`](https://html.com/attributes/img-src/)
 
 [`<td nowrap>`<span class="nav-link-label"><span class="genericon genericon-next"></span></span>](https://html.com/attributes/td-nowrap/)
 
@@ -253,11 +240,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

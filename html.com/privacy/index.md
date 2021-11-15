@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-The HTML.com Privacy and Cookie Policy
-======================================
+# The HTML.com Privacy and Cookie Policy
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -99,7 +92,7 @@ iv. law enforcement agencies in compliance with law enforcement.
 
 **This site and its third-party tools use cookies to personalize ads, deliver content, and to analyze traffic.**
 
-a) What are Cookies? Cookies are small text files that are placed on your device when you use the Website. HTML.com’s use of cookies is detailed below. *Session cookies* enable you to move from page to page within the Website and any information you enter will be remembered but is deleted when you close the Website or after a short time. *Persistent cookies* allow us to remember your preferences and settings when you use the Website in the future.
+a) What are Cookies? Cookies are small text files that are placed on your device when you use the Website. HTML.com’s use of cookies is detailed below. _Session cookies_ enable you to move from page to page within the Website and any information you enter will be remembered but is deleted when you close the Website or after a short time. _Persistent cookies_ allow us to remember your preferences and settings when you use the Website in the future.
 
 b) Disabling Cookies: The use of the cookies described above improves the functionality of the Website and your experience of using them. If you do not want these cookies to be served on your device, you are able to disable them by changing the settings within the Website, or on your device. Please note that if you do decide to disable cookies you may not be able to access some of the Website, and some of the features of the Website may not function properly. By continuing to use the Website, including using social networking media functionality, you consent to the relevant cookies being set on your device. You can change your browser settings by clicking the appropriate link as follows: [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer), [Chrome](https://support.google.com/chrome/answer/95647?hl=en), [Internet Explorer](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer) and/or [Safari](https://support.apple.com/kb/ph21411?locale=en_US).
 
@@ -126,11 +119,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">1,152 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,125 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">954 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">721 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">591 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">1,152 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,125 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">954 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">721 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">591 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

@@ -278,7 +278,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -296,7 +296,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -336,7 +336,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -378,25 +378,25 @@ Node argv
 
 <span data-key="b616300295c34177a4513e42fd5af4c1">**Example 1:**</span>
 
-<span data-key="15ff856f8144466ba591e43cafa3f3d0">``` const process =                                         require(``'process'``); ```</span>
+<span data-key="15ff856f8144466ba591e43cafa3f3d0">` const process = require(``'process'``); `</span>
 
 <span data-key="8389761615ac4db9a19ab666b768ea39">`console.log(process.argv);`</span>
 
 <span data-key="6030a9afe4af49db9795232dedefe3a4">**Command to run the code:**</span>
 
-<span data-key="cf274e8f6c4445cdbf65e9bfe52208b8"><span data-offset-key="cf274e8f6c4445cdbf65e9bfe52208b8:0">node index.js extra\_argument1 extra\_argument2 3</span></span>
+<span data-key="cf274e8f6c4445cdbf65e9bfe52208b8"><span data-offset-key="cf274e8f6c4445cdbf65e9bfe52208b8:0">node index.js extra_argument1 extra_argument2 3</span></span>
 
 <span data-key="5295188209e1474a89b7c1b2a2e0e03f">**Output:**</span>
 
-<span data-key="93d99e8d0e2d4289bb4f18e3dd3b8edc"><span data-offset-key="93d99e8d0e2d4289bb4f18e3dd3b8edc:0">\[ ‘C:\\\\Program Files\\\\nodejs\\\\node.exe', ‘C:\\\\nodejs\\\\g\\\\process\\\\argv\_1.js', ‘extra\_argument1', ‘extra\_argument2', ‘3' \]</span></span>
+<span data-key="93d99e8d0e2d4289bb4f18e3dd3b8edc"><span data-offset-key="93d99e8d0e2d4289bb4f18e3dd3b8edc:0">\[ ‘C:\\\\Program Files\\\\nodejs\\\\node.exe', ‘C:\\\\nodejs\\\\g\\\\process\\\\argv_1.js', ‘extra_argument1', ‘extra_argument2', ‘3' \]</span></span>
 
 <span data-key="316b4b68a9984b84a6c498ca4e6fc2c3">**Example 2:**</span>
 
-<span data-key="6b1f8533719b45619505085114c905a9">``` const process =                                         require(``'process'``); ```</span>
+<span data-key="6b1f8533719b45619505085114c905a9">` const process = require(``'process'``); `</span>
 
 <span data-key="7856d8bf1ad548098089b58c635e345e">`var`<span data-offset-key="7856d8bf1ad548098089b58c635e345e:1"> </span>`args = process.argv;`</span>
 
-<span data-key="ac195758ccdd44f8bede0581bdb7b4f3">``` console.log(``"number of arguments                                         is "``+args.length); ```</span>
+<span data-key="ac195758ccdd44f8bede0581bdb7b4f3">` console.log(``"number of arguments is "``+args.length); `</span>
 
 <span data-key="1f3fd139e77443fc9431710f1999bd13">`args.forEach((val, index) => {`</span>
 
@@ -406,11 +406,11 @@ Node argv
 
 <span data-key="a87aa775bb8e4610bebef0d43aee5369">**Command to run the code:**</span>
 
-<span data-key="4f75a9527e144e279e8c2c5aa4352151"><span data-offset-key="4f75a9527e144e279e8c2c5aa4352151:0">node index.js extra\_argument1 extra\_argument2 3</span></span>
+<span data-key="4f75a9527e144e279e8c2c5aa4352151"><span data-offset-key="4f75a9527e144e279e8c2c5aa4352151:0">node index.js extra_argument1 extra_argument2 3</span></span>
 
 <span data-key="e49542bff56c4f90955829219fb3c454">**Output:**</span>
 
-<span data-key="5d627637fda1486cabe6f3071526ca6a"><span data-offset-key="5d627637fda1486cabe6f3071526ca6a:0">number of arguments is 5 0: C:\\Program Files\\nodejs\\node.exe 1: C:\\nodejs\\g\\process\\argv\_2.js 2: extra\_argument1 3: extra\_argument2 4: 3</span></span>
+<span data-key="5d627637fda1486cabe6f3071526ca6a"><span data-offset-key="5d627637fda1486cabe6f3071526ca6a:0">number of arguments is 5 0: C:\\Program Files\\nodejs\\node.exe 1: C:\\nodejs\\g\\process\\argv_2.js 2: extra_argument1 3: extra_argument2 4: 3</span></span>
 
 <span data-key="e9c8eb053d0345918e5257d820ef9bd4">**Note:**<span data-offset-key="e9c8eb053d0345918e5257d820ef9bd4:1"> The above program will compile and run by using the </span>`node filename.js`<span data-offset-key="e9c8eb053d0345918e5257d820ef9bd4:3"> command followed by arguments.</span></span>
 

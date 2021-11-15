@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [HTML Web Forms Tutorial For Coding Beginners](https://html.com/forms/) / What Does In HTML: Easy Tutorial With Code Example
 
-`What  Does In HTML: Easy Tutorial With Code Example`
-=====================================================
+# `What Does In HTML: Easy Tutorial With Code Example`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -18,7 +15,7 @@ In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 Element of  
 [HTML Web Forms Tutorial For Coding Beginners](https://html.com/forms/)
 
-What does `What  Does In HTML: Easy Tutorial With Code Example` do?  
+What does `What Does In HTML: Easy Tutorial With Code Example` do?  
 The &lt;label&gt; element is used to associate a text label with a form &lt;input&gt; field. The label is used to tell users the value that should be entered in the associated input field.
 
 Display  
@@ -26,26 +23,24 @@ inline
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> Using Labels Properly](#Using_Labels_Properly)
--   [<span class="toc_number toc_depth_1">3</span> Labels and Usability](#Labels_and_Usability)
--   [<span class="toc_number toc_depth_1">4</span> Browser Support for label](#Browser_Support_for_label)
--   [<span class="toc_number toc_depth_1">5</span> Attributes of label](#Attributes_of_label)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> Using Labels Properly](#Using_Labels_Properly)
+- [<span class="toc_number toc_depth_1">3</span> Labels and Usability](#Labels_and_Usability)
+- [<span class="toc_number toc_depth_1">4</span> Browser Support for label](#Browser_Support_for_label)
+- [<span class="toc_number toc_depth_1">5</span> Attributes of label](#Attributes_of_label)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <form>
      <label for="favorite-animal">Favorite Animal</label><br>
      <input name="favorite-animal" id="favorite-animal">
     </form>
 
-Favorite Animal  
+Favorite Animal
 
 <span class="underline"></span>
 
-<span id="Using_Labels_Properly">Using Labels Properly</span>
--------------------------------------------------------------
+## <span id="Using_Labels_Properly">Using Labels Properly</span>
 
 The `<label>` element is one of a handful of elements that only exists and makes sense in relationship to another element. In the case of `<label>`, the label has to be associated with a form field (usually in [`<input>`](https://html.com/tags/input/) element of [one sort or another](https://html.com/attributes/input-type/).
 
@@ -65,10 +60,9 @@ Do you agree to the terms and conditions?
 
 Agree
 
-<span id="Labels_and_Usability">Labels and Usability</span>
------------------------------------------------------------
+## <span id="Labels_and_Usability">Labels and Usability</span>
 
-It is, of course, *possible* to not use the `<label>` element, and just put unmarked text over or next to a form field. But this isn’t a good idea. Having a paired label is more than just good semantics, it is good usability. With a properly marked-up label, the user can click (or finger-tap) the label in order to bring focus to the element or select it. This is moderately helpful on regular desktop and laptop computers, but on touchscreen mobile phones, it makes a huge difference.
+It is, of course, _possible_ to not use the `<label>` element, and just put unmarked text over or next to a form field. But this isn’t a good idea. Having a paired label is more than just good semantics, it is good usability. With a properly marked-up label, the user can click (or finger-tap) the label in order to bring focus to the element or select it. This is moderately helpful on regular desktop and laptop computers, but on touchscreen mobile phones, it makes a huge difference.
 
     <!-- With the label -->
     <input type="checkbox" name="easy" id="easy" value="easy"><label for="easy"> Click this label to select.</label>
@@ -100,8 +94,7 @@ For more information on this topic, see [our tutorial on form usability](https:/
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_label">Browser Support for label</span>
----------------------------------------------------------------------
+## <span id="Browser_Support_for_label">Browser Support for label</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -139,16 +132,14 @@ For more information on this topic, see [our tutorial on form usability](https:/
 
 <span class="browser-supported">All</span>
 
-<span id="Attributes_of_label">Attributes of label</span>
----------------------------------------------------------
+## <span id="Attributes_of_label">Attributes of label</span>
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/attributes/label-for/" class="linked-name">for</a><br />
 </td><td></td><td>Specifies the ID of the associated form field element.</td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
-[<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`How To Use  In HTML`](https://html.com/attributes/img-src/)
+[<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`How To Use In HTML`](https://html.com/attributes/img-src/)
 
 [`<td nowrap>`<span class="nav-link-label"><span class="genericon genericon-next"></span></span>](https://html.com/attributes/td-nowrap/)
 
@@ -158,11 +149,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

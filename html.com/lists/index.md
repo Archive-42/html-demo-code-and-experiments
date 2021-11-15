@@ -1,19 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
 [HTML](https://html.com/)  /  Lists Bring Order To Web Pages: Here’s The HTML Code To Create Them
 
-Lists Bring Order To Web Pages: Here’s The HTML Code To Create Them
-===================================================================
+# Lists Bring Order To Web Pages: Here’s The HTML Code To Create Them
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -23,21 +16,20 @@ There are three types of lists you can use, and this quick guide will show you h
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Unordered Lists](#Unordered_Lists)
--   [<span class="toc_number toc_depth_1">2</span> Ordered Lists](#Ordered_Lists)
-    -   [<span class="toc_number toc_depth_2">2.1</span> Changing Numbering](#Changing_Numbering)
-        -   [<span class="toc_number toc_depth_3">2.1.1</span> Creating a Countdown List](#Creating_a_Countdown_List)
-        -   [<span class="toc_number toc_depth_3">2.1.2</span> Starting a List on a Specific Number](#Starting_a_List_on_a_Specific_Number)
-        -   [<span class="toc_number toc_depth_3">2.1.3</span> Changing the Numbering Style](#Changing_the_Numbering_Style)
--   [<span class="toc_number toc_depth_1">3</span> Description Lists](#Description_Lists)
--   [<span class="toc_number toc_depth_1">4</span> Nested Lists](#Nested_Lists)
--   [<span class="toc_number toc_depth_1">5</span> Using Lists for Menus](#Using_Lists_for_Menus)
--   [<span class="toc_number toc_depth_1">6</span> Styling Lists](#Styling_Lists)
--   [<span class="toc_number toc_depth_1">7</span> Closing Thoughts](#Closing_Thoughts)
--   [<span class="toc_number toc_depth_1">8</span> Related Elements](#Related_Elements)
+- [<span class="toc_number toc_depth_1">1</span> Unordered Lists](#Unordered_Lists)
+- [<span class="toc_number toc_depth_1">2</span> Ordered Lists](#Ordered_Lists)
+  - [<span class="toc_number toc_depth_2">2.1</span> Changing Numbering](#Changing_Numbering)
+    - [<span class="toc_number toc_depth_3">2.1.1</span> Creating a Countdown List](#Creating_a_Countdown_List)
+    - [<span class="toc_number toc_depth_3">2.1.2</span> Starting a List on a Specific Number](#Starting_a_List_on_a_Specific_Number)
+    - [<span class="toc_number toc_depth_3">2.1.3</span> Changing the Numbering Style](#Changing_the_Numbering_Style)
+- [<span class="toc_number toc_depth_1">3</span> Description Lists](#Description_Lists)
+- [<span class="toc_number toc_depth_1">4</span> Nested Lists](#Nested_Lists)
+- [<span class="toc_number toc_depth_1">5</span> Using Lists for Menus](#Using_Lists_for_Menus)
+- [<span class="toc_number toc_depth_1">6</span> Styling Lists](#Styling_Lists)
+- [<span class="toc_number toc_depth_1">7</span> Closing Thoughts](#Closing_Thoughts)
+- [<span class="toc_number toc_depth_1">8</span> Related Elements](#Related_Elements)
 
-<span id="Unordered_Lists">Unordered Lists</span>
--------------------------------------------------
+## <span id="Unordered_Lists">Unordered Lists</span>
 
 An unordered list is a list in which the order of the list items does not matter. Unordered lists should be used when rearranging the order of the list items would not create confusion or change the meaning of the information on the list.
 
@@ -53,12 +45,11 @@ Unless CSS rules are created to change the appearance of the list, the default p
 
 Here’s how our short unordered list renders in a browser:
 
--   Item A
--   Item B
--   Item C
+- Item A
+- Item B
+- Item C
 
-<span id="Ordered_Lists">Ordered Lists</span>
----------------------------------------------
+## <span id="Ordered_Lists">Ordered Lists</span>
 
 Ordered lists are used for lists of items for which the order of the items does matter. The syntax for an ordered list is exactly the same as for an unordered list. However, to create an ordered list, the [`ol`](https://html.com/tags/ol/) tag is used rather than the `ul` tag. By making this one change, we can convert the unordered list in our previous example into an ordered list.
 
@@ -134,14 +125,13 @@ Notice that we used the `start` attribute on the `ol` tag to restart the numberi
 
 You can use CSS to change the marker style of an ordered list. In addition to standard numbering (referred to as `decimal` in CSS), you can also use:
 
--   `upper-roman` for uppercaseroman numerals
--   `lower-roman` for lowercase roman numerals
--   `decimal-leading-zero` to add a “0” placeholder before single-digit list items
+- `upper-roman` for uppercaseroman numerals
+- `lower-roman` for lowercase roman numerals
+- `decimal-leading-zero` to add a “0” placeholder before single-digit list items
 
 We cover the `list-style-type` CSS property used to implement these numbering styles [below](#Styling_Lists).
 
-<span id="Description_Lists">Description Lists</span>
------------------------------------------------------
+## <span id="Description_Lists">Description Lists</span>
 
 Description lists are created with the [`dl`](https://html.com/tags/dl/) tag. Used far less frequently than their ordered and unordered peers, description lists are used to contain name-value groups. Each name-value group consists of one name, or term, placed between [`dt`](https://html.com/tags/dt/) tags, followed by one or more values with each value, or description, placed between [`dd`](https://html.com/tags/dd/) tags.
 
@@ -182,8 +172,7 @@ Dog
 
 Gerbil
 
-<span id="Nested_Lists">Nested Lists</span>
--------------------------------------------
+## <span id="Nested_Lists">Nested Lists</span>
 
 A nested list is a list within a list. If you’ve ever created a bulleted outline in a word processing document you probably used a variety of indentations and bullet point types to denote items that were subpoints of another item in the outline. This is the effect we’re going for when we create nested lists.
 
@@ -201,25 +190,24 @@ To create a nested list, simply add a new list within a parent list like this:
 
 When that list is loaded in the browser, the nested list will be indented further than the parent list, and a different type of item marker will be displayed.
 
--   Item A
--   Item B
-    -   Subitem B.1
-    -   Subitem B.2
--   Item C
+- Item A
+- Item B
+  - Subitem B.1
+  - Subitem B.2
+- Item C
 
 Nested lists aren’t just used to organize the visual representation of information. Screen readers and other assistive technologies rely on the nested structure of complex lists to make sense of the hierarchy and logic of data within the list.
 
 You could use assign classes to list items and use CSS to create the same visual effect as a nested list. However, if you did that, the hierarchical and logical structure of the list would be lost to website visitors using assistive technologies. In other words, don’t use CSS to create nested lists visually, use HTML to create them.
 
-<span id="Using_Lists_for_Menus">Using Lists for Menus</span>
--------------------------------------------------------------
+## <span id="Using_Lists_for_Menus">Using Lists for Menus</span>
 
 One of the most common uses of lists is to create website navigation menus. Unordered lists are usually the list-of-choice for this purpose. With just a few lines of [CSS](https://html.com/css/) we can convert an unordered list into an attractive horizontal navigation menu.
 
     <style>
         #nav {
-            background: lightgray;  
-            overflow: auto; 
+            background: lightgray;
+            overflow: auto;
             }
         #nav li {
             float: left;
@@ -235,22 +223,21 @@ One of the most common uses of lists is to create website navigation menus. Unor
 
 If we load that code in the browser, you’ll notice that each menu item changes when you hover over it.
 
--   [Home](#Using_Lists_for_Menus)
--   [About Us](#Using_Lists_for_Menus)
--   [Contact Us](#Using_Lists_for_Menus)
+- [Home](#Using_Lists_for_Menus)
+- [About Us](#Using_Lists_for_Menus)
+- [Contact Us](#Using_Lists_for_Menus)
 
 A lot more can be done with lists, CSS, and JavaScript to create interactive drop-down menus, and our [menu tutorial](https://html.com/anchors-links/menus/) will teach you how to create beautiful, modern, interactive, and well-organized menus.
 
-<span id="Styling_Lists">Styling Lists</span>
----------------------------------------------
+## <span id="Styling_Lists">Styling Lists</span>
 
 List typography is usually best styled to match the [typography](https://html.com/fonts/) of the website’s paragraph text. List-specific styling can be accomplished with CSS.
 
 There are three list properties that can be styled with CSS:
 
--   `list-style-type`: Defines the marker type that preceeds each list item. Common values include `disc` (the default unordered list style type), `decimal` (the default ordered list style type), circle, square, lower- or upper-roman, and lower- or upper-latin, although [several additional styles](https://www.w3.org/wiki/CSS/Properties/list-style-type) may also be used.
--   `list-style-position`: Determines whether the list item marker should be placed `inside` the content box, or `outside` of the content box in the item’s left-hand padding area.
--   `list-style-image`: An image can also be used as the item marker. This property is used to specify the image file to be used.
+- `list-style-type`: Defines the marker type that preceeds each list item. Common values include `disc` (the default unordered list style type), `decimal` (the default ordered list style type), circle, square, lower- or upper-roman, and lower- or upper-latin, although [several additional styles](https://www.w3.org/wiki/CSS/Properties/list-style-type) may also be used.
+- `list-style-position`: Determines whether the list item marker should be placed `inside` the content box, or `outside` of the content box in the item’s left-hand padding area.
+- `list-style-image`: An image can also be used as the item marker. This property is used to specify the image file to be used.
 
 Each of these three properties can be applied seperately by using the individual property names or simultaneously with the `list-style` shorthand property. The `list-style` property syntax includes the list style type, position, and image values in that order. For example, if we wanted to select the square marker, position it inside the content box, and also specify an image file, our CSS would look something like this:
 
@@ -260,8 +247,7 @@ Each of these three properties can be applied seperately by using the individual
 
 Since we’ve specified both a list marker and an image, the image will be used unless it is unavailable, in which case the square marker will be displayed.
 
-<span id="Closing_Thoughts">Closing Thoughts</span>
----------------------------------------------------
+## <span id="Closing_Thoughts">Closing Thoughts</span>
 
 Lists are one of the most diverse and effective tools in a web designers toolbox. They provide logical, hierarchical structure to data, and can be used in a variety of ways. Understanding the full breadth of what is possible with lists in HTML makes this powerful HTML element even more useful.
 
@@ -281,8 +267,7 @@ Lists are one of the most diverse and effective tools in a web designers toolbox
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
-<span id="Related_Elements">Related Elements</span>
----------------------------------------------------
+## <span id="Related_Elements">Related Elements</span>
 
 <table><thead><tr class="header"><th>Element Name</th><th>Attributes</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/tags/optgroup/" class="linked-name">optgroup</a></td><td></td><td>The &lt;optgroup&gt; element is used to group together related &lt;option&gt; elements within a parent &lt;select&gt; drop-down list.</td></tr><tr class="even"><td><a href="https://html.com/tags/nav/" class="linked-name">nav</a></td><td><a href="https://html.com/attributes/multicol-gutter/" class="linked-name deprecated">gutter</a><br />
 </td><td>The &lt;nav&gt; element identifies a group of navigation links. Links in a &lt;nav&gt; element may point to other webpages or to different sections of the same webpage.</td></tr><tr class="odd"><td><a href="https://html.com/tags/ul/" class="linked-name">&lt;ul&gt; HTML Tag</a></td><td><a href="https://html.com/attributes/ul-type/" class="linked-name deprecated">&lt;ul type=""&gt;</a><br />
@@ -301,11 +286,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

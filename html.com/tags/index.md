@@ -8,10 +8,9 @@
 
 Learn HTML Code, Tags & CSS
 
-Category: HTML Tags
-===================
+# Category: HTML Tags
 
-A complete list *(and brief description)* of every tag in the [HTML](../index.html), including the latest additions in [HTML5](../html5/index.html).
+A complete list _(and brief description)_ of every tag in the [HTML](../index.html), including the latest additions in [HTML5](../html5/index.html).
 
 Click through to view details, code samples and more for each tag.
 

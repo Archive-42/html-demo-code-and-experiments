@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 New in HTML5.
 
-&lt;meter&gt; HTML Tag
-======================
+# &lt;meter&gt; HTML Tag
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/), [New](https://html.com/new/)</span>
 
@@ -21,19 +18,18 @@ In <span class="post-meta-category">[HTML Tags](https://html.com/tags/), [New](h
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Correct Usage](#Correct_Usage)
-    -   [<span class="toc_number toc_depth_2">1.1</span> Displaying a Percentage](#Displaying_a_Percentage)
-    -   [<span class="toc_number toc_depth_2">1.2</span> Displaying a Number Range](#Displaying_a_Number_Range)
-    -   [<span class="toc_number toc_depth_2">1.3</span> Prohibited Usage](#Prohibited_Usage)
+- [<span class="toc_number toc_depth_1">1</span> Correct Usage](#Correct_Usage)
+  - [<span class="toc_number toc_depth_2">1.1</span> Displaying a Percentage](#Displaying_a_Percentage)
+  - [<span class="toc_number toc_depth_2">1.2</span> Displaying a Number Range](#Displaying_a_Number_Range)
+  - [<span class="toc_number toc_depth_2">1.3</span> Prohibited Usage](#Prohibited_Usage)
 
-<span id="Correct_Usage">Correct Usage</span>
----------------------------------------------
+## <span id="Correct_Usage">Correct Usage</span>
 
 The `<meter>` element is new in HTML 5. It aids rapid data visualization by displaying a percentage on a gauge. The element can be linked to a form using the `form` attribute, and is most helpful when displaying statistics or test scores.
 
 ### <span id="Displaying_a_Percentage">Displaying a Percentage</span>
 
-    <meter value="0.9">90%</meter> 
+    <meter value="0.9">90%</meter>
 
 The output looks like this: 90%
 
@@ -41,7 +37,7 @@ The output looks like this: 90%
 
 Use `<meter>` with the `min` and `max` attributes to display a score within a defined range. The `optimum` attribute can be used to specify an ideal or desired number, such as a pass mark in a test, although this is not supported in all browsers. (The opposite of `optimum` in this scenario is `low`).
 
-    <meter value="11" min="0" max="45" optimum="40">25 out of 45</meter> 
+    <meter value="11" min="0" max="45" optimum="40">25 out of 45</meter>
 
 The output looks like this: 25 out of 45
 
@@ -63,8 +59,7 @@ The output looks like this: 25 out of 45
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>&lt;menuitem&gt; HTML Tag](https://html.com/tags/menuitem/)
 
@@ -76,11 +71,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

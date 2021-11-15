@@ -1,13 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-Blink Element In Coding: Here’s Why It’s A Bad Idea
-===================================================
+# Blink Element In Coding: Here’s Why It’s A Bad Idea
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -15,18 +12,15 @@ In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
 <span class="underline"></span>
 
-Proprietary Element
--------------------
+## Proprietary Element
 
 The `<blink>` element was introduced by Microsoft as a proprietary feature of Internet Explorer. It was never a part of the HTML specification. Today, it is not supported at all, even by IE.
 
-With CSS: `text-decoration: blink`
-----------------------------------
+## With CSS: `text-decoration: blink`
 
 An alternative way to accomplish this (ill-advised) effect was to use set `text-decoration: blink;` in CSS. Fortunately, this is not part of the CSS specification either, and does not work on most browsers.
 
-If you really, really have to
------------------------------
+## If you really, really have to
 
 If you need to cause text to blink in and out, you are probably doing something awful. It is an extremely annoying effect. That being said, you can accomplish it with JavaScript.
 
@@ -39,7 +33,7 @@ If you need to cause text to blink in and out, you are probably doing something 
     }, blink_speed);
 
 <span id="blinker">Blink! Blink! Blink!</span>  
-var blink\_speed = 500; var t = setInterval(function () { var ele = document.getElementById(‘blinker’); ele.style.visibility = (ele.style.visibility == ‘hidden’ ? ” : ‘hidden’); }, blink\_speed);
+var blink_speed = 500; var t = setInterval(function () { var ele = document.getElementById(‘blinker’); ele.style.visibility = (ele.style.visibility == ‘hidden’ ? ” : ‘hidden’); }, blink_speed);
 
 <span class="small">JS Code by [Chris Baker](https://stackoverflow.com/users/610573/chris-baker), via [Stack Overflow](https://stackoverflow.com/questions/8360130/how-to-make-a-text-flash-in-html-javascript). Licensed in the Public Domain.</span>
 
@@ -59,8 +53,7 @@ var blink\_speed = 500; var t = setInterval(function () { var ele = document.get
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>The Student’s Guide To Citation Styles: Here’s When (And How) To Cite](https://html.com/resources/citation-guide/)
 
@@ -72,11 +65,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

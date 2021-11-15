@@ -246,7 +246,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -264,7 +264,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -304,7 +304,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -1320,11 +1320,11 @@ Past Notes
 
 243
 
-<span data-key="5b89d979ace044c1aac29e57ac4dcae3"><span data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:0"> </span><span class="r-y7gyvo" data-slate-leaf="true" data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:1">let</span><span data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:2"> smallest </span><span class="r-11faab8" data-slate-leaf="true" data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:3">=</span><span data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:4"> Number</span><span class="r-dyg9za" data-slate-leaf="true" data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:5">.</span><span data-slate-leaf="true" data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:6">POSITIVE\_INFINITY</span><span class="r-dyg9za" data-slate-leaf="true" data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:7">;</span></span>
+<span data-key="5b89d979ace044c1aac29e57ac4dcae3"><span data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:0"> </span><span class="r-y7gyvo" data-slate-leaf="true" data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:1">let</span><span data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:2"> smallest </span><span class="r-11faab8" data-slate-leaf="true" data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:3">=</span><span data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:4"> Number</span><span class="r-dyg9za" data-slate-leaf="true" data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:5">.</span><span data-slate-leaf="true" data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:6">POSITIVE_INFINITY</span><span class="r-dyg9za" data-slate-leaf="true" data-offset-key="5b89d979ace044c1aac29e57ac4dcae3:7">;</span></span>
 
 244
 
-<span data-key="ff642aef96104104802d853c01b65c22"><span data-offset-key="ff642aef96104104802d853c01b65c22:0"> </span><span class="r-y7gyvo" data-slate-leaf="true" data-offset-key="ff642aef96104104802d853c01b65c22:1">let</span><span data-offset-key="ff642aef96104104802d853c01b65c22:2"> secondSmallest </span><span class="r-11faab8" data-slate-leaf="true" data-offset-key="ff642aef96104104802d853c01b65c22:3">=</span><span data-offset-key="ff642aef96104104802d853c01b65c22:4"> Number</span><span class="r-dyg9za" data-slate-leaf="true" data-offset-key="ff642aef96104104802d853c01b65c22:5">.</span><span data-slate-leaf="true" data-offset-key="ff642aef96104104802d853c01b65c22:6">POSITIVE\_INFINITY</span><span class="r-dyg9za" data-slate-leaf="true" data-offset-key="ff642aef96104104802d853c01b65c22:7">;</span></span>
+<span data-key="ff642aef96104104802d853c01b65c22"><span data-offset-key="ff642aef96104104802d853c01b65c22:0"> </span><span class="r-y7gyvo" data-slate-leaf="true" data-offset-key="ff642aef96104104802d853c01b65c22:1">let</span><span data-offset-key="ff642aef96104104802d853c01b65c22:2"> secondSmallest </span><span class="r-11faab8" data-slate-leaf="true" data-offset-key="ff642aef96104104802d853c01b65c22:3">=</span><span data-offset-key="ff642aef96104104802d853c01b65c22:4"> Number</span><span class="r-dyg9za" data-slate-leaf="true" data-offset-key="ff642aef96104104802d853c01b65c22:5">.</span><span data-slate-leaf="true" data-offset-key="ff642aef96104104802d853c01b65c22:6">POSITIVE_INFINITY</span><span class="r-dyg9za" data-slate-leaf="true" data-offset-key="ff642aef96104104802d853c01b65c22:7">;</span></span>
 
 245
 

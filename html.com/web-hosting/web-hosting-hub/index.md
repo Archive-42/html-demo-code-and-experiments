@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-Web Hosting Hub Review: The Right Budget Host For You?
-======================================================
+# Web Hosting Hub Review: The Right Budget Host For You?
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -23,41 +16,39 @@ Let’s find out if Web Hosting Hub promises is what it delivers.
 
 <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-9785" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
--   [<span class="toc_number toc_depth_1">2</span> About Web Hosting Hub](#About_Web_Hosting_Hub)
--   [<span class="toc_number toc_depth_1">3</span> Hosting Features](#Hosting_Features)
--   [<span class="toc_number toc_depth_1">4</span> Shared Hosting Plans](#Shared_Hosting_Plans)
--   [<span class="toc_number toc_depth_1">5</span> WordPress Hosting Plans](#WordPress_Hosting_Plans)
--   [<span class="toc_number toc_depth_1">6</span> Add-Ons](#Add-Ons)
--   [<span class="toc_number toc_depth_1">7</span> Domain Name Registration](#Domain_Name_Registration)
--   [<span class="toc_number toc_depth_1">8</span> Uptime and Response Time](#Uptime_and_Response_Time)
--   [<span class="toc_number toc_depth_1">9</span> Security](#Security)
--   [<span class="toc_number toc_depth_1">10</span> Customer Support](#Customer_Support)
--   [<span class="toc_number toc_depth_1">11</span> User Ratings](#User_Ratings)
--   [<span class="toc_number toc_depth_1">12</span> Web Hosting Hub vs InMotion](#Web_Hosting_Hub_vs_InMotion)
--   [<span class="toc_number toc_depth_1">13</span> Get Our Discount](#Get_Our_Discount)
--   [<span class="toc_number toc_depth_1">14</span> Conclusion](#Conclusion)
--   [<span class="toc_number toc_depth_1">15</span> Your Review of Web Hosting Hub](#Your_Review_of_Web_Hosting_Hub)
+- [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
+- [<span class="toc_number toc_depth_1">2</span> About Web Hosting Hub](#About_Web_Hosting_Hub)
+- [<span class="toc_number toc_depth_1">3</span> Hosting Features](#Hosting_Features)
+- [<span class="toc_number toc_depth_1">4</span> Shared Hosting Plans](#Shared_Hosting_Plans)
+- [<span class="toc_number toc_depth_1">5</span> WordPress Hosting Plans](#WordPress_Hosting_Plans)
+- [<span class="toc_number toc_depth_1">6</span> Add-Ons](#Add-Ons)
+- [<span class="toc_number toc_depth_1">7</span> Domain Name Registration](#Domain_Name_Registration)
+- [<span class="toc_number toc_depth_1">8</span> Uptime and Response Time](#Uptime_and_Response_Time)
+- [<span class="toc_number toc_depth_1">9</span> Security](#Security)
+- [<span class="toc_number toc_depth_1">10</span> Customer Support](#Customer_Support)
+- [<span class="toc_number toc_depth_1">11</span> User Ratings](#User_Ratings)
+- [<span class="toc_number toc_depth_1">12</span> Web Hosting Hub vs InMotion](#Web_Hosting_Hub_vs_InMotion)
+- [<span class="toc_number toc_depth_1">13</span> Get Our Discount](#Get_Our_Discount)
+- [<span class="toc_number toc_depth_1">14</span> Conclusion](#Conclusion)
+- [<span class="toc_number toc_depth_1">15</span> Your Review of Web Hosting Hub](#Your_Review_of_Web_Hosting_Hub)
 
-<span id="Pros_and_Cons">Pros and Cons</span>
----------------------------------------------
+## <span id="Pros_and_Cons">Pros and Cons</span>
 
 Here’s a quick takeaway.
 
 **Pros**
 
--   Unlimited resource allocations with all hosting plans
--   24/7 technical support from a US-based team
--   90-day money back guarantee is one of the longest offered by any host
+- Unlimited resource allocations with all hosting plans
+- 24/7 technical support from a US-based team
+- 90-day money back guarantee is one of the longest offered by any host
 
 **Cons**
 
--   No advanced hosting options (e.g., VPS hosting or dedicated servers)
--   E-commerce functionality might not be sufficient for growing stores
--   Pricing depends on contract length
+- No advanced hosting options (e.g., VPS hosting or dedicated servers)
+- E-commerce functionality might not be sufficient for growing stores
+- Pricing depends on contract length
 
-<figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-9787" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><span id="About_Web_Hosting_Hub">About Web Hosting Hub</span>
--------------------------------------------------------------
+## <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-9787" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><span id="About_Web_Hosting_Hub">About Web Hosting Hub</span>
 
 > Do what you love, leave the rest to us.
 >
@@ -71,8 +62,7 @@ The company has also expanded its datacenter, adding a second location in Los An
 
 Customers can choose the datacenter that hosts their website during the checkout process.
 
-<span id="Hosting_Features">Hosting Features</span>
----------------------------------------------------
+## <span id="Hosting_Features">Hosting Features</span>
 
 Though Web Hosting Hub offers three different shared hosting plans (and speciality WordPress plans), there are features that come standard, no matter which plan you choose.
 
@@ -85,8 +75,7 @@ Though Web Hosting Hub offers three different shared hosting plans (and speciali
 -   **Advertising Credits** ($150 worth) to jumpstart your new website’s marketing campaign.
 -   **90-Day Money-Back Guarantee**, which is one of the longest guarantee periods we’ve seen. Purchase your Web Hosting Plan, try it out, and if you don’t like what you’ve chosen, cancel your plan to receive a full refund.
 
-<span id="Shared_Hosting_Plans">Shared Hosting Plans</span>
------------------------------------------------------------
+## <span id="Shared_Hosting_Plans">Shared Hosting Plans</span>
 
 Here’s a detailed breakdown of the 3 shared plans — starting at [$3.99 per month](https://html.com/go/webhostinghub/).
 
@@ -98,11 +87,11 @@ You’ll get hosting for up to two websites, an unlimited amount of storage and 
 
 Other perks include:
 
--   Support for 5 parked domains and 25 subdomains
--   Free website transfers for up to 3 websites
--   Auto-installation (by Web Hosting Hub staff) of popular tools like WordPress and PrestaShop
--   SSH Access to your hosting account
--   Support during the onboarding process
+- Support for 5 parked domains and 25 subdomains
+- Free website transfers for up to 3 websites
+- Auto-installation (by Web Hosting Hub staff) of popular tools like WordPress and PrestaShop
+- SSH Access to your hosting account
+- Support during the onboarding process
 
 ### Nitro Plan
 
@@ -142,8 +131,7 @@ You’ll also find forums, image galleries, administrative tools, and other apps
 
 Plus there are dozens of frameworks and dev tools you can download with a click, like Laravel, CakePHP, Modernizr, and Bootstrap.
 
-<span id="WordPress_Hosting_Plans">WordPress Hosting Plans</span>
------------------------------------------------------------------
+## <span id="WordPress_Hosting_Plans">WordPress Hosting Plans</span>
 
 While Web Hosting Hub’s general-use, shared hosting plans can be used to host WordPress sites, the company does offer [specialized plans](https://html.com/go/webhostinghub/) that come with the WordPress core **pre-installed**.
 
@@ -153,10 +141,9 @@ These plans are not drastically different from the shared hosting plans, but you
 
 [Web Hosting Hub’s](https://html.com/go/webhostinghub/) WordPress hosting plans share the same names as the shared hosting plans: **Spark**, **Nitro**, and **Dynamo**. They cost the same, and the resource allocations of the shared hosting plans and their WordPress analogs are identical.
 
-With that said, **be sure to purchase the right hosting plan** ***type*** **during checkout**. Otherwise, you won’t get the bonus WordPress features, such as the pre-installed WordPress core.
+With that said, **be sure to purchase the right hosting plan** **_type_** **during checkout**. Otherwise, you won’t get the bonus WordPress features, such as the pre-installed WordPress core.
 
-<span id="Add-Ons">Add-Ons</span>
----------------------------------
+## <span id="Add-Ons">Add-Ons</span>
 
 Web Hosting Hub’s plans can be upgraded for during checkout when purchasing your plan. Here are two add-ons that many customers will find useful.
 
@@ -170,13 +157,11 @@ If you want to sell online, you can do so by installing the PrestaShop e-commerc
 
 While this app is available for you to self-install via the Softaculous one-click installer, you can also ask that [Web Hosting Hub](https://html.com/go/webhostinghub/) install it on your behalf during checkout. This service is **free**.
 
-<figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-9794" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><span id="Domain_Name_Registration">Domain Name Registration</span>
--------------------------------------------------------------------
+## <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-9794" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><span id="Domain_Name_Registration">Domain Name Registration</span>
 
 All purchases of a hosting plan from [Web Hosting Hub](https://html.com/go/webhostinghub/) come with a free domain name. If you already have a domain name, Web Hosting Hub will transfer it over on your behalf free of charge.
 
-<span id="Uptime_and_Response_Time">Uptime and Response Time</span>
--------------------------------------------------------------------
+## <span id="Uptime_and_Response_Time">Uptime and Response Time</span>
 
 Web Hosting Hub makes no promises regarding an uptime guarantee, though the company mentions a 99.9% uptime.
 
@@ -184,8 +169,7 @@ In our testing, however, we do see several instances of the uptime falling below
 
 Response times from Web Hosting Hub tend to fall in the 300-millisecond range. These are solid site loading speeds and comparable to some of the leading companies in the shared hosting field.
 
-<span id="Security">Security</span>
------------------------------------
+## <span id="Security">Security</span>
 
 There are several ways that Web Hosting Hub helps ensure that their hosted sites stay as safe as possible.
 
@@ -203,7 +187,7 @@ If they spot malware, their goal is to remove it before it does any harm to the 
 
 ### Not PCI Compliant
 
-For those who are looking to sell online, do note that **Web Hosting Hub’s plans are** ***not*** **PCI compliant**.
+For those who are looking to sell online, do note that **Web Hosting Hub’s plans are** **_not_** **PCI compliant**.
 
 If you need your site to be PCI compliant because you want to handle payments from customers, you have two options:
 
@@ -212,8 +196,7 @@ If you need your site to be PCI compliant because you want to handle payments fr
 
 If you decide to go with a different company for hosting, we recommend [SiteGround](https://html.com/web-hosting/siteground/). Their **GoGeek plan** is PCI compliant.
 
-<span id="Customer_Support">Customer Support</span>
----------------------------------------------------
+## <span id="Customer_Support">Customer Support</span>
 
 If you ever have any questions, comments, or concerns, you can get in touch with Web Hosting Hub’s US-based customer service team 24/7. All plans come standard with full technical support.
 
@@ -243,15 +226,13 @@ This offer is valid for new hosting accounts, but it does not include non-refund
 
 If you received a free domain name, Web Hosting Hub will deduct its cost from your refund. You continue to own the domain name. Dedicated IP addresses will be refunded on a prorated basis.
 
-<span id="User_Ratings">User Ratings</span>
--------------------------------------------
+## <span id="User_Ratings">User Ratings</span>
 
 If you’re curious what actual users think of Web Hosting Hub, you can check out [their reviews](https://www.whoishostingthis.com/hosting-reviews/web-hosting-hub/#reviews). Current customers give Web Hosting Hub a rating of 4.3 stars out of 5.
 
 Recent user reviews cite **great customer support and catering to small businesses** as highlights.
 
-<span id="Web_Hosting_Hub_vs_InMotion">Web Hosting Hub vs InMotion</span>
--------------------------------------------------------------------------
+## <span id="Web_Hosting_Hub_vs_InMotion">Web Hosting Hub vs InMotion</span>
 
 We compared the two lowest-priced plans for both Web Hosting Hub and [InMotion Hosting](https://html.com/web-hosting/inmotion/).
 
@@ -275,13 +256,11 @@ There are many factors that can affect your site load time — such as how well-
 
 Everyone’s needs are different so be sure you research sufficiently before choosing, so check out [our InMotion review](https://html.com/web-hosting/inmotion/).
 
-<span id="Get_Our_Discount">Get Our Discount</span>
----------------------------------------------------
+## <span id="Get_Our_Discount">Get Our Discount</span>
 
 Ready to get started with a hosting plan from [Web Hosting Hub](https://html.com/go/webhostinghub/)? Use any of the links on this page to save up to 56% on your purchase of a web hosting package today. Visit [Web Hosting Hub](https://html.com/go/webhostinghub/) now.
 
-<span id="Conclusion">Conclusion</span>
----------------------------------------
+## <span id="Conclusion">Conclusion</span>
 
 There’s a lot to like about [Web Hosting Hub](https://html.com/go/webhostinghub/). Their hosting plans all come with unlimited resource allocations.
 
@@ -291,16 +270,15 @@ The downside to [Web Hosting Hub](https://html.com/go/webhostinghub/), however, 
 
 Unsure if Web Hosting Hub is right for you? With its 90-day money back guarantee, you can try it out, risk free. Visit [Web Hosting Hub](https://html.com/go/webhostinghub/) now.
 
-<span id="Your_Review_of_Web_Hosting_Hub">Your Review of Web Hosting Hub</span>
--------------------------------------------------------------------------------
+## <span id="Your_Review_of_Web_Hosting_Hub">Your Review of Web Hosting Hub</span>
 
 Are you a current or past customer of Web Hosting Hub? Would you recommend them? Please leave your comments below and let our visitors know what you think of Web Hosting Hub’s speed, features and customer service.
 
 <a href="https://html.com/go/siteground/" class="button-cta">Visit Web Hosting Hub Now!</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing write: [Katie Horne](https://html.com/author/katie/). Contributing editor: Natalie Mootz.*</span>
+<span class="small">_Contributing write: [Katie Horne](https://html.com/author/katie/). Contributing editor: Natalie Mootz._</span>
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
@@ -314,11 +292,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,188 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">750 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">692 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,188 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">750 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">692 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

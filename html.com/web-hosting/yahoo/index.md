@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-Yahoo Hosting Review: How Well Does The Search Giant Do Hosting? We Investigate
-===============================================================================
+# Yahoo Hosting Review: How Well Does The Search Giant Do Hosting? We Investigate
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -19,40 +12,38 @@ Yahoo Web Hosting is part of a suite of products called Yahoo Small Business. Th
 
 In this [Yahoo Web Hosting](https://html.com/go/yahoo) review, we’ll give you the information you need to decide if it’s the right place to host your business’s website.
 
-<figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-8517" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><span id="Quick_Overview">Quick Overview</span>
------------------------------------------------
+## <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-8517" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><span id="Quick_Overview">Quick Overview</span>
 
 Here’s a snapshot of the best and worst of Yahoo Web Hosting services.
 
 ### Pros
 
--   Free website with drag-and-drop builder
--   Easy for anyone to use, regardless of experience
--   Free ongoing yearly domain registration
+- Free website with drag-and-drop builder
+- Easy for anyone to use, regardless of experience
+- Free ongoing yearly domain registration
 
 ### Cons
 
--   Free website comes with ads.
--   Hosting plans cost more than many other hosts and are not as robust with features
--   No room to grow beyond shared hosting
+- Free website comes with ads.
+- Hosting plans cost more than many other hosts and are not as robust with features
+- No room to grow beyond shared hosting
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Quick Overview](#Quick_Overview)
--   [<span class="toc_number toc_depth_1">2</span> About Yahoo Web Hosting](#About_Yahoo_Web_Hosting)
--   [<span class="toc_number toc_depth_1">3</span> Hosting Plans](#Hosting_Plans)
--   [<span class="toc_number toc_depth_1">4</span> Uptime and Response Time](#Uptime_and_Response_Time)
--   [<span class="toc_number toc_depth_1">5</span> Security](#Security)
--   [<span class="toc_number toc_depth_1">6</span> Customer Support](#Customer_Support)
--   [<span class="toc_number toc_depth_1">7</span> User Ratings](#User_Ratings)
--   [<span class="toc_number toc_depth_1">8</span> Yahoo vs Bluehost](#Yahoo_vs_Bluehost)
--   [<span class="toc_number toc_depth_1">9</span> Yahoo vs GoDaddy](#Yahoo_vs_GoDaddy)
--   [<span class="toc_number toc_depth_1">10</span> Get Our Discount](#Get_Our_Discount)
--   [<span class="toc_number toc_depth_1">11</span> Summary](#Summary)
--   [<span class="toc_number toc_depth_1">12</span> Your Review of Yahoo Hosting](#Your_Review_of_Yahoo_Hosting)
+- [<span class="toc_number toc_depth_1">1</span> Quick Overview](#Quick_Overview)
+- [<span class="toc_number toc_depth_1">2</span> About Yahoo Web Hosting](#About_Yahoo_Web_Hosting)
+- [<span class="toc_number toc_depth_1">3</span> Hosting Plans](#Hosting_Plans)
+- [<span class="toc_number toc_depth_1">4</span> Uptime and Response Time](#Uptime_and_Response_Time)
+- [<span class="toc_number toc_depth_1">5</span> Security](#Security)
+- [<span class="toc_number toc_depth_1">6</span> Customer Support](#Customer_Support)
+- [<span class="toc_number toc_depth_1">7</span> User Ratings](#User_Ratings)
+- [<span class="toc_number toc_depth_1">8</span> Yahoo vs Bluehost](#Yahoo_vs_Bluehost)
+- [<span class="toc_number toc_depth_1">9</span> Yahoo vs GoDaddy](#Yahoo_vs_GoDaddy)
+- [<span class="toc_number toc_depth_1">10</span> Get Our Discount](#Get_Our_Discount)
+- [<span class="toc_number toc_depth_1">11</span> Summary](#Summary)
+- [<span class="toc_number toc_depth_1">12</span> Your Review of Yahoo Hosting](#Your_Review_of_Yahoo_Hosting)
 
-<span id="About_Yahoo_Web_Hosting">About Yahoo Web Hosting</span>
------------------------------------------------------------------
+## <span id="About_Yahoo_Web_Hosting">About Yahoo Web Hosting</span>
 
 Yahoo! was one of the original vanguards of the internet, founded as a search directory in 1995.
 
@@ -68,15 +59,14 @@ Yahoo Web Hosting is part of the [Yahoo Small Business](https://html.com/go/yaho
 
 Their hosting infrastructure includes datacenters in New York and Washington states, running on Unix servers.
 
-<span id="Hosting_Plans">Hosting Plans</span>
----------------------------------------------
+## <span id="Hosting_Plans">Hosting Plans</span>
 
 Yahoo has various hosting plans so here we’ll simplify what’s on offer.
 
--   **Website builder plans** – Entry-level plans that use Yahoo’s website builder, good for personal or small business sites, including a free plan.
--   **WordPress plans** – Host [a blog](https://blogging.com/) or a small business website using WordPress instead of Yahoo’s website builder.
--   **Hosting plans** – Called “shared hosting” by other companies, you can do whatever you like with these plans.
--   **E-commerce plans** – Get a small or large online store up using Yahoo’s website builder
+- **Website builder plans** – Entry-level plans that use Yahoo’s website builder, good for personal or small business sites, including a free plan.
+- **WordPress plans** – Host [a blog](https://blogging.com/) or a small business website using WordPress instead of Yahoo’s website builder.
+- **Hosting plans** – Called “shared hosting” by other companies, you can do whatever you like with these plans.
+- **E-commerce plans** – Get a small or large online store up using Yahoo’s website builder
 
 ### Features Common to All Plans
 
@@ -94,9 +84,9 @@ Every site also gets a site management control panel, free SSL certificate and b
 
 Compared to other popular web hosts, Yahoo is missing some key features.
 
--   They **won’t migrate** an existing site to their hosting servers.
--   You **can’t choose your server** type (e.g., Linux vs. Windows) or where your datacenter is located.
--   It’s unclear whether Yahoo uses a **CDN** (e.g., CloudFlare) to help your website pages load faster.
+- They **won’t migrate** an existing site to their hosting servers.
+- You **can’t choose your server** type (e.g., Linux vs. Windows) or where your datacenter is located.
+- It’s unclear whether Yahoo uses a **CDN** (e.g., CloudFlare) to help your website pages load faster.
 
 ### Free Website Plan
 
@@ -146,12 +136,12 @@ Yahoo’s E-Commerce three plans are called Starter, Standard, and Professional.
 
 All online store plans come with:
 
--   Unlimited product listings, bandwidth, and storage.
--   Free domain registration and 1,000 email accounts.
--   Analytics and built-in SEO
--   Accept credit card and PayPal payments
--   Live chat with customers
--   UPS shipping integration
+- Unlimited product listings, bandwidth, and storage.
+- Free domain registration and 1,000 email accounts.
+- Analytics and built-in SEO
+- Accept credit card and PayPal payments
+- Live chat with customers
+- UPS shipping integration
 
 Additionally, with the two top-tier plans, you have the option to use API programming to link your store website to your inventory and accounting systems.
 
@@ -167,9 +157,9 @@ If you already have a website hosted elsewhere, but aren’t able to get email f
 
 Localworks is central to Yahoo Small Business. Its essentially a dashboard that offers a high level view of your business across multiple fronts like:
 
--   Search engines
--   Social networking sites
--   Google and Bing maps
+- Search engines
+- Social networking sites
+- Google and Bing maps
 
 If you need to update your business’s information, you can do it in just one place. You can also read reviews of your business across various sites and respond to customers.
 
@@ -184,8 +174,7 @@ The main differences between Yahoo Web Hosting’s plans are:
 3.  **Shared hosting plans** let you create your site however you like. Their resources and prices are similar to the WordPress plans.
 4.  **E-commerce plans** enable you to sell online and are the most expensive plans.
 
-<span id="Uptime_and_Response_Time">Uptime and Response Time</span>
--------------------------------------------------------------------
+## <span id="Uptime_and_Response_Time">Uptime and Response Time</span>
 
 [Yahoo](https://html.com/go/yahoo/) claims that their hosted sites are up 99.9% of the time and 100% during the year-end holidays. Yahoo’s [uptime over the past year](https://www.whoishostingthis.com/hosting-reviews/yahoo-hosting/#uptime-response-time) has been measured at 99.99%, which is outstanding.
 
@@ -193,8 +182,7 @@ However, their server response times seem slower than what we’re used to seein
 
 Yahoo offers no actionable uptime guarantee.
 
-<span id="Security">Security</span>
------------------------------------
+## <span id="Security">Security</span>
 
 Yahoo offers security on two fronts: One for your site’s visitors and customers and the other for website owners.
 
@@ -208,8 +196,7 @@ For your security on the back-end of your site, Yahoo is more ambiguous. They sa
 
 They do not provide publicly available information on their server protections like firewalls, anti-malware protocols, or DDOS protection.
 
-<span id="Customer_Support">Customer Support</span>
----------------------------------------------------
+## <span id="Customer_Support">Customer Support</span>
 
 All of [Yahoo’s plans](https://html.com/go/yahoo/) come with the same level of customer service: 24/7 phone, chat and online ticketing support.
 
@@ -225,24 +212,21 @@ To pay for your Yahoo hosting plan, you can use any major credit card or PayPal.
 
 Taxes, fees, domain registration, or other add-ons you’ve purchased aren’t refundable.
 
-<span id="User_Ratings">User Ratings</span>
--------------------------------------------
+## <span id="User_Ratings">User Ratings</span>
 
 We took a look through the [user reviews](https://www.whoishostingthis.com/hosting-reviews/yahoo-hosting/#reviews) of Yahoo Web Hosting services.
 
--   Comments about negative experiences with customer service.
--   Comments about issues with websites displaying correctly on iPhones.
--   Most positive reviews are from prior to 2016.
+- Comments about negative experiences with customer service.
+- Comments about issues with websites displaying correctly on iPhones.
+- Most positive reviews are from prior to 2016.
 
-<span id="Yahoo_vs_Bluehost">Yahoo vs Bluehost</span>
------------------------------------------------------
+## <span id="Yahoo_vs_Bluehost">Yahoo vs Bluehost</span>
 
 [Bluehost](https://html.com/web-hosting/bluehost/) has outstanding customer service and value for your money. You get at least 50 GB of storage plus unlimited bandwidth on even their cheapest plans.
 
 Even better, as your business or site grows, you can scale up your plan to take advantage of more advanced hosting features, like VPS and dedicated servers.
 
-<span id="Yahoo_vs_GoDaddy">Yahoo vs GoDaddy</span>
----------------------------------------------------
+## <span id="Yahoo_vs_GoDaddy">Yahoo vs GoDaddy</span>
 
 [GoDaddy](https://html.com/web-hosting/godaddy/) also positions itself as friendly to small businesses and it offers a comprehensive suite of tools for owners. You can get apps for email marketing, accounting, and Office 365 as add-ons to your hosting plan.
 
@@ -250,8 +234,7 @@ You also get a lot of bang for your buck. Along with their own website builder, 
 
 One drawback of GoDaddy’s cheapest hosting plans is that you don’t get a free SSL certificate like you do with Yahoo.
 
-<span id="Get_Our_Discount">Get Our Discount</span>
----------------------------------------------------
+## <span id="Get_Our_Discount">Get Our Discount</span>
 
 Want to try out Yahoo Web Hosting? Make sure you get the best price by using [our discount code](https://html.com/go/yahoo/).
 
@@ -261,8 +244,7 @@ Even better, when you [click through](https://html.com/go/yahoo/) on our links, 
 
 Visit [Yahoo Web Hosting](https://html.com/go/yahoo/) now.
 
-<span id="Summary">Summary</span>
----------------------------------
+## <span id="Summary">Summary</span>
 
 [Yahoo Web Hosting](https://html.com/go/yahoo/) is worth considering if you are a small business owner just getting started and are strapped for cash.
 
@@ -272,16 +254,15 @@ However, you can find other hosts that, while not free, offer much more for your
 
 But if they sound right for you, visit [Yahoo.com](https://html.com/go/yahoo/) now.
 
-<span id="Your_Review_of_Yahoo_Hosting">Your Review of Yahoo Hosting</span>
----------------------------------------------------------------------------
+## <span id="Your_Review_of_Yahoo_Hosting">Your Review of Yahoo Hosting</span>
 
 Are you a current or past customer of Yahoo hosting? Would you recommend them? Please leave your comments below and let our visitors know what you think of Yahoo hosting’s speed, features and customer service.
 
 <a href="https://html.com/go/yahoo/" class="button-cta">Visit Yahoo Small Business Now</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing editor: Natalie Mootz.*</span>
+<span class="small">_Contributing editor: Natalie Mootz._</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -307,11 +288,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

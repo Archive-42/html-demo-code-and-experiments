@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [HTML Tables: Find Out When To Use Them (And When To Avoid)](https://html.com/tables/) / &lt;colgroup&gt; HTML Tag
 
-`<colgroup> HTML Tag`
-=====================
+# `<colgroup> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -26,13 +23,12 @@ none
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> Using &lt;col&gt; and &lt;colgroup&gt;](#Using_ltcolgt_and_ltcolgroupgt)
--   [<span class="toc_number toc_depth_1">3</span> Browser Support for colgroup](#Browser_Support_for_colgroup)
--   [<span class="toc_number toc_depth_1">4</span> Attributes of colgroup](#Attributes_of_colgroup)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> Using &lt;col&gt; and &lt;colgroup&gt;](#Using_ltcolgt_and_ltcolgroupgt)
+- [<span class="toc_number toc_depth_1">3</span> Browser Support for colgroup](#Browser_Support_for_colgroup)
+- [<span class="toc_number toc_depth_1">4</span> Attributes of colgroup](#Attributes_of_colgroup)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <style>
     .total {
@@ -45,10 +41,10 @@ Contents
      <col class="total">
     </colgroup>
     <tr>
-    <th>Item</th> 
-    <th>Qty.</th> 
+    <th>Item</th>
+    <th>Qty.</th>
     <th>Price</th>
-    <th>Cost</th> 
+    <th>Cost</th>
     </tr>
     <tr>
     <tr>
@@ -113,8 +109,7 @@ TOTAL
 
 <span class="underline"></span>
 
-<span id="Using_ltcolgt_and_ltcolgroupgt">Using `<col>` and `<colgroup>`</span>
--------------------------------------------------------------------------------
+## <span id="Using_ltcolgt_and_ltcolgroupgt">Using `<col>` and `<colgroup>`</span>
 
 The `<colgroup>` element serves only as a container for one or more `<col>` elements, which define columns within a [`<table>`](https://html.com/tags/table/). For more information about table columns, including common problems and solutions for styling them, see the [`<col>` element documentation](https://html.com/tags/col/)
 
@@ -132,8 +127,7 @@ The `<colgroup>` element serves only as a container for one or more `<col>` elem
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_colgroup">Browser Support for colgroup</span>
----------------------------------------------------------------------------
+## <span id="Browser_Support_for_colgroup">Browser Support for colgroup</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -171,16 +165,14 @@ The `<colgroup>` element serves only as a container for one or more `<col>` elem
 
 <span class="browser-supported">All</span>
 
-<span id="Attributes_of_colgroup">Attributes of colgroup</span>
----------------------------------------------------------------
+## <span id="Attributes_of_colgroup">Attributes of colgroup</span>
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/attributes/colgroup-align/" class="linked-name deprecated">align</a><br />
 </td><td></td><td>Was used to control the text alignment within a column group in a table. Deprecated. Use CSS.</td></tr><tr class="even"><td><a href="https://html.com/attributes/colgroup-span/" class="linked-name">span</a><br />
 </td><td></td><td>Specifies the number of vertical table columns to be included in a column group.</td></tr><tr class="odd"><td><a href="https://html.com/attributes/colgroup-width/" class="linked-name deprecated">wdith</a><br />
 </td><td></td><td>Was used to specify the width of a group of table columns. Deprecated. Use CSS instead.</td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](https://html.com/resources/citation-guide/)
 
@@ -192,11 +184,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

@@ -8,12 +8,7 @@
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-HTML For Beginners The Easy Way: Start Learning HTML & CSS Today
-================================================================
+# HTML For Beginners The Easy Way: Start Learning HTML & CSS Today
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](disclosure/index.html)
 
@@ -24,24 +19,24 @@ HTML For Beginners The Easy Way: Start Learning HTML & CSS Today
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Welcome! You’ve Found the Easiest Way to Learn HTML and CSS.](#Welcome_You8217ve_Found_the_Easiest_Way_to_Learn_HTML_and_CSS)
--   [<span class="toc_number toc_depth_1">2</span> HTML for Absolute Beginners](#HTML_for_Absolute_Beginners)
-    -   [<span class="toc_number toc_depth_2">2.1</span> What is HTML?](#What_is_HTML)
-    -   [<span class="toc_number toc_depth_2">2.2</span> The History of HTML](#The_History_of_HTML)
-    -   [<span class="toc_number toc_depth_2">2.3</span> What are Tags and Attributes?](#What_are_Tags_and_Attributes)
-    -   [<span class="toc_number toc_depth_2">2.4</span> HTML Editors](#HTML_Editors)
-    -   [<span class="toc_number toc_depth_2">2.5</span> Creating Your First HTML Webpage](#Creating_Your_First_HTML_Webpage)
-    -   [<span class="toc_number toc_depth_2">2.6</span> Adding Content](#Adding_Content)
-    -   [<span class="toc_number toc_depth_2">2.7</span> How To Close an HTML Document](#How_To_Close_an_HTML_Document)
-    -   [<span class="toc_number toc_depth_2">2.8</span> Troubleshooting](#Troubleshooting)
--   [<span class="toc_number toc_depth_1">3</span> Our Other HTML Tutorials](#Our_Other_HTML_Tutorials)
-    -   [<span class="toc_number toc_depth_2">3.1</span> Intermediate & Advanced Tutorials](#Intermediate_Advanced_Tutorials)
-    -   [<span class="toc_number toc_depth_2">3.2</span> HTML Reference Guides](#HTML_Reference_Guides)
-    -   [<span class="toc_number toc_depth_2">3.3</span> HTML Attributes Reference Guide](#HTML_Attributes_Reference_Guide)
-    -   [<span class="toc_number toc_depth_2">3.4</span> HTML Cheat Sheet](#HTML_Cheat_Sheet)
-    -   [<span class="toc_number toc_depth_2">3.5</span> The HTML.com Blog](#The_HTMLcom_Blog)
-    -   [<span class="toc_number toc_depth_2">3.6</span> The HTML.com Guide to Web Hosting](#The_HTMLcom_Guide_to_Web_Hosting)
--   [<span class="toc_number toc_depth_1">4</span> Improve Your HTML Skills](#Improve_Your_HTML_Skills)
+- [<span class="toc_number toc_depth_1">1</span> Welcome! You’ve Found the Easiest Way to Learn HTML and CSS.](#Welcome_You8217ve_Found_the_Easiest_Way_to_Learn_HTML_and_CSS)
+- [<span class="toc_number toc_depth_1">2</span> HTML for Absolute Beginners](#HTML_for_Absolute_Beginners)
+  - [<span class="toc_number toc_depth_2">2.1</span> What is HTML?](#What_is_HTML)
+  - [<span class="toc_number toc_depth_2">2.2</span> The History of HTML](#The_History_of_HTML)
+  - [<span class="toc_number toc_depth_2">2.3</span> What are Tags and Attributes?](#What_are_Tags_and_Attributes)
+  - [<span class="toc_number toc_depth_2">2.4</span> HTML Editors](#HTML_Editors)
+  - [<span class="toc_number toc_depth_2">2.5</span> Creating Your First HTML Webpage](#Creating_Your_First_HTML_Webpage)
+  - [<span class="toc_number toc_depth_2">2.6</span> Adding Content](#Adding_Content)
+  - [<span class="toc_number toc_depth_2">2.7</span> How To Close an HTML Document](#How_To_Close_an_HTML_Document)
+  - [<span class="toc_number toc_depth_2">2.8</span> Troubleshooting](#Troubleshooting)
+- [<span class="toc_number toc_depth_1">3</span> Our Other HTML Tutorials](#Our_Other_HTML_Tutorials)
+  - [<span class="toc_number toc_depth_2">3.1</span> Intermediate & Advanced Tutorials](#Intermediate_Advanced_Tutorials)
+  - [<span class="toc_number toc_depth_2">3.2</span> HTML Reference Guides](#HTML_Reference_Guides)
+  - [<span class="toc_number toc_depth_2">3.3</span> HTML Attributes Reference Guide](#HTML_Attributes_Reference_Guide)
+  - [<span class="toc_number toc_depth_2">3.4</span> HTML Cheat Sheet](#HTML_Cheat_Sheet)
+  - [<span class="toc_number toc_depth_2">3.5</span> The HTML.com Blog](#The_HTMLcom_Blog)
+  - [<span class="toc_number toc_depth_2">3.6</span> The HTML.com Guide to Web Hosting](#The_HTMLcom_Guide_to_Web_Hosting)
+- [<span class="toc_number toc_depth_1">4</span> Improve Your HTML Skills](#Improve_Your_HTML_Skills)
 
 Whether you are a novice, hoping to delve into the world of web design or an experienced webmaster keen to improve your skills, we’ve got **online tutorials tailored to your web design needs**.
 
@@ -53,8 +48,7 @@ Our **step-by-step guide** teaches you the basics of HTML and how to build your 
 
 We’ll get you **building your new website in minutes**, not hours.
 
-<span id="HTML_for_Absolute_Beginners">HTML for Absolute Beginners</span>
--------------------------------------------------------------------------
+## <span id="HTML_for_Absolute_Beginners">HTML for Absolute Beginners</span>
 
 While many guides on the internet attempt to teach HTML using a lot of mind-boggling theory, this tutorial will instead focus on giving you the **practical skills to build your first site**.
 
@@ -96,16 +90,15 @@ Most tags must be opened `<h1>` and closed `</h1>` in order to function.
 
 An example of an attribute is:
 
-`<img src="mydog.jpg" alt="A photo of my                         dog.">`
+`<img src="mydog.jpg" alt="A photo of my dog.">`
 
 In this instance, the image source (src) and the alt text (alt) are attributes of the `<img>` tag.
 
 #### Golden Rules To Remember
 
 1.  The vast majority of tags must be **opened** (`<tag>`) and **closed** (`</tag>`) with the element information such as a title or text resting between the tags.
-2.  When using multiple tags, the tags must be **closed in the order in which they were opened**. For example:  
-      
-    <span style="margin-left: 5em">`<strong><em>This is really                           important!</em></strong>`</span>
+2.  When using multiple tags, the tags must be **closed in the order in which they were opened**. For example:
+    <span style="margin-left: 5em">`<strong><em>This is really important!</em></strong>`</span>
 
 ### <span id="HTML_Editors">HTML Editors</span>
 
@@ -121,14 +114,14 @@ However, for this tutorial, we will use the [Sublime Text 3](https://www.sublime
 
 <figure><img src="wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" alt="Sublime Text 3 has a mini-preview window on the right." class="lazy lazy-hidden wp-image-18784" /><figcaption><em>Sublime Text 3 has a mini-preview window on the right.</em></figcaption></figure>#### <span style="color: #008000">Pros</span>
 
--   Easily customizable
--   Beginner-friendly
--   Pleasant color schemes to choose from.
+- Easily customizable
+- Beginner-friendly
+- Pleasant color schemes to choose from.
 
 #### <span style="color: #ff0000">Cons</span>
 
--   Can’t print documents or code
--   No toolbar or dashboard available.
+- Can’t print documents or code
+- No toolbar or dashboard available.
 
 #### Notepad ++
 
@@ -138,14 +131,14 @@ Another common choice for HTML and other language coders is [Notepad ++](https:/
                             wp-content/uploads/html-homepage-notepad.png
                           " /><figcaption><em>This is Notepad ++. Far from glamorous but does the job.</em></figcaption></figure>#### <span style="color: #008000">Pros</span>
 
--   Distraction-free interface
--   Auto-completion feature
--   Plugin options for extended functionalities.
+- Distraction-free interface
+- Auto-completion feature
+- Plugin options for extended functionalities.
 
 #### <span style="color: #ff0000">Cons</span>
 
--   Can be difficult to get used to for beginners
--   No support for Mac.
+- Can be difficult to get used to for beginners
+- No support for Mac.
 
 #### Komodo Edit
 
@@ -155,14 +148,14 @@ It is free to download.
 
 <figure><img src="wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" alt="Komodo isn’t one for a flash interface either but is simple to use." class="lazy lazy-hidden wp-image-18784" /><figcaption><em>Komodo isn’t one for a flash interface either but is simple to use.</em></figcaption></figure>#### <span style="color: #008000">Pros</span>
 
--   Easy-to-grasp coding interface
--   Available for Mac, Windows, and Linux
--   Impressive language support.
+- Easy-to-grasp coding interface
+- Available for Mac, Windows, and Linux
+- Impressive language support.
 
 #### <span style="color: #ff0000">Cons</span>
 
--   No autocompletion by default
--   Visual settings are difficult to find and change.
+- No autocompletion by default
+- Visual settings are difficult to find and change.
 
 #### What To Avoid
 
@@ -196,11 +189,11 @@ These tags should be placed underneath each other **at the top of every HTML pag
 
 Inside the `<head>` tag, there is one tag that is always included: `<title>`, but there are others that are just as important:
 
- [`<title>`](tags/title/index.html)   
+[`<title>`](tags/title/index.html)  
 This is where we **insert the page name** as it will appear at the top of the browser window or tab.
 
- [`<meta>`](tags/meta/index.html)   
-This is where information *about* the document is stored: character encoding, name (page context), description.
+[`<meta>`](tags/meta/index.html)  
+This is where information _about_ the document is stored: character encoding, name (page context), description.
 
 **Let’s try out a basic `<head>` section:**
 
@@ -223,12 +216,12 @@ This includes **text, images, tables, forms** and everything else that we see on
 
 In HTML, [headings](tags/heading/index.html) are written in the following elements:
 
--   `<h1>`
-    -   `<h2>`
-        -   `<h3>`
-            -   `<h4>`
-                -   `<h5>`
-                    -   `<h6>`
+- `<h1>`
+  - `<h2>`
+    - `<h3>`
+      - `<h4>`
+        - `<h5>`
+          - `<h6>`
 
 As you might have guessed `<h1>` and `<h2>` should be used for the most important titles, while the remaining tags should be used for sub-headings and less important text.
 
@@ -262,7 +255,7 @@ These tags **must** be opened and closed around the text in question.
 
 Let’s try it out. On a new line in the HTML editor, type the following HTML code:
 
-`<p>Welcome to <em>my</em> brand new                         website. This site will be my                         <strong>new<strong> home on the                         web.</p>`
+`<p>Welcome to <em>my</em> brand new website. This site will be my <strong>new<strong> home on the web.</p>`
 
 Don’t forget to **hit save and then refresh the page** in your browser to see the results.
 
@@ -300,7 +293,7 @@ This will create a link to Google on page 2. Hit save and return to your index.h
 
 On a new line on index.html add the following code:
 
-`<a                         href="*folder(s)*/page2.html">Page2</a>`
+`<a href="*folder(s)*/page2.html">Page2</a>`
 
 Ensure the folder path to the file (page2.html) is correct. **Hit save and preview** index.html in your browser.
 
@@ -310,7 +303,7 @@ If **everything is correct** then **you will see a link which will take you to y
 
 In today’s modern digital world, [images](blog/100-legal-sources-free-stock-images/index.html) are everything. The [**&lt;img&gt;**](tags/img/index.html) tag has everything you need to display images on your site. Much like the &lt;a&gt; anchor element, &lt;img&gt; also contains an attribute.
 
-The attribute *features information* for your computer regarding the **source**, **height**, **width** and **alt text** of the image.
+The attribute _features information_ for your computer regarding the **source**, **height**, **width** and **alt text** of the image.
 
 ##### Styling and Formats
 
@@ -324,7 +317,7 @@ Alt text is important to **ensure that your site is ranked correctly** on search
 
 The [&lt;img&gt;](attributes/img-alt/index.html) tag normally is written as follows:
 
-`<img src="yourimage.jpg" alt="Describe the image"                         height="X" width="X">`
+`<img src="yourimage.jpg" alt="Describe the image" height="X" width="X">`
 
 Let’s try it out.
 
@@ -336,7 +329,7 @@ Save an image (.jpg, .png, .gif format) of your choice in the same folder where 
 
 On a new line in your HTML editor **enter the following code**:
 
-`<img src="testpic.jpg" alt="This is a test image"                         height="42" width="42">`
+`<img src="testpic.jpg" alt="This is a test image" height="42" width="42">`
 
 Hit **save and preview** the index.html page in your browser.
 
@@ -537,8 +530,7 @@ In case things didn’t work out as intended, simply **check your HTML code** ag
     </body>
     </html>
 
-<span id="Our_Other_HTML_Tutorials">Our Other HTML Tutorials</span>
--------------------------------------------------------------------
+## <span id="Our_Other_HTML_Tutorials">Our Other HTML Tutorials</span>
 
 Our HTML tutorials teach you how to create a personal website or site for your business, without forcing you to learn unnecessary theory.
 
@@ -594,8 +586,7 @@ This tutorial assumes you know nothing and gets you going with this essential pr
 
 **[HTML5](html5/index.html)**
 
-  
-<span class="small">***Video:** This 3 minute crash course is a great way to start understanding HTML5.*</span>
+<span class="small">**\*Video:** This 3 minute crash course is a great way to start understanding HTML5.\*</span>
 
 HTML5 has revolutionized webpage markup with things like **semantic and multimedia elements**. Find out all about the new goodies that are waiting to be explored.
 
@@ -659,7 +650,7 @@ Paragraphs determine line spacing.
 
 **[Italics](tags/i/index.html)**
 
-Create *italics* text just like in a word processor.
+Create _italics_ text just like in a word processor.
 
 **[Bold](tags/b/index.html)**
 
@@ -777,8 +768,7 @@ One of the best all-around hosting companies — well worth checking out.
 
 The number one host for **high-end WordPress hosting**.
 
-<span id="Improve_Your_HTML_Skills">Improve Your HTML Skills</span>
--------------------------------------------------------------------
+## <span id="Improve_Your_HTML_Skills">Improve Your HTML Skills</span>
 
 Now that you’ve gotten started with HTML, you can **improve your skills**. It’s exciting to see everything you can do with web pages. Check out [more of our tutorials](#other-tutorials) and start learning now!
 
@@ -802,14 +792,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">1,154 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="tags/comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="tags/comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,126 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">954 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="tags/button/index.html" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="tags/button/index.html#comments" class="popular_posts_bars_comment_count">726 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="tags/img/index.html" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="tags/img/index.html#comments" class="popular_posts_bars_comment_count">594 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
-
-  
-  
+- <a href="attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">1,154 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="tags/comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="tags/comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,126 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">954 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="tags/button/index.html" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="tags/button/index.html#comments" class="popular_posts_bars_comment_count">726 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="tags/img/index.html" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="tags/img/index.html#comments" class="popular_posts_bars_comment_count">594 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](OFFICIALindex.html) © 2015-2020 [Sitemap](sitemap/index.html) | [Privacy](privacy/index.html) | [Contact](contact/index.html)
 

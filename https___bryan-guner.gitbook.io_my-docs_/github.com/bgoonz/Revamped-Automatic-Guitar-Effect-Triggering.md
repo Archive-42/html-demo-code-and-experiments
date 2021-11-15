@@ -2,80 +2,83 @@
 
 <a href="https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&amp;source=header-repo" class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5">Sign up</a>
 
--   Why GitHub?
-    -   <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- Why GitHub?
 
--   <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
--   <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
--   Explore
-    -   <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Learn and contribute
-    -   <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Connect with others
-    -   <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
--   <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
--   Pricing
-    -   <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
+- <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
+- Explore
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+  - <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Learn and contribute
+  - <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Connect with others
+  - <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+- <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
+- Pricing
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  - <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <!-- -->
 
--   <span class="color-fg-muted">No suggested jump to results</span>
+- <span class="color-fg-muted">No suggested jump to results</span>
 
 <!-- -->
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fbgoonz%2FRevamped-Automatic-Guitar-Effect-Triggering" class="HeaderMenu-link flex-shrink-0 no-underline">Sign in</a>
 
@@ -83,14 +86,13 @@
 
 {{ message }}
 
-<span class="author flex-self-stretch" itemprop="author"> <a href="https://github.com/bgoonz" class="url fn">bgoonz</a> </span> <span class="mx-1 flex-self-stretch color-fg-muted">/</span> **[Revamped-Automatic-Guitar-Effect-Triggering](https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering)** <span class="Label Label--secondary v-align-middle mr-1">Public</span>
-============================================================================================================================================================================================================================================================================================================================================================================================
+# <span class="author flex-self-stretch" itemprop="author"> <a href="https://github.com/bgoonz" class="url fn">bgoonz</a> </span> <span class="mx-1 flex-self-stretch color-fg-muted">/</span> **[Revamped-Automatic-Guitar-Effect-Triggering](https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering)** <span class="Label Label--secondary v-align-middle mr-1">Public</span>
 
--   Notifications
--   <span data-view-component="true"> Star </span> <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/stargazers" class="social-count js-social-count">4</a>
+- Notifications
+- <span data-view-component="true"> Star </span> <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/stargazers" class="social-count js-social-count">4</a>
 
--   Fork <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/network/members" class="social-count">1</a>
--   
+- Fork <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/network/members" class="social-count">1</a>
+-
 
 Using audio subsequence dynamic time warping to calculate a time agnostic measure of similarity between performances.
 
@@ -102,25 +104,25 @@ Using audio subsequence dynamic time warping to calculate a time agnostic measur
 
 Notifications
 
--   <span data-content="Code">Code</span> <span id="code-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Issues">Issues</span> <span id="issues-repo-tab-count" class="Counter" data-pjax-replace="" title="1" data-view-component="true">1</span>
--   <span data-content="Pull requests">Pull requests</span> <span id="pull-requests-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
--   <span data-content="Actions">Actions</span> <span id="actions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Projects">Projects</span> <span id="projects-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
--   <span data-content="Wiki">Wiki</span> <span id="wiki-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Security">Security</span>
--   <span data-content="Insights">Insights</span> <span id="insights-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Code">Code</span> <span id="code-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Issues">Issues</span> <span id="issues-repo-tab-count" class="Counter" data-pjax-replace="" title="1" data-view-component="true">1</span>
+- <span data-content="Pull requests">Pull requests</span> <span id="pull-requests-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
+- <span data-content="Actions">Actions</span> <span id="actions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Projects">Projects</span> <span id="projects-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
+- <span data-content="Wiki">Wiki</span> <span id="wiki-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Security">Security</span>
+- <span data-content="Insights">Insights</span> <span id="insights-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
 
 <span class="sr-only">More</span>
 
--   <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering" class="js-selected-navigation-item selected dropdown-item">Code</a>
--   <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/issues" class="js-selected-navigation-item dropdown-item">Issues</a>
--   <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/pulls" class="js-selected-navigation-item dropdown-item">Pull requests</a>
--   <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/actions" class="js-selected-navigation-item dropdown-item">Actions</a>
--   <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/projects" class="js-selected-navigation-item dropdown-item">Projects</a>
--   <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/wiki" class="js-selected-navigation-item dropdown-item">Wiki</a>
--   <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/security" class="js-selected-navigation-item dropdown-item">Security</a>
--   <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/pulse" class="js-selected-navigation-item dropdown-item">Insights</a>
+- <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering" class="js-selected-navigation-item selected dropdown-item">Code</a>
+- <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/issues" class="js-selected-navigation-item dropdown-item">Issues</a>
+- <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/pulls" class="js-selected-navigation-item dropdown-item">Pull requests</a>
+- <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/actions" class="js-selected-navigation-item dropdown-item">Actions</a>
+- <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/projects" class="js-selected-navigation-item dropdown-item">Projects</a>
+- <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/wiki" class="js-selected-navigation-item dropdown-item">Wiki</a>
+- <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/security" class="js-selected-navigation-item dropdown-item">Security</a>
+- <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/pulse" class="js-selected-navigation-item dropdown-item">Insights</a>
 
 <span class="css-truncate-target" data-menu-button="">master</span> <span class="dropdown-caret"></span>
 
@@ -160,18 +162,15 @@ Code<span class="dropdown-caret"></span>
 
 <span class="sr-only">Loading</span>
 
-Latest commit
--------------
+## Latest commit
 
- 
 
-Git stats
----------
 
--   <span class="d-none d-sm-inline"> **19** <span class="color-fg-muted d-none d-lg-inline" aria-label="Commits on master"> commits </span> </span>
+## Git stats
 
-Files
------
+- <span class="d-none d-sm-inline"> **19** <span class="color-fg-muted d-none d-lg-inline" aria-label="Commits on master"> commits </span> </span>
+
+## Files
 
 <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/6dc1a46c47aca847da3daacb79fabd4d5c5c095c" class="d-none js-permalink-shortcut">Permalink</a>
 
@@ -187,166 +186,165 @@ Commit time
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/.vscode" class="js-navigation-open Link--primary" title=".vscode">.vscode</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/Documentation" class="js-navigation-open Link--primary" title="Documentation">Documentation</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/Final%20Report%20SP2_files" class="js-navigation-open Link--primary" title="Final Report SP2_files">Final Report SP2_files</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/NEW-Implementations" class="js-navigation-open Link--primary" title="NEW-Implementations">NEW-Implementations</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/Triggered-Guitar-Effects-Platform" class="js-navigation-open Link--primary" title="Triggered-Guitar-Effects-Platform">Triggered-Guitar-Effects-Platform</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/css" class="js-navigation-open Link--primary" title="css">css</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/guitar-delay" class="js-navigation-open Link--primary" title="guitar-delay">guitar-delay</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/image" class="js-navigation-open Link--primary" title="image">image</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/images" class="js-navigation-open Link--primary" title="images">images</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/js" class="js-navigation-open Link--primary" title="js">js</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/node_modules" class="js-navigation-open Link--primary" title="node_modules">node_modules</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/DTW.Java" class="js-navigation-open Link--primary" title="DTW.Java">DTW.Java</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/README.html" class="js-navigation-open Link--primary" title="README.html">README.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/README.md" class="js-navigation-open Link--primary" title="README.md">README.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/SR%20Project%20II%20Presentation.gif" class="js-navigation-open Link--primary" title="SR Project II Presentation.gif">SR Project II Presentation.gif</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/SR%20Project%20II%20Presentation.pdf" class="js-navigation-open Link--primary" title="SR Project II Presentation.pdf">SR Project II Presentation.pdf</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/blueprint.md" class="js-navigation-open Link--primary" title="blueprint.md">blueprint.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/directory.html" class="js-navigation-open Link--primary" title="directory.html">directory.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/dirhtml.py" class="js-navigation-open Link--primary" title="dirhtml.py">dirhtml.py</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/index.html" class="js-navigation-open Link--primary" title="index.html">index.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/left.html" class="js-navigation-open Link--primary" title="left.html">left.html</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/makefile" class="js-navigation-open Link--primary" title="makefile">makefile</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/package-lock.json" class="js-navigation-open Link--primary" title="package-lock.json">package-lock.json</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/propritary-algorithm-Bryan-Guner-PSEUDOCODE.md" class="js-navigation-open Link--primary" title="propritary-algorithm-Bryan-Guner-PSEUDOCODE.md">propritary-algorithm-Bryan-Guner-PSEUDOCODE.md</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/renovate.json" class="js-navigation-open Link--primary" title="renovate.json">renovate.json</a></span>
 
- 
 
- 
+
+
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/right.html" class="js-navigation-open Link--primary" title="right.html">right.html</a></span>
 
- 
 
- 
+
+
 
 View code
 
 <a href="#demos" class="filter-item SelectMenu-item py-1">Demos:</a> <a href="#pure-data-distortion-patch" class="filter-item SelectMenu-item py-1">Pure Data Distortion Patch:</a> <a href="#simple-implementation" class="filter-item SelectMenu-item py-1">Simple Implementation:</a> <a href="#full-implementation-demo" class="filter-item SelectMenu-item py-1">Full Implementation Demo:</a>
 
-<a href="#readme" class="Link--primary">README.md</a>
------------------------------------------------------
+## <a href="#readme" class="Link--primary">README.md</a>
 
 \#Triggered Guitar Effects Platform
 
@@ -354,8 +352,7 @@ Senior Project II
 
 [![](https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/raw/master/images/image11.png)](https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/images/image11.png)
 
-<a href="#demos" id="user-content-demos" class="anchor"></a>Demos:
-------------------------------------------------------------------
+## <a href="#demos" id="user-content-demos" class="anchor"></a>Demos:
 
 ### <a href="#pure-data-distortion-patch" id="user-content-pure-data-distortion-patch" class="anchor"></a>Pure Data Distortion Patch:
 
@@ -385,7 +382,7 @@ Acknowledgements
 
 The team would like to thank Dr. Ambrose Adegbege for his input and enthusiasm towards tackling our design challenges. We would also like thank Dr. Larry Pearlstein for his guidance and suggestion of Dynamic Time Warping. In addition, our team thanks Mihir Beg for his consultation on MIDI transcription and suggestion of Pure Data.
 
-------------------------------------------------------------------------
+---
 
 Abstract
 
@@ -393,7 +390,7 @@ In live performance, guitar effect pedals are a versatile yet limiting asset. Th
 
 Keywords: Pure Data, Dynamic Time Warping
 
-------------------------------------------------------------------------
+---
 
 Contents
 
@@ -851,11 +848,11 @@ List of References:
 
 \[22\] Cq2midi – Polyphonic MIDI notes from audio for Pure Data. (n.d.). Retrieved December 11, 2017, from <https://grrrr.org/research/software/cq2midi/>
 
-\[23\] Chordetector\_pd. (n.d.). Retrieved December 11, 2017, from [https://patchstorage.com/chordetector\\\_pd/](https://patchstorage.com/chordetector%5C_pd/)
+\[23\] Chordetector_pd. (n.d.). Retrieved December 11, 2017, from [https://patchstorage.com/chordetector\\\_pd/](https://patchstorage.com/chordetector%5C_pd/)
 
 \[24\] K. (n.d.). \[Pd~\] graphical dsp programming. Retrieved December 10, 2017, from <http://www.katjaas.nl/puredata/puredata.html>
 
-\[25\] C. (n.d.). Retrieved December 10, 2017, from [http://www.phon.ox.ac.uk/jcoleman/old\_SLP/Lecture\_5/DTW\_explanation.html](https://www.google.com/url?q=http://www.phon.ox.ac.uk/jcoleman/old_SLP/Lecture_5/DTW_explanation.html&sa=D&source=editors&ust=1617010020089000&usg=AOvVaw2VWFdNG9vu2S5M6Pshcleu)
+\[25\] C. (n.d.). Retrieved December 10, 2017, from [http://www.phon.ox.ac.uk/jcoleman/old_SLP/Lecture_5/DTW_explanation.html](https://www.google.com/url?q=http://www.phon.ox.ac.uk/jcoleman/old_SLP/Lecture_5/DTW_explanation.html&sa=D&source=editors&ust=1617010020089000&usg=AOvVaw2VWFdNG9vu2S5M6Pshcleu)
 
 Appendices:
 
@@ -879,7 +876,7 @@ Engineering Standards:
 
 IEEE STD 730-2014 (Revision of IEEE STD 730-2002) - IEEE Standard for Software Quality Assurance Processes
 
--   Software utilized will meet quality requirements according to the IEEE 730-2014 Standard for Software Quality Assurance Processes
+- Software utilized will meet quality requirements according to the IEEE 730-2014 Standard for Software Quality Assurance Processes
 
 Realistic Constraints:
 
@@ -887,11 +884,11 @@ Realistic Constraints:
 
 Modern Engineering Tools:
 
--   Pure Data
--   Java
--   C
--   CodeBlocks
--   Excel
+- Pure Data
+- Java
+- C
+- CodeBlocks
+- Excel
 
 Appendix B: Project Management
 
@@ -905,23 +902,23 @@ Time Budget
 
 List of Contacts:
 
--   Ambrose Adegbege
+- Ambrose Adegbege
 
--   (609) 771-2863
+- (609) 771-2863
 
--   <Adegebega@tcnj.edu>
+- <Adegebega@tcnj.edu>
 
 Material List:
 
--   Electric Guitar
--   ¼” to USB adapter
--   Computer
--   PureData
+- Electric Guitar
+- ¼” to USB adapter
+- Computer
+- PureData
 
 Financial Budget
 
--   ¼” to USB adapter ($10)
--   Senior Project Poster ($82)
+- ¼” to USB adapter ($10)
+- Senior Project Poster ($82)
 
 [![](https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/raw/master/images/image21.png)](https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/blob/master/images/image21.png)
 
@@ -2956,8 +2953,7 @@ Java Code of Dynamic Time Warping:
     \#define \_\_m\_pd\_h\_
     \#endif /\* \_\_m\_pd\_h\_ \*/
 
-About
------
+## About
 
 Using audio subsequence dynamic time warping to calculate a time agnostic measure of similarity between performances.
 
@@ -2965,59 +2961,49 @@ Using audio subsequence dynamic time warping to calculate a time agnostic measur
 
 Readme
 
-<a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/releases" class="Link--primary no-underline">Releases</a>
-----------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/releases" class="Link--primary no-underline">Releases</a>
 
 No releases published
 
-<a href="https://github.com/users/bgoonz/packages?repo_name=Revamped-Automatic-Guitar-Effect-Triggering" class="Link--primary no-underline">Packages <span class="Counter" title="0" hidden="hidden" data-view-component="true">0</span></a>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/users/bgoonz/packages?repo_name=Revamped-Automatic-Guitar-Effect-Triggering" class="Link--primary no-underline">Packages <span class="Counter" title="0" hidden="hidden" data-view-component="true">0</span></a>
 
-No packages published  
+No packages published
 
-<a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/graphs/contributors" class="Link--primary no-underline">Contributors <span class="Counter" title="3" data-view-component="true">3</span></a>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/graphs/contributors" class="Link--primary no-underline">Contributors <span class="Counter" title="3" data-view-component="true">3</span></a>
 
--   
+-
 
-     
+-
 
--   
+-
 
-     
-
--   
-
-     
-
-Languages
----------
+## Languages
 
 <span class="Progress" data-view-component="true"> <span class="Progress-item color-bg-success-inverse" style="background-color:#e34c26 !important;;width: 41.3%;" itemprop="keywords" aria-label="HTML 41.3" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#555555 !important;;width: 31.6%;" itemprop="keywords" aria-label="C 31.6" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#e4cc98 !important;;width: 11.3%;" itemprop="keywords" aria-label="Tcl 11.3" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#DA5B0B !important;;width: 9.6%;" itemprop="keywords" aria-label="Jupyter Notebook 9.6" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#f34b7d !important;;width: 4.1%;" itemprop="keywords" aria-label="C++ 4.1" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#e16737 !important;;width: 0.5%;" itemprop="keywords" aria-label="MATLAB 0.5" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#ededed !important;;width: 1.6%;" itemprop="keywords" aria-label="Other 1.6" data-view-component="true"></span> </span>
 
--   <span class="color-fg-default text-bold mr-1">HTML</span> 41.3%
--   <span class="color-fg-default text-bold mr-1">C</span> 31.6%
--   <span class="color-fg-default text-bold mr-1">Tcl</span> 11.3%
--   <span class="color-fg-default text-bold mr-1">Jupyter Notebook</span> 9.6%
--   <span class="color-fg-default text-bold mr-1">C++</span> 4.1%
--   <span class="color-fg-default text-bold mr-1">MATLAB</span> 0.5%
--   <span class="color-fg-default text-bold mr-1">Other</span> 1.6%
+- <span class="color-fg-default text-bold mr-1">HTML</span> 41.3%
+- <span class="color-fg-default text-bold mr-1">C</span> 31.6%
+- <span class="color-fg-default text-bold mr-1">Tcl</span> 11.3%
+- <span class="color-fg-default text-bold mr-1">Jupyter Notebook</span> 9.6%
+- <span class="color-fg-default text-bold mr-1">C++</span> 4.1%
+- <span class="color-fg-default text-bold mr-1">MATLAB</span> 0.5%
+- <span class="color-fg-default text-bold mr-1">Other</span> 1.6%
 
--   © 2021 GitHub, Inc.
--   [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
--   [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
--   [Security](https://github.com/security)
--   [Status](https://www.githubstatus.com/)
--   [Docs](https://docs.github.com/)
+- © 2021 GitHub, Inc.
+- [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
+- [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
+- [Security](https://github.com/security)
+- [Status](https://www.githubstatus.com/)
+- [Docs](https://docs.github.com/)
 
 <!-- -->
 
--   [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
--   [Pricing](https://github.com/pricing)
--   [API](https://docs.github.com/)
--   [Training](https://services.github.com/)
--   [Blog](https://github.blog/)
--   [About](https://github.com/about)
+- [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
+- [Pricing](https://github.com/pricing)
+- [API](https://docs.github.com/)
+- [Training](https://services.github.com/)
+- [Blog](https://github.blog/)
+- [About](https://github.com/about)
 
 <span class="f6 color-fg-muted"></span>
 

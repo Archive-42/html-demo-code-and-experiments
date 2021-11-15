@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-Web Hosting Basics For Beginners (+ Top 7 Hosts To Try In 2020)
-===============================================================
+# Web Hosting Basics For Beginners (+ Top 7 Hosts To Try In 2020)
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -19,53 +12,52 @@ When looking at web hosting options, you’ll see many offering the same perks: 
 
 Are these the best criteria by which you pick a host? Well, these things may be important, but there are other factors to consider, including:
 
--   Your resource and performance requirements
--   The host’s ease of use and plan customizability
--   Customer service quality
--   Infrastructure reliability and uptime, including money-back guarantees
--   Your hosting plan’s scalability and flexibility
--   Data security, including backup and restoration services
+- Your resource and performance requirements
+- The host’s ease of use and plan customizability
+- Customer service quality
+- Infrastructure reliability and uptime, including money-back guarantees
+- Your hosting plan’s scalability and flexibility
+- Data security, including backup and restoration services
 
 In the following sections, we’ll take a look at why these factors matter and which ones you may wish to prioritize.
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> The 7 Best Web Hosts of 2019](#The_7_Best_Web_Hosts_of_2019)
-    -   [<span class="toc_number toc_depth_2">1.1</span> A2 Hosting](#A2_Hosting)
-    -   [<span class="toc_number toc_depth_2">1.2</span> Bluehost](#Bluehost)
-    -   [<span class="toc_number toc_depth_2">1.3</span> SiteGround](#SiteGround)
-    -   [<span class="toc_number toc_depth_2">1.4</span> HostGator](#HostGator)
-    -   [<span class="toc_number toc_depth_2">1.5</span> InMotion Hosting](#InMotion_Hosting)
-    -   [<span class="toc_number toc_depth_2">1.6</span> Squarespace](#Squarespace)
-    -   [<span class="toc_number toc_depth_2">1.7</span> GreenGeeks](#GreenGeeks)
--   [<span class="toc_number toc_depth_1">2</span> Types of Hosting](#Types_of_Hosting)
-    -   [<span class="toc_number toc_depth_2">2.1</span> Shared Hosting](#Shared_Hosting)
-    -   [<span class="toc_number toc_depth_2">2.2</span> VPS Hosting](#VPS_Hosting)
-    -   [<span class="toc_number toc_depth_2">2.3</span> Dedicated Server](#Dedicated_Server)
-    -   [<span class="toc_number toc_depth_2">2.4</span> Cloud Hosting](#Cloud_Hosting)
-    -   [<span class="toc_number toc_depth_2">2.5</span> WordPress Hosting](#WordPress_Hosting)
--   [<span class="toc_number toc_depth_1">3</span> How to Choose the Best Web Host for Your Needs](#How_to_Choose_the_Best_Web_Host_for_Your_Needs)
-    -   [<span class="toc_number toc_depth_2">3.1</span> Resource and Performance Requirements](#Resource_and_Performance_Requirements)
-    -   [<span class="toc_number toc_depth_2">3.2</span> Is It User-Friendly? Customizable?](#Is_It_User-Friendly_Customizable)
-    -   [<span class="toc_number toc_depth_2">3.3</span> Quality of Customer Support](#Quality_of_Customer_Support)
-        -   [<span class="toc_number toc_depth_3">3.3.1</span> Tech Support When You Need It](#Tech_Support_When_You_Need_It)
-        -   [<span class="toc_number toc_depth_3">3.3.2</span> Support Team: In-House or Outsourced?](#Support_Team_In-House_or_Outsourced)
-    -   [<span class="toc_number toc_depth_2">3.4</span> Reliability: Infrastructure, Uptime and Money-Back Guarantee](#Reliability_Infrastructure_Uptime_and_Money-Back_Guarantee)
-        -   [<span class="toc_number toc_depth_3">3.4.1</span> What Is Uptime?](#What_Is_Uptime)
-        -   [<span class="toc_number toc_depth_3">3.4.2</span> Uptime Guarantees](#Uptime_Guarantees)
-        -   [<span class="toc_number toc_depth_3">3.4.3</span> Our Testing: Uptime and Server Response For Top Web Hosts](#Our_Testing_Uptime_and_Server_Response_For_Top_Web_Hosts)
-        -   [<span class="toc_number toc_depth_3">3.4.4</span> Money-Back Guarantees](#Money-Back_Guarantees)
-    -   [<span class="toc_number toc_depth_2">3.5</span> Scalability and Flexibility](#Scalability_and_Flexibility)
-        -   [<span class="toc_number toc_depth_3">3.5.1</span> Site Migration](#Site_Migration)
-        -   [<span class="toc_number toc_depth_3">3.5.2</span> Scaling Up to Accommodate Increasing Traffic](#Scaling_Up_to_Accommodate_Increasing_Traffic)
-    -   [<span class="toc_number toc_depth_2">3.6</span> Data Security and Backups](#Data_Security_and_Backups)
-        -   [<span class="toc_number toc_depth_3">3.6.1</span> Automated or Manual Backups?](#Automated_or_Manual_Backups)
-        -   [<span class="toc_number toc_depth_3">3.6.2</span> SSL Certificates: Every Site Needs One](#SSL_Certificates_Every_Site_Needs_One)
-        -   [<span class="toc_number toc_depth_3">3.6.3</span> PCI Compliance](#PCI_Compliance)
--   [<span class="toc_number toc_depth_1">4</span> Summary – What Makes Some Web Hosts the Best?](#Summary_8211_What_Makes_Some_Web_Hosts_the_Best)
+- [<span class="toc_number toc_depth_1">1</span> The 7 Best Web Hosts of 2019](#The_7_Best_Web_Hosts_of_2019)
+  - [<span class="toc_number toc_depth_2">1.1</span> A2 Hosting](#A2_Hosting)
+  - [<span class="toc_number toc_depth_2">1.2</span> Bluehost](#Bluehost)
+  - [<span class="toc_number toc_depth_2">1.3</span> SiteGround](#SiteGround)
+  - [<span class="toc_number toc_depth_2">1.4</span> HostGator](#HostGator)
+  - [<span class="toc_number toc_depth_2">1.5</span> InMotion Hosting](#InMotion_Hosting)
+  - [<span class="toc_number toc_depth_2">1.6</span> Squarespace](#Squarespace)
+  - [<span class="toc_number toc_depth_2">1.7</span> GreenGeeks](#GreenGeeks)
+- [<span class="toc_number toc_depth_1">2</span> Types of Hosting](#Types_of_Hosting)
+  - [<span class="toc_number toc_depth_2">2.1</span> Shared Hosting](#Shared_Hosting)
+  - [<span class="toc_number toc_depth_2">2.2</span> VPS Hosting](#VPS_Hosting)
+  - [<span class="toc_number toc_depth_2">2.3</span> Dedicated Server](#Dedicated_Server)
+  - [<span class="toc_number toc_depth_2">2.4</span> Cloud Hosting](#Cloud_Hosting)
+  - [<span class="toc_number toc_depth_2">2.5</span> WordPress Hosting](#WordPress_Hosting)
+- [<span class="toc_number toc_depth_1">3</span> How to Choose the Best Web Host for Your Needs](#How_to_Choose_the_Best_Web_Host_for_Your_Needs)
+  - [<span class="toc_number toc_depth_2">3.1</span> Resource and Performance Requirements](#Resource_and_Performance_Requirements)
+  - [<span class="toc_number toc_depth_2">3.2</span> Is It User-Friendly? Customizable?](#Is_It_User-Friendly_Customizable)
+  - [<span class="toc_number toc_depth_2">3.3</span> Quality of Customer Support](#Quality_of_Customer_Support)
+    - [<span class="toc_number toc_depth_3">3.3.1</span> Tech Support When You Need It](#Tech_Support_When_You_Need_It)
+    - [<span class="toc_number toc_depth_3">3.3.2</span> Support Team: In-House or Outsourced?](#Support_Team_In-House_or_Outsourced)
+  - [<span class="toc_number toc_depth_2">3.4</span> Reliability: Infrastructure, Uptime and Money-Back Guarantee](#Reliability_Infrastructure_Uptime_and_Money-Back_Guarantee)
+    - [<span class="toc_number toc_depth_3">3.4.1</span> What Is Uptime?](#What_Is_Uptime)
+    - [<span class="toc_number toc_depth_3">3.4.2</span> Uptime Guarantees](#Uptime_Guarantees)
+    - [<span class="toc_number toc_depth_3">3.4.3</span> Our Testing: Uptime and Server Response For Top Web Hosts](#Our_Testing_Uptime_and_Server_Response_For_Top_Web_Hosts)
+    - [<span class="toc_number toc_depth_3">3.4.4</span> Money-Back Guarantees](#Money-Back_Guarantees)
+  - [<span class="toc_number toc_depth_2">3.5</span> Scalability and Flexibility](#Scalability_and_Flexibility)
+    - [<span class="toc_number toc_depth_3">3.5.1</span> Site Migration](#Site_Migration)
+    - [<span class="toc_number toc_depth_3">3.5.2</span> Scaling Up to Accommodate Increasing Traffic](#Scaling_Up_to_Accommodate_Increasing_Traffic)
+  - [<span class="toc_number toc_depth_2">3.6</span> Data Security and Backups](#Data_Security_and_Backups)
+    - [<span class="toc_number toc_depth_3">3.6.1</span> Automated or Manual Backups?](#Automated_or_Manual_Backups)
+    - [<span class="toc_number toc_depth_3">3.6.2</span> SSL Certificates: Every Site Needs One](#SSL_Certificates_Every_Site_Needs_One)
+    - [<span class="toc_number toc_depth_3">3.6.3</span> PCI Compliance](#PCI_Compliance)
+- [<span class="toc_number toc_depth_1">4</span> Summary – What Makes Some Web Hosts the Best?](#Summary_8211_What_Makes_Some_Web_Hosts_the_Best)
 
-<span id="The_7_Best_Web_Hosts_of_2019">The 7 Best Web Hosts of 2019</span>
----------------------------------------------------------------------------
+## <span id="The_7_Best_Web_Hosts_of_2019">The 7 Best Web Hosts of 2019</span>
 
 Based on our monitoring of uptime and performance, as well as reviews from users, we’ve identified the following as the best web hosts of 2019.
 
@@ -79,16 +71,16 @@ On the other hand, A2 Hosting isn’t the cheapest option, it doesn’t offer fr
 
 **Pros**
 
--   Supports many technologies and frameworks
--   Excellent uptime
--   Free automatic daily backups
--   Free SSL certificate
--   Free website migrations
+- Supports many technologies and frameworks
+- Excellent uptime
+- Free automatic daily backups
+- Free SSL certificate
+- Free website migrations
 
 **Cons**
 
--   Can be challenging to someone new to web hosting technologies
--   Expensive renewal prices
+- Can be challenging to someone new to web hosting technologies
+- Expensive renewal prices
 
 [\[ Ready to try A2 Hosting? Get our discount. \]](https://html.com/go/a2hosting/)
 
@@ -102,14 +94,14 @@ Bluehost is faster than A2 Hosting. It will throttle your resource usage if you 
 
 **Pros**
 
--   Many plans to choose from
--   Great value for your money
--   Includes a CDN and an SSL certificate
+- Many plans to choose from
+- Great value for your money
+- Includes a CDN and an SSL certificate
 
 **Cons**
 
--   Backups aren’t guaranteed
--   A learning curve with the custom control panel
+- Backups aren’t guaranteed
+- A learning curve with the custom control panel
 
 [\[ Decided to try Bluehost? Get our discount. \]](https://html.com/go/bluehost/)
 
@@ -125,15 +117,15 @@ In our testing, SiteGround’s average server response times are higher than A2 
 
 **Pros**
 
--   Lots of scalable hosting options
--   Fast and stable servers
--   Reliable 24/7 cross-platform support
+- Lots of scalable hosting options
+- Fast and stable servers
+- Reliable 24/7 cross-platform support
 
 **Cons**
 
--   Pricy for newcomers with low requirements
--   No site transfer on the base plan
--   No free domain name
+- Pricy for newcomers with low requirements
+- No site transfer on the base plan
+- No free domain name
 
 [\[ Want to try SiteGround? Use our discount. \]](https://html.com/go/siteground/)
 
@@ -147,15 +139,15 @@ On the flip side, extras like SiteLock security, downgrades, account restoration
 
 **Pros**
 
--   45-day money-back guarantee
--   Free Weebly website builder
--   Search engine credits included with plans
+- 45-day money-back guarantee
+- Free Weebly website builder
+- Search engine credits included with plans
 
 **Cons**
 
--   No optimized WordPress hosting
--   Not HIPAA-compliant
--   Fee for restoring backups
+- No optimized WordPress hosting
+- Not HIPAA-compliant
+- Fee for restoring backups
 
 [\[ Think HostGator’s right for you? Be sure to get our discount. \]](https://html.com/go/hostgator/)
 
@@ -169,14 +161,14 @@ The downsides of InMotion, however, include higher price points and lower resour
 
 **Pros**
 
--   90-day money-back guarantee
--   Green servers & fast technology
--   Outstanding support & documentation
+- 90-day money-back guarantee
+- Green servers & fast technology
+- Outstanding support & documentation
 
 **Cons**
 
--   Datacenters located in North America only
--   Priority support comes only with top-tier plans
+- Datacenters located in North America only
+- Priority support comes only with top-tier plans
 
 [\[ Ready to try InMotion Hosting? Get our discount. \]](https://html.com/go/inmotion/)
 
@@ -192,15 +184,15 @@ Those with large online stores will likely find the functionality restrictive.
 
 **Pros**
 
--   Beautiful, easy-to-use website builder
--   Fully managed server-side
--   Excellent support and training materials
--   Free 14-day trial
+- Beautiful, easy-to-use website builder
+- Fully managed server-side
+- Excellent support and training materials
+- Free 14-day trial
 
 **Cons**
 
--   Pricier than many other hosts, but comes with site builder.
--   Phone support not offered
+- Pricier than many other hosts, but comes with site builder.
+- Phone support not offered
 
 [\[ Decided on Squarespace? Use our discount. \]](https://html.com/go/squarespace/)
 
@@ -216,21 +208,20 @@ Even if you’re content with shared hosting, you might find GreenGeeks’ plans
 
 **Pros**
 
--   Eco-friendly – replaces 300% of the energy it consumes
--   Free site migration and nightly backups
--   Free website builder
+- Eco-friendly – replaces 300% of the energy it consumes
+- Free site migration and nightly backups
+- Free website builder
 
 **Cons**
 
--   3-year commitment for lowest prices
--   Linux servers only, no Windows servers
+- 3-year commitment for lowest prices
+- Linux servers only, no Windows servers
 
 [\[ Want to try GreenGeeks? Use our coupon. \]](https://html.com/go/greengeeks/)
 
-<span id="Types_of_Hosting">Types of Hosting</span>
----------------------------------------------------
+## <span id="Types_of_Hosting">Types of Hosting</span>
 
-Before you can choose the best web hosting company for you, you’ll need to determine the *type* of hosting that fits your needs.
+Before you can choose the best web hosting company for you, you’ll need to determine the _type_ of hosting that fits your needs.
 
 Typically you’ll be deciding between shared hosting, VPS hosting, dedicated servers, cloud hosting, and [WordPress hosting](https://html.com/web-hosting/wordpress/).
 
@@ -268,7 +259,7 @@ If system administration isn’t your cup of tea, you can opt for managed servic
 
 Cloud hosting is where your website isn’t hosted by a single server, but a **cluster of servers** working together as if they were a single server.
 
-This configuration offers you a more robust hosting environment since a single server going offline for whatever reason will likely *not* affect your website.
+This configuration offers you a more robust hosting environment since a single server going offline for whatever reason will likely _not_ affect your website.
 
 Depending on how your web host is set up, your cloud-based data may be distributed in multiple locations around the world.
 
@@ -282,8 +273,7 @@ Because WordPress is so commonly used, many hosts offer specialized WordPress pl
 
 Automattic, the parent company behind WordPress, recommends [Bluehost](https://html.com/web-hosting/bluehost/) as a good option for WordPress users.
 
-<span id="How_to_Choose_the_Best_Web_Host_for_Your_Needs">How to Choose the Best Web Host for Your Needs</span>
----------------------------------------------------------------------------------------------------------------
+## <span id="How_to_Choose_the_Best_Web_Host_for_Your_Needs">How to Choose the Best Web Host for Your Needs</span>
 
 Now that we’ve briefly covered the best web hosts today and types of web hosting available, let’s take a look at the specific features and functionality you’ll want to look for when making your purchase.
 
@@ -353,8 +343,8 @@ Here’s a comparison of our top hosting picks as they relate to uptime and resp
 <strong>Average</strong></td><td><strong>Response Time</strong><br />
 <strong>Average (ms)</strong></td></tr><tr class="even"><td>A2 Hosting</td><td>99.99%</td><td>815.33</td></tr><tr class="odd"><td>Bluehost</td><td>99.98%</td><td>398</td></tr><tr class="even"><td>SiteGround</td><td><strong>100.00%</strong></td><td>459.83</td></tr><tr class="odd"><td>HostGator</td><td>99.975%</td><td>788.5</td></tr><tr class="even"><td>InMotion</td><td>91.83%</td><td>1,379.5</td></tr><tr class="odd"><td>GreenGeeks</td><td>99.995%</td><td><strong>310.67</strong></td></tr></tbody></table>
 
-*Averages uptime and response time over the last 6 months for our top web hosts.*  
-*(Squarespace data unavailable)*
+_Averages uptime and response time over the last 6 months for our top web hosts._  
+_(Squarespace data unavailable)_
 
 As you can see by the bolded numbers above, [SiteGround](https://html.com/web-hosting/siteground/) had the best uptime over the last 12 months while [GreenGeeks](https://html.com/web-hosting/a2-hosting/) had the best response time.
 
@@ -416,8 +406,7 @@ Some hosts, like A2 Hosting, are not PCI compliant but you can use shopping cart
 
 If you’re using a hosted e-commerce builder make sure it’s PCI compliant. Squarespace is an example of a hosted site builder that’s PCI compliant.
 
-<span id="Summary_8211_What_Makes_Some_Web_Hosts_the_Best">Summary – What Makes Some Web Hosts the Best?</span>
----------------------------------------------------------------------------------------------------------------
+## <span id="Summary_8211_What_Makes_Some_Web_Hosts_the_Best">Summary – What Makes Some Web Hosts the Best?</span>
 
 The best web hosts are those that balance things like **performance** and **security** with the **price**.
 
@@ -437,11 +426,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

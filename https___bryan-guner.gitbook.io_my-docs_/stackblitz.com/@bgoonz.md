@@ -1,7 +1,6 @@
 <img src="https://github.com/bgoonz.png" class="rounded shadow-md" />
 
-Bryan C Guner
--------------
+## Bryan C Guner
 
 ### [bgoonz](https://stackblitz.com/@bgoonz)
 

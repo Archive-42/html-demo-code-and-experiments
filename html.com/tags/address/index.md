@@ -8,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 [HTML](../../index.html)  /  [What On Earth Is Semantic Markup? (And Why Should You Learn To Write It)](../../semantic-markup/index.html) / &lt;address&gt; HTML Tag
 
-`<address> HTML Tag`
-====================
+# `<address> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](../index.html)</span>
 
@@ -27,8 +26,7 @@ block
 Usage  
 semantic
 
-Code Example
-------------
+## Code Example
 
     <address>
     You can contact us directly at <a mailto="[email protected]html.com">[email protected]</a>.
@@ -38,12 +36,11 @@ You can contact us directly at <span class="__cf_email__" data-cfemail="60030f0e
 
 <span class="underline"></span>
 
-Contact Information, not Arbitrary Addresses
---------------------------------------------
+## Contact Information, not Arbitrary Addresses
 
 The `<address>` element should be used to provide context-specific contact information (email, mailing address, social media URLs, etc.) relevant to the author of the current site, page, document, section, or article. For example, in a multi-author blog, you might include an `<address>` element with the author’s contact information within the [`<article>`](../article/index.html) element that contains the post. For contact information related to a whole website, you might use in the [`<footer>`](../footer/index.html) of each page, or even on a stand-alone [`Contact`](../../contact/index.html) page.
 
-You *must not* use the `<address>` element as a general styling element for arbitrary postal addresses. Use a `<p>` for that and (if you need to) use CSS for address-specific styling.
+You _must not_ use the `<address>` element as a general styling element for arbitrary postal addresses. Use a `<p>` for that and (if you need to) use CSS for address-specific styling.
 
     <p class="postal-address">
     123 Main St. <br>
@@ -64,8 +61,7 @@ You *must not* use the `<address>` element as a general styling element for arbi
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Browser Support for address
----------------------------
+## Browser Support for address
 
 <img src="../../wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -103,8 +99,7 @@ Browser Support for address
 
 <span class="browser-supported">All</span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](../../resources/citation-guide/index.html)
 
@@ -116,11 +111,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="../../attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="../comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../../attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../iframe/index.html" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../iframe/index.html#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../button/index.html" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../button/index.html#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../../attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="../comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../../attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../iframe/index.html" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../iframe/index.html#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../button/index.html" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../button/index.html#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](../../index.html) © 2015-2020 [Sitemap](../../sitemap/index.html) | [Privacy](../../privacy/index.html) | [Contact](../../contact/index.html)
 

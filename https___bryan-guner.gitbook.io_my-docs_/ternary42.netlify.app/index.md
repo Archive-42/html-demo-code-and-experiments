@@ -1,9 +1,4 @@
-JavaScript Ternary Condition 2 If/Else
-======================================
-
-  
-  
-  
+# JavaScript Ternary Condition 2 If/Else
 
 ### Input
 

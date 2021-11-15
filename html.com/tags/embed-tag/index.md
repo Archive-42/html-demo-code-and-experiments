@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 New in HTML5.
 
-`Is  The Best HTML Element To Add Media? Find Out Now`
-======================================================
+# `Is The Best HTML Element To Add Media? Find Out Now`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/), [New](https://html.com/new/)</span>
 
@@ -20,7 +17,7 @@ In <span class="post-meta-category">[HTML Tags](https://html.com/tags/), [New](h
 Element of  
 [Applets](https://html.com/applets/)
 
-What does `Is  The Best HTML Element To Add Media? Find Out Now` do?  
+What does `Is The Best HTML Element To Add Media? Find Out Now` do?  
 The &lt;embed&gt; element creates an embedded panel in which a third-party application, such as a Flash-based object, can run.
 
 Display  
@@ -30,24 +27,21 @@ block
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> What’s the opposite of “deprecated”?](#What8217s_the_opposite_of_8220deprecated8221)
--   [<span class="toc_number toc_depth_1">2</span> Still maybe not a great idea](#Still_maybe_not_a_great_idea)
--   [<span class="toc_number toc_depth_1">3</span> Not for media, either](#Not_for_media_either)
--   [<span class="toc_number toc_depth_1">4</span> Browser Support for embed](#Browser_Support_for_embed)
--   [<span class="toc_number toc_depth_1">5</span> Attributes of embed](#Attributes_of_embed)
+- [<span class="toc_number toc_depth_1">1</span> What’s the opposite of “deprecated”?](#What8217s_the_opposite_of_8220deprecated8221)
+- [<span class="toc_number toc_depth_1">2</span> Still maybe not a great idea](#Still_maybe_not_a_great_idea)
+- [<span class="toc_number toc_depth_1">3</span> Not for media, either](#Not_for_media_either)
+- [<span class="toc_number toc_depth_1">4</span> Browser Support for embed](#Browser_Support_for_embed)
+- [<span class="toc_number toc_depth_1">5</span> Attributes of embed](#Attributes_of_embed)
 
-<span id="What8217s_the_opposite_of_8220deprecated8221">What’s the opposite of “deprecated”?</span>
----------------------------------------------------------------------------------------------------
+## <span id="What8217s_the_opposite_of_8220deprecated8221">What’s the opposite of “deprecated”?</span>
 
 There are many old HTML element which were originally part of the specification, but have been removed. The `<embed>` element, on the other hand, has been around for a long time, but has only been added to the official specification as of [HTML5](https://html.com/html5/).
 
-<span id="Still_maybe_not_a_great_idea">Still maybe not a great idea</span>
----------------------------------------------------------------------------
+## <span id="Still_maybe_not_a_great_idea">Still maybe not a great idea</span>
 
 While `<embed>` is perfectly valid, and the preferred way to embed third-party applications, such as Flash, it might not be a good idea to use. That is to say — maybe [you don’t want to embed Flash](http://www.e-xanthos.co.uk/blog/why-flash-is-bad-for-web-design-and-seo/) [or Java](https://java.com/en/download/faq/chrome.xml) applications in your web page. (Just a suggestion.)
 
-<span id="Not_for_media_either">Not for media, either</span>
-------------------------------------------------------------
+## <span id="Not_for_media_either">Not for media, either</span>
 
 The `<embed>` attribute was originally used both for applications (like Flash) and also for media — movies and audio. You can now use HTML5’s new [media](https://html.com/media/) elements, [`<audio>`](https://html.com/tags/audio/) and [`<video>`](https://html.com/tags/video/).
 
@@ -65,8 +59,7 @@ The `<embed>` attribute was originally used both for applications (like Flash) a
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_embed">Browser Support for embed</span>
----------------------------------------------------------------------
+## <span id="Browser_Support_for_embed">Browser Support for embed</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -104,8 +97,7 @@ The `<embed>` attribute was originally used both for applications (like Flash) a
 
 <span class="browser-supported">All</span>
 
-<span id="Attributes_of_embed">Attributes of embed</span>
----------------------------------------------------------
+## <span id="Attributes_of_embed">Attributes of embed</span>
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/attributes/embed-width/" class="linked-name">width</a><br />
 </td><td></td><td>Specifies the width of an embedded application panel.</td></tr><tr class="even"><td><a href="https://html.com/attributes/embed-volume/" class="linked-name deprecated">volume</a><br />
@@ -125,8 +117,7 @@ The `<embed>` attribute was originally used both for applications (like Flash) a
 </td><td></td><td>Was used to specify the number of times an embedded media file should play. Not a part of the HTML specification.</td></tr><tr class="even"><td><a href="https://html.com/attributes/embed-pluginspage/" class="linked-name deprecated">pluginspage</a><br />
 </td><td></td><td>Was used to indicate a download source for a plugin required in order to run the embedded application. Not a part of the HTML specification.</td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](https://html.com/resources/citation-guide/)
 
@@ -138,11 +129,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,188 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">750 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">692 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,188 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">750 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">692 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

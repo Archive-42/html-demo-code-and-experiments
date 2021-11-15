@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 New in HTML5.
 
-`<track> HTML Tag`
-==================
+# `<track> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/), [New](https://html.com/new/)</span>
 
@@ -28,8 +25,7 @@ none
 
 <span class="underline"></span>
 
-Code Example
-------------
+## Code Example
 
     <video width="640" height="480" src="https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4" controls>
       <track kind="subtitles" src="subtitles_de.vtt" srclang="de">
@@ -41,21 +37,19 @@ Code Example
 
 This video includes three text tracks. All four include subtitles in a different language. Available subtitle languages include German, English, and Japanese.
 
-Why Provide Tracks?
--------------------
+## Why Provide Tracks?
 
 Tracks ensure that all users have access to content presented in audio and video files regardless of their language or any physical limitations. They remove accessibility and languages barriers and ensure that users can fully understand the content presented in video or audio format. As such, tracks represent an important internationalization and accessibility feature.
 
-Track Attributes
-----------------
+## Track Attributes
 
 There are several attributes that can be applied to a `track` element to give the browser more information about the linked track.
 
--   The `kind` attribute can be used to identify the *kind* of data contained in the track: `subtitles`, `captions`, `descriptions`, `chapters`, or `metadata`.
--   The `label` attribute is a text label applied to the track and read by the user when the user is selecting between available tracks.
--   The `src` attribute specifies a URL where the track file, in *.vtt* format, is located. This is the only *required* `track` element attribute.
--   The `srclang`attribute identifies the language of the text data. If the `kind` is set to `subtitles` or if `kind` is ommitted (`subtitles` is the default value of `kind`), then the `srclang` is required.
--   The `default` attribute is used to identify the `track` that will be played by default unless the user selects and alternate `track`.
+- The `kind` attribute can be used to identify the _kind_ of data contained in the track: `subtitles`, `captions`, `descriptions`, `chapters`, or `metadata`.
+- The `label` attribute is a text label applied to the track and read by the user when the user is selecting between available tracks.
+- The `src` attribute specifies a URL where the track file, in _.vtt_ format, is located. This is the only _required_ `track` element attribute.
+- The `srclang`attribute identifies the language of the text data. If the `kind` is set to `subtitles` or if `kind` is ommitted (`subtitles` is the default value of `kind`), then the `srclang` is required.
+- The `default` attribute is used to identify the `track` that will be played by default unless the user selects and alternate `track`.
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -71,8 +65,7 @@ There are several attributes that can be applied to a `track` element to give th
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`<time> HTML Tag`](https://html.com/tags/time/)
 
@@ -84,11 +77,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

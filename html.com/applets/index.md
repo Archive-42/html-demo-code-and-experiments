@@ -1,21 +1,14 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
-
-
-
-
 
 [HTML](https://html.com/)  /  Applets
 
 Deprecated in HTML5. Do not use.
 
-Applets
-=======
+# Applets
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -25,17 +18,16 @@ The trend in recent years has been for web browsers to remove support for plugin
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Java Applets are Obsolete](#Java_Applets_are_Obsolete)
-    -   [<span class="toc_number toc_depth_2">1.1</span> The “ Element: Introduced and Simultaneously Deprecated](#The_8220_Element_Introduced_and_Simultaneously_Deprecated)
-    -   [<span class="toc_number toc_depth_2">1.2</span> Java: Still Popular, Just Not for the Web](#Java_Still_Popular_Just_Not_for_the_Web)
--   [<span class="toc_number toc_depth_1">2</span> Potential Replacements for Java Applets](#Potential_Replacements_for_Java_Applets)
-    -   [<span class="toc_number toc_depth_2">2.1</span> Web-Based Applications: Transition Away from Java](#Web-Based_Applications_Transition_Away_from_Java)
-    -   [<span class="toc_number toc_depth_2">2.2</span> Web-Launched Desktop Applications: Transition to Java Web Start](#Web-Launched_Desktop_Applications_Transition_to_Java_Web_Start)
--   [<span class="toc_number toc_depth_1">3</span> The Future: A Plug-In Free Web](#The_Future_A_Plug-In_Free_Web)
--   [<span class="toc_number toc_depth_1">4</span> Related Elements](#Related_Elements)
+- [<span class="toc_number toc_depth_1">1</span> Java Applets are Obsolete](#Java_Applets_are_Obsolete)
+  - [<span class="toc_number toc_depth_2">1.1</span> The “ Element: Introduced and Simultaneously Deprecated](#The_8220_Element_Introduced_and_Simultaneously_Deprecated)
+  - [<span class="toc_number toc_depth_2">1.2</span> Java: Still Popular, Just Not for the Web](#Java_Still_Popular_Just_Not_for_the_Web)
+- [<span class="toc_number toc_depth_1">2</span> Potential Replacements for Java Applets](#Potential_Replacements_for_Java_Applets)
+  - [<span class="toc_number toc_depth_2">2.1</span> Web-Based Applications: Transition Away from Java](#Web-Based_Applications_Transition_Away_from_Java)
+  - [<span class="toc_number toc_depth_2">2.2</span> Web-Launched Desktop Applications: Transition to Java Web Start](#Web-Launched_Desktop_Applications_Transition_to_Java_Web_Start)
+- [<span class="toc_number toc_depth_1">3</span> The Future: A Plug-In Free Web](#The_Future_A_Plug-In_Free_Web)
+- [<span class="toc_number toc_depth_1">4</span> Related Elements](#Related_Elements)
 
-<span id="Java_Applets_are_Obsolete">Java Applets are Obsolete</span>
----------------------------------------------------------------------
+## <span id="Java_Applets_are_Obsolete">Java Applets are Obsolete</span>
 
 There are two distinct ways in which applets have been deprecated:
 
@@ -58,8 +50,7 @@ Support for Java has always required a browser plugin, and recently support for 
 
 Java isn’t going away. It will still be used widely for enterprise applications, operating systems, and much more. According to some surveys, Java may be [the most in-demand programming language](http://www.tiobe.com/tiobe_index) when all programming applications are taken into account. However, Java’s days as a programming language for web-based applications are behind us.
 
-<span id="Potential_Replacements_for_Java_Applets">Potential Replacements for Java Applets</span>
--------------------------------------------------------------------------------------------------
+## <span id="Potential_Replacements_for_Java_Applets">Potential Replacements for Java Applets</span>
 
 If you have Java-powered content and resources on your website embedded using the `applet` element, you should [switch to the `object` element](https://docs.oracle.com/cd/E19683-01/816-0378/using_tags/index.html) immediately. You also need to start investigating a complete transition over to supported web technologies.
 
@@ -80,8 +71,7 @@ If your application is robust enough to run as a full desktop application, it’
 
 [Migrating a Java Applet](https://docs.oracle.com/javase/7/docs/technotes/guides/jweb/applet_migration.html) to a Web Start environment is usually relatively simple. The thing you’ll have to keep in mind is that the new desktop application will run completely independently of the website that launched it. If you have been using Java to run a web-based application embedded in your website, there simply isn’t a way to continue doing that for the long term, and if you want your application to run as part of a website you must switch to an alternate technology.
 
-<span id="The_Future_A_Plug-In_Free_Web">The Future: A Plug-In Free Web</span>
-------------------------------------------------------------------------------
+## <span id="The_Future_A_Plug-In_Free_Web">The Future: A Plug-In Free Web</span>
 
 The future of the web will include increased functionality built right into the fundamental web technologies of [CSS](https://html.com/css/), HTML, and [JavaScript](https://html.com/javascript/). Already, we can see this progress as [support for media](https://html.com/media/) is built right into HTML5 and CSS is now capable of creating [impressive animations and transitions](https://html.com/css/) previously only possible with plugins or JavaScript.
 
@@ -103,8 +93,7 @@ The days of web applications powered by plugins like Java are behind us. While s
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
-<span id="Related_Elements">Related Elements</span>
----------------------------------------------------
+## <span id="Related_Elements">Related Elements</span>
 
 <table><thead><tr class="header"><th>Element Name</th><th>Attributes</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/tags/object/" class="linked-name">object</a></td><td></td><td>The &lt;object&gt; element is used to embed an object in an HTML document. It is commonly used to embed webpage elements such as Flash and Java items that are handled by browser plugins.</td></tr><tr class="even"><td><a href="https://html.com/tags/param/" class="linked-name">param</a></td><td><a href="https://html.com/attributes/param-name/" class="linked-name">name</a><br />
 <a href="https://html.com/attributes/param-value/" class="linked-name">value</a><br />
@@ -143,11 +132,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

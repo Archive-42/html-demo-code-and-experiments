@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-20 Best Funny Internet Scams (Warning: These Stories Are Downright Ridiculous)
-==============================================================================
+# 20 Best Funny Internet Scams (Warning: These Stories Are Downright Ridiculous)
 
 In <span class="post-meta-category">[Blog](https://html.com/blog/), [Features](https://html.com/blog/features/)</span>
 
@@ -36,7 +29,7 @@ In <span class="post-meta-category">[Blog](https://html.com/blog/), [Features](h
 11. **[Don’t Pump Gas on May 15](https://money.cnn.com/2007/05/14/news/economy/gas_boycott/index.htm)**: In May of 2007, an e-mail hoax pleaded with American drivers, “Don’t pump gas on May 15!” The hope was that large oil companies would suffer great financial losses if millions of people refused to fuel up on one single day. An article on CNN reveals that “the chain e-mail urging the gas boycott has been around for several years, surfacing most years in the springtime” and that “many of the numbers in the e-mail are either misleading or flat out wrong.”
 12. **[Bill Gates Hoax](http://urbanlegends.about.com/library/blmsaol.htm)**: Poor Bill Gates has found himself involved in another e-mail scam, this time with [AOL](https://www.aol.com/). As with the Disney hoax, people are rewarded for passing along the chain e-mail in $5.00, $3.00, and $1.00 increments. No Disney vacation included in this one, though.
 13. **[ATM Security Hoax](http://www.hoax-slayer.com/reverse-pin-ATM.shtml)**: Who needs 911 when you’ve got your trusty PIN number? This scam reports that if you need to call the police at an ATM machine, you can subtly make the call by typing in your PIN number backwards. The website Hoax-Slayer.com reports that the scam “stated that this method of calling the police is very seldom used because people don’t know it exists,” and assures [customers](https://html.com/blog/ecommerce-customer-service/) that “the machine will still give you the monies you requested,” despite having typed in your code backwards. Um, we don’t think so.
-14. **[KFC Hoax](https://www.snopes.com/food/tainted/kfc.asp)**: Despite what this Internet hoax wants you to believe, the [Kentucky Fried Chicken](http://www.kfc.com/) franchise does *not* genetically engineer chicken-related organisms to maximize the amount of meat collected from each creature. This disgusting scam attempt to explain why Kentucky Fried Chicken is now referred to as just KFC, “because they can not use the word chicken anymore. Why? KFC does not use real chickens.”
+14. **[KFC Hoax](https://www.snopes.com/food/tainted/kfc.asp)**: Despite what this Internet hoax wants you to believe, the [Kentucky Fried Chicken](http://www.kfc.com/) franchise does _not_ genetically engineer chicken-related organisms to maximize the amount of meat collected from each creature. This disgusting scam attempt to explain why Kentucky Fried Chicken is now referred to as just KFC, “because they can not use the word chicken anymore. Why? KFC does not use real chickens.”
 15. **[Facebook millions](http://www.hoax-slayer.net/no-mark-zuckerberg-is-not-giving-millions-of-dollars-to-facebook-users-who-copy-and-paste-a-message/)**: Well-meaning Facebook users forwarded a status update in 2015, in the hope that Mark Zuckerberg would share his fortune with users of the site. This was outed as a hoax within days, but not before the fake promise had spread like wildfire all over the site.
 16. **[The Helius Project](http://wikibin.org/articles/helius-project-2.html)**: This popular scam is still believed by many people to be concrete evidence that intelligent aliens do exist. The Helius Project pretends to originate from “an alien species” trying to reach out to humans via the Internet. Where are Mulder and Scully when you need them to debunk your online alien rumors?
 17. **[“Send An Email Ad to 10,000 Opt-in Subscribers”](http://www.searchingsolutions.com/top-10-internet-marketing-scams/)**: Number 7 on the “Top 10 Internet Marketing Scams” list from the Real Estate Marketing Tools blog involves a scam that tries to convince innocent people to engage in illegal marketing tactics by sending advertisements to allegedly opt-in e-mail clients. Instead of falling for one of these scams, the author advises readers to start an e-mail campaign themselves, because “that way, you will know for sure that they are opt-in, and you will be able to manage the results.”
@@ -48,8 +41,7 @@ If you suspect an e-mail of trying to solicit money or personal information from
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>Picasa To Flickr: 100 Of The Best Places To Post & Share Photos Online](https://html.com/blog/100-places-post-share-photos-online/)
 
@@ -65,11 +57,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

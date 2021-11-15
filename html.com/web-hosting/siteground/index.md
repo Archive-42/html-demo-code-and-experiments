@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-SiteGround Review: Your Best Bet For Web Hosting?
-=================================================
+# SiteGround Review: Your Best Bet For Web Hosting?
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -31,32 +24,31 @@ Before we get into details, let’s look at the upsides and downsides of hosting
 
 **Pros**
 
--   Lots of hosting options
--   Fast and stable servers
--   Excellent support
+- Lots of hosting options
+- Fast and stable servers
+- Excellent support
 
 **Cons**
 
--   More expensive than competitors
--   No site transfer on base plan
--   No free domain name
+- More expensive than competitors
+- No site transfer on base plan
+- No free domain name
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
--   [<span class="toc_number toc_depth_1">2</span> About SiteGround](#About_SiteGround)
--   [<span class="toc_number toc_depth_1">3</span> SiteGround Hosting Plans](#SiteGround_Hosting_Plans)
--   [<span class="toc_number toc_depth_1">4</span> SiteGround Hosting Features](#SiteGround_Hosting_Features)
--   [<span class="toc_number toc_depth_1">5</span> Comprehensive Customer Support](#Comprehensive_Customer_Support)
--   [<span class="toc_number toc_depth_1">6</span> Uptime and Performance](#Uptime_and_Performance)
--   [<span class="toc_number toc_depth_1">7</span> Domain Names](#Domain_Names)
--   [<span class="toc_number toc_depth_1">8</span> SiteGround vs Bluehost](#SiteGround_vs_Bluehost)
--   [<span class="toc_number toc_depth_1">9</span> SiteGround Deals](#SiteGround_Deals)
--   [<span class="toc_number toc_depth_1">10</span> Summary](#Summary)
--   [<span class="toc_number toc_depth_1">11</span> Your Review of SiteGround](#Your_Review_of_SiteGround)
+- [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
+- [<span class="toc_number toc_depth_1">2</span> About SiteGround](#About_SiteGround)
+- [<span class="toc_number toc_depth_1">3</span> SiteGround Hosting Plans](#SiteGround_Hosting_Plans)
+- [<span class="toc_number toc_depth_1">4</span> SiteGround Hosting Features](#SiteGround_Hosting_Features)
+- [<span class="toc_number toc_depth_1">5</span> Comprehensive Customer Support](#Comprehensive_Customer_Support)
+- [<span class="toc_number toc_depth_1">6</span> Uptime and Performance](#Uptime_and_Performance)
+- [<span class="toc_number toc_depth_1">7</span> Domain Names](#Domain_Names)
+- [<span class="toc_number toc_depth_1">8</span> SiteGround vs Bluehost](#SiteGround_vs_Bluehost)
+- [<span class="toc_number toc_depth_1">9</span> SiteGround Deals](#SiteGround_Deals)
+- [<span class="toc_number toc_depth_1">10</span> Summary](#Summary)
+- [<span class="toc_number toc_depth_1">11</span> Your Review of SiteGround](#Your_Review_of_SiteGround)
 
-<span id="About_SiteGround">About SiteGround</span>
----------------------------------------------------
+## <span id="About_SiteGround">About SiteGround</span>
 
 SiteGround provides services aimed at beginners like their shared hosting plans and domain name registration service. They also offer high-end Cloud and Dedicated hosting plans.
 
@@ -68,8 +60,7 @@ SiteGround provides services aimed at beginners like their shared hosting plans 
 
 As you’ll see shortly, SiteGround provides excellent performance and support, even on their cheapest plans.
 
-<span id="SiteGround_Hosting_Plans">SiteGround Hosting Plans</span>
--------------------------------------------------------------------
+## <span id="SiteGround_Hosting_Plans">SiteGround Hosting Plans</span>
 
 SiteGround offers a wide variety of hosting plans. We’ve categorized them into four fairly distinct categories to help you sort them out.
 
@@ -89,9 +80,9 @@ You can host multiple websites on most plans. This is the most common type of ho
 
 If you opt for a shared hosting plan, you’ll have three different plans from which you can choose:
 
--   **StartUp**: supports 1 website with 10 GB of storage and allows up to 10,000 monthly visits
--   **GrowBig**: supports an unlimited number of websites with 20 GB of storage and allows up to 25,000 monthly visits
--   **GoGeek**: supports an unlimited number of websites with 30 GB of storage and allows up to 100,000 monthly visits.
+- **StartUp**: supports 1 website with 10 GB of storage and allows up to 10,000 monthly visits
+- **GrowBig**: supports an unlimited number of websites with 20 GB of storage and allows up to 25,000 monthly visits
+- **GoGeek**: supports an unlimited number of websites with 30 GB of storage and allows up to 100,000 monthly visits.
 
 Regardless of which option you choose, you’ll get access to the Weebly site builder to launch your front-end. SiteGround will migrate your site if you choose the GrowBig or GoGeek plans.
 
@@ -117,10 +108,10 @@ SiteGround’s cloud hosting plans are not cheap — prices begin at [$80 per mo
 
 SiteGround offers four different cloud hosting plans from which you can choose:
 
--   **Entry**: 2 CPU cores, 4 GB memory, 50 GB SSD space, and 5 TB data transfer
--   **Business**: 3 CPU cores, 6 GB memory, 60 GB SSD space, and 5 TB data transfer
--   **Business Plus**: 4 CPU cores, 8 GB memory, 80 GB SSD space, and 5 TB data transfer
--   **Super Power**: 8 CPU cores, 10 GB memory, 1200 GB SSD space, and 5 TB data transfer.
+- **Entry**: 2 CPU cores, 4 GB memory, 50 GB SSD space, and 5 TB data transfer
+- **Business**: 3 CPU cores, 6 GB memory, 60 GB SSD space, and 5 TB data transfer
+- **Business Plus**: 4 CPU cores, 8 GB memory, 80 GB SSD space, and 5 TB data transfer
+- **Super Power**: 8 CPU cores, 10 GB memory, 1200 GB SSD space, and 5 TB data transfer.
 
 If none of the pre-defined plans work for you, SiteGround offers a Create Your Own Plan option where you can modify any of the existing plans. As you make changes to your resource allocations, you’ll see the pricing change accordingly so there will be no surprises when billing time comes around.
 
@@ -150,8 +141,7 @@ Your setup could be a single instance, a public cloud configuration, a private c
 
 Enterprise plans are fully-managed by SiteGround.
 
-<span id="SiteGround_Hosting_Features">SiteGround Hosting Features</span>
--------------------------------------------------------------------------
+## <span id="SiteGround_Hosting_Features">SiteGround Hosting Features</span>
 
 There’s much more to SiteGround than its plan specifics. Below we discuss general features you should know about.
 
@@ -163,7 +153,7 @@ The big problem with most inexpensive hosting plans is that they’re based on m
 
 #### Solid State Drives
 
-First, *all* servers, even the ones used for shared hosting plans, incorporate solid state drives (SSDs). Any reading or writing operations that your website needs is done significantly faster than on mechanical hard drives.
+First, _all_ servers, even the ones used for shared hosting plans, incorporate solid state drives (SSDs). Any reading or writing operations that your website needs is done significantly faster than on mechanical hard drives.
 
 #### Cloudflare CDN
 
@@ -203,8 +193,7 @@ On all plans, even the cheapest one, SiteGround provides a **free daily backup**
 
 On the higher-level shared plans, SiteGround offers a **staging server** for WordPress and Joomla. It allows you to test website changes and additions before they are made live. Once you’re happy with your changes, you just deploy them from your staging site and your actual site will be updated.
 
-<span id="Comprehensive_Customer_Support">Comprehensive Customer Support</span>
--------------------------------------------------------------------------------
+## <span id="Comprehensive_Customer_Support">Comprehensive Customer Support</span>
 
 [SiteGround](https://html.com/go/siteground/) provides three ways to contact their in-house support team, and all options are just a click away from the control panel.
 
@@ -228,8 +217,7 @@ SiteGround doesn’t offer free trials, but to make sure that you’re satisfied
 
 Unfortunately, dedicated hosting packages and other services/add-ons are excluded from the money-back guarantee. Reseller packages are covered only if the entire package is canceled — you cannot cancel just a few accounts.
 
-<span id="Uptime_and_Performance">Uptime and Performance</span>
----------------------------------------------------------------
+## <span id="Uptime_and_Performance">Uptime and Performance</span>
 
 > In terms of response time, SiteGround offers performance that is much better than competitors like GoDaddy.
 
@@ -241,15 +229,14 @@ In addition, accounts are completely isolated. So even if someone’s website go
 
 Based on our testing, the performance for SiteGround over the past year has been excellent:
 
--   **Uptime**: 99.995%
--   **Average response rate**: 431 milliseconds.
+- **Uptime**: 99.995%
+- **Average response rate**: 431 milliseconds.
 
 As you can see, SiteGround exceeds its uptime guarantee of 99.9% — with a measured uptime of 99.995%. You can expect just over 2 minutes of downtime per month outside normally scheduled maintenance periods.
 
 In terms of response time, SiteGround offers performance that is much better than competitors like [GoDaddy](https://html.com/web-hosting/godaddy/) (whose average is in the realm of ~1000 ms). But it isn’t quite as good as those of [A2 Hosting](https://html.com/web-hosting/a2-hosting/).
 
-<span id="Domain_Names">Domain Names</span>
--------------------------------------------
+## <span id="Domain_Names">Domain Names</span>
 
 SiteGround is a domain name registrar, so you can purchase domain names from the company.
 
@@ -257,8 +244,7 @@ SiteGround is a domain name registrar, so you can purchase domain names from the
 
 Unlike many hosting companies, SiteGround does not include a free domain name with the purchase of a web hosting package.
 
-<span id="SiteGround_vs_Bluehost">SiteGround vs Bluehost</span>
----------------------------------------------------------------
+## <span id="SiteGround_vs_Bluehost">SiteGround vs Bluehost</span>
 
 [Bluehost](https://html.com/web-hosting/bluehost/) is often brought up along with SiteGround as a host that provides good value: low prices and high performance.
 
@@ -274,14 +260,13 @@ Our tests indicate that Bluehost lags SiteGround when it comes to uptime and pag
 
 And Bluehost has the advantage of being distinctly less expensive. Their introductory price on their lowest-cost shared hosting plans is $2.75 per month — compared to $3.95 for SiteGround. And the renewal prices diverge similarly: $7.99 vs $11.95.
 
-If SiteGround’s performance advantages are not *that* important to you, you can save a lot by hosting with Bluehost.
+If SiteGround’s performance advantages are not _that_ important to you, you can save a lot by hosting with Bluehost.
 
 ### Other SiteGround Alternatives
 
 [HostGator](https://html.com/web-hosting/hostgator/) offers a wide variety of web hosting options and its shared hosting plans are designed to be easy to use and affordable. [A2 Hosting](https://html.com/web-hosting/a2-hosting/) isn’t the easiest [web host](https://html.com/web-hosting/) to use, but if you want performance on a budget, you can’t go wrong with them. And [GoDaddy](https://html.com/web-hosting/godaddy/) offers every kind of hosting and related service you could want, so they are worth considering.
 
-<span id="SiteGround_Deals">SiteGround Deals</span>
----------------------------------------------------
+## <span id="SiteGround_Deals">SiteGround Deals</span>
 
 > You can get SiteGround hosting for as little as $3.95 per month for a three-year contract.
 
@@ -291,8 +276,7 @@ So instead of paying $11.95 per month for its basic hosting plan, you only [pay 
 
 Note that this deal applies to your first contract term only. So the longer the term, the longer you will get the deal. You can choose a plan length of up to 3 years. [Get 67% off SiteGround hosting now.](https://html.com/go/siteground/)
 
-<span id="Summary">Summary</span>
----------------------------------
+## <span id="Summary">Summary</span>
 
 Overall, [SiteGround](https://html.com/go/siteground/) is one of the most polished hosting services there is.
 
@@ -302,16 +286,15 @@ The support is available 24/7 and goes the extra mile to help you build a websit
 
 Their only real downside is that their hosting is a bit more expensive than their competitors. But if you want performance hosting at what is still a low cost, visit [SiteGround.com](https://html.com/go/siteground/) now.
 
-<span id="Your_Review_of_SiteGround">Your Review of SiteGround</span>
----------------------------------------------------------------------
+## <span id="Your_Review_of_SiteGround">Your Review of SiteGround</span>
 
 Are you a current or past customer of SiteGround? Would you recommend them? Please leave your comments below and let our visitors know what you think of SiteGround’s speed, features and customer service.
 
 <a href="https://html.com/go/siteground/" class="button-cta">Visit SiteGround Now</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing write: [Katie Horne](https://html.com/author/katie/). Contributing editor: [Frank Moraes](https://html.com/author/frank/).*</span>
+<span class="small">_Contributing write: [Katie Horne](https://html.com/author/katie/). Contributing editor: [Frank Moraes](https://html.com/author/frank/)._</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -337,11 +320,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

@@ -246,7 +246,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -264,7 +264,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -304,7 +304,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -340,7 +340,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="47690f2a745246bcb63a728dd1ffa01e"><span data-offset-key="47690f2a745246bcb63a728dd1ffa01e:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="472c76eadfe44afbbbace7887465c31d"><span data-offset-key="472c76eadfe44afbbbace7887465c31d:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="f90cad7b1c1e46c8823cd894857a59b8"><span data-offset-key="f90cad7b1c1e46c8823cd894857a59b8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/pages" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0ea14e59c6dd4f6aaced62898471d071" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="ce61cbd236d24f61a2f38bf4f9330502"><span data-offset-key="ce61cbd236d24f61a2f38bf4f9330502:0">Pages</span></span></span></a><span data-key="864a6994a1354a01b29de4f3971c9dc8"><span data-offset-key="864a6994a1354a01b29de4f3971c9dc8:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -352,7 +352,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="4c7a5ce76b354c45bb55dd371fc31548"><span data-offset-key="4c7a5ce76b354c45bb55dd371fc31548:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="2b8ce732023c448d849f39326a7c7787"><span data-offset-key="2b8ce732023c448d849f39326a7c7787:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="0b3306ce0cd44777a48f03a3b6068ea5"><span data-offset-key="0b3306ce0cd44777a48f03a3b6068ea5:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/rocketbook" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fed4842424284b028f0ee0a507e68f0a" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="5f57e37648d94de3a11774e5a7b7e193"><span data-offset-key="5f57e37648d94de3a11774e5a7b7e193:0">Rocketbook</span></span></span></a><span data-key="287648645b9544a0ad9845c68285be52"><span data-offset-key="287648645b9544a0ad9845c68285be52:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -366,7 +366,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="668a3db4d0a04ff6a2b1910574e2856c"><span data-offset-key="668a3db4d0a04ff6a2b1910574e2856c:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="936b77f07c7b486087c7e9fda1141898"><span data-offset-key="936b77f07c7b486087c7e9fda1141898:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="9fb6e52147404241aa76d64b627ca7a7"><span data-offset-key="9fb6e52147404241aa76d64b627ca7a7:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/bear" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2167efffcbb74e8e94424897920185ad" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="7a404236a934443d88139d7d50a69483"><span data-offset-key="7a404236a934443d88139d7d50a69483:0">Bear</span></span></span></a><span data-key="7341de4283bd4c1ab38ea1cc8f1645c5"><span data-offset-key="7341de4283bd4c1ab38ea1cc8f1645c5:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -380,7 +380,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="f0187041e8444226b3f130be4e54bf65"><span data-offset-key="f0187041e8444226b3f130be4e54bf65:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="810adff3d50448c393c9d128b8d781f4"><span data-offset-key="810adff3d50448c393c9d128b8d781f4:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="1faded679da546fb9a2f1406c89b1f87"><span data-offset-key="1faded679da546fb9a2f1406c89b1f87:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/evernote" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ff6e8a63de3a46a395d7e55d650f5e2b" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="c3ef4177b8a4411e98e6707315c4e718"><span data-offset-key="c3ef4177b8a4411e98e6707315c4e718:0">Evernote</span></span></span></a><span data-key="c75ba1397b944781a33460fce5685419"><span data-offset-key="c75ba1397b944781a33460fce5685419:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -394,7 +394,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="67174f999e564a1a932ac20a4c587aa9"><span data-offset-key="67174f999e564a1a932ac20a4c587aa9:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="eec1364521b64062b306496ed4753bcc"><span data-offset-key="eec1364521b64062b306496ed4753bcc:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="03fa7a4314b8470fabfcc80d485317d6"><span data-offset-key="03fa7a4314b8470fabfcc80d485317d6:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/microsoft-onenote" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f2a7f9e5180c4868bdd97a89d8e07f0b" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="d8ef74dfdd2a4650b4d9fd160fb84525"><span data-offset-key="d8ef74dfdd2a4650b4d9fd160fb84525:0">Microsoft OneNote</span></span></span></a><span data-key="b23cb3dd462e468dbece0f9633556a29"><span data-offset-key="b23cb3dd462e468dbece0f9633556a29:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -406,7 +406,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="ac39cf8aa7dc459699dbff083b4cb902"><span data-offset-key="ac39cf8aa7dc459699dbff083b4cb902:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="910616165cc74ceda1a5802cfca6a852"><span data-offset-key="910616165cc74ceda1a5802cfca6a852:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="22d760b2ae9b4040bcc9e0aa0e2b4bbd"><span data-offset-key="22d760b2ae9b4040bcc9e0aa0e2b4bbd:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/nimbus-note" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8e48cc37e58b4a98ae86009b1a5fec15" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="89ab84ccec24409495157bce8ac1ab5d"><span data-offset-key="89ab84ccec24409495157bce8ac1ab5d:0">Nimbus Note</span></span></span></a><span data-key="0834c4f452ff4b3dad6b90f886c541a9"><span data-offset-key="0834c4f452ff4b3dad6b90f886c541a9:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -420,7 +420,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="f6505c9af18b48208c79d02a82f277a7"><span data-offset-key="f6505c9af18b48208c79d02a82f277a7:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="460a188bc871421a84f94b8940884b5c"><span data-offset-key="460a188bc871421a84f94b8940884b5c:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="55e8a9e187f147e890ce67ba03cccccf"><span data-offset-key="55e8a9e187f147e890ce67ba03cccccf:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/notability" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e7e23e3ba4074380950a7653514030bb" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="7cd95286f862486693e57b2a53a964f4"><span data-offset-key="7cd95286f862486693e57b2a53a964f4:0">Notability</span></span></span></a><span data-key="355c08f8629c42ffa369fb4c624d4c3e"><span data-offset-key="355c08f8629c42ffa369fb4c624d4c3e:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -434,7 +434,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="3fcdcc0a66fe46aba87a29cb0c66e8f0"><span data-offset-key="3fcdcc0a66fe46aba87a29cb0c66e8f0:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="ed1b7e542d5e488c9c30c28dccabfdee"><span data-offset-key="ed1b7e542d5e488c9c30c28dccabfdee:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="f5e372594096446cb38568d71177ba36"><span data-offset-key="f5e372594096446cb38568d71177ba36:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/notebook-take-notes-sync" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e8f96aeaa33143ffb67c878c51321b60" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="c69e3f3b5ba5452f9e97d72b690332dc"><span data-offset-key="c69e3f3b5ba5452f9e97d72b690332dc:0">Notebook - Take Notes, Sync</span></span></span></a><span data-key="3f935c63c25843a7b7b49fde67a7da59"><span data-offset-key="3f935c63c25843a7b7b49fde67a7da59:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -446,7 +446,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="2f048c01641d443d8ec99bb0a8b2d39f"><span data-offset-key="2f048c01641d443d8ec99bb0a8b2d39f:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="9de6f2e16cf1441d845ee35bf37b5bfd"><span data-offset-key="9de6f2e16cf1441d845ee35bf37b5bfd:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="b5d4d05a2120481fafdb562147a031b9"><span data-offset-key="b5d4d05a2120481fafdb562147a031b9:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/otter-voice-notes" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0019e55dc5a34483bc65675fc1038edc" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="ccc231baea4e423ba01e6d17782856dd"><span data-offset-key="ccc231baea4e423ba01e6d17782856dd:0">Otter Voice Notes</span></span></span></a><span data-key="87f7063e3d824f359276de396fa17a29"><span data-offset-key="87f7063e3d824f359276de396fa17a29:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -462,7 +462,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="7b816ed6cea8480999a6bf141b829584"><span data-offset-key="7b816ed6cea8480999a6bf141b829584:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="46bf95ade0d745279921849663d7f976"><span data-offset-key="46bf95ade0d745279921849663d7f976:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="ce53e55ae0924260b9f398084a512e12"><span data-offset-key="ce53e55ae0924260b9f398084a512e12:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/symbalooedu" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7e81e6995abc476d80716f08e3d620c6" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="b5d48844f0814cceac9142bcc4f56015"><span data-offset-key="b5d48844f0814cceac9142bcc4f56015:0">SymbalooEDU</span></span></span></a><span data-key="665af2f618b54145a0780040b05c0c7c"><span data-offset-key="665af2f618b54145a0780040b05c0c7c:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -476,7 +476,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="d05279500c3e4034909b17cd1d5ca752"><span data-offset-key="d05279500c3e4034909b17cd1d5ca752:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="3d9f57e75c4c4f3aaf29330404689da2"><span data-offset-key="3d9f57e75c4c4f3aaf29330404689da2:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="e510511ff64a460faf3550ab87a4182b"><span data-offset-key="e510511ff64a460faf3550ab87a4182b:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/mural" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2f6fc9f66a0a459ca2b6dc268c778ec5" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="49d25c436e2642438174ed7159e14771"><span data-offset-key="49d25c436e2642438174ed7159e14771:0">MURAL</span></span></span></a><span data-key="490b7d97f5cb47fd969a34d91e69c631"><span data-offset-key="490b7d97f5cb47fd969a34d91e69c631:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -490,7 +490,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="1fb8a6aa7dde495280cddac9e2b013ef"><span data-offset-key="1fb8a6aa7dde495280cddac9e2b013ef:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="e20f49514edc4005b057dddc15cacfa6"><span data-offset-key="e20f49514edc4005b057dddc15cacfa6:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="adb1df807ada412eb92644fa72f06509"><span data-offset-key="adb1df807ada412eb92644fa72f06509:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/kami" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="65deb4056983404a910ecd50905554f6" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="42df67bad4ec4b2cb3c5b3d096791172"><span data-offset-key="42df67bad4ec4b2cb3c5b3d096791172:0">Kami</span></span></span></a><span data-key="6ba6ef7a254a4db18ea9daf9564a6c30"><span data-offset-key="6ba6ef7a254a4db18ea9daf9564a6c30:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -504,7 +504,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="8beb16a81ead4679b6950ede248e491f"><span data-offset-key="8beb16a81ead4679b6950ede248e491f:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="dda8e20d46b34592b994a73bf7740918"><span data-offset-key="dda8e20d46b34592b994a73bf7740918:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="df87e4f3749d4ffc829aaec64a30e2cd"><span data-offset-key="df87e4f3749d4ffc829aaec64a30e2cd:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/mindmeister" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3a64d4bec7d844819491f31744b46961" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="d3674d7ca669448c89f4bb0846460c20"><span data-offset-key="d3674d7ca669448c89f4bb0846460c20:0">MindMeister</span></span></span></a><span data-key="0b02a2cdca314f2784a9c19e365de37b"><span data-offset-key="0b02a2cdca314f2784a9c19e365de37b:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -518,7 +518,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="b6acbb48f30f4985a109dd82000a2b06"><span data-offset-key="b6acbb48f30f4985a109dd82000a2b06:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="6cb5ccc411794f3cb0d027efa7cc901c"><span data-offset-key="6cb5ccc411794f3cb0d027efa7cc901c:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="f0ed967c0a534e5988393bdfb48be4ce"><span data-offset-key="f0ed967c0a534e5988393bdfb48be4ce:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/workflowy" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fbdce08800ce41bfacf7f78fa2b3d730" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="040db5f2f7d04086a31209cceb6e4cb3"><span data-offset-key="040db5f2f7d04086a31209cceb6e4cb3:0">WorkFlowy</span></span></span></a><span data-key="ad9ee12895f34699aa6dd60e3226ce6d"><span data-offset-key="ad9ee12895f34699aa6dd60e3226ce6d:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -530,7 +530,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="d567a6d492324c448f0ed065a35cb054"><span data-offset-key="d567a6d492324c448f0ed065a35cb054:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="d575158c87494cf58eaa199d7e98f56d"><span data-offset-key="d575158c87494cf58eaa199d7e98f56d:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="eb3a666905774447a56cf36f7c2d1915"><span data-offset-key="eb3a666905774447a56cf36f7c2d1915:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/zoterobib" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c1745ee580ac4b44bf87e1717f66a4ea" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="69080bf743634620bf88ab1426d23528"><span data-offset-key="69080bf743634620bf88ab1426d23528:0">ZoteroBib</span></span></span></a><span data-key="925083d34149471e8023319ec07e66fc"><span data-offset-key="925083d34149471e8023319ec07e66fc:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -542,7 +542,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="ad5ae3651dd44e43b1c3670db51ee015"><span data-offset-key="ad5ae3651dd44e43b1c3670db51ee015:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="189aafef22bb45ba9c7ffd3ff425e672"><span data-offset-key="189aafef22bb45ba9c7ffd3ff425e672:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="dda516356eee4a26b64d1c2f6272adab"><span data-offset-key="dda516356eee4a26b64d1c2f6272adab:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/google-drive" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="84dcadb2f6e94884a313aa6b8c377a60" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="92f81bb6c74b46778625dff570863f01"><span data-offset-key="92f81bb6c74b46778625dff570863f01:0">Google Drive</span></span></span></a><span data-key="92b065cfe62f435691a228897bdeff72"><span data-offset-key="92b065cfe62f435691a228897bdeff72:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -556,7 +556,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="6847731ae9d34876901e28964a4ea2f4"><span data-offset-key="6847731ae9d34876901e28964a4ea2f4:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="f1322c87513e467a8fdc8259bedfce8b"><span data-offset-key="f1322c87513e467a8fdc8259bedfce8b:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="180b87f7303741af8bf283ce05dce301"><span data-offset-key="180b87f7303741af8bf283ce05dce301:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/livebinders" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="77ef35765dd9461aaeb0a90392bea7c5" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="fa80cd313f554e15826f47458bfe5afb"><span data-offset-key="fa80cd313f554e15826f47458bfe5afb:0">LiveBinders</span></span></span></a><span data-key="dcec8030724e4c9a901cf41e985545f2"><span data-offset-key="dcec8030724e4c9a901cf41e985545f2:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -570,7 +570,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="b65d3f225e47413eae2e8bd0f2b35961"><span data-offset-key="b65d3f225e47413eae2e8bd0f2b35961:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="26903339b7704b688211e858c345e61e"><span data-offset-key="26903339b7704b688211e858c345e61e:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="69672daecd2947c595ebc1f053aee099"><span data-offset-key="69672daecd2947c595ebc1f053aee099:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/office-lens" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1be79e4d217c4d4a9951e71e8f18c3d8" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="8e6f483b12a549478d8abdecf142b20c"><span data-offset-key="8e6f483b12a549478d8abdecf142b20c:0">Office Lens</span></span></span></a><span data-key="957d8215a0dc48bc9066a6e291260786"><span data-offset-key="957d8215a0dc48bc9066a6e291260786:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -584,7 +584,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="7fcf952484344e0ebb7cb9184fd173a7"><span data-offset-key="7fcf952484344e0ebb7cb9184fd173a7:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="1b8ab0bfd58a454eb967623ba3ff34cb"><span data-offset-key="1b8ab0bfd58a454eb967623ba3ff34cb:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="614569d1b5ed4d14a83370e8c5894de0"><span data-offset-key="614569d1b5ed4d14a83370e8c5894de0:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/goalbook-toolkit" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5cadef4a908d4279b39f49bca0a7fbfc" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="3d73f5d02b184b32a4767772f7a18571"><span data-offset-key="3d73f5d02b184b32a4767772f7a18571:0">Goalbook Toolkit</span></span></span></a><span data-key="8576b3c9f84a47f48b02236587e6b219"><span data-offset-key="8576b3c9f84a47f48b02236587e6b219:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -598,7 +598,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="e10e604bf08047f798ecb74c7a2d7ce5"><span data-offset-key="e10e604bf08047f798ecb74c7a2d7ce5:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="a0f6f3f844ac4bcbb81ee50f0f59ceb3"><span data-offset-key="a0f6f3f844ac4bcbb81ee50f0f59ceb3:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="7b15137eecbd487aa67a074ed84e1568"><span data-offset-key="7b15137eecbd487aa67a074ed84e1568:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/remind" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c2b28b9acb454ab0acfa8f7ea08406d6" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="e1ff3ccb8a134a44b91af43c0d099eaa"><span data-offset-key="e1ff3ccb8a134a44b91af43c0d099eaa:0">Remind</span></span></span></a><span data-key="8e0a851e24e949d899d135da18a7ca40"><span data-offset-key="8e0a851e24e949d899d135da18a7ca40:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -612,7 +612,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="aa24bd8252994e23868ffd3753002e16"><span data-offset-key="aa24bd8252994e23868ffd3753002e16:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="4981fca3184543508518e441a4c5485d"><span data-offset-key="4981fca3184543508518e441a4c5485d:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="02faaf4a1cd241139d2a0f7f54e65c36"><span data-offset-key="02faaf4a1cd241139d2a0f7f54e65c36:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/time-timer" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="58bbf239b6b341bb9ccac6aa77b1c859" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="07b498482df94c3583ed18eca25852c7"><span data-offset-key="07b498482df94c3583ed18eca25852c7:0">Time Timer</span></span></span></a><span data-key="4a9c77b6e0c24e24bea018ba1cdf1873"><span data-offset-key="4a9c77b6e0c24e24bea018ba1cdf1873:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -624,7 +624,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="4aa7bf9cfcf24ae5ab9781fac4d352fa"><span data-offset-key="4aa7bf9cfcf24ae5ab9781fac4d352fa:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="96863aa05c47469fb6c8f80599511e15"><span data-offset-key="96863aa05c47469fb6c8f80599511e15:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="6b234c4ba99f40fd9249c03622d90f09"><span data-offset-key="6b234c4ba99f40fd9249c03622d90f09:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/showbie" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0264fd3a078e4e948b484af36fd37333" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="1b9c04ff7630450c86c9db5e401f206a"><span data-offset-key="1b9c04ff7630450c86c9db5e401f206a:0">Showbie</span></span></span></a><span data-key="ce9f2c241c3c48a48db5195b65054dd1"><span data-offset-key="ce9f2c241c3c48a48db5195b65054dd1:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -638,7 +638,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="7afb6fe53d1c4cf6b2f71faed6a4ce42"><span data-offset-key="7afb6fe53d1c4cf6b2f71faed6a4ce42:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="296a51a04e7d476cbce085d2d1c251d7"><span data-offset-key="296a51a04e7d476cbce085d2d1c251d7:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="1401211450e744a885bf6c8be94eb6f8"><span data-offset-key="1401211450e744a885bf6c8be94eb6f8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/google-calendar" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e46e3d4176064024bfd0868568b48de3" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="937dea54644e4e789f8e98dc06a6de2e"><span data-offset-key="937dea54644e4e789f8e98dc06a6de2e:0">Google Calendar</span></span></span></a><span data-key="3b0a5d4b9f2d4fb3920a260e5d9522af"><span data-offset-key="3b0a5d4b9f2d4fb3920a260e5d9522af:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -650,7 +650,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="1b1befaafb994cd9ae0eeaa7be64b59a"><span data-offset-key="1b1befaafb994cd9ae0eeaa7be64b59a:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="3d809f479e4e493690eb0ab8c02948bc"><span data-offset-key="3d809f479e4e493690eb0ab8c02948bc:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="e97cb2cdc0c74aa08814be346469a7ee"><span data-offset-key="e97cb2cdc0c74aa08814be346469a7ee:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/ihomework-2" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7794d5a24d284ae99bfc1f4b65418605" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="943ddb5b1f86449fb9ce835482e1578d"><span data-offset-key="943ddb5b1f86449fb9ce835482e1578d:0">iHomework 2</span></span></span></a><span data-key="44bf4a099b5b48858c5865bbd5e8ba04"><span data-offset-key="44bf4a099b5b48858c5865bbd5e8ba04:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -664,7 +664,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="031febddf876401d873540c8cb7bfd5f"><span data-offset-key="031febddf876401d873540c8cb7bfd5f:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="4ad18ed28e934136bfbeba5153b3924d"><span data-offset-key="4ad18ed28e934136bfbeba5153b3924d:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="7b3a947160e1428c99eb0ee4b57c8e9c"><span data-offset-key="7b3a947160e1428c99eb0ee4b57c8e9c:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/todoist" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1460093b39304476a0e5d21ffd21ad41" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="13e8441ad2a34c49b0a23c76f3002a28"><span data-offset-key="13e8441ad2a34c49b0a23c76f3002a28:0">Todoist</span></span></span></a><span data-key="e6f6e4755c00464a9f900ecd698a16bb"><span data-offset-key="e6f6e4755c00464a9f900ecd698a16bb:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -678,7 +678,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="b9912ba00df341b48a2f5b38c057bb07"><span data-offset-key="b9912ba00df341b48a2f5b38c057bb07:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="2b358af1a4ce421e9870e2d81d08280b"><span data-offset-key="2b358af1a4ce421e9870e2d81d08280b:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="6a32576cfdb04bcdb2f86022cda3ff0d"><span data-offset-key="6a32576cfdb04bcdb2f86022cda3ff0d:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/myhomework-student-planner" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1ca914930fc64f4abd1ffa56004c227b" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="070211979960463cad22b9db0bf36595"><span data-offset-key="070211979960463cad22b9db0bf36595:0">myHomework Student Planner</span></span></span></a><span data-key="d65d820464a64483a209d158ba402bf8"><span data-offset-key="d65d820464a64483a209d158ba402bf8:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -692,7 +692,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="dec0ac54995b45ccb46be62664f9a350"><span data-offset-key="dec0ac54995b45ccb46be62664f9a350:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="bdc1ead1a0f0463f9e9d8359387acc53"><span data-offset-key="bdc1ead1a0f0463f9e9d8359387acc53:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="8d7a99630f0343338a8a4d7f54cb0aa5"><span data-offset-key="8d7a99630f0343338a8a4d7f54cb0aa5:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/educreations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="35508295a7f74028871d2146490e0e63" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="72f90922927040baab473d1cd19a33dd"><span data-offset-key="72f90922927040baab473d1cd19a33dd:0">Educreations</span></span></span></a><span data-key="326128747fde432a8421a88da58a5a3e"><span data-offset-key="326128747fde432a8421a88da58a5a3e:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -704,7 +704,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="fe383105c1fb47d6b085cbce8bb4b854"><span data-offset-key="fe383105c1fb47d6b085cbce8bb4b854:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="116e40387ef84a789b0c8e24db4d3a12"><span data-offset-key="116e40387ef84a789b0c8e24db4d3a12:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="d479d78edcca454191fc8350801939e8"><span data-offset-key="d479d78edcca454191fc8350801939e8:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/app/explain-everything-whiteboard" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="712e23d6a7884af5838827272f37f019" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="d7a0a393dac142a4a2e66cf754dd5ef8"><span data-offset-key="d7a0a393dac142a4a2e66cf754dd5ef8:0">Explain Everything Whiteboard</span></span></span></a><span data-key="7d8a858b35994d6f8a8614c728e0ad73"><span data-offset-key="7d8a858b35994d6f8a8614c728e0ad73:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -718,7 +718,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="785e5cee90ba4827b84c011a9d06368e"><span data-offset-key="785e5cee90ba4827b84c011a9d06368e:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="d21f2254aa774ae897bacf268ad0b8f1"><span data-offset-key="d21f2254aa774ae897bacf268ad0b8f1:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="d1e7d27eff11482091d6d48938fbc4ae"><span data-offset-key="d1e7d27eff11482091d6d48938fbc4ae:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/loom" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="86ba756f57a34d8cbee92af1c74cf6f2" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="13bf5276dd244632b26335c260e0be8e"><span data-offset-key="13bf5276dd244632b26335c260e0be8e:0">Loom</span></span></span></a><span data-key="bab61a62202e4a0899c894ce603c80be"><span data-offset-key="bab61a62202e4a0899c894ce603c80be:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -732,7 +732,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="146f97b23acb4500b4f2e1f72ba5c44b"><span data-offset-key="146f97b23acb4500b4f2e1f72ba5c44b:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="2b173c3def7c43e9b9869d09f213e3bd"><span data-offset-key="2b173c3def7c43e9b9869d09f213e3bd:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="301ad475f6ea4556baf5eb61eed01910"><span data-offset-key="301ad475f6ea4556baf5eb61eed01910:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/prezi-next" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b89dcbfa84d24a37a036b45ad06c1cab" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="9756b53435584b94af35bb2681ce6274"><span data-offset-key="9756b53435584b94af35bb2681ce6274:0">Prezi Next</span></span></span></a><span data-key="65d5a231fa294439abc915c6d6d68bdf"><span data-offset-key="65d5a231fa294439abc915c6d6d68bdf:0"><span data-slate-zero-width="z">​</span></span></span>
 
@@ -746,7 +746,7 @@ Awesome Productivity Tools for Back-to-School
 
 <span data-key="055cf06d12004a8a92183d5c8ee0741f"><span data-offset-key="055cf06d12004a8a92183d5c8ee0741f:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="4f070ae1bcf1434fb1b76206dd3164ab"><span data-offset-key="4f070ae1bcf1434fb1b76206dd3164ab:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="fef5eeedd1d34eb1a8a31c91c66d1698"><span data-offset-key="fef5eeedd1d34eb1a8a31c91c66d1698:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://chrome-extension/cjedbglnccaioiolemnfhjncicchinao/education/website/tiki-toki" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="891a3af1d4a8450aa296ee9c78cb5343" data-rnw-int-class="nearest_260-14274_262-14275-240__"><span data-key="63b44598b20545a4b259d6814b34101e"><span data-offset-key="63b44598b20545a4b259d6814b34101e:0">Tiki-Toki</span></span></span></a><span data-key="13bcb17554724bc38e6fe7d2050ba61c"><span data-offset-key="13bcb17554724bc38e6fe7d2050ba61c:0"><span data-slate-zero-width="z">​</span></span></span>
 

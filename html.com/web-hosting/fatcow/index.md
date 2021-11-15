@@ -1,24 +1,17 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-FatCow.com Review: More Moo For Your Money?
-===========================================
+# FatCow.com Review: More Moo For Your Money?
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
 If you’re looking for web hosting that comes with control panel access, a free domain name, website builder and WordPress hosting, would you consider a cow-themed hosting company?
 
-Founded in 1998, [FatCow](https://html.com/go/fatcow/) is a provider of web hosting plans whose website, marketing materials, and more are all cow themed. Why? Well, why not? FatCow doesn’t provide a reason for its choice of branding, except to muse on why people would name a computer after the apple.  
-  
+Founded in 1998, [FatCow](https://html.com/go/fatcow/) is a provider of web hosting plans whose website, marketing materials, and more are all cow themed. Why? Well, why not? FatCow doesn’t provide a reason for its choice of branding, except to muse on why people would name a computer after the apple.
+
 All that aside, [FatCow](https://html.com/go/fatcow/) promises top-notch customer support, unlimited disk space, and email accounts. But beyond the unique marketing, can they deliver?
 
 Our FatCow review provides the facts, based on our research and experience with this hosting company.
@@ -32,34 +25,33 @@ Our FatCow review provides the facts, based on our research and experience with 
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
--   [<span class="toc_number toc_depth_1">2</span> About FatCow](#About_FatCow)
--   [<span class="toc_number toc_depth_1">3</span> Hosting Plans](#Hosting_Plans)
--   [<span class="toc_number toc_depth_1">4</span> FatCow Features](#FatCow_Features)
--   [<span class="toc_number toc_depth_1">5</span> FatCow Performance](#FatCow_Performance)
--   [<span class="toc_number toc_depth_1">6</span> Customer Service and Technical Support](#Customer_Service_and_Technical_Support)
--   [<span class="toc_number toc_depth_1">7</span> Pricing and Billing](#Pricing_and_Billing)
--   [<span class="toc_number toc_depth_1">8</span> HostGator vs FatCow](#HostGator_vs_FatCow)
--   [<span class="toc_number toc_depth_1">9</span> FatCow Summary](#FatCow_Summary)
--   [<span class="toc_number toc_depth_1">10</span> Your FatCow Hosting Review](#Your_FatCow_Hosting_Review)
+- [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
+- [<span class="toc_number toc_depth_1">2</span> About FatCow](#About_FatCow)
+- [<span class="toc_number toc_depth_1">3</span> Hosting Plans](#Hosting_Plans)
+- [<span class="toc_number toc_depth_1">4</span> FatCow Features](#FatCow_Features)
+- [<span class="toc_number toc_depth_1">5</span> FatCow Performance](#FatCow_Performance)
+- [<span class="toc_number toc_depth_1">6</span> Customer Service and Technical Support](#Customer_Service_and_Technical_Support)
+- [<span class="toc_number toc_depth_1">7</span> Pricing and Billing](#Pricing_and_Billing)
+- [<span class="toc_number toc_depth_1">8</span> HostGator vs FatCow](#HostGator_vs_FatCow)
+- [<span class="toc_number toc_depth_1">9</span> FatCow Summary](#FatCow_Summary)
+- [<span class="toc_number toc_depth_1">10</span> Your FatCow Hosting Review](#Your_FatCow_Hosting_Review)
 
-<span id="Pros_and_Cons">Pros and Cons</span>
----------------------------------------------
+## <span id="Pros_and_Cons">Pros and Cons</span>
 
 Here’s an overview of the strengths and weaknesses of [FatCow](https://html.com/go/fatcow/) web hosting.
 
 **Pros**
 
--   Wide variety of hosting types
--   Budget-friendly
--   High resource allocation
--   Unlimited email
+- Wide variety of hosting types
+- Budget-friendly
+- High resource allocation
+- Unlimited email
 
 **Cons**
 
--   Only one shared hosting plan
--   Expensive dedicated hosting
--   High renewal rates
+- Only one shared hosting plan
+- Expensive dedicated hosting
+- High renewal rates
 
 ### Pros
 
@@ -71,15 +63,13 @@ Those in the market for advanced hosting options might find FatCow’s options l
 
 Furthermore, the VPS plans are fairly reasonable when it comes to price, but the dedicated servers are quite expensive.
 
-<span id="About_FatCow">About FatCow</span>
--------------------------------------------
+## <span id="About_FatCow">About FatCow</span>
 
 [FatCow](https://html.com/go/fatcow/) is a Boston, MA-based web hosting company founded in 1998 with the goal of simplifying the process of getting a personal or small business online. While the privately-owned company’s offerings have grown since then, you’ll still notice their streamlined nature.
 
 The company utilizes two data centers in the Boston, MA area. This means that FatCow is a good option for those whose visitor base is primarily North American (generally speaking, the closer your visitors are to the servers, the faster the response times they see). Unfortunately, you do not get to choose your data center.
 
-<span id="Hosting_Plans">Hosting Plans</span>
----------------------------------------------
+## <span id="Hosting_Plans">Hosting Plans</span>
 
 Originally, FatCow boasted the simplicity of their hosting plan: it offered one plan at one price.
 
@@ -97,13 +87,13 @@ Despite the fact that this plan is a full-featured option that includes everythi
 
 Here’s an overview of what you can expect from the Original FatCow Plan:
 
--   **Website Hosting**: FatCow’s robust, all-in-one hosting solution includes everything you need to serve your website to the internet.
--   **Free domain name**: your users will be able to reach you at a domain name of your choice.
--   **Point and Click Site Building Tools**: create a professional-looking website, even if you don’t have an in-depth technical knowledge or design experience. FatCow’s dynamic theme and templates mean that you can create and edit sites with just a few clicks and little to no hassle.
--   **App Installation Wizards**: if you want to extend the functionality and feature set of your website, you can use the installation wizards to add things like photo galleries, content management systems (CMS), and more to your website.
--   **Online Store and Selling Tools**: those who are looking to build an online store in addition to a website or blog can take advantage of tools such as shopping carts, product catalogs, coupon functionality, PayPal integration, and more.
--   **Email**: get an email address with a domain that matches that of your website.
--   **Search Engine and Marketing/Advertising Credits**: get the word out about your new website and grow your viewership using the marketing and advertising credits that come with your package.
+- **Website Hosting**: FatCow’s robust, all-in-one hosting solution includes everything you need to serve your website to the internet.
+- **Free domain name**: your users will be able to reach you at a domain name of your choice.
+- **Point and Click Site Building Tools**: create a professional-looking website, even if you don’t have an in-depth technical knowledge or design experience. FatCow’s dynamic theme and templates mean that you can create and edit sites with just a few clicks and little to no hassle.
+- **App Installation Wizards**: if you want to extend the functionality and feature set of your website, you can use the installation wizards to add things like photo galleries, content management systems (CMS), and more to your website.
+- **Online Store and Selling Tools**: those who are looking to build an online store in addition to a website or blog can take advantage of tools such as shopping carts, product catalogs, coupon functionality, PayPal integration, and more.
+- **Email**: get an email address with a domain that matches that of your website.
+- **Search Engine and Marketing/Advertising Credits**: get the word out about your new website and grow your viewership using the marketing and advertising credits that come with your package.
 
 > FatCow doesn’t offer migration services, but they offer use of the Roundcube migration tool to make the process easier.
 
@@ -154,8 +144,7 @@ You can use the **Ecwid E-Commerce** platform as your all-in-one e-commerce solu
 
 Finally, those who are interested in selling online but aren’t interested in managing inventory and the like should check out **Doba**. This gets you access to over 1.5 million products you can sell and drop ship.
 
-<span id="FatCow_Features">FatCow Features</span>
--------------------------------------------------
+## <span id="FatCow_Features">FatCow Features</span>
 
 [FatCow](https://html.com/go/fatcow/)‘s web hosting plans come with a few useful, free features.
 
@@ -195,14 +184,13 @@ FatCow partners with cPanel to make the cPanel Control Panel available to all Fa
 
 With the cPanel, you can do things like:
 
--   Move files to your web server using the FTP protocol
--   Manage your account’s email inboxes
--   Check on your website’s resource usage
--   Manage your domain names
--   Check your account’s billing information.
+- Move files to your web server using the FTP protocol
+- Manage your account’s email inboxes
+- Check on your website’s resource usage
+- Manage your domain names
+- Check your account’s billing information.
 
-<span id="FatCow_Performance">FatCow Performance</span>
--------------------------------------------------------
+## <span id="FatCow_Performance">FatCow Performance</span>
 
 > FatCow’s average uptime is an exceptional 99.997%.
 
@@ -214,20 +202,19 @@ Using Pingdom, we tracked FatCow for a full year. Our tests indicate that their 
 
 <table><thead><tr class="header"><th>Month</th><th>Uptime</th><th>Speed</th></tr></thead><tbody><tr class="odd"><td>November 2018</td><td>99.99%</td><td>412 ms</td></tr><tr class="even"><td>October 2018</td><td>100.00%</td><td>283 ms</td></tr><tr class="odd"><td>September 2018</td><td>100.00%</td><td>337 ms</td></tr><tr class="even"><td>August 2018</td><td>100.00%</td><td>333 ms</td></tr><tr class="odd"><td>July 2018</td><td>100.00%</td><td>350 ms</td></tr><tr class="even"><td>June 2018</td><td>100.00%</td><td>371 ms</td></tr><tr class="odd"><td>May 2018</td><td>100.00%</td><td>336 ms</td></tr><tr class="even"><td>April 2018</td><td>100.00%</td><td>355 ms</td></tr><tr class="odd"><td>March 2018</td><td>100.00%</td><td>375 ms</td></tr><tr class="even"><td>February 2018</td><td>99.99%</td><td>328 ms</td></tr><tr class="odd"><td>January 2018</td><td>100.00%</td><td>329 ms</td></tr><tr class="even"><td>December 2017</td><td>99.98%</td><td>356 ms</td></tr></tbody></table>
 
-<span id="Customer_Service_and_Technical_Support">Customer Service and Technical Support</span>
------------------------------------------------------------------------------------------------
+## <span id="Customer_Service_and_Technical_Support">Customer Service and Technical Support</span>
 
 If you have any questions, comments, or concerns, FatCow’s customer service team, which they call the Moo Crew, is available 24/7 via email, telephone, or live chat.
 
 The Moo Crew pledges to abide by what they call the HeiferCratic Oath. This means that the Moo Crew will:
 
--   Call you within seven days of your purchase of a hosting plan to welcome you to FatCow
--   Answer your call in under one minute
--   Provide 24/7 support via phone, live chat, and email
--   Resolve your issue during your initial contact with FatCow *or* set up a hard deadline by which FatCow will follow up with you
--   Be friendly and courteous at all times
--   Adhere to the highest training standards, so you’ll speak to a knowledgeable person no matter who answers your message or phone call
--   Send you a follow-up survey to see if you were satisfied with your customer service experience and ask for tips on improvement.
+- Call you within seven days of your purchase of a hosting plan to welcome you to FatCow
+- Answer your call in under one minute
+- Provide 24/7 support via phone, live chat, and email
+- Resolve your issue during your initial contact with FatCow _or_ set up a hard deadline by which FatCow will follow up with you
+- Be friendly and courteous at all times
+- Adhere to the highest training standards, so you’ll speak to a knowledgeable person no matter who answers your message or phone call
+- Send you a follow-up survey to see if you were satisfied with your customer service experience and ask for tips on improvement.
 
 Many web hosting providers promise top-notch customer service, but few spell out exactly what this means the way FatCow does.
 
@@ -251,8 +238,7 @@ The latter is probably what you’ll find most useful after you’ve purchased a
 
 Users rate FatCow [2.9 out of 5](https://www.whoishostingthis.com/hosting-reviews/fat-cow-com/). They are rated a little lower on their support but higher on their features and value.
 
-<span id="Pricing_and_Billing">Pricing and Billing</span>
----------------------------------------------------------
+## <span id="Pricing_and_Billing">Pricing and Billing</span>
 
 When purchasing hosting plans from FatCow, you have the option of paying on a monthly basis or paying upfront for an extended contract lasting 12, 24, or 36 months (VPS and dedicated server contracts are capped at 24 months).
 
@@ -266,8 +252,7 @@ The discount varies based on the plan you’ve chosen. When your plan renews, it
 
 If you’re unsatisfied with your purchase, you can take advantage of the 30-day money back guarantee. Cancel your package and receive a full refund of all monies paid (less domain name registration fees).
 
-<span id="HostGator_vs_FatCow">HostGator vs FatCow</span>
----------------------------------------------------------
+## <span id="HostGator_vs_FatCow">HostGator vs FatCow</span>
 
 If you’re searching for affordable web hosting that comes with solid support, you may have read about HostGator.
 
@@ -287,8 +272,7 @@ Read our [HostGator](https://html.com/web-hosting/hostgator/) review if you’re
 
 iPage is another affordable hosting company offering a range of hosting plans. You can read about their offering in our [iPage review](https://html.com/web-hosting/ipage/).
 
-<span id="FatCow_Summary">FatCow Summary</span>
------------------------------------------------
+## <span id="FatCow_Summary">FatCow Summary</span>
 
 [FatCow](https://html.com/go/fatcow/) is a solid provider of all-in-one shared web hosting packages, as well as options for WordPress users and those with large or highly-trafficked websites.
 
@@ -300,16 +284,15 @@ Furthermore, their products are reasonably priced, and if you ever need to upgra
 
 With a 30-day money-back guarantee, there’s no reason not to try them out. Visit [FatCow](https://html.com/go/fatcow/) now.
 
-<span id="Your_FatCow_Hosting_Review">Your FatCow Hosting Review</span>
------------------------------------------------------------------------
+## <span id="Your_FatCow_Hosting_Review">Your FatCow Hosting Review</span>
 
 Are you a former or current FatCow Hosting customer? Following your experience, would you recommend them to your nearest and dearest? How do they perform in terms of speed, features, and customer service? Please leave your thoughts in the comment box below and let us know what you think.
 
 <a href="https://html.com/go/fatcow/" class="button-cta">Visit FatCow Now</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing editor: Bronwynne Powell.*</span>
+<span class="small">_Contributing editor: Bronwynne Powell._</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -335,11 +318,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

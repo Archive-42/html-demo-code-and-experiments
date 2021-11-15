@@ -286,7 +286,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -304,7 +304,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -344,7 +344,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -490,7 +490,7 @@ Copied!
 
 <span data-key="27cdf60a61dc436187e4ddfb752fc669"><span data-offset-key="27cdf60a61dc436187e4ddfb752fc669:0">The Sequelize constructor accepts a lot of options. They are documented in the </span></span><a href="https://sequelize.org/master/class/lib/sequelize.js~Sequelize.html#instance-constructor-constructor" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0128a4f020f24ca6b9dd1335d808bccd" data-rnw-int-class="nearest_260-5749_262-5750-240__"><span data-key="b0c1138a8b994f47ac58b6dd1817dc78"><span data-offset-key="b0c1138a8b994f47ac58b6dd1817dc78:0">API Reference</span></span></span></a><span data-key="0535f787f442419d9bda76ed5e23d96e"><span data-offset-key="0535f787f442419d9bda76ed5e23d96e:0">.</span></span>
 
-### 
+###
 
 <span data-key="0203321d4dcf4794859543e9d5efcee1"><span data-offset-key="0203321d4dcf4794859543e9d5efcee1:0">Testing the connection</span></span>
 
@@ -522,7 +522,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="5dfc3fc9138b4868a91be708e46b4cad"><span data-offset-key="5dfc3fc9138b4868a91be708e46b4cad:0">Closing the connection</span></span>
 

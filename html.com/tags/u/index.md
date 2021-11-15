@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [Learn How Fonts And Web Typography Work In HTML: A Beginner's Guide](https://html.com/fonts/) / &lt;u&gt; HTML Tag
 
-`<u> HTML Tag`
-==============
+# `<u> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -19,7 +16,7 @@ Element of
 [Learn How Fonts And Web Typography Work In HTML: A Beginner's Guide](https://html.com/fonts/)
 
 What does `<u> HTML Tag` do?  
-The &lt;u&gt; element was originally used to identify text that should be underlined. The element was deprecated in HTML 4.01, but in HTML5 it was redefined to represent text that should be displayed in a way that is an *unarticulated* but stylistically distinct from the surrounding text. For example, one proper use of the &lt;u&gt; element is to identify misspelled terms.
+The &lt;u&gt; element was originally used to identify text that should be underlined. The element was deprecated in HTML 4.01, but in HTML5 it was redefined to represent text that should be displayed in a way that is an _unarticulated_ but stylistically distinct from the surrounding text. For example, one proper use of the &lt;u&gt; element is to identify misspelled terms.
 
 Display  
 inline
@@ -27,8 +24,7 @@ inline
 Usage  
 semantic
 
-Code Example
-------------
+## Code Example
 
     <p>Here is a word that is <u>underlined</u> by the <code>&lt;u&gt;</code> element.</p>
     <p>Here is a word that is <span class="underline">underlined</span> with CSS.</p>
@@ -52,8 +48,7 @@ Here are words surrounded by `<u>` tags with <span class="underline">unarticulat
 
 <span class="underline"></span>
 
-When to use the `<u>` Element
------------------------------
+## When to use the `<u>` Element
 
 When the `<u>` element was initially conceived it was supposed to be used to identify text that should be underlined. However, using HTML to add stylistic effects is no longer considered good practice. Instead, HTML should be used to add structure and [semantic meaning](https://html.com/semantic-markup/) to the content of a webpage, and [CSS](https://html.com/css/) should be used to add styles and control page layout.
 
@@ -67,13 +62,13 @@ You’re sorry you even asked, aren’t you? Let’s clarify that definition a b
 
 First, what is a non-textual annotation? Well, to add an annotation means to add an explanation or note. However, in this case, the annotation is non-textual, meaning that the annotation has nothing to do with the content of the text.
 
-Second, the annotion is *unarticulated* but explicitly rendered. In other words, the browser and web developer can choose to show the annotation any way they like. Be default, browsers will render text surrounded by `u` tags as underlined, but that isn’t necessarily required and isn’t part of the HTML specification. The way the annotation should appear is *unarticulated*, show it any way you like. Just make sure the annotation is easy to spot, in other words: *explicitly rendered*.
+Second, the annotion is _unarticulated_ but explicitly rendered. In other words, the browser and web developer can choose to show the annotation any way they like. Be default, browsers will render text surrounded by `u` tags as underlined, but that isn’t necessarily required and isn’t part of the HTML specification. The way the annotation should appear is _unarticulated_, show it any way you like. Just make sure the annotation is easy to spot, in other words: _explicitly rendered_.
 
 Let’s put the pieces together. The `u` element is used to:
 
--   Add an annotation that tells us something about the selected text itself, not about the content or message of the text.
--   The way the annotation is added is unarticulated. Words between `u` tags don’t have to be underlined, any method of annotation is acceptable as long as…
--   The annotation must be explicitly rendered, that is: easy to spot.
+- Add an annotation that tells us something about the selected text itself, not about the content or message of the text.
+- The way the annotation is added is unarticulated. Words between `u` tags don’t have to be underlined, any method of annotation is acceptable as long as…
+- The annotation must be explicitly rendered, that is: easy to spot.
 
 So what sorts of use-cases are there for such a niche tag? The most common use is to identify misspelled words. Let’s say you are presenting text that includes intentionally misspelled words that should jump out to the reader. The `<u>` element would be a great choice for identifying those words.
 
@@ -91,8 +86,7 @@ So what sorts of use-cases are there for such a niche tag? The most common use i
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`What Does Td Colspan Have To Do With Tables In HTML?`](https://html.com/attributes/td-colspan/)
 
@@ -104,11 +98,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

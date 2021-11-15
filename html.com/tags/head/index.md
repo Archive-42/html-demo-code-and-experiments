@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [HTML Document Structure Before And After HTML5 – Here’s What Changed](https://html.com/document/) / &lt;head&gt; HTML Tag
 
-`<head> HTML Tag`
-=================
+# `<head> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -31,31 +28,30 @@ structural
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> What to put in the &lt;head&gt;](#What_to_put_in_the_ltheadgt)
-    -   [<span class="toc_number toc_depth_2">1.1</span> Semantic Information](#Semantic_Information)
-    -   [<span class="toc_number toc_depth_2">1.2</span> Presentational and Functional Information](#Presentational_and_Functional_Information)
-    -   [<span class="toc_number toc_depth_2">1.3</span> Placement of JavaScript](#Placement_of_JavaScript)
--   [<span class="toc_number toc_depth_1">2</span> Browser Support for head](#Browser_Support_for_head)
+- [<span class="toc_number toc_depth_1">1</span> What to put in the &lt;head&gt;](#What_to_put_in_the_ltheadgt)
+  - [<span class="toc_number toc_depth_2">1.1</span> Semantic Information](#Semantic_Information)
+  - [<span class="toc_number toc_depth_2">1.2</span> Presentational and Functional Information](#Presentational_and_Functional_Information)
+  - [<span class="toc_number toc_depth_2">1.3</span> Placement of JavaScript](#Placement_of_JavaScript)
+- [<span class="toc_number toc_depth_1">2</span> Browser Support for head](#Browser_Support_for_head)
 
-<span id="What_to_put_in_the_ltheadgt">What to put in the `<head>`</span>
--------------------------------------------------------------------------
+## <span id="What_to_put_in_the_ltheadgt">What to put in the `<head>`</span>
 
 The purpose of the document `<head>` is to provide information about the document itself.
 
 ### <span id="Semantic_Information">Semantic Information</span>
 
--   [`<title>`](https://html.com/tags/title/)
--   [`<meta>`](https://html.com/tags/meta/), especially keywords, a description, and [Open Graph details](http://ogp.me/).
--   Relevant `rel=` links\`, especially [canonical URLs](https://en.wikipedia.org/wiki/Canonical_link_element), links to RSS Feeds, and links to translations.
+- [`<title>`](https://html.com/tags/title/)
+- [`<meta>`](https://html.com/tags/meta/), especially keywords, a description, and [Open Graph details](http://ogp.me/).
+- Relevant `rel=` links\`, especially [canonical URLs](https://en.wikipedia.org/wiki/Canonical_link_element), links to RSS Feeds, and links to translations.
 
 ### <span id="Presentational_and_Functional_Information">Presentational and Functional Information</span>
 
--   [Doctype declaration](https://html.com/tags/doctype/)
--   [Character Set declaration](https://html.com/document/metadata/#Establishing_the_charset)
--   Link(s) to [CSS](https://html.com/css/)
--   Link to a Favicon
--   An “HTML5 shiv”
--   [Javascript](https://html.com/javascript/) that must be at the top of the page
+- [Doctype declaration](https://html.com/tags/doctype/)
+- [Character Set declaration](https://html.com/document/metadata/#Establishing_the_charset)
+- Link(s) to [CSS](https://html.com/css/)
+- Link to a Favicon
+- An “HTML5 shiv”
+- [Javascript](https://html.com/javascript/) that must be at the top of the page
 
 ### <span id="Placement_of_JavaScript">Placement of JavaScript</span>
 
@@ -75,8 +71,7 @@ It was once very common to place all JS into the `<head>`, however that is no lo
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_head">Browser Support for head</span>
--------------------------------------------------------------------
+## <span id="Browser_Support_for_head">Browser Support for head</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -114,8 +109,7 @@ It was once very common to place all JS into the `<head>`, however that is no lo
 
 <span class="browser-supported">All</span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](https://html.com/resources/citation-guide/)
 
@@ -127,11 +121,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

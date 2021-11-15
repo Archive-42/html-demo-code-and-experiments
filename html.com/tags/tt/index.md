@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 Deprecated in HTML5. Do not use.
 
-`<tt> HTML Tag`
-===============
+# `<tt> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -26,8 +23,7 @@ The &lt;tt&gt; element was used to identify text to be displayed using the brows
 Display  
 inline
 
-Code Example
-------------
+## Code Example
 
     <tt>Text as it would appear on a teletype.</tt>
 
@@ -35,22 +31,20 @@ Code Example
 
 <span class="underline"></span>
 
-What is a Teletype?
--------------------
+## What is a Teletype?
 
 We don’t use teletype printers anymore. However, several decades ago they were a common tool used to transmit information over a variety of communication media, including phone lines. As a matter of fact, teletype machines were even set up to interface with early computers – which is how we ended up with the `<tt>` element. The element has been deprecated. Teletype printers have been out of use for long enough that very few people have any experience with them and there was virtually no ongoing proper use of the element. However, there are several other elements that produce a similar visual effect if your goal is to produce text in a monospace font.
 
-What to use Instead of `<tt>`?
-------------------------------
+## What to use Instead of `<tt>`?
 
 If you’re looking for an element that will identify text as being outside of the norm for some reason, you have a few different modern HTML elements to consider.
 
--   [pre](https://html.com/tags/pre/): This is the right option if you want to preserve indentation and line breaks in plain text.
--   [code](https://html.com/tags/code/): This tag tells the browser that the identified text is computer programming code.
--   [kbd](https://html.com/tags/kbd/): If you want to identify keyboard input from a computer user, this is the appropriate choice.
--   [var](https://html.com/tags/var/): Variables in equations and computer programs can be identified with this tag.
--   [samp](https://html.com/tags/samp/): Identifies text as being sample output from a computer program.
--   [CSS](https://html.com/css/): Use CSS if you want to style text for purely stylistic purposes.
+- [pre](https://html.com/tags/pre/): This is the right option if you want to preserve indentation and line breaks in plain text.
+- [code](https://html.com/tags/code/): This tag tells the browser that the identified text is computer programming code.
+- [kbd](https://html.com/tags/kbd/): If you want to identify keyboard input from a computer user, this is the appropriate choice.
+- [var](https://html.com/tags/var/): Variables in equations and computer programs can be identified with this tag.
+- [samp](https://html.com/tags/samp/): Identifies text as being sample output from a computer program.
+- [CSS](https://html.com/css/): Use CSS if you want to style text for purely stylistic purposes.
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -66,8 +60,7 @@ If you’re looking for an element that will identify text as being outside of t
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`What Does Td Colspan Have To Do With Tables In HTML?`](https://html.com/attributes/td-colspan/)
 
@@ -79,11 +72,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

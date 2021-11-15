@@ -1,12 +1,12 @@
 <a href="https://gitee.com/login" class="ui button small fluid orange">Sign in</a> <a href="https://gitee.com/signup" class="ui button small fluid basic is-register">Sign up</a>
 
--   [ <span class="gitee-nav__sidebar-name">Explore</span>](https://gitee.com/explore)
--   [ <span class="gitee-nav__sidebar-name">Enterprise</span>](https://gitee.com/enterprises)
--   [ <span class="gitee-nav__sidebar-name">Education</span>](https://gitee.com/education)
--   -   [ <span class="gitee-nav__sidebar-name">Search</span>](https://gitee.com/search)
--   [ <span class="gitee-nav__sidebar-name">Help</span>](https://gitee.com/help)
--   [ <span class="gitee-nav__sidebar-name">Terms of use</span>](https://gitee.com/terms)
--   [ <span class="gitee-nav__sidebar-name">About Us</span>](https://gitee.com/about_us)
+- [ <span class="gitee-nav__sidebar-name">Explore</span>](https://gitee.com/explore)
+- [ <span class="gitee-nav__sidebar-name">Enterprise</span>](https://gitee.com/enterprises)
+- [ <span class="gitee-nav__sidebar-name">Education</span>](https://gitee.com/education)
+- - [ <span class="gitee-nav__sidebar-name">Search</span>](https://gitee.com/search)
+- [ <span class="gitee-nav__sidebar-name">Help</span>](https://gitee.com/help)
+- [ <span class="gitee-nav__sidebar-name">Terms of use</span>](https://gitee.com/terms)
+- [ <span class="gitee-nav__sidebar-name">About Us</span>](https://gitee.com/about_us)
 
 [<img src="https://gitee.com/static/images/logo.svg?t=158106664" title="Gitee — 基于 Git 的代码托管和研发协作平台" alt="Gitee — 基于 Git 的代码托管和研发协作平台" class="ui inline image" width="95" height="28" /> <img src="https://gitee.com/static/images/logo-black.svg?t=158106664" title="Gitee — 基于 Git 的代码托管和研发协作平台" alt="Gitee — 基于 Git 的代码托管和研发协作平台" class="ui inline black image" width="95" height="28" />](https://gitee.com/)
 
@@ -26,8 +26,7 @@ I know
 
 [<embed src="https://portrait.gitee.com/uploads/avatars/user/3137/9413558_bgoonz_1625801795.png!avatar200" class="ui image avatar" />](https://gitee.com/bgoonz)
 
-<span title="bgoonz">bgoonz</span>
-----------------------------------
+## <span title="bgoonz">bgoonz</span>
 
 @bgoonz
 
@@ -243,7 +242,7 @@ Cooperative code hosting platform
 
 <img src="https://assets.gitee.com/assets/12377@2x-1aa42ed2d2256f82a61ecf57be1ec244.png" alt="12377@2x" class="report-12377__logo mr-1" /> [违法和不良信息举报中心](https://12377.cn/)
 
-[粤ICP备12009483号](http://beian.miit.gov.cn/)
+[粤 ICP 备 12009483 号](http://beian.miit.gov.cn/)
 
 [简 体](https://gitee.com/language/zh-CN) / [繁 體](https://gitee.com/language/zh-TW) / [English](https://gitee.com/language/en)
 
@@ -267,7 +266,7 @@ Going to Help Center
 
 [Gitee 产品配额说明](https://gitee.com/help/articles/4283)
 
-[GitHub仓库快速导入Gitee及同步更新](https://gitee.com/help/articles/4284)
+[GitHub 仓库快速导入 Gitee 及同步更新](https://gitee.com/help/articles/4284)
 
 [什么是 Release（发行版）](https://gitee.com/help/articles/4328)
 

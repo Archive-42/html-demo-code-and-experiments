@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 New in HTML5.
 
-`HTML Figure Element: Here’s How It Identifies Self-Contained Content`
-======================================================================
+# `HTML Figure Element: Here’s How It Identifies Self-Contained Content`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/), [New](https://html.com/new/)</span>
 
@@ -31,13 +28,12 @@ structural
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> Self contained content](#Self_contained_content)
--   [<span class="toc_number toc_depth_1">3</span> &lt;figure&gt; vs. &lt;aside&gt;](#ltfiguregt_vs_ltasidegt)
--   [<span class="toc_number toc_depth_1">4</span> Browser Support for figure](#Browser_Support_for_figure)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> Self contained content](#Self_contained_content)
+- [<span class="toc_number toc_depth_1">3</span> &lt;figure&gt; vs. &lt;aside&gt;](#ltfiguregt_vs_ltasidegt)
+- [<span class="toc_number toc_depth_1">4</span> Browser Support for figure](#Browser_Support_for_figure)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <figure>
     <img src="/wp-content/uploads/flamingo.jpg" alt="flamingo">
@@ -48,17 +44,15 @@ Contents
 
 <span class="underline"></span>
 
-<span id="Self_contained_content">Self contained content</span>
----------------------------------------------------------------
+## <span id="Self_contained_content">Self contained content</span>
 
 The `<figure>` element is [new in HTML5](https://html.com/html5/), and is one of those elements that the web development community is still just a little unsure of. Here is what the [W3C specification says about it](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-figure-element.html):
 
 > The figure element represents a unit of content, optionally with a caption, that is self-contained, that is typically referenced as a single unit from the main flow of the document, and that can be moved away from the main flow of the document without affecting the document’s meaning.
 
-Further, it specifies that the contents of the `<figure>` element should be [flow content](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories#Flow_content), with an optional [caption](https://html.com/tags/figcaption/) either before or after the content. In theory, this could be used for several types of things: sidebars, pullquotes, asides, charts, images, secondary media. In practice, the most common use is for captioned images and charts. This makes sense, as “figure” has a meaning in academic and technical writing — an illustration, image, chart, or other visual content, usually captioned, related to the main content but often found separated from it. There is no reason, though, that it *couldn’t* be used for some of those other purposes.
+Further, it specifies that the contents of the `<figure>` element should be [flow content](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories#Flow_content), with an optional [caption](https://html.com/tags/figcaption/) either before or after the content. In theory, this could be used for several types of things: sidebars, pullquotes, asides, charts, images, secondary media. In practice, the most common use is for captioned images and charts. This makes sense, as “figure” has a meaning in academic and technical writing — an illustration, image, chart, or other visual content, usually captioned, related to the main content but often found separated from it. There is no reason, though, that it _couldn’t_ be used for some of those other purposes.
 
-<span id="ltfiguregt_vs_ltasidegt">`<figure>` vs. `<aside>`</span>
-------------------------------------------------------------------
+## <span id="ltfiguregt_vs_ltasidegt">`<figure>` vs. `<aside>`</span>
 
 The `<figure>` and [`<aside>`](https://html.com/tags/aside/) element seem to have similar uses, according to the specification. Some people use `<aside>` for pull quotes and content-related sidebars, so there is some overlap. But there are also some differences. The major difference, of course, is that `<aside>` doesn’t have a built-in [caption](https://html.com/tags/figcaption/) element. So if you side-content requires a caption, that might indicate that it is really a `<figure>`. More importantly, though, the `<figure>` is for content directly related to the main content, while `<aside>` is for “tangentially related” content. This suggests that pull-quotes, infographics, charts, and other content specific to a particular article of content should be placed in a `<figure>`, while the `<aside>` element should be used for sidebar sections and (perhaps) comments.
 
@@ -76,8 +70,7 @@ The `<figure>` and [`<aside>`](https://html.com/tags/aside/) element seem to hav
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_figure">Browser Support for figure</span>
------------------------------------------------------------------------
+## <span id="Browser_Support_for_figure">Browser Support for figure</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -115,8 +108,7 @@ The `<figure>` and [`<aside>`](https://html.com/tags/aside/) element seem to hav
 
 <span class="browser-supported">34</span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`<figcaption> HTML Tag`](https://html.com/tags/figcaption/)
 
@@ -128,11 +120,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

@@ -1,49 +1,47 @@
--   <a href="#content" id="skip-main">Skip to main content</a>
--   <a href="#main-q" id="skip-search">Skip to search</a>
--   <a href="#select-language" id="skip-select-language">Skip to select language</a>
+- <a href="#content" id="skip-main">Skip to main content</a>
+- <a href="#main-q" id="skip-search">Skip to search</a>
+- <a href="#select-language" id="skip-select-language">Skip to select language</a>
 
--   Technologies
-    -   [Technologies Overview](https://developer.mozilla.org/en-US/docs/Web)
-    -   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-    -   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-    -   [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-    -   [Graphics](https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics)
-    -   [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-    -   [APIs](https://developer.mozilla.org/en-US/docs/Web/API)
-    -   [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
-    -   [MathML](https://developer.mozilla.org/en-US/docs/Web/MathML)
--   References & Guides
-    -   [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
-    -   [Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
-    -   [References](https://developer.mozilla.org/en-US/docs/Web/Reference)
-    -   [Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
-    -   [Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
-    -   [Game development](https://developer.mozilla.org/en-US/docs/Games)
-    -   [...more docs](https://developer.mozilla.org/en-US/docs/Web)
--   Feedback
-    -   [Send Feedback](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Feedback)
-    -   [Contribute to MDN](https://developer.mozilla.org/en-US/docs/MDN/Contribute)
-    -   [Report a content issue 🌐](https://github.com/mdn/content/issues/new)
-    -   [Report a platform issue 🌐](https://github.com/mdn/yari/issues/new)
+- Technologies
+  - [Technologies Overview](https://developer.mozilla.org/en-US/docs/Web)
+  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [Graphics](https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics)
+  - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+  - [APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+  - [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+  - [MathML](https://developer.mozilla.org/en-US/docs/Web/MathML)
+- References & Guides
+  - [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+  - [Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+  - [References](https://developer.mozilla.org/en-US/docs/Web/Reference)
+  - [Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
+  - [Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+  - [Game development](https://developer.mozilla.org/en-US/docs/Games)
+  - [...more docs](https://developer.mozilla.org/en-US/docs/Web)
+- Feedback
+  - [Send Feedback](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Feedback)
+  - [Contribute to MDN](https://developer.mozilla.org/en-US/docs/MDN/Contribute)
+  - [Report a content issue 🌐](https://github.com/mdn/content/issues/new)
+  - [Report a platform issue 🌐](https://github.com/mdn/yari/issues/new)
 
 Search MDN
 
 1.  <a href="https://developer.mozilla.org/en-US/docs/Web" class="breadcrumb-penultimate"><span data-property="name">Web technology for developers</span></a>
 2.  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" class="breadcrumb-current-page"><span data-property="name">JavaScript</span></a>
 
--   <a href="#select-language" class="language-icon"><span class="show-desktop">Change language</span></a>
+- <a href="#select-language" class="language-icon"><span class="show-desktop">Change language</span></a>
+
+## Table of contents
 
 Table of contents
------------------
 
-Table of contents
+- [Tutorials](#tutorials)
+- [Reference](#reference)
+- [Tools & resources](#tools_resources)
 
--   [Tutorials](#tutorials)
--   [Reference](#reference)
--   [Tools & resources](#tools_resources)
-
-JavaScript
-==========
+# JavaScript
 
 **JavaScript** (**JS**) is a lightweight, interpreted, or <a href="https://en.wikipedia.org/wiki/Just-in-time_compilation" class="external">just-in-time</a> compiled programming language with [first-class functions](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function). While it is most well-known as the scripting language for Web pages, <a href="https://en.wikipedia.org/wiki/JavaScript#Other_usage" class="external">many non-browser environments</a> also use it, such as [Node.js](https://developer.mozilla.org/en-US/docs/Glossary/Node.js), <a href="https://couchdb.apache.org/" class="external">Apache CouchDB</a> and <a href="https://www.adobe.com/devnet/acrobat/javascript.html" class="external">Adobe Acrobat</a>. JavaScript is a [prototype-based](https://developer.mozilla.org/en-US/docs/Glossary/Prototype-based_programming), multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more [about JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript).
 
@@ -59,8 +57,7 @@ We have put together a course that includes all the essential information you ne
 
 [**Get started**](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 
-[Tutorials](#tutorials "Permalink to Tutorials")
-------------------------------------------------
+## [Tutorials](#tutorials "Permalink to Tutorials")
 
 Learn how to program in JavaScript with guides and tutorials.
 
@@ -68,121 +65,119 @@ Learn how to program in JavaScript with guides and tutorials.
 
 Head over to our [Learning Area JavaScript topic](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) if you want to learn JavaScript but have no previous experience with JavaScript or programming. The complete modules available there are as follows:
 
- [JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)   
+[JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)  
 Answers some fundamental questions such as "what is JavaScript?", "what does it look like?", and "what can it do?", along with discussing key JavaScript features such as variables, strings, numbers, and arrays.
 
- [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)   
+[JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)  
 Continues our coverage of JavaScript's key fundamental features, turning our attention to commonly-encountered types of code blocks such as conditional statements, loops, functions, and events.
 
- [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)   
+[Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)  
 The object-oriented nature of JavaScript is important to understand if you want to go further with your knowledge of the language and write more efficient code, therefore we've provided this module to help you.
 
- [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)   
+[Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)  
 Discusses asynchronous JavaScript, why it is important, and how it can be used to effectively handle potential blocking operations such as fetching resources from a server.
 
- [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)   
+[Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)  
 Explores what APIs are, and how to use some of the most common APIs you'll come across often in your development work.
 
 ### [JavaScript guide](#javascript_guide "Permalink to JavaScript guide")
 
- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)   
+[JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)  
 A much more detailed guide to the JavaScript language, aimed at those with previous programming experience either in JavaScript or another language.
 
 ### [Intermediate](#intermediate "Permalink to Intermediate")
 
- [Understanding client-side JavaScript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)   
+[Understanding client-side JavaScript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)  
 JavaScript frameworks are an essential part of modern front-end web development, providing developers with proven tools for building scalable, interactive web applications. This module gives you some fundamental background knowledge about how client-side frameworks work and how they fit into your toolset, before moving on to tutorial series covering some of today's most popular ones.
 
- [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)   
-An overview for those who *think* they know about JavaScript.
+[A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)  
+An overview for those who _think_ they know about JavaScript.
 
- [JavaScript data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)   
+[JavaScript data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)  
 Overview of available data structures in JavaScript.
 
- [Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)   
+[Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)  
 JavaScript provides three different value-comparison operations: strict equality using `===`, loose equality using `==`, and the [`Object.is()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is) method.
 
- [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)   
+[Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)  
 A closure is the combination of a function and the lexical environment within which that function was declared.
 
 ### [Advanced](#advanced "Permalink to Advanced")
 
- [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)   
+[Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)  
 Explanation of the widely misunderstood and under-estimated prototype-based inheritance.
 
- [Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)   
+[Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)  
 Strict mode defines that you can not use any variable before initializing it. It is a restricted variant of ECMAScript 5, for faster performance and easier debugging.
 
- [JavaScript typed arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays)   
+[JavaScript typed arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays)  
 JavaScript typed arrays provide a mechanism for accessing raw binary data.
 
- [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)   
+[Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)  
 Memory life cycle and garbage collection in JavaScript.
 
- [Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)   
+[Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)  
 JavaScript has a concurrency model based on an "event loop".
 
-[Reference](#reference "Permalink to Reference")
-------------------------------------------------
+## [Reference](#reference "Permalink to Reference")
 
 Browse the complete [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) documentation.
 
- [Standard objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)   
+[Standard objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)  
 Get to know standard built-in objects [`Array`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), [`Boolean`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean), [`Date`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date), [`Error`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error), [`Function`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function), [`JSON`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON), [`Math`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math), [`Number`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number), [`Object`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object), [`RegExp`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp), [`String`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String), [`Map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map), [`Set`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set), [`WeakMap`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap), [`WeakSet`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet), and others.
 
- [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)   
+[Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)  
 Learn more about the behavior of JavaScript's operators [`instanceof`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof), [`typeof`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof), [`new`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new), [`this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this), the [operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence), and more.
 
- [Statements and declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)   
+[Statements and declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)  
 Learn how [`do-while`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while), [`for-in`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in), [`for-of`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of), [`try-catch`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch), [`let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let), [`var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var), [`const`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const), [`if-else`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else), [`switch`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch), and more JavaScript statements and keywords work.
 
- [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)   
+[Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)  
 Learn how to work with JavaScript's functions to develop your applications.
 
-[Tools & resources](#tools_resources "Permalink to Tools & resources")
-----------------------------------------------------------------------
+## [Tools & resources](#tools_resources "Permalink to Tools & resources")
 
 Helpful tools for writing and debugging your **JavaScript** code.
 
- [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)   
+[Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)  
 [Web Console](https://developer.mozilla.org/en-US/docs/Tools/Web_Console), [JavaScript Profiler](https://developer.mozilla.org/en-US/docs/Tools/Performance), [Debugger](https://developer.mozilla.org/en-US/docs/Tools/Debugger), and more.
 
- [JavaScript Shells](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Shells)   
+[JavaScript Shells](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Shells)  
 A JavaScript shell allows you to quickly test snippets of JavaScript code.
 
- <a href="https://learnjavascript.online/" class="external">Learn JavaScript</a>   
+<a href="https://learnjavascript.online/" class="external">Learn JavaScript</a>  
 An excellent resource for aspiring web developers — Learn JavaScript in an interactive environment, with short lessons and interactive tests, guided by automated assessment. The first 40 lessons are free, and the complete course is available for a small one-time payment.
 
- <a href="https://togetherjs.com/" class="external">TogetherJS</a>   
+<a href="https://togetherjs.com/" class="external">TogetherJS</a>  
 Collaboration made easy. By adding TogetherJS to your site, your users can help each other out on a website in real-time!
 
- <a href="https://stackoverflow.com/questions/tagged/javascript" class="external">Stack Overflow</a>   
+<a href="https://stackoverflow.com/questions/tagged/javascript" class="external">Stack Overflow</a>  
 Stack Overflow questions tagged with "JavaScript".
 
- <a href="https://jsfiddle.net/" class="external">JSFiddle</a>   
+<a href="https://jsfiddle.net/" class="external">JSFiddle</a>  
 Edit JavaScript, CSS, HTML and get live results. Use external resources and collaborate with your team online.
 
- <a href="https://plnkr.co/" class="external">Plunker</a>   
+<a href="https://plnkr.co/" class="external">Plunker</a>  
 Plunker is an online community for creating, collaborating on and sharing your web development ideas. Edit your JavaScript, CSS, HTML files and get live results and file structure.
 
- <a href="https://jsbin.com/" class="external">JSBin</a>   
+<a href="https://jsbin.com/" class="external">JSBin</a>  
 JS Bin is an open-source collaborative web development debugging tool.
 
- <a href="https://codepen.io/" class="external">Codepen</a>   
+<a href="https://codepen.io/" class="external">Codepen</a>  
 Codepen is another collaborative web development tool used as a live result playground.
 
- <a href="https://stackblitz.com/" class="external">StackBlitz</a>   
+<a href="https://stackblitz.com/" class="external">StackBlitz</a>  
 StackBlitz is another online playground/debugging tool, which can host and deploy full-stack applications using React, Angular, etc.
 
- <a href="https://runjs.app/" class="external">RunJS</a>   
+<a href="https://runjs.app/" class="external">RunJS</a>  
 RunJS is a desktop playground/scratchpad tool, which provides live results and access to both Node and Browser APIs.
 
 ### Found a problem with this page?
 
--   [Edit on **GitHub**](https://github.com/mdn/content/edit/main/files/en-us/web/javascript/index.md "You're going to need to sign in to GitHub first (Opens in a new tab)")
--   [Source on **GitHub**](https://github.com/mdn/content/blob/main/files/en-us/web/javascript/index.md "Folder: en-us/web/javascript (Opens in a new tab)")
--   [Report a problem with this content on **GitHub**](https://github.com/mdn/content/issues/new?body=MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript%0A%0A%23%23%23%23+What+information+was+incorrect%2C+unhelpful%2C+or+incomplete%3F%0A%0A%0A%23%23%23%23+Specific+section+or+headline%3F%0A%0A%0A%23%23%23%23+What+did+you+expect+to+see%3F%0A%0A%0A%23%23%23%23+Did+you+test+this%3F+If+so%2C+how%3F%0A%0A%0A%3C%21--+Do+not+make+changes+below+this+line+--%3E%0A%3Cdetails%3E%0A%3Csummary%3EMDN+Content+page+report+details%3C%2Fsummary%3E%0A%0A*+Folder%3A+%60en-us%2Fweb%2Fjavascript%60%0A*+MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript%0A*+GitHub+URL%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Fcontent%2Fblob%2Fmain%2Ffiles%2Fen-us%2Fweb%2Fjavascript%2Findex.md%0A*+Last+commit%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Fcontent%2Fcommit%2Fe42c2ec657da835d37974391a803497e5c110d40%0A*+Document+last+modified%3A+2021-07-28T21%3A15%3A50.000Z%0A%0A%3C%2Fdetails%3E&title=Issue+with+%22JavaScript%22%3A+%28short+summary+here+please%29&labels=needs-triage%2CContent%3AJS "This will take you to https://github.com/mdn/content to file a new issue")
--   Want to fix the problem yourself? See [our Contribution guide](https://github.com/mdn/content/blob/main/README.md).
+- [Edit on **GitHub**](https://github.com/mdn/content/edit/main/files/en-us/web/javascript/index.md "You're going to need to sign in to GitHub first (Opens in a new tab)")
+- [Source on **GitHub**](https://github.com/mdn/content/blob/main/files/en-us/web/javascript/index.md "Folder: en-us/web/javascript (Opens in a new tab)")
+- [Report a problem with this content on **GitHub**](https://github.com/mdn/content/issues/new?body=MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript%0A%0A%23%23%23%23+What+information+was+incorrect%2C+unhelpful%2C+or+incomplete%3F%0A%0A%0A%23%23%23%23+Specific+section+or+headline%3F%0A%0A%0A%23%23%23%23+What+did+you+expect+to+see%3F%0A%0A%0A%23%23%23%23+Did+you+test+this%3F+If+so%2C+how%3F%0A%0A%0A%3C%21--+Do+not+make+changes+below+this+line+--%3E%0A%3Cdetails%3E%0A%3Csummary%3EMDN+Content+page+report+details%3C%2Fsummary%3E%0A%0A*+Folder%3A+%60en-us%2Fweb%2Fjavascript%60%0A*+MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript%0A*+GitHub+URL%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Fcontent%2Fblob%2Fmain%2Ffiles%2Fen-us%2Fweb%2Fjavascript%2Findex.md%0A*+Last+commit%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Fcontent%2Fcommit%2Fe42c2ec657da835d37974391a803497e5c110d40%0A*+Document+last+modified%3A+2021-07-28T21%3A15%3A50.000Z%0A%0A%3C%2Fdetails%3E&title=Issue+with+%22JavaScript%22%3A+%28short+summary+here+please%29&labels=needs-triage%2CContent%3AJS "This will take you to https://github.com/mdn/content to file a new issue")
+- Want to fix the problem yourself? See [our Contribution guide](https://github.com/mdn/content/blob/main/README.md).
 
 **Last modified:** Jul 28, 2021, [by MDN contributors](https://developer.mozilla.org/en-US/docs/Web/JavaScript/contributors.txt)
 
@@ -192,7 +187,7 @@ Change language
 
 #### Related Topics
 
-1.  [***JavaScript***](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+1.  [**_JavaScript_**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 2.  [**Tutorials:**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Tutorials)
 3.  Complete beginners
     1.  [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
@@ -503,30 +498,30 @@ Change language
     8.  [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
     9.  [Deprecated features](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features)
 
--   [Web Technologies](https://developer.mozilla.org/en-US/docs/Web)
--   [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
--   [About MDN](https://developer.mozilla.org/en-US/docs/MDN/About)
--   [Feedback](https://developer.mozilla.org/en-US/docs/MDN/Feedback)
+- [Web Technologies](https://developer.mozilla.org/en-US/docs/Web)
+- [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
+- [About MDN](https://developer.mozilla.org/en-US/docs/MDN/About)
+- [Feedback](https://developer.mozilla.org/en-US/docs/MDN/Feedback)
 
 <!-- -->
 
--   [About](https://www.mozilla.org/about/)
--   [MDN Web Docs Store](https://shop.spreadshirt.com/mdn-store/)
--   [Contact Us](https://www.mozilla.org/contact/)
--   [Firefox](https://www.mozilla.org/firefox/?utm_source=developer.mozilla.org&utm_campaign=footer&utm_medium=referral)
+- [About](https://www.mozilla.org/about/)
+- [MDN Web Docs Store](https://shop.spreadshirt.com/mdn-store/)
+- [Contact Us](https://www.mozilla.org/contact/)
+- [Firefox](https://www.mozilla.org/firefox/?utm_source=developer.mozilla.org&utm_campaign=footer&utm_medium=referral)
 
 #### MDN
 
--   <a href="https://twitter.com/mozdevnet" class="social-icon twitter"><span class="visually-hidden">MDN on Twitter</span></a>
--   <a href="https://github.com/mdn/" class="social-icon github"><span class="visually-hidden">MDN on Github</span></a>
+- <a href="https://twitter.com/mozdevnet" class="social-icon twitter"><span class="visually-hidden">MDN on Twitter</span></a>
+- <a href="https://github.com/mdn/" class="social-icon github"><span class="visually-hidden">MDN on Github</span></a>
 
 #### Mozilla
 
--   <a href="https://twitter.com/mozilla" class="social-icon twitter"><span class="visually-hidden">Mozilla on Twitter</span></a>
--   <a href="https://www.instagram.com/mozillagram/" class="social-icon instagram"><span class="visually-hidden">Mozilla on Instagram</span></a>
+- <a href="https://twitter.com/mozilla" class="social-icon twitter"><span class="visually-hidden">Mozilla on Twitter</span></a>
+- <a href="https://www.instagram.com/mozillagram/" class="social-icon instagram"><span class="visually-hidden">Mozilla on Instagram</span></a>
 
 © 2005-2021 Mozilla and individual contributors. Content is available under [these licenses](https://developer.mozilla.org/docs/MDN/About#Copyrights_and_licenses).
 
--   [Terms](https://www.mozilla.org/about/legal/terms/mozilla)
--   [Privacy](https://www.mozilla.org/privacy/websites/)
--   [Cookies](https://www.mozilla.org/privacy/websites/#cookies)
+- [Terms](https://www.mozilla.org/about/legal/terms/mozilla)
+- [Privacy](https://www.mozilla.org/privacy/websites/)
+- [Cookies](https://www.mozilla.org/privacy/websites/#cookies)

@@ -50,7 +50,7 @@ Press the arrows below to expand the preview section
 - [License](#license)
 - [Links](#links)
 
-01.01-license-badges/
+  01.01-license-badges/
 
 ### [01.01-license-badges/Apache_2.0.md](01.01-license-badges/Apache_2.0.md)
 

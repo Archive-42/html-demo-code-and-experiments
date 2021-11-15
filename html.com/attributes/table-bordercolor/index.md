@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 Deprecated in HTML5. Do not use.
 
-`What Does HTML Bordercolor Attribute Does To Your Tables? [Clue: Color!]`
-==========================================================================
+# `What Does HTML Bordercolor Attribute Does To Your Tables? [Clue: Color!]`
 
 In <span class="post-meta-category">[HTML Attributes](https://html.com/attributes/)</span>
 
@@ -28,8 +25,7 @@ Was used to specify the color of table borders. This attribute has been deprecat
 <span class="useWarnHead">The Table Bordercolor Attribute is Obsolete</span>  
 The following information is provided for it’s historical value. This attribute is obsolete and should not be used. Browser support for this attribute is limited and using it may produce unexpected results. Instead of `bordercolor`, use [CSS](https://html.com/css/) to style tables.
 
-The `BORDERCOLOR` Attribute
----------------------------
+## The `BORDERCOLOR` Attribute
 
 In this section we’ll look at setting the colors of table borders. First, we’ll look at setting the borders to a single color. Next, we’ll look at setting the light and dark shades of the border.
 
@@ -54,8 +50,7 @@ Netscape and MSIE have very different ways of rendering `BORDERCOLOR`. Netscape 
 
 <table><thead><tr class="header"><th>Browser</th><th>How it Looks</th></tr></thead><tbody><tr class="odd"><td>Internet Explorer</td><td><img src="https://html.com/wp-content/uploads/bordercolor-msie.gif" alt="screenshot of table rendered in internet explorer" class="sp-no-webp" srcset="/wp-content/uploads/bordercolor-msie.gif" /></td></tr><tr class="even"><td>Netscape</td><td><img src="https://html.com/wp-content/uploads/bordercolor-netscape.gif" alt="screenshot of table rendered in netscape" class="sp-no-webp" srcset="/wp-content/uploads/bordercolor-netscape.gif" /></td></tr></tbody></table>
 
-Table Borders: Light and Dark
------------------------------
+## Table Borders: Light and Dark
 
 In the previous example we set a single color for all the borders of the table. In this page we’ll look at setting the “light” and the “dark” borders separately. Note that currently only MSIE recognizes the markup necessary to set the light and dark borders separately.
 
@@ -78,8 +73,7 @@ Here’s how that code renders in the browser, but note that this is an obsolete
 
 <table><tbody><tr class="odd"><td>blah blah blah</td><td>yeah yeah yeah</td></tr><tr class="even"><td>whatever whatever</td><td>right on!</td></tr></tbody></table>
 
-Using All Three `BORDERCOLOR` Attributes at Once
-------------------------------------------------
+## Using All Three `BORDERCOLOR` Attributes at Once
 
 Netscape and MSIE both recognize `BORDERCOLOR`, but currently only MSIE recognizes `BORDERCOLORLIGHT` and `BORDERCOLORDARK`. However, you can use all three at once because MSIE ignores `BORDERCOLOR` if it finds `BORDERCOLORLIGHT` and `BORDERCOLORDARK`. You can use this feature to get a little more control over the border colors than if you use just one or two of those attributes.
 
@@ -114,10 +108,9 @@ Here’s how that code renders in the browser, but note that this is an obsolete
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Post navigation
----------------
+## Post navigation
 
-[<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`How To Use  In HTML`](https://html.com/attributes/img-src/)
+[<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`How To Use In HTML`](https://html.com/attributes/img-src/)
 
 [`<td nowrap>`<span class="nav-link-label"><span class="genericon genericon-next"></span></span>](https://html.com/attributes/td-nowrap/)
 
@@ -127,11 +120,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

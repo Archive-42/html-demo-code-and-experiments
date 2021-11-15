@@ -1,9 +1,8 @@
-<span class="title">JSFiddle</span> [](https://jsfiddle.net/ "JSFiddle")
-========================================================================
+# <span class="title">JSFiddle</span> [](https://jsfiddle.net/ "JSFiddle")
 
 Editor
 
--   <a href="https://jsfiddle.net/user/login/" class="aiButton">Sign in</a>
+- <a href="https://jsfiddle.net/user/login/" class="aiButton">Sign in</a>
 
 <img src="https://www.gravatar.com/avatar/4c4ec05acd63612984efbe17dec9dd88?s=80" width="45" height="45" />
 
@@ -13,8 +12,7 @@ Editor
 
 [Become a supporter](https://jsfiddle.net/extra/)
 
-bgoonz's public fiddles
------------------------
+## bgoonz's public fiddles
 
 <a href="https://jsfiddle.net/bgoonz/5kL90wpx/1/" class="overlay"></a>
 
@@ -22,8 +20,8 @@ bgoonz's public fiddles
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -33,8 +31,8 @@ No-Library (pure JS), HTML, CSS, JavaScript
 
 jQuery 1.7.2, HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -44,8 +42,8 @@ jQuery 1.7.2, HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -55,8 +53,8 @@ No-Library (pure JS), HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -66,8 +64,8 @@ No-Library (pure JS), HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -77,8 +75,8 @@ No-Library (pure JS), HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -88,8 +86,8 @@ No-Library (pure JS), HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -99,8 +97,8 @@ No-Library (pure JS), HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, SCSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -110,8 +108,8 @@ No-Library (pure JS), HTML, SCSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -121,8 +119,8 @@ No-Library (pure JS), HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, React
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -132,8 +130,8 @@ No-Library (pure JS), HTML, CSS, React
 
 No-Library (pure JS), HTML, CSS, React
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -143,8 +141,8 @@ No-Library (pure JS), HTML, CSS, React
 
 Underscore 1.8.3, HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -154,8 +152,8 @@ Underscore 1.8.3, HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -165,8 +163,8 @@ No-Library (pure JS), HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -176,8 +174,8 @@ No-Library (pure JS), HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, React
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -187,8 +185,8 @@ No-Library (pure JS), HTML, CSS, React
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -198,8 +196,8 @@ No-Library (pure JS), HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -209,8 +207,8 @@ No-Library (pure JS), HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -220,8 +218,8 @@ No-Library (pure JS), HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
@@ -231,13 +229,13 @@ No-Library (pure JS), HTML, CSS, JavaScript
 
 No-Library (pure JS), HTML, CSS, JavaScript
 
--   <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
--   Delete fiddle
+- <span class="checkbox"></span> Private fiddle <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
+- Delete fiddle
 
 ### Groups <a href="https://jsfiddle.net/extra/" class="proBadgeSelf">Extra</a>
 
--   1
--   [2](https://jsfiddle.net/user/bgoonz/fiddles/2/)
--   [3](https://jsfiddle.net/user/bgoonz/fiddles/3/)
--   [▶︎](https://jsfiddle.net/user/bgoonz/fiddles/2/)
--   [4](https://jsfiddle.net/user/bgoonz/fiddles/4/)
+- 1
+- [2](https://jsfiddle.net/user/bgoonz/fiddles/2/)
+- [3](https://jsfiddle.net/user/bgoonz/fiddles/3/)
+- [▶︎](https://jsfiddle.net/user/bgoonz/fiddles/2/)
+- [4](https://jsfiddle.net/user/bgoonz/fiddles/4/)

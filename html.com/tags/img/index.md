@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [Web Images: Best Practices and HTML Code In One Useful Guide](https://html.com/images/) / HTML Tags Guide To Adding Images To Your Web Documents
 
-`HTML  Tags Guide To Adding Images To Your Web Documents`
-=========================================================
+# `HTML Tags Guide To Adding Images To Your Web Documents`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -18,7 +15,7 @@ In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 Element of  
 [Web Images: Best Practices and HTML Code In One Useful Guide](https://html.com/images/)
 
-What does `HTML  Tags Guide To Adding Images To Your Web Documents` do?  
+What does `HTML Tags Guide To Adding Images To Your Web Documents` do?  
 The &lt;img&gt; tag is used to insert an image into a document.
 
 Display  
@@ -29,16 +26,15 @@ This element must not contain any content, and does not need a closing tag.
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> Using the &lt;img&gt; tag](#Using_the_ltimggt_tag)
-    -   [<span class="toc_number toc_depth_2">2.1</span> Inline vs. Block](#Inline_vs_Block)
-    -   [<span class="toc_number toc_depth_2">2.2</span> Responsive Images](#Responsive_Images)
--   [<span class="toc_number toc_depth_1">3</span> Deprecated &lt;img&gt; attributes](#Deprecated_ltimggt_attributes)
--   [<span class="toc_number toc_depth_1">4</span> Browser Support for img](#Browser_Support_for_img)
--   [<span class="toc_number toc_depth_1">5</span> Attributes of img](#Attributes_of_img)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> Using the &lt;img&gt; tag](#Using_the_ltimggt_tag)
+  - [<span class="toc_number toc_depth_2">2.1</span> Inline vs. Block](#Inline_vs_Block)
+  - [<span class="toc_number toc_depth_2">2.2</span> Responsive Images](#Responsive_Images)
+- [<span class="toc_number toc_depth_1">3</span> Deprecated &lt;img&gt; attributes](#Deprecated_ltimggt_attributes)
+- [<span class="toc_number toc_depth_1">4</span> Browser Support for img](#Browser_Support_for_img)
+- [<span class="toc_number toc_depth_1">5</span> Attributes of img](#Attributes_of_img)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <img src="/wp-content/uploads/flamingo.jpg">
 
@@ -46,8 +42,7 @@ Contents
 
 <span class="underline"></span>
 
-<span id="Using_the_ltimggt_tag">Using the `<img>` tag</span>
--------------------------------------------------------------
+## <span id="Using_the_ltimggt_tag">Using the `<img>` tag</span>
 
 The `<img>` element is the most straight-forward way of displaying a static image on a page. You should normally use it whenever an image is actually a part of the content (as opposed to using an image as part of a page’s design).
 
@@ -55,7 +50,7 @@ All `<img>` tags must have a defined [`src` attribute](https://html.com/attribut
 
 ### <span id="Inline_vs_Block">Inline vs. Block</span>
 
-Intuitively, an image seems like a block element. It has a defined width and height, and cannot be broken over multiple lines. It behaves *like a block*.
+Intuitively, an image seems like a block element. It has a defined width and height, and cannot be broken over multiple lines. It behaves _like a block_.
 
 Unfortunately, because of historical reasons, the HTML specification (and all browsers, by default) treat the `<img>` tag as if it is an inline element. Because of the way browsers handle white space, this can cause problems if you are not careful.
 
@@ -74,11 +69,10 @@ There at least two easy ways to fix this. The simplest is to simply make sure th
     <img src="/wp-content/uploads/flamingo.jpg"><br>
     Here is some other text below the image.
 
-This is some text that appears above the image.  
+This is some text that appears above the image.
 
 <img src="https://html.com/wp-content/uploads/flamingo.jpg" class="sp-no-webp" srcset="/wp-content/uploads/flamingo.jpg" />
 
-  
 Here is some other text below the image.
 
 A better, more systematic way of handling the inline image problem is to images into block elements with CSS.
@@ -123,11 +117,10 @@ height: auto;
 
 There are two other techniques you should know for responsive images:
 
--   Using the [`srcset`](https://html.com/attributes/img-srcset/) image attribute to specify multiple sizes of a single image.
--   Using the [`<picture>`](#) element to specify different image designs for different contexts.
+- Using the [`srcset`](https://html.com/attributes/img-srcset/) image attribute to specify multiple sizes of a single image.
+- Using the [`<picture>`](#) element to specify different image designs for different contexts.
 
-<span id="Deprecated_ltimggt_attributes">Deprecated `<img>` attributes</span>
------------------------------------------------------------------------------
+## <span id="Deprecated_ltimggt_attributes">Deprecated `<img>` attributes</span>
 
 The `<img>` element has been a part of the HTML specification almost since the beginning, and has been a vital part of HTML-based page design since before the advent of modern browsers, CSS3, or semantic markup. Because of this history, there are a large number of deprecated (no longer in use) attributes that have previously been used with the `<img>` element.
 
@@ -151,8 +144,7 @@ For more information about deprecated tags and other changes to the HTML specifi
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_img">Browser Support for img</span>
------------------------------------------------------------------
+## <span id="Browser_Support_for_img">Browser Support for img</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -190,8 +182,7 @@ For more information about deprecated tags and other changes to the HTML specifi
 
 <span class="browser-supported">All</span>
 
-<span id="Attributes_of_img">Attributes of img</span>
------------------------------------------------------
+## <span id="Attributes_of_img">Attributes of img</span>
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/attributes/img-crossorigin/" class="linked-name">crossorigin</a><br />
 </td><td></td><td>Indicates that CORS headers should be used in the HTTP request, and specifies whether or not to use credentials.</td></tr><tr class="even"><td><a href="https://html.com/attributes/img-height/" class="linked-name">height</a><br />
@@ -216,8 +207,7 @@ For more information about deprecated tags and other changes to the HTML specifi
 </td><td></td><td>Indicates the intrinsic width of the image, in CSS pixels.</td></tr><tr class="odd"><td><a href="https://html.com/attributes/img-src/" class="linked-name">src</a><br />
 </td><td></td><td>Specifies the URL of an image to be displayed.</td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](https://html.com/resources/citation-guide/)
 
@@ -229,11 +219,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

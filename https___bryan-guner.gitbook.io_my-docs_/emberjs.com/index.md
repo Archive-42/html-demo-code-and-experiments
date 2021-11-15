@@ -4,21 +4,19 @@
 
 Show Site Navigation
 
--   Docs
--   Releases
--   <a href="https://blog.emberjs.com/" class="navbar-list-item-link">Blog</a>
--   Community
--   About
+- Docs
+- Releases
+- <a href="https://blog.emberjs.com/" class="navbar-list-item-link">Blog</a>
+- Community
+- About
 
-A framework for ambitious web developers.
-=========================================
+# A framework for ambitious web developers.
 
 Ember.js is a productive, battle-tested JavaScript framework for building modern web applications. It includes everything you need to build rich UIs that work on any device.
 
 <a href="https://guides.emberjs.com/release/tutorial/" class="es-button" title="New to building websites, or just want a more in-depth introduction to Ember? The tutorial is for you!">Read the Tutorial</a>
 
-Build with the teams that never stop shipping.
-----------------------------------------------
+## Build with the teams that never stop shipping.
 
 Some of the best development teams in the world have been iterating on their products for years with Ember. With scalable UI architecture baked-in from the start, you'll be working with the same patterns these organizations use every step of the way.
 
@@ -28,15 +26,13 @@ Some of the best development teams in the world have been iterating on their pro
 
 [![](https://emberjs.com/images/brand/virtual-emberconf-2021-logo.svg)](https://emberconf.com/)
 
-March 29 & 30
--------------
+## March 29 & 30
 
 Virtual EmberConf is back for another year of talks, training and fun!
 
 ### [Watch live at EmberConf.com](https://emberconf.com/)
 
-Batteries are included
-----------------------
+## Batteries are included
 
 Ember’s out-of-the-box experience has everything you need to start building on day one and keep shipping for years. Benefit from our years of experience to help your team be productive—faster. You'll never have to wire together your own framework ever again!
 
@@ -44,8 +40,8 @@ Ember’s out-of-the-box experience has everything you need to start building on
 
 ### Build pipeline
 
-Ember CLI is the backbone of modern Ember apps, providing code generators to create new entities and putting the necessary files in the right place, every time. Ember apps come with a **built-in development environment** with fast rebuilds, auto-reload, and a test runner!  
-  
+Ember CLI is the backbone of modern Ember apps, providing code generators to create new entities and putting the necessary files in the right place, every time. Ember apps come with a **built-in development environment** with fast rebuilds, auto-reload, and a test runner!
+
 Ready to deploy? That's easy, too— build your app for production with a single command.
 
 <img src="https://emberjs.com/images/home/ember-routing.svg" class="img-fluid" width="636" height="424" />
@@ -58,32 +54,32 @@ The URL has always been one of the major strengths of the web, and Ember apps re
 
 ### Data layer
 
-While you can use any data layer for your app, every new Ember app includes a fully-featured data access library called [Ember Data](https://guides.emberjs.com/release/models/).  
-  
+While you can use any data layer for your app, every new Ember app includes a fully-featured data access library called [Ember Data](https://guides.emberjs.com/release/models/).
+
 Ember Data allows you to access data across multiple sources at once, setup asynchronous relationships, and keep models up-to-date across your app.
 
 <img src="https://emberjs.com/images/home/ember-testing.svg" width="636" height="424" />
 
 ### Testing
 
-Enjoy a fully-featured, modern test harness built into every application by default. Every time an entity is generated in an Ember app, tests are also generated for that same entity. Ember apps support three levels of testing that are handy for testing everything from individual components to acceptance tests that can boot your whole app and interact with it to verify everything is working as it should be.  
-  
+Enjoy a fully-featured, modern test harness built into every application by default. Every time an entity is generated in an Ember app, tests are also generated for that same entity. Ember apps support three levels of testing that are handy for testing everything from individual components to acceptance tests that can boot your whole app and interact with it to verify everything is working as it should be.
+
 Tests are also run in the browser, providing that extra peace of mind.
 
 <img src="https://emberjs.com/images/home/ember-performance.svg" class="img-fluid" width="636" height="424" />
 
 ### Performance
 
-Ember is built on the Glimmer rendering engine, one of the fastest rendering technologies on the market today, thanks to the way it compiles templates down to a highly-performant virtual machine.  
-  
+Ember is built on the Glimmer rendering engine, one of the fastest rendering technologies on the market today, thanks to the way it compiles templates down to a highly-performant virtual machine.
+
 Due to our holistic performance approach, **performance upgrades are often free** with version upgrades— no extra work necessary!
 
 <img src="https://emberjs.com/images/home/ember-upgrades.svg" width="636" height="424" />
 
 ### Easy upgrades
 
-Ember follows a 6-week release cycle, releasing a new minor version every 6 weeks. With a **strong commitment to stability**, upgrades between minor versions are straightforward and fast. The well-thought-out deprecation mechanism that gives you ample warning of code that would need to change in the next major version, and deprecated or upgraded features often come with codemods that can be run to automatically update your codebase.  
-  
+Ember follows a 6-week release cycle, releasing a new minor version every 6 weeks. With a **strong commitment to stability**, upgrades between minor versions are straightforward and fast. The well-thought-out deprecation mechanism that gives you ample warning of code that would need to change in the next major version, and deprecated or upgraded features often come with codemods that can be run to automatically update your codebase.
+
 If you do happen to get stuck, our friendly community is ready and willing to help!
 
 <img src="https://emberjs.com/images/home/logos/babel.svg" alt="Babel" class="logo" />
@@ -98,8 +94,7 @@ If you do happen to get stuck, our friendly community is ready and willing to he
 
 <img src="https://emberjs.com/images/home/logos/npm.svg" alt="npm" class="logo rotate" />
 
-The Ember Ecosystem
--------------------
+## The Ember Ecosystem
 
 There's never been a better time to be a JavaScript developer, and Ember embraces everything that modern JS has to offer. When you're ready for more, choose from hundreds of high-quality, curated community Ember Addons to super-power your application.
 
@@ -121,7 +116,7 @@ Read the docs: <http://ember-concurrency.com/>
 
 Easy installation:
 
-`                     `
+` `
 
     > ember install ember-concurrency
 
@@ -131,7 +126,7 @@ Read the docs: <https://ember-simple-auth.com/>
 
 Easy installation:
 
-`                     `
+` `
 
     > ember install ember-simple-auth
 
@@ -141,7 +136,7 @@ Read the docs: <https://ember-intl.github.io/ember-intl/>
 
 Easy installation:
 
-`                     `
+` `
 
     > ember install ember-intl
 
@@ -151,7 +146,7 @@ Read the docs: <http://ember-cli-deploy.com/>
 
 Easy installation:
 
-`                     `
+` `
 
     > ember install ember-cli-deploy
 
@@ -171,8 +166,7 @@ Tired of wondering if your project's next dependency is well-maintained? Have yo
 
 With [Ember Observer](https://emberobserver.com/), you'll never have to assess the quality of your project's dependencies on your own. Up-to-date rankings make it easy to see an addon's position within the community. Metrics like great documentation, recent releases and automated tests across multiple Ember versions mean you can be confident that your next dependency won't become a liability.
 
-A vibrant, welcoming community
-------------------------------
+## A vibrant, welcoming community
 
 Ember's first commit was in 2011, but today our community is more active than ever. Whether it's one of our annual conferences, dozens of Meetup groups, or initiatives like Women Helping Women, we're always working hard to foster a friendly, professional, and welcoming environment for our developers.
 
@@ -182,54 +176,53 @@ Ember's first commit was in 2011, but today our community is more active than ev
 
 ### Our official communication channels to get in touch with the community
 
--   ### [Discussion forum](http://discuss.emberjs.com/)
+- ### [Discussion forum](http://discuss.emberjs.com/)
 
-    Post and search longer-form questions in our public forum.
+  Post and search longer-form questions in our public forum.
 
--   ### [Discord community chat](https://discord.gg/emberjs)
+- ### [Discord community chat](https://discord.gg/emberjs)
 
-    Join our real-time chat server to connect with other developers and get answers.
+  Join our real-time chat server to connect with other developers and get answers.
 
 Beyond our official core online channels, you can dig deeper with these additional learning resources from enthusiastic members of our welcoming community!
 
--   #### Podcasts
+- #### Podcasts
 
-    -   [Ember Weekend](https://emberweekend.com/episodes)
-    -   [Ember Map Podcast](https://embermap.com/podcast)
+  - [Ember Weekend](https://emberweekend.com/episodes)
+  - [Ember Map Podcast](https://embermap.com/podcast)
 
--   #### Books & blogs
+- #### Books & blogs
 
-    -   [The Ember Times](https://blog.emberjs.com/tags/newsletter.html "Ember.js newsletter")
-    -   [Rock and Roll with Ember.js](https://www.balinterdi.com/rock-and-roll-with-emberjs/ "a book that helps you learn Ember")
-    -   [Octane: the blog series](https://www.pzuraq.com/tag/octane/ "a blog series by pzuraq")
-    -   [Ember Weekly](https://www.emberweekly.com/ "latest Ember news and articles")
+  - [The Ember Times](https://blog.emberjs.com/tags/newsletter.html "Ember.js newsletter")
+  - [Rock and Roll with Ember.js](https://www.balinterdi.com/rock-and-roll-with-emberjs/ "a book that helps you learn Ember")
+  - [Octane: the blog series](https://www.pzuraq.com/tag/octane/ "a blog series by pzuraq")
+  - [Ember Weekly](https://www.emberweekly.com/ "latest Ember news and articles")
 
--   #### Videos
+- #### Videos
 
-    -   [Ember.js: The Documentary](https://www.youtube.com/watch?v=Cvz-9ccflKQ)
-    -   [Ember Map](https://embermap.com/)
-    -   [Ember Videos](https://www.youtube.com/channel/UCMmzJ82sCmooDdtzVY8FxEA/videos)
+  - [Ember.js: The Documentary](https://www.youtube.com/watch?v=Cvz-9ccflKQ)
+  - [Ember Map](https://embermap.com/)
+  - [Ember Videos](https://www.youtube.com/channel/UCMmzJ82sCmooDdtzVY8FxEA/videos)
 
 Looking for your next job? Community members have put together a dedicated platform for matching Ember job seekers with Ember job opportunities.
 
--   ### [EMBERWORK - jobs board](https://emberwork.com/)
+- ### [EMBERWORK - jobs board](https://emberwork.com/)
 
-    Find all the Ember job offers in one single place; a dedicated platform for Ember jobs, curated by community members.
+  Find all the Ember job offers in one single place; a dedicated platform for Ember jobs, curated by community members.
 
-Ready to start shipping?
-------------------------
+## Ready to start shipping?
 
 If you're ready to dive in, the Quickstart is the fastest way to get going with Ember.js. Are you new to web development or a recent bootcamp grad? The Intro tutorial is a great place to start.
 
 <a href="https://guides.emberjs.com/release/getting-started/quick-start/" class="es-button mb-1 mr-1">Quickstart</a> <a href="https://github.com/emberjs" class="es-button-secondary">View on Github</a>
 
--   ### [Read the Guides](https://guides.emberjs.com/release/)
+- ### [Read the Guides](https://guides.emberjs.com/release/)
 
-    If you're familiar with JavaScript and web application development, our Guides will teach you everything you need to know to get started building with Ember.
+  If you're familiar with JavaScript and web application development, our Guides will teach you everything you need to know to get started building with Ember.
 
--   ### [Read Our Blog](https://blog.emberjs.com/)
+- ### [Read Our Blog](https://blog.emberjs.com/)
 
-    Find out about the newest releases and latest work happening in the ecosystem by visiting the official Ember Blog.
+  Find out about the newest releases and latest work happening in the ecosystem by visiting the official Ember Blog.
 
 <img src="https://emberjs.com/images/ember-logo.svg" class="footer-logo" width="83" height="40" />
 
@@ -247,7 +240,7 @@ If you want help you can contact us by [email](mailto:help@emberjs.com?subject=H
 Ember.js is free, open source and always will be.  
 [Contribute to this page](https://github.com/ember-learn/ember-website)
 
-------------------------------------------------------------------------
+---
 
 Ember is generously supported by
 

@@ -250,7 +250,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -268,7 +268,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -308,7 +308,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -384,11 +384,11 @@ How To Speed Up Vscode
 
 3
 
-<span data-key="4b99ffe3711144b78762791fc50a0ee4"><span data-offset-key="4b99ffe3711144b78762791fc50a0ee4:0">ISSUE\_TEMPLATE.md</span></span>
+<span data-key="4b99ffe3711144b78762791fc50a0ee4"><span data-offset-key="4b99ffe3711144b78762791fc50a0ee4:0">ISSUE_TEMPLATE.md</span></span>
 
 4
 
-<span data-key="003aa821f1d84b7898720da1c123c831"><span data-offset-key="003aa821f1d84b7898720da1c123c831:0">PULL\_REQUEST\_TEMPLATE.md</span></span>
+<span data-key="003aa821f1d84b7898720da1c123c831"><span data-offset-key="003aa821f1d84b7898720da1c123c831:0">PULL_REQUEST_TEMPLATE.md</span></span>
 
 5
 
@@ -396,7 +396,7 @@ How To Speed Up Vscode
 
 6
 
-<span data-key="bdbd53d12d124b00b7d2117bd30efbb2"><span data-offset-key="bdbd53d12d124b00b7d2117bd30efbb2:0">node\_modules/\*\*/test/\*\*</span></span>
+<span data-key="bdbd53d12d124b00b7d2117bd30efbb2"><span data-offset-key="bdbd53d12d124b00b7d2117bd30efbb2:0">node_modules/\*\*/test/\*\*</span></span>
 
 7
 
@@ -408,7 +408,7 @@ How To Speed Up Vscode
 
 9
 
-<span data-key="1d67119594374687b48eb7aeb6dddaad"><span data-offset-key="1d67119594374687b48eb7aeb6dddaad:0">node\_modules</span></span>
+<span data-key="1d67119594374687b48eb7aeb6dddaad"><span data-offset-key="1d67119594374687b48eb7aeb6dddaad:0">node_modules</span></span>
 
 10
 
@@ -432,25 +432,15 @@ Copied!
 
 <span data-key="cbd28335a9d341ec99100db4cecfef9e"><span data-offset-key="cbd28335a9d341ec99100db4cecfef9e:0">My goals were to make all of these still work:</span></span>
 
--   
+- <span data-key="148a95823c9140a0b8ccef0b9f7e2710"><span data-offset-key="148a95823c9140a0b8ccef0b9f7e2710:0">packaging with </span>`npm run package`</span>
 
-    <span data-key="148a95823c9140a0b8ccef0b9f7e2710"><span data-offset-key="148a95823c9140a0b8ccef0b9f7e2710:0">packaging with </span>`npm run package`</span>
+- <span data-key="72b5f5f2ffa643188db36c869fa999a0"><span data-offset-key="72b5f5f2ffa643188db36c869fa999a0:0">publishing with </span>`npm run publish`</span>
 
--   
+- <span data-key="4293c878833f4f6c83a6e9795cc0147d"><span data-offset-key="4293c878833f4f6c83a6e9795cc0147d:0">local and CI testing with </span>`npm run test`</span>
 
-    <span data-key="72b5f5f2ffa643188db36c869fa999a0"><span data-offset-key="72b5f5f2ffa643188db36c869fa999a0:0">publishing with </span>`npm run publish`</span>
+- <span data-key="d9d26d1ab8074800ba04063d4013d78a"><span data-offset-key="d9d26d1ab8074800ba04063d4013d78a:0">F5 debugging with the </span>`launch.json`</span>
 
--   
-
-    <span data-key="4293c878833f4f6c83a6e9795cc0147d"><span data-offset-key="4293c878833f4f6c83a6e9795cc0147d:0">local and CI testing with </span>`npm run test`</span>
-
--   
-
-    <span data-key="d9d26d1ab8074800ba04063d4013d78a"><span data-offset-key="d9d26d1ab8074800ba04063d4013d78a:0">F5 debugging with the </span>`launch.json`</span>
-
--   
-
-    <span data-key="313b683c27bc4c9298eb9404790ce2f6"><span data-offset-key="313b683c27bc4c9298eb9404790ce2f6:0">F5 debugging the tests with the </span>`launch.json`</span>
+- <span data-key="313b683c27bc4c9298eb9404790ce2f6"><span data-offset-key="313b683c27bc4c9298eb9404790ce2f6:0">F5 debugging the tests with the </span>`launch.json`</span>
 
 <span data-key="6476325d570b46b1a59704210e346ffe">**The approach has me compiling both with webpack and** **`tsc`** **for the tests and debugging.**</span>
 
@@ -500,11 +490,11 @@ Copied!
 
 9
 
-<span data-key="a4b63dbb0b114ae9b9ba3dcd7385ed4b"><span data-offset-key="a4b63dbb0b114ae9b9ba3dcd7385ed4b:0"> "postinstall": "node node\_modules/vscode/bin/install",</span></span>
+<span data-key="a4b63dbb0b114ae9b9ba3dcd7385ed4b"><span data-offset-key="a4b63dbb0b114ae9b9ba3dcd7385ed4b:0"> "postinstall": "node node_modules/vscode/bin/install",</span></span>
 
 10
 
-<span data-key="4603df8e5f564eb1b628a389dd109b6f"><span data-offset-key="4603df8e5f564eb1b628a389dd109b6f:0"> "just-test": "node node\_modules/vscode/bin/test",</span></span>
+<span data-key="4603df8e5f564eb1b628a389dd109b6f"><span data-offset-key="4603df8e5f564eb1b628a389dd109b6f:0"> "just-test": "node node_modules/vscode/bin/test",</span></span>
 
 11
 
@@ -512,7 +502,7 @@ Copied!
 
 12
 
-<span data-key="5ecba675a0a14886b4e0cc217cc96f0f"><span data-offset-key="5ecba675a0a14886b4e0cc217cc96f0f:0"> "test": "npm run test-compile && node node\_modules/vscode/bin/test"</span></span>
+<span data-key="5ecba675a0a14886b4e0cc217cc96f0f"><span data-offset-key="5ecba675a0a14886b4e0cc217cc96f0f:0"> "test": "npm run test-compile && node node_modules/vscode/bin/test"</span></span>
 
 13
 
@@ -630,7 +620,7 @@ Copied!
 
 <span data-key="e0afe1c365804a30bc826bd1fcf4b13a"><span data-offset-key="e0afe1c365804a30bc826bd1fcf4b13a:0"> </span></span><a href="https://github.com/johnpapa" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="938ab2f585624ed0be08cb8d71d82db8" data-rnw-int-class="nearest_260-10213_262-10214-240__"><span data-key="c113025c93ba4d75a48390444b8f0e85"><span data-offset-key="c113025c93ba4d75a48390444b8f0e85:0">johnpapa </span></span></span></a><span data-key="2a8701bf88584ed69d6e2ecb2a0f0e68"><span data-offset-key="2a8701bf88584ed69d6e2ecb2a0f0e68:0">/ </span></span><a href="https://github.com/johnpapa/vscode-peacock" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1b653ee440044d46abebe1c115d1a6c3" data-rnw-int-class="nearest_260-10213_262-10214-240__"><span data-key="3ca891116dc940cba4bcbc9f13b8b856"><span data-offset-key="3ca891116dc940cba4bcbc9f13b8b856:0">vscode-peacock</span></span></span></a><span data-key="20c02d532fcc4505b10ce01f5f3171c4"><span data-offset-key="20c02d532fcc4505b10ce01f5f3171c4:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="9e5b3d148c2b46e2971b96f9dc0fe88c"><span data-offset-key="9e5b3d148c2b46e2971b96f9dc0fe88c:0">Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.</span></span>
 
@@ -700,7 +690,7 @@ Copied!
     <span data-key="bec961e7f5c742bb8af97ac959a2f325"><span data-offset-key="bec961e7f5c742bb8af97ac959a2f325:0">Type </span>`Peacock`</span>
 
 4.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">4.</span>
-    <span data-key="f86b42d1995744ff92c985953a45d63c"><span data-offset-key="f86b42d1995744ff92c985953a45d63c:0">Choose </span>`Peacock: Change to a favorite                                                 color`</span>
+    <span data-key="f86b42d1995744ff92c985953a45d63c"><span data-offset-key="f86b42d1995744ff92c985953a45d63c:0">Choose </span>`Peacock: Change to a favorite color`</span>
 
 5.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">5.</span>
     <span data-key="cfaeda2772c747a6b8d4f8aa7abe70c5"><span data-offset-key="cfaeda2772c747a6b8d4f8aa7abe70c5:0">Choose one of the pre-defined colors and see how it changes…</span></span>
@@ -713,7 +703,7 @@ Copied!
 
 <span data-key="d0a80f72160743c5b7d1b3cee3741b7e"><span data-offset-key="d0a80f72160743c5b7d1b3cee3741b7e:0">Both of these extensions have a considerable amount of logic in them and do some pretty impressive and useful things.</span></span>
 
-### 
+###
 
 <span data-key="406872508238464a83f875deb244b57d"><span data-offset-key="406872508238464a83f875deb244b57d:0">Azure Account</span></span>
 
@@ -721,51 +711,33 @@ Copied!
 
 <span data-key="b3fa0a35d6504d4a9bb32535f378ab3d"><span data-offset-key="b3fa0a35d6504d4a9bb32535f378ab3d:0">The warm activation is a term for how long it takes the extension to activate, when that extension has already been installed previously (not the first time). This was cut in half for this extension. Not bad at all!</span></span>
 
--   
+- <span data-key="51e6c38f810b406d89a29e74cea4f6db"><span data-offset-key="51e6c38f810b406d89a29e74cea4f6db:0">Download size (the .vsix): 6.2M to 840K.</span></span>
 
-    <span data-key="51e6c38f810b406d89a29e74cea4f6db"><span data-offset-key="51e6c38f810b406d89a29e74cea4f6db:0">Download size (the .vsix): 6.2M to 840K.</span></span>
+- <span data-key="84b5fc057f3b48c58ab953c4d1a1221f"><span data-offset-key="84b5fc057f3b48c58ab953c4d1a1221f:0">Packaged files: 4300 to 11</span></span>
 
--   
+- <span data-key="209ebd8f256045ef8b7f7f8f85a18c66"><span data-offset-key="209ebd8f256045ef8b7f7f8f85a18c66:0">Warm activation time: 676ms to 338ms</span></span>
 
-    <span data-key="84b5fc057f3b48c58ab953c4d1a1221f"><span data-offset-key="84b5fc057f3b48c58ab953c4d1a1221f:0">Packaged files: 4300 to 11</span></span>
-
--   
-
-    <span data-key="209ebd8f256045ef8b7f7f8f85a18c66"><span data-offset-key="209ebd8f256045ef8b7f7f8f85a18c66:0">Warm activation time: 676ms to 338ms</span></span>
-
-### 
+###
 
 <span data-key="a2afc12bc7a3483abbe51dd99448801b"><span data-offset-key="a2afc12bc7a3483abbe51dd99448801b:0">Docker</span></span>
 
 <span data-key="a9088b1c06a942e1845df16343de9664"><span data-offset-key="a9088b1c06a942e1845df16343de9664:0">The </span></span><a href="https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker&amp;wt.mc_id=devto-blog-jopapa" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f7cd1ad3abe040ca9283fb19f0fd40fd" data-rnw-int-class="nearest_260-10213_262-10214-240__"><span data-key="70b6cf0dafc44c4d9b1029a55b0d147c"><span data-offset-key="70b6cf0dafc44c4d9b1029a55b0d147c:0">Docker extension</span></span></span></a><span data-key="4f2a44146a534137b54e536b53823db7"><span data-offset-key="4f2a44146a534137b54e536b53823db7:0"> had a noticeable warm activation improvements to under 2 seconds. But the key aspect is the cold activation time. Cold activation is how long it might take the extension to activate when it was just installed.</span></span>
 
--   
+- <span data-key="bdd9544d66784cd2903aaf5c88439c61"><span data-offset-key="bdd9544d66784cd2903aaf5c88439c61:0">Warm activation time: 3.5s to &lt;2s</span></span>
 
-    <span data-key="bdd9544d66784cd2903aaf5c88439c61"><span data-offset-key="bdd9544d66784cd2903aaf5c88439c61:0">Warm activation time: 3.5s to &lt;2s</span></span>
-
--   
-
-    <span data-key="d77144e8acc340a3aad1b532c20b432b"><span data-offset-key="d77144e8acc340a3aad1b532c20b432b:0">Cold activation time (after 1st install): 20s to 2s</span></span>
+- <span data-key="d77144e8acc340a3aad1b532c20b432b"><span data-offset-key="d77144e8acc340a3aad1b532c20b432b:0">Cold activation time (after 1st install): 20s to 2s</span></span>
 
 <span data-key="0b3a9f41cbd34c3287058d7703d542d0"><span data-offset-key="0b3a9f41cbd34c3287058d7703d542d0:0">Tips</span></span>
 
 <span data-key="1a875f8618aa42889571e1316963c250"><span data-offset-key="1a875f8618aa42889571e1316963c250:0">Several things are affected by using webpack to bundle an extension. This is why it's super important to test all of these out.</span></span>
 
--   
+- <span data-key="a54ccd5677bb4505aeb794c53d85194c"><span data-offset-key="a54ccd5677bb4505aeb794c53d85194c:0">Run the extension locally in your debugger (and test you can hit a breakpoint)</span></span>
 
-    <span data-key="a54ccd5677bb4505aeb794c53d85194c"><span data-offset-key="a54ccd5677bb4505aeb794c53d85194c:0">Run the extension locally in your debugger (and test you can hit a breakpoint)</span></span>
+- <span data-key="ea7b783d248a4f35971768e1be230793"><span data-offset-key="ea7b783d248a4f35971768e1be230793:0">Package the extension and load it (load from VSIX) from the menu</span></span>
 
--   
+- <span data-key="a6e5347a6aad4bb6b754dcd51897b14e"><span data-offset-key="a6e5347a6aad4bb6b754dcd51897b14e:0">Run your tests with your debugger (and test you can hit a breakpoint)</span></span>
 
-    <span data-key="ea7b783d248a4f35971768e1be230793"><span data-offset-key="ea7b783d248a4f35971768e1be230793:0">Package the extension and load it (load from VSIX) from the menu</span></span>
-
--   
-
-    <span data-key="a6e5347a6aad4bb6b754dcd51897b14e"><span data-offset-key="a6e5347a6aad4bb6b754dcd51897b14e:0">Run your tests with your debugger (and test you can hit a breakpoint)</span></span>
-
--   
-
-    <span data-key="be9e79c53cb247c48309558555749e83"><span data-offset-key="be9e79c53cb247c48309558555749e83:0">Run your test script from </span>`npm test`</span>
+- <span data-key="be9e79c53cb247c48309558555749e83"><span data-offset-key="be9e79c53cb247c48309558555749e83:0">Run your test script from </span>`npm test`</span>
 
 <span data-key="f4281bf57bfc47108207c81b3dc3848d"><span data-offset-key="f4281bf57bfc47108207c81b3dc3848d:0">When you are done, you can check the activation time again.</span></span>
 
@@ -787,15 +759,15 @@ Copied!
 
 <span data-key="5baa5c5e5c024d88bfe785dd48fe515b"><span data-offset-key="5baa5c5e5c024d88bfe785dd48fe515b:0">Finally, I came across </span></span><a href="https://stackoverflow.com/questions/54798028/how-do-i-figure-out-which-extension-or-service-is-making-a-vs-code-helper-proces" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="941dc34861b842fba080758471ea51cb" data-rnw-int-class="nearest_260-10213_262-10214-240__"><span data-key="d5efda143a5e4ef8aee56c68df73f2f8"><span data-offset-key="d5efda143a5e4ef8aee56c68df73f2f8:0">an unanswered StackOverflow question</span></span></span></a><span data-key="77d570095ca34877adf2b0a0cf160669"><span data-offset-key="77d570095ca34877adf2b0a0cf160669:0"> where the comments answered what I needed.</span></span>
 
-<span data-key="726acddad4d24b748f18e206b370e8f0">**If you are having performance issues with Visual Studio Code, open** **`Developer: Open Process                                           Explorer`.**</span>
+<span data-key="726acddad4d24b748f18e206b370e8f0">**If you are having performance issues with Visual Studio Code, open** **`Developer: Open Process Explorer`.**</span>
 
 <span data-key="337525de2969492b8d476648676efe8c"><span data-offset-key="337525de2969492b8d476648676efe8c:0">I saw that something called </span>`electron_node tsserver.js`<span data-offset-key="337525de2969492b8d476648676efe8c:2"> was taking up over 100% of my CPU. What was this? I didn't use any TypeScript in my project.</span></span>
 
 <span data-key="cbe05d78241f462f89109fe49ab207e2"><span data-offset-key="cbe05d78241f462f89109fe49ab207e2:0">Further looking around led me to the fact that </span>**Visual Studio Code has extensions built-in that you never installed.**<span data-offset-key="cbe05d78241f462f89109fe49ab207e2:2"> I did not know this! You can find these by searching </span>`@builtin`<span data-offset-key="cbe05d78241f462f89109fe49ab207e2:4"> in your extensions.</span></span>
 
-<span data-key="7347df95d0e242648ab41d681fb15c51"><span data-offset-key="7347df95d0e242648ab41d681fb15c51:0">Specifically, there is an extension called </span>`TypeScript and JavaScript Language                                         Features`<span data-offset-key="7347df95d0e242648ab41d681fb15c51:2"> which includes a lot of functionality like closing tags. However, it automatically runs TypeScript type-checking even if you don't have a TypeScript project. (This begs the question, why is Visual Studio Code so deeply integrated with TypeScript that it automatically assumes you're using it? Microsoft is selling us its entire ecoystem.)</span></span>
+<span data-key="7347df95d0e242648ab41d681fb15c51"><span data-offset-key="7347df95d0e242648ab41d681fb15c51:0">Specifically, there is an extension called </span>`TypeScript and JavaScript Language Features`<span data-offset-key="7347df95d0e242648ab41d681fb15c51:2"> which includes a lot of functionality like closing tags. However, it automatically runs TypeScript type-checking even if you don't have a TypeScript project. (This begs the question, why is Visual Studio Code so deeply integrated with TypeScript that it automatically assumes you're using it? Microsoft is selling us its entire ecoystem.)</span></span>
 
-<span data-key="3cbb8f5e227f45ae892c681d446be983"><span data-offset-key="3cbb8f5e227f45ae892c681d446be983:0">Once I disabled the </span>`TypeScript: Disable Automatic Type                                         Acquisition`<span data-offset-key="3cbb8f5e227f45ae892c681d446be983:2"> feature, Visual Studio Code was instantly faster than I've ever seen it before.</span></span>
+<span data-key="3cbb8f5e227f45ae892c681d446be983"><span data-offset-key="3cbb8f5e227f45ae892c681d446be983:0">Once I disabled the </span>`TypeScript: Disable Automatic Type Acquisition`<span data-offset-key="3cbb8f5e227f45ae892c681d446be983:2"> feature, Visual Studio Code was instantly faster than I've ever seen it before.</span></span>
 
 <span data-key="5198d171a4a24103b33e9a8e5955921f">**TL;DR: To make Visual Studio Code extremely fast if you don't use TypeScript, add this line to your settings.json file:**<span data-offset-key="5198d171a4a24103b33e9a8e5955921f:1">\\</span></span>
 
@@ -815,35 +787,21 @@ Copied!
 
 <span data-key="e0b92ed30a3c4bcdbbf9042e617c50b1"><span data-offset-key="e0b92ed30a3c4bcdbbf9042e617c50b1:0">Visual Studio Code was released on November 18, 2015. Fast-forward five years, and it has become one of the most successful editors around. It is released under the MIT license, which makes it free to use. Its keys to success are:</span></span>
 
--   
+- <span data-key="17fe873650f0414db881228af888689b"><span data-offset-key="17fe873650f0414db881228af888689b:0">Versatility</span></span>
 
-    <span data-key="17fe873650f0414db881228af888689b"><span data-offset-key="17fe873650f0414db881228af888689b:0">Versatility</span></span>
+- <span data-key="a014ce2a6af64301b0203bb489c82424"><span data-offset-key="a014ce2a6af64301b0203bb489c82424:0">A large number of plugins</span></span>
 
--   
-
-    <span data-key="a014ce2a6af64301b0203bb489c82424"><span data-offset-key="a014ce2a6af64301b0203bb489c82424:0">A large number of plugins</span></span>
-
--   
-
-    <span data-key="65584467ecbc4350b203cf8466aeb9e2"><span data-offset-key="65584467ecbc4350b203cf8466aeb9e2:0">Availability on multiple platforms</span></span>
+- <span data-key="65584467ecbc4350b203cf8466aeb9e2"><span data-offset-key="65584467ecbc4350b203cf8466aeb9e2:0">Availability on multiple platforms</span></span>
 
 <span data-key="699cd7c159fd4f49ab2e1f2a15419d81"><span data-offset-key="699cd7c159fd4f49ab2e1f2a15419d81:0">Currently, VS Code is available natively on the following platforms:</span></span>
 
--   
+- <span data-key="d399853b4fd64f0ea29a0e6efbb25193"><span data-offset-key="d399853b4fd64f0ea29a0e6efbb25193:0">OS X Yosemite (10.10+)</span></span>
 
-    <span data-key="d399853b4fd64f0ea29a0e6efbb25193"><span data-offset-key="d399853b4fd64f0ea29a0e6efbb25193:0">OS X Yosemite (10.10+)</span></span>
+- <span data-key="0ed86c32d8404248bfb07c9c0b1b158b"><span data-offset-key="0ed86c32d8404248bfb07c9c0b1b158b:0">Windows 7 (with .NET Framework 4.5.2), 8.0, 8.1 and 10 (32-bit and 64-bit)</span></span>
 
--   
+- <span data-key="d93d3d990570437d8d5eaa8ec2dd3875"><span data-offset-key="d93d3d990570437d8d5eaa8ec2dd3875:0">Linux (Debian): Ubuntu Desktop 16.04, Debian 9</span></span>
 
-    <span data-key="0ed86c32d8404248bfb07c9c0b1b158b"><span data-offset-key="0ed86c32d8404248bfb07c9c0b1b158b:0">Windows 7 (with .NET Framework 4.5.2), 8.0, 8.1 and 10 (32-bit and 64-bit)</span></span>
-
--   
-
-    <span data-key="d93d3d990570437d8d5eaa8ec2dd3875"><span data-offset-key="d93d3d990570437d8d5eaa8ec2dd3875:0">Linux (Debian): Ubuntu Desktop 16.04, Debian 9</span></span>
-
--   
-
-    <span data-key="afa2e782edf148c19a98ed28145c99f0"><span data-offset-key="afa2e782edf148c19a98ed28145c99f0:0">Linux (Red Hat): Red Hat Enterprise Linux 7, CentOS 8, Fedora 24</span></span>
+- <span data-key="afa2e782edf148c19a98ed28145c99f0"><span data-offset-key="afa2e782edf148c19a98ed28145c99f0:0">Linux (Red Hat): Red Hat Enterprise Linux 7, CentOS 8, Fedora 24</span></span>
 
 <span data-key="367da8a20e5c436dbb8aed1d748f1804"><span data-offset-key="367da8a20e5c436dbb8aed1d748f1804:0">It can also run in any modern browser with limited features.</span></span>
 
@@ -861,13 +819,9 @@ Copied!
 
 <span data-key="6dd2b7263ac44f59bd88d81eca0bbdf4"><span data-offset-key="6dd2b7263ac44f59bd88d81eca0bbdf4:0">Processor and memory recommendations:</span></span>
 
--   
+- <span data-key="0d058ad706f740eba6ac25b6bf32748e"><span data-offset-key="0d058ad706f740eba6ac25b6bf32748e:0">1.6 GHz or faster processor</span></span>
 
-    <span data-key="0d058ad706f740eba6ac25b6bf32748e"><span data-offset-key="0d058ad706f740eba6ac25b6bf32748e:0">1.6 GHz or faster processor</span></span>
-
--   
-
-    <span data-key="3337305eff4e48b087ca9975ea420647"><span data-offset-key="3337305eff4e48b087ca9975ea420647:0">1 GB of RAM</span></span>
+- <span data-key="3337305eff4e48b087ca9975ea420647"><span data-offset-key="3337305eff4e48b087ca9975ea420647:0">1 GB of RAM</span></span>
 
 <span data-key="1a92381c512b409aa2904550e6b7b6dd"><span data-offset-key="1a92381c512b409aa2904550e6b7b6dd:0">Check out the </span></span><a href="https://code.visualstudio.com/docs/supporting/requirements#_hardware" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ef6a475533dd4fb0a7b1167ed117c61f" data-rnw-int-class="nearest_260-10213_262-10214-240__"><span data-key="528b392df256492796f7cc3a40e38740"><span data-offset-key="528b392df256492796f7cc3a40e38740:0">more detailed list</span></span></span></a><span data-key="141a009bb8174994b2c094c6af712f53"><span data-offset-key="141a009bb8174994b2c094c6af712f53:0">.</span></span>
 
@@ -875,29 +829,17 @@ Copied!
 
 <span data-key="7d554699adfd48d483782de2171b1097"><span data-offset-key="7d554699adfd48d483782de2171b1097:0">VS Code comes packed with features. However, you might not be interested in some of them. You can therefore disable those to improve the editor's performance.</span></span>
 
--   
+- <span data-key="e194b8602c8f4eed87c4ddab3f5f4a40">`File > Preferences > Settings > Files:Exclude`<span data-offset-key="e194b8602c8f4eed87c4ddab3f5f4a40:1">: Add any pattern of files that you don’t want VS Code to use in your project.</span></span>
 
-    <span data-key="e194b8602c8f4eed87c4ddab3f5f4a40">`File > Preferences >                                                 Settings >                                                 Files:Exclude`<span data-offset-key="e194b8602c8f4eed87c4ddab3f5f4a40:1">: Add any pattern of files that you don’t want VS Code to use in your project.</span></span>
+- <span data-key="784863e56b3249d193465656b3efe89a">`File > Preferences > Text Editor > Minimap > Enabled`<span data-offset-key="784863e56b3249d193465656b3efe89a:1">: Checkbox to disable/enable the minimap.</span></span>
 
--   
+- <span data-key="3a6319db8e1541f09cb00ea685ff8e24">`File > Preferences > Text Editor > Suggestions`<span data-offset-key="3a6319db8e1541f09cb00ea685ff8e24:1">: Here, you can fine-tune anything related to suggestions.</span></span>
 
-    <span data-key="784863e56b3249d193465656b3efe89a">`File > Preferences > Text                                                 Editor > Minimap >                                                 Enabled`<span data-offset-key="784863e56b3249d193465656b3efe89a:1">: Checkbox to disable/enable the minimap.</span></span>
+- <span data-key="d2d9199ceca641fb955136aaa434f4cf">`File > Preferences > Text Editor > From on save / Format on paste`<span data-offset-key="d2d9199ceca641fb955136aaa434f4cf:1">: You can disable formatting on saving and defer that to pre-commit, for example.</span></span>
 
--   
+- <span data-key="165651c4fd444b8ca3eb996a6c5aea3b">`File > Preferences > Application > Telemetry`<span data-offset-key="165651c4fd444b8ca3eb996a6c5aea3b:1">: Telemetry might impact performance.</span></span>
 
-    <span data-key="3a6319db8e1541f09cb00ea685ff8e24">`File > Preferences > Text                                                 Editor > Suggestions`<span data-offset-key="3a6319db8e1541f09cb00ea685ff8e24:1">: Here, you can fine-tune anything related to suggestions.</span></span>
-
--   
-
-    <span data-key="d2d9199ceca641fb955136aaa434f4cf">`File > Preferences > Text                                                 Editor > From on save /                                                 Format on paste`<span data-offset-key="d2d9199ceca641fb955136aaa434f4cf:1">: You can disable formatting on saving and defer that to pre-commit, for example.</span></span>
-
--   
-
-    <span data-key="165651c4fd444b8ca3eb996a6c5aea3b">`File > Preferences >                                                 Application > Telemetry`<span data-offset-key="165651c4fd444b8ca3eb996a6c5aea3b:1">: Telemetry might impact performance.</span></span>
-
--   
-
-    <span data-key="017e2126624044fd9ad460657aefa3c6">`File > Preferences > Text                                                 Editor > Code lens`<span data-offset-key="017e2126624044fd9ad460657aefa3c6:1">: You can disable/enable the Code Lens feature.</span></span>
+- <span data-key="017e2126624044fd9ad460657aefa3c6">`File > Preferences > Text Editor > Code lens`<span data-offset-key="017e2126624044fd9ad460657aefa3c6:1">: You can disable/enable the Code Lens feature.</span></span>
 
 <span data-key="03a025d39c5f4a3c89f3805b765ad6b6"><span data-offset-key="03a025d39c5f4a3c89f3805b765ad6b6:0">2. Be an Extension Minimalist</span></span>
 
@@ -905,25 +847,15 @@ Copied!
 
 <span data-key="9f84689adeff496bbed1dcd4d6ecc1dd"><span data-offset-key="9f84689adeff496bbed1dcd4d6ecc1dd:0">Before adding any extension, ask yourself:</span></span>
 
--   
+- <span data-key="5113559348ea4d9180462d9ff7ba692f"><span data-offset-key="5113559348ea4d9180462d9ff7ba692f:0">Isn’t that already built into VS Code?</span></span>
 
-    <span data-key="5113559348ea4d9180462d9ff7ba692f"><span data-offset-key="5113559348ea4d9180462d9ff7ba692f:0">Isn’t that already built into VS Code?</span></span>
+- <span data-key="f6c844d72a264f68978c79a85134bcbc"><span data-offset-key="f6c844d72a264f68978c79a85134bcbc:0">Is it more than a one-off thing?</span></span>
 
--   
+- <span data-key="538e6cd015d243ec92ede470b2b4e906"><span data-offset-key="538e6cd015d243ec92ede470b2b4e906:0">Does it really have an impact on your daily work?</span></span>
 
-    <span data-key="f6c844d72a264f68978c79a85134bcbc"><span data-offset-key="f6c844d72a264f68978c79a85134bcbc:0">Is it more than a one-off thing?</span></span>
+- <span data-key="3a42d885409648f49ffa80eadc40e7a4"><span data-offset-key="3a42d885409648f49ffa80eadc40e7a4:0">Is this the best tool for your use case?</span></span>
 
--   
-
-    <span data-key="538e6cd015d243ec92ede470b2b4e906"><span data-offset-key="538e6cd015d243ec92ede470b2b4e906:0">Does it really have an impact on your daily work?</span></span>
-
--   
-
-    <span data-key="3a42d885409648f49ffa80eadc40e7a4"><span data-offset-key="3a42d885409648f49ffa80eadc40e7a4:0">Is this the best tool for your use case?</span></span>
-
--   
-
-    <span data-key="5620f271351147e8a53f0e12c1936ab7"><span data-offset-key="5620f271351147e8a53f0e12c1936ab7:0">Does it have a good rating?</span></span>
+- <span data-key="5620f271351147e8a53f0e12c1936ab7"><span data-offset-key="5620f271351147e8a53f0e12c1936ab7:0">Does it have a good rating?</span></span>
 
 <span data-key="f4803df796ef40a7b0c033664fb42ac6"><span data-offset-key="f4803df796ef40a7b0c033664fb42ac6:0">If the plugin does check all the boxes, then it might be a good fit for you. You can do that process with your already installed extensions too.</span></span>
 
@@ -943,7 +875,7 @@ Copied!
 
 <span data-key="9309d8bcd2ff4ba9a81161b011dbcaa7"><span data-offset-key="9309d8bcd2ff4ba9a81161b011dbcaa7:0">Once you have the bare minimum of plugins needed for your coding, you can check their performance. VS Code comes with some Developer options that you can take advantage of.</span></span>
 
-<span data-key="44b476cddcae47768f87386cf7a4e7b4"><span data-offset-key="44b476cddcae47768f87386cf7a4e7b4:0">You can easily monitor the startup time of all those plugins by executing </span>`cmd + p > Developer: Show Running                                         Extensions`<span data-offset-key="44b476cddcae47768f87386cf7a4e7b4:2">.Example of running extensions command</span></span>
+<span data-key="44b476cddcae47768f87386cf7a4e7b4"><span data-offset-key="44b476cddcae47768f87386cf7a4e7b4:0">You can easily monitor the startup time of all those plugins by executing </span>`cmd + p > Developer: Show Running Extensions`<span data-offset-key="44b476cddcae47768f87386cf7a4e7b4:2">.Example of running extensions command</span></span>
 
 <span data-key="08558f9167e74c84bc02cd6695916f49"><span data-offset-key="08558f9167e74c84bc02cd6695916f49:0">Example of running extensions command</span></span>
 
@@ -959,7 +891,7 @@ Copied!
 
 <span data-key="ac8e8416952242e493475299c1e689f6"><span data-offset-key="ac8e8416952242e493475299c1e689f6:0">Profiling an extension</span></span>
 
-<span data-key="0722f72e01ed45109807f73175aa85c3"><span data-offset-key="0722f72e01ed45109807f73175aa85c3:0">If you want to get a clear picture of all that’s happening on the VS Code launch, you might want to check the </span>`cmd + p > Developer Startup                                         Performance`<span data-offset-key="0722f72e01ed45109807f73175aa85c3:2">.</span></span><span data-slate-void="true" data-key="983a87d4fc794305b4adf4f8ce0d2db5"></span>
+<span data-key="0722f72e01ed45109807f73175aa85c3"><span data-offset-key="0722f72e01ed45109807f73175aa85c3:0">If you want to get a clear picture of all that’s happening on the VS Code launch, you might want to check the </span>`cmd + p > Developer Startup Performance`<span data-offset-key="0722f72e01ed45109807f73175aa85c3:2">.</span></span><span data-slate-void="true" data-key="983a87d4fc794305b4adf4f8ce0d2db5"></span>
 
 <span data-key="23207e82277440c39cace70211c3bde8"><span data-offset-key="23207e82277440c39cace70211c3bde8:0">Example of startup performance command</span></span>
 
@@ -967,21 +899,13 @@ Copied!
 
 <span data-key="7485a3807d4b471aa138a132cdf5a0a6"><span data-offset-key="7485a3807d4b471aa138a132cdf5a0a6:0">You will get the following information:</span></span>
 
--   
+- <span data-key="468fe95843984b00a8d6f58057d7f0e8"><span data-offset-key="468fe95843984b00a8d6f58057d7f0e8:0">OS details</span></span>
 
-    <span data-key="468fe95843984b00a8d6f58057d7f0e8"><span data-offset-key="468fe95843984b00a8d6f58057d7f0e8:0">OS details</span></span>
+- <span data-key="195b76e98ad64ef1a8e80241b788c0b8"><span data-offset-key="195b76e98ad64ef1a8e80241b788c0b8:0">Performance metrics</span></span>
 
--   
+- <span data-key="38563e1065274b4faea0961432093fb7"><span data-offset-key="38563e1065274b4faea0961432093fb7:0">Extension Activation details</span></span>
 
-    <span data-key="195b76e98ad64ef1a8e80241b788c0b8"><span data-offset-key="195b76e98ad64ef1a8e80241b788c0b8:0">Performance metrics</span></span>
-
--   
-
-    <span data-key="38563e1065274b4faea0961432093fb7"><span data-offset-key="38563e1065274b4faea0961432093fb7:0">Extension Activation details</span></span>
-
--   
-
-    <span data-key="1fcbef54c6ea40f78fe78c9dc206b859"><span data-offset-key="1fcbef54c6ea40f78fe78c9dc206b859:0">Cache location</span></span>
+- <span data-key="1fcbef54c6ea40f78fe78c9dc206b859"><span data-offset-key="1fcbef54c6ea40f78fe78c9dc206b859:0">Cache location</span></span>
 
 <span data-key="72115a7e8ab6436a9c12ef19c2d0ba15"><span data-offset-key="72115a7e8ab6436a9c12ef19c2d0ba15:0"><span data-slate-zero-width="z">​</span></span></span><span data-slate-void="true" data-key="08e92b64af1c43cfa5040b7db217fd60"></span>
 
@@ -995,7 +919,7 @@ Copied!
 
 <span data-key="41cbec5694624b4ca4b4914f88ea9846"><span data-offset-key="41cbec5694624b4ca4b4914f88ea9846:0">There might be situations where you have to further configure the startup of VS Code. You can do that by using arguments in the command line. It is easy to configure that on the </span>`argv.json`<span data-offset-key="41cbec5694624b4ca4b4914f88ea9846:2"> file.</span></span>
 
-<span data-key="10ab9108653a41a7924d95aa8480c946"><span data-offset-key="10ab9108653a41a7924d95aa8480c946:0">Run </span>`CMD + Shift + P > Configure Runtime                                         Arguments`<span data-offset-key="10ab9108653a41a7924d95aa8480c946:2">.Configuring the runtime arguments</span></span>
+<span data-key="10ab9108653a41a7924d95aa8480c946"><span data-offset-key="10ab9108653a41a7924d95aa8480c946:0">Run </span>`CMD + Shift + P > Configure Runtime Arguments`<span data-offset-key="10ab9108653a41a7924d95aa8480c946:2">.Configuring the runtime arguments</span></span>
 
 <span data-key="6d16d453a23c4548bd4f1ea552962b9d"><span data-offset-key="6d16d453a23c4548bd4f1ea552962b9d:0">Configuring the runtime arguments</span></span>
 

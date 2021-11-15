@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-GoDaddy Hosting Review: Should You Be One Of Their 17+ Million Customers?
-=========================================================================
+# GoDaddy Hosting Review: Should You Be One Of Their 17+ Million Customers?
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -27,31 +20,30 @@ Let’s find out.
 
 <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-9236" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
--   [<span class="toc_number toc_depth_1">2</span> About GoDaddy](#About_GoDaddy)
--   [<span class="toc_number toc_depth_1">3</span> GoDaddy Products](#GoDaddy_Products)
--   [<span class="toc_number toc_depth_1">4</span> Hosting Features](#Hosting_Features)
--   [<span class="toc_number toc_depth_1">5</span> Domain Name Registration](#Domain_Name_Registration)
--   [<span class="toc_number toc_depth_1">6</span> Services for Small Businesses](#Services_for_Small_Businesses)
--   [<span class="toc_number toc_depth_1">7</span> Customer Service and Technical Support](#Customer_Service_and_Technical_Support)
--   [<span class="toc_number toc_depth_1">8</span> GoDaddy vs Bluehost](#GoDaddy_vs_Bluehost)
--   [<span class="toc_number toc_depth_1">9</span> Special GoDaddy Discounts](#Special_GoDaddy_Discounts)
--   [<span class="toc_number toc_depth_1">10</span> Summary](#Summary)
--   [<span class="toc_number toc_depth_1">11</span> Your Review of GoDaddy Hosting](#Your_Review_of_GoDaddy_Hosting)
+- [<span class="toc_number toc_depth_1">1</span> Pros and Cons](#Pros_and_Cons)
+- [<span class="toc_number toc_depth_1">2</span> About GoDaddy](#About_GoDaddy)
+- [<span class="toc_number toc_depth_1">3</span> GoDaddy Products](#GoDaddy_Products)
+- [<span class="toc_number toc_depth_1">4</span> Hosting Features](#Hosting_Features)
+- [<span class="toc_number toc_depth_1">5</span> Domain Name Registration](#Domain_Name_Registration)
+- [<span class="toc_number toc_depth_1">6</span> Services for Small Businesses](#Services_for_Small_Businesses)
+- [<span class="toc_number toc_depth_1">7</span> Customer Service and Technical Support](#Customer_Service_and_Technical_Support)
+- [<span class="toc_number toc_depth_1">8</span> GoDaddy vs Bluehost](#GoDaddy_vs_Bluehost)
+- [<span class="toc_number toc_depth_1">9</span> Special GoDaddy Discounts](#Special_GoDaddy_Discounts)
+- [<span class="toc_number toc_depth_1">10</span> Summary](#Summary)
+- [<span class="toc_number toc_depth_1">11</span> Your Review of GoDaddy Hosting](#Your_Review_of_GoDaddy_Hosting)
 
-<span id="Pros_and_Cons">Pros and Cons</span>
----------------------------------------------
+## <span id="Pros_and_Cons">Pros and Cons</span>
 
 **Pros**
 
--   Variety of hosting plans
--   Low prices
--   Marketing services for small business
--   Beginner-friendly
+- Variety of hosting plans
+- Low prices
+- Marketing services for small business
+- Beginner-friendly
 
 **Cons**
 
--   Server response speeds appear to lag behind competitors like [Bluehost](https://html.com/web-hosting/bluehost/) and [SiteGround](https://html.com/web-hosting/siteground/)
+- Server response speeds appear to lag behind competitors like [Bluehost](https://html.com/web-hosting/bluehost/) and [SiteGround](https://html.com/web-hosting/siteground/)
 
 ### What are the Pros?
 
@@ -65,8 +57,7 @@ As you’ll see [later in this review](#performance), in our testing GoDaddy’s
 
 Why does this matter? Having a fast-loading site has been correlated to better SEO, more conversions and increased sales.
 
-<span id="About_GoDaddy">About GoDaddy</span>
----------------------------------------------
+## <span id="About_GoDaddy">About GoDaddy</span>
 
 GoDaddy was founded by Bob Parsons in 1997 as Jomax Technologies. In 1997, the company was rebranded GoDaddy.
 
@@ -80,8 +71,7 @@ Today, GoDaddy is the world’s largest domain name registrar, serves over 18.5 
 
 Over the years, GoDaddy has brought several companies under its brand, including Media Temple, Freedom Voice, ManageWP, and Main Street Hub.
 
-<span id="GoDaddy_Products">GoDaddy Products</span>
----------------------------------------------------
+## <span id="GoDaddy_Products">GoDaddy Products</span>
 
 GoDaddy is known for its web hosting, but it offers a wide variety of services, apps and tools designed to help you get your site online and grow your traffic.
 
@@ -163,8 +153,7 @@ If you’re completely comfortable with managing your own dedicated server, you 
 
 Those who have a VPS plan with [GoDaddy](https://html.com/go/godaddy/) and choose to upgrade to a dedicated server will get free data migration services.
 
-<span id="Hosting_Features">Hosting Features</span>
----------------------------------------------------
+## <span id="Hosting_Features">Hosting Features</span>
 
 When you choose to host a website with GoDaddy, the following are some of the features and functionality you can expect to receive. The specifics will vary based on the plan you choose.
 
@@ -184,9 +173,9 @@ Every site on the internet can become a target, and in some cases, those for sma
 
 GoDaddy offers the following security add-ons you can purchase to protect your website.
 
--   **SSL Certificates**: SSL certificates use advanced encryption to prevent unauthorized parties from gaining access to and reading data that should otherwise be kept private. They’re now considered a must-have for all websites, whether you’re selling anything or not. The highest level shared hosting plan (“Ultimate”) includes a free SSL certificate. For other plans, you’ll need to purchase one. GoDaddy sells a variety of certificates, and the one you choose depends on why you’re building your site.
--   **Premium Website Security**: This product is designed to protect your website from malware, hacking, blacklisting, and more
--   **Malware Removal**: If your site has been compromised, GoDaddy can help you remove the malware, as well as set up ongoing protection so that your threats don’t return
+- **SSL Certificates**: SSL certificates use advanced encryption to prevent unauthorized parties from gaining access to and reading data that should otherwise be kept private. They’re now considered a must-have for all websites, whether you’re selling anything or not. The highest level shared hosting plan (“Ultimate”) includes a free SSL certificate. For other plans, you’ll need to purchase one. GoDaddy sells a variety of certificates, and the one you choose depends on why you’re building your site.
+- **Premium Website Security**: This product is designed to protect your website from malware, hacking, blacklisting, and more
+- **Malware Removal**: If your site has been compromised, GoDaddy can help you remove the malware, as well as set up ongoing protection so that your threats don’t return
 
 ### Uptime and Performance
 
@@ -206,10 +195,9 @@ GoDaddy guarantees a 99.9% uptime, which means that, over the course of a month,
 
 All plans get this guarantee, which makes GoDaddy stand out from its competitors — many don’t offer service level agreements (SLA), especially not at the shared hosting level.
 
-<span id="Domain_Name_Registration">Domain Name Registration</span>
--------------------------------------------------------------------
+## <span id="Domain_Name_Registration">Domain Name Registration</span>
 
-GoDaddy offers [domain name registration](https://html.com/go/godaddy/) services, so you are welcome to purchase a domain name *without* also purchasing a web hosting package.
+GoDaddy offers [domain name registration](https://html.com/go/godaddy/) services, so you are welcome to purchase a domain name _without_ also purchasing a web hosting package.
 
 Purchasing a domain without a hosting plan is ideal if you have an idea of what you want your URL to be, but you’re not quite ready to purchase web hosting.
 
@@ -231,7 +219,7 @@ Then, you upload your images and change your text-based contact. That’s all yo
 
 If you want more control over your website’s appearance, you can use the modular site builder to build your website or store block by block. To make things as simple as possible, you can use what GoCentral calls “sections,” which are blocks that implement a full feature set, such as contact form, photo gallery, or events calendar.
 
-*Video: How does GoCentral built-in SEO work? Take a look.*
+_Video: How does GoCentral built-in SEO work? Take a look._
 
 #### Custom Website Design is Available
 
@@ -245,8 +233,7 @@ Bonus features come with paid plans, and all such plans come with the web hostin
 
 If you’re curious, read our [full review of Wix’s](https://html.com/web-hosting/wix/) hosting services.
 
-<span id="Services_for_Small_Businesses">Services for Small Businesses</span>
------------------------------------------------------------------------------
+## <span id="Services_for_Small_Businesses">Services for Small Businesses</span>
 
 [GoDaddy offers](https://html.com/go/godaddy/) more than just internet-related tools such as web hosting, website builders, and domain names. If you’re a small business, you’ll find the following GoDaddy offerings to be of interest.
 
@@ -258,10 +245,10 @@ Web hosts that provide marketing services can be a boon for overextended busines
 
 So what can you get from GoDaddy?
 
--   SEO Services including content creation and PPC (pay-per-click) advertising.
--   Social media marketing, including brand design and content creation.
--   Monthly meetings with your account manager.
--   Progress tracking.
+- SEO Services including content creation and PPC (pay-per-click) advertising.
+- Social media marketing, including brand design and content creation.
+- Monthly meetings with your account manager.
+- Progress tracking.
 
 ### Email and Office 365
 
@@ -275,8 +262,7 @@ For those who want a bit more than email, GoDaddy offers **Office 365** subscrip
 
 These are cloud-based tools that come with cloud-based storage for all of your files. Depending on the plan you choose, you might also get extra features like HIPAA compliance, DocuSign functionality, and archiving.
 
-<span id="Customer_Service_and_Technical_Support">Customer Service and Technical Support</span>
------------------------------------------------------------------------------------------------
+## <span id="Customer_Service_and_Technical_Support">Customer Service and Technical Support</span>
 
 [GoDaddy](https://html.com/go/godaddy/) offers 24/7 technical support via telephone. You can also get in touch via Live Chat Mondays through Fridays.
 
@@ -308,23 +294,20 @@ Note that, if you purchase a domain name from GoDaddy, you might see it billed t
 
 GoDaddy doesn’t advertise a money-back guarantee, but it appears the company does allow cancellations and, in some cases, refunds. To see if you qualify for a refund of what you paid if you cancel, you will need to begin the process by getting in touch with GoDaddy’s customer service team.
 
-<span id="GoDaddy_vs_Bluehost">GoDaddy vs Bluehost</span>
----------------------------------------------------------
+## <span id="GoDaddy_vs_Bluehost">GoDaddy vs Bluehost</span>
 
 GoDaddy is known for its domain-related services, while [Bluehost](https://html.com/web-hosting/bluehost/) is known for its partnership with WordPress. Both companies offer shared hosting options at comparable prices.
 
--   We would argue that Bluehost does more to appeal to those who are new to web hosting, but both have plenty of beginner-friendly [tutorials](https://html.com/).
--   Both Bluehost and GoDaddy’s shared plans are all-inclusive, but Bluehost’s proprietary control panel has been customized to make sure the user experience is as easy as possible. Bluehost also offers a better money back guarantee/refund policy.
--   Both are “one-stop shops” offering custom web design, SEO, social media, and PPC advertising.
--   Bluehost wins on server response speeds
+- We would argue that Bluehost does more to appeal to those who are new to web hosting, but both have plenty of beginner-friendly [tutorials](https://html.com/).
+- Both Bluehost and GoDaddy’s shared plans are all-inclusive, but Bluehost’s proprietary control panel has been customized to make sure the user experience is as easy as possible. Bluehost also offers a better money back guarantee/refund policy.
+- Both are “one-stop shops” offering custom web design, SEO, social media, and PPC advertising.
+- Bluehost wins on server response speeds
 
-<span id="Special_GoDaddy_Discounts">Special GoDaddy Discounts</span>
----------------------------------------------------------------------
+## <span id="Special_GoDaddy_Discounts">Special GoDaddy Discounts</span>
 
 Ready to get started with GoDaddy? Use our [special link](https://html.com/go/godaddy/) to receive up to 48% off your first purchase of web hosting services with GoDaddy. Visit [GoDaddy](https://html.com/go/godaddy/) now.
 
-<span id="Summary">Summary</span>
----------------------------------
+## <span id="Summary">Summary</span>
 
 [GoDaddy](https://html.com/go/godaddy/) is a popular and well-known provider of web hosting services. In addition to plans ranging from basic shared options to high-end dedicated servers, GoDaddy also sells a variety of apps, tools, and services designed to make it as easy as possible for you to launch your website.
 
@@ -332,16 +315,15 @@ If you’re not completely confident that GoDaddy’s the host provider for you,
 
 So you have nothing to lose. Visit [GoDaddy](https://html.com/go/godaddy/) now.
 
-<span id="Your_Review_of_GoDaddy_Hosting">Your Review of GoDaddy Hosting</span>
--------------------------------------------------------------------------------
+## <span id="Your_Review_of_GoDaddy_Hosting">Your Review of GoDaddy Hosting</span>
 
 Are you a current or past GoDaddy customer? Would you recommend them? Please leave your comments below and let our visitors know what you think of GoDaddy’s speed, features and customer service.
 
 <a href="https://html.com/go/godaddy/" class="button-cta">Visit GoDaddy Now</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing editor: Sherrie Gossett.*</span>
+<span class="small">_Contributing editor: Sherrie Gossett._</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -367,11 +349,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-iPage Review: Our Expert Scrutinizes This Pocket-Friendly Host & Here’s What They Found
-=======================================================================================
+# iPage Review: Our Expert Scrutinizes This Pocket-Friendly Host & Here’s What They Found
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -25,29 +18,28 @@ What’s the quality of their hosting services? Are there any catches to their f
                             https://html.com/wp-content/uploads/screenshot_ipage-2-1024x441.png
                           " /></figure>Contents
 
--   [<span class="toc_number toc_depth_1">1</span> About iPage](#About_iPage)
-    -   [<span class="toc_number toc_depth_2">1.1</span> Who Is iPage Owned By?](#Who_Is_iPage_Owned_By)
--   [<span class="toc_number toc_depth_1">2</span> iPage Hosting](#iPage_Hosting)
-    -   [<span class="toc_number toc_depth_2">2.1</span> Shared Hosting Plans](#Shared_Hosting_Plans)
-    -   [<span class="toc_number toc_depth_2">2.2</span> VPS Hosting Plans](#VPS_Hosting_Plans)
-    -   [<span class="toc_number toc_depth_2">2.3</span> Dedicated Hosting Plans](#Dedicated_Hosting_Plans)
--   [<span class="toc_number toc_depth_1">3</span> Website Builder](#Website_Builder)
-    -   [<span class="toc_number toc_depth_2">3.1</span> E-Commerce: Build an Online Store](#E-Commerce_Build_an_Online_Store)
--   [<span class="toc_number toc_depth_1">4</span> Domain Names](#Domain_Names)
-    -   [<span class="toc_number toc_depth_2">4.1</span> Can I Change My Domain Name?](#Can_I_Change_My_Domain_Name)
--   [<span class="toc_number toc_depth_1">5</span> Customer Support](#Customer_Support)
--   [<span class="toc_number toc_depth_1">6</span> Server Response Times: Improved Speed](#Server_Response_Times_Improved_Speed)
--   [<span class="toc_number toc_depth_1">7</span> iPage Pros and Cons](#iPage_Pros_and_Cons)
-    -   [<span class="toc_number toc_depth_2">7.1</span> Pros](#Pros)
-    -   [<span class="toc_number toc_depth_2">7.2</span> Cons](#Cons)
--   [<span class="toc_number toc_depth_1">8</span> iPage vs HostGator](#iPage_vs_HostGator)
-    -   [<span class="toc_number toc_depth_2">8.1</span> SiteGround, Bluehost and Squarespace](#SiteGround_Bluehost_and_Squarespace)
--   [<span class="toc_number toc_depth_1">9</span> Get iPage Deals](#Get_iPage_Deals)
--   [<span class="toc_number toc_depth_1">10</span> Summary](#Summary)
-    -   [<span class="toc_number toc_depth_2">10.1</span> Your iPage Review](#Your_iPage_Review)
+- [<span class="toc_number toc_depth_1">1</span> About iPage](#About_iPage)
+  - [<span class="toc_number toc_depth_2">1.1</span> Who Is iPage Owned By?](#Who_Is_iPage_Owned_By)
+- [<span class="toc_number toc_depth_1">2</span> iPage Hosting](#iPage_Hosting)
+  - [<span class="toc_number toc_depth_2">2.1</span> Shared Hosting Plans](#Shared_Hosting_Plans)
+  - [<span class="toc_number toc_depth_2">2.2</span> VPS Hosting Plans](#VPS_Hosting_Plans)
+  - [<span class="toc_number toc_depth_2">2.3</span> Dedicated Hosting Plans](#Dedicated_Hosting_Plans)
+- [<span class="toc_number toc_depth_1">3</span> Website Builder](#Website_Builder)
+  - [<span class="toc_number toc_depth_2">3.1</span> E-Commerce: Build an Online Store](#E-Commerce_Build_an_Online_Store)
+- [<span class="toc_number toc_depth_1">4</span> Domain Names](#Domain_Names)
+  - [<span class="toc_number toc_depth_2">4.1</span> Can I Change My Domain Name?](#Can_I_Change_My_Domain_Name)
+- [<span class="toc_number toc_depth_1">5</span> Customer Support](#Customer_Support)
+- [<span class="toc_number toc_depth_1">6</span> Server Response Times: Improved Speed](#Server_Response_Times_Improved_Speed)
+- [<span class="toc_number toc_depth_1">7</span> iPage Pros and Cons](#iPage_Pros_and_Cons)
+  - [<span class="toc_number toc_depth_2">7.1</span> Pros](#Pros)
+  - [<span class="toc_number toc_depth_2">7.2</span> Cons](#Cons)
+- [<span class="toc_number toc_depth_1">8</span> iPage vs HostGator](#iPage_vs_HostGator)
+  - [<span class="toc_number toc_depth_2">8.1</span> SiteGround, Bluehost and Squarespace](#SiteGround_Bluehost_and_Squarespace)
+- [<span class="toc_number toc_depth_1">9</span> Get iPage Deals](#Get_iPage_Deals)
+- [<span class="toc_number toc_depth_1">10</span> Summary](#Summary)
+  - [<span class="toc_number toc_depth_2">10.1</span> Your iPage Review](#Your_iPage_Review)
 
-<span id="About_iPage">About iPage</span>
------------------------------------------
+## <span id="About_iPage">About iPage</span>
 
 iPage was originally founded in 1998 by Thomas Gorny.
 
@@ -59,8 +51,7 @@ Since its founding, iPage has developed a reputation for offering full-featured 
 
 The company has two datacenters that serve over 1 million websites. iPage is based in Burlington, Massachusetts, a suburb of Boston.
 
-<span id="iPage_Hosting">iPage Hosting</span>
----------------------------------------------
+## <span id="iPage_Hosting">iPage Hosting</span>
 
 > For those with decision fatigue, iPage offers a single shared hosting plan for $1.99 per month.
 
@@ -80,18 +71,18 @@ And it is just [$1.99 per month](https://html.com/go/ipage/) with the introducto
 
 The iPage Essential plan comes with:
 
--   **Free** domain for one year
--   **Unlimited** domains and sub-domains
--   **Unlimited disk space** and storage
--   **Unmetered** data transfer/bandwidth
--   **Unmetered** MySQL databases
--   **Unmetered** email addresses and webmail (IMAP and POP3)
--   Free 24/7 US-based customer support via Web/phone/email
--   User-generated backups (via utility)
--   Daily server backups
--   A free template-based website builder (up to six pages)
--   Free shared SSL certificate
--   Web hosting control panel (vDeck).
+- **Free** domain for one year
+- **Unlimited** domains and sub-domains
+- **Unlimited disk space** and storage
+- **Unmetered** data transfer/bandwidth
+- **Unmetered** MySQL databases
+- **Unmetered** email addresses and webmail (IMAP and POP3)
+- Free 24/7 US-based customer support via Web/phone/email
+- User-generated backups (via utility)
+- Daily server backups
+- A free template-based website builder (up to six pages)
+- Free shared SSL certificate
+- Web hosting control panel (vDeck).
 
 The shared hosting tier also includes a complimentary Yellowpages.com listing and an “anytime” money-back guarantee. You also have access to **a la carte add-ons** for **e-commerce, scripting, website management**, as well as **marketing services** (additional fees may apply).
 
@@ -109,11 +100,11 @@ There are two different plans from which you can choose: WP Starter and WP Essen
 
 <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" alt="iPage WordPress plans" class="lazy lazy-hidden wp-image-8754" sizes="(max-width: 495px) 100vw, 495px" /><figcaption>iPage WordPress plans</figcaption></figure>Regardless of which WordPress hosting plan you choose, you will get:
 
--   A free domain name
--   **Unmetered** storage
--   **Unmetered** bandwidth
--   Use of a customized control panel
--   Pre-installed themes and plugins.
+- A free domain name
+- **Unmetered** storage
+- **Unmetered** bandwidth
+- Use of a customized control panel
+- Pre-installed themes and plugins.
 
 If, however, you opt for the more expensive WP Essential option, you’ll also get technical support from WordPress experts, automatic malware removal, and use of the SiteLock professional security toolset.
 
@@ -148,8 +139,7 @@ There are three of them: Startup, Professional, and Enterprise.
 
 iPage’s dedicated hosting plans are covered by the company’s **anytime money-back guarantee.**
 
-<span id="Website_Builder">Website Builder</span>
--------------------------------------------------
+## <span id="Website_Builder">Website Builder</span>
 
 > The basic website builder comes included with the purchase of a web hosting plan.
 
@@ -157,14 +147,14 @@ If you don’t already have a website and you’re in the market for a tool that
 
 The **basic** website builder comes included, free of charge, with the purchase of a web hosting plan. You’ll get:
 
--   Over 100 mobile-friendly templates
--   Drag-and-drop website building tool
--   Ability to create a site featuring up to six pages
--   Pre-built sections and pages
--   SEO tools
--   Stock image library
--   PayPal integration
--   Email functionality.
+- Over 100 mobile-friendly templates
+- Drag-and-drop website building tool
+- Ability to create a site featuring up to six pages
+- Pre-built sections and pages
+- SEO tools
+- Stock image library
+- PayPal integration
+- Email functionality.
 
 <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden wp-image-8763" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>### <span id="E-Commerce_Build_an_Online_Store">E-Commerce: Build an Online Store</span>
 
@@ -172,19 +162,18 @@ For those who want a bit more from their website builder, [iPage](https://html.c
 
 The primary benefits of upgrading include:
 
--   Create an unlimited number of pages
--   Version control
--   Embedding of HD videos
--   Custom favicons
--   Google Analytics integrations
--   E-commerce functionality.
+- Create an unlimited number of pages
+- Version control
+- Embedding of HD videos
+- Custom favicons
+- Google Analytics integrations
+- E-commerce functionality.
 
 The e-commerce functionality includes shopping carts, inventory management, support for multiple payment processors, and coupon code functionality.
 
 iPage’s website builder comes with the hosting services that you need, and your hosting is backed by a 99.9% uptime guarantee.
 
-<span id="Domain_Names">Domain Names</span>
--------------------------------------------
+## <span id="Domain_Names">Domain Names</span>
 
 iPage is a domain name registrar, so you can purchase domain names from the company.
 
@@ -192,8 +181,7 @@ iPage is a domain name registrar, so you can purchase domain names from the comp
 
 If you purchase web hosting services, you can transfer an existing domain that you already own, or you can register a new domain name.
 
-<span id="Customer_Support">Customer Support</span>
----------------------------------------------------
+## <span id="Customer_Support">Customer Support</span>
 
 [iPage](https://html.com/go/ipage/) provides 24/7 live chat support. You can also request assistance via an online form or by phone.
 
@@ -201,29 +189,27 @@ There’s an online knowledgebase with [tutorials](https://html.com/) on things 
 
 Plans come with a 30-day money-back guarantee.
 
-<span id="Server_Response_Times_Improved_Speed">Server Response Times: Improved Speed</span>
---------------------------------------------------------------------------------------------
+## <span id="Server_Response_Times_Improved_Speed">Server Response Times: Improved Speed</span>
 
 Our testing of iPage server response times shows a significant improvement after October 2018. That month showed a sluggish average monthly response time of 2,181 ms (milliseconds).
 
 Compare that to November of 2018 which showed an average 446 ms response time. Uptime was 99.8%.
 
-<figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" alt="Data from November 2018 showing a now-typical average response time of 446 ms." class="lazy lazy-hidden wp-image-8808" sizes="(max-width: 976px) 100vw, 976px" /><figcaption>Data from November 2018 showing a now-typical average response time of 446 ms.</figcaption></figure><span id="iPage_Pros_and_Cons">iPage Pros and Cons</span>
----------------------------------------------------------
+## <figure><img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" alt="Data from November 2018 showing a now-typical average response time of 446 ms." class="lazy lazy-hidden wp-image-8808" sizes="(max-width: 976px) 100vw, 976px" /><figcaption>Data from November 2018 showing a now-typical average response time of 446 ms.</figcaption></figure><span id="iPage_Pros_and_Cons">iPage Pros and Cons</span>
 
 **Pros**
 
--   All-inclusive hosting plans
--   Low prices
--   Green hosting
--   US-based tech support
--   Good documentation
+- All-inclusive hosting plans
+- Low prices
+- Green hosting
+- US-based tech support
+- Good documentation
 
 **Cons**
 
--   No cPanel on shared hosting
--   Linux-only hosting
--   Limited programming languages
+- No cPanel on shared hosting
+- Linux-only hosting
+- Limited programming languages
 
 ### <span id="Pros">Pros</span>
 
@@ -237,14 +223,13 @@ In seeking to create an attractive collage of hosting services at affordable pri
 
 These include, but aren’t limited to:
 
--   **cPanel support:** shared and WordPress hosting plans use the company’s proprietary site-based control panel instead of cPanel (the industry-leading and most commonly-used option).
--   A **stand-alone application installer**: many applications and scripts normally supplied as a part of Fantastico or Softaculous either incur additional fees to install, are replaced by “wizards,” or are missing altogether). This also means that it is slightly more work for you to install add-on applications for use with your website.
--   **Developer tools**: support for applications like **PHP, Perl** and **Ruby on Rails** is limited in the entry-level shared and WordPress hosting plans (however, support for these applications is included with VPS and dedicated hosting).
+- **cPanel support:** shared and WordPress hosting plans use the company’s proprietary site-based control panel instead of cPanel (the industry-leading and most commonly-used option).
+- A **stand-alone application installer**: many applications and scripts normally supplied as a part of Fantastico or Softaculous either incur additional fees to install, are replaced by “wizards,” or are missing altogether). This also means that it is slightly more work for you to install add-on applications for use with your website.
+- **Developer tools**: support for applications like **PHP, Perl** and **Ruby on Rails** is limited in the entry-level shared and WordPress hosting plans (however, support for these applications is included with VPS and dedicated hosting).
 
 Also, because [iPage](https://html.com/go/ipage/) is a **Linux-only** hosting provider, it may not be the right solution for you if your site requires support for Windows applications, or you plan to add or develop applications that require ASP.NET or other Windows-based languages.
 
-<span id="iPage_vs_HostGator">iPage vs HostGator</span>
--------------------------------------------------------
+## <span id="iPage_vs_HostGator">iPage vs HostGator</span>
 
 If [iPage](https://html.com/go/ipage/) isn’t quite the right fit for you, consider its sister company, [HostGator](https://html.com/web-hosting/hostgator/).
 
@@ -278,7 +263,7 @@ $7.99
 
 $6.95
 
-<span class="small">*All prices are based on 3-year contracts.*</span>
+<span class="small">_All prices are based on 3-year contracts._</span>
 
 Both iPage and [HostGator](https://html.com/web-hosting/hostgator/) offer a variety of hosting options, but neither offer a dizzying area of choices the way some of its competitors do.
 
@@ -292,13 +277,11 @@ With that said, HostGator isn’t the only good alternative to iPage. Other opti
 
 [SiteGround](https://html.com/web-hosting/siteground/) is known for offering great customer service, [Bluehost](https://html.com/web-hosting/bluehost/) is known for its partnership with WordPress, and [Squarespace](https://html.com/web-hosting/squarespace/) is known for its best-in-class website building tools and professional-looking templates.
 
-<span id="Get_iPage_Deals">Get iPage Deals</span>
--------------------------------------------------
+## <span id="Get_iPage_Deals">Get iPage Deals</span>
 
 Get a great deal on hosting with iPage using our [special discount link](https://html.com/go/ipage/) to activate this offer. You’ll get up to 75% off as well as a free domain. Visit [iPage](https://html.com/go/ipage/) now.
 
-<span id="Summary">Summary</span>
----------------------------------
+## <span id="Summary">Summary</span>
 
 [iPage](https://html.com/go/ipage/) offers some full-featured packages at budget-friendly prices. One of the trade-offs is that it doesn’t come with cPanel or well-known one-click installers like Softaculous or Fantastico.
 
@@ -310,9 +293,9 @@ Are you a current or past customer of [iPage](https://html.com/go/ipage/)? Would
 
 <a href="https://html.com/go/ipage/" class="button-cta">Visit iPage Today</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing editor: [Frank Moraes](https://html.com/author/frank/).*</span>
+<span class="small">_Contributing editor: [Frank Moraes](https://html.com/author/frank/)._</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -338,11 +321,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

@@ -8,10 +8,9 @@
 
 <a href="javascript:void(0);" class="topnav-icons fa fa-menu w3-hide-large w3-left w3-bar-item w3-button" title="Menu"></a> <a href="https://www.w3schools.com/default.asp" class="topnav-icons fa fa-home w3-left w3-bar-item w3-button" title="Home"></a> <a href="https://www.w3schools.com/html/default.asp" class="w3-bar-item w3-button" title="HTML Tutorial">HTML</a> <a href="https://www.w3schools.com/css/default.asp" class="w3-bar-item w3-button" title="CSS Tutorial">CSS</a> <a href="https://www.w3schools.com/js/default.asp" class="w3-bar-item w3-button" title="JavaScript Tutorial">JAVASCRIPT</a> <a href="https://www.w3schools.com/sql/default.asp" class="w3-bar-item w3-button" title="SQL Tutorial">SQL</a> <a href="https://www.w3schools.com/python/default.asp" class="w3-bar-item w3-button" title="Python Tutorial">PYTHON</a> <a href="https://www.w3schools.com/php/default.asp" class="w3-bar-item w3-button" title="PHP Tutorial">PHP</a> <a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp" class="w3-bar-item w3-button" title="Bootstrap Tutorial">BOOTSTRAP</a> <a href="https://www.w3schools.com/howto/default.asp" class="w3-bar-item w3-button" title="How To">HOW TO</a> <a href="https://www.w3schools.com/w3css/default.asp" class="w3-bar-item w3-button" title="W3.CSS Tutorial">W3.CSS</a> <a href="https://www.w3schools.com/java/default.asp" class="w3-bar-item w3-button" title="Java Tutorial">JAVA</a> <a href="https://www.w3schools.com/jquery/default.asp" class="w3-bar-item w3-button" title="jQuery Tutorial">JQUERY</a> <a href="https://www.w3schools.com/cpp/default.asp" class="w3-bar-item w3-button" title="C++ Tutorial">C++</a> <a href="https://www.w3schools.com/cs/index.php" class="w3-bar-item w3-button" title="C# Tutorial">C#</a> <a href="https://www.w3schools.com/r/default.asp" class="w3-bar-item w3-button" title="R Tutorial">R</a> <a href="https://www.w3schools.com/react/default.asp" class="w3-bar-item w3-button" title="React Tutorial">React</a> <a href="https://www.w3schools.com/kotlin/index.php" class="w3-bar-item w3-button" title="Kotlin Tutorial">Kotlin</a> <a href="javascript:void(0);" class="topnav-icons fa w3-right w3-bar-item w3-button" title="Search W3Schools"></a> <a href="javascript:void(0);" class="topnav-icons fa w3-right w3-bar-item w3-button" title="Translate W3Schools"></a> <a href="javascript:void(0);" class="topnav-icons fa w3-right w3-bar-item w3-button" title="Toggle Dark Code"></a>
 
-<span class="w3-button w3-xxxlarge w3-display-topright w3-hover-white sectionxsclosenavspan" onclick="w3_close_nav('tutorials')" style="padding-right:30px;padding-left:30px;">×</span>  
+<span class="w3-button w3-xxxlarge w3-display-topright w3-hover-white sectionxsclosenavspan" onclick="w3_close_nav('tutorials')" style="padding-right:30px;padding-left:30px;">×</span>
 
-**Tutorials**
--------------
+## **Tutorials**
 
 ### HTML and CSS
 
@@ -49,12 +48,9 @@
 
 <a href="https://www.w3schools.com/xml/default.asp" class="w3-bar-item w3-button">Learn XML</a> <a href="https://www.w3schools.com/xml/ajax_intro.asp" class="w3-bar-item w3-button">Learn XML AJAX</a> <a href="https://www.w3schools.com/xml/dom_intro.asp" class="w3-bar-item w3-button">Learn XML DOM</a> <a href="https://www.w3schools.com/xml/xml_dtd_intro.asp" class="w3-bar-item w3-button">Learn XML DTD</a> <a href="https://www.w3schools.com/xml/schema_intro.asp" class="w3-bar-item w3-button">Learn XML Schema</a> <a href="https://www.w3schools.com/xml/xsl_intro.asp" class="w3-bar-item w3-button">Learn XSLT</a> <a href="https://www.w3schools.com/xml/xpath_intro.asp" class="w3-bar-item w3-button">Learn XPath</a> <a href="https://www.w3schools.com/xml/xquery_intro.asp" class="w3-bar-item w3-button">Learn XQuery</a>
 
-  
+<span class="w3-button w3-xxxlarge w3-display-topright w3-hover-white sectionxsclosenavspan" onclick="w3_close_nav('references')" style="padding-right:30px;padding-left:30px;">×</span>
 
-<span class="w3-button w3-xxxlarge w3-display-topright w3-hover-white sectionxsclosenavspan" onclick="w3_close_nav('references')" style="padding-right:30px;padding-left:30px;">×</span>  
-
-**References**
---------------
+## **References**
 
 ### HTML
 
@@ -84,12 +80,9 @@
 
 <a href="https://www.w3schools.com/charsets/default.asp" class="w3-bar-item w3-button">HTML Character Sets</a> <a href="https://www.w3schools.com/charsets/ref_html_ascii.asp" class="w3-bar-item w3-button">HTML ASCII</a> <a href="https://www.w3schools.com/charsets/ref_html_ansi.asp" class="w3-bar-item w3-button">HTML ANSI</a> <a href="https://www.w3schools.com/charsets/ref_html_ansi.asp" class="w3-bar-item w3-button">HTML Windows-1252</a> <a href="https://www.w3schools.com/charsets/ref_html_8859.asp" class="w3-bar-item w3-button">HTML ISO-8859-1</a> <a href="https://www.w3schools.com/charsets/ref_html_symbols.asp" class="w3-bar-item w3-button">HTML Symbols</a> <a href="https://www.w3schools.com/charsets/ref_html_utf8.asp" class="w3-bar-item w3-button">HTML UTF-8</a>
 
-  
+<span class="w3-button w3-xxxlarge w3-display-topright w3-hover-white sectionxsclosenavspan" onclick="w3_close_nav('exercises')" style="padding-right:30px;padding-left:30px;">×</span>
 
-<span class="w3-button w3-xxxlarge w3-display-topright w3-hover-white sectionxsclosenavspan" onclick="w3_close_nav('exercises')" style="padding-right:30px;padding-left:30px;">×</span>  
-
-**Exercises and Quizzes**
--------------------------
+## **Exercises and Quizzes**
 
 ### <a href="https://www.w3schools.com/exercises/index.php" class="ws-btn ws-yellow w3-hover-text-white">Exercises</a>
 
@@ -107,9 +100,7 @@
 
 <a href="https://courses.w3schools.com/browse/certifications/courses/html-certification-exam" class="w3-bar-item w3-button">HTML Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/css-certification-exam" class="w3-bar-item w3-button">CSS Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/javascript-certification-exam" class="w3-bar-item w3-button">JavaScript Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/front-end-certification-exam" class="w3-bar-item w3-button">Front End Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/sql-certification-exam" class="w3-bar-item w3-button">SQL Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/php-certification-exam" class="w3-bar-item w3-button">PHP Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/python-certificaftion-exam" class="w3-bar-item w3-button">Python Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/data-science-certification-exam" class="w3-bar-item w3-button">Data Science Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/bootstrap-3-certification-exam" class="w3-bar-item w3-button">Bootstrap 3 Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/bootstrap-4-certification-exam" class="w3-bar-item w3-button">Bootstrap 4 Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/jquery-certification-exam" class="w3-bar-item w3-button">jQuery Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/java-certification-exam" class="w3-bar-item w3-button">Java Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/c-certification-exam" class="w3-bar-item w3-button">C++ Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/react-certification-exam" class="w3-bar-item w3-button">React Certificate</a> <a href="https://courses.w3schools.com/browse/certifications/courses/xml-certification-exam" class="w3-bar-item w3-button">XML Certificate</a>
 
-  
-
-<a href="javascript:void(0)" class="w3-button w3-xxlarge w3-right">×</a>  
+<a href="javascript:void(0)" class="w3-button w3-xxlarge w3-right">×</a>
 
 <a href="javascript:void(0);" class="w3-button w3-block">Tutorials <em></em></a>
 
@@ -119,8 +110,7 @@
 
 <a href="https://www.w3schools.com/cert/default.asp" class="w3-button w3-block">Paid Courses</a> <a href="https://www.w3schools.com/spaces" class="w3-button w3-block" title="Get Your Own Website With W3shools Spaces">Spaces</a> <a href="https://www.w3schools.com/videos/index.php" class="w3-button w3-block" title="Video Tutorials">Videos</a> <a href="https://shop.w3schools.com/" class="w3-button w3-block">Shop</a>
 
-<span class="left_h2">CSS</span> Tutorial
------------------------------------------
+## <span class="left_h2">CSS</span> Tutorial
 
 [CSS HOME](https://www.w3schools.com/css/default.asp) [CSS Introduction](https://www.w3schools.com/css/css_intro.asp) [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp) [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp) [CSS How To](https://www.w3schools.com/css/css_howto.asp) [CSS Comments](https://www.w3schools.com/css/css_comments.asp) [CSS Colors](https://www.w3schools.com/css/css_colors.asp)
 
@@ -162,10 +152,9 @@
 
 [Navbar](https://www.w3schools.com/css/css_navbar.asp) [Vertical Navbar](https://www.w3schools.com/css/css_navbar_vertical.asp) [Horizontal Navbar](https://www.w3schools.com/css/css_navbar_horizontal.asp)
 
-[CSS Dropdowns](https://www.w3schools.com/css/css_dropdowns.asp) [CSS Image Gallery](https://www.w3schools.com/css/css_image_gallery.asp) [CSS Image Sprites](https://www.w3schools.com/css/css_image_sprites.asp) [CSS Attr Selectors](https://www.w3schools.com/css/css_attribute_selectors.asp) [CSS Forms](https://www.w3schools.com/css/css_form.asp) [CSS Counters](https://www.w3schools.com/css/css_counters.asp) [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp) [CSS Units](https://www.w3schools.com/css/css_units.asp) [CSS Specificity](https://www.w3schools.com/css/css_specificity.asp) [CSS !important](https://www.w3schools.com/css/css_important.asp) [CSS Math Functions](https://www.w3schools.com/css/css_math_functions.asp)  
+[CSS Dropdowns](https://www.w3schools.com/css/css_dropdowns.asp) [CSS Image Gallery](https://www.w3schools.com/css/css_image_gallery.asp) [CSS Image Sprites](https://www.w3schools.com/css/css_image_sprites.asp) [CSS Attr Selectors](https://www.w3schools.com/css/css_attribute_selectors.asp) [CSS Forms](https://www.w3schools.com/css/css_form.asp) [CSS Counters](https://www.w3schools.com/css/css_counters.asp) [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp) [CSS Units](https://www.w3schools.com/css/css_units.asp) [CSS Specificity](https://www.w3schools.com/css/css_specificity.asp) [CSS !important](https://www.w3schools.com/css/css_important.asp) [CSS Math Functions](https://www.w3schools.com/css/css_math_functions.asp)
 
-<span class="left_h2">CSS Advanced</span>
------------------------------------------
+## <span class="left_h2">CSS Advanced</span>
 
 [CSS Rounded Corners](https://www.w3schools.com/css/css3_borders.asp) [CSS Border Images](https://www.w3schools.com/css/css3_border_images.asp) [CSS Backgrounds](https://www.w3schools.com/css/css3_backgrounds.asp) [CSS Colors](https://www.w3schools.com/css/css3_colors.asp) [CSS Color Keywords](https://www.w3schools.com/css/css_colors_keywords.asp) [CSS Gradients](https://www.w3schools.com/css/css3_gradients.asp)
 
@@ -183,36 +172,27 @@
 
 [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) [CSS Flex Container](https://www.w3schools.com/css/css3_flexbox_container.asp) [CSS Flex Items](https://www.w3schools.com/css/css3_flexbox_items.asp) [CSS Flex Responsive](https://www.w3schools.com/css/css3_flexbox_responsive.asp)
 
-  
+## <span class="left_h2">CSS</span> Responsive
 
-<span class="left_h2">CSS</span> Responsive
--------------------------------------------
+[RWD Intro](https://www.w3schools.com/css/css_rwd_intro.asp) [RWD Viewport](https://www.w3schools.com/css/css_rwd_viewport.asp) [RWD Grid View](https://www.w3schools.com/css/css_rwd_grid.asp) [RWD Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) [RWD Images](https://www.w3schools.com/css/css_rwd_images.asp) [RWD Videos](https://www.w3schools.com/css/css_rwd_videos.asp) [RWD Frameworks](https://www.w3schools.com/css/css_rwd_frameworks.asp) [RWD Templates](https://www.w3schools.com/css/css_rwd_templates.asp)
 
-[RWD Intro](https://www.w3schools.com/css/css_rwd_intro.asp) [RWD Viewport](https://www.w3schools.com/css/css_rwd_viewport.asp) [RWD Grid View](https://www.w3schools.com/css/css_rwd_grid.asp) [RWD Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) [RWD Images](https://www.w3schools.com/css/css_rwd_images.asp) [RWD Videos](https://www.w3schools.com/css/css_rwd_videos.asp) [RWD Frameworks](https://www.w3schools.com/css/css_rwd_frameworks.asp) [RWD Templates](https://www.w3schools.com/css/css_rwd_templates.asp)  
+## <span class="left_h2">CSS</span> Grid
 
-<span class="left_h2">CSS</span> Grid
--------------------------------------
+[Grid Intro](https://www.w3schools.com/css/css_grid.asp) [Grid Container](https://www.w3schools.com/css/css_grid_container.asp) [Grid Item](https://www.w3schools.com/css/css_grid_item.asp)
 
-[Grid Intro](https://www.w3schools.com/css/css_grid.asp) [Grid Container](https://www.w3schools.com/css/css_grid_container.asp) [Grid Item](https://www.w3schools.com/css/css_grid_item.asp)  
+## <span class="left_h2">CSS</span> SASS
 
-<span class="left_h2">CSS</span> SASS
--------------------------------------
+[SASS Tutorial](https://www.w3schools.com/sass/default.php)
 
-[SASS Tutorial](https://www.w3schools.com/sass/default.php)  
+## <span class="left_h2">CSS</span> Examples
 
-<span class="left_h2">CSS</span> Examples
------------------------------------------
+[CSS Templates](https://www.w3schools.com/css/css_templates.asp) [CSS Examples](https://www.w3schools.com/css/css_examples.asp) [CSS Quiz](https://www.w3schools.com/css/css_quiz.asp) [CSS Exercises](https://www.w3schools.com/css/css_exercises.asp) [CSS Certificate](https://www.w3schools.com/css/css_exam.asp)
 
-[CSS Templates](https://www.w3schools.com/css/css_templates.asp) [CSS Examples](https://www.w3schools.com/css/css_examples.asp) [CSS Quiz](https://www.w3schools.com/css/css_quiz.asp) [CSS Exercises](https://www.w3schools.com/css/css_exercises.asp) [CSS Certificate](https://www.w3schools.com/css/css_exam.asp)  
+## <span class="left_h2">CSS</span> References
 
-<span class="left_h2">CSS</span> References
--------------------------------------------
+[CSS Reference](https://www.w3schools.com/cssref/default.asp) [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp) [CSS Functions](https://www.w3schools.com/cssref/css_functions.asp) [CSS Reference Aural](https://www.w3schools.com/cssref/css_ref_aural.asp) [CSS Web Safe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp) [CSS Animatable](https://www.w3schools.com/cssref/css_animatable.asp) [CSS Units](https://www.w3schools.com/cssref/css_units.asp) [CSS PX-EM Converter](https://www.w3schools.com/cssref/css_pxtoemconversion.asp) [CSS Colors](https://www.w3schools.com/cssref/css_colors.asp) [CSS Color Values](https://www.w3schools.com/cssref/css_colors_legal.asp) [CSS Default Values](https://www.w3schools.com/cssref/css_default_values.asp) [CSS Browser Support](https://www.w3schools.com/cssref/css3_browsersupport.asp)
 
-[CSS Reference](https://www.w3schools.com/cssref/default.asp) [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp) [CSS Functions](https://www.w3schools.com/cssref/css_functions.asp) [CSS Reference Aural](https://www.w3schools.com/cssref/css_ref_aural.asp) [CSS Web Safe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp) [CSS Animatable](https://www.w3schools.com/cssref/css_animatable.asp) [CSS Units](https://www.w3schools.com/cssref/css_units.asp) [CSS PX-EM Converter](https://www.w3schools.com/cssref/css_pxtoemconversion.asp) [CSS Colors](https://www.w3schools.com/cssref/css_colors.asp) [CSS Color Values](https://www.w3schools.com/cssref/css_colors_legal.asp) [CSS Default Values](https://www.w3schools.com/cssref/css_default_values.asp) [CSS Browser Support](https://www.w3schools.com/cssref/css3_browsersupport.asp)  
-  
-
-CSS <span class="color_h1">Tutorial</span>
-==========================================
+# CSS <span class="color_h1">Tutorial</span>
 
 <a href="https://www.w3schools.com/default.asp" class="w3-left w3-btn">❮ Home</a> <a href="https://www.w3schools.com/css/css_intro.asp" class="w3-right w3-btn">Next ❯</a>
 
@@ -224,10 +204,9 @@ This tutorial will teach you CSS from basic to advanced.
 
 <a href="https://www.w3schools.com/css/css_intro.asp" class="w3-btn w3-margin-bottom">Start learning CSS now »</a>
 
-------------------------------------------------------------------------
+---
 
-Examples in Each Chapter
-------------------------
+## Examples in Each Chapter
 
 This CSS tutorial contains hundreds of CSS examples.
 
@@ -237,13 +216,13 @@ With our online editor, you can edit the CSS, and click on a button to view the 
 
 body {  
   background-color: lightblue;  
-}  
-  
+}
+
 h1 {  
   color: white;  
   text-align: center;  
-}  
-  
+}
+
 p {  
   font-family: verdana;  
   font-size: 20px;  
@@ -253,19 +232,17 @@ p {
 
 **Click on the "Try it Yourself" button to see how it works.**
 
-------------------------------------------------------------------------
+---
 
-CSS Examples
-------------
+## CSS Examples
 
 Learn from over 300 examples! With our editor, you can edit the CSS, and click on a button to view the result.
 
 [Go to CSS Examples!](https://www.w3schools.com/css/css_examples.asp)
 
-------------------------------------------------------------------------
+---
 
-Use the Menu
-------------
+## Use the Menu
 
 We recommend reading this tutorial, in the sequence listed in the menu.
 
@@ -273,10 +250,9 @@ If you have a large screen, the menu will always be present on the left.
 
 If you have a small screen, open the menu by clicking the top menu sign <span class="w3-xlarge">☰</span>.
 
-------------------------------------------------------------------------
+---
 
-CSS Templates
--------------
+## CSS Templates
 
 We have created some responsive W3.CSS templates for you to use.
 
@@ -284,18 +260,15 @@ You are free to modify, save, share, and use them in all your projects.
 
 [Free CSS Templates!](https://www.w3schools.com/css/css_rwd_templates.asp)
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
-CSS Exercises
--------------
+## CSS Exercises
 
-Test Yourself With Exercises
-----------------------------
+## Test Yourself With Exercises
 
-Exercise:
----------
+## Exercise:
 
 Set the color of all &lt;p&gt; elements to red.
 
@@ -305,25 +278,21 @@ Set the color of all &lt;p&gt; elements to red.
     }
     </style>
 
-  
-
 Submit Answer »
 
 [Start the Exercise](https://www.w3schools.com/css/exercise.asp?filename=exercise_selectors1)
 
-------------------------------------------------------------------------
+---
 
-CSS Quiz
---------
+## CSS Quiz
 
 Test your CSS skills with a quiz.
 
 <a href="https://www.w3schools.com/css/css_quiz.asp" class="ws-btn w3-blue w3-round w3-large">CSS Quiz!</a>
 
-------------------------------------------------------------------------
+---
 
-CSS References
---------------
+## CSS References
 
 At W3Schools you will find complete CSS references of all properties and selectors with syntax, examples, browser support, and more.
 
@@ -345,10 +314,7 @@ At W3Schools you will find complete CSS references of all properties and selecto
 
 [CSS Browser Support](https://www.w3schools.com/cssref/css3_browsersupport.asp)
 
-  
-
-Kickstart your career
----------------------
+## Kickstart your career
 
 Get certified by completing <span id="hey">the</span> <span id="coursetopic"></span> course
 
@@ -356,11 +322,7 @@ Get certified by completing <span id="hey">the</span> <span id="coursetopic"></s
 
 w3schools CERTIFIED . 2021
 
-  
-
 <a href="https://www.w3schools.com/default.asp" class="w3-left w3-btn">❮ Home</a> <a href="https://www.w3schools.com/css/css_intro.asp" class="w3-right w3-btn">Next ❯</a>
-
-  
 
 <span class="ribbon-vid ws-yellow">NEW</span>
 
@@ -391,9 +353,9 @@ w3schools CERTIFIED . 2021
 
 <a href="https://www.w3schools.com/codegame/index.html" class="w3-hover-opacity"><img src="https://www.w3schools.com/images/w3lynx_200.png" alt="Code Game" /></a> <a href="https://www.w3schools.com/codegame/index.html" class="w3-btn w3-block ws-black">Play Game</a>
 
-------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+---
 
 <a href="javascript:void(0);" class="w3-button ws-grey w3-block w3-round">Report Error</a>
 
@@ -403,23 +365,19 @@ w3schools CERTIFIED . 2021
 
 <a href="https://shop.w3schools.com/" class="w3-button ws-grey w3-block w3-round">Shop</a>
 
-------------------------------------------------------------------------
+---
 
 <span class="w3-button w3-display-topright w3-large" onclick="this.parentElement.style.display='none'">×</span>
 
-Report Error
-------------
+## Report Error
 
 If you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
 
 help@w3schools.com
 
-  
-
 <span class="w3-button w3-display-topright" onclick="this.parentElement.style.display='none'">×</span>
 
-Thank You For Helping Us!
--------------------------
+## Thank You For Helping Us!
 
 Your message has been sent to W3Schools.
 
@@ -436,7 +394,7 @@ Your message has been sent to W3Schools.
 [PHP Tutorial](https://www.w3schools.com/php/default.asp)  
 [Java Tutorial](https://www.w3schools.com/java/default.asp)  
 [C++ Tutorial](https://www.w3schools.com/cpp/default.asp)  
-[jQuery Tutorial](https://www.w3schools.com/jquery/default.asp)  
+[jQuery Tutorial](https://www.w3schools.com/jquery/default.asp)
 
 ##### Top References
 
@@ -451,7 +409,7 @@ Your message has been sent to W3Schools.
 [HTML Colors](https://www.w3schools.com/colors/colors_names.asp)  
 [Java Reference](https://www.w3schools.com/java/java_ref_keywords.asp)  
 [Angular Reference](https://www.w3schools.com/angular/angular_ref_directives.asp)  
-[jQuery Reference](https://www.w3schools.com/jquery/jquery_ref_overview.asp)  
+[jQuery Reference](https://www.w3schools.com/jquery/jquery_ref_overview.asp)
 
 ##### Top Examples
 
@@ -466,7 +424,7 @@ Your message has been sent to W3Schools.
 [PHP Examples](https://www.w3schools.com/php/php_examples.asp)  
 [Java Examples](https://www.w3schools.com/java/java_examples.asp)  
 [XML Examples](https://www.w3schools.com/xml/xml_examples.asp)  
-[jQuery Examples](https://www.w3schools.com/jquery/jquery_examples.asp)  
+[jQuery Examples](https://www.w3schools.com/jquery/jquery_examples.asp)
 
 ##### Web Courses
 
@@ -484,13 +442,9 @@ Your message has been sent to W3Schools.
 [XML Course](https://courses.w3schools.com/courses/xml)  
 <a href="https://courses.w3schools.com/" class="w3-button w3-margin-top ws-black ws-hover-black w3-round">Get Certified »</a>
 
-------------------------------------------------------------------------
+---
 
-W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using W3Schools, you agree to have read and accepted our [terms of use](https://www.w3schools.com/about/about_copyright.asp), [cookie and privacy policy](https://www.w3schools.com/about/about_privacy.asp).  
-  
+W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using W3Schools, you agree to have read and accepted our [terms of use](https://www.w3schools.com/about/about_copyright.asp), [cookie and privacy policy](https://www.w3schools.com/about/about_privacy.asp).
+
 [Copyright 1999-2021](https://www.w3schools.com/about/about_copyright.asp) by Refsnes Data. All Rights Reserved.  
-[W3Schools is Powered by W3.CSS](http://www.w3schools.com/w3css/default.asp).  
-  
-
-  
-  
+[W3Schools is Powered by W3.CSS](http://www.w3schools.com/w3css/default.asp).

@@ -242,7 +242,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -296,7 +296,7 @@ Netlify CMS
 
 Git Gateway
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -336,7 +336,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -370,39 +370,25 @@ Facebook Graph API
 
 <span data-key="7d0c0ce1bc154377b853c1d4556b7518"><span data-offset-key="7d0c0ce1bc154377b853c1d4556b7518:0">Common Uses</span></span>
 
--   
+- <span data-key="b418c1dcee0d4396b55a0ebf5f9da99e"><span data-offset-key="b418c1dcee0d4396b55a0ebf5f9da99e:0">Test API queries with your Live app's settings, including approved </span></span><a href="https://developers.facebook.com/docs/apps/review/login-permissions" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="21e1c79c8da2474b9c70d0e8a4f199b4" data-rnw-int-class="nearest_260-17914_262-17915-240__"><span data-key="5376bd4edaaa4a33a84ad8df933d462a"><span data-offset-key="5376bd4edaaa4a33a84ad8df933d462a:0">login permissions</span></span></span></a><span data-key="e02415622f2045e9b25cad4cc580ee15"><span data-offset-key="e02415622f2045e9b25cad4cc580ee15:0">, </span></span><a href="https://developers.facebook.com/docs/apps/review/feature" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="96eb299c4f1d40d3b3bebf1e5be7da0b" data-rnw-int-class="nearest_260-17914_262-17915-240__"><span data-key="d8a9e16d770b41abb4fe4ce58d38cd98"><span data-offset-key="d8a9e16d770b41abb4fe4ce58d38cd98:0">features</span></span></span></a><span data-key="a613c196462641bdb5832ff60599365f"><span data-offset-key="a613c196462641bdb5832ff60599365f:0">, and settings for any added products such as Facebook Login.</span></span>
 
-    <span data-key="b418c1dcee0d4396b55a0ebf5f9da99e"><span data-offset-key="b418c1dcee0d4396b55a0ebf5f9da99e:0">Test API queries with your Live app's settings, including approved </span></span><a href="https://developers.facebook.com/docs/apps/review/login-permissions" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="21e1c79c8da2474b9c70d0e8a4f199b4" data-rnw-int-class="nearest_260-17914_262-17915-240__"><span data-key="5376bd4edaaa4a33a84ad8df933d462a"><span data-offset-key="5376bd4edaaa4a33a84ad8df933d462a:0">login permissions</span></span></span></a><span data-key="e02415622f2045e9b25cad4cc580ee15"><span data-offset-key="e02415622f2045e9b25cad4cc580ee15:0">, </span></span><a href="https://developers.facebook.com/docs/apps/review/feature" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="96eb299c4f1d40d3b3bebf1e5be7da0b" data-rnw-int-class="nearest_260-17914_262-17915-240__"><span data-key="d8a9e16d770b41abb4fe4ce58d38cd98"><span data-offset-key="d8a9e16d770b41abb4fe4ce58d38cd98:0">features</span></span></span></a><span data-key="a613c196462641bdb5832ff60599365f"><span data-offset-key="a613c196462641bdb5832ff60599365f:0">, and settings for any added products such as Facebook Login.</span></span>
+- <span data-key="23461323958144ed8f7f682a3271b50f"><span data-offset-key="23461323958144ed8f7f682a3271b50f:0">Test API queries with your Developer Mode app's settings using any </span></span><a href="https://developers.facebook.com/docs/apps/review/login-permissions" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5612a3cad65e493b816c7b3363a5c034" data-rnw-int-class="nearest_260-17914_262-17915-240__"><span data-key="71335fcaa20648e98f2c8370d818bfdd"><span data-offset-key="71335fcaa20648e98f2c8370d818bfdd:0">login permissions</span></span></span></a><span data-key="f5b77b78934e4bad84cf8674d174d72f"><span data-offset-key="f5b77b78934e4bad84cf8674d174d72f:0"> and </span></span><a href="https://developers.facebook.com/docs/apps/review/feature" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4e74c6057f4e46e7b45e53b8f1c5eb18" data-rnw-int-class="nearest_260-17914_262-17915-240__"><span data-key="50e69c5789b64c82b14d07808c4f71e7"><span data-offset-key="50e69c5789b64c82b14d07808c4f71e7:0">features</span></span></span></a><span data-key="be9c738d66e045f5aebb75c6bad83204"><span data-offset-key="be9c738d66e045f5aebb75c6bad83204:0"> on test users or test data.</span></span>
 
--   
+- <span data-key="779243e276d04595b123dece6367ff6a"><span data-offset-key="779243e276d04595b123dece6367ff6a:0">Quickly generate access tokens.</span></span>
 
-    <span data-key="23461323958144ed8f7f682a3271b50f"><span data-offset-key="23461323958144ed8f7f682a3271b50f:0">Test API queries with your Developer Mode app's settings using any </span></span><a href="https://developers.facebook.com/docs/apps/review/login-permissions" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5612a3cad65e493b816c7b3363a5c034" data-rnw-int-class="nearest_260-17914_262-17915-240__"><span data-key="71335fcaa20648e98f2c8370d818bfdd"><span data-offset-key="71335fcaa20648e98f2c8370d818bfdd:0">login permissions</span></span></span></a><span data-key="f5b77b78934e4bad84cf8674d174d72f"><span data-offset-key="f5b77b78934e4bad84cf8674d174d72f:0"> and </span></span><a href="https://developers.facebook.com/docs/apps/review/feature" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4e74c6057f4e46e7b45e53b8f1c5eb18" data-rnw-int-class="nearest_260-17914_262-17915-240__"><span data-key="50e69c5789b64c82b14d07808c4f71e7"><span data-offset-key="50e69c5789b64c82b14d07808c4f71e7:0">features</span></span></span></a><span data-key="be9c738d66e045f5aebb75c6bad83204"><span data-offset-key="be9c738d66e045f5aebb75c6bad83204:0"> on test users or test data.</span></span>
+- <span data-key="0c5b9e32575d42f687c0fa8033e1b986"><span data-offset-key="0c5b9e32575d42f687c0fa8033e1b986:0">Get code samples of the queries you have run.</span></span>
 
--   
-
-    <span data-key="779243e276d04595b123dece6367ff6a"><span data-offset-key="779243e276d04595b123dece6367ff6a:0">Quickly generate access tokens.</span></span>
-
--   
-
-    <span data-key="0c5b9e32575d42f687c0fa8033e1b986"><span data-offset-key="0c5b9e32575d42f687c0fa8033e1b986:0">Get code samples of the queries you have run.</span></span>
-
--   
-
-    <span data-key="073efb8bceeb41348b4ead21ff99b21b"><span data-offset-key="073efb8bceeb41348b4ead21ff99b21b:0">Generate debug information to include in support requests.</span></span>
+- <span data-key="073efb8bceeb41348b4ead21ff99b21b"><span data-offset-key="073efb8bceeb41348b4ead21ff99b21b:0">Generate debug information to include in support requests.</span></span>
 
 <span data-key="14962a6e9ab94d899bd387f91ca33a23"><span data-offset-key="14962a6e9ab94d899bd387f91ca33a23:0">Requirements</span></span>
 
--   
+- <span data-key="34ec5e95ad27459c9dc7b4a4e900e4c7"><span data-offset-key="34ec5e95ad27459c9dc7b4a4e900e4c7:0">A </span></span><a href="https://developers.facebook.com/apps" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d864c7552cb1456687e5b1fb5a3b5672" data-rnw-int-class="nearest_260-17914_262-17915-240__"><span data-key="b65a04dc7be946e29ce25f9ebeb3a4ac"><span data-offset-key="b65a04dc7be946e29ce25f9ebeb3a4ac:0">Facebook Developer Account</span></span></span></a><span data-key="afef7a298e784c0a83ecbf5151d26845"><span data-offset-key="afef7a298e784c0a83ecbf5151d26845:0">.</span></span>
 
-    <span data-key="34ec5e95ad27459c9dc7b4a4e900e4c7"><span data-offset-key="34ec5e95ad27459c9dc7b4a4e900e4c7:0">A </span></span><a href="https://developers.facebook.com/apps" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d864c7552cb1456687e5b1fb5a3b5672" data-rnw-int-class="nearest_260-17914_262-17915-240__"><span data-key="b65a04dc7be946e29ce25f9ebeb3a4ac"><span data-offset-key="b65a04dc7be946e29ce25f9ebeb3a4ac:0">Facebook Developer Account</span></span></span></a><span data-key="afef7a298e784c0a83ecbf5151d26845"><span data-offset-key="afef7a298e784c0a83ecbf5151d26845:0">.</span></span>
-
--   
-
-    <span data-key="b7f88cf845ff4d589f077caaa0ddabde"><span data-offset-key="b7f88cf845ff4d589f077caaa0ddabde:0">An app for which you have a role, such as an </span></span><a href="https://developers.facebook.com/docs/apps#roles" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="26668f61949b489da0c25eee7b7a18a5" data-rnw-int-class="nearest_260-17914_262-17915-240__"><span data-key="92431ba88d2c4a50bfe1d0d0e7d2b5fe"><span data-offset-key="92431ba88d2c4a50bfe1d0d0e7d2b5fe:0">admin, developer, or tester role</span></span></span></a><span data-key="9155a1a6277b4aadb548b709f1f4d985"><span data-offset-key="9155a1a6277b4aadb548b709f1f4d985:0">.</span></span>
+- <span data-key="b7f88cf845ff4d589f077caaa0ddabde"><span data-offset-key="b7f88cf845ff4d589f077caaa0ddabde:0">An app for which you have a role, such as an </span></span><a href="https://developers.facebook.com/docs/apps#roles" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="26668f61949b489da0c25eee7b7a18a5" data-rnw-int-class="nearest_260-17914_262-17915-240__"><span data-key="92431ba88d2c4a50bfe1d0d0e7d2b5fe"><span data-offset-key="92431ba88d2c4a50bfe1d0d0e7d2b5fe:0">admin, developer, or tester role</span></span></span></a><span data-key="9155a1a6277b4aadb548b709f1f4d985"><span data-offset-key="9155a1a6277b4aadb548b709f1f4d985:0">.</span></span>
 
 <span data-key="e98745435e924ceca162c63b89605997"><span data-offset-key="e98745435e924ceca162c63b89605997:0">Components</span></span>
 
-### 
+###
 
 <span data-key="315a8dcf5e69456d9983f15aabbb2321"><span data-offset-key="315a8dcf5e69456d9983f15aabbb2321:0">Application Dropdown</span></span>
 
@@ -410,7 +396,7 @@ Facebook Graph API
 
 <span data-key="1900f59ac2284453a2ffb14d5376e1fb"><span data-offset-key="1900f59ac2284453a2ffb14d5376e1fb:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="3ed7177574214205825981f6119ff5a9"><span data-offset-key="3ed7177574214205825981f6119ff5a9:0">Access Token Dropdown</span></span>
 
@@ -418,7 +404,7 @@ Facebook Graph API
 
 <span data-key="d51dc8090eda4255b8ec85b80ba0fcbe"><span data-offset-key="d51dc8090eda4255b8ec85b80ba0fcbe:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="1484966b89e44030991804e5d7ef2b7b"><span data-offset-key="1484966b89e44030991804e5d7ef2b7b:0">Add a Permission Dropdown</span></span>
 
@@ -428,7 +414,7 @@ Could not load image
 
 <span data-key="c549e9c66b444668a0a965787d5e31aa"><span data-offset-key="c549e9c66b444668a0a965787d5e31aa:0">If your app is in development mode, you can grant your app any permission and your queries respect them. If your app is live, however, granting a permission that your app has not been approved for by the </span></span><a href="https://developers.facebook.com/docs/apps/review" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8e8e3fc8de7d4df5b687798ebae625ee" data-rnw-int-class="nearest_260-17914_262-17915-240__"><span data-key="2863ecf393a84ec3a81df6652085f4e9"><span data-offset-key="2863ecf393a84ec3a81df6652085f4e9:0">App Review</span></span></span></a><span data-key="ce494cdbf64244228424c7025af4cd65"><span data-offset-key="ce494cdbf64244228424c7025af4cd65:0"> process causes your query to fail whenever you submit it.</span></span>
 
-### 
+###
 
 <span data-key="f7c8ef111a5548c5a786006494814afd"><span data-offset-key="f7c8ef111a5548c5a786006494814afd:0">Access Token Field</span></span>
 
@@ -440,7 +426,7 @@ Could not load image
 
 <span data-key="ea21d690a8d64bd0887aac5e3bff6c54"><span data-offset-key="ea21d690a8d64bd0887aac5e3bff6c54:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="ff7b2ef7a7504933a23ff5c848eed58b"><span data-offset-key="ff7b2ef7a7504933a23ff5c848eed58b:0">Query string Field</span></span>
 
@@ -450,7 +436,7 @@ Could not load image
 
 Could not load image
 
-### 
+###
 
 <span data-key="7e5a54373754443fb39b4f66f778874b"><span data-offset-key="7e5a54373754443fb39b4f66f778874b:0">Node Field Viewer</span></span>
 
@@ -458,7 +444,7 @@ Could not load image
 
 Could not load image
 
-### 
+###
 
 <span data-key="97711f4889f0461fa4170e9c7eac12ab"><span data-offset-key="97711f4889f0461fa4170e9c7eac12ab:0">Response Window</span></span>
 
@@ -466,7 +452,7 @@ Could not load image
 
 Could not load image
 
-### 
+###
 
 <span data-key="e07e7268f94849a4a50800733214a7f6"><span data-offset-key="e07e7268f94849a4a50800733214a7f6:0">Get Code</span></span>
 
@@ -474,7 +460,7 @@ Could not load image
 
 <span data-key="2ce356fb1f1a4526ab4347f3eab16369"><span data-offset-key="2ce356fb1f1a4526ab4347f3eab16369:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="8d83e0f4944d41d2abe48b361fb512d4"><span data-offset-key="8d83e0f4944d41d2abe48b361fb512d4:0">Copy Debug Information</span></span>
 
@@ -482,7 +468,7 @@ Could not load image
 
 Could not load image
 
-### 
+###
 
 <span data-key="d7785b32e0e5424288fabc5a61b29931"><span data-offset-key="d7785b32e0e5424288fabc5a61b29931:0">Save Session</span></span>
 
@@ -512,7 +498,7 @@ Could not load image
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/netlify" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
-WEB\_DEV\_TOOLS - Previous
+WEB_DEV_TOOLS - Previous
 
 Netlify
 

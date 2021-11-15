@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-How to Establish a BYOD Policy
-==============================
+# How to Establish a BYOD Policy
 
 In <span class="post-meta-category">[Blog](https://html.com/blog/), [Security](https://html.com/blog/security/)</span>
 
@@ -45,105 +38,104 @@ Want to convince your company to allow you to bring your own laptop to the offic
                               https://html.com/wp-content/uploads/BYOD-sw-2-137x1024.jpg 137w
                             " width="700" height="5235" />
 
-Transcript – What’s a BYOD Policy?
-----------------------------------
+## Transcript – What’s a BYOD Policy?
 
 Tap, swipe, scroll. Although mobile devices are ubiquitous for most people, employers are just now discovering the necessity and benefits of a comprehensive BYOD policy.
 
 ### What is BYOD?
 
--   **B**ring **Y**our **O**wn **D**evice
--   Depending on region and industry, BYOD has reached 40-75% of companies.
--   Why are personal devices popular in the workplace?
--   -   Employee benefits
-    -   -   Job satisfaction
-        -   Increased efficiency
-        -   Flexibility
+- **B**ring **Y**our **O**wn **D**evice
+- Depending on region and industry, BYOD has reached 40-75% of companies.
+- Why are personal devices popular in the workplace?
+- - Employee benefits
+  - - Job satisfaction
+    - Increased efficiency
+    - Flexibility
 
-    -   Up to 74% of IT leaders say that using personal devices can improve employee productivity.
-    -   Popular with busy executives on the go.
-    -   Pushed by availability of mobile technology
-    -   -   Smartphones
-        -   Tablets
-        -   Hybrid devices
+  - Up to 74% of IT leaders say that using personal devices can improve employee productivity.
+  - Popular with busy executives on the go.
+  - Pushed by availability of mobile technology
+  - - Smartphones
+    - Tablets
+    - Hybrid devices
 
 ### Concerns About BYOD
 
--   Banning BYOD can lead to “underground” use
--   -   No company oversight
-    -   No security measures in place
+- Banning BYOD can lead to “underground” use
+- - No company oversight
+  - No security measures in place
 
--   Security
--   -   Control over security issues can be unreliable
-    -   General data security
-    -   -   Lack of passwords
-        -   Unauthorized access by non-employees
+- Security
+- - Control over security issues can be unreliable
+  - General data security
+  - - Lack of passwords
+    - Unauthorized access by non-employees
 
-    -   Questions about user-purchased apps accessing company data
-    -   Less than 1/4 of BYODs that are lost can be remotely wiped of sensitive company data.
-    -   Vulnerability to malware
+  - Questions about user-purchased apps accessing company data
+  - Less than 1/4 of BYODs that are lost can be remotely wiped of sensitive company data.
+  - Vulnerability to malware
 
--   Legal Issues
--   -   Data privacy laws
-    -   Loss of employee or client data
+- Legal Issues
+- - Data privacy laws
+  - Loss of employee or client data
 
 ### Keys to a Successful BYOD Policy
 
--   A team of departmental representatives should develop a comprehensive BYOD policy
--   -   IT
-    -   Human Resources
-    -   Legal
+- A team of departmental representatives should develop a comprehensive BYOD policy
+- - IT
+  - Human Resources
+  - Legal
 
--   **Keys to BYOD**
--   -   Be specific
-    -   -   List what devices can and cannot be used
-        -   -   Based on compatibility with company network and security systems
+- **Keys to BYOD**
+- - Be specific
+  - - List what devices can and cannot be used
+    - - Based on compatibility with company network and security systems
 
-    -   Be strict with security
-    -   -   Require complex alphanumeric passwords
+  - Be strict with security
+  - - Require complex alphanumeric passwords
 
-    -   Be clear on service policy for BYODs
-    -   -   Support for initial connections
-        -   Support for apps installed
-        -   Support for wipes and reconfiguration
-        -   Loan devices for BYODs being serviced
+  - Be clear on service policy for BYODs
+  - - Support for initial connections
+    - Support for apps installed
+    - Support for wipes and reconfiguration
+    - Loan devices for BYODs being serviced
 
-    -   Be clear on apps and data ownership
-    -   -   Especially in relation to wipes since all data is generally wiped, including personal photos and purchased apps.
+  - Be clear on apps and data ownership
+  - - Especially in relation to wipes since all data is generally wiped, including personal photos and purchased apps.
 
-    -   Be clear on banned apps
-    -   -   Unstable apps or those with security loopholes could access company data.
-        -   May require manual screening for employee compliance
+  - Be clear on banned apps
+  - - Unstable apps or those with security loopholes could access company data.
+    - May require manual screening for employee compliance
 
-    -   Integrate BYOD plans with the acceptable use policy
-    -   -   Integrated with corporate-issued device policies
-        -   Be clear about websites and uses appropriate for the workplace
+  - Integrate BYOD plans with the acceptable use policy
+  - - Integrated with corporate-issued device policies
+    - Be clear about websites and uses appropriate for the workplace
 
-    -   Have an employee exit strategy
-    -   -   Plan for when employees leave the company
-        -   Wipes as part of HR and exit interviews
+  - Have an employee exit strategy
+  - - Plan for when employees leave the company
+    - Wipes as part of HR and exit interviews
 
--   BYOD Agreement Checklist – as recommended by the Security for Business Innovation Council
--   -   Sign a legal agreement for use of a personal device at work
-    -   Require a corporate account for cloud data storage
-    -   Require a report for lost or stolen devices within a specific time period
-    -   Confirm company’s rights regarding in terms of monitoring and wiping devices
-    -   End users are responsible for personal data backups
-    -   Clear lines of responsibility for device support, costs, and maintenance
-    -   Employees must remove apps when requested by the organization
-    -   Network access disabled if a blacklisted app is installed or the device is jail-broken
-    -   Clear consequences for policy non-compliance
+- BYOD Agreement Checklist – as recommended by the Security for Business Innovation Council
+- - Sign a legal agreement for use of a personal device at work
+  - Require a corporate account for cloud data storage
+  - Require a report for lost or stolen devices within a specific time period
+  - Confirm company’s rights regarding in terms of monitoring and wiping devices
+  - End users are responsible for personal data backups
+  - Clear lines of responsibility for device support, costs, and maintenance
+  - Employees must remove apps when requested by the organization
+  - Network access disabled if a blacklisted app is installed or the device is jail-broken
+  - Clear consequences for policy non-compliance
 
 Is your workplace ready to handle the BYODs just waiting to be used by your employees? With a clear policy, you can start profiting from the benefits of job satisfaction and flexibility.
 
 ### Sources
 
--   7 Tips for Establishing a Successful BYOD Policy – [cio.com](http://www.cio.com/article/2395944/consumer-technology/7-tips-for-establishing-a-successful-byod-policy.html)
--   Infographic: What Drives BYOD? – tricerat.com
--   BYOD Security Strategies: Balancing BYOD Risks and Rewards – [searchsecurity.techtarget.com](http://searchsecurity.techtarget.com/feature/BYOD-security-strategies-Balancing-BYOD-risks-and-rewards)
--   BYOD: Data Protection and Information Security Issues – [computerweekly.com](http://www.computerweekly.com/opinion/BYOD-data-protection-and-information-security-issues)
--   Why You Need a BYOD Policy Yesterday – tricerat.com
--   Realizing the Mobile Enterprise – [security-finder.ch](http://www.security-finder.ch/fileadmin/dateien/pdf/studien-berichte/rsa-realizing-mobile-enterprise.pdf)
+- 7 Tips for Establishing a Successful BYOD Policy – [cio.com](http://www.cio.com/article/2395944/consumer-technology/7-tips-for-establishing-a-successful-byod-policy.html)
+- Infographic: What Drives BYOD? – tricerat.com
+- BYOD Security Strategies: Balancing BYOD Risks and Rewards – [searchsecurity.techtarget.com](http://searchsecurity.techtarget.com/feature/BYOD-security-strategies-Balancing-BYOD-risks-and-rewards)
+- BYOD: Data Protection and Information Security Issues – [computerweekly.com](http://www.computerweekly.com/opinion/BYOD-data-protection-and-information-security-issues)
+- Why You Need a BYOD Policy Yesterday – tricerat.com
+- Realizing the Mobile Enterprise – [security-finder.ch](http://www.security-finder.ch/fileadmin/dateien/pdf/studien-berichte/rsa-realizing-mobile-enterprise.pdf)
 
 [Download](https://html.com/wp-content/uploads/2014/12/BYOD-sw-2.jpg) this infographic.
 
@@ -151,14 +143,13 @@ Embed Our Infographic On Your Site!
 
 Image Width % px
 
-&lt;img src="https://[html](https://html.com/).com/wp-content/uploads/2014/12/BYOD-sw-2.jpg" alt="&lt;thrive\_headline click tho-post-5696 tho-test-342&gt;How to Establish a BYOD Policy&lt;/thrive\_headline&gt; - An Infographic from " width="100%" class="infographic\_embedder" /&gt;&lt;p class="infographic\_attr"&gt;Embedded from &lt;a href="https://html.com/blog/byod-policy/" target="\_blank"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://[html](https://html.com/).com/wp-content/uploads/2014/12/BYOD-sw-2.jpg" alt="&lt;thrive_headline click tho-post-5696 tho-test-342&gt;How to Establish a BYOD Policy&lt;/thrive_headline&gt; - An Infographic from " width="100%" class="infographic_embedder" /&gt;&lt;p class="infographic_attr"&gt;Embedded from &lt;a href="https://html.com/blog/byod-policy/" target="\_blank"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;img src="https://html.com/wp-content/uploads/2014/12/BYOD-sw-2.jpg" alt="&lt;thrive\_headline click tho-post-5696 tho-test-342&gt;How to Establish a BYOD Policy&lt;/thrive\_headline&gt; - An Infographic from " width="100%" class="infographic\_embedder" /&gt;&lt;p class="infographic\_attr"&gt;Embedded from &lt;a href="https://html.com/blog/byod-policy/" target="\_blank"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://html.com/wp-content/uploads/2014/12/BYOD-sw-2.jpg" alt="&lt;thrive_headline click tho-post-5696 tho-test-342&gt;How to Establish a BYOD Policy&lt;/thrive_headline&gt; - An Infographic from " width="100%" class="infographic_embedder" /&gt;&lt;p class="infographic_attr"&gt;Embedded from &lt;a href="https://html.com/blog/byod-policy/" target="\_blank"&gt;&lt;/a&gt;&lt;/p&gt;
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>What Is Doxing? (And Why Is It So Scary?): An Infographic](https://html.com/blog/doxing/)
 
@@ -174,11 +165,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,188 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">750 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">692 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,188 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">750 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">692 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

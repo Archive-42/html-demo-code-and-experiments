@@ -1,19 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
 [HTML](https://html.com/)  /  Intimidated By CSS? The Definitive Guide To Make Your Fear Disappear
 
-Intimidated By CSS? The Definitive Guide To Make Your Fear Disappear
-====================================================================
+# Intimidated By CSS? The Definitive Guide To Make Your Fear Disappear
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -27,33 +20,32 @@ In this short guide, we’ll introduce CSS, demonstrate CSS syntax, explain how 
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> What is CSS?](#What_is_CSS)
-    -   [<span class="toc_number toc_depth_2">1.1</span> How is CSS Different From HTML?](#How_is_CSS_Different_From_HTML)
--   [<span class="toc_number toc_depth_1">2</span> CSS Syntax](#CSS_Syntax)
-    -   [<span class="toc_number toc_depth_2">2.1</span> An Example of CSS Syntax](#An_Example_of_CSS_Syntax)
--   [<span class="toc_number toc_depth_1">3</span> Preparing HTML Markup for Styling](#Preparing_HTML_Markup_for_Styling)
-    -   [<span class="toc_number toc_depth_2">3.1</span> When to Use Classes](#When_to_Use_Classes)
-    -   [<span class="toc_number toc_depth_2">3.2</span> When to Use IDs](#When_to_Use_IDs)
-    -   [<span class="toc_number toc_depth_2">3.3</span> When Not to Use Hooks](#When_Not_to_Use_Hooks)
-    -   [<span class="toc_number toc_depth_2">3.4</span> Best Practices for Preparing Your Markup for Styling](#Best_Practices_for_Preparing_Your_Markup_for_Styling)
--   [<span class="toc_number toc_depth_1">4</span> Ways of Linking CSS Rules to an HTML Document](#Ways_of_Linking_CSS_Rules_to_an_HTML_Document)
-    -   [<span class="toc_number toc_depth_2">4.1</span> Inline Styles](#Inline_Styles)
-    -   [<span class="toc_number toc_depth_2">4.2</span> Internal Stylesheets](#Internal_Stylesheets)
-    -   [<span class="toc_number toc_depth_2">4.3</span> External Stylesheets](#External_Stylesheets)
-    -   [<span class="toc_number toc_depth_2">4.4</span> When to Use Each Method](#When_to_Use_Each_Method)
--   [<span class="toc_number toc_depth_1">5</span> How CSS Works](#How_CSS_Works)
-    -   [<span class="toc_number toc_depth_2">5.1</span> Cascading Inheritance](#Cascading_Inheritance)
-    -   [<span class="toc_number toc_depth_2">5.2</span> Specificity](#Specificity)
--   [<span class="toc_number toc_depth_1">6</span> What Can CSS Do?](#What_Can_CSS_Do)
-    -   [<span class="toc_number toc_depth_2">6.1</span> The Box Model](#The_Box_Model)
-    -   [<span class="toc_number toc_depth_2">6.2</span> Creating Layouts](#Creating_Layouts)
-    -   [<span class="toc_number toc_depth_2">6.3</span> Web Fonts & Typography](#Web_Fonts_Typography)
-    -   [<span class="toc_number toc_depth_2">6.4</span> Create a Consistent Cross-Browser Experience](#Create_a_Consistent_Cross-Browser_Experience)
--   [<span class="toc_number toc_depth_1">7</span> Related Elements](#Related_Elements)
--   [<span class="toc_number toc_depth_1">8</span> Tutorials and Resources](#Tutorials_and_Resources)
+- [<span class="toc_number toc_depth_1">1</span> What is CSS?](#What_is_CSS)
+  - [<span class="toc_number toc_depth_2">1.1</span> How is CSS Different From HTML?](#How_is_CSS_Different_From_HTML)
+- [<span class="toc_number toc_depth_1">2</span> CSS Syntax](#CSS_Syntax)
+  - [<span class="toc_number toc_depth_2">2.1</span> An Example of CSS Syntax](#An_Example_of_CSS_Syntax)
+- [<span class="toc_number toc_depth_1">3</span> Preparing HTML Markup for Styling](#Preparing_HTML_Markup_for_Styling)
+  - [<span class="toc_number toc_depth_2">3.1</span> When to Use Classes](#When_to_Use_Classes)
+  - [<span class="toc_number toc_depth_2">3.2</span> When to Use IDs](#When_to_Use_IDs)
+  - [<span class="toc_number toc_depth_2">3.3</span> When Not to Use Hooks](#When_Not_to_Use_Hooks)
+  - [<span class="toc_number toc_depth_2">3.4</span> Best Practices for Preparing Your Markup for Styling](#Best_Practices_for_Preparing_Your_Markup_for_Styling)
+- [<span class="toc_number toc_depth_1">4</span> Ways of Linking CSS Rules to an HTML Document](#Ways_of_Linking_CSS_Rules_to_an_HTML_Document)
+  - [<span class="toc_number toc_depth_2">4.1</span> Inline Styles](#Inline_Styles)
+  - [<span class="toc_number toc_depth_2">4.2</span> Internal Stylesheets](#Internal_Stylesheets)
+  - [<span class="toc_number toc_depth_2">4.3</span> External Stylesheets](#External_Stylesheets)
+  - [<span class="toc_number toc_depth_2">4.4</span> When to Use Each Method](#When_to_Use_Each_Method)
+- [<span class="toc_number toc_depth_1">5</span> How CSS Works](#How_CSS_Works)
+  - [<span class="toc_number toc_depth_2">5.1</span> Cascading Inheritance](#Cascading_Inheritance)
+  - [<span class="toc_number toc_depth_2">5.2</span> Specificity](#Specificity)
+- [<span class="toc_number toc_depth_1">6</span> What Can CSS Do?](#What_Can_CSS_Do)
+  - [<span class="toc_number toc_depth_2">6.1</span> The Box Model](#The_Box_Model)
+  - [<span class="toc_number toc_depth_2">6.2</span> Creating Layouts](#Creating_Layouts)
+  - [<span class="toc_number toc_depth_2">6.3</span> Web Fonts & Typography](#Web_Fonts_Typography)
+  - [<span class="toc_number toc_depth_2">6.4</span> Create a Consistent Cross-Browser Experience](#Create_a_Consistent_Cross-Browser_Experience)
+- [<span class="toc_number toc_depth_1">7</span> Related Elements](#Related_Elements)
+- [<span class="toc_number toc_depth_1">8</span> Tutorials and Resources](#Tutorials_and_Resources)
 
-<span id="What_is_CSS">What is CSS?</span>
-------------------------------------------
+## <span id="What_is_CSS">What is CSS?</span>
 
 CSS stands for Cascading Style Sheets and it is the language used to style the visual presentation of web pages. CSS is the language that tells web browsers how to render the different parts of a web page.
 
@@ -63,26 +55,25 @@ Every item or element on a web page is part of a document written in a markup la
 
 The first thing to understand when approaching the topic of CSS is when to use a styling language like CSS and when to use a markup language such as HTML.
 
--   All critical website *content* should be added to the website using a markup language such as HTML.
--   *Presentation* of the website content should be defined by a styling language such as CSS.
+- All critical website _content_ should be added to the website using a markup language such as HTML.
+- _Presentation_ of the website content should be defined by a styling language such as CSS.
 
 Blog posts, page headings, video, audio, and pictures that are not part of the web page presentation should all be added to the web page with HTML. Background images and colors, borders, font size, typography, and the position of items on a web page should all be defined by CSS.
 
 It’s important to make this distinction because failing to use the right language can make it difficult to make changes to the website in the future and create accessibility and usability issues for website visitors using a text-only browser or screen reader.
 
-<span id="CSS_Syntax">CSS Syntax</span>
----------------------------------------
+## <span id="CSS_Syntax">CSS Syntax</span>
 
 [CSS syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax) includes selectors, properties, values, declarations, declaration blocks, rulesets, at-rules, and statements.
 
--   A selector is a code snippet used to identify the web page element or elements that are to be affected by the styles.
--   A property is the aspect of the element that is to be affected. For example, color, padding, margin, and background are some of the most commonly used CSS properties.
--   A value is used to define a *property*. For example, the property color might be given the value of red like this: `color: red;`.
--   The combination of a *property* and a *value* is called a declaration.
--   In many cases, multiple *declarations* are applied to a single *selector*. A declaration block is the term used to refer to all of the declarations applied to a single *selector*.
--   A single *selector* and the *declaration block* that follows it in combination are referred to as a ruleset.
--   At-rules are similar to *rulesets* but begin with the *@* sign rather than with a *selector*. The most common at-rule is the `@media` rule which is often used to create a block of CSS rules that are applied based on the size of the device viewing the web page.
--   Both *rulesets* and *at-rules* are CSS statements.
+- A selector is a code snippet used to identify the web page element or elements that are to be affected by the styles.
+- A property is the aspect of the element that is to be affected. For example, color, padding, margin, and background are some of the most commonly used CSS properties.
+- A value is used to define a _property_. For example, the property color might be given the value of red like this: `color: red;`.
+- The combination of a _property_ and a _value_ is called a declaration.
+- In many cases, multiple _declarations_ are applied to a single _selector_. A declaration block is the term used to refer to all of the declarations applied to a single _selector_.
+- A single _selector_ and the _declaration block_ that follows it in combination are referred to as a ruleset.
+- At-rules are similar to _rulesets_ but begin with the _@_ sign rather than with a _selector_. The most common at-rule is the `@media` rule which is often used to create a block of CSS rules that are applied based on the size of the device viewing the web page.
+- Both _rulesets_ and _at-rules_ are CSS statements.
 
 ### <span id="An_Example_of_CSS_Syntax">An Example of CSS Syntax</span>
 
@@ -100,9 +91,9 @@ By using `h1` as the selector, we are saying that every level 1 heading on the w
 
 The ruleset contains three declarations:
 
--   `color:red;`
--   `font-size: 3em;`
--   `text-decoration: underline;`
+- `color:red;`
+- `font-size: 3em;`
+- `text-decoration: underline;`
 
 `color`, `font-size`, and `text-decoration` are all properties. There are literally [hundreds of CSS properties](https://www.w3.org/Style/CSS/all-properties.en.html) you can use, but only [a few dozen are commonly used](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference).
 
@@ -118,8 +109,7 @@ Finally, we added the value `underline` to the property `text-decoration`. We co
 
 That rule would cause the `h1` in our initial example to be underlined with a blue double line. The text itself would remain red as defined in our `color` property.
 
-<span id="Preparing_HTML_Markup_for_Styling">Preparing HTML Markup for Styling</span>
--------------------------------------------------------------------------------------
+## <span id="Preparing_HTML_Markup_for_Styling">Preparing HTML Markup for Styling</span>
 
 CSS should be used to add content to a web page. That task is best handled by markup languages such as HTML and XML. Instead, CSS is used to pick items that already exist on a web page and to define how each item should appear.
 
@@ -135,14 +125,14 @@ Use classes when there are multiple elements on a single web page that need to b
 
 ### <span id="When_to_Use_IDs">When to Use IDs</span>
 
-Use IDs for elements that only appear once on a web page. For example, if you’re using an HTML unordered list for your site navigation, you could use an ID such as *nav* to create a unique hook for that list.
+Use IDs for elements that only appear once on a web page. For example, if you’re using an HTML unordered list for your site navigation, you could use an ID such as _nav_ to create a unique hook for that list.
 
 Here’s an example of the HTML and CSS code for a simple navigation bar for a basic e-commerce site.
 
     <style>
         #nav {
-            background: lightgray;  
-            overflow: auto; 
+            background: lightgray;
+            overflow: auto;
             }
         #nav li {
             float: left;
@@ -176,10 +166,10 @@ padding: 10px;
 background: gray;  
 }
 
--   [Home](#example-nav)
--   [Shop](#example-nav)
--   [About Us](#example-nav)
--   [Contact Us](#example-nav)
+- [Home](#example-nav)
+- [Shop](#example-nav)
+- [About Us](#example-nav)
+- [Contact Us](#example-nav)
 
 ### <span id="When_Not_to_Use_Hooks">When Not to Use Hooks</span>
 
@@ -206,23 +196,23 @@ For example, let’s say that you want to create consistent heading styles. Rath
 
 That code would render like this.
 
-.code\_sample ul {  
+.code_sample ul {  
 list-style-type: upper-roman;  
 margin-left: 50px;  
 }  
-.code\_sample p {  
+.code_sample p {  
 color: darkblue  
 }
 
 Some paragraph text here. Two short sentences.
 
--   A quick list
--   Just two items
+- A quick list
+- Just two items
 
 Additional paragraph text here. This time let’s go for three sentences. Like this.
 
--   Another list
--   Still just two items
+- Another list
+- Still just two items
 
 In this case, even though we only wrote the style rules for `ul` and `p` elements once each, multiple items were affected. Using element selectors is a great way to create an attractive, readable, and consistent website experience by creating consistent styling of headings, lists, and paragraph text on every page of the website.
 
@@ -230,17 +220,16 @@ In this case, even though we only wrote the style rules for `ul` and `p` element
 
 Now that you know how classes, IDs, and element tags can be used as hooks for CSS rulesets, how can you best implement this knowledge to write markup that makes it easy to poinpoint specific elements?
 
--   Apply classes liberally and consistently. Use classes for items that should be aligned in one direction or the other, and for any elements that appear repeatedly on a single web page.
--   Apply IDs to items that appear only once on a web page. For example, use an ID on the `div` that contains your web page content, on the `ul` that that contains the navigation menu, and on the `div` that contains your web page header.
+- Apply classes liberally and consistently. Use classes for items that should be aligned in one direction or the other, and for any elements that appear repeatedly on a single web page.
+- Apply IDs to items that appear only once on a web page. For example, use an ID on the `div` that contains your web page content, on the `ul` that that contains the navigation menu, and on the `div` that contains your web page header.
 
-<span id="Ways_of_Linking_CSS_Rules_to_an_HTML_Document">Ways of Linking CSS Rules to an HTML Document</span>
--------------------------------------------------------------------------------------------------------------
+## <span id="Ways_of_Linking_CSS_Rules_to_an_HTML_Document">Ways of Linking CSS Rules to an HTML Document</span>
 
 There are three ways of adding CSS rules to a web page:
 
--   Inline styles
--   Internal stylesheets
--   External stylesheets
+- Inline styles
+- Internal stylesheets
+- External stylesheets
 
 In the vast majority of cases, external stylesheets should be used. However, there are instances where inline styles or internal stylesheets may be used.
 
@@ -297,7 +286,7 @@ Now that we have an external stylesheet with some styles, we can link it to an H
         <h1>Example Heading</h1>
     </body>
 
-When this HTML document is loaded the `link` tag will cause the styles in the file *styles.css* to be loaded into the web page. As a result, all level 1 heading elements will appear with red text, underlined, and with 10 pixels of padding applied to every side.
+When this HTML document is loaded the `link` tag will cause the styles in the file _styles.css_ to be loaded into the web page. As a result, all level 1 heading elements will appear with red text, underlined, and with 10 pixels of padding applied to every side.
 
 ### <span id="When_to_Use_Each_Method">When to Use Each Method</span>
 
@@ -312,14 +301,13 @@ Inline styles are acceptable to use in two instances:
 
 In all other cases, inline styles should be avoided in favor of external stylesheets.
 
-<span id="How_CSS_Works">How CSS Works</span>
----------------------------------------------
+## <span id="How_CSS_Works">How CSS Works</span>
 
 When writing CSS, there are many times that rules are written that conflict with each other. For example, when styling headers, all of the following rules may apply to an `h1` element.
 
--   An element-level rule creating consistent `h1` rendering across all pages of the website.
--   A class-level rule defining the rendering of `h1` elements occurring in specific locations – such as the titles of [blog posts](https://blogging.com/).
--   An id-level element defining the rendering of an `h1` element used in just one place on a one or more web pages – such as the website name.
+- An element-level rule creating consistent `h1` rendering across all pages of the website.
+- A class-level rule defining the rendering of `h1` elements occurring in specific locations – such as the titles of [blog posts](https://blogging.com/).
+- An id-level element defining the rendering of an `h1` element used in just one place on a one or more web pages – such as the website name.
 
 How can a developer write rules that are general enough to cover every `h1` yet specific enough to define styles that should only appear on specific instances of a given element?
 
@@ -329,7 +317,7 @@ The two rules that govern how CSS behaves are inheritance and specificity.
 
 ### <span id="Cascading_Inheritance">Cascading Inheritance</span>
 
-Why are CSS styles called *cascading*? When multiple rules are written that conflict with each other, the last rule written will be implemented. In this way, styles cascade downward and the last rule written is applied.
+Why are CSS styles called _cascading_? When multiple rules are written that conflict with each other, the last rule written will be implemented. In this way, styles cascade downward and the last rule written is applied.
 
 Let’s look at an example. Let’s write two CSS rules in an internal stylesheet that directly contradict each other.
 
@@ -345,8 +333,8 @@ Let’s look at an example. Let’s write two CSS rules in an internal styleshee
 
 The browser will cascade through the styles and apply the last style encountered, overruling all previous styles. As a result, the heading is blue.
 
-.code\_sample\_p {color: red;}  
-.code\_sample\_p {color: blue;}
+.code_sample_p {color: red;}  
+.code_sample_p {color: blue;}
 
 What color will the text of this paragraph be?
 
@@ -357,7 +345,7 @@ This same cascading effect comes into play when using external stylesheets. It�
     <link rel="stylesheet" type="text/css" href="styles_2.css">
     </head>
 
-The rules in *styles\_2.css* will be applied if there are conflicts between the styles contained in these two stylesheets.
+The rules in _styles_2.css_ will be applied if there are conflicts between the styles contained in these two stylesheets.
 
 [Inheritance of styles](https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance) is another example of the cascading behavior of CSS styles.
 
@@ -379,20 +367,20 @@ Here’s how that code would render.
 
 .code-sample-ul {color: red;}
 
--   Item 1
--   Item 2
+- Item 1
+- Item 2
 
-[Not every property passes from a parent to its child elements](https://www.w3.org/wiki/Inheritance_and_cascade#Inheritance). Browsers deem certain properties as *non-inherited* properties. Margins are one example of a property that isn’t passed down from a parent to a child element.
+[Not every property passes from a parent to its child elements](https://www.w3.org/wiki/Inheritance_and_cascade#Inheritance). Browsers deem certain properties as _non-inherited_ properties. Margins are one example of a property that isn’t passed down from a parent to a child element.
 
 ### <span id="Specificity">Specificity</span>
 
 The second rule that determines which rules are applied to each HTML element is [the rule of specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity).
 
-CSS rules with more specific *selectors* will overrule CSS rules with less specific *selectors* regardless of which occurs first. As we discussed, the three most common selectors are element tags, classes, and ids.
+CSS rules with more specific _selectors_ will overrule CSS rules with less specific _selectors_ regardless of which occurs first. As we discussed, the three most common selectors are element tags, classes, and ids.
 
--   The least specific type of selector is the element level selector.
--   When a class is used as a selector it will overrule CSS rules written with the element tag as the selector.
--   When an ID is used as a selector it will overrule the CSS rules written with element or class selectors.
+- The least specific type of selector is the element level selector.
+- When a class is used as a selector it will overrule CSS rules written with the element tag as the selector.
+- When an ID is used as a selector it will overrule the CSS rules written with element or class selectors.
 
 Another factor that influences specificity is the location where the CSS styles are written. Styles written inline with the `style` attribute overrule styles written in an internal or external stylesheet.
 
@@ -404,18 +392,17 @@ While this is one way to create a very specific selector, it is recommended to l
 
 Once you understand how inheritance and specificity work you will be able to pinpoint elements on a web page with a high degree of accuracy.
 
-<span id="What_Can_CSS_Do">What Can CSS Do?</span>
---------------------------------------------------
+## <span id="What_Can_CSS_Do">What Can CSS Do?</span>
 
 A better question might be: “What can’t CSS do?”
 
 CSS can be used to turn an HTML document into a professional, polished design. Here are a few of the things you can accomplish wish CSS:
 
--   Create a flexible grid for designing fully responsive websites that render beautifully on any device.
--   Style everything from typography, to tables, to forms, and more.
--   Position elements on a web page relative to one another using properties such as `float`, `position`, `overflow`, `flex`, and `box-sizing`.
--   Add background images to any element.
--   Create shapes, interactions, and animations.
+- Create a flexible grid for designing fully responsive websites that render beautifully on any device.
+- Style everything from typography, to tables, to forms, and more.
+- Position elements on a web page relative to one another using properties such as `float`, `position`, `overflow`, `flex`, and `box-sizing`.
+- Add background images to any element.
+- Create shapes, interactions, and animations.
 
 These concepts and techniques go beyond the scope of this introductory guide, but the following resources will help you tackle these more advanced topics.
 
@@ -427,8 +414,8 @@ If you plan to use CSS to build web page layouts, one of the first topics to mas
 
 Two great places to learn about the box model include:
 
--   An [explanation of the box model](https://www.w3.org/TR/CSS21/box.html) from the World Wide Web Consortium.
--   An [introduction to the CSS box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model) from the Mozilla Developer Network.
+- An [explanation of the box model](https://www.w3.org/TR/CSS21/box.html) from the World Wide Web Consortium.
+- An [introduction to the CSS box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model) from the Mozilla Developer Network.
 
 ### <span id="Creating_Layouts">Creating Layouts</span>
 
@@ -469,9 +456,9 @@ If we render that code in two different browsers we will see subtle differences.
 
 Can you see the subtle differences? Firefox, on the left, adds just a little more margin around each heading element. In addition, the bullet points are a little smaller when rendered in Edge. While these differences are not consequential there are instances where these minor variations between browsers can create problems.
 
-CSS can be used to smooth out these cross-browser compatibility issues. One popular way to do this is to implement a boilerplate CSS document called *normalize.css*. This freely-available CSS file can be linked to any HTML document to help minimize cross-browser rendering differences.
+CSS can be used to smooth out these cross-browser compatibility issues. One popular way to do this is to implement a boilerplate CSS document called _normalize.css_. This freely-available CSS file can be linked to any HTML document to help minimize cross-browser rendering differences.
 
-The easiest way to include *normalize.css* in your design work is to link to [the copy hosted by Google](https://code.google.com/archive/p/normalize-css/). To do so, just drop this line of code into the `head` element of an HTML document.
+The easiest way to include _normalize.css_ in your design work is to link to [the copy hosted by Google](https://code.google.com/archive/p/normalize-css/). To do so, just drop this line of code into the `head` element of an HTML document.
 
     <link rel="stylesheet" src="//normalize-css.googlecode.com/svn/trunk/normalize.css" />
 
@@ -489,18 +476,16 @@ The easiest way to include *normalize.css* in your design work is to link to [th
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Related_Elements">Related Elements</span>
----------------------------------------------------
+## <span id="Related_Elements">Related Elements</span>
 
 <table><thead><tr class="header"><th>Element Name</th><th>Attributes</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/tags/style/" class="linked-name">How To Use To Add CSS Style Rules To HTML Documents</a></td><td><a href="https://html.com/attributes/style-type/" class="linked-name">&lt;style type=""&gt;</a><br />
 <a href="https://html.com/attributes/style-media/" class="linked-name">&lt;style media=""&gt;</a><br />
 </td><td>The &lt;style&gt; element is used to add CSS style rules to an HTML document. The element is expected to appear in the document &lt;head&gt;, but will also render acceptably when used in the &lt;body&gt; of the document.</td></tr></tbody></table>
 
-<span id="Tutorials_and_Resources">Tutorials and Resources</span>
------------------------------------------------------------------
+## <span id="Tutorials_and_Resources">Tutorials and Resources</span>
 
 [Avoid Common Mistakes Made with Dark Backgrounds](https://html.com/css/common-mistakes-with-background/)  
-[Want To Style Text In Newspaper Columns? Grab Our CSS Guide & Get Started](https://html.com/css/columns-layout/)  
+[Want To Style Text In Newspaper Columns? Grab Our CSS Guide & Get Started](https://html.com/css/columns-layout/)
 
 Search HTML.com
 
@@ -508,11 +493,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">1,152 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,125 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">954 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">721 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">591 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">1,152 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,125 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">954 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">721 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">591 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

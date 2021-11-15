@@ -246,7 +246,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -264,7 +264,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -304,7 +304,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -338,91 +338,61 @@ Content Publishing
 
 <span data-key="5920d86f524d445c99861bf623c5f0ee"><span data-offset-key="5920d86f524d445c99861bf623c5f0ee:0">Limitations</span></span>
 
--   
+- <span data-key="ed6ebf3a39d24c9c8604e552f5a8c3e0"><span data-offset-key="ed6ebf3a39d24c9c8604e552f5a8c3e0:0">Can only be used to publish to business </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c73330ed5db14cdc86a5d3468c56d74b" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="593fe95d17a343e2a2162ce19744d8de"><span data-offset-key="593fe95d17a343e2a2162ce19744d8de:0">IG User</span></span></span></a><span data-key="31fbfb2eef694575b1e53e10a06c04d5"><span data-offset-key="31fbfb2eef694575b1e53e10a06c04d5:0"> accounts; Creator IG User accounts are not supported.</span></span>
 
-    <span data-key="ed6ebf3a39d24c9c8604e552f5a8c3e0"><span data-offset-key="ed6ebf3a39d24c9c8604e552f5a8c3e0:0">Can only be used to publish to business </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c73330ed5db14cdc86a5d3468c56d74b" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="593fe95d17a343e2a2162ce19744d8de"><span data-offset-key="593fe95d17a343e2a2162ce19744d8de:0">IG User</span></span></span></a><span data-key="31fbfb2eef694575b1e53e10a06c04d5"><span data-offset-key="31fbfb2eef694575b1e53e10a06c04d5:0"> accounts; Creator IG User accounts are not supported.</span></span>
+- <span data-key="d7a63c2817a647369def726b55d0fc22"><span data-offset-key="d7a63c2817a647369def726b55d0fc22:0">Accounts are limited to 25 API-published posts within a 24 hour period.</span></span>
 
--   
+- <span data-key="e5dc80e7a3b94707a6b3cfed9e8d65fc"><span data-offset-key="e5dc80e7a3b94707a6b3cfed9e8d65fc:0">JPEG is the only image format supported. Extended JPEG formats such as MPO and JPS are not supported.</span></span>
 
-    <span data-key="d7a63c2817a647369def726b55d0fc22"><span data-offset-key="d7a63c2817a647369def726b55d0fc22:0">Accounts are limited to 25 API-published posts within a 24 hour period.</span></span>
+- <span data-key="3876bfeb20b74080b5e3ae72fba3f7d0"><span data-offset-key="3876bfeb20b74080b5e3ae72fba3f7d0:0">Stories are not supported.</span></span>
 
--   
+- <span data-key="12e993ff244d425dbe9cc0c9388e922c"><span data-offset-key="12e993ff244d425dbe9cc0c9388e922c:0">Shopping tags are not supported.</span></span>
 
-    <span data-key="e5dc80e7a3b94707a6b3cfed9e8d65fc"><span data-offset-key="e5dc80e7a3b94707a6b3cfed9e8d65fc:0">JPEG is the only image format supported. Extended JPEG formats such as MPO and JPS are not supported.</span></span>
+- <span data-key="de370f8e7e79402e99bdd46ebcfbaf1d"><span data-offset-key="de370f8e7e79402e99bdd46ebcfbaf1d:0">Branded content tags are not supported.</span></span>
 
--   
+- <span data-key="b3184bf3cafa40dc8df5481f8863cb55"><span data-offset-key="b3184bf3cafa40dc8df5481f8863cb55:0">Filters are not supported.</span></span>
 
-    <span data-key="3876bfeb20b74080b5e3ae72fba3f7d0"><span data-offset-key="3876bfeb20b74080b5e3ae72fba3f7d0:0">Stories are not supported.</span></span>
+- <span data-key="cb514457f0c24ecfb140599c55333858"><span data-offset-key="cb514457f0c24ecfb140599c55333858:0">Multi-image posts are not supported.</span></span>
 
--   
+- <span data-key="6d3dca95b3d14d3e9a58df636ceaddbf"><span data-offset-key="6d3dca95b3d14d3e9a58df636ceaddbf:0">If the caption contains a hashtag, it should be HTML URL-encoded as %23 in the request.</span></span>
 
-    <span data-key="12e993ff244d425dbe9cc0c9388e922c"><span data-offset-key="12e993ff244d425dbe9cc0c9388e922c:0">Shopping tags are not supported.</span></span>
-
--   
-
-    <span data-key="de370f8e7e79402e99bdd46ebcfbaf1d"><span data-offset-key="de370f8e7e79402e99bdd46ebcfbaf1d:0">Branded content tags are not supported.</span></span>
-
--   
-
-    <span data-key="b3184bf3cafa40dc8df5481f8863cb55"><span data-offset-key="b3184bf3cafa40dc8df5481f8863cb55:0">Filters are not supported.</span></span>
-
--   
-
-    <span data-key="cb514457f0c24ecfb140599c55333858"><span data-offset-key="cb514457f0c24ecfb140599c55333858:0">Multi-image posts are not supported.</span></span>
-
--   
-
-    <span data-key="6d3dca95b3d14d3e9a58df636ceaddbf"><span data-offset-key="6d3dca95b3d14d3e9a58df636ceaddbf:0">If the caption contains a hashtag, it should be HTML URL-encoded as %23 in the request.</span></span>
-
--   
-
-    <span data-key="e31aa9e837944af1b4f5eb52ec405af9"><span data-offset-key="e31aa9e837944af1b4f5eb52ec405af9:0">Publishing to IGTV is not supported.</span></span>
+- <span data-key="e31aa9e837944af1b4f5eb52ec405af9"><span data-offset-key="e31aa9e837944af1b4f5eb52ec405af9:0">Publishing to IGTV is not supported.</span></span>
 
 <span data-key="a5e5e8e3f27f484bbe9bbef7486a6d9c"><span data-offset-key="a5e5e8e3f27f484bbe9bbef7486a6d9c:0">For additional limitations, please refer to the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b3ef7e402e7f4cf3b83289bf18115fc1" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="d757fa2933d44a52b885faacc6aa1a96"><span data-offset-key="d757fa2933d44a52b885faacc6aa1a96:0">IG User Media</span></span></span></a><span data-key="5db9239840d644659cf72d926e71e7c0"><span data-offset-key="5db9239840d644659cf72d926e71e7c0:0"> endpoint reference.</span></span>
 
 <span data-key="95b2fc3aba704d0ea798d5e2798036b3"><span data-offset-key="95b2fc3aba704d0ea798d5e2798036b3:0">Requirements</span></span>
 
-### 
+###
 
 <span data-key="15003f0f1ea04f60a7db0fed55e46bc1"><span data-offset-key="15003f0f1ea04f60a7db0fed55e46bc1:0">Access Tokens</span></span>
 
 <span data-key="5f59b0eed73c4f918f966275e5c295c9"><span data-offset-key="5f59b0eed73c4f918f966275e5c295c9:0">All requests must include the app user's </span></span><a href="https://developers.facebook.com/docs/facebook-login/access-tokens/#usertokens" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="461e4bc5494d49f782ed7d1d930bba1b" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="431ccc3f082d4182a10c57c86daa0235"><span data-offset-key="431ccc3f082d4182a10c57c86daa0235:0">User</span></span></span></a><span data-key="33634779858246c1b471415e5b1ce5b8"><span data-offset-key="33634779858246c1b471415e5b1ce5b8:0"> access token.</span></span>
 
-### 
+###
 
 <span data-key="500ad0ef1945412899b4a6fae4a6119d"><span data-offset-key="500ad0ef1945412899b4a6fae4a6119d:0">Permissions</span></span>
 
 <span data-key="a7a336d5dbd640db929f0a5c5deafb31"><span data-offset-key="a7a336d5dbd640db929f0a5c5deafb31:0">Publishing relies on a combination of the following permissions. The exact combination depends on which </span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#endpoints" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0f5c1663bd744a279cab94a55d5d16eb" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="8342996ca5d347868a3ae302efd923d9"><span data-offset-key="8342996ca5d347868a3ae302efd923d9:0">endpoints</span></span></span></a><span data-key="3deb2f54c7f6427fae57b1aeb3e657a2"><span data-offset-key="3deb2f54c7f6427fae57b1aeb3e657a2:0"> your app will be using. Refer to our </span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#endpoints" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="744ca0201e0c41748368c2ef035dd616" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="0a9d1c8ffaa64e95908bff0e35ef538b"><span data-offset-key="0a9d1c8ffaa64e95908bff0e35ef538b:0">endpoint</span></span></span></a><span data-key="f75ba5df916841b59e37329d3c99a5dc"><span data-offset-key="f75ba5df916841b59e37329d3c99a5dc:0"> references to determine which permissions they require.</span></span>
 
--   
+- <span data-key="e49f8d1297514ea6ba55be9eab7ea16f"><span data-offset-key="e49f8d1297514ea6ba55be9eab7ea16f:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/ads_management" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a790647b489f4733a25396ada760e5f0" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="d8198b5baba24ab18e84692c9f4e5207"><span data-offset-key="d8198b5baba24ab18e84692c9f4e5207:0">ads_management</span></span></span></a><span data-key="ca85aecb260e4f878c446a02c03a0571"><span data-offset-key="ca85aecb260e4f878c446a02c03a0571:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="e49f8d1297514ea6ba55be9eab7ea16f"><span data-offset-key="e49f8d1297514ea6ba55be9eab7ea16f:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/ads_management" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a790647b489f4733a25396ada760e5f0" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="d8198b5baba24ab18e84692c9f4e5207"><span data-offset-key="d8198b5baba24ab18e84692c9f4e5207:0">ads_management</span></span></span></a><span data-key="ca85aecb260e4f878c446a02c03a0571"><span data-offset-key="ca85aecb260e4f878c446a02c03a0571:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="f99c18b8e2cd4ee9bc66ffdfd987a3e0"><span data-offset-key="f99c18b8e2cd4ee9bc66ffdfd987a3e0:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/business_management" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="23ded1a189d340758a05038b05c1f41c" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="33fc8e47338d4ece8eb8083d64923498"><span data-offset-key="33fc8e47338d4ece8eb8083d64923498:0">business_management</span></span></span></a><span data-key="0aa948a41f3840fe8c03a7350ff797af"><span data-offset-key="0aa948a41f3840fe8c03a7350ff797af:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="700fa0efa97940959e99698d05b06d95"><span data-offset-key="700fa0efa97940959e99698d05b06d95:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/instagram_basic" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0283cfa87fd445f6af38b09f91508516" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="6346df7508f74fd58d115422ce60ed38"><span data-offset-key="6346df7508f74fd58d115422ce60ed38:0">instagram_basic</span></span></span></a><span data-key="ff994680a354462fbe37c4ca2b602fec"><span data-offset-key="ff994680a354462fbe37c4ca2b602fec:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="f99c18b8e2cd4ee9bc66ffdfd987a3e0"><span data-offset-key="f99c18b8e2cd4ee9bc66ffdfd987a3e0:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/business_management" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="23ded1a189d340758a05038b05c1f41c" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="33fc8e47338d4ece8eb8083d64923498"><span data-offset-key="33fc8e47338d4ece8eb8083d64923498:0">business_management</span></span></span></a><span data-key="0aa948a41f3840fe8c03a7350ff797af"><span data-offset-key="0aa948a41f3840fe8c03a7350ff797af:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="fa021af5ee9f474b8e8cef2f41026dc0"><span data-offset-key="fa021af5ee9f474b8e8cef2f41026dc0:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/instagram_content_publish" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8654f91346ff45448848a983b4a9a84a" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="35e181bdc1c8486c83a9449f8b073d6a"><span data-offset-key="35e181bdc1c8486c83a9449f8b073d6a:0">instagram_content_publish</span></span></span></a><span data-key="3fcb2670aa14496fa30f49d77bf13ad9"><span data-offset-key="3fcb2670aa14496fa30f49d77bf13ad9:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
-
-    <span data-key="700fa0efa97940959e99698d05b06d95"><span data-offset-key="700fa0efa97940959e99698d05b06d95:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/instagram_basic" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0283cfa87fd445f6af38b09f91508516" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="6346df7508f74fd58d115422ce60ed38"><span data-offset-key="6346df7508f74fd58d115422ce60ed38:0">instagram_basic</span></span></span></a><span data-key="ff994680a354462fbe37c4ca2b602fec"><span data-offset-key="ff994680a354462fbe37c4ca2b602fec:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="fa021af5ee9f474b8e8cef2f41026dc0"><span data-offset-key="fa021af5ee9f474b8e8cef2f41026dc0:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/instagram_content_publish" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8654f91346ff45448848a983b4a9a84a" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="35e181bdc1c8486c83a9449f8b073d6a"><span data-offset-key="35e181bdc1c8486c83a9449f8b073d6a:0">instagram_content_publish</span></span></span></a><span data-key="3fcb2670aa14496fa30f49d77bf13ad9"><span data-offset-key="3fcb2670aa14496fa30f49d77bf13ad9:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="a30cfe60b3394e0aad4e157a72c8f48a"><span data-offset-key="a30cfe60b3394e0aad4e157a72c8f48a:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/pages_read_engagement" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e49d410e1f4c497c8391d05e8e9423b7" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="e3ba825e32a84670bf545b1a16380eb1"><span data-offset-key="e3ba825e32a84670bf545b1a16380eb1:0">pages_read_engagement</span></span></span></a><span data-key="931d69638d9e4426b17ba978162a05ce"><span data-offset-key="931d69638d9e4426b17ba978162a05ce:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="a30cfe60b3394e0aad4e157a72c8f48a"><span data-offset-key="a30cfe60b3394e0aad4e157a72c8f48a:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/pages_read_engagement" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e49d410e1f4c497c8391d05e8e9423b7" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="e3ba825e32a84670bf545b1a16380eb1"><span data-offset-key="e3ba825e32a84670bf545b1a16380eb1:0">pages_read_engagement</span></span></span></a><span data-key="931d69638d9e4426b17ba978162a05ce"><span data-offset-key="931d69638d9e4426b17ba978162a05ce:0"><span data-slate-zero-width="z">​</span></span></span>
 
 <span data-key="1e4ff254744c43088153726866a7b604"><span data-offset-key="1e4ff254744c43088153726866a7b604:0">If your app will be used by app users who do not have a </span></span><a href="https://developers.facebook.com/docs/development/build-and-test/app-roles" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d822d4eb94ce4994aa2151780755860b" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="498112b844844774a5ca90a0ed0c55af"><span data-offset-key="498112b844844774a5ca90a0ed0c55af:0">role</span></span></span></a><span data-key="f013f5517d714ef7b4bac5b76842fb10"><span data-offset-key="f013f5517d714ef7b4bac5b76842fb10:0"> on your app or a role in a </span></span><a href="https://www.facebook.com/business/help/442345745885606?id=180505742745347" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b26142d7f5c64da0b374838a14570959" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="4805cf400b5b4596828c4f91bd9c3fb5"><span data-offset-key="4805cf400b5b4596828c4f91bd9c3fb5:0">Business</span></span></span></a><span data-key="fdb869b3cd9444b7988a461570f66812"><span data-offset-key="fdb869b3cd9444b7988a461570f66812:0"> that claimed your app, you must request approval for each permission via </span></span><a href="https://developers.facebook.com/docs/app-review" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9d9b5706b92e4ce78954da79dc715369" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="b967c6c890984a2fa1a02241b9826d24"><span data-offset-key="b967c6c890984a2fa1a02241b9826d24:0">App Review</span></span></span></a><span data-key="86b975c6da204434a4d873d4b6cdd36b"><span data-offset-key="86b975c6da204434a4d873d4b6cdd36b:0"> before non-role app users can grant them to your app.</span></span>
 
-### 
+###
 
 <span data-key="af6205a82f884d4b8f6c156fb79a485f"><span data-offset-key="af6205a82f884d4b8f6c156fb79a485f:0">Public Server</span></span>
 
 <span data-key="cfba7358a3aa41249a967cf15d11c280"><span data-offset-key="cfba7358a3aa41249a967cf15d11c280:0">We will cURL your media object using the passed in URL so the object must be on a public server.</span></span>
 
-### 
+###
 
 <span data-key="16e5167ff8534a128fe2f48dda74eacf"><span data-offset-key="16e5167ff8534a128fe2f48dda74eacf:0">Page Publishing Authorization</span></span>
 
@@ -440,55 +410,37 @@ Content Publishing
 
 <span data-key="e58109ad70bb4a78862f482ca4729ca2"><span data-offset-key="e58109ad70bb4a78862f482ca4729ca2:0">The API consists of the following endpoints. Refer to each endpoint's reference document for usage requirements.</span></span>
 
--   
+- <span data-key="1f7a4c2d5676449aa55b06f9ac9d2706"><span data-offset-key="1f7a4c2d5676449aa55b06f9ac9d2706:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0ec8cce85a3c4b128a408a238436952a" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="50f144202b4445f79048a7ee1bf2b983"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="50f144202b4445f79048a7ee1bf2b983:0">POST /{ig-user-id}/media</code></span></span></a><span data-key="f8a0c125052943258a6a18c30bb3c0fa"><span data-offset-key="f8a0c125052943258a6a18c30bb3c0fa:0"> — upload media and create media containers.</span></span>
 
-    <span data-key="1f7a4c2d5676449aa55b06f9ac9d2706"><span data-offset-key="1f7a4c2d5676449aa55b06f9ac9d2706:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0ec8cce85a3c4b128a408a238436952a" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="50f144202b4445f79048a7ee1bf2b983"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="50f144202b4445f79048a7ee1bf2b983:0">POST                                                     /{ig-user-id}/media</code></span></span></a><span data-key="f8a0c125052943258a6a18c30bb3c0fa"><span data-offset-key="f8a0c125052943258a6a18c30bb3c0fa:0"> — upload media and create media containers.</span></span>
+- <span data-key="150713305084418994844303065fd6d5"><span data-offset-key="150713305084418994844303065fd6d5:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media_publish#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="670f3731f14e47b78ad14f1b07b4ffb2" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="0c2d6a6a871040b69bc5e54a907c71f9"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="0c2d6a6a871040b69bc5e54a907c71f9:0">POST /{ig-user-id}/media_publish</code></span></span></a><span data-key="ac5b9cba3a2e47309071a47fdd0116d8"><span data-offset-key="ac5b9cba3a2e47309071a47fdd0116d8:0"> — publish uploaded media using their media containers.</span></span>
 
--   
+- <span data-key="4922862febb845f99b5832a21556d9dd"><span data-offset-key="4922862febb845f99b5832a21556d9dd:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-container#reading" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="752226b9899e4a358001c9081986e75e" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="44988bf1907e4fa59f8c11132fb12f4b"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="44988bf1907e4fa59f8c11132fb12f4b:0">GET /{ig-container-id}?fields=status_code</code></span></span></a><span data-key="c17ca0c1fe2b4909b7212836824571e3"><span data-offset-key="c17ca0c1fe2b4909b7212836824571e3:0"> — check media container publishing eligibility and status.</span></span>
 
-    <span data-key="150713305084418994844303065fd6d5"><span data-offset-key="150713305084418994844303065fd6d5:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media_publish#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="670f3731f14e47b78ad14f1b07b4ffb2" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="0c2d6a6a871040b69bc5e54a907c71f9"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="0c2d6a6a871040b69bc5e54a907c71f9:0">POST                                                     /{ig-user-id}/media_publish</code></span></span></a><span data-key="ac5b9cba3a2e47309071a47fdd0116d8"><span data-offset-key="ac5b9cba3a2e47309071a47fdd0116d8:0"> — publish uploaded media using their media containers.</span></span>
-
--   
-
-    <span data-key="4922862febb845f99b5832a21556d9dd"><span data-offset-key="4922862febb845f99b5832a21556d9dd:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-container#reading" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="752226b9899e4a358001c9081986e75e" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="44988bf1907e4fa59f8c11132fb12f4b"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="44988bf1907e4fa59f8c11132fb12f4b:0">GET                                                     /{ig-container-id}?fields=status_code</code></span></span></a><span data-key="c17ca0c1fe2b4909b7212836824571e3"><span data-offset-key="c17ca0c1fe2b4909b7212836824571e3:0"> — check media container publishing eligibility and status.</span></span>
-
--   
-
-    <span data-key="81b92b794c05494d98aa507bdde99288"><span data-offset-key="81b92b794c05494d98aa507bdde99288:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/content_publishing_limit" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="00f58ab622d1499ebc4227baab0a60c6" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="aab632c7807546b1be7afae374567799"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="aab632c7807546b1be7afae374567799:0">GET                                                     /{ig-user-id}/content_publishing_limit</code></span></span></a><span data-key="505ee64333854bd0813ba9de1ddd9bfb"><span data-offset-key="505ee64333854bd0813ba9de1ddd9bfb:0"> — check app user's current publishing rate limit usage.</span></span>
+- <span data-key="81b92b794c05494d98aa507bdde99288"><span data-offset-key="81b92b794c05494d98aa507bdde99288:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/content_publishing_limit" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="00f58ab622d1499ebc4227baab0a60c6" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="aab632c7807546b1be7afae374567799"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="aab632c7807546b1be7afae374567799:0">GET /{ig-user-id}/content_publishing_limit</code></span></span></a><span data-key="505ee64333854bd0813ba9de1ddd9bfb"><span data-offset-key="505ee64333854bd0813ba9de1ddd9bfb:0"> — check app user's current publishing rate limit usage.</span></span>
 
 <span data-key="b3623285139a4ec49f8f6e73c01277da"><span data-offset-key="b3623285139a4ec49f8f6e73c01277da:0">Examples</span></span>
 
--   
+- <span data-key="971a3c1a8e44490099cfde90bcc44e10"><span data-offset-key="971a3c1a8e44490099cfde90bcc44e10:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-photos" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="034effa9c1124f22a4b54c8d121618b1" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="6eebfef32052476da32382d0f7f48cf7"><span data-offset-key="6eebfef32052476da32382d0f7f48cf7:0">Publishing Photos</span></span></span></a><span data-key="b67c58e2de834e6f881da42bc77b020f"><span data-offset-key="b67c58e2de834e6f881da42bc77b020f:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="971a3c1a8e44490099cfde90bcc44e10"><span data-offset-key="971a3c1a8e44490099cfde90bcc44e10:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-photos" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="034effa9c1124f22a4b54c8d121618b1" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="6eebfef32052476da32382d0f7f48cf7"><span data-offset-key="6eebfef32052476da32382d0f7f48cf7:0">Publishing Photos</span></span></span></a><span data-key="b67c58e2de834e6f881da42bc77b020f"><span data-offset-key="b67c58e2de834e6f881da42bc77b020f:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="785445afc4d0419a8285ba412f7ca379"><span data-offset-key="785445afc4d0419a8285ba412f7ca379:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-with-tagged-users" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cae2f5c77e224bf2ae1d06043212ef8c" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="8314314ffe624666b71bdf3b293751f4"><span data-offset-key="8314314ffe624666b71bdf3b293751f4:0">Publishing Photos w/ Tagged Users</span></span></span></a><span data-key="b8a059cb1bf4432b95eb043096b8b971"><span data-offset-key="b8a059cb1bf4432b95eb043096b8b971:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="b08af0febb6e46b5b3ebe3350ea52580"><span data-offset-key="b08af0febb6e46b5b3ebe3350ea52580:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-with-locations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7d63287fea404761890007315bc91c4e" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="c136d768878e4b7d882476ac78bc4bb6"><span data-offset-key="c136d768878e4b7d882476ac78bc4bb6:0">Publishing Photos w/ Locations</span></span></span></a><span data-key="c244a6630d4f487493bf044dceef762d"><span data-offset-key="c244a6630d4f487493bf044dceef762d:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="785445afc4d0419a8285ba412f7ca379"><span data-offset-key="785445afc4d0419a8285ba412f7ca379:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-with-tagged-users" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cae2f5c77e224bf2ae1d06043212ef8c" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="8314314ffe624666b71bdf3b293751f4"><span data-offset-key="8314314ffe624666b71bdf3b293751f4:0">Publishing Photos w/ Tagged Users</span></span></span></a><span data-key="b8a059cb1bf4432b95eb043096b8b971"><span data-offset-key="b8a059cb1bf4432b95eb043096b8b971:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="c6f6c20c2a4344beb3721dc3e1d3bfe1"><span data-offset-key="c6f6c20c2a4344beb3721dc3e1d3bfe1:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-videos" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f3e32ed5a74b4dd99b6752593095db20" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="e3e4660ff3e5420ebd7948f095ac5977"><span data-offset-key="e3e4660ff3e5420ebd7948f095ac5977:0">Publishing Videos</span></span></span></a><span data-key="ab5eedf600044a2597308277ef172074"><span data-offset-key="ab5eedf600044a2597308277ef172074:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+- <span data-key="0dd9dde0b15b4d1598e2c7753159ee6b"><span data-offset-key="0dd9dde0b15b4d1598e2c7753159ee6b:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#checking-rate-limit-usage" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="575715ebd76c46bd9abde88c1e355e90" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="a47cbe6b8b0340d5bad75afcd4816986"><span data-offset-key="a47cbe6b8b0340d5bad75afcd4816986:0">Checking Rate Limit Usage</span></span></span></a><span data-key="367751d12b6f4aa796d3f51b0859423d"><span data-offset-key="367751d12b6f4aa796d3f51b0859423d:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="b08af0febb6e46b5b3ebe3350ea52580"><span data-offset-key="b08af0febb6e46b5b3ebe3350ea52580:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-with-locations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7d63287fea404761890007315bc91c4e" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="c136d768878e4b7d882476ac78bc4bb6"><span data-offset-key="c136d768878e4b7d882476ac78bc4bb6:0">Publishing Photos w/ Locations</span></span></span></a><span data-key="c244a6630d4f487493bf044dceef762d"><span data-offset-key="c244a6630d4f487493bf044dceef762d:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="c6f6c20c2a4344beb3721dc3e1d3bfe1"><span data-offset-key="c6f6c20c2a4344beb3721dc3e1d3bfe1:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-videos" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f3e32ed5a74b4dd99b6752593095db20" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="e3e4660ff3e5420ebd7948f095ac5977"><span data-offset-key="e3e4660ff3e5420ebd7948f095ac5977:0">Publishing Videos</span></span></span></a><span data-key="ab5eedf600044a2597308277ef172074"><span data-offset-key="ab5eedf600044a2597308277ef172074:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="0dd9dde0b15b4d1598e2c7753159ee6b"><span data-offset-key="0dd9dde0b15b4d1598e2c7753159ee6b:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#checking-rate-limit-usage" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="575715ebd76c46bd9abde88c1e355e90" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="a47cbe6b8b0340d5bad75afcd4816986"><span data-offset-key="a47cbe6b8b0340d5bad75afcd4816986:0">Checking Rate Limit Usage</span></span></span></a><span data-key="367751d12b6f4aa796d3f51b0859423d"><span data-offset-key="367751d12b6f4aa796d3f51b0859423d:0"><span data-slate-zero-width="z">​</span></span></span>
-
-### 
+###
 
 <span data-key="a9faa10c63a2411789f6c1b6f12909a3"><span data-offset-key="a9faa10c63a2411789f6c1b6f12909a3:0">Publishing Photos</span></span>
 
 <span data-key="9b2d8876335f4ee49e99ef7e73f6eb60"><span data-offset-key="9b2d8876335f4ee49e99ef7e73f6eb60:0">Publishing photos is a two-step process:</span></span>
 
 1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">1.</span>
-    <span data-key="d49ceb4bd8bf4e3fa612361f4b09778a"><span data-offset-key="d49ceb4bd8bf4e3fa612361f4b09778a:0">Use the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="27b42a2b9d3f4433887a56dffba84b1f" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="b7641cdbd47e482dbda187dae188dd1c"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="b7641cdbd47e482dbda187dae188dd1c:0">POST                                                     /{ig-user-id}/media</code></span></span></a><span data-key="79af1fd132ed445ebece58f0e5d614fd"><span data-offset-key="79af1fd132ed445ebece58f0e5d614fd:0"> endpoint to upload a photo and create an </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-container" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d46f360f4fdc4412a41d0bcd0478a961" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="5019cfe9017f4f868475dcc01cfd5a81"><span data-offset-key="5019cfe9017f4f868475dcc01cfd5a81:0">IG Container</span></span></span></a><span data-key="d6387d6ff8954053a07d6506ab435843"><span data-offset-key="d6387d6ff8954053a07d6506ab435843:0">.</span></span>
+    <span data-key="d49ceb4bd8bf4e3fa612361f4b09778a"><span data-offset-key="d49ceb4bd8bf4e3fa612361f4b09778a:0">Use the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="27b42a2b9d3f4433887a56dffba84b1f" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="b7641cdbd47e482dbda187dae188dd1c"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="b7641cdbd47e482dbda187dae188dd1c:0">POST /{ig-user-id}/media</code></span></span></a><span data-key="79af1fd132ed445ebece58f0e5d614fd"><span data-offset-key="79af1fd132ed445ebece58f0e5d614fd:0"> endpoint to upload a photo and create an </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-container" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d46f360f4fdc4412a41d0bcd0478a961" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="5019cfe9017f4f868475dcc01cfd5a81"><span data-offset-key="5019cfe9017f4f868475dcc01cfd5a81:0">IG Container</span></span></span></a><span data-key="d6387d6ff8954053a07d6506ab435843"><span data-offset-key="d6387d6ff8954053a07d6506ab435843:0">.</span></span>
 
 2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">2.</span>
-    <span data-key="be00f8803c2945d988906e87a3a5fa35"><span data-offset-key="be00f8803c2945d988906e87a3a5fa35:0">Use the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media_publish#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="842e0969ce42445b86c63a5ec3db1573" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="c8306ef5999b478d839935d767e303c8"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="c8306ef5999b478d839935d767e303c8:0">POST                                                     /{ig-user-id}/media_publish</code></span></span></a><span data-key="47a6bb79b3e9413d8a9080c12f209158"><span data-offset-key="47a6bb79b3e9413d8a9080c12f209158:0"> endpoint to publish the photo using its container.</span></span>
+    <span data-key="be00f8803c2945d988906e87a3a5fa35"><span data-offset-key="be00f8803c2945d988906e87a3a5fa35:0">Use the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media_publish#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="842e0969ce42445b86c63a5ec3db1573" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="c8306ef5999b478d839935d767e303c8"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="c8306ef5999b478d839935d767e303c8:0">POST /{ig-user-id}/media_publish</code></span></span></a><span data-key="47a6bb79b3e9413d8a9080c12f209158"><span data-offset-key="47a6bb79b3e9413d8a9080c12f209158:0"> endpoint to publish the photo using its container.</span></span>
 
 <span data-key="e5a1796a2eae4b8b82fb20be243d05a3"><span data-offset-key="e5a1796a2eae4b8b82fb20be243d05a3:0">For example, let's say you have a photo at...</span></span>
 
@@ -508,7 +460,7 @@ Copied!
 
 2
 
-<span data-key="c2ded6014fdc45c7b1f7943da517fe5d"><span data-offset-key="c2ded6014fdc45c7b1f7943da517fe5d:0"> ?image\_url=https//www.example.com/images/bronz-fonz.jpg</span></span>
+<span data-key="c2ded6014fdc45c7b1f7943da517fe5d"><span data-offset-key="c2ded6014fdc45c7b1f7943da517fe5d:0"> ?image_url=https//www.example.com/images/bronz-fonz.jpg</span></span>
 
 3
 
@@ -522,15 +474,15 @@ Copied!
 
 1
 
-<span data-key="2861b003b02d4132bf628f5397350767"><span data-offset-key="2861b003b02d4132bf628f5397350767:0">POST graph.facebook.com/17841405822304914/media\_publish</span></span>
+<span data-key="2861b003b02d4132bf628f5397350767"><span data-offset-key="2861b003b02d4132bf628f5397350767:0">POST graph.facebook.com/17841405822304914/media_publish</span></span>
 
 2
 
-<span data-key="13fe65812c7c4bf38e9bbf7448db1d20"><span data-offset-key="13fe65812c7c4bf38e9bbf7448db1d20:0"> ?creation\_id=17889455560051444</span></span>
+<span data-key="13fe65812c7c4bf38e9bbf7448db1d20"><span data-offset-key="13fe65812c7c4bf38e9bbf7448db1d20:0"> ?creation_id=17889455560051444</span></span>
 
 Copied!
 
-### 
+###
 
 <span data-key="88fe05116b224ae290d770eeae5ac6d4"><span data-offset-key="88fe05116b224ae290d770eeae5ac6d4:0">Publishing Photos w/ Tagged Users</span></span>
 
@@ -548,7 +500,7 @@ Copied!
 
 2
 
-<span data-key="c783f30bf4fc4990bd81486445a36e0f"><span data-offset-key="c783f30bf4fc4990bd81486445a36e0f:0"> ?image\_url=https://www.example.com/images/bronzed-fonzes.jpg</span></span>
+<span data-key="c783f30bf4fc4990bd81486445a36e0f"><span data-offset-key="c783f30bf4fc4990bd81486445a36e0f:0"> ?image_url=https://www.example.com/images/bronzed-fonzes.jpg</span></span>
 
 3
 
@@ -556,7 +508,7 @@ Copied!
 
 4
 
-<span data-key="78f1ba2821544a92baa716d82bed8111"><span data-offset-key="78f1ba2821544a92baa716d82bed8111:0"> &user\_tags=</span></span>
+<span data-key="78f1ba2821544a92baa716d82bed8111"><span data-offset-key="78f1ba2821544a92baa716d82bed8111:0"> &user_tags=</span></span>
 
 5
 
@@ -612,27 +564,17 @@ Copied!
 
 <span data-key="2fed8b4693cd48499e7f02968127b2d9">**Notes**</span>
 
--   
+- <span data-key="093dd79b1034470b9ac6577e924c8e7e"><span data-offset-key="093dd79b1034470b9ac6577e924c8e7e:0">The </span>`user_tags`<span data-offset-key="093dd79b1034470b9ac6577e924c8e7e:2"> value must be an array of objects formatted with JSON.</span></span>
 
-    <span data-key="093dd79b1034470b9ac6577e924c8e7e"><span data-offset-key="093dd79b1034470b9ac6577e924c8e7e:0">The </span>`user_tags`<span data-offset-key="093dd79b1034470b9ac6577e924c8e7e:2"> value must be an array of objects formatted with JSON.</span></span>
+- <span data-key="b49c6c78d044482cba1d73778770d613"><span data-offset-key="b49c6c78d044482cba1d73778770d613:0">You can only tag users with public Instagram accounts.</span></span>
 
--   
+- <span data-key="4f20023cb6984e55bd00213312826915"><span data-offset-key="4f20023cb6984e55bd00213312826915:0">The object must contain all three properties (</span>`username`<span data-offset-key="4f20023cb6984e55bd00213312826915:2">, </span>`x`<span data-offset-key="4f20023cb6984e55bd00213312826915:4">, and </span>`y`<span data-offset-key="4f20023cb6984e55bd00213312826915:6">) for each user.</span></span>
 
-    <span data-key="b49c6c78d044482cba1d73778770d613"><span data-offset-key="b49c6c78d044482cba1d73778770d613:0">You can only tag users with public Instagram accounts.</span></span>
+- <span data-key="a9844742a0fd40beabc76fab05b3da3d">`x`<span data-offset-key="a9844742a0fd40beabc76fab05b3da3d:1"> and </span>`y`<span data-offset-key="a9844742a0fd40beabc76fab05b3da3d:3"> values must be </span>`float`<span data-offset-key="a9844742a0fd40beabc76fab05b3da3d:5"> numbers that originate from the top-left of the image, with a range of </span>`0.0`<span data-offset-key="a9844742a0fd40beabc76fab05b3da3d:7">–</span>`1.0`<span data-offset-key="a9844742a0fd40beabc76fab05b3da3d:9">.</span></span>
 
--   
+- <span data-key="096f931787ed4b39afad263f8671d4a7"><span data-offset-key="096f931787ed4b39afad263f8671d4a7:0">The hashtag character (\#) is HTML URL-encoded in the request (%23).</span></span>
 
-    <span data-key="4f20023cb6984e55bd00213312826915"><span data-offset-key="4f20023cb6984e55bd00213312826915:0">The object must contain all three properties (</span>`username`<span data-offset-key="4f20023cb6984e55bd00213312826915:2">, </span>`x`<span data-offset-key="4f20023cb6984e55bd00213312826915:4">, and </span>`y`<span data-offset-key="4f20023cb6984e55bd00213312826915:6">) for each user.</span></span>
-
--   
-
-    <span data-key="a9844742a0fd40beabc76fab05b3da3d">`x`<span data-offset-key="a9844742a0fd40beabc76fab05b3da3d:1"> and </span>`y`<span data-offset-key="a9844742a0fd40beabc76fab05b3da3d:3"> values must be </span>`float`<span data-offset-key="a9844742a0fd40beabc76fab05b3da3d:5"> numbers that originate from the top-left of the image, with a range of </span>`0.0`<span data-offset-key="a9844742a0fd40beabc76fab05b3da3d:7">–</span>`1.0`<span data-offset-key="a9844742a0fd40beabc76fab05b3da3d:9">.</span></span>
-
--   
-
-    <span data-key="096f931787ed4b39afad263f8671d4a7"><span data-offset-key="096f931787ed4b39afad263f8671d4a7:0">The hashtag character (\#) is HTML URL-encoded in the request (%23).</span></span>
-
-### 
+###
 
 <span data-key="a3c72ed24d8c43b39ebfa7279dd4b799"><span data-offset-key="a3c72ed24d8c43b39ebfa7279dd4b799:0">Publishing Photos w/ Locations</span></span>
 
@@ -654,7 +596,7 @@ Copied!
 
 4
 
-<span data-key="59352373b0964947a32c7fce1a0e38f0"><span data-offset-key="59352373b0964947a32c7fce1a0e38f0:0"> &access\_token={access-token}</span></span>
+<span data-key="59352373b0964947a32c7fce1a0e38f0"><span data-offset-key="59352373b0964947a32c7fce1a0e38f0:0"> &access_token={access-token}</span></span>
 
 Copied!
 
@@ -740,7 +682,7 @@ Copied!
 
 2
 
-<span data-key="ba08700995b04471aa34fc8a50d3fdc8"><span data-offset-key="ba08700995b04471aa34fc8a50d3fdc8:0"> ?image\_url=https://www.example.com/images/gugges.jpg</span></span>
+<span data-key="ba08700995b04471aa34fc8a50d3fdc8"><span data-offset-key="ba08700995b04471aa34fc8a50d3fdc8:0"> ?image_url=https://www.example.com/images/gugges.jpg</span></span>
 
 3
 
@@ -748,23 +690,23 @@ Copied!
 
 4
 
-<span data-key="5f7935d0f5b249e899b94495256f4291"><span data-offset-key="5f7935d0f5b249e899b94495256f4291:0"> &location\_id=7640348500</span></span>
+<span data-key="5f7935d0f5b249e899b94495256f4291"><span data-offset-key="5f7935d0f5b249e899b94495256f4291:0"> &location_id=7640348500</span></span>
 
 Copied!
 
 <span data-key="c5e07eb0c0e646799dd5722806b80209"><span data-offset-key="c5e07eb0c0e646799dd5722806b80209:0">This would return a container ID which you would then use with the </span>`POST /{ig-user-id}/media_publish`<span data-offset-key="c5e07eb0c0e646799dd5722806b80209:2"> endpoint to publish the photo.</span></span>
 
-### 
+###
 
 <span data-key="65b0c86679934d048feb40246e6bb6a3"><span data-offset-key="65b0c86679934d048feb40246e6bb6a3:0">Publishing Videos</span></span>
 
 <span data-key="56380fff84cf4a01be57fd9a9f77d702"><span data-offset-key="56380fff84cf4a01be57fd9a9f77d702:0">Publishing videos is a two-step process:</span></span>
 
 1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">1.</span>
-    <span data-key="9b5daee3253443be9ab054532be005bf"><span data-offset-key="9b5daee3253443be9ab054532be005bf:0">Use the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2f5d58c44e8b4985b76a487adbcd2724" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="6019403df48444a09d3f27f7eb8aa991"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="6019403df48444a09d3f27f7eb8aa991:0">POST                                                     /{ig-user-id}/media</code></span></span></a><span data-key="d17d5a132a864f41b13f3edf1585fe56"><span data-offset-key="d17d5a132a864f41b13f3edf1585fe56:0"> endpoint to create an </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-container" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="45768ed1d57747cb9fcf34b30a279d7c" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="3c5343e8a78247cd8b1b3570dc4c9274"><span data-offset-key="3c5343e8a78247cd8b1b3570dc4c9274:0">IG Container</span></span></span></a><span data-key="c7588820758441208c5c027508d452d9"><span data-offset-key="c7588820758441208c5c027508d452d9:0">.</span></span>
+    <span data-key="9b5daee3253443be9ab054532be005bf"><span data-offset-key="9b5daee3253443be9ab054532be005bf:0">Use the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2f5d58c44e8b4985b76a487adbcd2724" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="6019403df48444a09d3f27f7eb8aa991"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="6019403df48444a09d3f27f7eb8aa991:0">POST /{ig-user-id}/media</code></span></span></a><span data-key="d17d5a132a864f41b13f3edf1585fe56"><span data-offset-key="d17d5a132a864f41b13f3edf1585fe56:0"> endpoint to create an </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-container" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="45768ed1d57747cb9fcf34b30a279d7c" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="3c5343e8a78247cd8b1b3570dc4c9274"><span data-offset-key="3c5343e8a78247cd8b1b3570dc4c9274:0">IG Container</span></span></span></a><span data-key="c7588820758441208c5c027508d452d9"><span data-offset-key="c7588820758441208c5c027508d452d9:0">.</span></span>
 
 2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">2.</span>
-    <span data-key="2af79fd16d754995b1bad9bf246a8d4e"><span data-offset-key="2af79fd16d754995b1bad9bf246a8d4e:0">Use the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media_publish#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="89efa9e9c1164ac299efad40a7fec59b" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="9ed4b7f5dcde44f98ace3b7d9141e6a8"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="9ed4b7f5dcde44f98ace3b7d9141e6a8:0">POST                                                     /{ig-user-id}/media_publish</code></span></span></a><span data-key="d220ec8d069642e5a31ed046d1acb703"><span data-offset-key="d220ec8d069642e5a31ed046d1acb703:0"> endpoint to publish the video using its container.</span></span>
+    <span data-key="2af79fd16d754995b1bad9bf246a8d4e"><span data-offset-key="2af79fd16d754995b1bad9bf246a8d4e:0">Use the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media_publish#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="89efa9e9c1164ac299efad40a7fec59b" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="9ed4b7f5dcde44f98ace3b7d9141e6a8"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="9ed4b7f5dcde44f98ace3b7d9141e6a8:0">POST /{ig-user-id}/media_publish</code></span></span></a><span data-key="d220ec8d069642e5a31ed046d1acb703"><span data-offset-key="d220ec8d069642e5a31ed046d1acb703:0"> endpoint to publish the video using its container.</span></span>
 
 <span data-key="c59f20f0f30545ce8fe2c77da207e264"><span data-offset-key="c59f20f0f30545ce8fe2c77da207e264:0">For example, let's say you have a video at...</span></span>
 
@@ -784,11 +726,11 @@ Copied!
 
 2
 
-<span data-key="b9df6186c8ff4031925a522beadfe76e"><span data-offset-key="b9df6186c8ff4031925a522beadfe76e:0"> ?media\_type=VIDEO</span></span>
+<span data-key="b9df6186c8ff4031925a522beadfe76e"><span data-offset-key="b9df6186c8ff4031925a522beadfe76e:0"> ?media_type=VIDEO</span></span>
 
 3
 
-<span data-key="c79e57f99ea6485d97b5043e3146d41f"><span data-offset-key="c79e57f99ea6485d97b5043e3146d41f:0"> &video\_url=https//www.example.com/videos/hungry-fonzes.mov</span></span>
+<span data-key="c79e57f99ea6485d97b5043e3146d41f"><span data-offset-key="c79e57f99ea6485d97b5043e3146d41f:0"> &video_url=https//www.example.com/videos/hungry-fonzes.mov</span></span>
 
 4
 
@@ -802,15 +744,15 @@ Copied!
 
 1
 
-<span data-key="9698d6bd786a4383a63e2e13e31e1b72"><span data-offset-key="9698d6bd786a4383a63e2e13e31e1b72:0">POST graph.facebook.com/17841405822304914/media\_publish</span></span>
+<span data-key="9698d6bd786a4383a63e2e13e31e1b72"><span data-offset-key="9698d6bd786a4383a63e2e13e31e1b72:0">POST graph.facebook.com/17841405822304914/media_publish</span></span>
 
 2
 
-<span data-key="8f9374f211304034892c8c8a32652531"><span data-offset-key="8f9374f211304034892c8c8a32652531:0"> ?creation\_id=17889455560051447</span></span>
+<span data-key="8f9374f211304034892c8c8a32652531"><span data-offset-key="8f9374f211304034892c8c8a32652531:0"> ?creation_id=17889455560051447</span></span>
 
 Copied!
 
-### 
+###
 
 <span data-key="6b1595a8e3a24937953f41e16cd57ae9"><span data-offset-key="6b1595a8e3a24937953f41e16cd57ae9:0">Checking Rate Limit Usage</span></span>
 
@@ -820,7 +762,7 @@ Copied!
 
 1
 
-<span data-key="c3c8d001e7354e20a1007fb99fbcc274"><span data-offset-key="c3c8d001e7354e20a1007fb99fbcc274:0">GET graph.facebook.com/17841400008460056/content\_publishing\_limit</span></span>
+<span data-key="c3c8d001e7354e20a1007fb99fbcc274"><span data-offset-key="c3c8d001e7354e20a1007fb99fbcc274:0">GET graph.facebook.com/17841400008460056/content_publishing_limit</span></span>
 
 Copied!
 
@@ -840,7 +782,7 @@ Copied!
 
 4
 
-<span data-key="2745569e9d6e45f28aa3e998ca1ca401"><span data-offset-key="2745569e9d6e45f28aa3e998ca1ca401:0"> "quota\_usage": 2</span></span>
+<span data-key="2745569e9d6e45f28aa3e998ca1ca401"><span data-offset-key="2745569e9d6e45f28aa3e998ca1ca401:0"> "quota_usage": 2</span></span>
 
 5
 
@@ -858,27 +800,17 @@ Copied!
 
 <span data-key="e3c02d3c86a447bdb2725c4e281c1391"><span data-offset-key="e3c02d3c86a447bdb2725c4e281c1391:0">Troubleshooting</span></span>
 
-<span data-key="11cfc5f7720e492f933ab998df55808d"><span data-offset-key="11cfc5f7720e492f933ab998df55808d:0">If you are able to create a container for a video but the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media_publish#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="55bfc634f333442ebbd2a2eefee7109a" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="1083b4b22a934ad0a9e500bbf07676fa"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="1083b4b22a934ad0a9e500bbf07676fa:0">POST                                             /{ig-user-id}/media_publish</code></span></span></a><span data-key="f9d981f6d6424ea3aae5d7da67cd6bbb"><span data-offset-key="f9d981f6d6424ea3aae5d7da67cd6bbb:0"> endpoint does not return the published media ID, you can get the container's publishing status by querying the </span>`GET                                         /{ig-container-id}?fields=status_code`<span data-offset-key="f9d981f6d6424ea3aae5d7da67cd6bbb:2"> endpoint. This endpoint will return one of the following:</span></span>
+<span data-key="11cfc5f7720e492f933ab998df55808d"><span data-offset-key="11cfc5f7720e492f933ab998df55808d:0">If you are able to create a container for a video but the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media_publish#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="55bfc634f333442ebbd2a2eefee7109a" data-rnw-int-class="nearest_260-16654_262-16655-240__"><span data-key="1083b4b22a934ad0a9e500bbf07676fa"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="1083b4b22a934ad0a9e500bbf07676fa:0">POST /{ig-user-id}/media_publish</code></span></span></a><span data-key="f9d981f6d6424ea3aae5d7da67cd6bbb"><span data-offset-key="f9d981f6d6424ea3aae5d7da67cd6bbb:0"> endpoint does not return the published media ID, you can get the container's publishing status by querying the </span>`GET /{ig-container-id}?fields=status_code`<span data-offset-key="f9d981f6d6424ea3aae5d7da67cd6bbb:2"> endpoint. This endpoint will return one of the following:</span></span>
 
--   
+- <span data-key="2bfc782d419642fb85be93321407f91e">`EXPIRED`<span data-offset-key="2bfc782d419642fb85be93321407f91e:1"> — The container was not published within 24 hours and has expired.</span></span>
 
-    <span data-key="2bfc782d419642fb85be93321407f91e">`EXPIRED`<span data-offset-key="2bfc782d419642fb85be93321407f91e:1"> — The container was not published within 24 hours and has expired.</span></span>
+- <span data-key="0b155a3ee3c04c1da30ef2318082f546">`ERROR`<span data-offset-key="0b155a3ee3c04c1da30ef2318082f546:1"> — The container failed to complete the publishing process.</span></span>
 
--   
+- <span data-key="5397d9e8994247158de0cb4d0ed25b71">`FINISHED`<span data-offset-key="5397d9e8994247158de0cb4d0ed25b71:1"> — The container and its media object are ready to be published.</span></span>
 
-    <span data-key="0b155a3ee3c04c1da30ef2318082f546">`ERROR`<span data-offset-key="0b155a3ee3c04c1da30ef2318082f546:1"> — The container failed to complete the publishing process.</span></span>
+- <span data-key="bc02461113794ad7bba8d138cd5cbc07">`IN_PROGRESS`<span data-offset-key="bc02461113794ad7bba8d138cd5cbc07:1"> — The container is still in the publishing process.</span></span>
 
--   
-
-    <span data-key="5397d9e8994247158de0cb4d0ed25b71">`FINISHED`<span data-offset-key="5397d9e8994247158de0cb4d0ed25b71:1"> — The container and its media object are ready to be published.</span></span>
-
--   
-
-    <span data-key="bc02461113794ad7bba8d138cd5cbc07">`IN_PROGRESS`<span data-offset-key="bc02461113794ad7bba8d138cd5cbc07:1"> — The container is still in the publishing process.</span></span>
-
--   
-
-    <span data-key="c0d66a51c9264a92a583304902ea61e2">`PUBLISHED`<span data-offset-key="c0d66a51c9264a92a583304902ea61e2:1"> — The container's media object has been published.</span></span>
+- <span data-key="c0d66a51c9264a92a583304902ea61e2">`PUBLISHED`<span data-offset-key="c0d66a51c9264a92a583304902ea61e2:1"> — The container's media object has been published.</span></span>
 
 <span data-key="8392dcdb6dbb4fe0ac29e694662dcc11"><span data-offset-key="8392dcdb6dbb4fe0ac29e694662dcc11:0">We recommend querying a container's status once per minute, for no more than 5 minutes.</span></span>
 

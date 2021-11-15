@@ -14,8 +14,7 @@ Beta
 
 <span class="jsx-1123060256 profile-icon profile-icon-inherit" style="background-image:url(https://replit.com/@bgoonz/" ="" www.gravatar.com="" avatar="" 4c4ec05acd63612984efbe17dec9dd88?d="https://repl.it/public/images/evalbot/evalbot_29.png&amp;s=256%22)&quot;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="jsx-1123060256" /></span>
 
-Bryan C
-=======
+# Bryan C
 
 <span class="jsx-960364424 user-roles-label hacker">hacker</span>
 
@@ -23,32 +22,31 @@ Bryan C
 
 <a href="https://replit.com/@bgoonz" class="jsx-886476462 tab-link"><span class="jsx-2711534965 tab"><span class="jsx-1588325895 text"><span class="jsx-2711534965 color-override">Repls</span></span></span></a><a href="https://replit.com/@bgoonz?tab=posts" class="jsx-886476462 tab-link"><span class="jsx-2711534965 tab"><span class="jsx-1158164420 text"><span class="jsx-2711534965 color-override">Posts</span></span></span></a>
 
--   <span class="css-sgbfzi">Show files</span>
+- <span class="css-sgbfzi">Show files</span>
 
-    <span class="css-sgbfzi">0</span>
+  <span class="css-sgbfzi">0</span>
 
-    <span class="css-sgbfzi">0</span>
-    <span class="css-sgbfzi">Run</span>
+  <span class="css-sgbfzi">0</span>
+  <span class="css-sgbfzi">Run</span>
 
--   <span class="css-sgbfzi">Show files</span>
+- <span class="css-sgbfzi">Show files</span>
 
-    <span class="css-sgbfzi">0</span>
+  <span class="css-sgbfzi">0</span>
 
-    <span class="css-sgbfzi">0</span>
-    <span class="css-sgbfzi">Run</span>
+  <span class="css-sgbfzi">0</span>
+  <span class="css-sgbfzi">Run</span>
 
--   <span class="css-sgbfzi">Show files</span>
+- <span class="css-sgbfzi">Show files</span>
 
-    <span class="css-sgbfzi">0</span>
+  <span class="css-sgbfzi">0</span>
 
-    <span class="css-sgbfzi">1</span>
-    <span class="css-sgbfzi">Run</span>
+  <span class="css-sgbfzi">1</span>
+  <span class="css-sgbfzi">Run</span>
 
-    <img src="https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png" alt="week-10-take-2" srcset="https://replit.com/cdn-cgi/image/width=640,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 640w, https://replit.com/cdn-cgi/image/width=750,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 750w, https://replit.com/cdn-cgi/image/width=828,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 828w, https://replit.com/cdn-cgi/image/width=1080,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 1080w, https://replit.com/cdn-cgi/image/width=1200,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 1200w, https://replit.com/cdn-cgi/image/width=1920,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 1920w, https://replit.com/cdn-cgi/image/width=2048,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 2048w, https://replit.com/cdn-cgi/image/width=3840,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 3840w" />
-    ![week-10-take-2](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+  <img src="https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png" alt="week-10-take-2" srcset="https://replit.com/cdn-cgi/image/width=640,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 640w, https://replit.com/cdn-cgi/image/width=750,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 750w, https://replit.com/cdn-cgi/image/width=828,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 828w, https://replit.com/cdn-cgi/image/width=1080,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 1080w, https://replit.com/cdn-cgi/image/width=1200,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 1200w, https://replit.com/cdn-cgi/image/width=1920,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 1920w, https://replit.com/cdn-cgi/image/width=2048,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 2048w, https://replit.com/cdn-cgi/image/width=3840,quality=80/https://storage.googleapis.com/replit/images/1633754939628_bebb12388c5b62e2108681ab9fd02c2f.png 3840w" />
+  ![week-10-take-2](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-All repls
----------
+## All repls
 
 #### legal
 

@@ -8,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 [HTML](../../index.html)  /  [HTML Anchors: Here’s How To Create Links For Fast Navigation](../../anchors-links/index.html) / &lt;base&gt; HTML Tag
 
-`<base> HTML Tag`
-=================
+# `<base> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](../index.html)</span>
 
@@ -31,15 +30,14 @@ This element must not contain any content, and does not need a closing tag.
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Example Code](#Example_Code)
--   [<span class="toc_number toc_depth_1">2</span> Relative links](#Relative_links)
--   [<span class="toc_number toc_depth_1">3</span> Default target value](#Default_target_value)
--   [<span class="toc_number toc_depth_1">4</span> Placement and restrictions](#Placement_and_restrictions)
--   [<span class="toc_number toc_depth_1">5</span> Browser Support for base](#Browser_Support_for_base)
--   [<span class="toc_number toc_depth_1">6</span> Attributes of base](#Attributes_of_base)
+- [<span class="toc_number toc_depth_1">1</span> Example Code](#Example_Code)
+- [<span class="toc_number toc_depth_1">2</span> Relative links](#Relative_links)
+- [<span class="toc_number toc_depth_1">3</span> Default target value](#Default_target_value)
+- [<span class="toc_number toc_depth_1">4</span> Placement and restrictions](#Placement_and_restrictions)
+- [<span class="toc_number toc_depth_1">5</span> Browser Support for base](#Browser_Support_for_base)
+- [<span class="toc_number toc_depth_1">6</span> Attributes of base](#Attributes_of_base)
 
-<span id="Example_Code">Example Code</span>
--------------------------------------------
+## <span id="Example_Code">Example Code</span>
 
     <head>
     .
@@ -48,24 +46,21 @@ Contents
     <base href="http://example.com" target="_blank">
     </head>
 
-<span id="Relative_links">Relative links</span>
------------------------------------------------
+## <span id="Relative_links">Relative links</span>
 
 When creating an [anchor link](../a/index.html), the [`href`](../../attributes/a-href/index.html) attribute can specify an absolute URL, like `http://example.com`, or a relative URL such as `/`, `/page-name`, or `page-name`.
 
-With relative URLs a slash ( `/` ) indicates the root URL of the current page, so `href="/page-name"` would link to a page at *currentdomain*`/page-name`. Leaving off the slash links to a subpage of the current URL, so `href="page-name"` would link to *current\_url*`/page-name`.
+With relative URLs a slash ( `/` ) indicates the root URL of the current page, so `href="/page-name"` would link to a page at _currentdomain_`/page-name`. Leaving off the slash links to a subpage of the current URL, so `href="page-name"` would link to _current_url_`/page-name`.
 
 Using the `<base>` element, you can change the base URL which the relative links on the page use. Instead of the current, actual URL of the current page, all relative links will be based on the URL specified in the `href` attribute of the `<base>` element.
 
 For more information about how relative links work, see our [documentation on anchor link urls](../../anchors-links/index.html).
 
-<span id="Default_target_value">Default `target` value</span>
--------------------------------------------------------------
+## <span id="Default_target_value">Default `target` value</span>
 
 In addition to specifying a base URL for relative links, the `<base>` element allows you to specify a default `target` value for all links on the page. So, if you set `target="_blank"` in the `<base>` element, all links on the page (relative and absolute) will open in a new window, unless otherwise specified.
 
-<span id="Placement_and_restrictions">Placement and restrictions</span>
------------------------------------------------------------------------
+## <span id="Placement_and_restrictions">Placement and restrictions</span>
 
 The `<base>` element must be placed within the document’s `<head>`, and there must only be one `<base>` element in a document. The `<base>` element must not have any content, and does not require a closing tag.
 
@@ -83,8 +78,7 @@ The `<base>` element must be placed within the document’s `<head>`, and there 
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_base">Browser Support for base</span>
--------------------------------------------------------------------
+## <span id="Browser_Support_for_base">Browser Support for base</span>
 
 <img src="../../wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -122,15 +116,13 @@ The `<base>` element must be placed within the document’s `<head>`, and there 
 
 <span class="browser-supported">All</span>
 
-<span id="Attributes_of_base">Attributes of base</span>
--------------------------------------------------------
+## <span id="Attributes_of_base">Attributes of base</span>
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="../../attributes/base-target/index.html" class="linked-name">target</a><br />
 </td><td></td><td>Specifies the default target value for all anchor links in the current document.</td></tr><tr class="even"><td><a href="../../attributes/base-href/index.html" class="linked-name">href</a><br />
 </td><td></td><td>Specifies the base URL which will be used for all relative links in the current document.</td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](../../resources/citation-guide/index.html)
 
@@ -142,11 +134,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="../../attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="../comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../../attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../iframe/index.html" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../iframe/index.html#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../button/index.html" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../button/index.html#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../../attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="../comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../../attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../iframe/index.html" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../iframe/index.html#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../button/index.html" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../button/index.html#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](../../index.html) © 2015-2020 [Sitemap](../../sitemap/index.html) | [Privacy](../../privacy/index.html) | [Contact](../../contact/index.html)
 

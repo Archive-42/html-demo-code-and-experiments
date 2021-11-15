@@ -1,5 +1,4 @@
-404
-===
+# 404
 
 Sorry, but the page you were looking for could not be found.
 

@@ -242,7 +242,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -260,7 +260,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -300,7 +300,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -390,29 +390,17 @@ Use testing library to evaluate any framework...
 
 <span data-key="666bc95835d4447e9235058304385f57">**Table of Contents**</span>
 
--   
+- <span data-key="719fe0c1735f412fb543578b4ee7bafd"><span data-offset-key="719fe0c1735f412fb543578b4ee7bafd:0">1. Throw an Error with a Simple Test in JavaScript</span></span>
 
-    <span data-key="719fe0c1735f412fb543578b4ee7bafd"><span data-offset-key="719fe0c1735f412fb543578b4ee7bafd:0">1. Throw an Error with a Simple Test in JavaScript</span></span>
+- <span data-key="7d8565d955444d3d8bcb10a3830b2ab8"><span data-offset-key="7d8565d955444d3d8bcb10a3830b2ab8:0">2. Abstract Test Assertions into a JavaScript Assertion Library</span></span>
 
--   
+- <span data-key="d5d5f75112ff45ce9d38e8e7116c62a5"><span data-offset-key="d5d5f75112ff45ce9d38e8e7116c62a5:0">3. Encapsulate and Isolate Tests by building a JavaScript Testing Framework</span></span>
 
-    <span data-key="7d8565d955444d3d8bcb10a3830b2ab8"><span data-offset-key="7d8565d955444d3d8bcb10a3830b2ab8:0">2. Abstract Test Assertions into a JavaScript Assertion Library</span></span>
+- <span data-key="0141c2af8463492f9c7a98d74ebad1d5"><span data-offset-key="0141c2af8463492f9c7a98d74ebad1d5:0">4. Support Async Tests with JavaScripts Promises through async await</span></span>
 
--   
+- <span data-key="bd8d40eff7bd41dfbfe3d6944c0900ca"><span data-offset-key="bd8d40eff7bd41dfbfe3d6944c0900ca:0">5. Provide Testing Helper Functions as Globals in JavaScript</span></span>
 
-    <span data-key="d5d5f75112ff45ce9d38e8e7116c62a5"><span data-offset-key="d5d5f75112ff45ce9d38e8e7116c62a5:0">3. Encapsulate and Isolate Tests by building a JavaScript Testing Framework</span></span>
-
--   
-
-    <span data-key="0141c2af8463492f9c7a98d74ebad1d5"><span data-offset-key="0141c2af8463492f9c7a98d74ebad1d5:0">4. Support Async Tests with JavaScripts Promises through async await</span></span>
-
--   
-
-    <span data-key="bd8d40eff7bd41dfbfe3d6944c0900ca"><span data-offset-key="bd8d40eff7bd41dfbfe3d6944c0900ca:0">5. Provide Testing Helper Functions as Globals in JavaScript</span></span>
-
--   
-
-    <span data-key="a94fe1eb4c4c47768df5958c527629e9"><span data-offset-key="a94fe1eb4c4c47768df5958c527629e9:0">6. Verify Custom JavaScript Tests with Jest</span></span>
+- <span data-key="a94fe1eb4c4c47768df5958c527629e9"><span data-offset-key="a94fe1eb4c4c47768df5958c527629e9:0">6. Verify Custom JavaScript Tests with Jest</span></span>
 
 <span data-key="a2b3487deac5445885347d6478649527"><span data-offset-key="a2b3487deac5445885347d6478649527:0">1. Throw an Error with a Simple Test in JavaScript</span></span>
 
@@ -498,25 +486,15 @@ Copied!
 
 <span data-key="e0b238a6644548b6ba7fa82e6c35531b">**Table of Contents**</span>
 
--   
+- <span data-key="4c4fbad58bd341eda79c479495d848ca"><span data-offset-key="4c4fbad58bd341eda79c479495d848ca:0">1. Override Object Properties to Mock with Monkey-patching in JavaScript</span></span>
 
-    <span data-key="4c4fbad58bd341eda79c479495d848ca"><span data-offset-key="4c4fbad58bd341eda79c479495d848ca:0">1. Override Object Properties to Mock with Monkey-patching in JavaScript</span></span>
+- <span data-key="2347383a921b4b80b04fe955859a7ecf"><span data-offset-key="2347383a921b4b80b04fe955859a7ecf:0">2. Ensure Functions are Called Correctly with JavaScript Mocks</span></span>
 
--   
+- <span data-key="eeb7c41c021949f2baafde37eb622808"><span data-offset-key="eeb7c41c021949f2baafde37eb622808:0">3. Restore the Original Implementation of a Mocked JavaScript Function with jest.spyOn</span></span>
 
-    <span data-key="2347383a921b4b80b04fe955859a7ecf"><span data-offset-key="2347383a921b4b80b04fe955859a7ecf:0">2. Ensure Functions are Called Correctly with JavaScript Mocks</span></span>
+- <span data-key="1b11c6aefc8a4e76b3b0a621ec3547e0"><span data-offset-key="1b11c6aefc8a4e76b3b0a621ec3547e0:0">4. Mock a JavaScript module in a test</span></span>
 
--   
-
-    <span data-key="eeb7c41c021949f2baafde37eb622808"><span data-offset-key="eeb7c41c021949f2baafde37eb622808:0">3. Restore the Original Implementation of a Mocked JavaScript Function with jest.spyOn</span></span>
-
--   
-
-    <span data-key="1b11c6aefc8a4e76b3b0a621ec3547e0"><span data-offset-key="1b11c6aefc8a4e76b3b0a621ec3547e0:0">4. Mock a JavaScript module in a test</span></span>
-
--   
-
-    <span data-key="60618a4615ba447492a7e3de023e9bc4"><span data-offset-key="60618a4615ba447492a7e3de023e9bc4:0">5. Make a shared JavaScript mock module</span></span>
+- <span data-key="60618a4615ba447492a7e3de023e9bc4"><span data-offset-key="60618a4615ba447492a7e3de023e9bc4:0">5. Make a shared JavaScript mock module</span></span>
 
 <span data-key="d2c9eecbeb7143c09295d1bf5ee6b656"><span data-offset-key="d2c9eecbeb7143c09295d1bf5ee6b656:0">1. Override Object Properties to Mock with Monkey-patching in JavaScript</span></span>
 
@@ -599,7 +577,7 @@ Copied!
 <span data-key="cd6fc8d92b12483394c8a88c8d82997f"><span data-offset-key="cd6fc8d92b12483394c8a88c8d82997f:0">An alternative to using jest.fn to replace a function with a mock implementation is to use </span>`jest.spyOn`<span data-offset-key="cd6fc8d92b12483394c8a88c8d82997f:2"> to create a mock implementation. This mitigates us having to store the original function and replace it, as Jest will do the heavy lifting for us.</span></span>
 
 1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">1.</span>
-    <span data-key="14bc8c40e04c4bc9a0f8c7fd51ab43d5"><span data-offset-key="14bc8c40e04c4bc9a0f8c7fd51ab43d5:0">Use </span>`jest.spyOn(myObject,                                                 'myObjectFn')`</span>
+    <span data-key="14bc8c40e04c4bc9a0f8c7fd51ab43d5"><span data-offset-key="14bc8c40e04c4bc9a0f8c7fd51ab43d5:0">Use </span>`jest.spyOn(myObject, 'myObjectFn')`</span>
 
 2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">2.</span>
     <span data-key="903a0fe8fcbb4081900c2a399157b4ee"><span data-offset-key="903a0fe8fcbb4081900c2a399157b4ee:0">Use </span>`myObject.myObjectFn.mockImplementation(mockFn)`<span data-offset-key="903a0fe8fcbb4081900c2a399157b4ee:2"> to create a mock implementation of </span>`myObjectFn`</span>

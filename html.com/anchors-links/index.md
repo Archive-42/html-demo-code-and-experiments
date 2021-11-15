@@ -1,33 +1,22 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-
 [HTML](https://html.com/)  /  HTML Anchors: Here’s How To Create Links For Fast Navigation
 
-HTML Anchors: Here’s How To Create Links For Fast Navigation
-============================================================
+# HTML Anchors: Here’s How To Create Links For Fast Navigation
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
-The anchor element is used to create hyperlinks between a *source anchor* and a *destination anchor*. The source is the text, image, or button that links to another resource and the destination is the resource that the source anchor links to.
+The anchor element is used to create hyperlinks between a _source anchor_ and a _destination anchor_. The source is the text, image, or button that links to another resource and the destination is the resource that the source anchor links to.
 
 Hyperlinks are one of the fundamental technologies that make the web the information superhighway, and understanding how to use anchor elements is one of the first things you need to master when learning HTML.
 
 Contents
 
-
-
-<span id="The_Anchor_Element">The Anchor Element</span>
--------------------------------------------------------
+## <span id="The_Anchor_Element">The Anchor Element</span>
 
 The anchor element tag is the letter “a” surrounded by angle brackets like this: [`<a>`](https://html.com/tags/a/). Both the opening and closing attributes are required, and all of the content between the tags makes up the anchor source.
 
@@ -47,8 +36,7 @@ While the examples above will produce anchor elements they aren’t of much use 
 
 In this short tutorial we’ll cover the attributes you can use to add a destination anchor to your hyperlinks, tell the browser what to do with the link, and add [semantic meaning](https://html.com/semantic-markup/) to anchor elements for browsers and web crawlers to use.
 
-<span id="The_Most_Important_Anchor_Attributes">The Most Important Anchor Attributes</span>
--------------------------------------------------------------------------------------------
+## <span id="The_Most_Important_Anchor_Attributes">The Most Important Anchor Attributes</span>
 
 There are three anchor attributes you need to know to create functional hyperlinks. These attributes are [`href`](https://html.com/attributes/a-href/), [`target`](https://html.com/attributes/a-target/), and [`download`](https://html.com/attributes/a-download/).
 
@@ -61,9 +49,9 @@ The hypertext reference, or `href`, attribute is used to specify a target or des
 
 An `href` can do a lot more than just link to another website.
 
--   It can be used to link directly to any element on a web page that has been assigned an `id`.
--   It can be used to link to a resource using a protocol other than http.
--   It can be used to run a script.
+- It can be used to link directly to any element on a web page that has been assigned an `id`.
+- It can be used to link to a resource using a protocol other than http.
+- It can be used to run a script.
 
 The following HTML includes examples of all three of these actions:
 
@@ -86,7 +74,7 @@ In the box below you’ll see that HTML as it renders in the browser. Try each l
 
 We can use the `mailto` protocol to create a link that will try to launch the default email program on your computer. Let’s give it a try! We’d love for you to [get in touch](https://html.com/cdn-cgi/l/email-protection#2744484953464453674f534a4b0944484a) with us!
 
-Lastly, if you click the link below a complimentary JavaScript alert window will appear. [Click the link to see what happens](https://html.com/anchors-links/alert('Hey%20there%20good%20looking!');).
+Lastly, if you click the link below a complimentary JavaScript alert window will appear. [Click the link to see what happens](<https://html.com/anchors-links/alert('Hey%20there%20good%20looking!');>).
 
 The [`href`](https://html.com/attributes/a-href/) element is pretty easy to use, but we can get a lot more mileage out of our anchor elements by getting to know the [`target`](https://html.com/attributes/a-target/) attribute.
 
@@ -120,26 +108,25 @@ Here’s an example of how a download-initiating anchor element would look:
     downloaded, and the <code>download</code> attribute to
     provide a name for the downloaded file.
 
-If the `href` in the example above pointed to a real file, when the download was complete the downloaded file would be called *Example\_File.ext* where *.ext* would be the format of the file that was downloaded. It isn’t necessary to include the file type extension in the value assigned to the `download` attribute. The file extension will be automatically identified when the browser downloads the file, and automatically appended to the downloaded file name.
+If the `href` in the example above pointed to a real file, when the download was complete the downloaded file would be called _Example_File.ext_ where _.ext_ would be the format of the file that was downloaded. It isn’t necessary to include the file type extension in the value assigned to the `download` attribute. The file extension will be automatically identified when the browser downloads the file, and automatically appended to the downloaded file name.
 
-<span id="Internal_and_External_Links">Internal and External Links</span>
--------------------------------------------------------------------------
+## <span id="Internal_and_External_Links">Internal and External Links</span>
 
 There are two types of resources we can link to using the `a` element: internal and external. Internal links are those that point to other pages of our website. External links point to web pages that aren’t part of our website.
 
 Building internal links is important for a few different reasons:
 
--   Internal links are used to create [navigation menus](https://html.com/anchors-links/menus/) that help website visitors navigate our website.
--   Internal links are used in the text of website content to help website visitors locate related content.
--   Internal links are also used by [search engine web crawlers](https://html.com/seo/) to locate the pages of a website and to share authority (also known as [link juice](https://moz.com/ugc/an-internal-link-juice-tool-14969)) with the other pages of a website.
+- Internal links are used to create [navigation menus](https://html.com/anchors-links/menus/) that help website visitors navigate our website.
+- Internal links are used in the text of website content to help website visitors locate related content.
+- Internal links are also used by [search engine web crawlers](https://html.com/seo/) to locate the pages of a website and to share authority (also known as [link juice](https://moz.com/ugc/an-internal-link-juice-tool-14969)) with the other pages of a website.
 
 When writing internal links make sure you don’t overdo it. The link juice of any given web page is shared between the links on the page. So the more links you put on a page, the more diluted the juice passed to each link becomes. A good rule of thumb is to have no more than 100 links per page although there are exceptions in the case of extremely large and complex websites.
 
 External links are also important for a few different reasons:
 
--   External links may be recommended, required, or just best-practice to provide proper attribution to the source of an idea or a resource.
--   External links allow us to refer website visitors to useful related content.
--   When other websites post external links that point at our website, these links [known as backlinks](https://html.com/seo/#2_Build_High-Quality_Backlinks) allow link juice to flow to our website and improve our website’s position on search engine results pages (SERP).
+- External links may be recommended, required, or just best-practice to provide proper attribution to the source of an idea or a resource.
+- External links allow us to refer website visitors to useful related content.
+- When other websites post external links that point at our website, these links [known as backlinks](https://html.com/seo/#2_Build_High-Quality_Backlinks) allow link juice to flow to our website and improve our website’s position on search engine results pages (SERP).
 
 When writing external links try to avoid linking to direct competitors. You don’t want to help their SERP ranking for search terms that you are targeting for your own website. It’s also a good idea to use the `target="_blank"` attribute when writing external links. By opening external links in a new tab you keep visitors on your site for longer.
 
@@ -151,9 +138,9 @@ Surely you’ve seen and maybe even created links that look something like this:
 
 There are at least three good reasons why using generic anchor element text such as “Click Here” is a terrible practice.
 
--   Website visitors who depend on assistive technologies such as screen readers will have a hard time deciphering the meaning of links that make use of generic link text such as “Click Here”.
--   Website visitors who are scanning a page will have to take several additional seconds to investigate the text around the link to have an idea of what the anchor links to.
--   Search engine web crawlers associate anchor element text with the link URL. Properly selected anchor element text helps search engines determine the relevance of a web page to specific keywords. Generic text tells search engines nothing about the linked web page.
+- Website visitors who depend on assistive technologies such as screen readers will have a hard time deciphering the meaning of links that make use of generic link text such as “Click Here”.
+- Website visitors who are scanning a page will have to take several additional seconds to investigate the text around the link to have an idea of what the anchor links to.
+- Search engine web crawlers associate anchor element text with the link URL. Properly selected anchor element text helps search engines determine the relevance of a web page to specific keywords. Generic text tells search engines nothing about the linked web page.
 
 Ideal anchor element text is succinct and identifies a keyword or keywords that are relevant to the web page. Here’s a sentence that includes two examples of properly selected link text:
 
@@ -166,9 +153,9 @@ The first link tells web crawlers and website visitors that the website `http://
 
 ### <span id="Absolute_vs_Relative_URLs">Absolute vs. Relative URLs</span>
 
-There were two links in our last example: `http://www.google.com` and `/seo/`. The first is an example of an *absolute URL*. Absolute URLs are those that include a complete (absolute) description of the link destination. Absolute URLs include the protocol (*http*) and the complete domain name and file path needed to reach the destination anchor.
+There were two links in our last example: `http://www.google.com` and `/seo/`. The first is an example of an _absolute URL_. Absolute URLs are those that include a complete (absolute) description of the link destination. Absolute URLs include the protocol (_http_) and the complete domain name and file path needed to reach the destination anchor.
 
-The second is an example of a *relative URL*. Relative URLs link to a web page by describing the position of the page *relative* to the position of the current page. When writing internal links that point to other pages of the same website we have the option of writing relative URLs rather than absolute URLs.
+The second is an example of a _relative URL_. Relative URLs link to a web page by describing the position of the page _relative_ to the position of the current page. When writing internal links that point to other pages of the same website we have the option of writing relative URLs rather than absolute URLs.
 
 For example, if we are at this address: `http://example.com/products/red-product/`, and we want to link to the blue product page, we can use either of the following anchor elements:
 
@@ -177,11 +164,11 @@ For example, if we are at this address: `http://example.com/products/red-product
 
 What the first syntax says is: “look in the lowest level of the file directory for the file products, and look for blue products within that file”. What the second syntax says is: “look in the parent folder of the `red-product` directory for a directory with the name `blue-product`. Both of these anchor elements point to the URL: `http://example.com/products/blue-product/`.
 
-Let’s say that we want to link to *About Us* – a page that exists as a direct descendant of the homepage. Here’s how we could do that:
+Let’s say that we want to link to _About Us_ – a page that exists as a direct descendant of the homepage. Here’s how we could do that:
 
     <a href="/about-us/">Learn more about us.</a>
 
-That syntax says “go back to the lowest level of the file directory tree and then look for a directory titled *about-us*“.
+That syntax says “go back to the lowest level of the file directory tree and then look for a directory titled _about-us_“.
 
 As a final example, let’s say we are at this address once again: `http://example.com/products/red-product/`, and that we want to link to a subcategory page that exists within the `/red-products/` category.
 
@@ -191,9 +178,9 @@ What that relative URL will do is tell the browser to look in the current folder
 
 To summarize, when we write relative URLs we have three options:
 
--   When we start a relative URL with “/” we tell the browser to look for the specified file or folder in the lowest level of the file directory.
--   If we start a relative URL with “../” we tell the browser back up in the directory tree one level.
--   If we start a relative URL with a file or folder name we tell the browser to look for the specified resources in the current file.
+- When we start a relative URL with “/” we tell the browser to look for the specified file or folder in the lowest level of the file directory.
+- If we start a relative URL with “../” we tell the browser back up in the directory tree one level.
+- If we start a relative URL with a file or folder name we tell the browser to look for the specified resources in the current file.
 
 ### <span id="Why_Are_Relative_URLs_Used">Why Are Relative URLs Used?</span>
 
@@ -203,8 +190,7 @@ While the benefit of using relative URLs during the development of a site on a s
 
 While you should know how relative URLs work, many experienced developers and SEO experts recommend sticking to absolute URLs as much as possible.
 
-<span id="Other_Useful_Anchor_Attributes">Other Useful Anchor Attributes</span>
--------------------------------------------------------------------------------
+## <span id="Other_Useful_Anchor_Attributes">Other Useful Anchor Attributes</span>
 
 With just the three attributes we’ve covered so far, you can complete every hyperlinking task you will encounter on the web. However, there are additional attributes that can be used to tell a visitor’s web browser and search engines that index our website something about the meaning of the hyperlinks.
 
@@ -224,14 +210,14 @@ The relationship, or `rel`, attribute is used to describe the relationship betwe
 
 There are several different values that can be used to describe the relationship between the source link and the destination link. Here are a few of the most common:
 
--   `rel="nofollow"`: Use this attribute if you’re linking to a resource you don’t want to lend your site’s reputation to. For example, if you link to a spammy site as an example of what *not* to do, you would want to use this value to keep from contributing to the site’s search engine visibility.
--   `rel="alternate"`: If your site has more than one version – such as a translation into a different language – use this value to identify the linked resource as an alternate version of the current page.
--   `rel="bookmark"`: This value is used to identify a URL formulation that is permanent and may be used for bookmarking.
--   `rel="help"`: Identify a linked resource as a help file for the current page with this value.
--   `rel="license"`: Use this attribute when linking to a [recognized copyright](https://creativecommons.org/licenses/) license.
--   `rel="next"`: If the current document exists in a series of documents, use this value when linking to the next document in the series.
--   `rel="prev"`: If the current document exists in a series of documents, use this value when linking to the previous document in the series.
--   `rel="noreferrer"`: If you want to link to an external website but avoid letting the destination website know who the referrer is, use this value.
+- `rel="nofollow"`: Use this attribute if you’re linking to a resource you don’t want to lend your site’s reputation to. For example, if you link to a spammy site as an example of what _not_ to do, you would want to use this value to keep from contributing to the site’s search engine visibility.
+- `rel="alternate"`: If your site has more than one version – such as a translation into a different language – use this value to identify the linked resource as an alternate version of the current page.
+- `rel="bookmark"`: This value is used to identify a URL formulation that is permanent and may be used for bookmarking.
+- `rel="help"`: Identify a linked resource as a help file for the current page with this value.
+- `rel="license"`: Use this attribute when linking to a [recognized copyright](https://creativecommons.org/licenses/) license.
+- `rel="next"`: If the current document exists in a series of documents, use this value when linking to the next document in the series.
+- `rel="prev"`: If the current document exists in a series of documents, use this value when linking to the previous document in the series.
+- `rel="noreferrer"`: If you want to link to an external website but avoid letting the destination website know who the referrer is, use this value.
 
 ### <span id="Specify_the_Internet_Media_Type_type">Specify the Internet Media Type: `type`</span>
 
@@ -241,8 +227,7 @@ Right now this attribute doesn’t do much of anything, but the thinking is that
 
 The `type` value must be a valid [IANA media type](https://www.iana.org/assignments/media-types/media-types.xhtml). Some of the most commonly used values are: `text/html`, `text/css`, `application/javascript`, and `multipart/form-data`.
 
-<span id="A_Web_of_Links">A Web of Links</span>
------------------------------------------------
+## <span id="A_Web_of_Links">A Web of Links</span>
 
 The World Wide Web is best described as a massive library of hyperlinked documents where anchor elements are used to create bridges between related documents. In this definition, anchor elements occupy their rightful place as the glue that ties the web together and the bridges that allow web users to move from one document to a related document.
 
@@ -262,8 +247,7 @@ One common way for links to be used is to build a navigation menu that lays out 
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Related_Elements">Related Elements</span>
----------------------------------------------------
+## <span id="Related_Elements">Related Elements</span>
 
 <table><thead><tr class="header"><th>Element Name</th><th>Attributes</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/tags/link/" class="linked-name">link</a></td><td><a href="https://html.com/attributes/link-href/" class="linked-name">href</a><br />
 <a href="https://html.com/attributes/link-rel/" class="linked-name">rel</a><br />
@@ -280,10 +264,9 @@ One common way for links to be used is to build a navigation menu that lays out 
 <a href="https://html.com/attributes/base-href/" class="linked-name">href</a><br />
 </td><td>The &lt;base&gt; element is used to identify a base URL upon which to build all relative URLs that appear on a webpage. In addition, if the &lt;base&gt; element has a target attribute, the target attribute will be used as the default attribute for all hyperlinks appearing in the document.</td></tr></tbody></table>
 
-<span id="Tutorials_and_Resources">Tutorials and Resources</span>
------------------------------------------------------------------
+## <span id="Tutorials_and_Resources">Tutorials and Resources</span>
 
-[Website Menus: 3 Golden Rules Of Good Navigation](https://html.com/anchors-links/menus/)  
+[Website Menus: 3 Golden Rules Of Good Navigation](https://html.com/anchors-links/menus/)
 
 Search HTML.com
 
@@ -291,11 +274,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

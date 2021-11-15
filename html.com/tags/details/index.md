@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 New in HTML5.
 
-`<details> HTML Tag`
-====================
+# `<details> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/), [New](https://html.com/new/)</span>
 
@@ -26,8 +23,7 @@ block
 Usage  
 textual
 
-Code Example
-------------
+## Code Example
 
     <details>
     <summary>Visible Summary of Details</summary>
@@ -38,12 +34,11 @@ Visible Summary of Details This part won't be visible until the user chooses to 
 
 <span class="underline"></span>
 
-What Sort of Details?
----------------------
+## What Sort of Details?
 
 The `details` element is appropriate for things like copyright notices and other bits of information that you want on your webpage, but don’t need to be immediately displayed for all to see. However, if you get creative with the element, there’s quite a bit more that can be done. For example, you could use `details` as an easy FAQ solution if you don’t want to mess with jQuery accordions. How might that look? Let’s see what we can do with just a few lines of targeted [CSS](https://html.com/css/).
 
-    <style> .faq details {   border: 1px solid #ddd;   border-radius: 2px;   margin: 10px; } .faq summary {   font-weight: bold;   background-color: #ddd;   font-size: 1.2em;   padding-left: 5px; } .faq p {   font-size: .9em;   margin-left: 25px; } </style> <div class="faq">   <details><summary>What is the meaning of life?</summary>     <p>You don't mess around, do you? Wow. Let's see. The meaning of the word "life" is: the state of being alive. See what I did there? <wink>.</p>   </details>   <details><summary>Are you in your pajamas?</summary>     <p>Well, isn't that a bit personal? I work from home! What do <em>you</em> think!</p>   </details>   <details><summary>Is this example over yet?</summary>     <p>Yes. Yes it is. Are you happy?</p>   </details> </div> 
+    <style> .faq details {   border: 1px solid #ddd;   border-radius: 2px;   margin: 10px; } .faq summary {   font-weight: bold;   background-color: #ddd;   font-size: 1.2em;   padding-left: 5px; } .faq p {   font-size: .9em;   margin-left: 25px; } </style> <div class="faq">   <details><summary>What is the meaning of life?</summary>     <p>You don't mess around, do you? Wow. Let's see. The meaning of the word "life" is: the state of being alive. See what I did there? <wink>.</p>   </details>   <details><summary>Are you in your pajamas?</summary>     <p>Well, isn't that a bit personal? I work from home! What do <em>you</em> think!</p>   </details>   <details><summary>Is this example over yet?</summary>     <p>Yes. Yes it is. Are you happy?</p>   </details> </div>
 
 How will our browser handle that bit of HTML and CSS?
 
@@ -55,7 +50,7 @@ You don’t mess around, do you? Wow. Let’s see. The meaning of the word “li
 
 Are you in your pajamas?
 
-Well, isn’t that a bit personal? I work from home! What do *you* think!
+Well, isn’t that a bit personal? I work from home! What do _you_ think!
 
 Is this example over yet?
 
@@ -75,8 +70,7 @@ Yes. Yes it is. Are you happy?
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Browser Support for details
----------------------------
+## Browser Support for details
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -114,8 +108,7 @@ Browser Support for details
 
 <span class="browser-supported">34</span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`HTML Code: You Can Use It, But Does Your Browser Support It?`](https://html.com/tags/datalist/)
 
@@ -127,11 +120,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

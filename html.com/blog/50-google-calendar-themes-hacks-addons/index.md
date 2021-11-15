@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-50 Hacks & Add-Ons To Supercharge Your Google Calendar Experience
-=================================================================
+# 50 Hacks & Add-Ons To Supercharge Your Google Calendar Experience
 
 In <span class="post-meta-category">[Blog](https://html.com/blog/), [Features](https://html.com/blog/features/)</span>
 
@@ -21,8 +14,7 @@ In <span class="post-meta-category">[Blog](https://html.com/blog/), [Features](h
 
 Much like Gmail, Google Reader and Google’s [other products](https://html.com/blog/top-10-projects-google-summer-of-code/), Google Calendar is fast becoming the application of choice for users all over the world. With great functionality and integration with Google’s other products it’s no wonder its popularity is growing. But chances are good that you’re not maxing out all the features of Google Calendar that you could be. Here are a few ways you can try to add to your Google Calendar experience.
 
-**Basic Tips**
---------------
+## **Basic Tips**
 
 You might already be using Google Calendar, but are you using it to the fullest? Here are a few tips to make the most of the basic features.
 
@@ -37,8 +29,7 @@ You might already be using Google Calendar, but are you using it to the fullest?
 9.  **Share space.** Having trouble managing that conference room between different departments or among coworkers? You can use GCal to help you. Use the auto accept invitations that don’t conflict feature. It will accept any invitations to a conference room that don’t conflict with others.
 10. **Invite your friends.** Looking for an alternative to Evite? Give GCal a try instead when you’re arranging your next get together. Though not as colorful or festive, you can send and manage event invitations through your calendar and your friends can even comment and discuss the events just like in Evite.
 
-**Scripts**
------------
+## **Scripts**
 
 Scripts make it easy for users to customize their Google Calendar experience. Try these to personalize yours and make it easier to use at the same time.
 
@@ -58,8 +49,7 @@ Scripts make it easy for users to customize their Google Calendar experience. Tr
 14. [**Better GCal**](https://lifehacker.com/software/exclusive-lifehacker-download/enhance-google-calendar-with-the-better-gcal-firefox-extension-260074.php): This script combines several helpful scripts including skins, collapsed headers, secure connections, text wrap and more.
 15. **[Edit All Your Calendar Events at Once with This Google Script](https://lifehacker.com/edit-all-your-calendar-events-at-once-with-this-google-1680675958)**
 
-**Extensions and Add-ons**
---------------------------
+## **Extensions and Add-ons**
 
 Whether you need to integrate your calendar with your [blog](https://html.com/blog/100-video-blogging-software-apps/) or your browser, these extensions can help you make the most of your experience.
 
@@ -74,8 +64,7 @@ Whether you need to integrate your calendar with your [blog](https://html.com/bl
 9.  [**Connect Google Calendar to Twitter**](https://ifttt.com/connect/google_calendar/twitter): Twitter isn’t just great for quick updates to your blog, you can use it to add events to your Google Calendar as well.
 10. [**Rainlendar**](http://www.rainlendar.net/cms/index.php): This Windows and Linux app allows you to run your Google Calendar right from your desktop, so appointments are always right at your fingertips.
 
-**Hacks and Tricks**
---------------------
+## **Hacks and Tricks**
 
 Use these tricks and tips to make your Google Calendar better when you’re at home or when you’re away.
 
@@ -88,8 +77,7 @@ Use these tricks and tips to make your Google Calendar better when you’re at h
 7.  **[Supercharge Google Calendar: 30 Tips, Tricks, Hacks and Add-Ons](https://zapier.com/blog/google-calendar-tips/)**: Check out this giant list for even more hacks and tricks.
 8.  Calendar.com’s [Google calendar Hacks](https://www.calendar.com/blog/google-calendar-hacks/) is worth checking out.
 
-**Calendar Syncs**
-------------------
+## **Calendar Syncs**
 
 Many people can’t just get down to one calendar. Here are some programs to make using multiple calendars easy.
 
@@ -104,12 +92,11 @@ Many people can’t just get down to one calendar. Here are some programs to mak
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
- 
+
 
 Tags: [Resources](https://html.com/blog/tags/resources/)
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>Want To Start A Webcomic? Here’s The Guide You Need To Get Going Today!](https://html.com/blog/50-resources-start-making-a-webcomic/)
 
@@ -125,11 +112,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,781 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">1,195 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,183 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">739 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">596 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,781 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">1,195 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,183 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">739 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">596 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

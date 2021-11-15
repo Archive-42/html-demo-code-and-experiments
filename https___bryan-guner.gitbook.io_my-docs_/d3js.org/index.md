@@ -2,24 +2,23 @@ D3.js - Data-Driven Documents
 
 **[Overview](https://d3js.org/)** [Examples](https://observablehq.com/@d3/gallery) [Documentation](https://github.com/d3/d3/wiki) [API](https://github.com/d3/d3/blob/main/API.md) [Source](https://github.com/d3/d3)
 
-Data-Driven Documents
-=====================
+# Data-Driven Documents
 
 [](https://observablehq.com/?utm_source=d3js-org&utm_medium=banner&utm_campaign=try-observable)
 
 Like visualization and creative coding? Try interactive JavaScript notebooks in <span style="font-weight: bold"> Observable! </span>
 
--   [See more examples](https://observablehq.com/@d3/gallery "D3 Gallery")
--   [Chat with the community](https://d3-slackin.herokuapp.com/ "D3 Slack")
--   [Follow announcements](https://twitter.com/d3js_org "D3 Twitter")
--   [Report a bug](https://github.com/d3/d3 "D3 GitHub")
--   [Ask for help](https://stackoverflow.com/questions/tagged/d3.js "D3 Stack Overflow")
+- [See more examples](https://observablehq.com/@d3/gallery "D3 Gallery")
+- [Chat with the community](https://d3-slackin.herokuapp.com/ "D3 Slack")
+- [Follow announcements](https://twitter.com/d3js_org "D3 Twitter")
+- [Report a bug](https://github.com/d3/d3 "D3 GitHub")
+- [Ask for help](https://stackoverflow.com/questions/tagged/d3.js "D3 Stack Overflow")
 
 **D3.js** is a JavaScript library for manipulating documents based on data. **D3** helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 
 Download the latest version <span id="version"></span> here:
 
--   <a href="https://github.com/d3/d3/releases/latest" id="download">d3.tgz</a>
+- <a href="https://github.com/d3/d3/releases/latest" id="download">d3.tgz</a>
 
 To link directly to the latest release, copy this snippet:
 
@@ -27,8 +26,7 @@ To link directly to the latest release, copy this snippet:
 
 The [full source and tests](https://github.com/d3/d3) are also available [for download](https://github.com/d3/d3/zipball/main) on GitHub.
 
-<a href="#introduction" id="introduction">#</a>Introduction
------------------------------------------------------------
+## <a href="#introduction" id="introduction">#</a>Introduction
 
 Read [more tutorials](https://observablehq.com/@d3/learn-d3).
 
@@ -36,8 +34,7 @@ Read [more tutorials](https://observablehq.com/@d3/learn-d3).
 
 D3 is not a monolithic framework that seeks to provide every conceivable feature. Instead, D3 solves the crux of the problem: efficient manipulation of documents based on data. This avoids proprietary representation and affords extraordinary flexibility, exposing the full capabilities of web standards such as HTML, SVG, and CSS. With minimal overhead, D3 is extremely fast, supporting large datasets and dynamic behaviors for interaction and animation. D3’s functional style allows code reuse through a diverse collection of [official](https://github.com/d3/d3/blob/main/API.md) and [community-developed](https://www.npmjs.com/browse/keyword/d3-module) modules.
 
-<a href="#selections" id="selections">#</a>Selections
------------------------------------------------------
+## <a href="#selections" id="selections">#</a>Selections
 
 Read [more about selections](https://github.com/d3/d3-selection).
 
@@ -49,7 +46,7 @@ Modifying documents using the [W3C DOM API](https://www.w3.org/DOM/DOMTR) is ted
       paragraph.style.setProperty("color", "blue", null);
     }
 
-D3 employs a declarative approach, operating on arbitrary sets of nodes called *selections*. For example, you can rewrite the above loop as:
+D3 employs a declarative approach, operating on arbitrary sets of nodes called _selections_. For example, you can rewrite the above loop as:
 
     d3.selectAll("p").style("color", "blue");
 
@@ -61,10 +58,9 @@ Selectors are defined by the [W3C Selectors API](https://www.w3.org/TR/selectors
 
 D3 provides numerous methods for mutating nodes: setting attributes or styles; registering event listeners; adding, removing or sorting nodes; and changing HTML or text content. These suffice for the vast majority of needs. Direct access to the underlying DOM is also possible, as each D3 selection is simply an array of nodes.
 
-<a href="#properties" id="properties">#</a>Dynamic Properties
--------------------------------------------------------------
+## <a href="#properties" id="properties">#</a>Dynamic Properties
 
-Readers familiar with other DOM frameworks such as [jQuery](https://jquery.com/) should immediately recognize similarities with D3. Yet styles, attributes, and other properties can be specified as *functions of data* in D3, not just simple constants. Despite their apparent simplicity, these functions can be surprisingly powerful; the [d3.geoPath](https://github.com/d3/d3-geo/blob/main/README.md#geoPath) function, for example, projects [geographic coordinates](https://tools.ietf.org/html/rfc7946) into SVG [path data](https://www.w3.org/TR/SVG/paths.html#PathData). D3 provides many built-in reusable functions and function factories, such as [graphical primitives](https://github.com/d3/d3-shape) for area, line and pie charts.
+Readers familiar with other DOM frameworks such as [jQuery](https://jquery.com/) should immediately recognize similarities with D3. Yet styles, attributes, and other properties can be specified as _functions of data_ in D3, not just simple constants. Despite their apparent simplicity, these functions can be surprisingly powerful; the [d3.geoPath](https://github.com/d3/d3-geo/blob/main/README.md#geoPath) function, for example, projects [geographic coordinates](https://tools.ietf.org/html/rfc7946) into SVG [path data](https://www.w3.org/TR/SVG/paths.html#PathData). D3 provides many built-in reusable functions and function factories, such as [graphical primitives](https://github.com/d3/d3-shape) for area, line and pie charts.
 
 For example, to randomly color paragraphs:
 
@@ -86,12 +82,11 @@ Computed properties often refer to bound data. Data is specified as an array of 
 
 Once the data has been bound to the document, you can omit the `data` operator; D3 will retrieve the previously-bound data. This allows you to recompute properties without rebinding.
 
-<a href="#enter-exit" id="enter-exit">#</a>Enter and Exit
----------------------------------------------------------
+## <a href="#enter-exit" id="enter-exit">#</a>Enter and Exit
 
 Read [more about data joins](https://bost.ocks.org/mike/join/).
 
-Using D3’s *enter* and *exit* selections, you can create new nodes for incoming data and remove outgoing nodes that are no longer needed.
+Using D3’s _enter_ and _exit_ selections, you can create new nodes for incoming data and remove outgoing nodes that are no longer needed.
 
 When data is bound to a selection, each element in the data array is paired with the corresponding node in the selection. If there are fewer nodes than data, the extra data elements form the enter selection, which you can instantiate by appending to the `enter` selection. For example:
 
@@ -120,17 +115,15 @@ By handling these three cases separately, you specify precisely which operations
 
 D3 lets you transform documents based on data; this includes both creating and destroying elements. D3 allows you to change an existing document in response to user interaction, animation over time, or even asynchronous notification from a third-party. A hybrid approach is even possible, where the document is initially rendered on the server, and updated on the client via D3.
 
-<a href="#transformation" id="transformation">#</a>Transformation, not Representation
--------------------------------------------------------------------------------------
+## <a href="#transformation" id="transformation">#</a>Transformation, not Representation
 
 D3 does not introduce a new visual representation. Unlike [Processing](https://processing.org/) or [Protovis](https://mbostock.github.io/protovis/), D3’s vocabulary of graphical marks comes directly from web standards: HTML, SVG, and CSS. For example, you can create SVG elements using D3 and style them with external stylesheets. You can use composite filter effects, dashed strokes and clipping. If browser vendors introduce new features tomorrow, you’ll be able to use them immediately—no toolkit update required. And, if you decide in the future to use a toolkit other than D3, you can take your knowledge of standards with you!
 
 Best of all, D3 is easy to debug using the browser’s built-in element inspector: the nodes that you manipulate with D3 are exactly those that the browser understands natively.
 
-<a href="#transitions" id="transitions">#</a>Transitions
---------------------------------------------------------
+## <a href="#transitions" id="transitions">#</a>Transitions
 
-D3’s focus on transformation extends naturally to animated transitions. Transitions gradually interpolate styles and attributes over time. Tweening can be controlled via easing functions such as “elastic”, “cubic-in-out” and “linear”. D3’s interpolators support both primitives, such as numbers and numbers embedded within strings (font sizes, path data, *etc.*), and compound values. You can even extend D3’s interpolator registry to support complex properties and data structures.
+D3’s focus on transformation extends naturally to animated transitions. Transitions gradually interpolate styles and attributes over time. Tweening can be controlled via easing functions such as “elastic”, “cubic-in-out” and “linear”. D3’s interpolators support both primitives, such as numbers and numbers embedded within strings (font sizes, path data, _etc._), and compound values. You can even extend D3’s interpolator registry to support complex properties and data structures.
 
 For example, to fade the background of the page to black:
 

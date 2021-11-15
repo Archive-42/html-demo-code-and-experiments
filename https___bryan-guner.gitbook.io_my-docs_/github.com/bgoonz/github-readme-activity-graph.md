@@ -2,80 +2,83 @@
 
 <a href="https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&amp;source=header-repo" class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5">Sign up</a>
 
--   Why GitHub?
-    -   <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- Why GitHub?
 
--   <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
--   <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
--   Explore
-    -   <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Learn and contribute
-    -   <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Connect with others
-    -   <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
--   <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
--   Pricing
-    -   <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
+- <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
+- Explore
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+  - <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Learn and contribute
+  - <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Connect with others
+  - <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+- <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
+- Pricing
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  - <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <!-- -->
 
--   <span class="color-fg-muted">No suggested jump to results</span>
+- <span class="color-fg-muted">No suggested jump to results</span>
 
 <!-- -->
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"> In this user </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fbgoonz%2Fgithub-readme-activity-graph" class="HeaderMenu-link flex-shrink-0 no-underline">Sign in</a>
 
@@ -83,16 +86,15 @@
 
 {{ message }}
 
-<span class="author flex-self-stretch" itemprop="author"> <a href="https://github.com/bgoonz" class="url fn">bgoonz</a> </span> <span class="mx-1 flex-self-stretch color-fg-muted">/</span> **[github-readme-activity-graph](https://github.com/bgoonz/github-readme-activity-graph)** <span class="Label Label--secondary v-align-middle mr-1">Public</span>
-==============================================================================================================================================================================================================================================================================================================================================================
+# <span class="author flex-self-stretch" itemprop="author"> <a href="https://github.com/bgoonz" class="url fn">bgoonz</a> </span> <span class="mx-1 flex-self-stretch color-fg-muted">/</span> **[github-readme-activity-graph](https://github.com/bgoonz/github-readme-activity-graph)** <span class="Label Label--secondary v-align-middle mr-1">Public</span>
 
 <span class="text-small lh-condensed-ultra no-wrap mt-1" data-repository-hovercards-enabled=""> forked from [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) </span>
 
--   Notifications
--   <span data-view-component="true"> Star </span> <a href="https://github.com/bgoonz/github-readme-activity-graph/stargazers" class="social-count js-social-count">0</a>
+- Notifications
+- <span data-view-component="true"> Star </span> <a href="https://github.com/bgoonz/github-readme-activity-graph/stargazers" class="social-count js-social-count">0</a>
 
--   Fork <a href="https://github.com/bgoonz/github-readme-activity-graph/network/members" class="social-count">116</a>
--   
+- Fork <a href="https://github.com/bgoonz/github-readme-activity-graph/network/members" class="social-count">116</a>
+-
 
 A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
@@ -108,21 +110,21 @@ MIT License
 
 Notifications
 
--   <span data-content="Code">Code</span> <span id="code-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Pull requests">Pull requests</span> <span id="pull-requests-repo-tab-count" class="Counter" data-pjax-replace="" title="1" data-view-component="true">1</span>
--   <span data-content="Actions">Actions</span> <span id="actions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Projects">Projects</span> <span id="projects-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
--   <span data-content="Security">Security</span>
--   <span data-content="Insights">Insights</span> <span id="insights-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Code">Code</span> <span id="code-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Pull requests">Pull requests</span> <span id="pull-requests-repo-tab-count" class="Counter" data-pjax-replace="" title="1" data-view-component="true">1</span>
+- <span data-content="Actions">Actions</span> <span id="actions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Projects">Projects</span> <span id="projects-repo-tab-count" class="Counter" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true">0</span>
+- <span data-content="Security">Security</span>
+- <span data-content="Insights">Insights</span> <span id="insights-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
 
 <span class="sr-only">More</span>
 
--   <a href="https://github.com/bgoonz/github-readme-activity-graph" class="js-selected-navigation-item selected dropdown-item">Code</a>
--   <a href="https://github.com/bgoonz/github-readme-activity-graph/pulls" class="js-selected-navigation-item dropdown-item">Pull requests</a>
--   <a href="https://github.com/bgoonz/github-readme-activity-graph/actions" class="js-selected-navigation-item dropdown-item">Actions</a>
--   <a href="https://github.com/bgoonz/github-readme-activity-graph/projects" class="js-selected-navigation-item dropdown-item">Projects</a>
--   <a href="https://github.com/bgoonz/github-readme-activity-graph/security" class="js-selected-navigation-item dropdown-item">Security</a>
--   <a href="https://github.com/bgoonz/github-readme-activity-graph/pulse" class="js-selected-navigation-item dropdown-item">Insights</a>
+- <a href="https://github.com/bgoonz/github-readme-activity-graph" class="js-selected-navigation-item selected dropdown-item">Code</a>
+- <a href="https://github.com/bgoonz/github-readme-activity-graph/pulls" class="js-selected-navigation-item dropdown-item">Pull requests</a>
+- <a href="https://github.com/bgoonz/github-readme-activity-graph/actions" class="js-selected-navigation-item dropdown-item">Actions</a>
+- <a href="https://github.com/bgoonz/github-readme-activity-graph/projects" class="js-selected-navigation-item dropdown-item">Projects</a>
+- <a href="https://github.com/bgoonz/github-readme-activity-graph/security" class="js-selected-navigation-item dropdown-item">Security</a>
+- <a href="https://github.com/bgoonz/github-readme-activity-graph/pulse" class="js-selected-navigation-item dropdown-item">Insights</a>
 
 <span class="css-truncate-target" data-menu-button="">main</span> <span class="dropdown-caret"></span>
 
@@ -166,16 +168,13 @@ This branch is up to date with main.
 
 Contribute
 
--   
+- This branch is not ahead of the upstream main.
 
-    This branch is not ahead of the upstream main.
+  No new commits yet. Enjoy your day!
 
-    No new commits yet. Enjoy your day!
+- <a href="https://github.com/bgoonz/github-readme-activity-graph/pull/new/main" class="btn btn-primary btn-block flex-1 disabled">Open pull request</a>
 
--   <a href="https://github.com/bgoonz/github-readme-activity-graph/pull/new/main" class="btn btn-primary btn-block flex-1 disabled">Open pull request</a>
-
-Latest commit
--------------
+## Latest commit
 
 <a href="https://github.com/Kshitij978" class="avatar avatar-user"><img src="https://avatars.githubusercontent.com/u/42491256?s=48&amp;v=4" alt="@Kshitij978" class="avatar-user" width="24" height="24" /></a>
 
@@ -195,13 +194,11 @@ Fix typos in CONTRIBUTING.md">from fishmandev/patch-1</a> </span>
 
 `4301c0d`
 
-Git stats
----------
+## Git stats
 
--   <span class="d-none d-sm-inline"> **318** <span class="color-fg-muted d-none d-lg-inline" aria-label="Commits on main"> commits </span> </span>
+- <span class="d-none d-sm-inline"> **318** <span class="color-fg-muted d-none d-lg-inline" aria-label="Commits on main"> commits </span> </span>
 
-Files
------
+## Files
 
 <a href="https://github.com/bgoonz/github-readme-activity-graph/tree/4301c0d893fa86a0829ca0f5caa816ee822b9fd1" class="d-none js-permalink-shortcut">Permalink</a>
 
@@ -221,7 +218,7 @@ Commit time
 
 Oct 2, 2021
 
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/github-readme-activity-graph/tree/main/__test__" class="js-navigation-open Link--primary" title="__test__">__test__</a></span>
+<span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/bgoonz/github-readme-activity-graph/tree/main/__test__" class="js-navigation-open Link--primary" title="__test__">**test**</a></span>
 
 <span class="css-truncate css-truncate-target d-block width-fit markdown-title"> <a href="https://github.com/bgoonz/github-readme-activity-graph/commit/9cb68cae1444e0df97511b591898feb478f14f68" class="Link--secondary" title="add: test for one dark, monokai, noctis minimus theme">add: test for one dark, monokai, noctis minimus theme</a> </span>
 
@@ -357,37 +354,33 @@ View code
 
 <a href="#github-readme-activity-graph" class="filter-item SelectMenu-item py-1 text-emphasized">Github Readme Activity Graph</a> <a href="#table-of-contents" class="filter-item SelectMenu-item py-1">Table of contents</a> <a href="#how-to-use" class="filter-item SelectMenu-item py-1">How to Use</a> <a href="#attention-" class="filter-item SelectMenu-item py-1">Attention ⚠</a> <a href="#use-themes" class="filter-item SelectMenu-item py-1">Use themes</a> <a href="#available-themes" class="filter-item SelectMenu-item py-1">Available Themes</a> <a href="#customization" class="filter-item SelectMenu-item py-1">Customization</a> <a href="#common-options" class="filter-item SelectMenu-item py-1">Common Options</a> <a href="#deploy-on-your-own-heroku-instance" class="filter-item SelectMenu-item py-1">Deploy on your own Heroku instance</a> <a href="#step-by-step-instructions-for-deploying-to-heroku-from-ui" class="filter-item SelectMenu-item py-1">Step-by-step instructions for deploying to Heroku (from UI)</a> <a href="#step-by-step-instructions-for-deploying-to-heroku-from-cli" class="filter-item SelectMenu-item py-1">Step-by-step instructions for deploying to Heroku (from CLI)</a> <a href="#contributing" class="filter-item SelectMenu-item py-1">Contributing</a> <a href="#core-team-" class="filter-item SelectMenu-item py-1">Core Team 💻</a> <a href="#contributors-" class="filter-item SelectMenu-item py-1">Contributors ✨</a> <a href="#resources-used-to-build-this-project" class="filter-item SelectMenu-item py-1">Resources Used to build this project</a> <a href="#made-with--and-typescript-" class="filter-item SelectMenu-item py-1">Made with ❤ and TypeScript</a>
 
-<a href="#readme" class="Link--primary">README.md</a>
------------------------------------------------------
+## <a href="#readme" class="Link--primary">README.md</a>
 
 [<img src="https://github.com/bgoonz/github-readme-activity-graph/raw/main/asset/logo.svg" height="150" />](https://github.com/bgoonz/github-readme-activity-graph/blob/main/asset/logo.svg)
 
-<a href="#github-readme-activity-graph" id="user-content-github-readme-activity-graph" class="anchor"></a>Github Readme Activity Graph
-======================================================================================================================================
+# <a href="#github-readme-activity-graph" id="user-content-github-readme-activity-graph" class="anchor"></a>Github Readme Activity Graph
 
 A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
-<a href="#table-of-contents" id="user-content-table-of-contents" class="anchor"></a>Table of contents
------------------------------------------------------------------------------------------------------
+## <a href="#table-of-contents" id="user-content-table-of-contents" class="anchor"></a>Table of contents
 
--   [Table of contents](#table-of-contents)
--   [How to Use](#how-to-use)
-    -   [Attention ⚠](#attention-)
--   [Use themes](#use-themes)
--   [Available Themes](#available-themes)
--   [Customization](#customization)
-    -   [Common Options](#common-options)
--   [Deploy on your own Heroku instance](#deploy-on-your-own-heroku-instance)
-    -   [Step-by-step instructions for deploying to Heroku **(from UI)**](#step-by-step-instructions-for-deploying-to-heroku-from-ui)
-    -   [Step-by-step instructions for deploying to Heroku **(from CLI)**](#step-by-step-instructions-for-deploying-to-heroku-from-cli)
--   [Contributing](#contributing)
--   [Core Team 💻](#core-team-)
--   [Contributors ✨](#contributors-)
--   [Resources Used to build this project](#resources-used-to-build-this-project)
-    -   [Made with ❤ and TypeScript <img src="https://camo.githubusercontent.com/5c469f960af5ff1c614f4c749099933c9efeddd8c01882d6f1ef3316bbe9acc0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747970657363726970746c616e672f747970657363726970746c616e672d69636f6e2e737667" width="25" />](#made-with--and-typescript-)
+- [Table of contents](#table-of-contents)
+- [How to Use](#how-to-use)
+  - [Attention ⚠](#attention-)
+- [Use themes](#use-themes)
+- [Available Themes](#available-themes)
+- [Customization](#customization)
+  - [Common Options](#common-options)
+- [Deploy on your own Heroku instance](#deploy-on-your-own-heroku-instance)
+  - [Step-by-step instructions for deploying to Heroku **(from UI)**](#step-by-step-instructions-for-deploying-to-heroku-from-ui)
+  - [Step-by-step instructions for deploying to Heroku **(from CLI)**](#step-by-step-instructions-for-deploying-to-heroku-from-cli)
+- [Contributing](#contributing)
+- [Core Team 💻](#core-team-)
+- [Contributors ✨](#contributors-)
+- [Resources Used to build this project](#resources-used-to-build-this-project)
+  - [Made with ❤ and TypeScript <img src="https://camo.githubusercontent.com/5c469f960af5ff1c614f4c749099933c9efeddd8c01882d6f1ef3316bbe9acc0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747970657363726970746c616e672f747970657363726970746c616e672d69636f6e2e737667" width="25" />](#made-with--and-typescript-)
 
-<a href="#how-to-use" id="user-content-how-to-use" class="anchor"></a>How to Use
---------------------------------------------------------------------------------
+## <a href="#how-to-use" id="user-content-how-to-use" class="anchor"></a>How to Use
 
 Just paste the following URL in your profile readme and you are good to go.
 
@@ -397,24 +390,21 @@ Just paste the following URL in your profile readme and you are good to go.
 
 ### <a href="#attention-" id="user-content-attention-" class="anchor"></a>[Attention ⚠](#Deploy-on-your-own-heroku-instance)
 
-<a href="#use-themes" id="user-content-use-themes" class="anchor"></a>Use themes
---------------------------------------------------------------------------------
+## <a href="#use-themes" id="user-content-use-themes" class="anchor"></a>Use themes
 
-*`username=ashutosh00710&theme=theme_name`*
+_`username=ashutosh00710&theme=theme_name`_
 
     [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [Manual Customization](#customization) is also available
 
-<a href="#available-themes" id="user-content-available-themes" class="anchor"></a>Available Themes
---------------------------------------------------------------------------------------------------
+## <a href="#available-themes" id="user-content-available-themes" class="anchor"></a>Available Themes
 
 <table><thead><tr class="header"><th style="text-align: center;">Name</th><th style="text-align: center;">Preview</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;"><strong>Default (cotton candy)</strong></td><td style="text-align: center;"><a href="https://github.com/bgoonz/github-readme-activity-graph/blob/main/asset/default.svg"><img src="https://github.com/bgoonz/github-readme-activity-graph/raw/main/asset/default.svg" alt="graph" height="250" /></a></td></tr><tr class="even"><td style="text-align: center;"><strong>react-dark</strong></td><td style="text-align: center;"><a href="https://github.com/bgoonz/github-readme-activity-graph/blob/main/asset/react-dark.svg"><img src="https://github.com/bgoonz/github-readme-activity-graph/raw/main/asset/react-dark.svg" alt="graph" height="250" /></a></td></tr><tr class="odd"><td style="text-align: center;"><strong>github</strong></td><td style="text-align: center;"><a href="https://github.com/bgoonz/github-readme-activity-graph/blob/main/asset/github.svg"><img src="https://github.com/bgoonz/github-readme-activity-graph/raw/main/asset/github.svg" alt="graph" height="250" /></a></td></tr><tr class="even"><td style="text-align: center;"><strong>xcode</strong></td><td style="text-align: center;"><a href="https://github.com/bgoonz/github-readme-activity-graph/blob/main/asset/xcode.svg"><img src="https://github.com/bgoonz/github-readme-activity-graph/raw/main/asset/xcode.svg" alt="graph" height="250" /></a></td></tr><tr class="odd"><td style="text-align: center;"><strong>rogue</strong></td><td style="text-align: center;"><a href="https://github.com/bgoonz/github-readme-activity-graph/blob/main/asset/rogue.svg"><img src="https://github.com/bgoonz/github-readme-activity-graph/raw/main/asset/rogue.svg" alt="graph" height="250" /></a></td></tr></tbody></table>
 
 For more themes click [here](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md)
 
-<a href="#customization" id="user-content-customization" class="anchor"></a>Customization
------------------------------------------------------------------------------------------
+## <a href="#customization" id="user-content-customization" class="anchor"></a>Customization
 
 Customize the appearance of your Activity Graph however you want with URL params.
 
@@ -434,8 +424,7 @@ Example:
 
     [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="#deploy-on-your-own-heroku-instance" id="user-content-deploy-on-your-own-heroku-instance" class="anchor"></a>Deploy on your own Heroku instance
---------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#deploy-on-your-own-heroku-instance" id="user-content-deploy-on-your-own-heroku-instance" class="anchor"></a>Deploy on your own Heroku instance
 
 The GitHub API only allows limited requests per hour, my activity-graph.herokuapp.com/graph could possibly hit the rate limiter. If you host it on your own Heroku server, then you don't have to worry about anything.
 
@@ -465,9 +454,9 @@ However, if there are a large number of requests or if the heroku account being 
 
 1.  Make a [Heroku](https://signup.heroku.com/) account.
 2.  Install the Heroku CLI
-    -   Mac: `brew install heroku/brew/heroku`
-    -   Ubuntu: `sudo snap install heroku --classic`
-    -   Windows: [Find the Windows installer here](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
+    - Mac: `brew install heroku/brew/heroku`
+    - Ubuntu: `sudo snap install heroku --classic`
+    - Windows: [Find the Windows installer here](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
 3.  Clone the repository: `git clone https://github.com/Ashutosh00710/github-readme-activity-graph.git`
 4.  Navigate in to the directory: `cd github-readme-activity-graph`
 5.  Login to Heroku: `heroku login`
@@ -480,13 +469,11 @@ Now just add the following to your profile readme and you're good to go.
 
     ![Github Activity Graph](<url from step 6>/graph?username=<username>)
 
-<a href="#contributing" id="user-content-contributing" class="anchor"></a>Contributing
---------------------------------------------------------------------------------------
+## <a href="#contributing" id="user-content-contributing" class="anchor"></a>Contributing
 
 Please read through our [contributing guidelines](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
-<a href="#core-team-" id="user-content-core-team-" class="anchor"></a>Core Team 💻
----------------------------------------------------------------------------------
+## <a href="#core-team-" id="user-content-core-team-" class="anchor"></a>Core Team 💻
 
 <table><tbody><tr class="odd"><td style="text-align: center;"><a href="http://github.com/Ashutosh00710"><img src="https://avatars.githubusercontent.com/u/42907572?s=460&amp;u=3c5c03fdddeec2483819b845bd549616d48b71e5&amp;v=4" /><br />
 <sub><strong>Ashutosh Dwivedi</strong></sub></a><br />
@@ -494,8 +481,7 @@ Please read through our [contributing guidelines](https://github.com/Ashutosh007
 <sub><strong>Kshitij Srivastava</strong></sub></a><br />
 <a href="#projectManagement" title="Project Management">📆</a> <a href="https://github.com/Ashutosh00710/github-readme-activity-graph/commits?author=kshitij978" title="Code">💻</a> <a href="#documentation" title="Documentation">📖</a> <a href="#design" title="Design">🎨</a></td></tr></tbody></table>
 
-<a href="#contributors-" id="user-content-contributors-" class="anchor"></a>Contributors ✨
-------------------------------------------------------------------------------------------
+## <a href="#contributors-" id="user-content-contributors-" class="anchor"></a>Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -515,19 +501,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-<a href="#resources-used-to-build-this-project" id="user-content-resources-used-to-build-this-project" class="anchor"></a>Resources Used to build this project
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="#resources-used-to-build-this-project" id="user-content-resources-used-to-build-this-project" class="anchor"></a>Resources Used to build this project
 
 <table><thead><tr class="header"><th style="text-align: center;">Purpose</th><th style="text-align: center;">Library Name</th><th style="text-align: center;">Link</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">Graph Construction</td><td style="text-align: center;"><strong>CHARTIST.JS</strong></td><td style="text-align: center;"><a href="https://github.com/gionkunz/chartist-js">https://github.com/gionkunz/chartist-js</a></td></tr></tbody></table>
 
-  
-
-------------------------------------------------------------------------
+---
 
 ### <a href="#made-with--and-typescript-" id="user-content-made-with--and-typescript-" class="anchor"></a>Made with ❤ and TypeScript [<img src="https://camo.githubusercontent.com/5c469f960af5ff1c614f4c749099933c9efeddd8c01882d6f1ef3316bbe9acc0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747970657363726970746c616e672f747970657363726970746c616e672d69636f6e2e737667" width="25" />](https://camo.githubusercontent.com/5c469f960af5ff1c614f4c749099933c9efeddd8c01882d6f1ef3316bbe9acc0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747970657363726970746c616e672f747970657363726970746c616e672d69636f6e2e737667)
 
-About
------
+## About
 
 A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
@@ -545,41 +527,38 @@ MIT License
 
 Code of conduct
 
-<a href="https://github.com/bgoonz/github-readme-activity-graph/releases" class="Link--primary no-underline">Releases</a>
--------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/bgoonz/github-readme-activity-graph/releases" class="Link--primary no-underline">Releases</a>
 
 No releases published
 
-<a href="https://github.com/users/bgoonz/packages?repo_name=github-readme-activity-graph" class="Link--primary no-underline">Packages <span class="Counter" title="0" hidden="hidden" data-view-component="true">0</span></a>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/users/bgoonz/packages?repo_name=github-readme-activity-graph" class="Link--primary no-underline">Packages <span class="Counter" title="0" hidden="hidden" data-view-component="true">0</span></a>
 
-No packages published  
+No packages published
 
-Languages
----------
+## Languages
 
 <span class="Progress" data-view-component="true"> <span class="Progress-item color-bg-success-inverse" style="background-color:#2b7489 !important;;width: 73.4%;" itemprop="keywords" aria-label="TypeScript 73.4" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#563d7c !important;;width: 11.1%;" itemprop="keywords" aria-label="CSS 11.1" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#f1e05a !important;;width: 10.0%;" itemprop="keywords" aria-label="JavaScript 10.0" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#e34c26 !important;;width: 5.5%;" itemprop="keywords" aria-label="HTML 5.5" data-view-component="true"></span> </span>
 
--   <span class="color-fg-default text-bold mr-1">TypeScript</span> 73.4%
--   <span class="color-fg-default text-bold mr-1">CSS</span> 11.1%
--   <span class="color-fg-default text-bold mr-1">JavaScript</span> 10.0%
--   <span class="color-fg-default text-bold mr-1">HTML</span> 5.5%
+- <span class="color-fg-default text-bold mr-1">TypeScript</span> 73.4%
+- <span class="color-fg-default text-bold mr-1">CSS</span> 11.1%
+- <span class="color-fg-default text-bold mr-1">JavaScript</span> 10.0%
+- <span class="color-fg-default text-bold mr-1">HTML</span> 5.5%
 
--   © 2021 GitHub, Inc.
--   [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
--   [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
--   [Security](https://github.com/security)
--   [Status](https://www.githubstatus.com/)
--   [Docs](https://docs.github.com/)
+- © 2021 GitHub, Inc.
+- [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
+- [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
+- [Security](https://github.com/security)
+- [Status](https://www.githubstatus.com/)
+- [Docs](https://docs.github.com/)
 
 <!-- -->
 
--   [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
--   [Pricing](https://github.com/pricing)
--   [API](https://docs.github.com/)
--   [Training](https://services.github.com/)
--   [Blog](https://github.blog/)
--   [About](https://github.com/about)
+- [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
+- [Pricing](https://github.com/pricing)
+- [API](https://docs.github.com/)
+- [Training](https://services.github.com/)
+- [Blog](https://github.blog/)
+- [About](https://github.com/about)
 
 <span class="f6 color-fg-muted"></span>
 

@@ -1,45 +1,41 @@
-<a href="https://jekyllrb.com/" class="logo"><span class="sr-only">Jekyll</span> <img src="https://jekyllrb.com/img/logo-2x.png" alt="Jekyll Logo" width="140" height="65" /></a>
-=================================================================================================================================================================================
+# <a href="https://jekyllrb.com/" class="logo"><span class="sr-only">Jekyll</span> <img src="https://jekyllrb.com/img/logo-2x.png" alt="Jekyll Logo" width="140" height="65" /></a>
 
--   [Home](https://jekyllrb.com/)
--   [Docs](https://jekyllrb.com/docs/)
--   [Resources](https://jekyllrb.com/resources/)
--   [Showcase](https://jekyllrb.com/showcase/)
--   [News](https://jekyllrb.com/news/)
+- [Home](https://jekyllrb.com/)
+- [Docs](https://jekyllrb.com/docs/)
+- [Resources](https://jekyllrb.com/resources/)
+- [Showcase](https://jekyllrb.com/showcase/)
+- [News](https://jekyllrb.com/news/)
 
--   [v4.2.1](https://github.com/jekyll/jekyll/releases/tag/v4.2.1)
--   [GitHub](https://github.com/jekyll/jekyll)
+- [v4.2.1](https://github.com/jekyll/jekyll/releases/tag/v4.2.1)
+- [GitHub](https://github.com/jekyll/jekyll)
 
--   [Home](https://jekyllrb.com/)
--   [Docs](https://jekyllrb.com/docs/)
--   [Resources](https://jekyllrb.com/resources/)
--   [News](https://jekyllrb.com/news/)
--   [GitHub](https://github.com/jekyll/jekyll)
+- [Home](https://jekyllrb.com/)
+- [Docs](https://jekyllrb.com/docs/)
+- [Resources](https://jekyllrb.com/resources/)
+- [News](https://jekyllrb.com/news/)
+- [GitHub](https://github.com/jekyll/jekyll)
 
 Transform your plain text into static websites and blogs.
 
-Simple
-------
+## Simple
 
-No more databases, comment moderation, or pesky updates to install—just *your content*.
+No more databases, comment moderation, or pesky updates to install—just _your content_.
 
 [How Jekyll works →](https://jekyllrb.com/docs/usage/)
 
-Static
-------
+## Static
 
 [Markdown](https://daringfireball.net/projects/markdown/), [Liquid](https://github.com/Shopify/liquid/wiki), HTML <span class="amp">&</span> CSS go in. Static sites come out ready for deployment.
 
 [Jekyll template guide →](https://jekyllrb.com/docs/templates/)
 
-Blog-aware
-----------
+## Blog-aware
 
 Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
 
 [Migrate your blog →](http://import.jekyllrb.com/)
 
-### Get up and running *in seconds*.
+### Get up and running _in seconds_.
 
 Quick-start Instructions
 
@@ -55,10 +51,9 @@ Quick-start Instructions
 
 <img src="https://jekyllrb.com/img/octojekyll.png" alt="Free Jekyll hosting on GitHub Pages" width="300" height="251" />
 
-**Free hosting** with GitHub Pages
-----------------------------------
+## **Free hosting** with GitHub Pages
 
-Sick of dealing with hosting companies? [GitHub Pages](https://pages.github.com/) is *powered by Jekyll*, so you can easily deploy your site using GitHub for free—[custom domain name](https://help.github.com/articles/about-supported-custom-domains/) and all.
+Sick of dealing with hosting companies? [GitHub Pages](https://pages.github.com/) is _powered by Jekyll_, so you can easily deploy your site using GitHub for free—[custom domain name](https://help.github.com/articles/about-supported-custom-domains/) and all.
 
 [Learn more about GitHub Pages →](https://pages.github.com/)
 

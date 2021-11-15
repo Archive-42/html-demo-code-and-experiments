@@ -1,5 +1,4 @@
-<a href="https://hashnode.com/" class="flex flex-row items-center justify-center"></a>
-======================================================================================
+# <a href="https://hashnode.com/" class="flex flex-row items-center justify-center"></a>
 
 <span class="inline-block">Write</span>
 
@@ -27,8 +26,7 @@ More
 
 🙌 $6.7M in fresh funding to build the next-gen developer blogging community. <a href="https://townhall.hashnode.com/dollar67m-in-series-a-funding-to-build-the-next-gen-developer-blogging-community" class="inline-block text-brand-blue">Learn more</a>
 
-Everything you need to start blogging as a developer!
-=====================================================
+# Everything you need to start blogging as a developer!
 
 ### Own your content, share ideas, and connect with the global dev community!
 
@@ -61,8 +59,7 @@ Hashnode is a free developer blogging platform that allows you to publish articl
 
 This gives you a huge advantage: Google and other search engines send traffic directly to your domain, and Hashnode community members discover your articles on their feed.
 
-Content Ownership. No Ads. No Paywall. No kidding.
---------------------------------------------------
+## Content Ownership. No Ads. No Paywall. No kidding.
 
 ### Blog on your personal domain
 
@@ -89,66 +86,53 @@ Because we value the relationship between you and your readers, we won’t show 
 Guillermo Rauch,  
 CEO at Vercel.
 
-Features that will make your blogging 10x better
-------------------------------------------------
+## Features that will make your blogging 10x better
 
-Automatic GitHub Backup
------------------------
+## Automatic GitHub Backup
 
 Every time you publish an article on your blog, a markdown version of the post is pushed to your private GitHub repo as a backup.
 
-Write in Markdown
------------------
+## Write in Markdown
 
 Write your content in a distraction-free Markdown editor with proper syntax highlighting and see live previews instantly. Embed images, code snippets, tweets, and much more.
 
-Superfast Next.js Powered Blogs
--------------------------------
+## Superfast Next.js Powered Blogs
 
 Hashnode blogs are powered by Next.js, and are served via Vercel's word class CDN.
 
-Blog on a Custom Domain
------------------------
+## Blog on a Custom Domain
 
 Bring your custom domain, and get up and running within minutes. We issue, and renew SSL cert for you automatically.
 
-Own your data
--------------
+## Own your data
 
 You retain all the rights to your content. Export and download all your posts from your dashboard with a single click.
 
-Edge Caching with SSL
----------------------
+## Edge Caching with SSL
 
 We automatically cache your blog using Vercel, and serve it over HTTPS. This results in low time to first byte (TTFB) and allows your blog to be extremely responsive and fast.
 
-Customise Design using CSS
---------------------------
+## Customise Design using CSS
 
 Modify the appearance of your blog using our Custom CSS feature. Change the font family, font size, primary link colors, and more.
 
-Free built-in newsletter service
---------------------------------
+## Free built-in newsletter service
 
 Enable a newsletter service with the click of a button, and let your readers easily subscribe to your blog.
 
-Built-in Analytics
-------------------
+## Built-in Analytics
 
 Powerful analytics to track the number of views, likes, and comments, and analyze the performance of your articles over a period of time.
 
-Article Series
---------------
+## Article Series
 
 Series is a great way to organize your content. It helps you easily group a series of articles related to a single topic.
 
-Drafts
-------
+## Drafts
 
 Share your drafts with your friends to get some early feedback before you hit the publish button.
 
-HTTPS by default
-----------------
+## HTTPS by default
 
 It doesn't matter if you are using our free subdomain or a custom one. We provide SSL certificates for free for all the blogs.
 
@@ -161,13 +145,11 @@ It doesn't matter if you are using our free subdomain or a custom one. We provid
 James Q Quick,  
 Senior Developer Advocate at Auth0
 
-Trending Bloggers This Week
----------------------------
+## Trending Bloggers This Week
 
 <a href="https://blog.greenroots.info/" class="flex-shrink-0 block w-24 h-24 mr-4 overflow-hidden border rounded-full shadow dark:border-brand-grey-800"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Tapas Adhikary" class="block w-full lazyload" /></a>
 
-[Tapas Adhikary](https://blog.greenroots.info/)
-===============================================
+# [Tapas Adhikary](https://blog.greenroots.info/)
 
 [blog.greenroots.info](https://blog.greenroots.info/)
 
@@ -175,8 +157,7 @@ Writer . YouTuber . Creator . Mentor | Let's Connect
 
 <a href="https://miguendes.me/" class="flex-shrink-0 block w-24 h-24 mr-4 overflow-hidden border rounded-full shadow dark:border-brand-grey-800"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Miguel Brito" class="block w-full lazyload" /></a>
 
-[Miguel Brito](https://miguendes.me/)
-=====================================
+# [Miguel Brito](https://miguendes.me/)
 
 [miguendes.me](https://miguendes.me/)
 
@@ -184,8 +165,7 @@ Machine Learning Engineer - Technical Writer-ish - Interested in Software Testin
 
 <a href="https://lo-victoria.com/" class="flex-shrink-0 block w-24 h-24 mr-4 overflow-hidden border rounded-full shadow dark:border-brand-grey-800"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Victoria Lo" class="block w-full lazyload" /></a>
 
-[Victoria Lo](https://lo-victoria.com/)
-=======================================
+# [Victoria Lo](https://lo-victoria.com/)
 
 [lo-victoria.com](https://lo-victoria.com/)
 
@@ -193,8 +173,7 @@ I'm a web/software developer who loves to build projects and share valuable tips
 
 <a href="https://travishorn.com/" class="flex-shrink-0 block w-24 h-24 mr-4 overflow-hidden border rounded-full shadow dark:border-brand-grey-800"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Travis Horn" class="block w-full lazyload" /></a>
 
-[Travis Horn](https://travishorn.com/)
-======================================
+# [Travis Horn](https://travishorn.com/)
 
 [travishorn.com](https://travishorn.com/)
 
@@ -202,8 +181,7 @@ Data Scientist &amp; Web Developer. I have a passion for discovering and working
 
 <a href="https://catalins.tech/" class="flex-shrink-0 block w-24 h-24 mr-4 overflow-hidden border rounded-full shadow dark:border-brand-grey-800"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Catalin Pit" class="block w-full lazyload" /></a>
 
-[Catalin Pit](https://catalins.tech/)
-=====================================
+# [Catalin Pit](https://catalins.tech/)
 
 [catalins.tech](https://catalins.tech/)
 
@@ -211,8 +189,7 @@ Writing about Vue, Node.Js, AWS, JavaScript, Cloud Computing and Software Develo
 
 <a href="https://pauldigian.hashnode.dev/" class="flex-shrink-0 block w-24 h-24 mr-4 overflow-hidden border rounded-full shadow dark:border-brand-grey-800"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Paul Di Gian" class="block w-full lazyload" /></a>
 
-[Paul Di Gian](https://pauldigian.hashnode.dev/)
-================================================
+# [Paul Di Gian](https://pauldigian.hashnode.dev/)
 
 [pauldigian.hashnode.dev](https://pauldigian.hashnode.dev/)
 
@@ -220,8 +197,7 @@ Golang software development and training. For information and rates: paul.digi4n
 
 <a href="https://blog.basimhennawi.com/" class="flex-shrink-0 block w-24 h-24 mr-4 overflow-hidden border rounded-full shadow dark:border-brand-grey-800"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Basim Hennawi" class="block w-full lazyload" /></a>
 
-[Basim Hennawi](https://blog.basimhennawi.com/)
-===============================================
+# [Basim Hennawi](https://blog.basimhennawi.com/)
 
 [blog.basimhennawi.com](https://blog.basimhennawi.com/)
 
@@ -229,8 +205,7 @@ Software Engineer at Appinio Husband. Father. Egyptian based in Germany. Love Dr
 
 <a href="https://madza.hashnode.dev/" class="flex-shrink-0 block w-24 h-24 mr-4 overflow-hidden border rounded-full shadow dark:border-brand-grey-800"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Madza" class="block w-full lazyload" /></a>
 
-[Madza](https://madza.hashnode.dev/)
-====================================
+# [Madza](https://madza.hashnode.dev/)
 
 [madza.hashnode.dev](https://madza.hashnode.dev/)
 
@@ -238,8 +213,7 @@ Software Developer and Technical Writer
 
 <a href="https://towardsthecloud.com/" class="flex-shrink-0 block w-24 h-24 mr-4 overflow-hidden border rounded-full shadow dark:border-brand-grey-800"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Danny Steenman" class="block w-full lazyload" /></a>
 
-[Danny Steenman](https://towardsthecloud.com/)
-==============================================
+# [Danny Steenman](https://towardsthecloud.com/)
 
 [towardsthecloud.com](https://towardsthecloud.com/)
 
@@ -247,8 +221,7 @@ Principal Cloud Consultant, AWS Partner Ambassador &amp; Community Builder. Writ
 
 <a href="https://blog.mahmoud-salem.net/" class="flex-shrink-0 block w-24 h-24 mr-4 overflow-hidden border rounded-full shadow dark:border-brand-grey-800"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Mahmoud Salem" class="block w-full lazyload" /></a>
 
-[Mahmoud Salem](https://blog.mahmoud-salem.net/)
-================================================
+# [Mahmoud Salem](https://blog.mahmoud-salem.net/)
 
 [blog.mahmoud-salem.net](https://blog.mahmoud-salem.net/)
 
@@ -256,8 +229,7 @@ I'm a Software Engineer with an addiction to explore programming languages and t
 
 Browse more blogs
 
-Don't just take our word for it, trust the community!
------------------------------------------------------
+## Don't just take our word for it, trust the community!
 
 "I wanted to use my own domain with Hashnode and was prepared for all the hassle…and then - literally just one click and it was done! So easy, so convenient. Go Hashnode!"
 
@@ -298,8 +270,7 @@ Reasons: - Personal Domain - Free Analytics - Free Newsletter - SEO built in - C
 
 See All Testimonials
 
-Start blogging with Hashnode, it's Free!
-----------------------------------------
+## Start blogging with Hashnode, it's Free!
 
 ### Join the fastest growing dev community 🚀
 
@@ -311,34 +282,34 @@ A blogging platform built for developers by developers. Blog on personal domain,
 
 Explore
 
--   <a href="https://hashnode.com/community?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Feed</a>
--   <a href="https://hashnode.com/explore?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Trending Blogs</a>
--   <a href="https://hashnode.com/tags?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Tags</a>
--   <a href="https://hashnode.com/search?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Search</a>
--   <a href="https://hashnode.com/bookmarks?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Bookmarks</a>
--   <a href="https://api.hashnode.com/?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Hashnode APIs</a>
+- <a href="https://hashnode.com/community?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Feed</a>
+- <a href="https://hashnode.com/explore?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Trending Blogs</a>
+- <a href="https://hashnode.com/tags?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Tags</a>
+- <a href="https://hashnode.com/search?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Search</a>
+- <a href="https://hashnode.com/bookmarks?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Bookmarks</a>
+- <a href="https://api.hashnode.com/?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Hashnode APIs</a>
 
 Company
 
--   <a href="https://hashnode.com/about?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">About Hashnode</a>
--   <a href="https://careers.hashnode.com/?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Careers</a>
--   <a href="https://townhall.hashnode.com/?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Official Blog</a>
--   <a href="https://hashnode.com/media?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Logos and Media</a>
--   <a href="https://hashnode.com/changelog?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Changelog</a>
+- <a href="https://hashnode.com/about?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">About Hashnode</a>
+- <a href="https://careers.hashnode.com/?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Careers</a>
+- <a href="https://townhall.hashnode.com/?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Official Blog</a>
+- <a href="https://hashnode.com/media?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Logos and Media</a>
+- <a href="https://hashnode.com/changelog?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Changelog</a>
 
 Comparisons
 
--   <a href="https://hashnode.com/vs/medium?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Hashnode vs Medium</a>
--   <a href="https://hashnode.com/vs/ghost?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Hashnode vs Ghost</a>
--   <a href="https://hashnode.com/vs/wordpress?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Hashnode vs WordPress</a>
--   <a href="https://hashnode.com/vs/devto?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Hashnode vs Dev.to</a>
+- <a href="https://hashnode.com/vs/medium?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Hashnode vs Medium</a>
+- <a href="https://hashnode.com/vs/ghost?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Hashnode vs Ghost</a>
+- <a href="https://hashnode.com/vs/wordpress?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Hashnode vs WordPress</a>
+- <a href="https://hashnode.com/vs/devto?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Hashnode vs Dev.to</a>
 
 Support
 
--   <a href="https://support.hashnode.com/?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Support Docs</a>
--   <a href="mailto:hello@hashnode.com" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Contact</a>
--   <a href="https://discord.gg/qsAQfxX" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Join Discord</a>
--   <a href="https://hashnode.com/feature-requests?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Feature Requests</a>
+- <a href="https://support.hashnode.com/?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Support Docs</a>
+- <a href="mailto:hello@hashnode.com" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Contact</a>
+- <a href="https://discord.gg/qsAQfxX" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Join Discord</a>
+- <a href="https://hashnode.com/feature-requests?source=hashnode-footer" class="block px-4 py-1 font-medium rounded dark:hover:bg-brand-dark-grey-900 hover:bg-brand-grey-100">Feature Requests</a>
 
 <a href="https://hashnode.com/onboard?unlock-blog=true&amp;source=hashnode-footer" class="flex flex-row items-center capitalize button-hn-primary">Start a blog</a><a href="https://hashnode.com/onboard?source=hashnode-footer" class="block ml-2 capitalize button-hn-outline">Sign in</a>
 

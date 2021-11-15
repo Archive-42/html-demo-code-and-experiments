@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [Lists Bring Order To Web Pages: Here’s The HTML Code To Create Them](https://html.com/lists/) / &lt;ul&gt; HTML Tag
 
-`<ul> HTML Tag`
-===============
+# `<ul> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -29,13 +26,12 @@ semantic
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> All About Lists](#All_About_Lists)
--   [<span class="toc_number toc_depth_1">3</span> Lists of Items Where Order Doesn’t Matter](#Lists_of_Items_Where_Order_Doesn8217t_Matter)
--   [<span class="toc_number toc_depth_1">4</span> Attributes of &lt;ul&gt; HTML Tag](#Attributes_of_ltulgt_HTML_Tag)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> All About Lists](#All_About_Lists)
+- [<span class="toc_number toc_depth_1">3</span> Lists of Items Where Order Doesn’t Matter](#Lists_of_Items_Where_Order_Doesn8217t_Matter)
+- [<span class="toc_number toc_depth_1">4</span> Attributes of &lt;ul&gt; HTML Tag](#Attributes_of_ltulgt_HTML_Tag)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <p>Unordered list items:</p>
     <ul>
@@ -45,20 +41,18 @@ Contents
 
 Unordered list items:
 
--   Arranged in any order
--   Will still make sense
+- Arranged in any order
+- Will still make sense
 
 <span class="underline"></span>
 
-<span id="All_About_Lists">All About Lists</span>
--------------------------------------------------
+## <span id="All_About_Lists">All About Lists</span>
 
 You might not know this, but web developers love lists. They use them all the time. As web developers ourselves, we took it upon ourselves to provide an extensive list tutorial that covers all of the basics: unordered lists, ordered lists, definition lists, countdown lists, nested lists–and even touches on some advanced topics.
 
 Read our [Lists Tutorial](https://html.com/lists/) to learn pretty much all there is to know about HTML lists.
 
-<span id="Lists_of_Items_Where_Order_Doesn8217t_Matter">Lists of Items Where Order Doesn’t Matter</span>
---------------------------------------------------------------------------------------------------------
+## <span id="Lists_of_Items_Where_Order_Doesn8217t_Matter">Lists of Items Where Order Doesn’t Matter</span>
 
 There are two primary types of lists available to web developers: [ordered lists](https://html.com/tags/ol/) and unordered lists. If the order of the items in the list matters, use an ordered list. If the order of the items in the list does not matter, use an unordered list.
 
@@ -98,14 +92,12 @@ Here’s how that list is rendered in the browser:
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Attributes_of_ltulgt_HTML_Tag">Attributes of &lt;ul&gt; HTML Tag</span>
----------------------------------------------------------------------------------
+## <span id="Attributes_of_ltulgt_HTML_Tag">Attributes of &lt;ul&gt; HTML Tag</span>
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/attributes/ul-type/" class="linked-name deprecated">&lt;ul type=""&gt;</a><br />
 </td><td></td><td>Was used to set list types.</td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`What Does Td Colspan Have To Do With Tables In HTML?`](https://html.com/attributes/td-colspan/)
 
@@ -117,11 +109,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

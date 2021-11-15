@@ -242,7 +242,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -260,7 +260,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -300,7 +300,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -346,7 +346,7 @@ Cloudinary
 
 1
 
-<span data-key="4a3675f7c6014da8ad9bc44580dc84c5"><span data-offset-key="4a3675f7c6014da8ad9bc44580dc84c5:0">media\_library:</span></span>
+<span data-key="4a3675f7c6014da8ad9bc44580dc84c5"><span data-offset-key="4a3675f7c6014da8ad9bc44580dc84c5:0">media_library:</span></span>
 
 2
 
@@ -358,11 +358,11 @@ Cloudinary
 
 4
 
-<span data-key="aa90af7acc2842ea9d5efddb89ebe353"><span data-offset-key="aa90af7acc2842ea9d5efddb89ebe353:0"> cloud\_name: your\_cloud\_name</span></span>
+<span data-key="aa90af7acc2842ea9d5efddb89ebe353"><span data-offset-key="aa90af7acc2842ea9d5efddb89ebe353:0"> cloud_name: your_cloud_name</span></span>
 
 5
 
-<span data-key="b882d848f2f84e95b741062fd563ab50"><span data-offset-key="b882d848f2f84e95b741062fd563ab50:0"> api\_key: your\_api\_key</span></span>
+<span data-key="b882d848f2f84e95b741062fd563ab50"><span data-offset-key="b882d848f2f84e95b741062fd563ab50:0"> api_key: your_api_key</span></span>
 
 Copied!
 
@@ -370,7 +370,7 @@ Copied!
 
 <span data-key="867cf2f79c6646a9bc00bbe39e6b8adf">**Note:**<span data-offset-key="867cf2f79c6646a9bc00bbe39e6b8adf:1"> The Netlify CMS media library extensions for Cloudinary are not included in </span>`netlify-cms-app`<span data-offset-key="867cf2f79c6646a9bc00bbe39e6b8adf:3">. If you're using </span>`netlify-cms-app`<span data-offset-key="867cf2f79c6646a9bc00bbe39e6b8adf:5">, you'll need to </span></span><a href="https://www.netlifycms.org/blog/2019/07/netlify-cms-gatsby-plugin-4-0-0#using-media-libraries-with-netlify-cms-app" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="836f14c5ccd04b4b8c574aa76c2b6a71" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="60953881869949cbbedea825163d6faf"><span data-offset-key="60953881869949cbbedea825163d6faf:0">register the media libraries yourself</span></span></span></a><span data-key="93c4db9dac2c4eafb325afd2ddfc63ff"><span data-offset-key="93c4db9dac2c4eafb325afd2ddfc63ff:0">.</span></span>
 
-### 
+###
 
 <span data-key="1f2edc01374947e2bf00ee4c3fc51b4a"><span data-offset-key="1f2edc01374947e2bf00ee4c3fc51b4a:0">Security Considerations</span></span>
 
@@ -380,55 +380,39 @@ Copied!
 
 <span data-key="12417a9f5d2c4f9abd5f99454a597572"><span data-offset-key="12417a9f5d2c4f9abd5f99454a597572:0">The following options are specific to the Netlify CMS integration for Cloudinary:</span></span>
 
--   
+- <span data-key="2a981d7ce99543bba4d117beb64c3c0e">**`output_filename_only`**<span data-offset-key="2a981d7ce99543bba4d117beb64c3c0e:1">: </span>_(default:_ `false`_)_<span data-offset-key="2a981d7ce99543bba4d117beb64c3c0e:5"> By default, the value provided for a selected image is a complete URL for the asset on Cloudinary's CDN. Setting </span>`output_filename_only`<span data-offset-key="2a981d7ce99543bba4d117beb64c3c0e:7"> to </span>`true`<span data-offset-key="2a981d7ce99543bba4d117beb64c3c0e:9"> will instead produce just the filename (e.g. </span>`image.jpg`<span data-offset-key="2a981d7ce99543bba4d117beb64c3c0e:11">). This should be </span>`true`<span data-offset-key="2a981d7ce99543bba4d117beb64c3c0e:13"> if you will be directly embedding cloudinary transformation urls in page templates. Refer to </span></span><a href="https://www.netlifycms.org/docs/cloudinary/#inserting-cloudinary-url-in-page-templates" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e9332475294a4fd5acc36a4dd7aacef5" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="97bbac11d5064c759ea8516f172d5116"><span data-offset-key="97bbac11d5064c759ea8516f172d5116:0">Inserting Cloudinary URL in page templates</span></span></span></a><span data-key="3b213cd3b6f34877b83825bc602066a6"><span data-offset-key="3b213cd3b6f34877b83825bc602066a6:0">.</span></span>
 
-    <span data-key="2a981d7ce99543bba4d117beb64c3c0e">**`output_filename_only`**<span data-offset-key="2a981d7ce99543bba4d117beb64c3c0e:1">: </span>*(default:* `false`*)*<span data-offset-key="2a981d7ce99543bba4d117beb64c3c0e:5"> By default, the value provided for a selected image is a complete URL for the asset on Cloudinary's CDN. Setting </span>`output_filename_only`<span data-offset-key="2a981d7ce99543bba4d117beb64c3c0e:7"> to </span>`true`<span data-offset-key="2a981d7ce99543bba4d117beb64c3c0e:9"> will instead produce just the filename (e.g. </span>`image.jpg`<span data-offset-key="2a981d7ce99543bba4d117beb64c3c0e:11">). This should be </span>`true`<span data-offset-key="2a981d7ce99543bba4d117beb64c3c0e:13"> if you will be directly embedding cloudinary transformation urls in page templates. Refer to </span></span><a href="https://www.netlifycms.org/docs/cloudinary/#inserting-cloudinary-url-in-page-templates" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e9332475294a4fd5acc36a4dd7aacef5" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="97bbac11d5064c759ea8516f172d5116"><span data-offset-key="97bbac11d5064c759ea8516f172d5116:0">Inserting Cloudinary URL in page templates</span></span></span></a><span data-key="3b213cd3b6f34877b83825bc602066a6"><span data-offset-key="3b213cd3b6f34877b83825bc602066a6:0">.</span></span>
+- <span data-key="183878f197cf4e82b131b868ec0cda7b">**`use_transformations`**<span data-offset-key="183878f197cf4e82b131b868ec0cda7b:1">: </span>_(default:_ `true`_)_<span data-offset-key="183878f197cf4e82b131b868ec0cda7b:5"> If </span>`true`<span data-offset-key="183878f197cf4e82b131b868ec0cda7b:7">, uses derived url when available (the url will have image transformation segments included). Has no effect if </span>`output_filename_only`<span data-offset-key="183878f197cf4e82b131b868ec0cda7b:9"> is set to </span>`true`<span data-offset-key="183878f197cf4e82b131b868ec0cda7b:11">.</span></span>
 
--   
-
-    <span data-key="183878f197cf4e82b131b868ec0cda7b">**`use_transformations`**<span data-offset-key="183878f197cf4e82b131b868ec0cda7b:1">: </span>*(default:* `true`*)*<span data-offset-key="183878f197cf4e82b131b868ec0cda7b:5"> If </span>`true`<span data-offset-key="183878f197cf4e82b131b868ec0cda7b:7">, uses derived url when available (the url will have image transformation segments included). Has no effect if </span>`output_filename_only`<span data-offset-key="183878f197cf4e82b131b868ec0cda7b:9"> is set to </span>`true`<span data-offset-key="183878f197cf4e82b131b868ec0cda7b:11">.</span></span>
-
--   
-
-    <span data-key="29f0864194864767903832195d54fb52">**`use_secure_url`**<span data-offset-key="29f0864194864767903832195d54fb52:1">: </span>*(default:* `true`*)*<span data-offset-key="29f0864194864767903832195d54fb52:5"> Controls whether an </span>`http`<span data-offset-key="29f0864194864767903832195d54fb52:7"> or </span>`https`<span data-offset-key="29f0864194864767903832195d54fb52:9"> URL is provided. Has no effect if </span>`output_filename_only`<span data-offset-key="29f0864194864767903832195d54fb52:11"> is set to </span>`true`<span data-offset-key="29f0864194864767903832195d54fb52:13">.</span></span>
+- <span data-key="29f0864194864767903832195d54fb52">**`use_secure_url`**<span data-offset-key="29f0864194864767903832195d54fb52:1">: </span>_(default:_ `true`_)_<span data-offset-key="29f0864194864767903832195d54fb52:5"> Controls whether an </span>`http`<span data-offset-key="29f0864194864767903832195d54fb52:7"> or </span>`https`<span data-offset-key="29f0864194864767903832195d54fb52:9"> URL is provided. Has no effect if </span>`output_filename_only`<span data-offset-key="29f0864194864767903832195d54fb52:11"> is set to </span>`true`<span data-offset-key="29f0864194864767903832195d54fb52:13">.</span></span>
 
 <span data-key="ee62121e096e4cd1bac685ec58bda48f"><span data-offset-key="ee62121e096e4cd1bac685ec58bda48f:0">Cloudinary configuration options</span></span>
 
 <span data-key="3a525aa6bffc484c92ffeba84e2749b0"><span data-offset-key="3a525aa6bffc484c92ffeba84e2749b0:0">The following options are used to configure the media library. All options are listed in Cloudinary's </span></span><a href="https://cloudinary.com/documentation/media_library_widget#3_set_the_configuration_options" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="89ac438df35c467cbb2036ec3a95e4f8" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="7e55621758104e218988dac63923327f"><span data-offset-key="7e55621758104e218988dac63923327f:0">media library documentation</span></span></span></a><span data-key="26e6d2f34d2542d6ae6226c906660319"><span data-offset-key="26e6d2f34d2542d6ae6226c906660319:0">, but only options listed below are available or recommended for the Netlify CMS integration:</span></span>
 
-### 
+###
 
 <span data-key="8b247e2eed214cfe82f53d6cf39560e2"><span data-offset-key="8b247e2eed214cfe82f53d6cf39560e2:0">Authentication</span></span>
 
--   
+- <span data-key="afc949d387894561b8ff8ca092e9d243">`cloud_name`</span>
 
-    <span data-key="afc949d387894561b8ff8ca092e9d243">`cloud_name`</span>
+- <span data-key="838054c4b42e43888301e3678890fe2a">`api_key`</span>
 
--   
-
-    <span data-key="838054c4b42e43888301e3678890fe2a">`api_key`</span>
-
-### 
+###
 
 <span data-key="ddba3190f1ca4012aa4597b5136abbf3"><span data-offset-key="ddba3190f1ca4012aa4597b5136abbf3:0">Media library behavior</span></span>
 
--   
+- <span data-key="4e6370d736d948748f69fd5e00870a02">`default_transformations`<span data-offset-key="4e6370d736d948748f69fd5e00870a02:1"> </span>_- only the first_ </span><a href="https://www.netlifycms.org/docs/cloudinary/#image-transformations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b82577f42301437d83221cae7bf9c0f0" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="63d19d0ceca54db39e24055ff3200026"><em>image transformation</em></span></span></a><span data-key="0cf64a64b886416fb24c28c839a380a3"> _is used, be sure to use the_ `SDK Parameter` _column transformation names from the_<span data-offset-key="0cf64a64b886416fb24c28c839a380a3:3"> </span></span><a href="https://cloudinary.com/documentation/image_transformation_reference" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="599f6811d60344ef9b64df71f91ffbc6" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="966e7613bd8a43368210299201a2f8ec"><em>transformation reference</em></span></span></a><span data-key="fa77218000b5487a82da734683399bf5"><span data-offset-key="fa77218000b5487a82da734683399bf5:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="4e6370d736d948748f69fd5e00870a02">`default_transformations`<span data-offset-key="4e6370d736d948748f69fd5e00870a02:1"> </span>*- only the first* </span><a href="https://www.netlifycms.org/docs/cloudinary/#image-transformations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b82577f42301437d83221cae7bf9c0f0" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="63d19d0ceca54db39e24055ff3200026"><em>image transformation</em></span></span></a><span data-key="0cf64a64b886416fb24c28c839a380a3"> *is used, be sure to use the* `SDK Parameter` *column transformation names from the*<span data-offset-key="0cf64a64b886416fb24c28c839a380a3:3"> </span></span><a href="https://cloudinary.com/documentation/image_transformation_reference" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="599f6811d60344ef9b64df71f91ffbc6" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="966e7613bd8a43368210299201a2f8ec"><em>transformation reference</em></span></span></a><span data-key="fa77218000b5487a82da734683399bf5"><span data-offset-key="fa77218000b5487a82da734683399bf5:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="9c84001d104840b6b29e7580d3d38338">`max_files`<span data-offset-key="9c84001d104840b6b29e7580d3d38338:1"> \_- has no impact on images inside the \_</span></span><a href="https://www.netlifycms.org/docs/widgets/#markdown" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="df0aa631444447baabc9f844289f8c6c" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="13e9e610756f4dc193cb4212a588f934"><em>markdown widget</em></span></span></a><span data-key="9659bf7267ed48c8b8b9def373d5f5b9"><span data-offset-key="9659bf7267ed48c8b8b9def373d5f5b9:0">. Refer to </span></span><a href="https://cloudinary.com/documentation/media_library_widget#3_set_the_configuration_options" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="67a6ea48069b41febee8c3c8609a3903" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="796eabb5153d4010ad4abf4e01495098"><span data-offset-key="796eabb5153d4010ad4abf4e01495098:0">media library documentation</span></span></span></a><span data-key="fb025e5cbdf14c8d9b00b6cfdf189037"><span data-offset-key="fb025e5cbdf14c8d9b00b6cfdf189037:0"> for details on this property</span></span>
 
--   
-
-    <span data-key="9c84001d104840b6b29e7580d3d38338">`max_files`<span data-offset-key="9c84001d104840b6b29e7580d3d38338:1"> \_- has no impact on images inside the \_</span></span><a href="https://www.netlifycms.org/docs/widgets/#markdown" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="df0aa631444447baabc9f844289f8c6c" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="13e9e610756f4dc193cb4212a588f934"><em>markdown widget</em></span></span></a><span data-key="9659bf7267ed48c8b8b9def373d5f5b9"><span data-offset-key="9659bf7267ed48c8b8b9def373d5f5b9:0">. Refer to </span></span><a href="https://cloudinary.com/documentation/media_library_widget#3_set_the_configuration_options" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="67a6ea48069b41febee8c3c8609a3903" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="796eabb5153d4010ad4abf4e01495098"><span data-offset-key="796eabb5153d4010ad4abf4e01495098:0">media library documentation</span></span></span></a><span data-key="fb025e5cbdf14c8d9b00b6cfdf189037"><span data-offset-key="fb025e5cbdf14c8d9b00b6cfdf189037:0"> for details on this property</span></span>
-
--   
-
-    <span data-key="f9f5e2f6932d4247a416bdb36c34f096">`multiple`<span data-offset-key="f9f5e2f6932d4247a416bdb36c34f096:1"> \_- has no impact on images inside the \_</span></span><a href="https://www.netlifycms.org/docs/widgets/#markdown" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ddf05ad3d06845d1be60b0130ddb2da6" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="eccf5afbc12342fdafda3c416e636b65"><em>markdown widget</em></span></span></a><span data-key="b9cb754e8cb041cfbc2e802fd0c0e1b8"><span data-offset-key="b9cb754e8cb041cfbc2e802fd0c0e1b8:0">. Refer to </span></span><a href="https://cloudinary.com/documentation/media_library_widget#3_set_the_configuration_options" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="89a6e8e5f4064d1687916372fde3de6e" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="e9a10aad83224e23a60c3be505f48217"><span data-offset-key="e9a10aad83224e23a60c3be505f48217:0">media library documentation</span></span></span></a><span data-key="482ec6d09935421fafa1568109a9ac9e"><span data-offset-key="482ec6d09935421fafa1568109a9ac9e:0"> for details on this property</span></span>
+- <span data-key="f9f5e2f6932d4247a416bdb36c34f096">`multiple`<span data-offset-key="f9f5e2f6932d4247a416bdb36c34f096:1"> \_- has no impact on images inside the \_</span></span><a href="https://www.netlifycms.org/docs/widgets/#markdown" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ddf05ad3d06845d1be60b0130ddb2da6" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="eccf5afbc12342fdafda3c416e636b65"><em>markdown widget</em></span></span></a><span data-key="b9cb754e8cb041cfbc2e802fd0c0e1b8"><span data-offset-key="b9cb754e8cb041cfbc2e802fd0c0e1b8:0">. Refer to </span></span><a href="https://cloudinary.com/documentation/media_library_widget#3_set_the_configuration_options" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="89a6e8e5f4064d1687916372fde3de6e" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="e9a10aad83224e23a60c3be505f48217"><span data-offset-key="e9a10aad83224e23a60c3be505f48217:0">media library documentation</span></span></span></a><span data-key="482ec6d09935421fafa1568109a9ac9e"><span data-offset-key="482ec6d09935421fafa1568109a9ac9e:0"> for details on this property</span></span>
 
 <span data-key="22ffc4f52a0b46509e8afc351a0f95bf"><span data-offset-key="22ffc4f52a0b46509e8afc351a0f95bf:0">Image transformations</span></span>
 
 <span data-key="03998fcf6b6a4af7a906d6ceda906b44"><span data-offset-key="03998fcf6b6a4af7a906d6ceda906b44:0">The Cloudinary integration allows images to be transformed in two ways: directly within Netlify CMS via </span></span><a href="https://www.netlifycms.org/docs/cloudinary/#transforming-images-via-media-library" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ad6d28c126494fd9a8d042d2b9489f5d" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="9c61569abfd34396bb6b4bafa818294d"><span data-offset-key="9c61569abfd34396bb6b4bafa818294d:0">Cloudinary's Media Library</span></span></span></a><span data-key="2adf00a9992a4d88b468ed3c689cf97b"><span data-offset-key="2adf00a9992a4d88b468ed3c689cf97b:0">, and separately from the CMS via Cloudinary's </span></span><a href="https://cloudinary.com/documentation/image_transformations#delivering_media_assets_using_dynamic_urls" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7c23f576ff684b32b08c41b8bc36c053" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="bc0e159fbcf743b592f4f418e376e8e0"><span data-offset-key="bc0e159fbcf743b592f4f418e376e8e0:0">dynamic URL's</span></span></span></a><span data-key="d91ddf3ecea34e1a86ea3653d34924f7"><span data-offset-key="d91ddf3ecea34e1a86ea3653d34924f7:0"> by </span></span><a href="https://www.netlifycms.org/docs/cloudinary/#inserting-cloudinary-url-in-page-templates" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="da9ed78c8e604a97a9f12ad28db113b4" data-rnw-int-class="nearest_260-8248_262-8249-240__"><span data-key="0d7200a224b041848677ae83d8d3eeb1"><span data-offset-key="0d7200a224b041848677ae83d8d3eeb1:0">inserting cloudinary urls</span></span></span></a><span data-key="7c11585e88784a129b18fac261d2929d"><span data-offset-key="7c11585e88784a129b18fac261d2929d:0">.</span></span>
 
-### 
+###
 
 <span data-key="0ce3c68d66744c55985fee40388ccc51"><span data-offset-key="0ce3c68d66744c55985fee40388ccc51:0">Transforming images via Media Library</span></span>
 
@@ -444,7 +428,7 @@ Copied!
 
 2
 
-<span data-key="e9d564d6bad448e7baaadb4d58897db6"><span data-offset-key="e9d564d6bad448e7baaadb4d58897db6:0">media\_library:</span></span>
+<span data-key="e9d564d6bad448e7baaadb4d58897db6"><span data-offset-key="e9d564d6bad448e7baaadb4d58897db6:0">media_library:</span></span>
 
 3
 
@@ -452,7 +436,7 @@ Copied!
 
 4
 
-<span data-key="7915c326487d4ab2a3c4e37207c7eb0e"><span data-offset-key="7915c326487d4ab2a3c4e37207c7eb0e:0"> output\_filename\_only: false</span></span>
+<span data-key="7915c326487d4ab2a3c4e37207c7eb0e"><span data-offset-key="7915c326487d4ab2a3c4e37207c7eb0e:0"> output_filename_only: false</span></span>
 
 5
 
@@ -460,11 +444,11 @@ Copied!
 
 6
 
-<span data-key="4f2b5c1887d7446a87089bc59677a11e"><span data-offset-key="4f2b5c1887d7446a87089bc59677a11e:0"> default\_transformations:</span></span>
+<span data-key="4f2b5c1887d7446a87089bc59677a11e"><span data-offset-key="4f2b5c1887d7446a87089bc59677a11e:0"> default_transformations:</span></span>
 
 7
 
-<span data-key="a55291cfe7904e96a1bf8a3bfb8a4c7c"><span data-offset-key="a55291cfe7904e96a1bf8a3bfb8a4c7c:0"> - - fetch\_format: auto</span></span>
+<span data-key="a55291cfe7904e96a1bf8a3bfb8a4c7c"><span data-offset-key="a55291cfe7904e96a1bf8a3bfb8a4c7c:0"> - - fetch_format: auto</span></span>
 
 8
 
@@ -514,7 +498,7 @@ Copied!
 
 8
 
-<span data-key="f9d0c473e2aa49f0aab0c028c85e887e"><span data-offset-key="f9d0c473e2aa49f0aab0c028c85e887e:0"> media\_library:</span></span>
+<span data-key="f9d0c473e2aa49f0aab0c028c85e887e"><span data-offset-key="f9d0c473e2aa49f0aab0c028c85e887e:0"> media_library:</span></span>
 
 9
 
@@ -522,11 +506,11 @@ Copied!
 
 10
 
-<span data-key="9e4b2fffb44b413dbc1f03b5f2fbc193"><span data-offset-key="9e4b2fffb44b413dbc1f03b5f2fbc193:0"> default\_transformations:</span></span>
+<span data-key="9e4b2fffb44b413dbc1f03b5f2fbc193"><span data-offset-key="9e4b2fffb44b413dbc1f03b5f2fbc193:0"> default_transformations:</span></span>
 
 11
 
-<span data-key="2c081ed1764e48f2a226c181f6b5a836"><span data-offset-key="2c081ed1764e48f2a226c181f6b5a836:0"> - fetch\_format: auto</span></span>
+<span data-key="2c081ed1764e48f2a226c181f6b5a836"><span data-offset-key="2c081ed1764e48f2a226c181f6b5a836:0"> - fetch_format: auto</span></span>
 
 12
 
@@ -550,9 +534,7 @@ Copied!
 
 <span data-key="18fb247c9d55499a95ca09123522e389"><span data-offset-key="18fb247c9d55499a95ca09123522e389:0">If you prefer to provide direction so that images are transformed in a specific way, or dynamically retrieve images based on viewport size, you can do so by providing your own base Cloudinary URL and only storing the asset filenames in your content:</span></span>
 
--   
-
-    <span data-key="3d6bc411563d42f9914b86b81c38c143"><span data-offset-key="3d6bc411563d42f9914b86b81c38c143:0">Either globally or for specific fields, configure the Cloudinary extension to only output the asset filename</span></span>
+- <span data-key="3d6bc411563d42f9914b86b81c38c143"><span data-offset-key="3d6bc411563d42f9914b86b81c38c143:0">Either globally or for specific fields, configure the Cloudinary extension to only output the asset filename</span></span>
 
 1
 
@@ -560,7 +542,7 @@ Copied!
 
 2
 
-<span data-key="2e4878537af34410915e631f276e7aa7"><span data-offset-key="2e4878537af34410915e631f276e7aa7:0">media\_library:</span></span>
+<span data-key="2e4878537af34410915e631f276e7aa7"><span data-offset-key="2e4878537af34410915e631f276e7aa7:0">media_library:</span></span>
 
 3
 
@@ -568,7 +550,7 @@ Copied!
 
 4
 
-<span data-key="09467dba9341479d8c6bc286b31ee222"><span data-offset-key="09467dba9341479d8c6bc286b31ee222:0"> output\_filename\_only: true</span></span>
+<span data-key="09467dba9341479d8c6bc286b31ee222"><span data-offset-key="09467dba9341479d8c6bc286b31ee222:0"> output_filename_only: true</span></span>
 
 5
 
@@ -576,7 +558,7 @@ Copied!
 
 6
 
-<span data-key="43f23d32684b4dcdb5db055bf865b832"><span data-offset-key="43f23d32684b4dcdb5db055bf865b832:0">media\_library:</span></span>
+<span data-key="43f23d32684b4dcdb5db055bf865b832"><span data-offset-key="43f23d32684b4dcdb5db055bf865b832:0">media_library:</span></span>
 
 7
 
@@ -584,13 +566,11 @@ Copied!
 
 8
 
-<span data-key="44067188e61944a587995e23cc15406f"><span data-offset-key="44067188e61944a587995e23cc15406f:0"> output\_filename\_only: true</span></span>
+<span data-key="44067188e61944a587995e23cc15406f"><span data-offset-key="44067188e61944a587995e23cc15406f:0"> output_filename_only: true</span></span>
 
 Copied!
 
--   
-
-    <span data-key="52bbcf229e8f4bb58d26ff82989634bb"><span data-offset-key="52bbcf229e8f4bb58d26ff82989634bb:0">Provide a dynamic URL in the site template</span></span>
+- <span data-key="52bbcf229e8f4bb58d26ff82989634bb"><span data-offset-key="52bbcf229e8f4bb58d26ff82989634bb:0">Provide a dynamic URL in the site template</span></span>
 
 1
 
@@ -606,13 +586,13 @@ Copied!
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
-WEB\_DEV\_TOOLS - Previous
+WEB_DEV_TOOLS - Previous
 
 Web Dev Tools
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/postman" class="css-4rbku5 css-1dbjc4n r-1awozwy r-14lw9ot r-190qawg r-z2wwpe r-rs99b7 r-4dj0k7 r-1loqt21 r-1quu1zo r-1ro0kt6 r-18u37iz r-16y2uox r-1wbh5a2 r-nsbfu8 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
-Next - WEB\_DEV\_TOOLS
+Next - WEB_DEV_TOOLS
 
 Postman
 

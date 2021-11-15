@@ -1,18 +1,18 @@
 StackShare
 
--   <a href="https://stackshare.io/private" class="api">Private StackShare</a>
-    NEW
+- <a href="https://stackshare.io/private" class="api">Private StackShare</a>
+  NEW
 
--   [Feed](https://stackshare.io/feed)
--   [Browse Stacks](https://stackshare.io/stacks)
--   [Explore Tools](https://stackshare.io/tools/trending)
--   <a href="https://stackshare.io/api" class="api">API</a>
--   <a href="https://stackshare.io/jobs" class="jobs">Jobs</a>
--   More
-    <a href="https://stackshare.io/feed" class="hide show-7">Feed</a> <a href="https://stackshare.io/private" class="hide show-1">Private StackShare</a>
-    NEW
+- [Feed](https://stackshare.io/feed)
+- [Browse Stacks](https://stackshare.io/stacks)
+- [Explore Tools](https://stackshare.io/tools/trending)
+- <a href="https://stackshare.io/api" class="api">API</a>
+- <a href="https://stackshare.io/jobs" class="jobs">Jobs</a>
+- More
+  <a href="https://stackshare.io/feed" class="hide show-7">Feed</a> <a href="https://stackshare.io/private" class="hide show-1">Private StackShare</a>
+  NEW
 
-    <a href="https://stackshare.io/stacks" class="hide show-6">Browse Stacks</a> <a href="https://stackshare.io/tools/trending" class="hide show-5">Explore Tools</a> <a href="https://stackshare.io/api" class="hide show-4 api">API</a> <a href="https://stackshare.io/jobs" class="hide show-1 jobs">Jobs</a>
+  <a href="https://stackshare.io/stacks" class="hide show-6">Browse Stacks</a> <a href="https://stackshare.io/tools/trending" class="hide show-5">Explore Tools</a> <a href="https://stackshare.io/api" class="hide show-4 api">API</a> <a href="https://stackshare.io/jobs" class="hide show-1 jobs">Jobs</a>
 
 Search StackShare
 
@@ -48,7 +48,7 @@ bryanguner
 
 15 points
 
-------------------------------------------------------------------------
+---
 
 <span class="section-title"> Following </span>
 
@@ -88,36 +88,42 @@ bryanguner
 
 <a href="https://stackshare.io/expressjs" class="service-logo hint hint--top"><img src="https://img.stackshare.io/service/1163/hashtag.png" /></a>
 
-------------------------------------------------------------------------
+---
 
--   <a href="https://stackshare.io/bryanguner/stacks" id="tab-link-user"></a>
-    5
+- <a href="https://stackshare.io/bryanguner/stacks" id="tab-link-user"></a>
+  5
 
-    Stacks
--   <a href="https://stackshare.io/bryanguner/favorites" id="tab-link-user"></a>
-    0
+  Stacks
 
-    Favorites
--   <a href="https://stackshare.io/bryanguner/following" id="tab-link-user"></a>
-    68
+- <a href="https://stackshare.io/bryanguner/favorites" id="tab-link-user"></a>
+  0
 
-    Follows
--   <a href="https://stackshare.io/bryanguner/one-liners" id="tab-link-user"></a>
-    0
+  Favorites
 
-    One-Liners
--   <a href="https://stackshare.io/bryanguner/votes" id="tab-link-user"></a>
-    0
+- <a href="https://stackshare.io/bryanguner/following" id="tab-link-user"></a>
+  68
 
-    Votes
--   <a href="https://stackshare.io/bryanguner/reviews" id="tab-link-user"></a>
-    0
+  Follows
 
-    Reviews
--   <a href="https://stackshare.io/bryanguner/comments" id="tab-link-user"></a>
-    0
+- <a href="https://stackshare.io/bryanguner/one-liners" id="tab-link-user"></a>
+  0
 
-    Comments
+  One-Liners
+
+- <a href="https://stackshare.io/bryanguner/votes" id="tab-link-user"></a>
+  0
+
+  Votes
+
+- <a href="https://stackshare.io/bryanguner/reviews" id="tab-link-user"></a>
+  0
+
+  Reviews
+
+- <a href="https://stackshare.io/bryanguner/comments" id="tab-link-user"></a>
+  0
+
+  Comments
 
 personal stacks
 
@@ -573,7 +579,7 @@ Ruby +
 
 ### Follow Us
 
--   -   -   -   
+---
 
 [Terms](https://stackshare.io/terms)·[Privacy](https://stackshare.io/privacy)
 

@@ -26,8 +26,7 @@ Notebooks
 
 Collections
 
-Bryan C Guner
--------------
+## Bryan C Guner
 
 Electrical Engineer, Software Engineering Student, Musician & Producer, Previously... STEM & Music Instructor
 
@@ -41,7 +40,7 @@ View all
 
 <img src="https://static.observableusercontent.com/thumbnail/ae0f6c18d2cad7968c18c88086e6fd639cbc9f8c81eb338ae9dd7c169a47ff63.jpg" class="absolute top-0 left-0 w-100 h-100" />
 
-<a href="https://observablehq.com/@bgoonz/untitled/2" class="f6 fw6 no-underline near-black hover-blue lh-f7"><span style="word-break: break-word" title="Untitled">Untitled</span></a> 
+<a href="https://observablehq.com/@bgoonz/untitled/2" class="f6 fw6 no-underline near-black hover-blue lh-f7"><span style="word-break: break-word" title="Untitled">Untitled</span></a>
 
 <a href="https://observablehq.com/@bgoonz" class="inline-flex pr1 mr1 items-center"><img src="https://avatars3.githubusercontent.com/u/66654881?v=4&amp;s=128" alt="@bgoonz" class="br-100" /></a>
 
@@ -89,7 +88,7 @@ View all
 
 <img src="https://static.observableusercontent.com/thumbnail/9d53cd0dbccffb9eb54e0690987ea61afda704d18f2b551dfbedbab7f3db5d6d.jpg" class="absolute top-0 left-0 w-100 h-100" />
 
-<a href="https://observablehq.com/@bgoonz/mode-lighting" class="f6 fw6 no-underline near-black hover-blue lh-f7"><span style="word-break: break-word" title="Mode Lighting">Mode Lighting</span></a> 
+<a href="https://observablehq.com/@bgoonz/mode-lighting" class="f6 fw6 no-underline near-black hover-blue lh-f7"><span style="word-break: break-word" title="Mode Lighting">Mode Lighting</span></a>
 
 <a href="https://observablehq.com/@bgoonz" class="inline-flex pr1 mr1 items-center"><img src="https://avatars3.githubusercontent.com/u/66654881?v=4&amp;s=128" alt="@bgoonz" class="br-100" /></a>
 

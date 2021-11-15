@@ -6,29 +6,29 @@ Git is [easy to learn](https://git-scm.com/doc) and has a [tiny footprint with l
 
 <img src="https://git-scm.com/images/branching-illustration@2x.png" class="illustration" width="389" height="251" />
 
--   <span id="nav-about">[<img src="https://git-scm.com/images/icons/nav-about@2x.png" width="74" height="74" />](https://git-scm.com/about)</span>
+- <span id="nav-about">[<img src="https://git-scm.com/images/icons/nav-about@2x.png" width="74" height="74" />](https://git-scm.com/about)</span>
 
-    ### About
+  ### About
 
-    The advantages of Git compared to other source control systems.
+  The advantages of Git compared to other source control systems.
 
--   <span id="nav-documentation">[<img src="https://git-scm.com/images/icons/nav-documentation@2x.png" width="74" height="74" />](https://git-scm.com/doc)</span>
+- <span id="nav-documentation">[<img src="https://git-scm.com/images/icons/nav-documentation@2x.png" width="74" height="74" />](https://git-scm.com/doc)</span>
 
-    ### Documentation
+  ### Documentation
 
-    Command reference pages, Pro Git book content, videos and other material.
+  Command reference pages, Pro Git book content, videos and other material.
 
--   <span id="nav-downloads">[<img src="https://git-scm.com/images/icons/nav-downloads@2x.png" width="74" height="74" />](https://git-scm.com/downloads)</span>
+- <span id="nav-downloads">[<img src="https://git-scm.com/images/icons/nav-downloads@2x.png" width="74" height="74" />](https://git-scm.com/downloads)</span>
 
-    ### Downloads
+  ### Downloads
 
-    GUI clients and binary releases for all major platforms.
+  GUI clients and binary releases for all major platforms.
 
--   <span id="nav-community">[<img src="https://git-scm.com/images/icons/nav-community@2x.png" width="74" height="74" />](https://git-scm.com/community)</span>
+- <span id="nav-community">[<img src="https://git-scm.com/images/icons/nav-community@2x.png" width="74" height="74" />](https://git-scm.com/community)</span>
 
-    ### Community
+  ### Community
 
-    Get involved! Bug reporting, mailing list, chat, development and more.
+  Get involved! Bug reporting, mailing list, chat, development and more.
 
 <img src="https://git-scm.com/images/progit2.png" width="56" height="74" />
 
@@ -42,22 +42,22 @@ Git is [easy to learn](https://git-scm.com/doc) and has a [tiny footprint with l
 
 ### Companies & Projects Using Git
 
--   <a href="https://github.com/google" class="google">Google</a>
--   <a href="https://github.com/facebook" class="facebook">Facebook</a>
--   <a href="https://github.com/Microsoft" class="microsoft">Microsoft</a>
--   <a href="https://github.com/twitter" class="twitter">Twitter</a>
--   <a href="https://github.com/linkedin" class="linked-in">LinkedIn</a>
--   <a href="https://github.com/netflix" class="netflix">Netflix</a>
--   <a href="https://perl5.git.perl.org/perl.git" class="perl">Perl</a>
--   <a href="https://git.postgresql.org/gitweb/" class="postgresql">PostgreSQL</a>
--   <a href="https://android-review.googlesource.com/#/q/status:open,n,z" class="android">Android</a>
--   <a href="https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git" class="linux">Linux</a>
--   <a href="https://github.com/rails/rails" class="rails">Ruby on Rails</a>
--   <a href="https://code.qt.io/cgit/" class="qt">Qt</a>
--   <a href="https://gitlab.gnome.org/GNOME" class="gnome">Gnome</a>
--   <a href="https://git.eclipse.org/c/" class="eclipse">Eclipse</a>
--   <a href="https://invent.kde.org/explore/groups" class="kde">KDE</a>
--   <a href="https://cgit.freedesktop.org/xorg/xserver/" class="x">X</a>
+- <a href="https://github.com/google" class="google">Google</a>
+- <a href="https://github.com/facebook" class="facebook">Facebook</a>
+- <a href="https://github.com/Microsoft" class="microsoft">Microsoft</a>
+- <a href="https://github.com/twitter" class="twitter">Twitter</a>
+- <a href="https://github.com/linkedin" class="linked-in">LinkedIn</a>
+- <a href="https://github.com/netflix" class="netflix">Netflix</a>
+- <a href="https://perl5.git.perl.org/perl.git" class="perl">Perl</a>
+- <a href="https://git.postgresql.org/gitweb/" class="postgresql">PostgreSQL</a>
+- <a href="https://android-review.googlesource.com/#/q/status:open,n,z" class="android">Android</a>
+- <a href="https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git" class="linux">Linux</a>
+- <a href="https://github.com/rails/rails" class="rails">Ruby on Rails</a>
+- <a href="https://code.qt.io/cgit/" class="qt">Qt</a>
+- <a href="https://gitlab.gnome.org/GNOME" class="gnome">Gnome</a>
+- <a href="https://git.eclipse.org/c/" class="eclipse">Eclipse</a>
+- <a href="https://invent.kde.org/explore/groups" class="kde">KDE</a>
+- <a href="https://cgit.freedesktop.org/xorg/xserver/" class="x">X</a>
 
 [About this site](https://git-scm.com/site)  
 Patches, suggestions, and comments are welcome.

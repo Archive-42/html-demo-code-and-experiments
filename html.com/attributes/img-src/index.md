@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [Web Images: Best Practices and HTML Code In One Useful Guide](https://html.com/images/)  /  [HTML Tags Guide To Adding Images To Your Web Documents](https://html.com/tags/img/) / How To Use In HTML
 
-`How To Use  In HTML`
-=====================
+# `How To Use In HTML`
 
 In <span class="post-meta-category">[HTML Attributes](https://html.com/attributes/)</span>
 
@@ -18,24 +15,23 @@ In <span class="post-meta-category">[HTML Attributes](https://html.com/attribute
 Attribute of  
 [HTML Tags Guide To Adding Images To Your Web Documents](https://html.com/tags/img/)
 
-What does `How To Use  In HTML` do?  
+What does `How To Use In HTML` do?  
 Specifies the URL of an image to be displayed.
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> Always a URL](#Always_a_URL)
-    -   [<span class="toc_number toc_depth_2">2.1</span> Absolute URLs](#Absolute_URLs)
-        -   [<span class="toc_number toc_depth_3">2.1.1</span> A Note on Hotlinking](#A_Note_on_Hotlinking)
-    -   [<span class="toc_number toc_depth_2">2.2</span> Relative URLs](#Relative_URLs)
-    -   [<span class="toc_number toc_depth_2">2.3</span> Data URIs](#Data_URIs)
--   [<span class="toc_number toc_depth_1">3</span> Image File Types](#Image_File_Types)
--   [<span class="toc_number toc_depth_1">4</span> src and srcset](#src_and_srcset)
--   [<span class="toc_number toc_depth_1">5</span> src of “](#src_of_8220)
--   [<span class="toc_number toc_depth_1">6</span> Browser Support for src](#Browser_Support_for_src)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> Always a URL](#Always_a_URL)
+  - [<span class="toc_number toc_depth_2">2.1</span> Absolute URLs](#Absolute_URLs)
+    - [<span class="toc_number toc_depth_3">2.1.1</span> A Note on Hotlinking](#A_Note_on_Hotlinking)
+  - [<span class="toc_number toc_depth_2">2.2</span> Relative URLs](#Relative_URLs)
+  - [<span class="toc_number toc_depth_2">2.3</span> Data URIs](#Data_URIs)
+- [<span class="toc_number toc_depth_1">3</span> Image File Types](#Image_File_Types)
+- [<span class="toc_number toc_depth_1">4</span> src and srcset](#src_and_srcset)
+- [<span class="toc_number toc_depth_1">5</span> src of “](#src_of_8220)
+- [<span class="toc_number toc_depth_1">6</span> Browser Support for src](#Browser_Support_for_src)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <img src="/wp-content/uploads/flamingo.jpg">
 
@@ -43,8 +39,7 @@ Contents
 
 <span class="underline"></span>
 
-<span id="Always_a_URL">Always a URL</span>
--------------------------------------------
+## <span id="Always_a_URL">Always a URL</span>
 
 The `src` attribute identifies an image by a URL. The image defined by the URL is retrieved by the browser and inserted into the document when the page loads.
 
@@ -52,7 +47,7 @@ There are three different kinds of URLs that can be used in the `src` attribute:
 
 ### <span id="Absolute_URLs">Absolute URLs</span>
 
-This is the most straightforward, and is the only way to go if you want to link to an *external* image (an image hosted on another site).
+This is the most straightforward, and is the only way to go if you want to link to an _external_ image (an image hosted on another site).
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg">
 
@@ -78,7 +73,7 @@ Hotlinking to an image [hosting](https://html.com/web-hosting/) service is just 
 
 ### <span id="Relative_URLs">Relative URLs</span>
 
-A relative URL does not include the domain name, and is relative to either the current page, or the current domain. If you begin the URL *without* a slash ( `/` ), it will be relative to the current page. If you begin *with* a slash, it will be relative to the domain.
+A relative URL does not include the domain name, and is relative to either the current page, or the current domain. If you begin the URL _without_ a slash ( `/` ), it will be relative to the current page. If you begin _with_ a slash, it will be relative to the domain.
 
 It is almost always the best idea to use source URLs which are relative to the domain, not the page. They will not break if the page content is moved or copied.
 
@@ -102,8 +97,7 @@ You need a special encoding program to turn images or other files into Data URIs
 
 Data URIs are not usually a great solution. Most meaningful images are going to create insanely long strings (just see the example above), and they actually don’t load as fast as external files. They do cut down on HTTP requests to the server, which you may (or may not) care about. They can also be useful in situations where external images might not get loaded, such as in emails or in self-contained documents to be read offline.
 
-<span id="Image_File_Types">Image File Types</span>
----------------------------------------------------
+## <span id="Image_File_Types">Image File Types</span>
 
 Each browser supports a slightly different set of image file types. This used to be a serious problem for designers (Internet Explorer would not display PNG files correctly until v8, and SVG wasn’t supported until v9), but most of those issues have calmed down as all the major browsers have basically caught up with each other. Most normal image formats (JPEG, GIF, PNG, BMP, TIFF, SVG) will work in most situations most of the time.
 
@@ -115,7 +109,7 @@ JPEG (JPG)
 Images are compressed and lose data. Best for photography. Line drawings, text, and logo-style art work will look fuzzy.
 
 PNG  
-Images are compressed but the compression is *lossless*, which means all the information of the original artwork is preserved. This is usually the best option for logos, icons, line-art, and text. PNG supports transparency (which is now supported in current versions of all browsers), so it is a crucial file format for most web design work.
+Images are compressed but the compression is _lossless_, which means all the information of the original artwork is preserved. This is usually the best option for logos, icons, line-art, and text. PNG supports transparency (which is now supported in current versions of all browsers), so it is a crucial file format for most web design work.
 
 GIF  
 Similar to the PNG, but with a less sophisticated compression algorithm and without transparency. The only compelling reason to use a GIF is for animated images.
@@ -125,15 +119,13 @@ Scalable Vector Graphic. This format actually save instructions for generating t
 
 99% of your image needs can be served with PNGs and JPEGs, and your designs will look better if you don’t mix the two up.
 
-<span id="src_and_srcset">`src` and `srcset`</span>
----------------------------------------------------
+## <span id="src_and_srcset">`src` and `srcset`</span>
 
 New in [HTML5](https://html.com/html5/) is an image attribute named [`srcset`](https://html.com/attributes/img-srcset/). This attribute is used to define a list of image source files, along with sizing information, so that the browser can select the most appropriate option.
 
 When the `srcset` attribute is set, the `src` files will be used as a “fallback” or “default” image. If the `srcset` image fails to load, or if the browser doesn’t support `srcset`, the `src` file will be selected instead. So it is very important to **always include** the `src` attribute in your images.
 
-<span id="src_of_8220">`src` of “</span>
-----------------------------------------
+## <span id="src_of_8220">`src` of “</span>
 
 HTML5 also created a new image element called \[`](#). The` element is used in order to specify several different image designs (not just sizes). Each separate image design is defined in an individual [“](https://html.com/tags/source/) child-element.
 
@@ -155,8 +147,7 @@ HTML5 also created a new image element called \[`](#). The` element is used in o
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_src">Browser Support for src</span>
------------------------------------------------------------------
+## <span id="Browser_Support_for_src">Browser Support for src</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -194,8 +185,7 @@ HTML5 also created a new image element called \[`](#). The` element is used in o
 
 <span class="browser-supported">All</span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](https://html.com/resources/citation-guide/)
 
@@ -207,11 +197,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

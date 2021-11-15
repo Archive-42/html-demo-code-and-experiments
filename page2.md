@@ -2,11 +2,9 @@ HEADER
 
 [Home](#)
 
-Heading...
-==========
+# Heading...
 
-Heading...
-----------
+## Heading...
 
 ### Heading...
 
@@ -17,7 +15,7 @@ Heading...
 ###### Heading...
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi lacus, auctor sit amet purus vel, gravida luctus lectus. Aenean rhoncus dapibus enim, sit amet faucibus leo ornare vitae.  
-span **Bold word** *italic* *emphasis* mark <span class="small">small</span> <sub>sub</sub> <sup>sup</sup> <span class="underline">Statements...</span> NASA <s>strikethrough</s> <s>deprecated info</s> <span class="underline">new info</span> <s>not relevant</s> [link](#link) Monday at 8:00 AM ruby baseannotation  
+span **Bold word** _italic_ _emphasis_ mark <span class="small">small</span> <sub>sub</sub> <sup>sup</sup> <span class="underline">Statements...</span> NASA <s>strikethrough</s> <s>deprecated info</s> <span class="underline">new info</span> <s>not relevant</s> [link](#link) Monday at 8:00 AM ruby baseannotation  
 CTRL+ALT+CANC
 
 This is a “short quote”
@@ -31,22 +29,20 @@ This is a “short quote”
 5.  List item
 6.  List item
 
--   List item
--   List item
--   List item
--   List item
--   List item
--   List item
+- List item
+- List item
+- List item
+- List item
+- List item
+- List item
 
-------------------------------------------------------------------------
+---
 
-Hidden content (after page loaded).
------------------------------------
+## Hidden content (after page loaded).
 
 Sorry, your browser doesn't support HTML5 `video`, but you can download this video from the [Internet Archive](https://archive.org/details/Popeye_forPresident).
 
 Please install the Shockwave plugin to watch this movie.
-
 
                                            _,'/
                                       _.-''._:
@@ -68,12 +64,12 @@ Please install the Shockwave plugin to watch this movie.
        `. .   . `;;;,/_.'' . . ,'
         ,`. .   :;;' `:.  .  ,'
        /   `-._,'  ..  ` _.-'
-      (     _,'``------'' 
+      (     _,'``------''
        `--''
 
-        
 
-`         // code tag         #include               using namespace std;              int main()             {             cout << "Hello World!" << endl; return 0; } `
+
+` // code tag #include using namespace std; int main() { cout << "Hello World!" << endl; return 0; }`
 
 variable = 1000; Traceback (most recent call last):  
 NameError: name 'variabl' is not defined
@@ -92,8 +88,7 @@ Content 3
 
 Content 4
 
-Content
-=======
+# Content
 
 Informations about content.
 
@@ -107,20 +102,13 @@ One Two Three Four Five Six
 
 div &gt; div &gt; p
 
-  
-
-  
-
 Write something in here
-
-  
 
 I'm sorry. You're browser doesn't support HTML5 `audio`.
 
 This is a recording of a talk called Reclaim HTML5 which was orinally delieved in Vancouver at a [Super VanJS Meetup](http://www.meetup.com/vancouver-javascript-developers/). It is hosted by [The Internet Archive](https://archive.org/details/ReclaimHtml5) and licensed under [CC 3.0](http://creativecommons.org/licenses/by/3.0/legalcode).
 
-Title of Article
-----------------
+## Title of Article
 
 by Arthur T. Writer
 
@@ -134,9 +122,9 @@ Published
 Tags  
 Sample Posts, html example
 
-Personal Information Name  
-  
-Date of Birth  
+Personal Information Name
+
+Date of Birth
 
 P inside ASIDE tag
 

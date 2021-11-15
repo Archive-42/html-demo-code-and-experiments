@@ -1,7 +1,5 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
@@ -10,8 +8,7 @@ Learn HTML Code, Tags & CSS
 
 This feature has changed significantly in the HTML5 specification. Be sure to read usage details below.
 
-`: It’s Code For Declaring A DOCTYPE In HTML5`
-==============================================
+# `: It’s Code For Declaring A DOCTYPE In HTML5`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -36,20 +33,19 @@ structural
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Declaring a DOCTYPE](#Declaring_a_DOCTYPE)
-    -   [<span class="toc_number toc_depth_2">1.1</span> HTML5 Documents](#HTML5_Documents)
--   [<span class="toc_number toc_depth_1">2</span> Other DOCTYPES you might encounter](#Other_DOCTYPES_you_might_encounter)
-    -   [<span class="toc_number toc_depth_2">2.1</span> HTML 4.01 Strict](#HTML_401_Strict)
-    -   [<span class="toc_number toc_depth_2">2.2</span> HTML 4.01 Transitional](#HTML_401_Transitional)
-    -   [<span class="toc_number toc_depth_2">2.3</span> HTML 4.01 Frameset](#HTML_401_Frameset)
-    -   [<span class="toc_number toc_depth_2">2.4</span> XHTML 1.0 Strict](#XHTML_10_Strict)
-    -   [<span class="toc_number toc_depth_2">2.5</span> XHTML 1.0 Transitional](#XHTML_10_Transitional)
-    -   [<span class="toc_number toc_depth_2">2.6</span> XHTML 1.0 Frameset](#XHTML_10_Frameset)
-    -   [<span class="toc_number toc_depth_2">2.7</span> XHTML 1.1](#XHTML_11)
--   [<span class="toc_number toc_depth_1">3</span> Browser Support for DOCTYPE](#Browser_Support_for_DOCTYPE)
+- [<span class="toc_number toc_depth_1">1</span> Declaring a DOCTYPE](#Declaring_a_DOCTYPE)
+  - [<span class="toc_number toc_depth_2">1.1</span> HTML5 Documents](#HTML5_Documents)
+- [<span class="toc_number toc_depth_1">2</span> Other DOCTYPES you might encounter](#Other_DOCTYPES_you_might_encounter)
+  - [<span class="toc_number toc_depth_2">2.1</span> HTML 4.01 Strict](#HTML_401_Strict)
+  - [<span class="toc_number toc_depth_2">2.2</span> HTML 4.01 Transitional](#HTML_401_Transitional)
+  - [<span class="toc_number toc_depth_2">2.3</span> HTML 4.01 Frameset](#HTML_401_Frameset)
+  - [<span class="toc_number toc_depth_2">2.4</span> XHTML 1.0 Strict](#XHTML_10_Strict)
+  - [<span class="toc_number toc_depth_2">2.5</span> XHTML 1.0 Transitional](#XHTML_10_Transitional)
+  - [<span class="toc_number toc_depth_2">2.6</span> XHTML 1.0 Frameset](#XHTML_10_Frameset)
+  - [<span class="toc_number toc_depth_2">2.7</span> XHTML 1.1](#XHTML_11)
+- [<span class="toc_number toc_depth_1">3</span> Browser Support for DOCTYPE](#Browser_Support_for_DOCTYPE)
 
-<span id="Declaring_a_DOCTYPE">Declaring a DOCTYPE</span>
----------------------------------------------------------
+## <span id="Declaring_a_DOCTYPE">Declaring a DOCTYPE</span>
 
 All HTML need to have a DOCTYPE declared. The DOCTYPE is not actually an element or HTML tag. It lets the browser know how the document should be interpreted, by indicating what version or standard of HTML (or other markup language) is being used.
 
@@ -75,8 +71,7 @@ This needs to be the first thing in your document, before the `<html>` or `<head
     </body>
     </html>
 
-<span id="Other_DOCTYPES_you_might_encounter">Other DOCTYPES you might encounter</span>
----------------------------------------------------------------------------------------
+## <span id="Other_DOCTYPES_you_might_encounter">Other DOCTYPES you might encounter</span>
 
 There is virtually no reason to compose new HTML documents in an older standard. However, you may see any of the following document types on legacy systems:
 
@@ -122,8 +117,7 @@ There is virtually no reason to compose new HTML documents in an older standard.
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_DOCTYPE">Browser Support for DOCTYPE </span>
---------------------------------------------------------------------------
+## <span id="Browser_Support_for_DOCTYPE">Browser Support for DOCTYPE </span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -161,8 +155,7 @@ There is virtually no reason to compose new HTML documents in an older standard.
 
 <span class="browser-supported">All</span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](https://html.com/resources/citation-guide/)
 
@@ -174,11 +167,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/button/" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/button/#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

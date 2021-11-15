@@ -242,7 +242,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -260,7 +260,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -300,7 +300,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -366,7 +366,7 @@ Copied!
 
 <span data-key="cdad40e93a0e4b77b3a5779bce7e585f"><span data-offset-key="cdad40e93a0e4b77b3a5779bce7e585f:0">Common tasks</span></span>
 
-### 
+###
 
 <span data-key="da82e2649df04f9997e44bb47f9dfd86"><span data-offset-key="da82e2649df04f9997e44bb47f9dfd86:0">Install a package</span></span>
 
@@ -392,7 +392,7 @@ Copied!
 
 <span data-key="1ac5a56858ac42b8828c73c099f78f75"><span data-offset-key="1ac5a56858ac42b8828c73c099f78f75:0">By default, pip will fetch packages from </span></span><a href="https://pypi.org/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="219172f0ee7e4c819c25ac602b133a26" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="d64f996fa65843b4a2edcb266cb19876"><span data-offset-key="d64f996fa65843b4a2edcb266cb19876:0">Python Package Index</span></span></span></a><span data-key="d7ee49ac06bd40f28a6e2a4e111ef856"><span data-offset-key="d7ee49ac06bd40f28a6e2a4e111ef856:0">, a repository of software for the Python programming language where anyone can upload packages.</span></span>
 
-### 
+###
 
 <span data-key="072e4a9ae85e43a2a28606ab68fb4d98"><span data-offset-key="072e4a9ae85e43a2a28606ab68fb4d98:0">Install a package from GitHub</span></span>
 
@@ -418,19 +418,15 @@ Copied!
 
 <span data-key="23d00c577aea48e582d5ab30903fd516"><span data-offset-key="23d00c577aea48e582d5ab30903fd516:0">See </span></span><a href="https://pip.pypa.io/en/stable/topics/vcs-support/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="dd77405a79bf401cb982f87abe69e8b6" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="96066ef3669041c582ce0ab0bb8a13ec"><span data-offset-key="96066ef3669041c582ce0ab0bb8a13ec:0">VCS Support</span></span></span></a><span data-key="9b4b89f57827401b909d8030d2050f37"><span data-offset-key="9b4b89f57827401b909d8030d2050f37:0"> for more information about this syntax.</span></span>
 
-### 
+###
 
 <span data-key="b5c629db6c754b74810bcd124aefe543"><span data-offset-key="b5c629db6c754b74810bcd124aefe543:0">Install a package from a distribution file</span></span>
 
 <span data-key="e81462252d6f4f1f9142dd71c69eed54"><span data-offset-key="e81462252d6f4f1f9142dd71c69eed54:0">pip can install directly from distribution files as well. They come in 2 forms:</span></span>
 
--   
+- <span data-key="e0b414f898c24bd09a5b03f88aaf6d59"><span data-offset-key="e0b414f898c24bd09a5b03f88aaf6d59:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://packaging.python.org/glossary/#term-Source-Distribution-or-sdist" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d8a16a04b1794492a12f9e1e286366a1" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="687b17671b2d4d9e88e51dbe48edbedc"><span data-offset-key="687b17671b2d4d9e88e51dbe48edbedc:0">source distribution</span></span></span></a><span data-key="1421c07403f745a2b25951b41fc84a91"><span data-offset-key="1421c07403f745a2b25951b41fc84a91:0"> (usually shortened to “sdist”)</span></span>
 
-    <span data-key="e0b414f898c24bd09a5b03f88aaf6d59"><span data-offset-key="e0b414f898c24bd09a5b03f88aaf6d59:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://packaging.python.org/glossary/#term-Source-Distribution-or-sdist" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d8a16a04b1794492a12f9e1e286366a1" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="687b17671b2d4d9e88e51dbe48edbedc"><span data-offset-key="687b17671b2d4d9e88e51dbe48edbedc:0">source distribution</span></span></span></a><span data-key="1421c07403f745a2b25951b41fc84a91"><span data-offset-key="1421c07403f745a2b25951b41fc84a91:0"> (usually shortened to “sdist”)</span></span>
-
--   
-
-    <span data-key="6827d7837b9f4fa0be5f00ee674ccd66"><span data-offset-key="6827d7837b9f4fa0be5f00ee674ccd66:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://packaging.python.org/glossary/#term-Wheel" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b58f88d23a2e4e66896cc733e7d867c6" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="01e2a6ab746d4fd9acf10010d94fb85d"><span data-offset-key="01e2a6ab746d4fd9acf10010d94fb85d:0">wheel distribution</span></span></span></a><span data-key="71158ff943c545099191e4dfd9a6b418"><span data-offset-key="71158ff943c545099191e4dfd9a6b418:0"> (usually shortened to “wheel”)</span></span>
+- <span data-key="6827d7837b9f4fa0be5f00ee674ccd66"><span data-offset-key="6827d7837b9f4fa0be5f00ee674ccd66:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://packaging.python.org/glossary/#term-Wheel" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b58f88d23a2e4e66896cc733e7d867c6" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="01e2a6ab746d4fd9acf10010d94fb85d"><span data-offset-key="01e2a6ab746d4fd9acf10010d94fb85d:0">wheel distribution</span></span></span></a><span data-key="71158ff943c545099191e4dfd9a6b418"><span data-offset-key="71158ff943c545099191e4dfd9a6b418:0"> (usually shortened to “wheel”)</span></span>
 
 <span data-key="8b0d8a1e1cea453d97fee8481502c209"><span data-offset-key="8b0d8a1e1cea453d97fee8481502c209:0">Linux</span></span>
 
@@ -464,7 +460,7 @@ Copied!
 
 <span data-key="17d70517ea1c4e3d9e6107af4109e203"><span data-offset-key="17d70517ea1c4e3d9e6107af4109e203:0">MacOSWindows</span></span>
 
-### 
+###
 
 <span data-key="b248660570f4427493f9bf0b09e74263"><span data-offset-key="b248660570f4427493f9bf0b09e74263:0">Install multiple packages using a requirements file</span></span>
 
@@ -490,7 +486,7 @@ Copied!
 
 <span data-key="376efb8f5f4e44d999c5732751b81bdd"><span data-offset-key="376efb8f5f4e44d999c5732751b81bdd:0">MacOSWindows</span></span>
 
-### 
+###
 
 <span data-key="c9676340be4643bc96343100f5beb39b"><span data-offset-key="c9676340be4643bc96343100f5beb39b:0">Upgrade a package</span></span>
 
@@ -522,7 +518,7 @@ Copied!
 
 <span data-key="801d55da03624a8ea45a9891506d9638"><span data-offset-key="801d55da03624a8ea45a9891506d9638:0">MacOSWindows</span></span>
 
-### 
+###
 
 <span data-key="d52e8bf634be4f6687d5445e5f5477a8"><span data-offset-key="d52e8bf634be4f6687d5445e5f5477a8:0">Uninstall a package</span></span>
 
@@ -560,45 +556,25 @@ Copied!
 
 <span data-key="a3e2f54084c34a6fa6da15a92ce83942"><span data-offset-key="a3e2f54084c34a6fa6da15a92ce83942:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/installation/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="51cda023b6d94623b0cfc622232b3077" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="c2e5a293b0e54ae88488587eab6289e5"><span data-offset-key="c2e5a293b0e54ae88488587eab6289e5:0">NextInstallation</span></span></span></a><span data-key="93f61c1f9d824372b444a24afbb02c03"><span data-offset-key="93f61c1f9d824372b444a24afbb02c03:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="bf178c6d397b4c5da1225767a26b72b6" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="2e09248d15564a4fb367798951bb8e68"><span data-offset-key="2e09248d15564a4fb367798951bb8e68:0">PreviousHome</span></span></span></a><span data-key="f4899a54a57f48e2b40819c323bb7b23"><span data-offset-key="f4899a54a57f48e2b40819c323bb7b23:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/copyright/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1620a075181d4951a8f891c9ae4a7f3e" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="5b7998e48c554d92a131bb5e08692881"><span data-offset-key="5b7998e48c554d92a131bb5e08692881:0">Copyright</span></span></span></a><span data-key="a520bd7f0c0d46acbbb331a21aee2fd5"><span data-offset-key="a520bd7f0c0d46acbbb331a21aee2fd5:0"> © The pip developers. | Built with </span></span><a href="https://www.sphinx-doc.org/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e70e5c5aef8d49098bef80b1eee78a97" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="d266d622eea6489d8da315d9560c0785"><span data-offset-key="d266d622eea6489d8da315d9560c0785:0">Sphinx</span></span></span></a><span data-key="73560916fe4a439e84ee3543726a1f24"><span data-offset-key="73560916fe4a439e84ee3543726a1f24:0"> and </span></span><a href="https://pradyunsg.me/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="054ea61e0ce14e39966bfe803685e230" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="dbbc67ebb8fa4d31bf59301fac6f757d"><span data-offset-key="dbbc67ebb8fa4d31bf59301fac6f757d:0">@pradyunsg</span></span></span></a><span data-key="7fa9801b6ff74ee2ac15702ae9302b08"><span data-offset-key="7fa9801b6ff74ee2ac15702ae9302b08:0">'s </span></span><a href="https://github.com/pradyunsg/furo" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5750ed048eaf4d6ab9249d671827616c" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="cad1aa65c32d4d72ab5264d7bd4d8b08"><span data-offset-key="cad1aa65c32d4d72ab5264d7bd4d8b08:0">Furo theme</span></span></span></a><span data-key="c4a5855c3f0a417ebbc923d8d5a5df6b"><span data-offset-key="c4a5855c3f0a417ebbc923d8d5a5df6b:0">. | </span></span><a href="https://pip.pypa.io/en/stable/_sources/getting-started.md.txt" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="073acaa800a04d7790b79554caec501b" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="d483017a9ea74a918717a9a983be3bd2"><span data-offset-key="d483017a9ea74a918717a9a983be3bd2:0">Show Source</span></span></span></a><span data-key="c8d014852101480cb95f892636f23bda"><span data-offset-key="c8d014852101480cb95f892636f23bda:0">CONTENTS</span></span>
 
--   
+- <span data-key="7adc1f77e1564492b2000a6bb5f3984f"><span data-offset-key="7adc1f77e1564492b2000a6bb5f3984f:0"><span data-slate-zero-width="n">​</span></span></span>
 
-    <span data-key="7adc1f77e1564492b2000a6bb5f3984f"><span data-offset-key="7adc1f77e1564492b2000a6bb5f3984f:0"><span data-slate-zero-width="n">​</span></span></span>
+  - <span data-key="b95b8531008b41428fdef011091a92d4"><span data-offset-key="b95b8531008b41428fdef011091a92d4:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#ensure-you-have-a-working-pip" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="496ada89e8ba44c195268de2bd2917ec" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="8b320f29861548c9ae7da4a3958c7967"><span data-offset-key="8b320f29861548c9ae7da4a3958c7967:0">Ensure you have a working pip</span></span></span></a><span data-key="9413be2397184184ba765116c0241790"><span data-offset-key="9413be2397184184ba765116c0241790:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    -   
+  - <span data-key="6b547f3c46154eb0ad70567e7ce10df4"><span data-offset-key="6b547f3c46154eb0ad70567e7ce10df4:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#common-tasks" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c9f67f82edcd4569937e407b44106354" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="2480256fb1014a2081bfa3ec76be9141"><span data-offset-key="2480256fb1014a2081bfa3ec76be9141:0">Common tasks</span></span></span></a><span data-key="b980a9483fd8409d8216ebe618a81961"><span data-offset-key="b980a9483fd8409d8216ebe618a81961:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        <span data-key="b95b8531008b41428fdef011091a92d4"><span data-offset-key="b95b8531008b41428fdef011091a92d4:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#ensure-you-have-a-working-pip" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="496ada89e8ba44c195268de2bd2917ec" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="8b320f29861548c9ae7da4a3958c7967"><span data-offset-key="8b320f29861548c9ae7da4a3958c7967:0">Ensure you have a working pip</span></span></span></a><span data-key="9413be2397184184ba765116c0241790"><span data-offset-key="9413be2397184184ba765116c0241790:0"><span data-slate-zero-width="z">​</span></span></span>
+    - <span data-key="e87aa1f408cf4d9691022c8e0ea13447"><span data-offset-key="e87aa1f408cf4d9691022c8e0ea13447:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#install-a-package" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0b501bebd1bf43cc9824d6e3c72e8c98" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="113748ccb3284a44b306ba9e3dde55cf"><span data-offset-key="113748ccb3284a44b306ba9e3dde55cf:0">Install a package</span></span></span></a><span data-key="754fc4a664724de7bdac9df1f1960a3f"><span data-offset-key="754fc4a664724de7bdac9df1f1960a3f:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    -   
+    - <span data-key="a2cceb2eec554dc08c82bd425ceedf9c"><span data-offset-key="a2cceb2eec554dc08c82bd425ceedf9c:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#install-a-package-from-github" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c79b7b55a69040e986d231db4917a655" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="a0fe88f161e849efae7e3f06603c3722"><span data-offset-key="a0fe88f161e849efae7e3f06603c3722:0">Install a package from GitHub</span></span></span></a><span data-key="9b46b24cdc39482daf1a10f62199f1cc"><span data-offset-key="9b46b24cdc39482daf1a10f62199f1cc:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        <span data-key="6b547f3c46154eb0ad70567e7ce10df4"><span data-offset-key="6b547f3c46154eb0ad70567e7ce10df4:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#common-tasks" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c9f67f82edcd4569937e407b44106354" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="2480256fb1014a2081bfa3ec76be9141"><span data-offset-key="2480256fb1014a2081bfa3ec76be9141:0">Common tasks</span></span></span></a><span data-key="b980a9483fd8409d8216ebe618a81961"><span data-offset-key="b980a9483fd8409d8216ebe618a81961:0"><span data-slate-zero-width="z">​</span></span></span>
+    - <span data-key="7d51d0b79f7d46caa28310a7fd14439b"><span data-offset-key="7d51d0b79f7d46caa28310a7fd14439b:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#install-a-package-from-a-distribution-file" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="484f1036e5fd4f648b101c2f1de7c8f9" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="d72afbfaa2ed4d10a2265b131cd540e3"><span data-offset-key="d72afbfaa2ed4d10a2265b131cd540e3:0">Install a package from a distribution file</span></span></span></a><span data-key="31e5e2b72b3d48529cb388a186648485"><span data-offset-key="31e5e2b72b3d48529cb388a186648485:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
+    - <span data-key="ef66345bfded411d85e2e10580f9662d"><span data-offset-key="ef66345bfded411d85e2e10580f9662d:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#install-multiple-packages-using-a-requirements-file" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cfbbfa5c94fd4268ab7f4879cdd77730" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="dafdae2f3e334b2188527bbdc264a8a5"><span data-offset-key="dafdae2f3e334b2188527bbdc264a8a5:0">Install multiple packages using a requirements file</span></span></span></a><span data-key="62c5b51bcfc04d30b191c22c9f4e6d00"><span data-offset-key="62c5b51bcfc04d30b191c22c9f4e6d00:0"><span data-slate-zero-width="z">​</span></span></span>
 
-            <span data-key="e87aa1f408cf4d9691022c8e0ea13447"><span data-offset-key="e87aa1f408cf4d9691022c8e0ea13447:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#install-a-package" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0b501bebd1bf43cc9824d6e3c72e8c98" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="113748ccb3284a44b306ba9e3dde55cf"><span data-offset-key="113748ccb3284a44b306ba9e3dde55cf:0">Install a package</span></span></span></a><span data-key="754fc4a664724de7bdac9df1f1960a3f"><span data-offset-key="754fc4a664724de7bdac9df1f1960a3f:0"><span data-slate-zero-width="z">​</span></span></span>
+    - <span data-key="b736194141934dac8fcb07c3a86a2903"><span data-offset-key="b736194141934dac8fcb07c3a86a2903:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#upgrade-a-package" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="558183ab54ec436fb3441cf418c6b2b9" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="13c1a7d017e34bb280c37564df16db38"><span data-offset-key="13c1a7d017e34bb280c37564df16db38:0">Upgrade a package</span></span></span></a><span data-key="8a9dca58e78640f39ee8ebcbac95c412"><span data-offset-key="8a9dca58e78640f39ee8ebcbac95c412:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
+    - <span data-key="350dcb3230654b9596690c5025588763"><span data-offset-key="350dcb3230654b9596690c5025588763:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#uninstall-a-package" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fafd88e8dd0d49189a27a701eaf051c4" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="5bec44d29345494c86d58a7f420e9f03"><span data-offset-key="5bec44d29345494c86d58a7f420e9f03:0">Uninstall a package</span></span></span></a><span data-key="342eafaa94c8499fa5b4eddbf58bae89"><span data-offset-key="342eafaa94c8499fa5b4eddbf58bae89:0"><span data-slate-zero-width="z">​</span></span></span>
 
-            <span data-key="a2cceb2eec554dc08c82bd425ceedf9c"><span data-offset-key="a2cceb2eec554dc08c82bd425ceedf9c:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#install-a-package-from-github" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c79b7b55a69040e986d231db4917a655" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="a0fe88f161e849efae7e3f06603c3722"><span data-offset-key="a0fe88f161e849efae7e3f06603c3722:0">Install a package from GitHub</span></span></span></a><span data-key="9b46b24cdc39482daf1a10f62199f1cc"><span data-offset-key="9b46b24cdc39482daf1a10f62199f1cc:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="7d51d0b79f7d46caa28310a7fd14439b"><span data-offset-key="7d51d0b79f7d46caa28310a7fd14439b:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#install-a-package-from-a-distribution-file" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="484f1036e5fd4f648b101c2f1de7c8f9" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="d72afbfaa2ed4d10a2265b131cd540e3"><span data-offset-key="d72afbfaa2ed4d10a2265b131cd540e3:0">Install a package from a distribution file</span></span></span></a><span data-key="31e5e2b72b3d48529cb388a186648485"><span data-offset-key="31e5e2b72b3d48529cb388a186648485:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="ef66345bfded411d85e2e10580f9662d"><span data-offset-key="ef66345bfded411d85e2e10580f9662d:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#install-multiple-packages-using-a-requirements-file" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cfbbfa5c94fd4268ab7f4879cdd77730" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="dafdae2f3e334b2188527bbdc264a8a5"><span data-offset-key="dafdae2f3e334b2188527bbdc264a8a5:0">Install multiple packages using a requirements file</span></span></span></a><span data-key="62c5b51bcfc04d30b191c22c9f4e6d00"><span data-offset-key="62c5b51bcfc04d30b191c22c9f4e6d00:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="b736194141934dac8fcb07c3a86a2903"><span data-offset-key="b736194141934dac8fcb07c3a86a2903:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#upgrade-a-package" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="558183ab54ec436fb3441cf418c6b2b9" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="13c1a7d017e34bb280c37564df16db38"><span data-offset-key="13c1a7d017e34bb280c37564df16db38:0">Upgrade a package</span></span></span></a><span data-key="8a9dca58e78640f39ee8ebcbac95c412"><span data-offset-key="8a9dca58e78640f39ee8ebcbac95c412:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="350dcb3230654b9596690c5025588763"><span data-offset-key="350dcb3230654b9596690c5025588763:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#uninstall-a-package" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fafd88e8dd0d49189a27a701eaf051c4" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="5bec44d29345494c86d58a7f420e9f03"><span data-offset-key="5bec44d29345494c86d58a7f420e9f03:0">Uninstall a package</span></span></span></a><span data-key="342eafaa94c8499fa5b4eddbf58bae89"><span data-offset-key="342eafaa94c8499fa5b4eddbf58bae89:0"><span data-slate-zero-width="z">​</span></span></span>
-
-    -   
-
-        <span data-key="3cfa418a4cf748aa9cb94e656c37a6af"><span data-offset-key="3cfa418a4cf748aa9cb94e656c37a6af:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#next-steps" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7258778e06674c069db1d8022c40f7e4" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="9abca649903044c39e76870e0381e2d3"><span data-offset-key="9abca649903044c39e76870e0381e2d3:0">Next Steps</span></span></span></a><span data-key="965a8eea0eeb4664907b3673080d7056"><span data-offset-key="965a8eea0eeb4664907b3673080d7056:0"><span data-slate-zero-width="z">​</span></span></span>
+  - <span data-key="3cfa418a4cf748aa9cb94e656c37a6af"><span data-offset-key="3cfa418a4cf748aa9cb94e656c37a6af:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://pip.pypa.io/en/stable/getting-started/#next-steps" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7258778e06674c069db1d8022c40f7e4" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="9abca649903044c39e76870e0381e2d3"><span data-offset-key="9abca649903044c39e76870e0381e2d3:0">Next Steps</span></span></span></a><span data-key="965a8eea0eeb4664907b3673080d7056"><span data-offset-key="965a8eea0eeb4664907b3673080d7056:0"><span data-slate-zero-width="z">​</span></span></span>
 
 <span data-key="8dcf94f47c1f4c468c5ca999ee0dcb78"><span data-offset-key="8dcf94f47c1f4c468c5ca999ee0dcb78:0">Install Python</span></span>
 
@@ -621,7 +597,7 @@ Copied!
 
 <span data-key="1cecbad296e44b2e99f8d335478e732b"><span data-offset-key="1cecbad296e44b2e99f8d335478e732b:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="a71ce120d05944ca93a939c3f082ee53"><span data-offset-key="a71ce120d05944ca93a939c3f082ee53:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://realpython.com/account/join/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4fdc2f091a364b03a5a9ca842c897644" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="9476049fb7ea4fe5a2264dd619071f70"><span data-offset-key="9476049fb7ea4fe5a2264dd619071f70:0"> Remove ads</span></span></span></a><span data-key="700b95b99c4f4b3299dc33305b9e7ffb"><span data-offset-key="700b95b99c4f4b3299dc33305b9e7ffb:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="cd766ea7c9d645008d6489e5b3e8bafd"><span data-offset-key="cd766ea7c9d645008d6489e5b3e8bafd:0">How to Check Your Python Version on Windows</span></span>
 
@@ -638,7 +614,7 @@ Copied!
 3.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">3.</span>
     <span data-key="315b4fb794ff4af794d98cf0c96a25da"><span data-offset-key="315b4fb794ff4af794d98cf0c96a25da:0">Press Enter.</span></span>
 
-<span data-key="a715f95ee83447078dab6e107eac3ec8"><span data-offset-key="a715f95ee83447078dab6e107eac3ec8:0">Alternatively, you can right-click the </span>*Start*<span data-offset-key="a715f95ee83447078dab6e107eac3ec8:2"> button and select </span>*Windows PowerShell*<span data-offset-key="a715f95ee83447078dab6e107eac3ec8:4"> or </span>*Windows PowerShell (Admin)*<span data-offset-key="a715f95ee83447078dab6e107eac3ec8:6">.</span></span>
+<span data-key="a715f95ee83447078dab6e107eac3ec8"><span data-offset-key="a715f95ee83447078dab6e107eac3ec8:0">Alternatively, you can right-click the </span>_Start_<span data-offset-key="a715f95ee83447078dab6e107eac3ec8:2"> button and select </span>_Windows PowerShell_<span data-offset-key="a715f95ee83447078dab6e107eac3ec8:4"> or </span>_Windows PowerShell (Admin)_<span data-offset-key="a715f95ee83447078dab6e107eac3ec8:6">.</span></span>
 
 <span data-key="dfeea16b52844bc4abc03bb99fa37b8d"><span data-offset-key="dfeea16b52844bc4abc03bb99fa37b8d:0">You can also use </span>`cmd.exe`<span data-offset-key="dfeea16b52844bc4abc03bb99fa37b8d:2"> or </span></span><a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="169a3f1cc48c42fa95f6d0cf209cef6c" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="5b053d844f834d3d8a176683d8a88d0a"><span data-offset-key="5b053d844f834d3d8a176683d8a88d0a:0">Windows Terminal</span></span></span></a><span data-key="e001dfb582024dce981028690af17e38"><span data-offset-key="e001dfb582024dce981028690af17e38:0">.</span></span>
 
@@ -684,7 +660,7 @@ Copied!
 
 <span data-key="63112064599047e387588f1df40be09f"><span data-offset-key="63112064599047e387588f1df40be09f:0">Note that the </span>`where.exe`<span data-offset-key="63112064599047e387588f1df40be09f:2"> command will work only if Python has been installed for your user account.</span></span>
 
-### 
+###
 
 <span data-key="90c2e2b6d93c43639d63e6dc762c0343"><span data-offset-key="90c2e2b6d93c43639d63e6dc762c0343:0">What Your Options Are</span></span>
 
@@ -729,7 +705,7 @@ Copied!
 
 <span data-key="e51ad598a7cb411c98a02ddbd2b9694e"><span data-offset-key="e51ad598a7cb411c98a02ddbd2b9694e:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="cfdb0da3034f484cbed2ae23d3d58113"><span data-offset-key="cfdb0da3034f484cbed2ae23d3d58113:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://realpython.com/account/join/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6483b118e95248c18fc56ea3a6870f24" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="6b58c00c195c40138cc810ad9f367900"><span data-offset-key="6b58c00c195c40138cc810ad9f367900:0"> Remove ads</span></span></span></a><span data-key="b1dc57aeccff4f299a8a28fd9fd528e4"><span data-offset-key="b1dc57aeccff4f299a8a28fd9fd528e4:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="35fb3ed8b8ac4b08ab51344130362b99"><span data-offset-key="35fb3ed8b8ac4b08ab51344130362b99:0">How to Install From the Microsoft Store</span></span>
 
@@ -745,7 +721,7 @@ Copied!
 
 <span data-key="7108f07d7cf042888967a7d869e999c3"><span data-offset-key="7108f07d7cf042888967a7d869e999c3:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="0e32505f4f474fbc89c76f2fc6e9c584"><span data-offset-key="0e32505f4f474fbc89c76f2fc6e9c584:0"><span data-slate-zero-width="z">​</span></span></span>
 
-<span data-key="ee3a11ef82ff41c190184487f22f1e55"><span data-offset-key="ee3a11ef82ff41c190184487f22f1e55:0">Select </span>*Python 3.8*<span data-offset-key="ee3a11ef82ff41c190184487f22f1e55:2">, or the highest version number you see available in the app, to open the installation page.</span></span>
+<span data-key="ee3a11ef82ff41c190184487f22f1e55"><span data-offset-key="ee3a11ef82ff41c190184487f22f1e55:0">Select </span>_Python 3.8_<span data-offset-key="ee3a11ef82ff41c190184487f22f1e55:2">, or the highest version number you see available in the app, to open the installation page.</span></span>
 
 <span data-key="33669c2a90164decb04274d799c5b099">**Warning:**<span data-offset-key="33669c2a90164decb04274d799c5b099:1"> Make sure that the Python application you’ve selected is created by the </span>**Python Software Foundation**<span data-offset-key="33669c2a90164decb04274d799c5b099:3">.</span></span>
 
@@ -766,23 +742,23 @@ Copied!
 <span data-key="5d5c878b41a64ee68ebed8d6828cdf76"><span data-offset-key="5d5c878b41a64ee68ebed8d6828cdf76:0">After you’ve selected the version to be installed, follow these steps to complete the installation:</span></span>
 
 1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">1.</span>
-    <span data-key="badd4f77b25b4ee79e35e74e05f7ee7a"><span data-offset-key="badd4f77b25b4ee79e35e74e05f7ee7a:0">Click </span>*Get*<span data-offset-key="badd4f77b25b4ee79e35e74e05f7ee7a:2">.</span></span>
+    <span data-key="badd4f77b25b4ee79e35e74e05f7ee7a"><span data-offset-key="badd4f77b25b4ee79e35e74e05f7ee7a:0">Click </span>_Get_<span data-offset-key="badd4f77b25b4ee79e35e74e05f7ee7a:2">.</span></span>
 
 2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">2.</span>
-    <span data-key="88e353e8a8f94d0394922474edd81b19"><span data-offset-key="88e353e8a8f94d0394922474edd81b19:0">Wait for the application to download. When it’s finished downloading, the </span>*Get*<span data-offset-key="88e353e8a8f94d0394922474edd81b19:2"> button will be replaced with a button that says </span>*Install on my devices*<span data-offset-key="88e353e8a8f94d0394922474edd81b19:4">.</span></span>
+    <span data-key="88e353e8a8f94d0394922474edd81b19"><span data-offset-key="88e353e8a8f94d0394922474edd81b19:0">Wait for the application to download. When it’s finished downloading, the </span>_Get_<span data-offset-key="88e353e8a8f94d0394922474edd81b19:2"> button will be replaced with a button that says </span>_Install on my devices_<span data-offset-key="88e353e8a8f94d0394922474edd81b19:4">.</span></span>
 
 3.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">3.</span>
-    <span data-key="c657f01b45884f499fd3af29938bb4ff"><span data-offset-key="c657f01b45884f499fd3af29938bb4ff:0">Click </span>*Install on my devices*<span data-offset-key="c657f01b45884f499fd3af29938bb4ff:2"> and select the devices on which you’d like to complete the installation.</span></span>
+    <span data-key="c657f01b45884f499fd3af29938bb4ff"><span data-offset-key="c657f01b45884f499fd3af29938bb4ff:0">Click </span>_Install on my devices_<span data-offset-key="c657f01b45884f499fd3af29938bb4ff:2"> and select the devices on which you’d like to complete the installation.</span></span>
 
 4.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">4.</span>
-    <span data-key="6689da32e0ca4a43b3187ec4f195e7ba"><span data-offset-key="6689da32e0ca4a43b3187ec4f195e7ba:0">Click </span>*Install Now*<span data-offset-key="6689da32e0ca4a43b3187ec4f195e7ba:2"> and then </span>*OK*<span data-offset-key="6689da32e0ca4a43b3187ec4f195e7ba:4"> to start the installation.</span></span>
+    <span data-key="6689da32e0ca4a43b3187ec4f195e7ba"><span data-offset-key="6689da32e0ca4a43b3187ec4f195e7ba:0">Click </span>_Install Now_<span data-offset-key="6689da32e0ca4a43b3187ec4f195e7ba:2"> and then </span>_OK_<span data-offset-key="6689da32e0ca4a43b3187ec4f195e7ba:4"> to start the installation.</span></span>
 
 5.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">5.</span>
     <span data-key="4947e716d3f54bfe847c80aedef61ce5"><span data-offset-key="4947e716d3f54bfe847c80aedef61ce5:0">If the installation was successful, then you’ll see the message “This product is installed” at the top of the Microsoft Store page.</span></span>
 
 <span data-key="6a7e52e0b97a4bdcbc99564bf259cdf6"><span data-offset-key="6a7e52e0b97a4bdcbc99564bf259cdf6:0">Congratulations! You now have access to Python, including </span></span><a href="https://realpython.com/what-is-pip/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="446693aac316421fb5884222f723f52b" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="7faed127ef5a4d74aa3c3561485e190f"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="7faed127ef5a4d74aa3c3561485e190f:0">pip</code></span></span></a><span data-key="a78a90f9d3e44ac6b04eec95e8b52be9"><span data-offset-key="a78a90f9d3e44ac6b04eec95e8b52be9:0"> and </span></span><a href="https://realpython.com/python-idle/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9777f95933ac4c58bc04129f01a4f42f" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="f342ba6ecd2441fba97b12fe8eb0e362"><span data-offset-key="f342ba6ecd2441fba97b12fe8eb0e362:0">IDLE</span></span></span></a><span data-key="93503d17b81a4e9ba6c70658e3102c8f"><span data-offset-key="93503d17b81a4e9ba6c70658e3102c8f:0">!</span></span>
 
-### 
+###
 
 <span data-key="91ae709ca9684565b556280c9743c03a"><span data-offset-key="91ae709ca9684565b556280c9743c03a:0">How to Install From the Full Installer</span></span>
 
@@ -798,10 +774,10 @@ Copied!
     <span data-key="425ccd2a7b7d4e3b86ce4c710f87e12d"><span data-offset-key="425ccd2a7b7d4e3b86ce4c710f87e12d:0">Open a browser window and navigate to the Python.org </span></span><a href="https://www.python.org/downloads/windows/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e103a1f7963540709cb21739dc5260d7" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="488fdec1ef0847498a690b50c85c7cf9"><span data-offset-key="488fdec1ef0847498a690b50c85c7cf9:0">Downloads page for Windows</span></span></span></a><span data-key="9e1908394d1742359d6b959b851d0092"><span data-offset-key="9e1908394d1742359d6b959b851d0092:0">.</span></span>
 
 2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">2.</span>
-    <span data-key="0aee6b421f7448fcb9af736207b49594"><span data-offset-key="0aee6b421f7448fcb9af736207b49594:0">Under the “Python Releases for Windows” heading, click the link for the </span>*Latest Python 3 Release - Python 3.x.x*<span data-offset-key="0aee6b421f7448fcb9af736207b49594:2">. As of this writing, the latest version was Python 3.8.4.</span></span>
+    <span data-key="0aee6b421f7448fcb9af736207b49594"><span data-offset-key="0aee6b421f7448fcb9af736207b49594:0">Under the “Python Releases for Windows” heading, click the link for the </span>_Latest Python 3 Release - Python 3.x.x_<span data-offset-key="0aee6b421f7448fcb9af736207b49594:2">. As of this writing, the latest version was Python 3.8.4.</span></span>
 
 3.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">3.</span>
-    <span data-key="d9e02121987749c99fcf05b95890865d"><span data-offset-key="d9e02121987749c99fcf05b95890865d:0">Scroll to the bottom and select either </span>*Windows x86-64 executable installer for 64-bit*<span data-offset-key="d9e02121987749c99fcf05b95890865d:2"> or </span>*Windows x86 executable installer for 32-bit*<span data-offset-key="d9e02121987749c99fcf05b95890865d:4">.</span></span>
+    <span data-key="d9e02121987749c99fcf05b95890865d"><span data-offset-key="d9e02121987749c99fcf05b95890865d:0">Scroll to the bottom and select either </span>_Windows x86-64 executable installer for 64-bit_<span data-offset-key="d9e02121987749c99fcf05b95890865d:2"> or </span>_Windows x86 executable installer for 32-bit_<span data-offset-key="d9e02121987749c99fcf05b95890865d:4">.</span></span>
 
 <span data-key="e3245fa0d3b1483aadb4e3cb66280dcd"><span data-offset-key="e3245fa0d3b1483aadb4e3cb66280dcd:0">If you aren’t sure whether to select the 32-bit or the 64-bit installer, then you can expand the box below to help you decide.</span></span>
 
@@ -823,19 +799,19 @@ Copied!
     <span data-key="c94a6fd297154039b7dd18d13b993cb4"><span data-offset-key="c94a6fd297154039b7dd18d13b993cb4:0">The default install path is in the </span></span><a href="https://superuser.com/questions/656003/why-is-python-for-windows-not-installed-in-programfiles-c-program-files" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a3f99062ada045b19f64b7b40f58c165" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="30745a69f1b7479c994ded2cd68a84b6"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="30745a69f1b7479c994ded2cd68a84b6:0">AppData/</code><span data-offset-key="30745a69f1b7479c994ded2cd68a84b6:1"> directory</span></span></span></a><span data-key="2e4883f0c83947f09bd3b53995a4677d"><span data-offset-key="2e4883f0c83947f09bd3b53995a4677d:0"> of the current Windows user.</span></span>
 
 2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">2.</span>
-    <span data-key="df729bec5d1e493b8b06c09228cbc542"><span data-offset-key="df729bec5d1e493b8b06c09228cbc542:0">The </span>*Customize installation*<span data-offset-key="df729bec5d1e493b8b06c09228cbc542:2"> button can be used to customize the installation location and which additional features get installed, including </span>`pip`<span data-offset-key="df729bec5d1e493b8b06c09228cbc542:4"> and IDLE.</span></span>
+    <span data-key="df729bec5d1e493b8b06c09228cbc542"><span data-offset-key="df729bec5d1e493b8b06c09228cbc542:0">The </span>_Customize installation_<span data-offset-key="df729bec5d1e493b8b06c09228cbc542:2"> button can be used to customize the installation location and which additional features get installed, including </span>`pip`<span data-offset-key="df729bec5d1e493b8b06c09228cbc542:4"> and IDLE.</span></span>
 
 3.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">3.</span>
-    <span data-key="befd688dd8ab4030b9e42654557faa5f"><span data-offset-key="befd688dd8ab4030b9e42654557faa5f:0">The </span>*Install launcher for all users (recommended)*<span data-offset-key="befd688dd8ab4030b9e42654557faa5f:2"> checkbox is checked default. This means every user on the machine will have access to the </span></span><a href="https://docs.python.org/3/using/windows.html#launcher" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cde7d95a94ad4e659c1f6a7ecf16cbee" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="e124495b5bde4afbb01e6147e9865cbe"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="e124495b5bde4afbb01e6147e9865cbe:0">py.exe</code><span data-offset-key="e124495b5bde4afbb01e6147e9865cbe:1"> launcher</span></span></span></a><span data-key="448c80b4d4914157a9c13d0cd4063763"><span data-offset-key="448c80b4d4914157a9c13d0cd4063763:0">. You can uncheck this box to restrict Python to the current Windows user.</span></span>
+    <span data-key="befd688dd8ab4030b9e42654557faa5f"><span data-offset-key="befd688dd8ab4030b9e42654557faa5f:0">The </span>_Install launcher for all users (recommended)_<span data-offset-key="befd688dd8ab4030b9e42654557faa5f:2"> checkbox is checked default. This means every user on the machine will have access to the </span></span><a href="https://docs.python.org/3/using/windows.html#launcher" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cde7d95a94ad4e659c1f6a7ecf16cbee" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="e124495b5bde4afbb01e6147e9865cbe"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="e124495b5bde4afbb01e6147e9865cbe:0">py.exe</code><span data-offset-key="e124495b5bde4afbb01e6147e9865cbe:1"> launcher</span></span></span></a><span data-key="448c80b4d4914157a9c13d0cd4063763"><span data-offset-key="448c80b4d4914157a9c13d0cd4063763:0">. You can uncheck this box to restrict Python to the current Windows user.</span></span>
 
 4.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">4.</span>
-    <span data-key="cae0b8e7cd624a1896787db26f9746b1"><span data-offset-key="cae0b8e7cd624a1896787db26f9746b1:0">The </span>*Add Python 3.8 to* `PATH`<span data-offset-key="cae0b8e7cd624a1896787db26f9746b1:3"> checkbox is unchecked by default. There are </span></span><a href="https://discuss.python.org/t/could-we-add-python-to-system-path-by-default/3067" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8df89ee9f245475e820928521aa4539b" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="2114f1c369234f669e29083340843eef"><span data-offset-key="2114f1c369234f669e29083340843eef:0">several reasons</span></span></span></a><span data-key="be04c29871af49408a0afa53e1fb20a7"><span data-offset-key="be04c29871af49408a0afa53e1fb20a7:0"> that you might not want Python on </span>`PATH`<span data-offset-key="be04c29871af49408a0afa53e1fb20a7:2">, so make sure you understand the implications before you check this box.</span></span>
+    <span data-key="cae0b8e7cd624a1896787db26f9746b1"><span data-offset-key="cae0b8e7cd624a1896787db26f9746b1:0">The </span>_Add Python 3.8 to_ `PATH`<span data-offset-key="cae0b8e7cd624a1896787db26f9746b1:3"> checkbox is unchecked by default. There are </span></span><a href="https://discuss.python.org/t/could-we-add-python-to-system-path-by-default/3067" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8df89ee9f245475e820928521aa4539b" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="2114f1c369234f669e29083340843eef"><span data-offset-key="2114f1c369234f669e29083340843eef:0">several reasons</span></span></span></a><span data-key="be04c29871af49408a0afa53e1fb20a7"><span data-offset-key="be04c29871af49408a0afa53e1fb20a7:0"> that you might not want Python on </span>`PATH`<span data-offset-key="be04c29871af49408a0afa53e1fb20a7:2">, so make sure you understand the implications before you check this box.</span></span>
 
 <span data-key="0d0633d8d6be4c1584ee1dd0db762413"><span data-offset-key="0d0633d8d6be4c1584ee1dd0db762413:0">The full installer gives you total control over the installation process.</span></span>
 
 <span data-key="2795543fe95e4bbf999721aa73a672d8">**Warning:**<span data-offset-key="2795543fe95e4bbf999721aa73a672d8:1"> If you don’t know what </span>`PATH`<span data-offset-key="2795543fe95e4bbf999721aa73a672d8:3"> is, then it’s highly recommended that you </span>**do not**<span data-offset-key="2795543fe95e4bbf999721aa73a672d8:5"> install with the full installer. Use the </span></span><a href="https://realpython.com/installing-python/#how-to-install-from-the-microsoft-store" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a23b3a95741b476685cd52393b45cca8" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="28cda49b0bac4debb8cd554868525a33"><span data-offset-key="28cda49b0bac4debb8cd554868525a33:0">Microsoft Store package</span></span></span></a><span data-key="2414b31b933c43e48b3be72ff4fe9cbf"><span data-offset-key="2414b31b933c43e48b3be72ff4fe9cbf:0"> instead.</span></span>
 
-<span data-key="496f2a41a0c945079b4dec61acd51832"><span data-offset-key="496f2a41a0c945079b4dec61acd51832:0">Customize the installation to meet your needs using the options available on the dialog box. Then click </span>*Install Now*<span data-offset-key="496f2a41a0c945079b4dec61acd51832:2">. That’s all there is to it!</span></span>
+<span data-key="496f2a41a0c945079b4dec61acd51832"><span data-offset-key="496f2a41a0c945079b4dec61acd51832:0">Customize the installation to meet your needs using the options available on the dialog box. Then click </span>_Install Now_<span data-offset-key="496f2a41a0c945079b4dec61acd51832:2">. That’s all there is to it!</span></span>
 
 <span data-key="4ff02d8c946c4d8bbfa13d872832c582"><span data-offset-key="4ff02d8c946c4d8bbfa13d872832c582:0">Congratulations—you now have the latest version of Python 3 on your Windows machine!</span></span>
 
@@ -857,7 +833,7 @@ Copied!
 
 <span data-key="a37b81ae90504ff9acb6a5f631a1481d"><span data-offset-key="a37b81ae90504ff9acb6a5f631a1481d:0">In this section, you’ll learn how to check which version of Python, if any, is installed on your macOS device. You’ll also learn which of the two installation methods you should use.</span></span>
 
-### 
+###
 
 <span data-key="447fc2f24deb46598386a54286d9d518"><span data-offset-key="447fc2f24deb46598386a54286d9d518:0">How to Check Your Python Version on a Mac</span></span>
 
@@ -874,7 +850,7 @@ Copied!
 3.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">3.</span>
     <span data-key="381701e1de3a4a0db32aa33383eefe3d"><span data-offset-key="381701e1de3a4a0db32aa33383eefe3d:0">Press Enter.</span></span>
 
-<span data-key="3469a0bc9b494b1082768cd90a0d98bf"><span data-offset-key="3469a0bc9b494b1082768cd90a0d98bf:0">Alternatively, you can open Finder and navigate to </span>*Applications → Utilities → Terminal*<span data-offset-key="3469a0bc9b494b1082768cd90a0d98bf:2">.</span></span>
+<span data-key="3469a0bc9b494b1082768cd90a0d98bf"><span data-offset-key="3469a0bc9b494b1082768cd90a0d98bf:0">Alternatively, you can open Finder and navigate to </span>_Applications → Utilities → Terminal_<span data-offset-key="3469a0bc9b494b1082768cd90a0d98bf:2">.</span></span>
 
 <span data-key="e7e1c6ca6d5a4e76961e1060e8ca147f"><span data-offset-key="e7e1c6ca6d5a4e76961e1060e8ca147f:0">With the command line open, type in the following commands:</span></span>
 
@@ -928,19 +904,13 @@ Copied!
 
 <span data-key="57e0657de8f04b2ab1c15bbd9e18d3d6"><span data-offset-key="57e0657de8f04b2ab1c15bbd9e18d3d6:0">You’ll want to get the latest version of Python if any of these conditions is true:</span></span>
 
--   
+- <span data-key="77972d4c34a7442d8efbd2366e7e90b1"><span data-offset-key="77972d4c34a7442d8efbd2366e7e90b1:0">None of the above commands returns a version number.</span></span>
 
-    <span data-key="77972d4c34a7442d8efbd2366e7e90b1"><span data-offset-key="77972d4c34a7442d8efbd2366e7e90b1:0">None of the above commands returns a version number.</span></span>
+- <span data-key="a4ce48c6e4e444519bfeb04b7c3df641"><span data-offset-key="a4ce48c6e4e444519bfeb04b7c3df641:0">The only version you see displayed is in the Python 2.X series.</span></span>
 
--   
+- <span data-key="792fa6fe9d5a4d43a0f20b39da7633fd"><span data-offset-key="792fa6fe9d5a4d43a0f20b39da7633fd:0">You have a version of Python 3 that isn’t the latest available, which was version 3.8.4 as of this writing.</span></span>
 
-    <span data-key="a4ce48c6e4e444519bfeb04b7c3df641"><span data-offset-key="a4ce48c6e4e444519bfeb04b7c3df641:0">The only version you see displayed is in the Python 2.X series.</span></span>
-
--   
-
-    <span data-key="792fa6fe9d5a4d43a0f20b39da7633fd"><span data-offset-key="792fa6fe9d5a4d43a0f20b39da7633fd:0">You have a version of Python 3 that isn’t the latest available, which was version 3.8.4 as of this writing.</span></span>
-
-### 
+###
 
 <span data-key="c7ab721d05a04963b8d5aeb9c0162237"><span data-offset-key="c7ab721d05a04963b8d5aeb9c0162237:0">What Your Options Are</span></span>
 
@@ -976,7 +946,7 @@ Copied!
 
 <span data-key="2c0f193c3e664b01ad5c458eb2cad1a0"><span data-offset-key="2c0f193c3e664b01ad5c458eb2cad1a0:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="7ebbec91a34b454fa97bb8246708d873"><span data-offset-key="7ebbec91a34b454fa97bb8246708d873:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://realpython.com/account/join/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="46f7a2de91e5400f8c2a3090279bc80b" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="89d3b82ed8d841aab24d19f2fd455be9"><span data-offset-key="89d3b82ed8d841aab24d19f2fd455be9:0"> Remove ads</span></span></span></a><span data-key="a267f69e3030473cada2d051715476d1"><span data-offset-key="a267f69e3030473cada2d051715476d1:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="cb4ef357ea6748cf937fa4a1442127e3"><span data-offset-key="cb4ef357ea6748cf937fa4a1442127e3:0">How to Install From the Official Installer</span></span>
 
@@ -992,10 +962,10 @@ Copied!
     <span data-key="f3a80e58c71d405c98b8eeb03e6df288"><span data-offset-key="f3a80e58c71d405c98b8eeb03e6df288:0">Open a browser window and navigate to the Python.org </span></span><a href="https://www.python.org/downloads/mac-osx/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8262c0243ecf4d0da9ecef422eaa8a44" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="03db3ca580cc40fab748fbb0cf444f18"><span data-offset-key="03db3ca580cc40fab748fbb0cf444f18:0">Downloads page for macOS</span></span></span></a><span data-key="a3bcab030d6e4234938800ffb87bb177"><span data-offset-key="a3bcab030d6e4234938800ffb87bb177:0">.</span></span>
 
 2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">2.</span>
-    <span data-key="9975d860e29a4977bdaccfc1616d32f9"><span data-offset-key="9975d860e29a4977bdaccfc1616d32f9:0">Under the “Python Releases for Mac OS X” heading, click the link for the </span>*Latest Python 3 Release - Python 3.x.x*<span data-offset-key="9975d860e29a4977bdaccfc1616d32f9:2">. As of this writing, the latest version was Python 3.8.4.</span></span>
+    <span data-key="9975d860e29a4977bdaccfc1616d32f9"><span data-offset-key="9975d860e29a4977bdaccfc1616d32f9:0">Under the “Python Releases for Mac OS X” heading, click the link for the </span>_Latest Python 3 Release - Python 3.x.x_<span data-offset-key="9975d860e29a4977bdaccfc1616d32f9:2">. As of this writing, the latest version was Python 3.8.4.</span></span>
 
 3.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">3.</span>
-    <span data-key="2a89bf0d70aa45cf9784b428b0d7386b"><span data-offset-key="2a89bf0d70aa45cf9784b428b0d7386b:0">Scroll to the bottom and click </span>*macOS 64-bit installer*<span data-offset-key="2a89bf0d70aa45cf9784b428b0d7386b:2"> to start the download.</span></span>
+    <span data-key="2a89bf0d70aa45cf9784b428b0d7386b"><span data-offset-key="2a89bf0d70aa45cf9784b428b0d7386b:0">Scroll to the bottom and click </span>_macOS 64-bit installer_<span data-offset-key="2a89bf0d70aa45cf9784b428b0d7386b:2"> to start the download.</span></span>
 
 <span data-key="07f20f0eb27c44ebbaa521cb099d98a0"><span data-offset-key="07f20f0eb27c44ebbaa521cb099d98a0:0">When the installer is finished downloading, move on to the next step.</span></span>
 
@@ -1010,17 +980,17 @@ Copied!
 <span data-key="76ec49ef27084dad8784ea6e9f4e3008"><span data-offset-key="76ec49ef27084dad8784ea6e9f4e3008:0">Follow these steps to complete the installation:</span></span>
 
 1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">1.</span>
-    <span data-key="d34ddb48cc96412db473852e25f89703"><span data-offset-key="d34ddb48cc96412db473852e25f89703:0">Press </span>*Continue*<span data-offset-key="d34ddb48cc96412db473852e25f89703:2"> a few times until you’re asked to agree to the software license agreement. Then click </span>*Agree*<span data-offset-key="d34ddb48cc96412db473852e25f89703:4">.</span></span>
+    <span data-key="d34ddb48cc96412db473852e25f89703"><span data-offset-key="d34ddb48cc96412db473852e25f89703:0">Press </span>_Continue_<span data-offset-key="d34ddb48cc96412db473852e25f89703:2"> a few times until you’re asked to agree to the software license agreement. Then click </span>_Agree_<span data-offset-key="d34ddb48cc96412db473852e25f89703:4">.</span></span>
 
 2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">2.</span>
-    <span data-key="830b3d1f4c804d4fb35247293329f038"><span data-offset-key="830b3d1f4c804d4fb35247293329f038:0">You’ll be shown a window that tells you the install destination and how much space it will take. You most likely don’t want to change the default location, so go ahead and click </span>*Install*<span data-offset-key="830b3d1f4c804d4fb35247293329f038:2"> to start the installation.</span></span>
+    <span data-key="830b3d1f4c804d4fb35247293329f038"><span data-offset-key="830b3d1f4c804d4fb35247293329f038:0">You’ll be shown a window that tells you the install destination and how much space it will take. You most likely don’t want to change the default location, so go ahead and click </span>_Install_<span data-offset-key="830b3d1f4c804d4fb35247293329f038:2"> to start the installation.</span></span>
 
 3.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">3.</span>
-    <span data-key="96e0c1f77a8d4980a561e732a0b3be71"><span data-offset-key="96e0c1f77a8d4980a561e732a0b3be71:0">When the installer is finished copying files, click </span>*Close*<span data-offset-key="96e0c1f77a8d4980a561e732a0b3be71:2"> to close the installer window.</span></span>
+    <span data-key="96e0c1f77a8d4980a561e732a0b3be71"><span data-offset-key="96e0c1f77a8d4980a561e732a0b3be71:0">When the installer is finished copying files, click </span>_Close_<span data-offset-key="96e0c1f77a8d4980a561e732a0b3be71:2"> to close the installer window.</span></span>
 
 <span data-key="4bc2c27d74c84558b51c907e3dd9fe12"><span data-offset-key="4bc2c27d74c84558b51c907e3dd9fe12:0">Congratulations—you now have the latest version of Python 3 on your macOS computer!</span></span>
 
-### 
+###
 
 <span data-key="4b379bf1cb784fceb656a81482cb5ce2"><span data-offset-key="4b379bf1cb784fceb656a81482cb5ce2:0">How to Install From Homebrew</span></span>
 
@@ -1052,7 +1022,7 @@ Copied!
 
 <span data-key="770a6ee9bb9c46b6817f92d0089fa67d"><span data-offset-key="770a6ee9bb9c46b6817f92d0089fa67d:0">Depending on your Internet connection, it may take a few minutes to download all of Homebrew’s required files. Once the installation is complete, you’ll end up back at the shell prompt in your terminal window.</span></span>
 
-<span data-key="30c40154786d4f8480aa844be6a5d718">**Note:**<span data-offset-key="30c40154786d4f8480aa844be6a5d718:1"> If you’re doing this on a fresh install of macOS, you may get a pop-up alert asking you to </span>**install Apple’s command line developer tools.**<span data-offset-key="30c40154786d4f8480aa844be6a5d718:3"> These tools are necessary for installation, so you can confirm the dialog box by clicking </span>*Install*<span data-offset-key="30c40154786d4f8480aa844be6a5d718:5">.</span></span>
+<span data-key="30c40154786d4f8480aa844be6a5d718">**Note:**<span data-offset-key="30c40154786d4f8480aa844be6a5d718:1"> If you’re doing this on a fresh install of macOS, you may get a pop-up alert asking you to </span>**install Apple’s command line developer tools.**<span data-offset-key="30c40154786d4f8480aa844be6a5d718:3"> These tools are necessary for installation, so you can confirm the dialog box by clicking </span>_Install_<span data-offset-key="30c40154786d4f8480aa844be6a5d718:5">.</span></span>
 
 <span data-key="9521b1487d674a2b9541acfe7541218f"><span data-offset-key="9521b1487d674a2b9541acfe7541218f:0">After the developer tools are installed, you’ll need to press Enter to continue installation of Homebrew.</span></span>
 
@@ -1105,7 +1075,7 @@ Copied!
 
 <span data-key="78ca0b4854c24b84bb51d58eb3db4814"><span data-offset-key="78ca0b4854c24b84bb51d58eb3db4814:0">In this section, you’ll learn how to check which version of Python, if any, is on your Linux computer. You’ll also learn which of the two installation methods you should use.</span></span>
 
-### 
+###
 
 <span data-key="fd3fcf4e27434364af7800ece8f636cc"><span data-offset-key="fd3fcf4e27434364af7800ece8f636cc:0">How to Check Your Python Version on Linux</span></span>
 
@@ -1163,7 +1133,7 @@ Copied!
 
 <span data-key="c2fa3ced00a3478dbd2e34b66f093ea3"><span data-offset-key="c2fa3ced00a3478dbd2e34b66f093ea3:0">You’ll want to get the latest version of Python if your current version is in the Python 2.X series or is not the latest version of Python 3 available, which was 3.8.4 as of this writing.</span></span>
 
-### 
+###
 
 <span data-key="03f19d26e6154d15b9dff13503a248fb"><span data-offset-key="03f19d26e6154d15b9dff13503a248fb:0">What Your Options Are</span></span>
 
@@ -1204,7 +1174,7 @@ Copied!
 
 <span data-key="d3af792b1c8d4d74a1b9aa096d0c90ec"><span data-offset-key="d3af792b1c8d4d74a1b9aa096d0c90ec:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="b5e19a0d54354c33a147d7457da88f43"><span data-offset-key="b5e19a0d54354c33a147d7457da88f43:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://realpython.com/account/join/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="95bb781d04e24a758ddc5c176d710092" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="c6cecaa45da946fdb87b9cdb6056ae5d"><span data-offset-key="c6cecaa45da946fdb87b9cdb6056ae5d:0"> Remove ads</span></span></span></a><span data-key="ba4e99a7ccb34e2f8a03360f5f3a8ead"><span data-offset-key="ba4e99a7ccb34e2f8a03360f5f3a8ead:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="048f23cbfaeb4760b1841353232e7b30"><span data-offset-key="048f23cbfaeb4760b1841353232e7b30:0">How to Install on Ubuntu and Linux Mint</span></span>
 
@@ -1216,7 +1186,7 @@ Copied!
 
 1
 
-<span data-key="519fd91e2f044a3faae6ae88a68d369a"><span data-offset-key="519fd91e2f044a3faae6ae88a68d369a:0">$ lsb\_release -a</span></span>
+<span data-key="519fd91e2f044a3faae6ae88a68d369a"><span data-offset-key="519fd91e2f044a3faae6ae88a68d369a:0">$ lsb_release -a</span></span>
 
 2
 
@@ -1242,45 +1212,41 @@ Copied!
 
 <span data-key="c101188909834918a21799af2dae7df9"><span data-offset-key="c101188909834918a21799af2dae7df9:0">Follow the instructions below that match the version number you see under </span>`Release`<span data-offset-key="c101188909834918a21799af2dae7df9:2"> in the console output:</span></span>
 
--   
+- <span data-key="6fe12cd5d3ae40c1901373b1a0fa050d">**Ubuntu 18.04, Ubuntu 20.04 and above:**<span data-offset-key="6fe12cd5d3ae40c1901373b1a0fa050d:1"> Python 3.8 doesn’t come by default on Ubuntu 18.04 and above, but it is available in the Universe repository. To install version 3.8, open a terminal application and type the following commands:</span></span>
 
-    <span data-key="6fe12cd5d3ae40c1901373b1a0fa050d">**Ubuntu 18.04, Ubuntu 20.04 and above:**<span data-offset-key="6fe12cd5d3ae40c1901373b1a0fa050d:1"> Python 3.8 doesn’t come by default on Ubuntu 18.04 and above, but it is available in the Universe repository. To install version 3.8, open a terminal application and type the following commands:</span></span>
+  1
 
-    1
+  <span data-key="0f10c693ea064a37b639b3855f04beb3"><span data-offset-key="0f10c693ea064a37b639b3855f04beb3:0">$ sudo apt-get update</span></span>
 
-    <span data-key="0f10c693ea064a37b639b3855f04beb3"><span data-offset-key="0f10c693ea064a37b639b3855f04beb3:0">$ sudo apt-get update</span></span>
+  2
 
-    2
+  <span data-key="76a996797b0f4d1a8cc7ca3e4fe627d4"><span data-offset-key="76a996797b0f4d1a8cc7ca3e4fe627d4:0">$ sudo apt-get install python3.8 python3-pip</span></span>
 
-    <span data-key="76a996797b0f4d1a8cc7ca3e4fe627d4"><span data-offset-key="76a996797b0f4d1a8cc7ca3e4fe627d4:0">$ sudo apt-get install python3.8 python3-pip</span></span>
+  Copied!
 
-    Copied!
+  <span data-key="f314be274b6b405a9a07b097edc55918"><span data-offset-key="f314be274b6b405a9a07b097edc55918:0">Once the installation is complete, you can run Python 3.8 with the </span>`python3.8`<span data-offset-key="f314be274b6b405a9a07b097edc55918:2"> command and </span>`pip`<span data-offset-key="f314be274b6b405a9a07b097edc55918:4"> with the </span>`pip3`<span data-offset-key="f314be274b6b405a9a07b097edc55918:6"> command.</span></span>
 
-    <span data-key="f314be274b6b405a9a07b097edc55918"><span data-offset-key="f314be274b6b405a9a07b097edc55918:0">Once the installation is complete, you can run Python 3.8 with the </span>`python3.8`<span data-offset-key="f314be274b6b405a9a07b097edc55918:2"> command and </span>`pip`<span data-offset-key="f314be274b6b405a9a07b097edc55918:4"> with the </span>`pip3`<span data-offset-key="f314be274b6b405a9a07b097edc55918:6"> command.</span></span>
+- <span data-key="bb2d85d7121b401bb08262cea890fd9a">**Linux Mint and Ubuntu 17 and below:**<span data-offset-key="bb2d85d7121b401bb08262cea890fd9a:1"> Python 3.8 isn’t in the Universe repository, so you need to get it from a Personal Package Archive (PPA). For example, to install from the </span></span><a href="https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="479614b730754102a6da79479198940f" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="a1f1f4992c5040b4a0dd8b2692664c2a"><span data-offset-key="a1f1f4992c5040b4a0dd8b2692664c2a:0">“deadsnakes” PPA</span></span></span></a><span data-key="d9f28a65b0004296968e96cb1290ce61"><span data-offset-key="d9f28a65b0004296968e96cb1290ce61:0">, use the following commands:</span></span>
 
--   
+  1
 
-    <span data-key="bb2d85d7121b401bb08262cea890fd9a">**Linux Mint and Ubuntu 17 and below:**<span data-offset-key="bb2d85d7121b401bb08262cea890fd9a:1"> Python 3.8 isn’t in the Universe repository, so you need to get it from a Personal Package Archive (PPA). For example, to install from the </span></span><a href="https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="479614b730754102a6da79479198940f" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="a1f1f4992c5040b4a0dd8b2692664c2a"><span data-offset-key="a1f1f4992c5040b4a0dd8b2692664c2a:0">“deadsnakes” PPA</span></span></span></a><span data-key="d9f28a65b0004296968e96cb1290ce61"><span data-offset-key="d9f28a65b0004296968e96cb1290ce61:0">, use the following commands:</span></span>
+  <span data-key="e8cd24da1c7f4462a6a15316b5ed8fe2"><span data-offset-key="e8cd24da1c7f4462a6a15316b5ed8fe2:0">$ sudo add-apt-repository ppa:deadsnakes/ppa</span></span>
 
-    1
+  2
 
-    <span data-key="e8cd24da1c7f4462a6a15316b5ed8fe2"><span data-offset-key="e8cd24da1c7f4462a6a15316b5ed8fe2:0">$ sudo add-apt-repository ppa:deadsnakes/ppa</span></span>
+  <span data-key="faef1cd432a248a78092d2a186670a0d"><span data-offset-key="faef1cd432a248a78092d2a186670a0d:0">$ sudo apt-get update</span></span>
 
-    2
+  3
 
-    <span data-key="faef1cd432a248a78092d2a186670a0d"><span data-offset-key="faef1cd432a248a78092d2a186670a0d:0">$ sudo apt-get update</span></span>
+  <span data-key="45390b87fbc84eaf8cf3a92ec9ec957a"><span data-offset-key="45390b87fbc84eaf8cf3a92ec9ec957a:0">$ sudo apt-get install python3.8 python3-pip</span></span>
 
-    3
+  Copied!
 
-    <span data-key="45390b87fbc84eaf8cf3a92ec9ec957a"><span data-offset-key="45390b87fbc84eaf8cf3a92ec9ec957a:0">$ sudo apt-get install python3.8 python3-pip</span></span>
-
-    Copied!
-
-    <span data-key="dd6f34cab1ef44a9b7d01dd478b5fd8c"><span data-offset-key="dd6f34cab1ef44a9b7d01dd478b5fd8c:0">Once the installation is complete, you can run Python 3.8 with the </span>`python3.8`<span data-offset-key="dd6f34cab1ef44a9b7d01dd478b5fd8c:2"> command and run </span>`pip`<span data-offset-key="dd6f34cab1ef44a9b7d01dd478b5fd8c:4"> with the </span>`pip3`<span data-offset-key="dd6f34cab1ef44a9b7d01dd478b5fd8c:6"> command.</span></span>
+  <span data-key="dd6f34cab1ef44a9b7d01dd478b5fd8c"><span data-offset-key="dd6f34cab1ef44a9b7d01dd478b5fd8c:0">Once the installation is complete, you can run Python 3.8 with the </span>`python3.8`<span data-offset-key="dd6f34cab1ef44a9b7d01dd478b5fd8c:2"> command and run </span>`pip`<span data-offset-key="dd6f34cab1ef44a9b7d01dd478b5fd8c:4"> with the </span>`pip3`<span data-offset-key="dd6f34cab1ef44a9b7d01dd478b5fd8c:6"> command.</span></span>
 
 <span data-key="533b7beebca2480384d4f54e22e0dc6d"><span data-offset-key="533b7beebca2480384d4f54e22e0dc6d:0">Congratulations! You now have Python 3 set up on your machine!</span></span>
 
-### 
+###
 
 <span data-key="ab3beb0a911d4393a78e71ec218aa011"><span data-offset-key="ab3beb0a911d4393a78e71ec218aa011:0">How to Install on Debian Linux</span></span>
 
@@ -1304,13 +1270,13 @@ Copied!
 
 1
 
-<span data-key="89ecd138c21244a8a43b0e86964a5800"><span data-offset-key="89ecd138c21244a8a43b0e86964a5800:0">your\_username ALL=(ALL) ALL</span></span>
+<span data-key="89ecd138c21244a8a43b0e86964a5800"><span data-offset-key="89ecd138c21244a8a43b0e86964a5800:0">your_username ALL=(ALL) ALL</span></span>
 
 Copied!
 
 <span data-key="5469c5e13f4c4a2199e47aaead2fbf58"><span data-offset-key="5469c5e13f4c4a2199e47aaead2fbf58:0">Now you can skip ahead to the </span></span><a href="https://realpython.com/installing-python/#how-to-build-python-from-source-code" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="075ee8ca23e2475c8615e5268222a4c9" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="ff894a090191401bbd0c4e87ac34bddb"><span data-offset-key="ff894a090191401bbd0c4e87ac34bddb:0">How to Build Python From Source Code</span></span></span></a><span data-key="287dc46d56a346f3b515ce5a849106e6"><span data-offset-key="287dc46d56a346f3b515ce5a849106e6:0"> section to finish installing Python.</span></span>
 
-### 
+###
 
 <span data-key="c79b25c06ee343f89e5f847141c281a1"><span data-offset-key="c79b25c06ee343f89e5f847141c281a1:0">How to Install on openSUSE</span></span>
 
@@ -1318,13 +1284,13 @@ Copied!
 
 1
 
-<span data-key="1ffe26fc7de1475288d7e4717fdf230c"><span data-offset-key="1ffe26fc7de1475288d7e4717fdf230c:0">$ sudu zypper install -t pattern devel\_C\_C</span></span>
+<span data-key="1ffe26fc7de1475288d7e4717fdf230c"><span data-offset-key="1ffe26fc7de1475288d7e4717fdf230c:0">$ sudu zypper install -t pattern devel_C_C</span></span>
 
 Copied!
 
 <span data-key="e7ccd7ea2e4341469e4d959b044e3d37"><span data-offset-key="e7ccd7ea2e4341469e4d959b044e3d37:0">This might take a while to complete as it installs over 150 packages. Once it’s completed, skip ahead to the </span></span><a href="https://realpython.com/installing-python/#how-to-build-python-from-source-code" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ceedf9ca5a824cd8b1925fd45b71d4d7" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="d484ec581a49437597fa35638b4bfe35"><span data-offset-key="d484ec581a49437597fa35638b4bfe35:0">How to Build Python From Source Code</span></span></span></a><span data-key="9aed173daf0548c2a992eed632adb4cb"><span data-offset-key="9aed173daf0548c2a992eed632adb4cb:0"> section.</span></span>
 
-### 
+###
 
 <span data-key="a27164d9adc84a32a93955eaf71c30f7"><span data-offset-key="a27164d9adc84a32a93955eaf71c30f7:0">How to Install on CentOS and Fedora</span></span>
 
@@ -1356,7 +1322,7 @@ Copied!
 
 <span data-key="b08bbf806a7a4c949738a82a9537eb27"><span data-offset-key="b08bbf806a7a4c949738a82a9537eb27:0"><span data-slate-zero-width="z">​</span></span></span><span data-key="906635355bac411e8914b09bef5b7280"><span data-offset-key="906635355bac411e8914b09bef5b7280:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://realpython.com/account/join/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fd67f08f8d8c4a009eb83246b1920c01" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="a866afa4545f48beb095d2677efccd2e"><span data-offset-key="a866afa4545f48beb095d2677efccd2e:0"> Remove ads</span></span></span></a><span data-key="57a736859de44dffb92842e9a45e3638"><span data-offset-key="57a736859de44dffb92842e9a45e3638:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="af3a0f677e654285b8262e1c6a82b306"><span data-offset-key="af3a0f677e654285b8262e1c6a82b306:0">How to Install on Arch Linux</span></span>
 
@@ -1370,7 +1336,7 @@ Copied!
 
 <span data-key="f4c46db6e8a2465b92b89af16b5badc5"><span data-offset-key="f4c46db6e8a2465b92b89af16b5badc5:0">When Python is finished updating, you should be all set!</span></span>
 
-### 
+###
 
 <span data-key="8555f2951d5c4eff9c2d0d5afc2a616f"><span data-offset-key="8555f2951d5c4eff9c2d0d5afc2a616f:0">How to Build Python From Source Code</span></span>
 
@@ -1380,7 +1346,7 @@ Copied!
 
 <span data-key="19d4f39a6bc048d7804c42463866254f"><span data-offset-key="19d4f39a6bc048d7804c42463866254f:0">To start, you need to get the Python source code. Python.org makes this fairly straightforward. If you go to the </span></span><a href="https://www.python.org/downloads/source/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cbd79302a9f2412886fa3abb8e3d6705" data-rnw-int-class="nearest_260-8535_262-8536-240__"><span data-key="16843683b9e2409599dbd446cea33d7d"><span data-offset-key="16843683b9e2409599dbd446cea33d7d:0">Downloads</span></span></span></a><span data-key="d811b1f1ede044d19459a1c888ea5ecf"><span data-offset-key="d811b1f1ede044d19459a1c888ea5ecf:0"> page, then you’ll see the latest source for Python 3 at the top. Just make sure you don’t grab Legacy Python, Python 2!</span></span>
 
-<span data-key="009561aa8ee342a79da7daa8cdf26da4"><span data-offset-key="009561aa8ee342a79da7daa8cdf26da4:0">When you select the Python 3 version, you’ll see a “Files” section at the bottom of the page. Select </span>*Gzipped source tarball*<span data-offset-key="009561aa8ee342a79da7daa8cdf26da4:2"> and download it to your machine. If you prefer a command-line method, you can use </span>`wget`<span data-offset-key="009561aa8ee342a79da7daa8cdf26da4:4"> to download the file to your current directory:</span></span>
+<span data-key="009561aa8ee342a79da7daa8cdf26da4"><span data-offset-key="009561aa8ee342a79da7daa8cdf26da4:0">When you select the Python 3 version, you’ll see a “Files” section at the bottom of the page. Select </span>_Gzipped source tarball_<span data-offset-key="009561aa8ee342a79da7daa8cdf26da4:2"> and download it to your machine. If you prefer a command-line method, you can use </span>`wget`<span data-offset-key="009561aa8ee342a79da7daa8cdf26da4:4"> to download the file to your current directory:</span></span>
 
 1
 

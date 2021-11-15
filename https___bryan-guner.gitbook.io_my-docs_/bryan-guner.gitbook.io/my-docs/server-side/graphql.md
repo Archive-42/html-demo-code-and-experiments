@@ -246,7 +246,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -264,7 +264,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -304,7 +304,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -332,161 +332,83 @@ Powered By <span class="css-901oao css-16my406 r-b88u0q">GitBook</span>
 
 GraphQL
 
--   
+- <span data-key="67ccb50c82db4a00bc72ebf3af9b93f7"><span data-offset-key="67ccb50c82db4a00bc72ebf3af9b93f7:0"><span data-slate-zero-width="n">​</span></span></span>
 
-    <span data-key="67ccb50c82db4a00bc72ebf3af9b93f7"><span data-offset-key="67ccb50c82db4a00bc72ebf3af9b93f7:0"><span data-slate-zero-width="n">​</span></span></span>
+  - <span data-key="54565aa5b9ff445090a67abdf5c6d592"><span data-offset-key="54565aa5b9ff445090a67abdf5c6d592:0"><span data-slate-zero-width="n">​</span></span></span>
 
-    -   
+    - <span data-key="73be34b66c074893b626a9c91d4662a6"><span data-offset-key="73be34b66c074893b626a9c91d4662a6:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/1-architecture/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="338a7a14595e43958ac31a09954a1cd7" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="9cd839ca9a7840d08ee1c0085765ee89"><span data-offset-key="9cd839ca9a7840d08ee1c0085765ee89:0">Architecture</span></span></span></a><span data-key="15cd01bcb75e4b049877c1f7bb0d8c92"><span data-offset-key="15cd01bcb75e4b049877c1f7bb0d8c92:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        <span data-key="54565aa5b9ff445090a67abdf5c6d592"><span data-offset-key="54565aa5b9ff445090a67abdf5c6d592:0"><span data-slate-zero-width="n">​</span></span></span>
+    - <span data-key="1bc89eae50e64bb9b0d38a6329a6a8e0"><span data-offset-key="1bc89eae50e64bb9b0d38a6329a6a8e0:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/2-fetching-data-queries/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e596a8bf86584507a2b0cc24c34d1d5c" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="d20bc0b392a742279faaecd490a39d3b"><span data-offset-key="d20bc0b392a742279faaecd490a39d3b:0">Fetching data - Queries</span></span></span></a><span data-key="1bd2d562f39c45619244836cce8473c0"><span data-offset-key="1bd2d562f39c45619244836cce8473c0:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
+    - <span data-key="dc98c8cd4906495399d5fa74a30d9448"><span data-offset-key="dc98c8cd4906495399d5fa74a30d9448:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/3-writing-data-mutations/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c2178b1e9d064a4086ad0181155e23bf" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="f583369352ff42ffbe5bf74737efff0a"><span data-offset-key="f583369352ff42ffbe5bf74737efff0a:0">Writing data - Mutations</span></span></span></a><span data-key="ba16a402f27d43d4b4acbd17c99e0639"><span data-offset-key="ba16a402f27d43d4b4acbd17c99e0639:0"><span data-slate-zero-width="z">​</span></span></span>
 
-            <span data-key="73be34b66c074893b626a9c91d4662a6"><span data-offset-key="73be34b66c074893b626a9c91d4662a6:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/1-architecture/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="338a7a14595e43958ac31a09954a1cd7" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="9cd839ca9a7840d08ee1c0085765ee89"><span data-offset-key="9cd839ca9a7840d08ee1c0085765ee89:0">Architecture</span></span></span></a><span data-key="15cd01bcb75e4b049877c1f7bb0d8c92"><span data-offset-key="15cd01bcb75e4b049877c1f7bb0d8c92:0"><span data-slate-zero-width="z">​</span></span></span>
+    - <span data-key="03945b0cfdd044d8afbbfb5fa41dc87a"><span data-offset-key="03945b0cfdd044d8afbbfb5fa41dc87a:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/4-watching-data-subscriptions/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cb1f8aa1512b413fb13f1e9ebba7e128" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="61e2904e2d7e4d6a9a5ad768ced1e8ff"><span data-offset-key="61e2904e2d7e4d6a9a5ad768ced1e8ff:0">Watching data - Subscriptions</span></span></span></a><span data-key="224be2dfa43b49be89820ea536deb7eb"><span data-offset-key="224be2dfa43b49be89820ea536deb7eb:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
+  - <span data-key="86be9b9b64264f63832f2938ca4a082c"><span data-offset-key="86be9b9b64264f63832f2938ca4a082c:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/hasura-backend/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a74ef98218a94edab12376b284f62812" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="904431b11d6346048973ca8dfb68d004"><span data-offset-key="904431b11d6346048973ca8dfb68d004:0">Hasura Backend Setup</span></span></span></a><span data-key="cd4ea6295562451fa2b1ee7c41b6bf8a"><span data-offset-key="cd4ea6295562451fa2b1ee7c41b6bf8a:0"><span data-slate-zero-width="z">​</span></span></span>
 
-            <span data-key="1bc89eae50e64bb9b0d38a6329a6a8e0"><span data-offset-key="1bc89eae50e64bb9b0d38a6329a6a8e0:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/2-fetching-data-queries/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e596a8bf86584507a2b0cc24c34d1d5c" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="d20bc0b392a742279faaecd490a39d3b"><span data-offset-key="d20bc0b392a742279faaecd490a39d3b:0">Fetching data - Queries</span></span></span></a><span data-key="1bd2d562f39c45619244836cce8473c0"><span data-offset-key="1bd2d562f39c45619244836cce8473c0:0"><span data-slate-zero-width="z">​</span></span></span>
+  - <span data-key="e664ed77916940759ce7759a263d0e34"><span data-offset-key="e664ed77916940759ce7759a263d0e34:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2a3387423fc64050bddcf778192a8b3c" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="fd9eae32e36843649f063c0ac0c65fbb"><span data-offset-key="fd9eae32e36843649f063c0ac0c65fbb:0">Auth0 Setup</span></span></span></a><span data-key="30144d2220ad42fea9f4a574333d325a"><span data-offset-key="30144d2220ad42fea9f4a574333d325a:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
+    - <span data-key="c63a37b459d4472ab77abb35c59481c6"><span data-offset-key="c63a37b459d4472ab77abb35c59481c6:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/1-custom-claims/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c25c883be2f040e7a8abca80d1318ba1" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="c0b1ec91c9f54a0dbbe8deb32f9bcfc7"><span data-offset-key="c0b1ec91c9f54a0dbbe8deb32f9bcfc7:0">Custom Claims in Auth0 Rules</span></span></span></a><span data-key="fe1a3b163eb94b2d8c4aa098046ff9fb"><span data-offset-key="fe1a3b163eb94b2d8c4aa098046ff9fb:0"><span data-slate-zero-width="z">​</span></span></span>
 
-            <span data-key="dc98c8cd4906495399d5fa74a30d9448"><span data-offset-key="dc98c8cd4906495399d5fa74a30d9448:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/3-writing-data-mutations/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c2178b1e9d064a4086ad0181155e23bf" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="f583369352ff42ffbe5bf74737efff0a"><span data-offset-key="f583369352ff42ffbe5bf74737efff0a:0">Writing data - Mutations</span></span></span></a><span data-key="ba16a402f27d43d4b4acbd17c99e0639"><span data-offset-key="ba16a402f27d43d4b4acbd17c99e0639:0"><span data-slate-zero-width="z">​</span></span></span>
+    - <span data-key="9d0e83f6a1c24ec2831311a6a1120173"><span data-offset-key="9d0e83f6a1c24ec2831311a6a1120173:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/2-connect-hasura-auth0/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d8ed6d5b9bb9481e8e4f123e522ca904" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="66b0492c68e444f8aaf17295b3ffe32a"><span data-offset-key="66b0492c68e444f8aaf17295b3ffe32a:0">Connect Hasura with Auth0</span></span></span></a><span data-key="07aaf5ce2f174e1abdd4afda893dac7b"><span data-offset-key="07aaf5ce2f174e1abdd4afda893dac7b:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
+    - <span data-key="e47e586398fc48ff85f98a88f1d9bab6"><span data-offset-key="e47e586398fc48ff85f98a88f1d9bab6:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/3-user-sync-rule/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ca5a84fa9adc4dea998a6f7275fc3c49" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="d840964641ad498198ee810ef0e9b953"><span data-offset-key="d840964641ad498198ee810ef0e9b953:0">Sync Users with Rules</span></span></span></a><span data-key="c5a57386b8bc4a87bfc9bc99a0778d83"><span data-offset-key="c5a57386b8bc4a87bfc9bc99a0778d83:0"><span data-slate-zero-width="z">​</span></span></span>
 
-            <span data-key="03945b0cfdd044d8afbbfb5fa41dc87a"><span data-offset-key="03945b0cfdd044d8afbbfb5fa41dc87a:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/4-watching-data-subscriptions/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cb1f8aa1512b413fb13f1e9ebba7e128" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="61e2904e2d7e4d6a9a5ad768ced1e8ff"><span data-offset-key="61e2904e2d7e4d6a9a5ad768ced1e8ff:0">Watching data - Subscriptions</span></span></span></a><span data-key="224be2dfa43b49be89820ea536deb7eb"><span data-offset-key="224be2dfa43b49be89820ea536deb7eb:0"><span data-slate-zero-width="z">​</span></span></span>
+  - <span data-key="3c3fa011c9b24703888aa7cd910adf98"><span data-offset-key="3c3fa011c9b24703888aa7cd910adf98:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/setup/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="aab83662c8af43edacfd1270bd7d44ab" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="18ac68337d3d4ff9a345a72da9dc9070"><span data-offset-key="18ac68337d3d4ff9a345a72da9dc9070:0">Next.js Boilerplate Setup</span></span></span></a><span data-key="90921e51a08f4e62bfe61a096920623b"><span data-offset-key="90921e51a08f4e62bfe61a096920623b:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    -   
+  - <span data-key="6ca7aeb11eca40f9884a0acf99b9c107"><span data-offset-key="6ca7aeb11eca40f9884a0acf99b9c107:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/apollo-client/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e0fc8c0b4d474c00baf34a5eebf9ae2e" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="03ab69f7d119408191f0d9d6d98247e4"><span data-offset-key="03ab69f7d119408191f0d9d6d98247e4:0">Configure Apollo Client with Next.js</span></span></span></a><span data-key="453ef6d49131470da1e688007430b019"><span data-offset-key="453ef6d49131470da1e688007430b019:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        <span data-key="86be9b9b64264f63832f2938ca4a082c"><span data-offset-key="86be9b9b64264f63832f2938ca4a082c:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/hasura-backend/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a74ef98218a94edab12376b284f62812" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="904431b11d6346048973ca8dfb68d004"><span data-offset-key="904431b11d6346048973ca8dfb68d004:0">Hasura Backend Setup</span></span></span></a><span data-key="cd4ea6295562451fa2b1ee7c41b6bf8a"><span data-offset-key="cd4ea6295562451fa2b1ee7c41b6bf8a:0"><span data-slate-zero-width="z">​</span></span></span>
+  - <span data-key="014dedbc77c8458d82d3dfe74b97e469"><span data-offset-key="014dedbc77c8458d82d3dfe74b97e469:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d3730fd7269143de8225fabd644a40ec" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="23e15bea1b4e4521980cf0dfeac5e3bc"><span data-offset-key="23e15bea1b4e4521980cf0dfeac5e3bc:0">Queries</span></span></span></a><span data-key="4746d3f8f4c14682b8f7b224d4469da3"><span data-offset-key="4746d3f8f4c14682b8f7b224d4469da3:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    -   
+    - <span data-key="f82aabfbc7954269a36be3b531814da9"><span data-offset-key="f82aabfbc7954269a36be3b531814da9:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/1-fetch-todos-query/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e72fc02a06984601b3e60adaa3ff04e1" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="cdd065f5512b430982f8817f5533daf3"><span data-offset-key="cdd065f5512b430982f8817f5533daf3:0">Fetch todos - query</span></span></span></a><span data-key="17a92dee86f24634a34aa91b4751b666"><span data-offset-key="17a92dee86f24634a34aa91b4751b666:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        <span data-key="e664ed77916940759ce7759a263d0e34"><span data-offset-key="e664ed77916940759ce7759a263d0e34:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2a3387423fc64050bddcf778192a8b3c" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="fd9eae32e36843649f063c0ac0c65fbb"><span data-offset-key="fd9eae32e36843649f063c0ac0c65fbb:0">Auth0 Setup</span></span></span></a><span data-key="30144d2220ad42fea9f4a574333d325a"><span data-offset-key="30144d2220ad42fea9f4a574333d325a:0"><span data-slate-zero-width="z">​</span></span></span>
+    - <span data-key="eb617791937a4b069f1c5a460631fe6a"><span data-offset-key="eb617791937a4b069f1c5a460631fe6a:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/2-create-query/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ac1d2e42175942fc93e4b9f61b50cbe8" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="1797e73c74954f178d0126441fb521f0"><span data-offset-key="1797e73c74954f178d0126441fb521f0:0">useQuery hook</span></span></span></a><span data-key="8e63bb3ba0144d788bc2bceb4bdbba91"><span data-offset-key="8e63bb3ba0144d788bc2bceb4bdbba91:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
+    - <span data-key="23616a3b45c9432d8cda3c140ecd66d2"><span data-offset-key="23616a3b45c9432d8cda3c140ecd66d2:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/3-handle-errors/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cf2eefd79f784865a448212677fdd1c3" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="6fbd1932f9fe4c83821429c12ad93090"><span data-offset-key="6fbd1932f9fe4c83821429c12ad93090:0">Handle loading/errors</span></span></span></a><span data-key="2f54be724d3a42a2b396e18e1a4a1d59"><span data-offset-key="2f54be724d3a42a2b396e18e1a4a1d59:0"><span data-slate-zero-width="z">​</span></span></span>
 
-            <span data-key="c63a37b459d4472ab77abb35c59481c6"><span data-offset-key="c63a37b459d4472ab77abb35c59481c6:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/1-custom-claims/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c25c883be2f040e7a8abca80d1318ba1" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="c0b1ec91c9f54a0dbbe8deb32f9bcfc7"><span data-offset-key="c0b1ec91c9f54a0dbbe8deb32f9bcfc7:0">Custom Claims in Auth0 Rules</span></span></span></a><span data-key="fe1a3b163eb94b2d8c4aa098046ff9fb"><span data-offset-key="fe1a3b163eb94b2d8c4aa098046ff9fb:0"><span data-slate-zero-width="z">​</span></span></span>
+  - <span data-key="9553112912694deb94f62b4997835eed"><span data-offset-key="9553112912694deb94f62b4997835eed:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4ff17d31452a4929ac0be76f976d4ca7" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="b35fa9456a7e40278722fe9cd70c43a7"><span data-offset-key="b35fa9456a7e40278722fe9cd70c43a7:0">Mutations &amp; Query variables</span></span></span></a><span data-key="9223911a05864f3e8c540646c3b631e3"><span data-offset-key="9223911a05864f3e8c540646c3b631e3:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
+    - <span data-key="a73af6fab36b4b8b949c5fdfe391210a"><span data-offset-key="a73af6fab36b4b8b949c5fdfe391210a:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/1-create-todo/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a0cdf05846cf4015b585483e5fb0c9f7" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="fc233b7e906c403dad5868491090267e"><span data-offset-key="fc233b7e906c403dad5868491090267e:0">Create todos - mutation</span></span></span></a><span data-key="22110dfd4be04caf99e8fd679d6c94e7"><span data-offset-key="22110dfd4be04caf99e8fd679d6c94e7:0"><span data-slate-zero-width="z">​</span></span></span>
 
-            <span data-key="9d0e83f6a1c24ec2831311a6a1120173"><span data-offset-key="9d0e83f6a1c24ec2831311a6a1120173:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/2-connect-hasura-auth0/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d8ed6d5b9bb9481e8e4f123e522ca904" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="66b0492c68e444f8aaf17295b3ffe32a"><span data-offset-key="66b0492c68e444f8aaf17295b3ffe32a:0">Connect Hasura with Auth0</span></span></span></a><span data-key="07aaf5ce2f174e1abdd4afda893dac7b"><span data-offset-key="07aaf5ce2f174e1abdd4afda893dac7b:0"><span data-slate-zero-width="z">​</span></span></span>
+    - <span data-key="0bd2e41f0e1340a09c294ef2c5d18602"><span data-offset-key="0bd2e41f0e1340a09c294ef2c5d18602:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/2-query-variables/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="50942e0075a3434f910a4802aa25eaf3" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="eb31d277e0ed45cc80e21449b3a453dd"><span data-offset-key="eb31d277e0ed45cc80e21449b3a453dd:0">Query Variables</span></span></span></a><span data-key="5bad1dad6f9c4aeeab383d6e93bad3f9"><span data-offset-key="5bad1dad6f9c4aeeab383d6e93bad3f9:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
+    - <span data-key="e7c6a0815e604d508b23058b9de7f8c6"><span data-offset-key="e7c6a0815e604d508b23058b9de7f8c6:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/3-create-mutation/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="63d0c83341f84d46910f27392f3ab412" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="216ea3f35b3549f9bd0969ae3e4a4727"><span data-offset-key="216ea3f35b3549f9bd0969ae3e4a4727:0">useMutation Hook, Update Cache</span></span></span></a><span data-key="0f5c9fae1db54c49ab21739119f9dbee"><span data-offset-key="0f5c9fae1db54c49ab21739119f9dbee:0"><span data-slate-zero-width="z">​</span></span></span>
 
-            <span data-key="e47e586398fc48ff85f98a88f1d9bab6"><span data-offset-key="e47e586398fc48ff85f98a88f1d9bab6:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/3-user-sync-rule/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ca5a84fa9adc4dea998a6f7275fc3c49" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="d840964641ad498198ee810ef0e9b953"><span data-offset-key="d840964641ad498198ee810ef0e9b953:0">Sync Users with Rules</span></span></span></a><span data-key="c5a57386b8bc4a87bfc9bc99a0778d83"><span data-offset-key="c5a57386b8bc4a87bfc9bc99a0778d83:0"><span data-slate-zero-width="z">​</span></span></span>
+  - <span data-key="a12e6e754dd3447f9b3821549589df56"><span data-offset-key="a12e6e754dd3447f9b3821549589df56:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a7c9d8eb5cd04e188250ab85f3ee1d8e" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="5552d747eb4643ac88d779850f29a022"><span data-offset-key="5552d747eb4643ac88d779850f29a022:0">Optimistic UI</span></span></span></a><span data-key="d4f9b5e9f28848ae9f57b6e9f3110b05"><span data-offset-key="d4f9b5e9f28848ae9f57b6e9f3110b05:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    -   
+    - <span data-key="c09dbee349af4a8ea7ef0a2f6e9b8008"><span data-offset-key="c09dbee349af4a8ea7ef0a2f6e9b8008:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/1-update-todos/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e9cbf836a11a4760a1e9012edac4f5d5" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="f4a81ca738784b04af43c6e554b5d78b"><span data-offset-key="f4a81ca738784b04af43c6e554b5d78b:0">Update todos - mutation</span></span></span></a><span data-key="66cc3e7d4f43414fa846441538654a1d"><span data-offset-key="66cc3e7d4f43414fa846441538654a1d:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        <span data-key="3c3fa011c9b24703888aa7cd910adf98"><span data-offset-key="3c3fa011c9b24703888aa7cd910adf98:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/setup/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="aab83662c8af43edacfd1270bd7d44ab" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="18ac68337d3d4ff9a345a72da9dc9070"><span data-offset-key="18ac68337d3d4ff9a345a72da9dc9070:0">Next.js Boilerplate Setup</span></span></span></a><span data-key="90921e51a08f4e62bfe61a096920623b"><span data-offset-key="90921e51a08f4e62bfe61a096920623b:0"><span data-slate-zero-width="z">​</span></span></span>
+    - <span data-key="f479d1c611e7486a899e613af056bf7d"><span data-offset-key="f479d1c611e7486a899e613af056bf7d:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/2-mutation-cache/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="eae97ead2e4a42ed9e96111358bf6c79" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="5e06561e19b7496e8dae3ae24a2e5f62"><span data-offset-key="5e06561e19b7496e8dae3ae24a2e5f62:0">Mutation and update cache</span></span></span></a><span data-key="890585311f3a458f9ab0ab600eeeaa07"><span data-offset-key="890585311f3a458f9ab0ab600eeeaa07:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    -   
+    - <span data-key="32cdbfcfdc264d05a25e46df0bff5d16"><span data-offset-key="32cdbfcfdc264d05a25e46df0bff5d16:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3-remove-todos/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="694d205848664df9bda92f843a9f8137" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="c19f35c23325462e81947a0b73a4835f"><span data-offset-key="c19f35c23325462e81947a0b73a4835f:0">Remove todos - mutation</span></span></span></a><span data-key="1ac58f7e1b1f4e83a97bc17f74925ac5"><span data-offset-key="1ac58f7e1b1f4e83a97bc17f74925ac5:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        <span data-key="6ca7aeb11eca40f9884a0acf99b9c107"><span data-offset-key="6ca7aeb11eca40f9884a0acf99b9c107:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/apollo-client/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e0fc8c0b4d474c00baf34a5eebf9ae2e" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="03ab69f7d119408191f0d9d6d98247e4"><span data-offset-key="03ab69f7d119408191f0d9d6d98247e4:0">Configure Apollo Client with Next.js</span></span></span></a><span data-key="453ef6d49131470da1e688007430b019"><span data-offset-key="453ef6d49131470da1e688007430b019:0"><span data-slate-zero-width="z">​</span></span></span>
+    - <span data-key="7f1b4ffe181a475fad39369ea865fb5b"><span data-offset-key="7f1b4ffe181a475fad39369ea865fb5b:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3.1-mutation-update-cache/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b3e6c3478fe04eeab25f82f5c30d78d4" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="8474fe86c6324b8885591a445e3e2098"><span data-offset-key="8474fe86c6324b8885591a445e3e2098:0">Mutation and update cache</span></span></span></a><span data-key="f65f571612c8437aaf721075f8cedeb5"><span data-offset-key="f65f571612c8437aaf721075f8cedeb5:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    -   
+    - <span data-key="28629310ff4e47f3b3eb99ed0f426592"><span data-offset-key="28629310ff4e47f3b3eb99ed0f426592:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3.2-bulk-delete-mutation/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="98152152f33a4f10aaf03df6ba009d3c" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="9533f8fcbaf041f985466c4cc53a5045"><span data-offset-key="9533f8fcbaf041f985466c4cc53a5045:0">Bulk delete todos - mutation</span></span></span></a><span data-key="df1d0ba40e29412293d2ed5e163be158"><span data-offset-key="df1d0ba40e29412293d2ed5e163be158:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        <span data-key="014dedbc77c8458d82d3dfe74b97e469"><span data-offset-key="014dedbc77c8458d82d3dfe74b97e469:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d3730fd7269143de8225fabd644a40ec" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="23e15bea1b4e4521980cf0dfeac5e3bc"><span data-offset-key="23e15bea1b4e4521980cf0dfeac5e3bc:0">Queries</span></span></span></a><span data-key="4746d3f8f4c14682b8f7b224d4469da3"><span data-offset-key="4746d3f8f4c14682b8f7b224d4469da3:0"><span data-slate-zero-width="z">​</span></span></span>
+    - <span data-key="31b3ac23aa0d44c5bd2200f4fbe6e7ca"><span data-offset-key="31b3ac23aa0d44c5bd2200f4fbe6e7ca:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3.3-clear-completed/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f8974eb3c6204268bb4a67f549ab8ab3" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="e865057146a04d819b20477bc6d61ed7"><span data-offset-key="e865057146a04d819b20477bc6d61ed7:0">Mutation and update cache</span></span></span></a><span data-key="ebc4e736c655413695bc23d9dd574952"><span data-offset-key="ebc4e736c655413695bc23d9dd574952:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
+  - <span data-key="4eee75098145460ea1ceaa0314c5a97d"><span data-offset-key="4eee75098145460ea1ceaa0314c5a97d:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/subscriptions/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5585e2fa0c7c47258b732aae7ed75785" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="bc93fc63cacf4390b39dbda4639178c2"><span data-offset-key="bc93fc63cacf4390b39dbda4639178c2:0">Subscriptions to show online users</span></span></span></a><span data-key="3ccd5a0be33d47479783d11eccec2a77"><span data-offset-key="3ccd5a0be33d47479783d11eccec2a77:0"><span data-slate-zero-width="z">​</span></span></span>
 
-            <span data-key="f82aabfbc7954269a36be3b531814da9"><span data-offset-key="f82aabfbc7954269a36be3b531814da9:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/1-fetch-todos-query/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e72fc02a06984601b3e60adaa3ff04e1" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="cdd065f5512b430982f8817f5533daf3"><span data-offset-key="cdd065f5512b430982f8817f5533daf3:0">Fetch todos - query</span></span></span></a><span data-key="17a92dee86f24634a34aa91b4751b666"><span data-offset-key="17a92dee86f24634a34aa91b4751b666:0"><span data-slate-zero-width="z">​</span></span></span>
+    - <span data-key="d21ca13eab664ee1a1a73948a86da506"><span data-offset-key="d21ca13eab664ee1a1a73948a86da506:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/subscriptions/1-apollo-subscription/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="143f822c169142d3b254f4eb4799b862" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="2a35d8c64c5c4527863145fdf4a2a114"><span data-offset-key="2a35d8c64c5c4527863145fdf4a2a114:0">Apollo useSubscription React hook</span></span></span></a><span data-key="86a63044f908422cac117608a3a50748"><span data-offset-key="86a63044f908422cac117608a3a50748:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
+    - <span data-key="42fb4008a02a4d7fbb90ee44bf18badc"><span data-offset-key="42fb4008a02a4d7fbb90ee44bf18badc:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/subscriptions/2-create-subscription/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="10224e6738494f71b6515450aeda3fc5" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="33c48d7a628344409fd56d24abb8cee5"><span data-offset-key="33c48d7a628344409fd56d24abb8cee5:0">Create Subscription and Render Result</span></span></span></a><span data-key="2855357f992d4e78a9e03916856c67a8"><span data-offset-key="2855357f992d4e78a9e03916856c67a8:0"><span data-slate-zero-width="z">​</span></span></span>
 
-            <span data-key="eb617791937a4b069f1c5a460631fe6a"><span data-offset-key="eb617791937a4b069f1c5a460631fe6a:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/2-create-query/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ac1d2e42175942fc93e4b9f61b50cbe8" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="1797e73c74954f178d0126441fb521f0"><span data-offset-key="1797e73c74954f178d0126441fb521f0:0">useQuery hook</span></span></span></a><span data-key="8e63bb3ba0144d788bc2bceb4bdbba91"><span data-offset-key="8e63bb3ba0144d788bc2bceb4bdbba91:0"><span data-slate-zero-width="z">​</span></span></span>
+  - <span data-key="af03f016340e448798c555501898ebe4"><span data-offset-key="af03f016340e448798c555501898ebe4:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/realtime-feed/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4c0094ee534e4b4f9311f79c46faae30" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="db69b8a82f234f0a9cc4ddc612998472"><span data-offset-key="db69b8a82f234f0a9cc4ddc612998472:0">Realtime Feed</span></span></span></a><span data-key="82d3e5b392c94c6eb6837b40be2eb1f0"><span data-offset-key="82d3e5b392c94c6eb6837b40be2eb1f0:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
+    - <span data-key="91f03cb724084ae2bda851fa310c4f36"><span data-offset-key="91f03cb724084ae2bda851fa310c4f36:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/realtime-feed/1-fetch-public/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="488984bb8e4e4a869fbf23b0cc506a99" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="736946ccfbc84d4cb293a85154d4084d"><span data-offset-key="736946ccfbc84d4cb293a85154d4084d:0">Fetch public todos - subscription</span></span></span></a><span data-key="b4babe3ee4e24ad080414152b53b9d1a"><span data-offset-key="b4babe3ee4e24ad080414152b53b9d1a:0"><span data-slate-zero-width="z">​</span></span></span>
 
-            <span data-key="23616a3b45c9432d8cda3c140ecd66d2"><span data-offset-key="23616a3b45c9432d8cda3c140ecd66d2:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/3-handle-errors/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cf2eefd79f784865a448212677fdd1c3" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="6fbd1932f9fe4c83821429c12ad93090"><span data-offset-key="6fbd1932f9fe4c83821429c12ad93090:0">Handle loading/errors</span></span></span></a><span data-key="2f54be724d3a42a2b396e18e1a4a1d59"><span data-offset-key="2f54be724d3a42a2b396e18e1a4a1d59:0"><span data-slate-zero-width="z">​</span></span></span>
+    - <span data-key="987ce72feb8f4499b2e5cceadc51f2ff"><span data-offset-key="987ce72feb8f4499b2e5cceadc51f2ff:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/realtime-feed/2-sync-todo/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2b84b52484cd40a28493fa021e2e3127" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="a8996b61f54246d58a7eaca7c976bc31"><span data-offset-key="a8996b61f54246d58a7eaca7c976bc31:0">Sync new todos</span></span></span></a><span data-key="80b7223fc9b34ad693b91267063845f7"><span data-offset-key="80b7223fc9b34ad693b91267063845f7:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    -   
+  - <span data-key="5eea718984e6468fbcdda180e8bd9a2a"><span data-offset-key="5eea718984e6468fbcdda180e8bd9a2a:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/deployment/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ced1200caf1a47c08498099d40214105" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="b3353606aab24a48b7d079d065f7fec2"><span data-offset-key="b3353606aab24a48b7d079d065f7fec2:0">Deployment</span></span></span></a><span data-key="4c97f396ecff4a43be43c6596e4220d3"><span data-offset-key="4c97f396ecff4a43be43c6596e4220d3:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        <span data-key="9553112912694deb94f62b4997835eed"><span data-offset-key="9553112912694deb94f62b4997835eed:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4ff17d31452a4929ac0be76f976d4ca7" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="b35fa9456a7e40278722fe9cd70c43a7"><span data-offset-key="b35fa9456a7e40278722fe9cd70c43a7:0">Mutations &amp; Query variables</span></span></span></a><span data-key="9223911a05864f3e8c540646c3b631e3"><span data-offset-key="9223911a05864f3e8c540646c3b631e3:0"><span data-slate-zero-width="z">​</span></span></span>
+  - <span data-key="c099f2c026ad44d68b246d5041879663"><span data-offset-key="c099f2c026ad44d68b246d5041879663:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/what-next/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b51bb8d280d1479ca14ad5dc5cc872dc" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="6110201f75494d668f24213b1e3cb9ac"><span data-offset-key="6110201f75494d668f24213b1e3cb9ac:0">What next?</span></span></span></a><span data-key="7fd80b26ccb64740956d57336995cfc4"><span data-offset-key="7fd80b26ccb64740956d57336995cfc4:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
+- <span data-key="636915134cf24450aabb13ef23916944"><span data-offset-key="636915134cf24450aabb13ef23916944:0"><span data-slate-zero-width="n">​</span></span></span>
 
-            <span data-key="a73af6fab36b4b8b949c5fdfe391210a"><span data-offset-key="a73af6fab36b4b8b949c5fdfe391210a:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/1-create-todo/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a0cdf05846cf4015b585483e5fb0c9f7" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="fc233b7e906c403dad5868491090267e"><span data-offset-key="fc233b7e906c403dad5868491090267e:0">Create todos - mutation</span></span></span></a><span data-key="22110dfd4be04caf99e8fd679d6c94e7"><span data-offset-key="22110dfd4be04caf99e8fd679d6c94e7:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="830d0a3f8197406c837b8111e7359772"><span data-offset-key="830d0a3f8197406c837b8111e7359772:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/docs/latest/graphql/core/index.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="114c0bd120ae418595796759d7d5fc5a" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="8d36db3c807046fabee93a417908b85f"><span data-offset-key="8d36db3c807046fabee93a417908b85f:0">Hasura Docs</span></span></span></a><span data-key="368bf164dfbd4691a845309640d13831"><span data-offset-key="368bf164dfbd4691a845309640d13831:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        -   
-
-            <span data-key="0bd2e41f0e1340a09c294ef2c5d18602"><span data-offset-key="0bd2e41f0e1340a09c294ef2c5d18602:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/2-query-variables/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="50942e0075a3434f910a4802aa25eaf3" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="eb31d277e0ed45cc80e21449b3a453dd"><span data-offset-key="eb31d277e0ed45cc80e21449b3a453dd:0">Query Variables</span></span></span></a><span data-key="5bad1dad6f9c4aeeab383d6e93bad3f9"><span data-offset-key="5bad1dad6f9c4aeeab383d6e93bad3f9:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="e7c6a0815e604d508b23058b9de7f8c6"><span data-offset-key="e7c6a0815e604d508b23058b9de7f8c6:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/3-create-mutation/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="63d0c83341f84d46910f27392f3ab412" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="216ea3f35b3549f9bd0969ae3e4a4727"><span data-offset-key="216ea3f35b3549f9bd0969ae3e4a4727:0">useMutation Hook, Update Cache</span></span></span></a><span data-key="0f5c9fae1db54c49ab21739119f9dbee"><span data-offset-key="0f5c9fae1db54c49ab21739119f9dbee:0"><span data-slate-zero-width="z">​</span></span></span>
-
-    -   
-
-        <span data-key="a12e6e754dd3447f9b3821549589df56"><span data-offset-key="a12e6e754dd3447f9b3821549589df56:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a7c9d8eb5cd04e188250ab85f3ee1d8e" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="5552d747eb4643ac88d779850f29a022"><span data-offset-key="5552d747eb4643ac88d779850f29a022:0">Optimistic UI</span></span></span></a><span data-key="d4f9b5e9f28848ae9f57b6e9f3110b05"><span data-offset-key="d4f9b5e9f28848ae9f57b6e9f3110b05:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="c09dbee349af4a8ea7ef0a2f6e9b8008"><span data-offset-key="c09dbee349af4a8ea7ef0a2f6e9b8008:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/1-update-todos/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e9cbf836a11a4760a1e9012edac4f5d5" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="f4a81ca738784b04af43c6e554b5d78b"><span data-offset-key="f4a81ca738784b04af43c6e554b5d78b:0">Update todos - mutation</span></span></span></a><span data-key="66cc3e7d4f43414fa846441538654a1d"><span data-offset-key="66cc3e7d4f43414fa846441538654a1d:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="f479d1c611e7486a899e613af056bf7d"><span data-offset-key="f479d1c611e7486a899e613af056bf7d:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/2-mutation-cache/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="eae97ead2e4a42ed9e96111358bf6c79" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="5e06561e19b7496e8dae3ae24a2e5f62"><span data-offset-key="5e06561e19b7496e8dae3ae24a2e5f62:0">Mutation and update cache</span></span></span></a><span data-key="890585311f3a458f9ab0ab600eeeaa07"><span data-offset-key="890585311f3a458f9ab0ab600eeeaa07:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="32cdbfcfdc264d05a25e46df0bff5d16"><span data-offset-key="32cdbfcfdc264d05a25e46df0bff5d16:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3-remove-todos/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="694d205848664df9bda92f843a9f8137" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="c19f35c23325462e81947a0b73a4835f"><span data-offset-key="c19f35c23325462e81947a0b73a4835f:0">Remove todos - mutation</span></span></span></a><span data-key="1ac58f7e1b1f4e83a97bc17f74925ac5"><span data-offset-key="1ac58f7e1b1f4e83a97bc17f74925ac5:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="7f1b4ffe181a475fad39369ea865fb5b"><span data-offset-key="7f1b4ffe181a475fad39369ea865fb5b:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3.1-mutation-update-cache/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b3e6c3478fe04eeab25f82f5c30d78d4" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="8474fe86c6324b8885591a445e3e2098"><span data-offset-key="8474fe86c6324b8885591a445e3e2098:0">Mutation and update cache</span></span></span></a><span data-key="f65f571612c8437aaf721075f8cedeb5"><span data-offset-key="f65f571612c8437aaf721075f8cedeb5:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="28629310ff4e47f3b3eb99ed0f426592"><span data-offset-key="28629310ff4e47f3b3eb99ed0f426592:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3.2-bulk-delete-mutation/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="98152152f33a4f10aaf03df6ba009d3c" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="9533f8fcbaf041f985466c4cc53a5045"><span data-offset-key="9533f8fcbaf041f985466c4cc53a5045:0">Bulk delete todos - mutation</span></span></span></a><span data-key="df1d0ba40e29412293d2ed5e163be158"><span data-offset-key="df1d0ba40e29412293d2ed5e163be158:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="31b3ac23aa0d44c5bd2200f4fbe6e7ca"><span data-offset-key="31b3ac23aa0d44c5bd2200f4fbe6e7ca:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3.3-clear-completed/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f8974eb3c6204268bb4a67f549ab8ab3" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="e865057146a04d819b20477bc6d61ed7"><span data-offset-key="e865057146a04d819b20477bc6d61ed7:0">Mutation and update cache</span></span></span></a><span data-key="ebc4e736c655413695bc23d9dd574952"><span data-offset-key="ebc4e736c655413695bc23d9dd574952:0"><span data-slate-zero-width="z">​</span></span></span>
-
-    -   
-
-        <span data-key="4eee75098145460ea1ceaa0314c5a97d"><span data-offset-key="4eee75098145460ea1ceaa0314c5a97d:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/subscriptions/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5585e2fa0c7c47258b732aae7ed75785" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="bc93fc63cacf4390b39dbda4639178c2"><span data-offset-key="bc93fc63cacf4390b39dbda4639178c2:0">Subscriptions to show online users</span></span></span></a><span data-key="3ccd5a0be33d47479783d11eccec2a77"><span data-offset-key="3ccd5a0be33d47479783d11eccec2a77:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="d21ca13eab664ee1a1a73948a86da506"><span data-offset-key="d21ca13eab664ee1a1a73948a86da506:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/subscriptions/1-apollo-subscription/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="143f822c169142d3b254f4eb4799b862" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="2a35d8c64c5c4527863145fdf4a2a114"><span data-offset-key="2a35d8c64c5c4527863145fdf4a2a114:0">Apollo useSubscription React hook</span></span></span></a><span data-key="86a63044f908422cac117608a3a50748"><span data-offset-key="86a63044f908422cac117608a3a50748:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="42fb4008a02a4d7fbb90ee44bf18badc"><span data-offset-key="42fb4008a02a4d7fbb90ee44bf18badc:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/subscriptions/2-create-subscription/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="10224e6738494f71b6515450aeda3fc5" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="33c48d7a628344409fd56d24abb8cee5"><span data-offset-key="33c48d7a628344409fd56d24abb8cee5:0">Create Subscription and Render Result</span></span></span></a><span data-key="2855357f992d4e78a9e03916856c67a8"><span data-offset-key="2855357f992d4e78a9e03916856c67a8:0"><span data-slate-zero-width="z">​</span></span></span>
-
-    -   
-
-        <span data-key="af03f016340e448798c555501898ebe4"><span data-offset-key="af03f016340e448798c555501898ebe4:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/realtime-feed/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4c0094ee534e4b4f9311f79c46faae30" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="db69b8a82f234f0a9cc4ddc612998472"><span data-offset-key="db69b8a82f234f0a9cc4ddc612998472:0">Realtime Feed</span></span></span></a><span data-key="82d3e5b392c94c6eb6837b40be2eb1f0"><span data-offset-key="82d3e5b392c94c6eb6837b40be2eb1f0:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="91f03cb724084ae2bda851fa310c4f36"><span data-offset-key="91f03cb724084ae2bda851fa310c4f36:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/realtime-feed/1-fetch-public/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="488984bb8e4e4a869fbf23b0cc506a99" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="736946ccfbc84d4cb293a85154d4084d"><span data-offset-key="736946ccfbc84d4cb293a85154d4084d:0">Fetch public todos - subscription</span></span></span></a><span data-key="b4babe3ee4e24ad080414152b53b9d1a"><span data-offset-key="b4babe3ee4e24ad080414152b53b9d1a:0"><span data-slate-zero-width="z">​</span></span></span>
-
-        -   
-
-            <span data-key="987ce72feb8f4499b2e5cceadc51f2ff"><span data-offset-key="987ce72feb8f4499b2e5cceadc51f2ff:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/realtime-feed/2-sync-todo/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2b84b52484cd40a28493fa021e2e3127" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="a8996b61f54246d58a7eaca7c976bc31"><span data-offset-key="a8996b61f54246d58a7eaca7c976bc31:0">Sync new todos</span></span></span></a><span data-key="80b7223fc9b34ad693b91267063845f7"><span data-offset-key="80b7223fc9b34ad693b91267063845f7:0"><span data-slate-zero-width="z">​</span></span></span>
-
-    -   
-
-        <span data-key="5eea718984e6468fbcdda180e8bd9a2a"><span data-offset-key="5eea718984e6468fbcdda180e8bd9a2a:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/deployment/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ced1200caf1a47c08498099d40214105" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="b3353606aab24a48b7d079d065f7fec2"><span data-offset-key="b3353606aab24a48b7d079d065f7fec2:0">Deployment</span></span></span></a><span data-key="4c97f396ecff4a43be43c6596e4220d3"><span data-offset-key="4c97f396ecff4a43be43c6596e4220d3:0"><span data-slate-zero-width="z">​</span></span></span>
-
-    -   
-
-        <span data-key="c099f2c026ad44d68b246d5041879663"><span data-offset-key="c099f2c026ad44d68b246d5041879663:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/what-next/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b51bb8d280d1479ca14ad5dc5cc872dc" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="6110201f75494d668f24213b1e3cb9ac"><span data-offset-key="6110201f75494d668f24213b1e3cb9ac:0">What next?</span></span></span></a><span data-key="7fd80b26ccb64740956d57336995cfc4"><span data-offset-key="7fd80b26ccb64740956d57336995cfc4:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="636915134cf24450aabb13ef23916944"><span data-offset-key="636915134cf24450aabb13ef23916944:0"><span data-slate-zero-width="n">​</span></span></span>
-
--   
-
-    <span data-key="830d0a3f8197406c837b8111e7359772"><span data-offset-key="830d0a3f8197406c837b8111e7359772:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/docs/latest/graphql/core/index.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="114c0bd120ae418595796759d7d5fc5a" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="8d36db3c807046fabee93a417908b85f"><span data-offset-key="8d36db3c807046fabee93a417908b85f:0">Hasura Docs</span></span></span></a><span data-key="368bf164dfbd4691a845309640d13831"><span data-offset-key="368bf164dfbd4691a845309640d13831:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="806c682392324951bc8f16d9ef28efff"><span data-offset-key="806c682392324951bc8f16d9ef28efff:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/graphql/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="aa4ca354c0da4b79b802882baa607fe0" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="cc31efa7746e4043ae3f074d066a5540"><span data-offset-key="cc31efa7746e4043ae3f074d066a5540:0">GraphQL API</span></span></span></a><span data-key="02dad2c91ade445a9b04009db2c97fde"><span data-offset-key="02dad2c91ade445a9b04009db2c97fde:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="806c682392324951bc8f16d9ef28efff"><span data-offset-key="806c682392324951bc8f16d9ef28efff:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/graphql/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="aa4ca354c0da4b79b802882baa607fe0" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="cc31efa7746e4043ae3f074d066a5540"><span data-offset-key="cc31efa7746e4043ae3f074d066a5540:0">GraphQL API</span></span></span></a><span data-key="02dad2c91ade445a9b04009db2c97fde"><span data-offset-key="02dad2c91ade445a9b04009db2c97fde:0"><span data-slate-zero-width="z">​</span></span></span>
 
 <span data-key="696a1058d04241bdb696155e8d0da910"><span data-offset-key="696a1058d04241bdb696155e8d0da910:0">Intro to GraphQL</span></span>
 
@@ -522,37 +444,23 @@ Copied!
 
 <span data-key="3400cc7b7d8847549a06c6ad3f34712d"><span data-offset-key="3400cc7b7d8847549a06c6ad3f34712d:0">We're changing the way we think about API calls. Instead of making different API calls to different URLs to fetch data, we're making ad-hoc queries to a "single URL endpoint" that returns data based on the query.</span></span>
 
--   
+- <span data-key="feb7e0043611472bb767fadf3c9bbc79"><span data-offset-key="feb7e0043611472bb767fadf3c9bbc79:0">Instead of 'GET'ing a resource you 'POST' a query that describes what data you want.</span></span>
 
-    <span data-key="feb7e0043611472bb767fadf3c9bbc79"><span data-offset-key="feb7e0043611472bb767fadf3c9bbc79:0">Instead of 'GET'ing a resource you 'POST' a query that describes what data you want.</span></span>
+- <span data-key="c080d2a2bb6e46f2bcd29d34c12c2551"><span data-offset-key="c080d2a2bb6e46f2bcd29d34c12c2551:0">You think of the data your API returns as a "graph", this allows you to make queries to fetch "related" pieces of data in a single shot. In the example above, you fetch the user and the user's address (as a nested JSON object) in the same API call, as opposed to making 2 API calls.</span></span>
 
--   
-
-    <span data-key="c080d2a2bb6e46f2bcd29d34c12c2551"><span data-offset-key="c080d2a2bb6e46f2bcd29d34c12c2551:0">You think of the data your API returns as a "graph", this allows you to make queries to fetch "related" pieces of data in a single shot. In the example above, you fetch the user and the user's address (as a nested JSON object) in the same API call, as opposed to making 2 API calls.</span></span>
-
--   
-
-    <span data-key="0dde1535aa6844c8a3d61d37c697c329"><span data-offset-key="0dde1535aa6844c8a3d61d37c697c329:0">The "query" you send as data in the POST request has a structure and a syntax. This "language" is called GraphQL.</span></span>
+- <span data-key="0dde1535aa6844c8a3d61d37c697c329"><span data-offset-key="0dde1535aa6844c8a3d61d37c697c329:0">The "query" you send as data in the POST request has a structure and a syntax. This "language" is called GraphQL.</span></span>
 
 <span data-key="48ea2bc6ee3c407faf5c6fb2ab2c4276"><span data-offset-key="48ea2bc6ee3c407faf5c6fb2ab2c4276:0">As you can see in the example above, GraphQL queries look very neat and easy to read! This is because the query is the "shape" of the final JSON data you desire. This is one of the key-reasons that makes GraphQL a joy to work with!</span></span>
 
 <span data-key="52cd6aa07b614dc19fdc6f37cd2ca593"><span data-offset-key="52cd6aa07b614dc19fdc6f37cd2ca593:0">GraphQL benefits</span></span>
 
--   
+- <span data-key="1ea656afcb494b589c081fea3b665557">**Avoid over-fetching**<span data-offset-key="1ea656afcb494b589c081fea3b665557:1">: You avoid fetching more data than you need because you can specify the exact </span>**fields**<span data-offset-key="1ea656afcb494b589c081fea3b665557:3"> you need.</span></span>
 
-    <span data-key="1ea656afcb494b589c081fea3b665557">**Avoid over-fetching**<span data-offset-key="1ea656afcb494b589c081fea3b665557:1">: You avoid fetching more data than you need because you can specify the exact </span>**fields**<span data-offset-key="1ea656afcb494b589c081fea3b665557:3"> you need.</span></span>
+- <span data-key="629c84984c3041eb8eccf96b29075e4b">**Prevent multiple API calls**<span data-offset-key="629c84984c3041eb8eccf96b29075e4b:1">: In case you need more data, you can also avoid making multiple calls to your API. In the case above, you don't need to make 2 API calls to fetch </span>`user`<span data-offset-key="629c84984c3041eb8eccf96b29075e4b:3"> and </span>`address`<span data-offset-key="629c84984c3041eb8eccf96b29075e4b:5"> separately.</span></span>
 
--   
+- <span data-key="2f317caac8a74103b6e9c6302c5dda4d">**Lesser communication with API developers**<span data-offset-key="2f317caac8a74103b6e9c6302c5dda4d:1">: Sometimes to fetch the exact data you need, especially if you need to fetch more data and want to avoid multiple API calls, you will need to ask your API developers to build a new API. With GraphQL, your work is </span>_independent_<span data-offset-key="2f317caac8a74103b6e9c6302c5dda4d:3"> of the API team! This allows you to work faster on your app.</span></span>
 
-    <span data-key="629c84984c3041eb8eccf96b29075e4b">**Prevent multiple API calls**<span data-offset-key="629c84984c3041eb8eccf96b29075e4b:1">: In case you need more data, you can also avoid making multiple calls to your API. In the case above, you don't need to make 2 API calls to fetch </span>`user`<span data-offset-key="629c84984c3041eb8eccf96b29075e4b:3"> and </span>`address`<span data-offset-key="629c84984c3041eb8eccf96b29075e4b:5"> separately.</span></span>
-
--   
-
-    <span data-key="2f317caac8a74103b6e9c6302c5dda4d">**Lesser communication with API developers**<span data-offset-key="2f317caac8a74103b6e9c6302c5dda4d:1">: Sometimes to fetch the exact data you need, especially if you need to fetch more data and want to avoid multiple API calls, you will need to ask your API developers to build a new API. With GraphQL, your work is </span>*independent*<span data-offset-key="2f317caac8a74103b6e9c6302c5dda4d:3"> of the API team! This allows you to work faster on your app.</span></span>
-
--   
-
-    <span data-key="cc2b8748b83241ffa077d3f6ee327d24">**Self-documenting**<span data-offset-key="cc2b8748b83241ffa077d3f6ee327d24:1">: Every GraphQL API conforms to a "schema" which is the graph data model and what kinds of queries a client can make. This allows the community to build lots of cool tools to explore & visualise your API or create IDE plugins that autocomplete your GraphQL queries and even do "codegen". We'll understand this in more detail later!</span></span>
+- <span data-key="cc2b8748b83241ffa077d3f6ee327d24">**Self-documenting**<span data-offset-key="cc2b8748b83241ffa077d3f6ee327d24:1">: Every GraphQL API conforms to a "schema" which is the graph data model and what kinds of queries a client can make. This allows the community to build lots of cool tools to explore & visualise your API or create IDE plugins that autocomplete your GraphQL queries and even do "codegen". We'll understand this in more detail later!</span></span>
 
 <span data-key="ead507cf528043dda47c6fe59aab9662"><span data-offset-key="ead507cf528043dda47c6fe59aab9662:0">Here's a quick chart to show you the GraphQL analogs of typical REST-ish terms:</span></span>
 
@@ -637,7 +545,7 @@ Copied!
 
 <span data-key="8abef554f5224fa1910e83343a835b39"><span data-offset-key="8abef554f5224fa1910e83343a835b39:0">Let's try making queries that fetch different slices of our data from the overall "graph".</span></span>
 
-### 
+###
 
 <span data-key="06cf99d4ef1b49e1872617bc3810551e"><span data-offset-key="06cf99d4ef1b49e1872617bc3810551e:0">Fetch users and their todos</span></span>
 
@@ -651,7 +559,7 @@ Copied!
 
 <span data-key="990ebef653f94c07a041a2c223adbdba"><span data-offset-key="990ebef653f94c07a041a2c223adbdba:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/graphiql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="47d956567de5499186c75687e0c09115" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="fc0ddcfede8f40d0b18b852f1acfefec"><strong>Try it out in GraphiQL</strong></span></span></a><span data-key="a1dd488ceb9e4a10b35a398305c041c5"><span data-offset-key="a1dd488ceb9e4a10b35a398305c041c5:0"><span data-slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span data-key="3dffe6893cd443019d524053373eecd1"><span data-offset-key="3dffe6893cd443019d524053373eecd1:0">Fetch online users and their profile information</span></span>
 
@@ -659,7 +567,7 @@ Copied!
 
 1
 
-<span data-key="a25bc1f448974380957769095ac76212"><span data-offset-key="a25bc1f448974380957769095ac76212:0"> query { online\_users { last\_seen user { name } } }</span></span>
+<span data-key="a25bc1f448974380957769095ac76212"><span data-offset-key="a25bc1f448974380957769095ac76212:0"> query { online_users { last_seen user { name } } }</span></span>
 
 Copied!
 
@@ -669,9 +577,9 @@ Copied!
 
 <span data-key="07cabf0d90674f5ab8cb7bb53b5e9097"><span data-offset-key="07cabf0d90674f5ab8cb7bb53b5e9097:0">In most API calls, you usually use parameters. For example, to specify what data you're fetching. If you're familiar with making </span>`GET`<span data-offset-key="07cabf0d90674f5ab8cb7bb53b5e9097:2"> calls, you would have used a query parameter. For example, to fetch only 10 todos you might have made this API call: </span>`GET /api/todos?limit=10`<span data-offset-key="07cabf0d90674f5ab8cb7bb53b5e9097:4">.</span></span>
 
-<span data-key="d4e66020d21441e693785ff1e81809a4"><span data-offset-key="d4e66020d21441e693785ff1e81809a4:0">The GraphQL query analog of this is </span>*arguments*<span data-offset-key="d4e66020d21441e693785ff1e81809a4:2"> that you can attach to a "field".</span></span>
+<span data-key="d4e66020d21441e693785ff1e81809a4"><span data-offset-key="d4e66020d21441e693785ff1e81809a4:0">The GraphQL query analog of this is </span>_arguments_<span data-offset-key="d4e66020d21441e693785ff1e81809a4:2"> that you can attach to a "field".</span></span>
 
-### 
+###
 
 <span data-key="20478bb24b914b468861702d1d1f1d46"><span data-offset-key="20478bb24b914b468861702d1d1f1d46:0">Basic argument: Fetch 10 todos</span></span>
 
@@ -687,13 +595,13 @@ Copied!
 
 <span data-key="82c3ce51a8e145db8d38bb13a67bce64"><span data-offset-key="82c3ce51a8e145db8d38bb13a67bce64:0">The most important bit to check here is </span>`limit: 10`<span data-offset-key="82c3ce51a8e145db8d38bb13a67bce64:2">. GraphQL servers will provide a list of arguments that can be used in </span>`()`<span data-offset-key="82c3ce51a8e145db8d38bb13a67bce64:4"> next to specific fields. In our case, we are using Hasura for creating the GraphQL backend which provides filter, sort and pagination arguments. The GraphQL server or API that you use, might provide a different set of arguments that can be used.</span></span>
 
-### 
+###
 
 <span data-key="115b463fdd9c4ce983054ec174b3948c"><span data-offset-key="115b463fdd9c4ce983054ec174b3948c:0">Multiple arguments on multiple fields: Fetch 1 user and 5 most recent todos for each user</span></span>
 
 1
 
-<span data-key="e0729b7ef0fc496fabc6f17631c94e64"><span data-offset-key="e0729b7ef0fc496fabc6f17631c94e64:0">query { users (limit: 1) { id name todos(order\_by: {created\_at: desc}, limit: 5) { id title } }}</span></span>
+<span data-key="e0729b7ef0fc496fabc6f17631c94e64"><span data-offset-key="e0729b7ef0fc496fabc6f17631c94e64:0">query { users (limit: 1) { id name todos(order_by: {created_at: desc}, limit: 5) { id title } }}</span></span>
 
 Copied!
 
@@ -755,17 +663,11 @@ Copied!
 
 <span data-key="6db0847c8a734b4c988214b57a35ecf4"><span data-offset-key="6db0847c8a734b4c988214b57a35ecf4:0">Summary</span></span>
 
--   
+- <span data-key="dab7ad2d63a54409bd2e53380fa13e63"><span data-offset-key="dab7ad2d63a54409bd2e53380fa13e63:0">You can now make GraphQL queries</span></span>
 
-    <span data-key="dab7ad2d63a54409bd2e53380fa13e63"><span data-offset-key="dab7ad2d63a54409bd2e53380fa13e63:0">You can now make GraphQL queries</span></span>
+- <span data-key="d24a0ba616e24f129a69c1ed82d198ff"><span data-offset-key="d24a0ba616e24f129a69c1ed82d198ff:0">You know how to pass arguments to your GraphQL queries</span></span>
 
--   
-
-    <span data-key="d24a0ba616e24f129a69c1ed82d198ff"><span data-offset-key="d24a0ba616e24f129a69c1ed82d198ff:0">You know how to pass arguments to your GraphQL queries</span></span>
-
--   
-
-    <span data-key="711568a30a2a44f982cd5d840ef7d898"><span data-offset-key="711568a30a2a44f982cd5d840ef7d898:0">You know how to make your arguments dynamic by using query variables</span></span>
+- <span data-key="711568a30a2a44f982cd5d840ef7d898"><span data-offset-key="711568a30a2a44f982cd5d840ef7d898:0">You know how to make your arguments dynamic by using query variables</span></span>
 
 <span data-key="42cd7034c74f4d1897291f095581c4c5"><span data-offset-key="42cd7034c74f4d1897291f095581c4c5:0">Next, let's look at writing data and not just fetching data!</span></span>
 
@@ -781,12 +683,12 @@ Copied!
 
 <span data-key="c82031aa93ee42efac6306e572bf0d16"><span data-offset-key="c82031aa93ee42efac6306e572bf0d16:0">GraphQL over HTTP</span></span>
 
-### 
+###
 
 <span data-key="b834792a12e14e16b293ffb200b4e408"><span data-offset-key="b834792a12e14e16b293ffb200b4e408:0">GraphQL client-server flow:</span></span>
 
 1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">1.</span>
-    <span data-key="06101a3c1c02426f9d40f98ddb8f4395"><span data-offset-key="06101a3c1c02426f9d40f98ddb8f4395:0">Note that the GraphQL query is not really JSON; it looks like the shape of the JSON you </span>*want*<span data-offset-key="06101a3c1c02426f9d40f98ddb8f4395:2">. So when we make a 'POST' request to send our GraphQL query to the server, it is sent as a "string" by the client.</span></span>
+    <span data-key="06101a3c1c02426f9d40f98ddb8f4395"><span data-offset-key="06101a3c1c02426f9d40f98ddb8f4395:0">Note that the GraphQL query is not really JSON; it looks like the shape of the JSON you </span>_want_<span data-offset-key="06101a3c1c02426f9d40f98ddb8f4395:2">. So when we make a 'POST' request to send our GraphQL query to the server, it is sent as a "string" by the client.</span></span>
 
 2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">2.</span>
     <span data-key="b7848323465741cc9175c8dc315bd4cd"><span data-offset-key="b7848323465741cc9175c8dc315bd4cd:0">The server gets the JSON object and extracts the query string. As per the GraphQL syntax and the graph data model (GraphQL schema), the server processes and validates the GraphQL query.</span></span>
@@ -797,7 +699,7 @@ Copied!
 4.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">4.</span>
     <span data-key="3ac3c595d3964685aae434fc3ec9cd41"><span data-offset-key="3ac3c595d3964685aae434fc3ec9cd41:0">The server then takes the data and returns it to the client in a JSON object.</span></span>
 
-### 
+###
 
 <span data-key="3212128b5a5c4aa3818c06603e5f90d1"><span data-offset-key="3212128b5a5c4aa3818c06603e5f90d1:0">Example GraphQL client setup:</span></span>
 
@@ -823,13 +725,9 @@ Copied!
 
 <span data-key="c8c578c57366424ab436c0f786525bd6"><span data-offset-key="c8c578c57366424ab436c0f786525bd6:0">These are the concepts you should know before you attack mutations (haha):</span></span>
 
--   
+- <span data-key="8f96429b20044d27bbbba42a08ad1e5a"><span data-offset-key="8f96429b20044d27bbbba42a08ad1e5a:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/2-fetching-data-queries/#tryoutgraphqlqueries" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5ded848ffd704bd68fc55be445f90931" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="81b71bc5650a4330a435ee1c9a6bece1"><span data-offset-key="81b71bc5650a4330a435ee1c9a6bece1:0">Using GraphiQL</span></span></span></a><span data-key="decfa73db99e40cab480fc11de3b80b2"><span data-offset-key="decfa73db99e40cab480fc11de3b80b2:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="8f96429b20044d27bbbba42a08ad1e5a"><span data-offset-key="8f96429b20044d27bbbba42a08ad1e5a:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/2-fetching-data-queries/#tryoutgraphqlqueries" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5ded848ffd704bd68fc55be445f90931" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="81b71bc5650a4330a435ee1c9a6bece1"><span data-offset-key="81b71bc5650a4330a435ee1c9a6bece1:0">Using GraphiQL</span></span></span></a><span data-key="decfa73db99e40cab480fc11de3b80b2"><span data-offset-key="decfa73db99e40cab480fc11de3b80b2:0"><span data-slate-zero-width="z">​</span></span></span>
-
--   
-
-    <span data-key="c5f9f7a453934337b93a2d3793344071"><span data-offset-key="c5f9f7a453934337b93a2d3793344071:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/2-fetching-data-queries/#graphqlvariables:passingargumentstoyourqueriesdynamically" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="27f8de51f00542f68e3e67f28d463192" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="5f56fb080d194f598d91de8fadaf73f9"><span data-offset-key="5f56fb080d194f598d91de8fadaf73f9:0">Using query variables</span></span></span></a><span data-key="0ffac42da17f4a1ba11af57e16360ead"><span data-offset-key="0ffac42da17f4a1ba11af57e16360ead:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="c5f9f7a453934337b93a2d3793344071"><span data-offset-key="c5f9f7a453934337b93a2d3793344071:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/2-fetching-data-queries/#graphqlvariables:passingargumentstoyourqueriesdynamically" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="27f8de51f00542f68e3e67f28d463192" data-rnw-int-class="nearest_260-6967_262-6968-240__"><span data-key="5f56fb080d194f598d91de8fadaf73f9"><span data-offset-key="5f56fb080d194f598d91de8fadaf73f9:0">Using query variables</span></span></span></a><span data-key="0ffac42da17f4a1ba11af57e16360ead"><span data-offset-key="0ffac42da17f4a1ba11af57e16360ead:0"><span data-slate-zero-width="z">​</span></span></span>
 
 <span data-key="54299f8bffb24552b7a394476ef14ae4"><span data-offset-key="54299f8bffb24552b7a394476ef14ae4:0">Now, let's get started with seeing how we can use GraphQL to "write" data. GraphQL mutations are types of GraphQL queries that may result in the state of your backend "mutating" or changing, just like typical </span>`'POST'`<span data-offset-key="54299f8bffb24552b7a394476ef14ae4:2">, </span>`'PUT'`<span data-offset-key="54299f8bffb24552b7a394476ef14ae4:4">, </span>`'PATCH'`<span data-offset-key="54299f8bffb24552b7a394476ef14ae4:6">, </span>`'DELETE'`<span data-offset-key="54299f8bffb24552b7a394476ef14ae4:8"> APIs.</span></span>
 
@@ -839,7 +737,7 @@ Copied!
 
 <span data-key="5b1f0ff8f55d47deb6f34f4f20c7356e"><span data-offset-key="5b1f0ff8f55d47deb6f34f4f20c7356e:0">Let's try these mutations out in the context of a todo app to see what mutations look like. Mutations that you get from another GraphQL service, say if your API team has built their own, might be different.</span></span>
 
-### 
+###
 
 <span data-key="05aa97d16f8046e4a3acebc847ea8e54"><span data-offset-key="05aa97d16f8046e4a3acebc847ea8e54:0">Create a todo</span></span>
 
@@ -851,7 +749,7 @@ Copied!
 
 1
 
-<span data-key="6a779b38075a43a9a008f86cae6d053d"><span data-offset-key="6a779b38075a43a9a008f86cae6d053d:0">mutation { insert\_todos(objects: \[{title: "new todo"}\]) { returning { id } }}</span></span>
+<span data-key="6a779b38075a43a9a008f86cae6d053d"><span data-offset-key="6a779b38075a43a9a008f86cae6d053d:0">mutation { insert_todos(objects: \[{title: "new todo"}\]) { returning { id } }}</span></span>
 
 Copied!
 
@@ -859,13 +757,13 @@ Copied!
 
 <span data-key="8cd8d15dc2d2457b8f82cc94d08ae631"><span data-offset-key="8cd8d15dc2d2457b8f82cc94d08ae631:0">Returning data after the mutation</span></span>
 
-<span data-key="ae71aeea559b448c8233aeff38b9d711"><span data-offset-key="ae71aeea559b448c8233aeff38b9d711:0">Notice that the data of the todo that is to be inserted is sent as an argument to the </span>`insert_todos`<span data-offset-key="ae71aeea559b448c8233aeff38b9d711:2"> mutation. But the "fields" of the mutation specify the shape of the </span>*response*<span data-offset-key="ae71aeea559b448c8233aeff38b9d711:4"> that you want from the server.</span></span>
+<span data-key="ae71aeea559b448c8233aeff38b9d711"><span data-offset-key="ae71aeea559b448c8233aeff38b9d711:0">Notice that the data of the todo that is to be inserted is sent as an argument to the </span>`insert_todos`<span data-offset-key="ae71aeea559b448c8233aeff38b9d711:2"> mutation. But the "fields" of the mutation specify the shape of the </span>_response_<span data-offset-key="ae71aeea559b448c8233aeff38b9d711:4"> that you want from the server.</span></span>
 
 <span data-key="0a6b6f9c856e4894a7676c24cbd7b3c6"><span data-offset-key="0a6b6f9c856e4894a7676c24cbd7b3c6:0">Let's say we'd like to get the entire todo object once it's been created as a response:</span></span>
 
 1
 
-<span data-key="3934d257faef485d9790875cea6cd8d6"><span data-offset-key="3934d257faef485d9790875cea6cd8d6:0">mutation { insert\_todos(objects: \[{title: "new todo"}\]) { returning { id title is\_completed is\_public created\_at } }}</span></span>
+<span data-key="3934d257faef485d9790875cea6cd8d6"><span data-offset-key="3934d257faef485d9790875cea6cd8d6:0">mutation { insert_todos(objects: \[{title: "new todo"}\]) { returning { id title is_completed is_public created_at } }}</span></span>
 
 Copied!
 
@@ -895,13 +793,9 @@ Copied!
 
 <span data-key="33bee61b58a04e7bafa68a5018a3b359"><span data-offset-key="33bee61b58a04e7bafa68a5018a3b359:0">Summary</span></span>
 
--   
+- <span data-key="34148d316fd04b47a884d34bc885e655"><span data-offset-key="34148d316fd04b47a884d34bc885e655:0">You can make basic GraphQL mutations</span></span>
 
-    <span data-key="34148d316fd04b47a884d34bc885e655"><span data-offset-key="34148d316fd04b47a884d34bc885e655:0">You can make basic GraphQL mutations</span></span>
-
--   
-
-    <span data-key="b6857d58d9804200905e42f81e0dfbc9"><span data-offset-key="b6857d58d9804200905e42f81e0dfbc9:0">You can pass dynamic arguments/data to mutations with query variables</span></span>
+- <span data-key="b6857d58d9804200905e42f81e0dfbc9"><span data-offset-key="b6857d58d9804200905e42f81e0dfbc9:0">You can pass dynamic arguments/data to mutations with query variables</span></span>
 
 <span data-key="13dea47e8e5c49a8bee389ed26500cf0"><span data-offset-key="13dea47e8e5c49a8bee389ed26500cf0:0">Next, let's look at GraphQL subscriptions</span></span>
 
@@ -923,7 +817,7 @@ Copied!
 
 1
 
-<span data-key="d73de65d4b01471891460de9713dce03"><span data-offset-key="d73de65d4b01471891460de9713dce03:0">subscription { online\_users { id last\_seen user { name } }}</span></span>
+<span data-key="d73de65d4b01471891460de9713dce03"><span data-offset-key="d73de65d4b01471891460de9713dce03:0">subscription { online_users { id last_seen user { name } }}</span></span>
 
 Copied!
 
@@ -939,9 +833,7 @@ Copied!
 
 <span data-key="f37a608bdc7447e58066a0136f27728b"><span data-offset-key="f37a608bdc7447e58066a0136f27728b:0">Summary</span></span>
 
--   
-
-    <span data-key="fb1c79cd3e914d82a15168627aeec18b"><span data-offset-key="fb1c79cd3e914d82a15168627aeec18b:0">You know how to make GraphQL subscriptions</span></span>
+- <span data-key="fb1c79cd3e914d82a15168627aeec18b"><span data-offset-key="fb1c79cd3e914d82a15168627aeec18b:0">You know how to make GraphQL subscriptions</span></span>
 
 <span data-key="13680266154a4cd397ac2e5de77f6675"><span data-offset-key="13680266154a4cd397ac2e5de77f6675:0">Now that you're comfortable with the basics of using GraphQL, let's start integrating GraphQL APIs with an app!</span></span><span data-slate-void="true" data-key="db6d487fe4b44148ad50ed6a93199931"></span>
 

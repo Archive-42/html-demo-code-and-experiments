@@ -10,8 +10,7 @@ Learn HTML Code, Tags & CSS
 
 New in HTML5.
 
-`<bdi> HTML Tag`
-================
+# `<bdi> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](../index.html), [New](../../new/index.html)</span>
 
@@ -31,13 +30,12 @@ semantic | textual
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> Text Direction](#Text_Direction)
--   [<span class="toc_number toc_depth_1">3</span> Bidirectional Isolation](#Bidirectional_Isolation)
--   [<span class="toc_number toc_depth_1">4</span> Difference between &lt;bdi&gt; and &lt;bdo&gt;](#Difference_between_ltbdigt_and_ltbdogt)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> Text Direction](#Text_Direction)
+- [<span class="toc_number toc_depth_1">3</span> Bidirectional Isolation](#Bidirectional_Isolation)
+- [<span class="toc_number toc_depth_1">4</span> Difference between &lt;bdi&gt; and &lt;bdo&gt;](#Difference_between_ltbdigt_and_ltbdogt)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <p>The Arabic word for "website" is <bdi>موقع الكتروني</bdi>, and in Hebrew it is <bdi>אֲתַר אִינטֶרנֶט</bdi>.</p>
 
@@ -45,36 +43,33 @@ The Arabic word for "website" is موقع الكتروني, and in Hebrew it is 
 
 <span class="underline"></span>
 
-<span id="Text_Direction">Text Direction</span>
------------------------------------------------
+## <span id="Text_Direction">Text Direction</span>
 
 In English, text flows from left-to-right. Not all languages work this way, and so it is possible to set up a page, or even a section of a page, where the text flows from right-to-left.
 
-    /* Setting the Direction for the Whole Document */ body {  direction: rtl; }  /* Setting the Direction for only a section --- demo below */ .rtl {  direction: rtl; }  
+    /* Setting the Direction for the Whole Document */ body {  direction: rtl; }  /* Setting the Direction for only a section --- demo below */ .rtl {  direction: rtl; }
 
-    <div class="rtl"> <!-- Some English in an RTL environment. This will not display well. --> Experimentation is the greatest science.  <!-- In Arabic, which is an RTL language. --> ??????? ????? ?????? </div> 
+    <div class="rtl"> <!-- Some English in an RTL environment. This will not display well. --> Experimentation is the greatest science.  <!-- In Arabic, which is an RTL language. --> ??????? ????? ?????? </div>
 
 .rtl{direction: rtl;}
 
 Experimentation is the greatest science. ??????? ????? ??????
 
-(If you’re wondering why the English wasn’t SDRAWKCAB, it’s because that isn’t how text direction works. In a document or section with RTL directionality, the source code would *also* be RTL. So text appears in the display the same way it appears in the source code — with some punctuation and alignment problems.)
+(If you’re wondering why the English wasn’t SDRAWKCAB, it’s because that isn’t how text direction works. In a document or section with RTL directionality, the source code would _also_ be RTL. So text appears in the display the same way it appears in the source code — with some punctuation and alignment problems.)
 
-<span id="Bidirectional_Isolation">Bidirectional Isolation</span>
------------------------------------------------------------------
+## <span id="Bidirectional_Isolation">Bidirectional Isolation</span>
 
 What if you need to have a single Arabic or Hebrew word or phrase within otherwise LTR text? That’s what the `<bdi>` element is for.
 
-    The Hebrew word for "computer" is <bdi>???????</bdi>. 
+    The Hebrew word for "computer" is <bdi>???????</bdi>.
 
 The Hebrew word for “computer” is ???????.
 
 It is important, again, to realize that the `<bdi>` element does not reverse the direction of the characters in the source code. Rather, it provides information to the browser so that the presence of RTL characters in an other LTW environment (or vice-versa) does not cause a rendering problem.
 
-<span id="Difference_between_ltbdigt_and_ltbdogt">Difference between `<bdi>` and `<bdo>`</span>
------------------------------------------------------------------------------------------------
+## <span id="Difference_between_ltbdigt_and_ltbdogt">Difference between `<bdi>` and `<bdo>`</span>
 
-The `<bdi>` element is new in HTML5, but it is very similar to the older `<bdo>` element. The difference is that `<bdi>` *isolates* the included text from the text around it, while `<bdo>` simply reverses the direction. The `<bdo>` element’s approach to in-context bidirectionality can cause unexpected rendering problems. For this reason, the newer `<bdi>` element is usually recommended. For a more in-depth look at `<bdi>`, and the related [`<bdo>`](../bdo/index.html) element, see [this blog post on the subject](http://rishida.net/blog/?p=564) written by a member of W3C’s [Internationalization Working Group](https://www.w3.org/International/).
+The `<bdi>` element is new in HTML5, but it is very similar to the older `<bdo>` element. The difference is that `<bdi>` _isolates_ the included text from the text around it, while `<bdo>` simply reverses the direction. The `<bdo>` element’s approach to in-context bidirectionality can cause unexpected rendering problems. For this reason, the newer `<bdi>` element is usually recommended. For a more in-depth look at `<bdi>`, and the related [`<bdo>`](../bdo/index.html) element, see [this blog post on the subject](http://rishida.net/blog/?p=564) written by a member of W3C’s [Internationalization Working Group](https://www.w3.org/International/).
 
 <img src="../../wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden avatar avatar-100 photo" width="100" height="100" />
 
@@ -90,8 +85,7 @@ The `<bdi>` element is new in HTML5, but it is very similar to the older `<bdo>`
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`New Audio HTML Element: Master It Out Now With Our Code Example`](../audio/index.html)
 
@@ -103,11 +97,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="../../attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="../comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../../attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../iframe/index.html" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../iframe/index.html#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="../button/index.html" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../button/index.html#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../../attributes/a-target/index.html" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/a-target/index.html#comments" class="popular_posts_bars_comment_count">2,738 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../comment-tag/index.html" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="../comment-tag/index.html#comments" class="popular_posts_bars_comment_count">1,179 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../../attributes/input-pattern/index.html" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="../../attributes/input-pattern/index.html#comments" class="popular_posts_bars_comment_count">895 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../iframe/index.html" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../iframe/index.html#comments" class="popular_posts_bars_comment_count">746 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="../button/index.html" class="popular_posts_bars_link">Creating A Button With The HTML Button Element: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="../button/index.html#comments" class="popular_posts_bars_comment_count">681 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](../../index.html) © 2015-2020 [Sitemap](../../sitemap/index.html) | [Privacy](../../privacy/index.html) | [Contact](../../contact/index.html)
 

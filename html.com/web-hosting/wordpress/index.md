@@ -1,17 +1,10 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
-
-
-
-
-WordPress.com Review: These Guys Power 31% of The Web. Are They Right for You?
-==============================================================================
+# WordPress.com Review: These Guys Power 31% of The Web. Are They Right for You?
 
 **Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](https://html.com/disclosure/)
 
@@ -32,33 +25,31 @@ Here’s what you need to know.
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> About WordPress.com](#About_WordPresscom)
--   [<span class="toc_number toc_depth_1">2</span> Pros and Cons](#Pros_and_Cons)
--   [<span class="toc_number toc_depth_1">3</span> WordPress.com vs WordPress.org](#WordPresscom_vs_WordPressorg)
--   [<span class="toc_number toc_depth_1">4</span> WordPress.com Hosting Plans](#WordPresscom_Hosting_Plans)
--   [<span class="toc_number toc_depth_1">5</span> Getting Started with WordPress](#Getting_Started_with_WordPress)
--   [<span class="toc_number toc_depth_1">6</span> General WordPress.com Features](#General_WordPresscom_Features)
--   [<span class="toc_number toc_depth_1">7</span> Customer Service and Technical Support](#Customer_Service_and_Technical_Support)
--   [<span class="toc_number toc_depth_1">8</span> Performance/Uptime Guarantee](#PerformanceUptime_Guarantee)
--   [<span class="toc_number toc_depth_1">9</span> User Reviews and Ratings](#User_Reviews_and_Ratings)
--   [<span class="toc_number toc_depth_1">10</span> Money-Back Guarantee and Cancellation](#Money-Back_Guarantee_and_Cancellation)
--   [<span class="toc_number toc_depth_1">11</span> WordPress.com vs Weebly](#WordPresscom_vs_Weebly)
--   [<span class="toc_number toc_depth_1">12</span> WordPress.com Summary](#WordPresscom_Summary)
--   [<span class="toc_number toc_depth_1">13</span> Your WordPress.com Review](#Your_WordPresscom_Review)
+- [<span class="toc_number toc_depth_1">1</span> About WordPress.com](#About_WordPresscom)
+- [<span class="toc_number toc_depth_1">2</span> Pros and Cons](#Pros_and_Cons)
+- [<span class="toc_number toc_depth_1">3</span> WordPress.com vs WordPress.org](#WordPresscom_vs_WordPressorg)
+- [<span class="toc_number toc_depth_1">4</span> WordPress.com Hosting Plans](#WordPresscom_Hosting_Plans)
+- [<span class="toc_number toc_depth_1">5</span> Getting Started with WordPress](#Getting_Started_with_WordPress)
+- [<span class="toc_number toc_depth_1">6</span> General WordPress.com Features](#General_WordPresscom_Features)
+- [<span class="toc_number toc_depth_1">7</span> Customer Service and Technical Support](#Customer_Service_and_Technical_Support)
+- [<span class="toc_number toc_depth_1">8</span> Performance/Uptime Guarantee](#PerformanceUptime_Guarantee)
+- [<span class="toc_number toc_depth_1">9</span> User Reviews and Ratings](#User_Reviews_and_Ratings)
+- [<span class="toc_number toc_depth_1">10</span> Money-Back Guarantee and Cancellation](#Money-Back_Guarantee_and_Cancellation)
+- [<span class="toc_number toc_depth_1">11</span> WordPress.com vs Weebly](#WordPresscom_vs_Weebly)
+- [<span class="toc_number toc_depth_1">12</span> WordPress.com Summary](#WordPresscom_Summary)
+- [<span class="toc_number toc_depth_1">13</span> Your WordPress.com Review](#Your_WordPresscom_Review)
 
-<span id="About_WordPresscom">About WordPress.com</span>
---------------------------------------------------------
+## <span id="About_WordPresscom">About WordPress.com</span>
 
 WordPress.org is the organizational site behind the WordPress CMS. On that site you can download the software, read news about it, and learn about upcoming events. WordPress.org launched in 2003.
 
-Two years later, [WordPress.com](https://html.com/go/wordpress/) was created. It’s a *commercial* software platform that provides everything you need to create a WordPress site, customize it, and get it online. Plus you get ongoing expert support and [tutorials](https://html.com/).
+Two years later, [WordPress.com](https://html.com/go/wordpress/) was created. It’s a _commercial_ software platform that provides everything you need to create a WordPress site, customize it, and get it online. Plus you get ongoing expert support and [tutorials](https://html.com/).
 
 WordPress continues to grow as small businesses, individuals and bloggers join the platform.
 
 WordPress.com hosting offers three paid plans which are ad-free and give you varying levels of creative control.
 
-<span id="Pros_and_Cons">Pros and Cons</span>
----------------------------------------------
+## <span id="Pros_and_Cons">Pros and Cons</span>
 
 If you’re looking for a snapshot of where [WordPress.com](https://html.com/go/wordpress/) wins and where it falls down, we’ve put together the key pros and cons.
 
@@ -84,10 +75,9 @@ WordPress is infinitely customizable, but because of this, there are some steep 
 
 Video: Businesses discuss their experience with WordPress.com
 
-<span id="WordPresscom_vs_WordPressorg">WordPress.com vs WordPress.org</span>
------------------------------------------------------------------------------
+## <span id="WordPresscom_vs_WordPressorg">WordPress.com vs WordPress.org</span>
 
-Let’s start by clarifying the difference between a *self-hosted* WordPress site and a [WordPress.com site](https://html.com/go/wordpress/).
+Let’s start by clarifying the difference between a _self-hosted_ WordPress site and a [WordPress.com site](https://html.com/go/wordpress/).
 
 A WordPress site can run on any server that allows it.
 
@@ -101,8 +91,7 @@ There are over 54,000 plugins available for WordPress sites. Plugins extend the 
 
 If you host your own your site, you can install any of them without restriction. Many hosts give you the same freedom. In WordPress.com, your selection of add-ons is restricted unless you choose the high-end Business plan.
 
-<span id="WordPresscom_Hosting_Plans">WordPress.com Hosting Plans</span>
-------------------------------------------------------------------------
+## <span id="WordPresscom_Hosting_Plans">WordPress.com Hosting Plans</span>
 
 [WordPress.com](https://html.com/go/wordpress/) offers free and paid hosting plans, which we discuss below.
 
@@ -112,11 +101,11 @@ The Free plan lets you start up a blog or simple website with no cost and hardly
 
 Here’s some of the drawbacks that come with a free WordPress.com plan:
 
--   Ads will appear on your site.
--   CSS customization is limited to inline styles, which affect only one element.
--   Support is minimal.
--   You get 3 GB of storage.
--   The domain will be a subdomain that follows the \[yourname\].wordpress.com format.
+- Ads will appear on your site.
+- CSS customization is limited to inline styles, which affect only one element.
+- Support is minimal.
+- You get 3 GB of storage.
+- The domain will be a subdomain that follows the \[yourname\].wordpress.com format.
 
 On the positive side, you can start as many blogs as you like, all under the same account.
 
@@ -138,10 +127,10 @@ Speaking of themes, you’ll have unlimited access to the premium themes offered
 
 You also get the following features with WordPress.com’s Personal plan:
 
--   You’re allowed to monetize your site through WordAds.
--   You get advanced social media features, and VideoPress is included, letting you include videos with more freedom than YouTube or Vimeo.
--   The storage limit goes up to 13 GB.
--   Those who are interested in selling, but aren’t interested in launching a full e-commerce site will get features supporting simple payments and site monetization.
+- You’re allowed to monetize your site through WordAds.
+- You get advanced social media features, and VideoPress is included, letting you include videos with more freedom than YouTube or Vimeo.
+- The storage limit goes up to 13 GB.
+- Those who are interested in selling, but aren’t interested in launching a full e-commerce site will get features supporting simple payments and site monetization.
 
 ### Business Plan
 
@@ -159,8 +148,7 @@ The most expensive WordPress plan is the eCommerce option, which is the best opt
 
 These eCommerce features include support to accept payments in over 60 countries and integration with leading shipping carriers.
 
-<span id="Getting_Started_with_WordPress">Getting Started with WordPress</span>
--------------------------------------------------------------------------------
+## <span id="Getting_Started_with_WordPress">Getting Started with WordPress</span>
 
 It doesn’t matter if you’re new to web hosting, you won’t struggle with the setup process. And once you’ve created your account, it’s easy to manage your WordPress site.
 
@@ -170,7 +158,7 @@ A typical web host provides customers with a dashboard like cPanel (A popular br
 
 This is where you create pages posts, moderate comments, upload graphics, view statistics, and add new sites and users.
 
-Remember, this is a *hosted version of WordPress*, and its interface is the same as that for the self-hosted version of [WordPress](https://html.com/go/wordpress/).
+Remember, this is a _hosted version of WordPress_, and its interface is the same as that for the self-hosted version of [WordPress](https://html.com/go/wordpress/).
 
 The interface is easy to use, though you may need to spend some time familiarizing yourself with it.
 
@@ -200,8 +188,7 @@ It isn’t necessary to give them full admin control; you can assign them roles 
 
 If you just want to let someone submit blog posts, you can give them that authority without worrying about what else they could mess up.
 
-<span id="General_WordPresscom_Features">General WordPress.com Features</span>
-------------------------------------------------------------------------------
+## <span id="General_WordPresscom_Features">General WordPress.com Features</span>
 
 A few nifty features come with all the plans.
 
@@ -217,7 +204,7 @@ If you’re a small business, you’ll find this handy — spend your time on me
 
 The **Jetpack** plugin is another helpful standard feature. It provides site analytics and lets you share posts on social media sites.
 
-A particularly nice aspect of Jetpack is that it lets you *unify your logins*. If you have a WordPress site on another host, you can link it to your [WordPress.com account](https://html.com/go/wordpress/). Then you can log in without having to give a password, provided you’re already logged in to WordPress.com.
+A particularly nice aspect of Jetpack is that it lets you _unify your logins_. If you have a WordPress site on another host, you can link it to your [WordPress.com account](https://html.com/go/wordpress/). Then you can log in without having to give a password, provided you’re already logged in to WordPress.com.
 
 Finally, you’ll also get performance and security features (e.g., protection against brute-force attacks, downtime monitoring) that will help you protect your site (especially important if you decide to sell online).
 
@@ -225,13 +212,13 @@ Finally, you’ll also get performance and security features (e.g., protection a
 
 There are over 54,000 WordPress plugins. These are used to add functionality or visual elements to your website.
 
-A widget is a *type of plugin* that can show a history of your posts, invite people to follow your site, show items from social media sites, provide an RSS feed, show custom HTML, and much more.
+A widget is a _type of plugin_ that can show a history of your posts, invite people to follow your site, show items from social media sites, provide an RSS feed, show custom HTML, and much more.
 
 They commonly display in the sidebar of [your blog](https://blogging.com/)/site.
 
 If there’s something you want to provide your readers or customers, you’re likely to find a widget that will support your efforts.
 
-While there are plenty of *widgets* available from WordPress.com, to access the large ecosystem of *plugins*, you’ll need to select the Business Plan.
+While there are plenty of _widgets_ available from WordPress.com, to access the large ecosystem of _plugins_, you’ll need to select the Business Plan.
 
 ### Industry Blog Aggregator
 
@@ -259,35 +246,31 @@ If you outgrow the restrictions of WordPress.com, you aren’t stuck there. It�
 
 Unless you get the Business plan, you face some important restrictions on what’s allowed.
 
--   You can’t install any themes or plugins that aren’t on the approved list. In practice, this means you can’t do any back-end PHP programming. It’s a security and performance restriction.
--   As for other programming languages, except for client-side JavaScript, they just aren’t available in the WordPress ecosystem. In fact, there’s no direct access to the filesystem.
--   You can’t modify your themes. With most hosted sites, you can create a “child theme” which inherits everything from its parent except what you change. On WordPress.com, you can’t.
--   You can’t completely erase WordPress’s presence from your site. The “Blog at WordPress.com” notification isn’t obtrusive, but it’s always there.
--   You don’t get an email account, though you can set one up with the same domain on someone else’s service.
--   You can’t run third-party ads. The only ads allowed are promotions of your own products and services and ones you get through WordPress.
--   The Business plan eliminates most of these restrictions, but you still don’t get to use email, access files directly, or can’t run third-party ads.
+- You can’t install any themes or plugins that aren’t on the approved list. In practice, this means you can’t do any back-end PHP programming. It’s a security and performance restriction.
+- As for other programming languages, except for client-side JavaScript, they just aren’t available in the WordPress ecosystem. In fact, there’s no direct access to the filesystem.
+- You can’t modify your themes. With most hosted sites, you can create a “child theme” which inherits everything from its parent except what you change. On WordPress.com, you can’t.
+- You can’t completely erase WordPress’s presence from your site. The “Blog at WordPress.com” notification isn’t obtrusive, but it’s always there.
+- You don’t get an email account, though you can set one up with the same domain on someone else’s service.
+- You can’t run third-party ads. The only ads allowed are promotions of your own products and services and ones you get through WordPress.
+- The Business plan eliminates most of these restrictions, but you still don’t get to use email, access files directly, or can’t run third-party ads.
 
-<span id="Customer_Service_and_Technical_Support">Customer Service and Technical Support</span>
------------------------------------------------------------------------------------------------
+## <span id="Customer_Service_and_Technical_Support">Customer Service and Technical Support</span>
 
 WordPress support is text-based, so if you have any questions, comments, or concerns, you can write in and your question will be handled by a “Happiness Engineer.”
 
 You can also post your question in a publicly-available forum and see if there’s anyone in the public who can help you.
 
-<span id="PerformanceUptime_Guarantee">Performance/Uptime Guarantee</span>
---------------------------------------------------------------------------
+## <span id="PerformanceUptime_Guarantee">Performance/Uptime Guarantee</span>
 
 [WordPress.com](https://html.com/go/wordpress/) does not come with an uptime guarantee.
 
 You can, however, check on the performance of your WordPress.com site at any time using the [Automattic Status](https://automatticstatus.com/) website.
 
-<span id="User_Reviews_and_Ratings">User Reviews and Ratings</span>
--------------------------------------------------------------------
+## <span id="User_Reviews_and_Ratings">User Reviews and Ratings</span>
 
 Actual customers give WordPress.com a rating of [4.5 out of 5](https://www.whoishostingthis.com/hosting-reviews/wordpress-com/) stars.
 
-<span id="Money-Back_Guarantee_and_Cancellation">Money-Back Guarantee and Cancellation</span>
----------------------------------------------------------------------------------------------
+## <span id="Money-Back_Guarantee_and_Cancellation">Money-Back Guarantee and Cancellation</span>
 
 The Free plan really is free, no tricks. The other plans quote monthly rates, but you pay in advance for a year’s service.
 
@@ -301,8 +284,7 @@ Site subscriptions auto-renew, and you get charged a month before the renewal da
 
 If you don’t want to renew, you have to drop your subscription before that. Your site will stay up until its expiration date.
 
-<span id="WordPresscom_vs_Weebly">WordPress.com vs Weebly</span>
-----------------------------------------------------------------
+## <span id="WordPresscom_vs_Weebly">WordPress.com vs Weebly</span>
 
 If WordPress.com doesn’t quite fit your needs, you might consider [Weebly](https://html.com/web-hosting/weebly/) instead.
 
@@ -312,7 +294,7 @@ WordPress’s origins are in blogging, and though the content management system 
 
 However, Weebly comes with drag-and-drop functionality to make it easy for you to customize your site (even if you have never written code before).
 
-Whereas WordPress has themes, Weebly has *templates* that are designed to get you up and running with minimal configuration.
+Whereas WordPress has themes, Weebly has _templates_ that are designed to get you up and running with minimal configuration.
 
 Like WordPress.com, Weebly offers a free option where you can try most of the platform’s features. However, you can upgrade to gain access to additional features.
 
@@ -332,8 +314,7 @@ Another option that you might consider instead of Weebly is Wix. Wix and Weebly 
 
 Wix’s new “Corvid” technology gives devs a lot of creative space to work with serverless apps and APIs. Here’s our [Wix review](https://html.com/web-hosting/wix/) for a detailed look at this website builder.
 
-<span id="WordPresscom_Summary">WordPress.com Summary</span>
-------------------------------------------------------------
+## <span id="WordPresscom_Summary">WordPress.com Summary</span>
 
 [WordPress.com](https://html.com/go/wordpress/) is an excellent platform for trying out a site or just getting experience in WordPress.
 
@@ -353,16 +334,15 @@ But if you want to take a safe, low-priced step into WordPress site management, 
 
 With a free plan, there’s no reason not to try it out. Visit [WordPress.com](https://html.com/go/wordpress/) now.
 
-<span id="Your_WordPresscom_Review">Your WordPress.com Review</span>
---------------------------------------------------------------------
+## <span id="Your_WordPresscom_Review">Your WordPress.com Review</span>
 
 Are you a current or past customer of WordPress.com? Would you recommend them? Please leave your comments below and let our visitors know what you think of WordPress.com’s speed, features and customer service
 
 <a href="https://html.com/go/wordpress/" class="button-cta">Visit WordPress Now</a>
 
-------------------------------------------------------------------------
+---
 
-<span class="small">*Contributing editor: Bronwynne Powell.*</span>
+<span class="small">_Contributing editor: Bronwynne Powell._</span>
 
 <span id="tho-end-content" style="display: block; visibility: hidden"></span>
 
@@ -376,11 +356,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,188 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">750 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">692 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,188 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">750 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">692 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 

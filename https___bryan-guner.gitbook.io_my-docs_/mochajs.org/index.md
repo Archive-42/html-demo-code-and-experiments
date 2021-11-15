@@ -1,324 +1,318 @@
-[<embed src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20192%20191.99999%22%20width%3D%22192%22%20height%3D%22192%22%3E%3Cpath%20d%3D%22M169.47386%20143.90113l-68.70282%2039.69498c-2.958045%201.71756-6.584028%201.71756-9.542066%200L22.52614%20143.90113c-2.958038-1.71757-4.77103-4.86645-4.77103-8.20617V56.305021c0-3.435142%201.812992-6.488601%204.77103-8.206172L91.228974%208.403878c2.958038-1.717571%206.584021-1.717571%209.542056%200l68.70282%2039.694971c2.95804%201.717571%204.77104%204.866451%204.77104%208.206172v79.389939c-.0954%203.33972-1.90842%206.4886-4.77104%208.20617z%22%20clip-rule%3D%22evenodd%22%20fill%3D%22%238d6748%22%20fill-rule%3D%22evenodd%22%2F%3E%3Cpath%20d%3D%22M95.904583%2022.049024c.954207%200%201.812992.286262%202.671781.763365l59.351606%2034.255996c1.62216.954206%202.67177%202.767198%202.67177%204.67561v68.511985c0%201.90842-1.04962%203.72141-2.67177%204.67562l-59.351606%2034.25599c-.858789.47711-1.717574.76336-2.671781.76336-.954206%200-1.908412-.28625-2.671777-.76336L33.881192%20134.9316c-1.62215-.95421-2.671778-2.7672-2.671778-4.67562V61.743995c0-1.908412%201.049628-3.721404%202.671778-4.67561l59.351614-34.255996c.858785-.477103%201.812992-.763365%202.671777-.763365m0-2.862618c-1.431309%200-2.862618.381683-4.103085%201.145048L32.449883%2054.58745c-2.576357%201.431309-4.103086%204.198506-4.103086%207.061124v68.511996c0%202.95803%201.526729%205.62981%204.103086%207.06112l59.351615%2034.25599c1.240467.76337%202.671776%201.14506%204.103085%201.14506%201.431309%200%202.862617-.38169%204.103097-1.14506l59.35159-34.25599c2.57636-1.43131%204.10309-4.1985%204.10309-7.06112V61.648574c0-2.958038-1.52673-5.629815-4.10309-7.061124l-59.35159-34.255996c-1.24048-.763365-2.671788-1.145048-4.103097-1.145048z%22%20fill%3D%22%23fff%22%2F%3E%3Cpath%20d%3D%22M104.3493%2061.648574c0-.477103-.381682-.954206-.954206-.954206H85.456021c-.477103%200-.954206.381682-.954206.954206%200%203.2443.477103%2014.40851%205.248133%2019.847485.190841.190841.381683.286262.667944.286262h8.01533c.286263%200%20.477104-.09542.667945-.286262%204.77103-5.343554%205.248133-16.507764%205.248133-19.847485zm-7.061124%2017.36655H91.65836c-.286262%200-.477103-.095421-.667944-.286263-3.2443-3.816824-3.625983-11.450472-3.721403-14.122249%200-.477103.381682-.954206.954206-.954206h12.595519c.477103%200%20.954206.381683.954206.954206%200%202.671777-.477103%2010.210005-3.721403%2014.12225-.286262.19084-.477103.286261-.763365.286261zM96.23855%2058.785956s3.43514-2.003833%201.335888-5.629816c-1.240468-1.908412-1.812992-3.530562-1.335889-4.198506-1.240468%201.52673-3.339721%203.14888-1.049627%206.584021.763365.858786%201.145048%202.671777%201.049627%203.2443zM92.421725%2059.072217s2.290094-1.335888.858785-3.816824c-.858785-1.240467-1.240467-2.385515-.858785-2.767197-.858785%201.049627-2.194674%202.099253-.667944%204.484768.477103.477103.667944%201.717571.667944%202.099253z%22%20fill%3D%22%23fff%22%2F%3E%3Cpath%20d%3D%22M100.246214%2070.141007c-.381682%202.576357-1.145047%205.534395-2.767197%207.442807-.190841.190841-.381682.286262-.572524.286262h-4.77103c-.190841%200-.477103-.09542-.572523-.286262-1.145048-1.431309-1.908412-3.33972-2.385515-5.343553%200%200%205.534394.763364%208.683274-.381683%202.290095-.858785%202.385515-1.71757%202.385515-1.71757z%22%20fill%3D%22%23fff%22%2F%3E%3Cg%20fill%3D%22%23fff%22%3E%3Cpath%20d%3D%22M37.554879%2085.599145h3.530562l5.820657%208.969536%205.820657-8.969536h3.530562v19.08412h-3.339721V91.03812l-6.011498%208.969537h-.09542L40.8946%2091.13354v13.645146h-3.339721V85.599145zM73.528446%20104.969527c-1.43131%200-2.767198-.286262-4.007665-.763365-1.240468-.477103-2.290095-1.240468-3.14888-2.099253-.858786-.858785-1.52673-1.908412-2.003833-3.14888-.477103-1.145047-.763365-2.480936-.763365-3.816824v-.09542c0-1.335889.286262-2.576357.763365-3.816825.477103-1.145047%201.145047-2.194674%202.099253-3.14888.858786-.858785%201.908412-1.62215%203.14888-2.099253%201.240468-.572523%202.576356-.763365%204.007665-.763365%201.43131%200%202.767198.286262%204.007666.763365%201.240468.477103%202.290094%201.240468%203.14888%202.099253.858785.858786%201.52673%201.908412%202.003832%203.14888.477103%201.145048.763365%202.480936.763365%203.816824v.095421c0%201.335888-.286262%202.576356-.763365%203.816824-.477103%201.145047-1.145047%202.194674-2.099253%203.14888-.858785.858785-1.908412%201.62215-3.14888%202.099253-1.240468.572524-2.576356.763365-4.007665.763365zm0-3.05346c.954206%200%201.812991-.19084%202.576356-.572523.763365-.381682%201.43131-.858785%202.003833-1.431309.572523-.572524.954206-1.335888%201.335888-2.099253.286262-.858786.477103-1.717571.477103-2.576356v-.095421c0-.954206-.190841-1.812991-.477103-2.671777-.286262-.858785-.763365-1.52673-1.335888-2.194674-.572524-.572523-1.240468-1.049626-2.003833-1.431309-.763365-.381682-1.62215-.572523-2.576356-.572523-.954206%200-1.812992.19084-2.576356.572523-.763365.381683-1.43131.858786-2.003833%201.43131-.572524.572523-.954206%201.335888-1.335888%202.099253-.286262.858785-.477104%201.71757-.477104%202.576356v.09542c0%20.954206.190842%201.812992.477104%202.671777.286261.858786.763364%201.52673%201.335888%202.194674.572524.572524%201.240468%201.049627%202.003833%201.43131.763364.381682%201.71757.572523%202.576356.572523zM99.67369%20104.969527c-1.431308%200-2.671776-.286262-3.816823-.763365-1.145048-.477103-2.194674-1.240468-3.05346-2.099253-.858785-.858785-1.52673-1.908412-2.003832-3.14888-.477103-1.240468-.763365-2.480936-.763365-3.816824v-.09542c0-1.335889.286262-2.671777.763365-3.816825.477103-1.145047%201.145047-2.194674%202.003832-3.14888.858786-.858785%201.908412-1.62215%203.14888-2.099253%201.240468-.477103%202.480936-.763365%204.007666-.763365.858785%200%201.62215.095421%202.385515.190842.763364.19084%201.335888.381682%202.003832.572523.572524.286262%201.145047.572524%201.62215.954206.477104.381683.954207.763365%201.43131%201.240468l-2.194674%202.480936c-.763365-.667945-1.52673-1.240468-2.385515-1.717571-.858786-.477103-1.812992-.667944-2.958039-.667944-.954206%200-1.71757.19084-2.480936.572523-.763364.381683-1.431309.858786-2.003832%201.43131-.572524.572523-.954206%201.335888-1.335889%202.099253-.286262.858785-.477103%201.71757-.477103%202.576356v.09542c0%20.954206.190841%201.812992.477103%202.671777.286262.858786.763365%201.52673%201.335889%202.194674.572523.572524%201.240468%201.145047%202.003832%201.43131.763365.28626%201.62215.572523%202.480936.572523%201.145047%200%202.194674-.190841%202.958039-.667944.763364-.477103%201.62215-1.049627%202.480935-1.812992l2.194674%202.194674c-.477103.572524-.954206.954206-1.52673%201.431309-.572523.477103-1.145047.763365-1.71757%201.049627-.572524.286261-1.335889.572523-2.003833.667944-.858785.190841-1.71757.190841-2.576356.190841zM114.177622%2085.599145h3.339721v7.91991h9.160378v-7.91991h3.339721v19.08412h-3.33972v-8.01533h-9.160379v8.01533h-3.33972v-19.08412zM144.807636%2085.503724h3.053459l8.397013%2019.179541h-3.530563l-1.908412-4.580189h-8.969536l-2.003833%204.58019h-3.435141l8.397013-19.179542zm4.77103%2011.641314l-3.2443-7.633649-3.244301%207.633649h6.4886z%22%2F%3E%3C%2Fg%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M35.169365%20110.69476h121.66127v1.049627H35.169365zM156.83062%2074.816618h-51.71797c0%20.381682-.0954.667943-.0954%201.049626h51.81338v-1.049626zM35.169364%2074.816618v1.049626h48.759928c0-.381683-.09542-.667944-.09542-1.049626H35.169365z%22%2F%3E%3C%2Fsvg%3E" id="mocha-logo" />](https://mochajs.org/)
-================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+# [<embed src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20192%20191.99999%22%20width%3D%22192%22%20height%3D%22192%22%3E%3Cpath%20d%3D%22M169.47386%20143.90113l-68.70282%2039.69498c-2.958045%201.71756-6.584028%201.71756-9.542066%200L22.52614%20143.90113c-2.958038-1.71757-4.77103-4.86645-4.77103-8.20617V56.305021c0-3.435142%201.812992-6.488601%204.77103-8.206172L91.228974%208.403878c2.958038-1.717571%206.584021-1.717571%209.542056%200l68.70282%2039.694971c2.95804%201.717571%204.77104%204.866451%204.77104%208.206172v79.389939c-.0954%203.33972-1.90842%206.4886-4.77104%208.20617z%22%20clip-rule%3D%22evenodd%22%20fill%3D%22%238d6748%22%20fill-rule%3D%22evenodd%22%2F%3E%3Cpath%20d%3D%22M95.904583%2022.049024c.954207%200%201.812992.286262%202.671781.763365l59.351606%2034.255996c1.62216.954206%202.67177%202.767198%202.67177%204.67561v68.511985c0%201.90842-1.04962%203.72141-2.67177%204.67562l-59.351606%2034.25599c-.858789.47711-1.717574.76336-2.671781.76336-.954206%200-1.908412-.28625-2.671777-.76336L33.881192%20134.9316c-1.62215-.95421-2.671778-2.7672-2.671778-4.67562V61.743995c0-1.908412%201.049628-3.721404%202.671778-4.67561l59.351614-34.255996c.858785-.477103%201.812992-.763365%202.671777-.763365m0-2.862618c-1.431309%200-2.862618.381683-4.103085%201.145048L32.449883%2054.58745c-2.576357%201.431309-4.103086%204.198506-4.103086%207.061124v68.511996c0%202.95803%201.526729%205.62981%204.103086%207.06112l59.351615%2034.25599c1.240467.76337%202.671776%201.14506%204.103085%201.14506%201.431309%200%202.862617-.38169%204.103097-1.14506l59.35159-34.25599c2.57636-1.43131%204.10309-4.1985%204.10309-7.06112V61.648574c0-2.958038-1.52673-5.629815-4.10309-7.061124l-59.35159-34.255996c-1.24048-.763365-2.671788-1.145048-4.103097-1.145048z%22%20fill%3D%22%23fff%22%2F%3E%3Cpath%20d%3D%22M104.3493%2061.648574c0-.477103-.381682-.954206-.954206-.954206H85.456021c-.477103%200-.954206.381682-.954206.954206%200%203.2443.477103%2014.40851%205.248133%2019.847485.190841.190841.381683.286262.667944.286262h8.01533c.286263%200%20.477104-.09542.667945-.286262%204.77103-5.343554%205.248133-16.507764%205.248133-19.847485zm-7.061124%2017.36655H91.65836c-.286262%200-.477103-.095421-.667944-.286263-3.2443-3.816824-3.625983-11.450472-3.721403-14.122249%200-.477103.381682-.954206.954206-.954206h12.595519c.477103%200%20.954206.381683.954206.954206%200%202.671777-.477103%2010.210005-3.721403%2014.12225-.286262.19084-.477103.286261-.763365.286261zM96.23855%2058.785956s3.43514-2.003833%201.335888-5.629816c-1.240468-1.908412-1.812992-3.530562-1.335889-4.198506-1.240468%201.52673-3.339721%203.14888-1.049627%206.584021.763365.858786%201.145048%202.671777%201.049627%203.2443zM92.421725%2059.072217s2.290094-1.335888.858785-3.816824c-.858785-1.240467-1.240467-2.385515-.858785-2.767197-.858785%201.049627-2.194674%202.099253-.667944%204.484768.477103.477103.667944%201.717571.667944%202.099253z%22%20fill%3D%22%23fff%22%2F%3E%3Cpath%20d%3D%22M100.246214%2070.141007c-.381682%202.576357-1.145047%205.534395-2.767197%207.442807-.190841.190841-.381682.286262-.572524.286262h-4.77103c-.190841%200-.477103-.09542-.572523-.286262-1.145048-1.431309-1.908412-3.33972-2.385515-5.343553%200%200%205.534394.763364%208.683274-.381683%202.290095-.858785%202.385515-1.71757%202.385515-1.71757z%22%20fill%3D%22%23fff%22%2F%3E%3Cg%20fill%3D%22%23fff%22%3E%3Cpath%20d%3D%22M37.554879%2085.599145h3.530562l5.820657%208.969536%205.820657-8.969536h3.530562v19.08412h-3.339721V91.03812l-6.011498%208.969537h-.09542L40.8946%2091.13354v13.645146h-3.339721V85.599145zM73.528446%20104.969527c-1.43131%200-2.767198-.286262-4.007665-.763365-1.240468-.477103-2.290095-1.240468-3.14888-2.099253-.858786-.858785-1.52673-1.908412-2.003833-3.14888-.477103-1.145047-.763365-2.480936-.763365-3.816824v-.09542c0-1.335889.286262-2.576357.763365-3.816825.477103-1.145047%201.145047-2.194674%202.099253-3.14888.858786-.858785%201.908412-1.62215%203.14888-2.099253%201.240468-.572523%202.576356-.763365%204.007665-.763365%201.43131%200%202.767198.286262%204.007666.763365%201.240468.477103%202.290094%201.240468%203.14888%202.099253.858785.858786%201.52673%201.908412%202.003832%203.14888.477103%201.145048.763365%202.480936.763365%203.816824v.095421c0%201.335888-.286262%202.576356-.763365%203.816824-.477103%201.145047-1.145047%202.194674-2.099253%203.14888-.858785.858785-1.908412%201.62215-3.14888%202.099253-1.240468.572524-2.576356.763365-4.007665.763365zm0-3.05346c.954206%200%201.812991-.19084%202.576356-.572523.763365-.381682%201.43131-.858785%202.003833-1.431309.572523-.572524.954206-1.335888%201.335888-2.099253.286262-.858786.477103-1.717571.477103-2.576356v-.095421c0-.954206-.190841-1.812991-.477103-2.671777-.286262-.858785-.763365-1.52673-1.335888-2.194674-.572524-.572523-1.240468-1.049626-2.003833-1.431309-.763365-.381682-1.62215-.572523-2.576356-.572523-.954206%200-1.812992.19084-2.576356.572523-.763365.381683-1.43131.858786-2.003833%201.43131-.572524.572523-.954206%201.335888-1.335888%202.099253-.286262.858785-.477104%201.71757-.477104%202.576356v.09542c0%20.954206.190842%201.812992.477104%202.671777.286261.858786.763364%201.52673%201.335888%202.194674.572524.572524%201.240468%201.049627%202.003833%201.43131.763364.381682%201.71757.572523%202.576356.572523zM99.67369%20104.969527c-1.431308%200-2.671776-.286262-3.816823-.763365-1.145048-.477103-2.194674-1.240468-3.05346-2.099253-.858785-.858785-1.52673-1.908412-2.003832-3.14888-.477103-1.240468-.763365-2.480936-.763365-3.816824v-.09542c0-1.335889.286262-2.671777.763365-3.816825.477103-1.145047%201.145047-2.194674%202.003832-3.14888.858786-.858785%201.908412-1.62215%203.14888-2.099253%201.240468-.477103%202.480936-.763365%204.007666-.763365.858785%200%201.62215.095421%202.385515.190842.763364.19084%201.335888.381682%202.003832.572523.572524.286262%201.145047.572524%201.62215.954206.477104.381683.954207.763365%201.43131%201.240468l-2.194674%202.480936c-.763365-.667945-1.52673-1.240468-2.385515-1.717571-.858786-.477103-1.812992-.667944-2.958039-.667944-.954206%200-1.71757.19084-2.480936.572523-.763364.381683-1.431309.858786-2.003832%201.43131-.572524.572523-.954206%201.335888-1.335889%202.099253-.286262.858785-.477103%201.71757-.477103%202.576356v.09542c0%20.954206.190841%201.812992.477103%202.671777.286262.858786.763365%201.52673%201.335889%202.194674.572523.572524%201.240468%201.145047%202.003832%201.43131.763365.28626%201.62215.572523%202.480936.572523%201.145047%200%202.194674-.190841%202.958039-.667944.763364-.477103%201.62215-1.049627%202.480935-1.812992l2.194674%202.194674c-.477103.572524-.954206.954206-1.52673%201.431309-.572523.477103-1.145047.763365-1.71757%201.049627-.572524.286261-1.335889.572523-2.003833.667944-.858785.190841-1.71757.190841-2.576356.190841zM114.177622%2085.599145h3.339721v7.91991h9.160378v-7.91991h3.339721v19.08412h-3.33972v-8.01533h-9.160379v8.01533h-3.33972v-19.08412zM144.807636%2085.503724h3.053459l8.397013%2019.179541h-3.530563l-1.908412-4.580189h-8.969536l-2.003833%204.58019h-3.435141l8.397013-19.179542zm4.77103%2011.641314l-3.2443-7.633649-3.244301%207.633649h6.4886z%22%2F%3E%3C%2Fg%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M35.169365%20110.69476h121.66127v1.049627H35.169365zM156.83062%2074.816618h-51.71797c0%20.381682-.0954.667943-.0954%201.049626h51.81338v-1.049626zM35.169364%2074.816618v1.049626h48.759928c0-.381683-.09542-.667944-.09542-1.049626H35.169365z%22%2F%3E%3C%2Fsvg%3E" id="mocha-logo" />](https://mochajs.org/)
 
-*simple*, *flexible*, *fun*
+_simple_, _flexible_, _fun_
 
-Mocha is a feature-rich JavaScript test framework running on [Node.js](https://nodejs.org/) and in the browser, making asynchronous testing *simple* and *fun*. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. Hosted on [GitHub](https://github.com/mochajs/mocha).
+Mocha is a feature-rich JavaScript test framework running on [Node.js](https://nodejs.org/) and in the browser, making asynchronous testing _simple_ and _fun_. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. Hosted on [GitHub](https://github.com/mochajs/mocha).
 
 [<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5OSIgaGVpZ2h0PSIyMCI+PGxpbmVhckdyYWRpZW50IGlkPSJiIiB4Mj0iMCIgeTI9IjEwMCUiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2JiYiIgc3RvcC1vcGFjaXR5PSIuMSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1vcGFjaXR5PSIuMSIvPjwvbGluZWFyR3JhZGllbnQ+PG1hc2sgaWQ9ImEiPjxyZWN0IHdpZHRoPSI5OSIgaGVpZ2h0PSIyMCIgcng9IjMiIGZpbGw9IiNmZmYiLz48L21hc2s+PGcgbWFzaz0idXJsKCNhKSI+PHBhdGggZmlsbD0iIzU1NSIgZD0iTTAgMGg0MHYyMEgweiIvPjxwYXRoIGZpbGw9IiM0NkJDOTkiIGQ9Ik00MCAwaDU5djIwSDQweiIvPjxwYXRoIGZpbGw9InVybCgjYikiIGQ9Ik0wIDBoOTl2MjBIMHoiLz48L2c+PGcgZmlsbD0iI2ZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkRlamFWdSBTYW5zLFZlcmRhbmEsR2VuZXZhLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiPjx0ZXh0IHg9IjIwIiB5PSIxNSIgZmlsbD0iIzAxMDEwMSIgZmlsbC1vcGFjaXR5PSIuMyI+Z2l0dGVyPC90ZXh0Pjx0ZXh0IHg9IjIwIiB5PSIxNCI+Z2l0dGVyPC90ZXh0Pjx0ZXh0IHg9IjY4LjUiIHk9IjE1IiBmaWxsPSIjMDEwMTAxIiBmaWxsLW9wYWNpdHk9Ii4zIj5qb2luIGNoYXQ8L3RleHQ+PHRleHQgeD0iNjguNSIgeT0iMTQiPmpvaW4gY2hhdDwvdGV4dD48L2c+PC9zdmc+" alt="Gitter" height="18" />](https://gitter.im/mochajs/mocha)[<img src="https://opencollective.com/mochajs/tiers/sponsors/badge.svg" alt="OpenCollective sponsors" height="18" />](#sponsors)[<img src="https://opencollective.com/mochajs/tiers/backers/badge.svg" alt="OpenCollective backers" height="18" />](#backers)
 
-<a href="#sponsors" class="direct-link">#</a> Sponsors
-------------------------------------------------------
+## <a href="#sponsors" class="direct-link">#</a> Sponsors
 
 Use Mocha at Work? Ask your manager or marketing team if they’d help [support](https://opencollective.com/mochajs#support) our project. Your company’s logo will also be displayed on [npmjs.com](http://npmjs.com/package/mocha) and our [GitHub repository](https://github.com/mochajs/mocha#sponsors).
 
--   [](https://localizejs.com/)
+- [](https://localizejs.com/)
 
-<a href="#backers" class="direct-link">#</a> Backers
-----------------------------------------------------
+## <a href="#backers" class="direct-link">#</a> Backers
 
 Find Mocha helpful? Become a [backer](https://opencollective.com/mochajs#support) and support Mocha with a monthly donation.
 
--   [](https://www.principal.com/about-us)
+- [](https://www.principal.com/about-us)
 
--   [](https://www.codefirst.co.uk/)
+- [](https://www.codefirst.co.uk/)
 
--   [](https://securitygladiators.com/)
+- [](https://securitygladiators.com/)
 
--   [](https://yannick.cr/)
+- [](https://yannick.cr/)
 
--   [](https://www.firesticktricks.com/)
+- [](https://www.firesticktricks.com/)
 
--   [](https://www.firestickhow.com/)
+- [](https://www.firestickhow.com/)
 
--   [](https://www.coinnewsspan.com/)
+- [](https://www.coinnewsspan.com/)
 
--   
+-
 
--   [](https://thirdiron.com/)
+- [](https://thirdiron.com/)
 
--   [](https://penguincreek.com/)
+- [](https://penguincreek.com/)
 
--   [](https://top5hosting.co.uk/)
+- [](https://top5hosting.co.uk/)
 
--   [](https://matterapp.com/)
+- [](https://matterapp.com/)
 
--   [](https://github.com/daprahamian)
+- [](https://github.com/daprahamian)
 
--   
+-
 
--   [](https://topvet.net/)
+- [](https://topvet.net/)
 
--   [](https://francois.hodierne.net/)
+- [](https://francois.hodierne.net/)
 
--   [](https://klamp.in/)
+- [](https://klamp.in/)
 
--   [](https://medikoo.com/)
+- [](https://medikoo.com/)
 
--   [](https://mattwelke.com/)
+- [](https://mattwelke.com/)
 
--   [](https://www.gavinmogan.com/)
+- [](https://www.gavinmogan.com/)
 
--   [](https://solverfox.dev/)
+- [](https://solverfox.dev/)
 
--   [](https://www.quora.com/profile/Alexandre-Morgaut)
+- [](https://www.quora.com/profile/Alexandre-Morgaut)
 
--   [](https://twitter.com/sheridanvk)
+- [](https://twitter.com/sheridanvk)
 
--   [](https://howtohosting.guide/)
+- [](https://howtohosting.guide/)
 
--   [](https://6figr.com/)
+- [](https://6figr.com/)
 
--   [](https://uppsats.eu/)
+- [](https://uppsats.eu/)
 
--   [](https://sensorstechforum.com/)
+- [](https://sensorstechforum.com/)
 
--   [](https://www.scrapingbee.com/)
+- [](https://www.scrapingbee.com/)
 
--   [](https://github.com/metabolize)
+- [](https://github.com/metabolize)
 
--   [](https://www.lambdatest.com/)
+- [](https://www.lambdatest.com/)
 
--   [](https://www.findswiftcodes.com/)
+- [](https://www.findswiftcodes.com/)
 
--   [](https://badassjs.com/)
+- [](https://badassjs.com/)
 
--   [](https://www.vpsserver.com/)
+- [](https://www.vpsserver.com/)
 
--   [](https://www.hrank.com/)
+- [](https://www.hrank.com/)
 
--   [](https://www.scrapingdog.com/)
+- [](https://www.scrapingdog.com/)
 
--   [](https://studyclerk.com/research-paper-writing)
+- [](https://studyclerk.com/research-paper-writing)
 
--   [](https://gamblizard.com/deposit-bonuses/deposit-10-pound/)
+- [](https://gamblizard.com/deposit-bonuses/deposit-10-pound/)
 
--   [](https://proxycrawl.com/)
+- [](https://proxycrawl.com/)
 
--   [](https://qiwu.ai/)
+- [](https://qiwu.ai/)
 
--   [](https://moneyarcher.com/de/)
+- [](https://moneyarcher.com/de/)
 
--   [](https://wptheme.fr/theme-wordpress-divi/)
+- [](https://wptheme.fr/theme-wordpress-divi/)
 
--   [](https://windowsvps.host/)
+- [](https://windowsvps.host/)
 
--   [](https://en.vpnwelt.com/)
+- [](https://en.vpnwelt.com/)
 
--   [](https://www.mamafacts.com/)
+- [](https://www.mamafacts.com/)
 
--   [](https://crosswordking.com/)
+- [](https://crosswordking.com/)
 
--   [](https://www.screenrecorderreview.com/)
+- [](https://www.screenrecorderreview.com/)
 
--   [](https://catspurfection.com/)
+- [](https://catspurfection.com/)
 
--   [](https://tripwire.com/)
+- [](https://tripwire.com/)
 
--   [](https://vibrationsplatte-experten.com/)
+- [](https://vibrationsplatte-experten.com/)
 
--   [](https://www.dpcoupon.com/)
+- [](https://www.dpcoupon.com/)
 
--   [](https://apnews.com/article/business-furniture-and-home-furnishings-manufacturing-corporate-news-household-product-manufacturing-industrial-products-and-services-2177fc8237a457d51e6bc72bb76bb2f1)
+- [](https://apnews.com/article/business-furniture-and-home-furnishings-manufacturing-corporate-news-household-product-manufacturing-industrial-products-and-services-2177fc8237a457d51e6bc72bb76bb2f1)
 
--   [](https://adaptjs.org/)
+- [](https://adaptjs.org/)
 
--   [](https://www.reachdigital.nl/)
+- [](https://www.reachdigital.nl/)
 
--   [](https://www.vpntopp.no/hva-er-vpn/)
+- [](https://www.vpntopp.no/hva-er-vpn/)
 
--   [](https://www.bystored.com/)
+- [](https://www.bystored.com/)
 
--   [](https://balsa.com/)
+- [](https://balsa.com/)
 
--   [](https://clouddevs.com/)
+- [](https://clouddevs.com/)
 
--   [](https://www.softwaredevelopment.co.uk/)
+- [](https://www.softwaredevelopment.co.uk/)
 
--   [](https://steelbro.com.ua/vorota-kiev.html)
+- [](https://steelbro.com.ua/vorota-kiev.html)
 
--   [](https://infatica.io/)
+- [](https://infatica.io/)
 
--   [](https://www.seng.nu/bedste-kontinentalsenge/)
+- [](https://www.seng.nu/bedste-kontinentalsenge/)
 
--   [](https://www.wp-kotisivut.com/)
+- [](https://www.wp-kotisivut.com/)
 
--   [](https://www.realtimecommunicationsworld.com/)
+- [](https://www.realtimecommunicationsworld.com/)
 
--   [](https://www.vendsoft.com/)
+- [](https://www.vendsoft.com/)
 
--   [](https://seattletreeservicepros.com/)
+- [](https://seattletreeservicepros.com/)
 
--   [](https://pillarwm.com/)
+- [](https://pillarwm.com/)
 
--   [](https://www.maxfreebets.co.uk/)
+- [](https://www.maxfreebets.co.uk/)
 
--   [](https://windesol.fi/)
+- [](https://windesol.fi/)
 
--   [](https://netinnopeustesti.com/)
+- [](https://netinnopeustesti.com/)
 
--   [](https://www.reviewxl.com/)
+- [](https://www.reviewxl.com/)
 
--   [](https://messaged.com/)
+- [](https://messaged.com/)
 
--   [](https://blackjack77australia.com/)
+- [](https://blackjack77australia.com/)
 
--   [](https://www.coupons4printing.com/)
+- [](https://www.coupons4printing.com/)
 
--   [](https://renkaatsopivasti.fi/)
+- [](https://renkaatsopivasti.fi/)
 
--   [](https://veepn.com/)
+- [](https://veepn.com/)
 
--   [](https://aapeli.net/)
+- [](https://aapeli.net/)
 
--   [](https://vpntesting.com/)
+- [](https://vpntesting.com/)
 
--   [](https://www.coupons4save.com/)
+- [](https://www.coupons4save.com/)
 
--   [](https://tommiaaltonen.fi/)
+- [](https://tommiaaltonen.fi/)
 
--   [](https://www.booklearnpass.co.uk/)
+- [](https://www.booklearnpass.co.uk/)
 
--   [](https://www.webhostingsecretrevealed.net/)
+- [](https://www.webhostingsecretrevealed.net/)
 
--   [](https://mingda.net/)
+- [](https://mingda.net/)
 
--   [](https://mobilemall.pk/)
+- [](https://mobilemall.pk/)
 
--   [](https://hdclipartall.com/)
+- [](https://hdclipartall.com/)
 
--   [](https://scantodigital.co.uk/)
+- [](https://scantodigital.co.uk/)
 
--   [](https://immigration.sg/)
+- [](https://immigration.sg/)
 
--   [](https://printdelivery.online/)
+- [](https://printdelivery.online/)
 
--   [](https://www.y-106.com/)
+- [](https://www.y-106.com/)
 
--   [](https://sugarbalanceherbalsupplement.com/)
+- [](https://sugarbalanceherbalsupplement.com/)
 
--   [](https://theimagingprofessionals.co.uk/)
+- [](https://theimagingprofessionals.co.uk/)
 
--   [](https://techreviewer.co/top-software-development-companies-for-startups)
+- [](https://techreviewer.co/top-software-development-companies-for-startups)
 
--   [](https://reportedcalls.net/)
+- [](https://reportedcalls.net/)
 
--   [](https://helppohinta.fi/)
+- [](https://helppohinta.fi/)
 
--   [](https://www.qualityonesie.com/)
+- [](https://www.qualityonesie.com/)
 
--   [](https://vpsdime.com/)
+- [](https://vpsdime.com/)
 
--   [](https://www.loadview-testing.com/products/jmeter-load-testing/)
+- [](https://www.loadview-testing.com/products/jmeter-load-testing/)
 
--   [](https://www.dotcom-tools.com/china-firewall-test)
+- [](https://www.dotcom-tools.com/china-firewall-test)
 
--   [](https://self-starters.com/)
+- [](https://self-starters.com/)
 
--   [](https://www.123calendars.com/)
+- [](https://www.123calendars.com/)
 
--   [](https://celltrackingapps.com/)
+- [](https://celltrackingapps.com/)
 
--   [](https://proscriptie.nl/)
+- [](https://proscriptie.nl/)
 
--   [](https://analisilogica.com/)
+- [](https://analisilogica.com/)
 
--   [](https://tigillo.com/)
+- [](https://tigillo.com/)
 
--   [](https://sumatosoft.com/services/business-analysis-services)
+- [](https://sumatosoft.com/services/business-analysis-services)
 
--   [](https://www.glassesonweb.com/)
+- [](https://www.glassesonweb.com/)
 
--   [](https://www.targetedwebtraffic.com/buy/buy-mobile-traffic/)
+- [](https://www.targetedwebtraffic.com/buy/buy-mobile-traffic/)
 
--   [](https://blackjack77malaysia.com/)
+- [](https://blackjack77malaysia.com/)
 
--   [](https://airproxy.io/)
+- [](https://airproxy.io/)
 
--   [](https://thefiresticktv.com/)
+- [](https://thefiresticktv.com/)
 
--   [](https://paddn.com/web-design-hong-kong/)
+- [](https://paddn.com/web-design-hong-kong/)
 
--   [](https://www.forexinthai.com/)
+- [](https://www.forexinthai.com/)
 
--   [](https://coupontoaster.com/)
+- [](https://coupontoaster.com/)
 
--   [](https://dreamtechstore.com/)
+- [](https://dreamtechstore.com/)
 
--   
+-
 
-<a href="#features" class="direct-link">#</a> Features
-------------------------------------------------------
+## <a href="#features" class="direct-link">#</a> Features
 
--   [browser support](#running-mocha-in-the-browser)
--   [simple async support, including promises](#asynchronous-code)
--   [run Node.js tests in parallel](#parallel-tests)
--   [test coverage reporting](#wallabyjs)
--   [string diff support](#diffs)
--   [JavaScript API for running tests](#more-information)
--   [auto-detects and disables coloring for non-TTYs](#reporters)
--   [async test timeout support](#delayed-root-suite)
--   [test retry support](#retry-tests)
--   [test-specific timeouts](#test-level)
--   [Growl support](#desktop-notification-support)
--   [reports test durations](#test-duration)
--   [highlights slow tests](#dot-matrix)
--   [file watcher support](#min)
--   [global variable leak detection](#-check-leaks)
--   [optionally run tests that match a regexp](#-grep-regexp-g-regexp)
--   [auto-exit to prevent “hanging” with an active loop](#-exit)
--   [easily meta-generate suites](#markdown) & [test-cases](#list)
--   [config file support](#-config-path)
--   [node debugger support](#-inspect-inspect-brk-inspect)
--   [node native ES modules support](#nodejs-native-esm-support)
--   [source-map support](#-enable-source-maps)
--   [detects multiple calls to `done()`](#detects-multiple-calls-to-done)
--   [use any assertion library you want](#assertions)
--   [extensible reporting, bundled with 9+ reporters](#reporters)
--   [extensible test DSLs or “interfaces”](#interfaces)
--   [before, after, before each, after each hooks](#hooks)
--   [arbitrary transpiler support (coffee-script etc)](#-compilers)
--   [TextMate bundle](#textmate)
+- [browser support](#running-mocha-in-the-browser)
+- [simple async support, including promises](#asynchronous-code)
+- [run Node.js tests in parallel](#parallel-tests)
+- [test coverage reporting](#wallabyjs)
+- [string diff support](#diffs)
+- [JavaScript API for running tests](#more-information)
+- [auto-detects and disables coloring for non-TTYs](#reporters)
+- [async test timeout support](#delayed-root-suite)
+- [test retry support](#retry-tests)
+- [test-specific timeouts](#test-level)
+- [Growl support](#desktop-notification-support)
+- [reports test durations](#test-duration)
+- [highlights slow tests](#dot-matrix)
+- [file watcher support](#min)
+- [global variable leak detection](#-check-leaks)
+- [optionally run tests that match a regexp](#-grep-regexp-g-regexp)
+- [auto-exit to prevent “hanging” with an active loop](#-exit)
+- [easily meta-generate suites](#markdown) & [test-cases](#list)
+- [config file support](#-config-path)
+- [node debugger support](#-inspect-inspect-brk-inspect)
+- [node native ES modules support](#nodejs-native-esm-support)
+- [source-map support](#-enable-source-maps)
+- [detects multiple calls to `done()`](#detects-multiple-calls-to-done)
+- [use any assertion library you want](#assertions)
+- [extensible reporting, bundled with 9+ reporters](#reporters)
+- [extensible test DSLs or “interfaces”](#interfaces)
+- [before, after, before each, after each hooks](#hooks)
+- [arbitrary transpiler support (coffee-script etc)](#-compilers)
+- [TextMate bundle](#textmate)
 
-<a href="#table-of-contents" class="direct-link">#</a> Table of Contents
-------------------------------------------------------------------------
+## <a href="#table-of-contents" class="direct-link">#</a> Table of Contents
 
--   [Installation](#installation)
--   [Getting Started](#getting-started)
--   [Run Cycle Overview](#run-cycle-overview)
--   [Detects Multiple Calls to `done()`](#detects-multiple-calls-to-done)
--   [Assertions](#assertions)
--   [Asynchronous Code](#asynchronous-code)
--   [Synchronous Code](#synchronous-code)
--   [Arrow Functions](#arrow-functions)
--   [Hooks](#hooks)
--   [Pending Tests](#pending-tests)
--   [Exclusive Tests](#exclusive-tests)
--   [Inclusive Tests](#inclusive-tests)
--   [Retry Tests](#retry-tests)
--   [Dynamically Generating Tests](#dynamically-generating-tests)
--   [Timeouts](#timeouts)
--   [Diffs](#diffs)
--   [Command-Line Usage](#command-line-usage)
--   [Parallel Tests](#parallel-tests)
--   [Root Hook Plugins](#root-hook-plugins)
--   [Global Fixtures](#global-fixtures)
--   [Test Fixture Decision-Tree Wizard Thing](#test-fixture-decision-tree-wizard-thing)
--   [Interfaces](#interfaces)
--   [Reporters](#reporters)
--   [Node.JS native ESM support](#nodejs-native-esm-support)
--   [Running Mocha in the Browser](#running-mocha-in-the-browser)
--   [Desktop Notification Support](#desktop-notification-support)
--   [Configuring Mocha (Node.js)](#configuring-mocha-nodejs)
--   [The `test/` Directory](#the-test-directory)
--   [Error Codes](#error-codes)
--   [Editor Plugins](#editor-plugins)
--   [Examples](#examples)
--   [Testing Mocha](#testing-mocha)
--   [More Information](#more-information)
+- [Installation](#installation)
+- [Getting Started](#getting-started)
+- [Run Cycle Overview](#run-cycle-overview)
+- [Detects Multiple Calls to `done()`](#detects-multiple-calls-to-done)
+- [Assertions](#assertions)
+- [Asynchronous Code](#asynchronous-code)
+- [Synchronous Code](#synchronous-code)
+- [Arrow Functions](#arrow-functions)
+- [Hooks](#hooks)
+- [Pending Tests](#pending-tests)
+- [Exclusive Tests](#exclusive-tests)
+- [Inclusive Tests](#inclusive-tests)
+- [Retry Tests](#retry-tests)
+- [Dynamically Generating Tests](#dynamically-generating-tests)
+- [Timeouts](#timeouts)
+- [Diffs](#diffs)
+- [Command-Line Usage](#command-line-usage)
+- [Parallel Tests](#parallel-tests)
+- [Root Hook Plugins](#root-hook-plugins)
+- [Global Fixtures](#global-fixtures)
+- [Test Fixture Decision-Tree Wizard Thing](#test-fixture-decision-tree-wizard-thing)
+- [Interfaces](#interfaces)
+- [Reporters](#reporters)
+- [Node.JS native ESM support](#nodejs-native-esm-support)
+- [Running Mocha in the Browser](#running-mocha-in-the-browser)
+- [Desktop Notification Support](#desktop-notification-support)
+- [Configuring Mocha (Node.js)](#configuring-mocha-nodejs)
+- [The `test/` Directory](#the-test-directory)
+- [Error Codes](#error-codes)
+- [Editor Plugins](#editor-plugins)
+- [Examples](#examples)
+- [Testing Mocha](#testing-mocha)
+- [More Information](#more-information)
 
-<a href="#installation" class="direct-link">#</a> Installation
---------------------------------------------------------------
+## <a href="#installation" class="direct-link">#</a> Installation
 
 Install with [npm](https://npmjs.org/) globally:
 
@@ -330,8 +324,7 @@ or as a development dependency for your project:
 
 > As of v9.0.0, Mocha requires Node.js v12.0.0 or newer.
 
-<a href="#getting-started" class="direct-link">#</a> Getting Started
---------------------------------------------------------------------
+## <a href="#getting-started" class="direct-link">#</a> Getting Started
 
     $ npm install mocha
     $ mkdir test
@@ -369,8 +362,7 @@ Then run tests with:
 
     $ npm test
 
-<a href="#run-cycle-overview" class="direct-link">#</a> Run Cycle Overview
---------------------------------------------------------------------------
+## <a href="#run-cycle-overview" class="direct-link">#</a> Run Cycle Overview
 
 > Updated for v8.0.0.
 
@@ -390,43 +382,42 @@ In a browser, test files are loaded by `<script>` tags, and calling `mocha.run()
     1.  If a file loaded this way contains known Mocha-specific exports (e.g., [root hook plugins](#root-hook-plugins)), Mocha “registers” these
     2.  If not, Mocha ignores any exports of a `--require`’d module
 6.  Mocha validates any custom reporters or interfaces which were loaded via `--require` or otherwise
-7.  Mocha *discovers* test files; when given no files or directories, it finds files with extensions `.js`, `.mjs` or `.cjs` in the `test` directory (but not its children), relative to the current working directory
-8.  The (default) [bdd interface](#bdd) loads the test files *in no particular order*, which are given an interface-specific `global` context (this is how, e.g., `describe()` ends up as a global in a test file)
-    1.  When a test file is loaded, Mocha executes all of its suites and finds–*but does not execute*–any hooks and tests therein.
-    2.  Top-level hooks, tests and suites are all made members of an “invisible” *root suite*; there is only *one* root suite for the entire process
+7.  Mocha _discovers_ test files; when given no files or directories, it finds files with extensions `.js`, `.mjs` or `.cjs` in the `test` directory (but not its children), relative to the current working directory
+8.  The (default) [bdd interface](#bdd) loads the test files _in no particular order_, which are given an interface-specific `global` context (this is how, e.g., `describe()` ends up as a global in a test file)
+    1.  When a test file is loaded, Mocha executes all of its suites and finds–_but does not execute_–any hooks and tests therein.
+    2.  Top-level hooks, tests and suites are all made members of an “invisible” _root suite_; there is only _one_ root suite for the entire process
 9.  Mocha runs [global setup fixtures](#global-setup-fixtures), if any
 10. Starting with the “root” suite, Mocha executes:
-11. Any “before all” hooks (for the *root* suite, this only happens once; see [root hook plugins](#root-hook-plugins))
+11. Any “before all” hooks (for the _root_ suite, this only happens once; see [root hook plugins](#root-hook-plugins))
 12. For each test, Mocha executes:
     1.  Any “before each” hooks
     2.  The test (and reports the result)
     3.  Any “after each” hooks
-13. If the current suite has a child suite, repeat the steps in 10. for each child suite; each child suite *inherits* any “before each” and “after each” hooks defined in its parent
-14. Any “after all” hooks (for the *root* suite, this only happens once; see [root hook plugins](#root-hook-plugins))
+13. If the current suite has a child suite, repeat the steps in 10. for each child suite; each child suite _inherits_ any “before each” and “after each” hooks defined in its parent
+14. Any “after all” hooks (for the _root_ suite, this only happens once; see [root hook plugins](#root-hook-plugins))
 15. Mocha prints a final summary/epilog, if applicable
 16. Mocha runs [global teardown fixtures](#global-teardown-fixtures), if any
 
 ### <a href="#parallel-mode" class="direct-link">#</a> Parallel Mode
 
 1.  Repeat steps 1 through 6 from [Serial Mode](#serial-mode) above, skipping reporter validation
-2.  All test files found are put into a queue (they are *not* loaded by the main process)
+2.  All test files found are put into a queue (they are _not_ loaded by the main process)
 3.  Mocha runs [global setup fixtures](#global-setup-fixtures), if any
 4.  Mocha creates a pool of subprocesses (“workers”)
-5.  *Immediately before* a worker runs the first test it receives, the worker “bootstraps” itself by:
+5.  _Immediately before_ a worker runs the first test it receives, the worker “bootstraps” itself by:
     1.  Loading all `--require`’d modules
     2.  Registering any root hook plugins
-    3.  *Ignoring* global fixtures and custom reporters
+    3.  _Ignoring_ global fixtures and custom reporters
     4.  Asserting the built-in or custom interface is valid
-6.  When a worker receives a test file to run, the worker creates a new Mocha instance *for the single test file*, and:
+6.  When a worker receives a test file to run, the worker creates a new Mocha instance _for the single test file_, and:
 7.  The worker repeats step 8 from [above](#serial-mode)
-8.  The worker repeats step 10 from [above](#serial-mode), with the caveat that the worker *does not* report test results directly; it holds them in a memory buffer
+8.  The worker repeats step 10 from [above](#serial-mode), with the caveat that the worker _does not_ report test results directly; it holds them in a memory buffer
 9.  When the worker completes the test file, buffered results are returned to the main process, which then gives them to the user-specified reporter (`spec` by default)
 10. The worker makes itself available to the pool; the pool gives the worker another test file to run, if any remain
 11. Mocha prints a final summary/epilog, if applicable
 12. Mocha runs [global teardown fixtures](#global-teardown-fixtures), if any
 
-<a href="#detects-multiple-calls-to-done" class="direct-link">#</a> Detects Multiple Calls to `done()`
-------------------------------------------------------------------------------------------------------
+## <a href="#detects-multiple-calls-to-done" class="direct-link">#</a> Detects Multiple Calls to `done()`
 
 If you use callback-based async tests, Mocha will throw an error if `done()` is called multiple times. This is handy for catching accidental double callbacks.
 
@@ -455,21 +446,19 @@ Running the above test will give you the below error message:
           at startup (bootstrap_node.js:187:16)
           at bootstrap_node.js:608:3
 
-<a href="#assertions" class="direct-link">#</a> Assertions
-----------------------------------------------------------
+## <a href="#assertions" class="direct-link">#</a> Assertions
 
 Mocha allows you to use any assertion library you wish. In the above example, we’re using Node.js’ built-in [assert](https://nodejs.org/api/assert.html) module — but generally, if it throws an `Error`, it will work! This means you can use libraries such as:
 
--   [should.js](https://github.com/shouldjs/should.js) - BDD style shown throughout these docs
--   [expect.js](https://github.com/LearnBoost/expect.js) - `expect()` style assertions
--   [chai](https://www.chaijs.com/) - `expect()`, `assert()` and `should`-style assertions
--   [better-assert](https://github.com/visionmedia/better-assert) - C-style self-documenting `assert()`
--   [unexpected](https://unexpected.js.org/) - “the extensible BDD assertion toolkit”
+- [should.js](https://github.com/shouldjs/should.js) - BDD style shown throughout these docs
+- [expect.js](https://github.com/LearnBoost/expect.js) - `expect()` style assertions
+- [chai](https://www.chaijs.com/) - `expect()`, `assert()` and `should`-style assertions
+- [better-assert](https://github.com/visionmedia/better-assert) - C-style self-documenting `assert()`
+- [unexpected](https://unexpected.js.org/) - “the extensible BDD assertion toolkit”
 
-<a href="#asynchronous-code" class="direct-link">#</a> Asynchronous Code
-------------------------------------------------------------------------
+## <a href="#asynchronous-code" class="direct-link">#</a> Asynchronous Code
 
-By adding an argument (usually named `done`) to `it()` to a test callback, Mocha will know that it should wait for this function to be called to complete the test. This callback accepts both an `Error` instance (or subclass thereof) *or* a falsy value; anything else is invalid usage and throws an error (usually causing a failed test).
+By adding an argument (usually named `done`) to `it()` to a test callback, Mocha will know that it should wait for this function to be called to complete the test. This callback accepts both an `Error` instance (or subclass thereof) _or_ a falsy value; anything else is invalid usage and throws an error (usually causing a failed test).
 
     describe('User', function() {
       describe('#save()', function() {
@@ -512,7 +501,7 @@ Alternately, instead of using the `done()` callback, you may return a [Promise](
 
 > The latter example uses [Chai as Promised](https://www.npmjs.com/package/chai-as-promised) for fluent promise assertions.
 
-In Mocha v3.0.0 and newer, returning a `Promise` *and* calling `done()` will result in an exception, as this is generally a mistake:
+In Mocha v3.0.0 and newer, returning a `Promise` _and_ calling `done()` will result in an exception, as this is generally a mistake:
 
     const assert = require('assert');
 
@@ -542,8 +531,7 @@ If your JS environment supports [async / await](https://developer.mozilla.org/en
       });
     });
 
-<a href="#synchronous-code" class="direct-link">#</a> Synchronous Code
-----------------------------------------------------------------------
+## <a href="#synchronous-code" class="direct-link">#</a> Synchronous Code
 
 When testing synchronous code, omit the callback and Mocha will automatically continue on to the next test.
 
@@ -556,8 +544,7 @@ When testing synchronous code, omit the callback and Mocha will automatically co
       });
     });
 
-<a href="#arrow-functions" class="direct-link">#</a> Arrow Functions
---------------------------------------------------------------------
+## <a href="#arrow-functions" class="direct-link">#</a> Arrow Functions
 
 Passing [arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) (aka “lambdas”) to Mocha is discouraged. Lambdas lexically bind `this` and cannot access the Mocha context. For example, the following code will fail:
 
@@ -569,10 +556,9 @@ Passing [arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScrip
       });
     });
 
-*If you do not need to use* Mocha’s context, lambdas should work. Be aware that using lambdas will be more painful to refactor if the need eventually arises!
+_If you do not need to use_ Mocha’s context, lambdas should work. Be aware that using lambdas will be more painful to refactor if the need eventually arises!
 
-<a href="#hooks" class="direct-link">#</a> Hooks
-------------------------------------------------
+## <a href="#hooks" class="direct-link">#</a> Hooks
 
 With its default “BDD”-style interface, Mocha provides the hooks `before()`, `after()`, `beforeEach()`, and `afterEach()`. These should be used to set up preconditions and clean up after your tests.
 
@@ -644,13 +630,13 @@ All hooks (`before()`, `after()`, `beforeEach()`, `afterEach()`) may be sync or 
 
 ### <a href="#root-level-hooks" class="direct-link">#</a> Root-Level Hooks
 
-A hook defined at the top scope of a test file (outside of a suite) is a *root hook*.
+A hook defined at the top scope of a test file (outside of a suite) is a _root hook_.
 
 As of v8.0.0, [Root Hook Plugins](#root-hook-plugins) are the preferred mechanism for setting root hooks.
 
 ### <a href="#delayed-root-suite" class="direct-link">#</a> Delayed Root Suite
 
-> *WARNING: Delayed root suites are incompatible with [parallel mode](#parallel-tests).*
+> _WARNING: Delayed root suites are incompatible with [parallel mode](#parallel-tests)._
 
 If you need to perform asynchronous operations before any of your suites are run (e.g. for dynamically generating tests), you may delay the root suite. Run `mocha` with the `--delay` flag. This will attach a special callback function, `run()`, to the global context:
 
@@ -673,10 +659,9 @@ If you need to perform asynchronous operations before any of your suites are run
       run();
     })();
 
-<a href="#pending-tests" class="direct-link">#</a> Pending Tests
-----------------------------------------------------------------
+## <a href="#pending-tests" class="direct-link">#</a> Pending Tests
 
-“Pending” — as in “someone should write these test cases eventually” — test-cases are those *without* a callback:
+“Pending” — as in “someone should write these test cases eventually” — test-cases are those _without_ a callback:
 
     describe('Array', function() {
       describe('#indexOf()', function() {
@@ -689,12 +674,11 @@ Pending tests will be included in the test results, and marked as pending. A pen
 
 Read the [inclusive tests section](#inclusive-tests) for an example of conditionally marking a test as pending via `this.skip()`.
 
-<a href="#exclusive-tests" class="direct-link">#</a> Exclusive Tests
---------------------------------------------------------------------
+## <a href="#exclusive-tests" class="direct-link">#</a> Exclusive Tests
 
-> *WARNING: Exclusive tests are incompatible with [parallel mode](#parallel-tests).*
+> _WARNING: Exclusive tests are incompatible with [parallel mode](#parallel-tests)._
 
-The exclusivity feature allows you to run *only* the specified suite or test-case by appending `.only()` to the function. Here’s an example of executing only a particular suite:
+The exclusivity feature allows you to run _only_ the specified suite or test-case by appending `.only()` to the function. Here’s an example of executing only a particular suite:
 
     describe('Array', function() {
       describe.only('#indexOf()', function() {
@@ -702,7 +686,7 @@ The exclusivity feature allows you to run *only* the specified suite or test-cas
       });
     });
 
-*Note*: All nested suites will still be executed.
+_Note_: All nested suites will still be executed.
 
 Here’s an example of executing an individual test case:
 
@@ -762,7 +746,7 @@ You may also choose multiple suites:
       });
     });
 
-But *tests will have precedence*:
+But _tests will have precedence_:
 
     describe('Array', function() {
       describe.only('#indexOf()', function() {
@@ -776,12 +760,11 @@ But *tests will have precedence*:
       });
     });
 
-*Note*: Hooks, if present, will still be executed.
+_Note_: Hooks, if present, will still be executed.
 
 > Be mindful not to commit usages of `.only()` to version control, unless you really mean it! To do so one can run mocha with the option `--forbid-only` in the continuous integration test command (or in a git precommit hook).
 
-<a href="#inclusive-tests" class="direct-link">#</a> Inclusive Tests
---------------------------------------------------------------------
+## <a href="#inclusive-tests" class="direct-link">#</a> Inclusive Tests
 
 This feature is the inverse of `.only()`. By appending `.skip()`, you may tell Mocha to ignore test case(s). Anything skipped will be marked as [pending](#pending-tests), and reported as such. Here’s an example of skipping an individual test:
 
@@ -807,11 +790,11 @@ You can also put `.skip()` on an entire suite. This is equivalent to appending `
       });
     });
 
-*Note*: Code in skipped suites, that is placed outside of hooks or tests is still executed, as mocha will still invoke the suite function to build up the suite structure for visualization.
+_Note_: Code in skipped suites, that is placed outside of hooks or tests is still executed, as mocha will still invoke the suite function to build up the suite structure for visualization.
 
-> *Best practice*: Use `.skip()` instead of commenting tests out.
+> _Best practice_: Use `.skip()` instead of commenting tests out.
 
-You may also skip *at runtime* using `this.skip()`. If a test needs an environment or configuration which cannot be detected beforehand, a runtime skip is appropriate. For example:
+You may also skip _at runtime_ using `this.skip()`. If a test needs an environment or configuration which cannot be detected beforehand, a runtime skip is appropriate. For example:
 
     it('should only test in the correct environment', function() {
       if (/* check test environment */) {
@@ -821,9 +804,9 @@ You may also skip *at runtime* using `this.skip()`. If a test needs an environme
       }
     });
 
-The above test will be reported as [pending](#pending-tests). It’s also important to note that calling `this.skip()` will effectively *abort* the test.
+The above test will be reported as [pending](#pending-tests). It’s also important to note that calling `this.skip()` will effectively _abort_ the test.
 
-> *Best practice*: To avoid confusion, do not execute further instructions in a test or hook after calling `this.skip()`.
+> _Best practice_: To avoid confusion, do not execute further instructions in a test or hook after calling `this.skip()`.
 
 Contrast the above test with the following code:
 
@@ -835,11 +818,11 @@ Contrast the above test with the following code:
       }
     });
 
-Because this test *does nothing*, it will be reported as *passing*.
+Because this test _does nothing_, it will be reported as _passing_.
 
-> *Best practice*: Don’t do nothing! A test should make an assertion or use `this.skip()`.
+> _Best practice_: Don’t do nothing! A test should make an assertion or use `this.skip()`.
 
-To skip *multiple* tests in this manner, use `this.skip()` in a “before all” hook:
+To skip _multiple_ tests in this manner, use `this.skip()` in a “before all” hook:
 
     before(function() {
       if (/* check test environment */) {
@@ -871,12 +854,11 @@ This will skip all `it`, `beforeEach/afterEach`, and `describe` blocks within th
       });
     });
 
-> *Updated in v7.0.0:* skipping a test within an “after all” hook is disallowed and will throw an exception. Use a return statement or other means to abort hook execution.
+> _Updated in v7.0.0:_ skipping a test within an “after all” hook is disallowed and will throw an exception. Use a return statement or other means to abort hook execution.
 
 Before Mocha v3.0.0, `this.skip()` was not supported in asynchronous tests and hooks.
 
-<a href="#retry-tests" class="direct-link">#</a> Retry Tests
-------------------------------------------------------------
+## <a href="#retry-tests" class="direct-link">#</a> Retry Tests
 
 You can choose to retry failed tests up to a certain number of times. This feature is designed to handle end-to-end tests (functional tests/Selenium…) where resources cannot be easily mocked/stubbed. **It’s not recommended to use this feature for unit tests**.
 
@@ -899,8 +881,7 @@ This feature does re-run a failed test and its corresponding `beforeEach/afterEa
       });
     });
 
-<a href="#dynamically-generating-tests" class="direct-link">#</a> Dynamically Generating Tests
-----------------------------------------------------------------------------------------------
+## <a href="#dynamically-generating-tests" class="direct-link">#</a> Dynamically Generating Tests
 
 Given Mocha’s use of function expressions to define suites and test cases, it’s straightforward to generate your tests dynamically. No special syntax is required — plain ol’ JavaScript can be used to achieve functionality similar to “parameterized” tests, which you may have seen in other frameworks.
 
@@ -975,8 +956,7 @@ See also [`--delay`](#delayed-root-suite) for CommonJS modules without `top-leve
       });
     });
 
-Test duration
--------------
+## Test duration
 
 Many reporters will display test duration and flag tests that are slow (default: 75ms), as shown here with the SPEC reporter:
 
@@ -1000,8 +980,7 @@ To tweak what’s considered “slow”, you can use the `slow()` method:
       });
     });
 
-<a href="#timeouts" class="direct-link">#</a> Timeouts
-------------------------------------------------------
+## <a href="#timeouts" class="direct-link">#</a> Timeouts
 
 ### <a href="#suite-level" class="direct-link">#</a> Suite-level
 
@@ -1043,15 +1022,13 @@ Again, use `this.timeout(0)` to disable the timeout for a hook.
 
 > In v3.0.0 or newer, a parameter passed to `this.timeout()` greater than the [maximum delay value](https://developer.mozilla.org/docs/Web/API/WindowTimers/setTimeout#Maximum_delay_value) will cause the timeout to be disabled. In v8.0.0 or newer, `this.enableTimeouts()` has been removed. **Warning:** With async tests if you disable timeouts via `this.timeout(0)` and then do not call `done()`, your test will exit silently.
 
-<a href="#diffs" class="direct-link">#</a> Diffs
-------------------------------------------------
+## <a href="#diffs" class="direct-link">#</a> Diffs
 
 Mocha supports the `err.expected` and `err.actual` properties of any thrown `AssertionError`s from an assertion library. Mocha will attempt to display the difference between what was expected, and what the assertion actually saw. Here’s an example of a “string” diff using `--inline-diffs`:
 
 <img src="https://mochajs.org/static/reporter-string-diffs.resize920,9999-withoutEnlargement.ddc0389bf2.png" alt="string diffs" class="screenshot" />
 
-<a href="#command-line-usage" class="direct-link">#</a> Command-Line Usage
---------------------------------------------------------------------------
+## <a href="#command-line-usage" class="direct-link">#</a> Command-Line Usage
 
     mocha [spec..]
 
@@ -1153,7 +1130,7 @@ Enforce a rule that tests must be written in “async” style, meaning each tes
 
 Causes Mocha to stop running tests after the first test failure it encounters. Corresponding “after each” and “after all” hooks are executed for potential cleanup.
 
-`--bail` does *not* imply `--exit`.
+`--bail` does _not_ imply `--exit`.
 
 ### <a href="#-check-leaks" class="direct-link">#</a> `--check-leaks`
 
@@ -1161,36 +1138,36 @@ Use this option to have Mocha check for global variables that are leaked while r
 
 ### <a href="#-compilers" class="direct-link">#</a> `--compilers`
 
-> *`--compilers` was removed in v6.0.0. See [further explanation and workarounds](https://github.com/mochajs/mocha/wiki/compilers-deprecation).*
+> _`--compilers` was removed in v6.0.0. See [further explanation and workarounds](https://github.com/mochajs/mocha/wiki/compilers-deprecation)._
 
 ### <a href="#-dry-run" class="direct-link">#</a> `--dry-run`
 
-> *New in v9.0.0* Report tests without executing any of them, neither tests nor hooks.
+> _New in v9.0.0_ Report tests without executing any of them, neither tests nor hooks.
 
 ### <a href="#-exit" class="direct-link">#</a> `--exit`
 
-> *Updated in v4.0.0.*
+> _Updated in v4.0.0._
 
 TL;DR: If your tests hang after an upgrade to Mocha v4.0.0 or newer, use `--exit` for a quick (though not necessarily recommended) fix.
 
-*Prior to* version v4.0.0, *by default*, Mocha would force its own process to exit once it was finished executing all tests. This behavior enables a set of potential problems; it’s indicative of tests (or fixtures, harnesses, code under test, etc.) which don’t clean up after themselves properly. Ultimately, “dirty” tests can (but not always) lead to *false positive* or *false negative* results.
+_Prior to_ version v4.0.0, _by default_, Mocha would force its own process to exit once it was finished executing all tests. This behavior enables a set of potential problems; it’s indicative of tests (or fixtures, harnesses, code under test, etc.) which don’t clean up after themselves properly. Ultimately, “dirty” tests can (but not always) lead to _false positive_ or _false negative_ results.
 
 “Hanging” most often manifests itself if a server is still listening on a port, or a socket is still open, etc. It can also be something like a runaway `setInterval()`, or even an errant `Promise` that never fulfilled.
 
-The *default behavior* in v4.0.0 (and newer) is `--no-exit`, where previously it was `--exit`.
+The _default behavior_ in v4.0.0 (and newer) is `--no-exit`, where previously it was `--exit`.
 
-**The easiest way to “fix” the issue is to pass `--exit` to the Mocha process.** It *can* be time-consuming to debug — because it’s not always obvious where the problem is — but it *is* recommended to do so.
+**The easiest way to “fix” the issue is to pass `--exit` to the Mocha process.** It _can_ be time-consuming to debug — because it’s not always obvious where the problem is — but it _is_ recommended to do so.
 
 To ensure your tests aren’t leaving messes around, here are some ideas to get started:
 
--   See the [Node.js guide to debugging](https://nodejs.org/en/docs/inspector/)
--   Use the new [`async_hooks`](https://github.com/nodejs/node/blob/master/doc/api/async_hooks.md) API ([example](https://git.io/vdlNM))
--   Try something like [wtfnode](https://npm.im/wtfnode)
--   Use [`.only`](#exclusive-tests) until you find the test that causes Mocha to hang
+- See the [Node.js guide to debugging](https://nodejs.org/en/docs/inspector/)
+- Use the new [`async_hooks`](https://github.com/nodejs/node/blob/master/doc/api/async_hooks.md) API ([example](https://git.io/vdlNM))
+- Try something like [wtfnode](https://npm.im/wtfnode)
+- Use [`.only`](#exclusive-tests) until you find the test that causes Mocha to hang
 
 ### <a href="#-fail-zero" class="direct-link">#</a> `--fail-zero`
 
-> *New in v9.1.0* Fail test run if no tests are encountered with `exit-code: 1`.
+> _New in v9.1.0_ Fail test run if no tests are encountered with `exit-code: 1`.
 
 ### <a href="#-forbid-only" class="direct-link">#</a> `--forbid-only`
 
@@ -1206,7 +1183,7 @@ Enforce a rule that tests may not be skipped (use of e.g., `describe.skip()`, `i
 
 ### <a href="#-global-variable-name" class="direct-link">#</a> `--global <variable-name>`
 
-> *Updated in v6.0.0; the option is `--global` and `--globals` is now an alias.*
+> _Updated in v6.0.0; the option is `--global` and `--globals` is now an alias._
 
 Define a global variable name. For example, suppose your app deliberately exposes a global named `app` and `YUI`, you may want to add `--global app --global YUI`.
 
@@ -1214,7 +1191,7 @@ Define a global variable name. For example, suppose your app deliberately expose
 
 `--global` can accept a comma-delimited list; `--global app,YUI` is equivalent to `--global app --global YUI`.
 
-By using this option in conjunction with `--check-leaks`, you can specify a whitelist of known global variables that you *expect* to leak into global scope.
+By using this option in conjunction with `--check-leaks`, you can specify a whitelist of known global variables that you _expect_ to leak into global scope.
 
 ### <a href="#-retries-n" class="direct-link">#</a> `--retries <n>`
 
@@ -1226,11 +1203,11 @@ Mocha does not retry test failures by default.
 
 Specify the “slow” test threshold in milliseconds. Mocha uses this to highlight test cases that are taking too long. “Slow” tests are not considered failures.
 
-Note: A test that executes for *half* of the “slow” time will be highlighted *in yellow* with the default `spec` reporter; a test that executes for entire “slow” time will be highlighted *in red*.
+Note: A test that executes for _half_ of the “slow” time will be highlighted _in yellow_ with the default `spec` reporter; a test that executes for entire “slow” time will be highlighted _in red_.
 
 ### <a href="#-timeout-ms-t-ms" class="direct-link">#</a> `--timeout <ms>, -t <ms>`
 
-> *Update in v6.0.0: `--timeout 0` is implied when invoking Mocha using inspect flags. `--timeout 99999999` is no longer needed.*
+> _Update in v6.0.0: `--timeout 0` is implied when invoking Mocha using inspect flags. `--timeout 99999999` is no longer needed._
 
 Specifies the test case timeout, defaulting to two (2) seconds (2000 milliseconds). Tests taking longer than this amount of time will be marked as failed.
 
@@ -1246,7 +1223,7 @@ The `--ui` option lets you specify the interface to use, defaulting to `bdd`.
 
 ### <a href="#-color-c-colors" class="direct-link">#</a> `--color, -c, --colors`
 
-> *Updated in v6.0.0. `--colors` is now an alias for `--color`.*
+> _Updated in v6.0.0. `--colors` is now an alias for `--color`._
 
 “Force” color output to be enabled, or alternatively force it to be disabled via `--no-color`. By default, Mocha uses the [supports-color](https://npm.im/supports-color) module to decide.
 
@@ -1290,7 +1267,7 @@ Allows use of third-party reporters. For example, [mocha-lcov-reporter](https://
 
 ### <a href="#-reporter-option-option-o-option-reporter-options-option" class="direct-link">#</a> `--reporter-option <option>, -O <option>, --reporter-options <option>`
 
-> *Updated in v6.0.0. Can be specified multiple times. `--reporter-options` is now an alias for `--reporter-option`.*
+> _Updated in v6.0.0. Can be specified multiple times. `--reporter-options` is now an alias for `--reporter-option`._
 
 Provide options specific to a reporter in `<key>=<value>` format, e.g., `--reporter tap --reporter-option tapVersion=13`.
 
@@ -1300,7 +1277,7 @@ Can be specified as a comma-delimited list.
 
 ### <a href="#-config-path" class="direct-link">#</a> `--config <path>`
 
-> *New in v6.0.0*
+> _New in v6.0.0_
 
 Specify an explicit path to a [configuration file](#configuring-mocha-nodejs).
 
@@ -1308,7 +1285,7 @@ By default, Mocha will search for a config file if `--config` is not specified; 
 
 ### <a href="#-node-option-name-n-name" class="direct-link">#</a> `--node-option <name>, -n <name>`
 
-> *New in v9.1.0*
+> _New in v9.1.0_
 
 For Node.js and V8 options. Mocha forwards these options to Node.js by spawning a new child-process.  
 The options are set without leading dashes `--`, e.g. `-n require=foo -n unhandled-rejections=strict`
@@ -1317,11 +1294,11 @@ Can also be specified as a comma-delimited list: `-n require=foo,unhandled-rejec
 
 ### <a href="#-opts-path" class="direct-link">#</a> `--opts <path>`
 
-> *Removed in v8.0.0. Please use [configuration file](#configuring-mocha-nodejs) instead.*
+> _Removed in v8.0.0. Please use [configuration file](#configuring-mocha-nodejs) instead._
 
 ### <a href="#-package-path" class="direct-link">#</a> `--package <path>`
 
-> *New in v6.0.0*
+> _New in v6.0.0_
 
 Specify an explicit path to a [`package.json` file](#configuring-mocha-nodejs) (ostensibly containing configuration in a `mocha` property).
 
@@ -1331,19 +1308,19 @@ By default, Mocha looks for a `package.json` in the current working directory or
 
 Files having this extension will be considered test files. Defaults to `js`.
 
-Specifying `--extension` will *remove* `.js` as a test file extension; use `--extension js` to re-add it. For example, to load `.mjs` and `.js` test files, you must supply `--extension mjs --extension js`.
+Specifying `--extension` will _remove_ `.js` as a test file extension; use `--extension js` to re-add it. For example, to load `.mjs` and `.js` test files, you must supply `--extension mjs --extension js`.
 
 The option can be given multiple times. The option accepts a comma-delimited list: `--extension a,b` is equivalent to `--extension a --extension b`.
 
-> *New in v8.2.0*
+> _New in v8.2.0_
 
 `--extension` now supports multipart extensions (e.g., `spec.js`), leading dots (`.js`) and combinations thereof (`.spec.js`);
 
 ### <a href="#-file-filedirectoryglob" class="direct-link">#</a> `--file <file|directory|glob>`
 
-> *WARNING: `--file` is incompatible with [parallel mode](#parallel-tests).*
+> _WARNING: `--file` is incompatible with [parallel mode](#parallel-tests)._
 
-Explicitly *include* a test file to be loaded before other test files. Multiple uses of `--file` are allowed, and will be loaded in order given.
+Explicitly _include_ a test file to be loaded before other test files. Multiple uses of `--file` are allowed, and will be loaded in order given.
 
 Useful if you want to declare, for example, hooks to be run before every test across all other test files.
 
@@ -1355,7 +1332,7 @@ Files specified in this way should contain one or more suites, tests or hooks. I
 
 Explicitly ignore (exclude) one or more test files, directories or globs (e.g., `some/**/files*`) that would otherwise be loaded.
 
-Files specified using `--file` *are not affected* by this option.
+Files specified using `--file` _are not affected_ by this option.
 
 Can be specified multiple times.
 
@@ -1369,9 +1346,9 @@ See `--extension` for defining which files are considered test files.
 
 Require a module before loading the user interface or test files. This is useful for:
 
--   Test harnesses
--   Assertion libraries that augment built-ins or global scope (such as [should.js](https://npm.im/should))
--   Compilers such as Babel via [@babel/register](https://npm.im/@babel/register) or TypeScript via [ts-node](https://npm.im/ts-node) (using `--require ts-node/register`). See [Babel](https://github.com/mochajs/mocha-examples/tree/master/packages/babel) or [TypeScript](https://github.com/mochajs/mocha-examples/tree/master/packages/typescript) working examples.
+- Test harnesses
+- Assertion libraries that augment built-ins or global scope (such as [should.js](https://npm.im/should))
+- Compilers such as Babel via [@babel/register](https://npm.im/@babel/register) or TypeScript via [ts-node](https://npm.im/ts-node) (using `--require ts-node/register`). See [Babel](https://github.com/mochajs/mocha-examples/tree/master/packages/babel) or [TypeScript](https://github.com/mochajs/mocha-examples/tree/master/packages/typescript) working examples.
 
 Modules required in this manner are expected to do work synchronously; Mocha won’t wait for async tasks in a required module to finish.
 
@@ -1381,7 +1358,7 @@ Modules required in this manner are expected to do work synchronously; Mocha won
 
 ### <a href="#-sort-s" class="direct-link">#</a> `--sort, -S`
 
-> *WARNING: `--sort` is incompatible with [parallel mode](#parallel-tests).*
+> _WARNING: `--sort` is incompatible with [parallel mode](#parallel-tests)._
 
 Sort test files (by absolute path) using [Array.prototype.sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort).
 
@@ -1395,7 +1372,7 @@ Tests may be rerun manually by typing ⓡ ⓢ ⏎ (same shortcut as `nodemon`).
 
 ### <a href="#-watch-files-filedirectoryglob" class="direct-link">#</a> `--watch-files <file|directory|glob>`
 
-> *New in v7.0.0*
+> _New in v7.0.0_
 
 List of paths or globs to watch when `--watch` is set. If a file matching the given glob changes or is added or removed mocha will rerun all tests.
 
@@ -1407,7 +1384,7 @@ The option can be given multiple times. The option accepts a comma-delimited lis
 
 ### <a href="#-watch-ignore-filedirectoryglob" class="direct-link">#</a> `--watch-ignore <file|directory|glob>`
 
-> *New in v7.0.0*
+> _New in v7.0.0_
 
 List of paths or globs to exclude from watching. Defaults to `node_modules` and `.git`.
 
@@ -1417,7 +1394,7 @@ The option can be given multiple times. The option accepts a comma-delimited lis
 
 ### <a href="#-fgrep-string-f-string" class="direct-link">#</a> `--fgrep <string>, -f <string>`
 
-> *BREAKING CHANGE in v6.0.0; now mutually exclusive with `--grep`.*
+> _BREAKING CHANGE in v6.0.0; now mutually exclusive with `--grep`._
 
 Cause Mocha to only run tests having titles containing the given `string`.
 
@@ -1425,7 +1402,7 @@ Mutually exclusive with `--grep`.
 
 ### <a href="#-grep-regexp-g-regexp" class="direct-link">#</a> `--grep <regexp>, -g <regexp>`
 
-> *BREAKING CHANGE in v6.0.0; now mutually exclusive with `--fgrep`.*
+> _BREAKING CHANGE in v6.0.0; now mutually exclusive with `--fgrep`._
 
 Cause Mocha to only run tests matching the given `regexp`, which is internally compiled to a [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Regexp).
 
@@ -1454,7 +1431,7 @@ Mutually exclusive with `--fgrep`.
 
 ### <a href="#-invert" class="direct-link">#</a> `--invert`
 
-Use the *inverse* of the match specified by `--grep` or `fgrep`.
+Use the _inverse_ of the match specified by `--grep` or `fgrep`.
 
 Requires either `--grep` or `--fgrep` (but not both).
 
@@ -1472,7 +1449,7 @@ Implies `--timeout 0`.
 
 ### <a href="#-parallel-p" class="direct-link">#</a> `--parallel, -p`
 
-> *New in v.8.0.0.*
+> _New in v.8.0.0._
 
 Use the `--parallel` flag to run tests in a worker pool.
 
@@ -1482,11 +1459,11 @@ Each test file will be put into a queue and executed as workers become available
 
 ### <a href="#-jobs-count-j-count" class="direct-link">#</a> `--jobs <count>, -j <count>`
 
-> *New in v.8.0.0.*
+> _New in v.8.0.0._
 
-Use `--jobs <count>` to specify the *maximum* number of processes in the worker pool.
+Use `--jobs <count>` to specify the _maximum_ number of processes in the worker pool.
 
-The default value is the *number of CPU cores* less 1.
+The default value is the _number of CPU cores_ less 1.
 
 Hint: Use `--jobs 0` or `--jobs 1` to temporarily disable `--parallel`.
 
@@ -1494,11 +1471,11 @@ Has no effect unless used with [`--parallel`](#-parallel-p).
 
 ### <a href="#about-option-types" class="direct-link">#</a> About Option Types
 
-> *Updated in v6.0.0.*
+> _Updated in v6.0.0._
 
-Each flag annotated of type `[boolean]` in Mocha’s `--help` output can be *negated* by prepending `--no-` to the flag name. For example, `--no-color` will disable Mocha’s color output, which is enabled by default.
+Each flag annotated of type `[boolean]` in Mocha’s `--help` output can be _negated_ by prepending `--no-` to the flag name. For example, `--no-color` will disable Mocha’s color output, which is enabled by default.
 
-Unless otherwise noted, *all* boolean flags default to `false`.
+Unless otherwise noted, _all_ boolean flags default to `false`.
 
 ### <a href="#about-node-flags" class="direct-link">#</a> About `node` Flags
 
@@ -1508,11 +1485,11 @@ These flags vary depending on your version of Node.js.
 
 `node` flags can be defined in Mocha’s [configuration](#configuring-mocha-nodejs).
 
-> *New in v9.1.0* You can also pass `node` flags to Node.js using [`--node-option`](#-node-option-name-n-name).
+> _New in v9.1.0_ You can also pass `node` flags to Node.js using [`--node-option`](#-node-option-name-n-name).
 
 ### <a href="#-enable-source-maps" class="direct-link">#</a> `--enable-source-maps`
 
-> *New in Node.js v12.12.0*
+> _New in Node.js v12.12.0_
 
 If the [`--enable-source-maps`](https://nodejs.org/dist/latest-v12.x/docs/api/cli.html#cli_enable_source_maps) flag is passed to mocha, source maps will be collected and used to provide accurate stack traces for transpiled code:
 
@@ -1526,30 +1503,29 @@ Prepend `--v8-` to any flag listed in the output of `node --v8-options` (excludi
 
 V8 flags can be defined in Mocha’s [configuration](#configuring-mocha-nodejs).
 
-> *New in v9.1.0* You can also pass V8 flags (without `--v8-`) to Node.js using [`--node-option`](#-node-option-name-n-name).
+> _New in v9.1.0_ You can also pass V8 flags (without `--v8-`) to Node.js using [`--node-option`](#-node-option-name-n-name).
 
-<a href="#parallel-tests" class="direct-link">#</a> Parallel Tests
-------------------------------------------------------------------
+## <a href="#parallel-tests" class="direct-link">#</a> Parallel Tests
 
-> *New in v.8.0.0.*
+> _New in v.8.0.0._
 
 Depending on the number and nature of your tests, you may find a significant performance benefit when running tests in parallel (using the [`--parallel`](#-parallel-p) flag).
 
 Parallel tests should work out-of-the box for many use cases. However, you must be aware of some important implications of the behavior.
 
-> *Note: Authors of third-party libraries built on Mocha should read this!*
+> _Note: Authors of third-party libraries built on Mocha should read this!_
 
 ### <a href="#reporter-limitations" class="direct-link">#</a> Reporter Limitations
 
 Due to the nature of the following reporters, they cannot work when running tests in parallel:
 
--   [`markdown`](#markdown)
--   [`progress`](#progress)
--   [`json-stream`](#json-stream)
+- [`markdown`](#markdown)
+- [`progress`](#progress)
+- [`json-stream`](#json-stream)
 
-These reporters expect Mocha to know *how many tests it plans to run* before execution. This information is unavailable in parallel mode, as test files are loaded only when they are about to be run.
+These reporters expect Mocha to know _how many tests it plans to run_ before execution. This information is unavailable in parallel mode, as test files are loaded only when they are about to be run.
 
-In serial mode, tests results will “stream” as they occur. In parallel mode, reporter output is *buffered*; reporting will occur after each file is completed. In practice, the reporter output will appear in “chunks” (but will otherwise be identical). If a test file is particularly slow, there may be a significant pause while it’s running.
+In serial mode, tests results will “stream” as they occur. In parallel mode, reporter output is _buffered_; reporting will occur after each file is completed. In practice, the reporter output will appear in “chunks” (but will otherwise be identical). If a test file is particularly slow, there may be a significant pause while it’s running.
 
 ### <a href="#exclusive-tests-are-disallowed" class="direct-link">#</a> Exclusive Tests are Disallowed
 
@@ -1560,21 +1536,21 @@ Suggested workarounds:
 1.  Use [`--grep`](#-grep-regexp-g-regexp) or [`--fgrep`](http://localhost:8080/#-fgrep-string-f-string) instead; it’s not particularly efficient, but it will work.
 2.  Don’t use parallel mode. Likely, you won’t be running very many exclusive tests, so you won’t see a great benefit from parallel mode anyhow.
 
-> *TIP: If parallel mode is defined in your config file, you can temporarily disable it on the command-line by using either the `--no-parallel` flag or reducing the job count, e.g., `--jobs=0`.*
+> _TIP: If parallel mode is defined in your config file, you can temporarily disable it on the command-line by using either the `--no-parallel` flag or reducing the job count, e.g., `--jobs=0`._
 
 ### <a href="#file-order-is-non-deterministic" class="direct-link">#</a> File Order is Non-Deterministic
 
 In parallel mode, Mocha does not guarantee the order in which test files will run, nor which worker process runs them.
 
-Because of this, the following options, which depend on order, *cannot be used* in parallel mode:
+Because of this, the following options, which depend on order, _cannot be used_ in parallel mode:
 
--   [`--file`](#-file-filedirectoryglob)
--   [`--sort`](#-sort-s)
--   [`--delay`](#delayed-root-suite)
+- [`--file`](#-file-filedirectoryglob)
+- [`--sort`](#-sort-s)
+- [`--delay`](#delayed-root-suite)
 
 ### <a href="#test-duration-variability" class="direct-link">#</a> Test Duration Variability
 
-Running tests in parallel mode will naturally use more system resources. The OS may take extra time to schedule and complete some operations, depending on system load. For this reason, the timeouts of *individual tests* may need to be increased either [globally](#-timeout-ms-t-ms) or [otherwise](#timeouts).
+Running tests in parallel mode will naturally use more system resources. The OS may take extra time to schedule and complete some operations, depending on system load. For this reason, the timeouts of _individual tests_ may need to be increased either [globally](#-timeout-ms-t-ms) or [otherwise](#timeouts).
 
 ### <a href="#bail-is-best-effort" class="direct-link">#</a> “Bail” is “Best Effort”
 
@@ -1586,9 +1562,9 @@ Either way, Mocha will abort the test run “very soon.”
 
 ### <a href="#root-hooks-are-not-global" class="direct-link">#</a> Root Hooks Are Not Global
 
-> *NOTE: This only applies when running in parallel mode.*
+> _NOTE: This only applies when running in parallel mode._
 
-A *root hook* is a hook in a test file which is *not defined* within a suite. An example using the `bdd` interface:
+A _root hook_ is a hook in a test file which is _not defined_ within a suite. An example using the `bdd` interface:
 
     // test/setup.js
 
@@ -1606,18 +1582,18 @@ When run (in the default “serial” mode) via this command:
 
     mocha --file "./test/setup.js" "./test/**/*.spec.js"
 
-`setup.js` will be executed *first*, and install the two hooks shown above for every test found in `./test/**/*.spec.js`.
+`setup.js` will be executed _first_, and install the two hooks shown above for every test found in `./test/**/*.spec.js`.
 
 **The above example does not work in parallel mode.**
 
-When Mocha runs in parallel mode, **test files do not share the same process,** nor do they share the same instance of Mocha. Consequently, a hypothetical root hook defined in test file *A* **will not be present** in test file *B*.
+When Mocha runs in parallel mode, **test files do not share the same process,** nor do they share the same instance of Mocha. Consequently, a hypothetical root hook defined in test file _A_ **will not be present** in test file _B_.
 
 Here are a couple suggested workarounds:
 
 1.  `require('./setup.js')` or `import './setup.js'` at the top of every test file. Best avoided for those averse to boilerplate.
-2.  *Recommended*: Define root hooks in a “required” file, using the new (also as of v8.0.0) [Root Hook Plugin](#root-hook-plugins) system.
+2.  _Recommended_: Define root hooks in a “required” file, using the new (also as of v8.0.0) [Root Hook Plugin](#root-hook-plugins) system.
 
-If you need to run some code *once and only once*, use a [global fixture](#global-fixtures) instead.
+If you need to run some code _once and only once_, use a [global fixture](#global-fixtures) instead.
 
 ### <a href="#no-browser-support" class="direct-link">#</a> No Browser Support
 
@@ -1631,31 +1607,30 @@ Third-party reporters may encounter issues when attempting to access non-existen
 
 If you find your tests don’t work properly when run with [`--parallel`](#-parallel-p), either shrug and move on, or use this handy-dandy checklist to get things working:
 
--   ✅ Ensure you are using a [supported reporter](#reporter-limitations).
--   ✅ Ensure you are not using [other unsupported flags](#file-order-is-non-deterministic).
--   ✅ Double-check your [config file](#configuring-mocha-nodejs); options set in config files will be merged with any command-line option.
--   ✅ Look for root hooks (they look like [this](#root-hooks-are-not-global)) in your tests. Move them into a [Root Hook Plugin](#root-hook-plugins).
--   ✅ Do any assertion, mock, or other test libraries you’re consuming use root hooks? They may need to be [migrated](#migrating-a-library-to-use-root-hook-plugins) for compatibility with parallel mode.
--   ✅ If tests are unexpectedly timing out, you may need to increase the default test timeout (via [`--timeout`](#-timeout-ms-t-ms))
--   ✅ Ensure your tests do not depend on being run in a specific order.
--   ✅ Ensure your tests clean up after themselves; remove temp files, handles, sockets, etc. Don’t try to share state or resources between test files.
+- ✅ Ensure you are using a [supported reporter](#reporter-limitations).
+- ✅ Ensure you are not using [other unsupported flags](#file-order-is-non-deterministic).
+- ✅ Double-check your [config file](#configuring-mocha-nodejs); options set in config files will be merged with any command-line option.
+- ✅ Look for root hooks (they look like [this](#root-hooks-are-not-global)) in your tests. Move them into a [Root Hook Plugin](#root-hook-plugins).
+- ✅ Do any assertion, mock, or other test libraries you’re consuming use root hooks? They may need to be [migrated](#migrating-a-library-to-use-root-hook-plugins) for compatibility with parallel mode.
+- ✅ If tests are unexpectedly timing out, you may need to increase the default test timeout (via [`--timeout`](#-timeout-ms-t-ms))
+- ✅ Ensure your tests do not depend on being run in a specific order.
+- ✅ Ensure your tests clean up after themselves; remove temp files, handles, sockets, etc. Don’t try to share state or resources between test files.
 
 ### <a href="#caveats-about-testing-in-parallel" class="direct-link">#</a> Caveats About Testing in Parallel
 
-Some types of tests are *not* so well-suited to run in parallel. For example, extremely timing-sensitive tests, or tests which make I/O requests to a limited pool of resources (such as opening ports, or automating browser windows, hitting a test DB, or remote server, etc.).
+Some types of tests are _not_ so well-suited to run in parallel. For example, extremely timing-sensitive tests, or tests which make I/O requests to a limited pool of resources (such as opening ports, or automating browser windows, hitting a test DB, or remote server, etc.).
 
 Free-tier cloud CI services may not provide a suitable multi-core container or VM for their build agents. Regarding expected performance gains in CI: your mileage may vary. It may help to use a conditional in a `.mocharc.js` to check for `process.env.CI`, and adjust the job count as appropriate.
 
-It’s unlikely (but not impossible) to see a performance gain from a [job count](#-jobs-count-j-count) *greater than* the number of available CPU cores. That said, *play around with the job count*–there’s no one-size-fits all, and the unique characteristics of your tests will determine the optimal number of jobs; it may even be that fewer is faster!
+It’s unlikely (but not impossible) to see a performance gain from a [job count](#-jobs-count-j-count) _greater than_ the number of available CPU cores. That said, _play around with the job count_–there’s no one-size-fits all, and the unique characteristics of your tests will determine the optimal number of jobs; it may even be that fewer is faster!
 
-<a href="#root-hook-plugins" class="direct-link">#</a> Root Hook Plugins
-------------------------------------------------------------------------
+## <a href="#root-hook-plugins" class="direct-link">#</a> Root Hook Plugins
 
-> *New in v8.0.0*
+> _New in v8.0.0_
 
-In some cases, you may want a [hook](#hooks) before (or after) every test in every file. These are called *root hooks*. Previous to v8.0.0, the way to accomplish this was to use `--file` combined with root hooks (see [example above](#root-hooks-are-not-global)). This still works in v8.0.0, but *not* when running tests in parallel mode! For that reason, running root hooks using this method is *strongly discouraged*, and may be deprecated in the future.
+In some cases, you may want a [hook](#hooks) before (or after) every test in every file. These are called _root hooks_. Previous to v8.0.0, the way to accomplish this was to use `--file` combined with root hooks (see [example above](#root-hooks-are-not-global)). This still works in v8.0.0, but _not_ when running tests in parallel mode! For that reason, running root hooks using this method is _strongly discouraged_, and may be deprecated in the future.
 
-A *Root Hook Plugin* is a JavaScript file loaded via [`--require`](#-require-module-r-module) which “registers” one or more root hooks to be used across all test files.
+A _Root Hook Plugin_ is a JavaScript file loaded via [`--require`](#-require-module-r-module) which “registers” one or more root hooks to be used across all test files.
 
 In browsers you can set root hooks directly via a `rootHooks` object: `mocha.setup({ rootHooks: {beforeEach() {...}} })`, see [`mocha.setup()`](#running-mocha-in-the-browser)
 
@@ -1680,7 +1655,7 @@ Here’s a simple example which defines a root hook, written using CJS and ESM s
 
 We’re using the `.mjs` extension in these examples.
 
-> *Tip: If you’re having trouble getting ES modules to work, refer to [the Node.js documentation](https://nodejs.org/api/esm.html).*
+> _Tip: If you’re having trouble getting ES modules to work, refer to [the Node.js documentation](https://nodejs.org/api/esm.html)._
 
     // test/hooks.mjs
 
@@ -1691,26 +1666,26 @@ We’re using the `.mjs` extension in these examples.
       }
     };
 
-> *Note: Further examples will use ESM syntax.*
+> _Note: Further examples will use ESM syntax._
 
 ### <a href="#available-root-hooks" class="direct-link">#</a> Available Root Hooks
 
-Root hooks work with any interface, but *the property names do not change*. In other words, if you are using the `tdd` interface, `suiteSetup` maps to `beforeAll`, and `setup` maps to `beforeEach`.
+Root hooks work with any interface, but _the property names do not change_. In other words, if you are using the `tdd` interface, `suiteSetup` maps to `beforeAll`, and `setup` maps to `beforeEach`.
 
 Available root hooks and their behavior:
 
--   `beforeAll`:
-    -   In **serial** mode (Mocha’s default), *before all tests begin, once only*
-    -   In **parallel** mode, run *before all tests begin, for each file*
--   `beforeEach`:
-    -   In **both** modes, run *before each test*
--   `afterAll`:
-    -   In **serial** mode, run *after all tests end, once only*
-    -   In **parallel** mode, run *after all tests end, for each file*
--   `afterEach`:
-    -   In **both** modes, run *after every test*
+- `beforeAll`:
+  - In **serial** mode (Mocha’s default), _before all tests begin, once only_
+  - In **parallel** mode, run _before all tests begin, for each file_
+- `beforeEach`:
+  - In **both** modes, run _before each test_
+- `afterAll`:
+  - In **serial** mode, run _after all tests end, once only_
+  - In **parallel** mode, run _after all tests end, for each file_
+- `afterEach`:
+  - In **both** modes, run _after every test_
 
-> *Tip: If you need to ensure code runs once and only once in any mode, use [global fixtures](#global-fixtures).*
+> _Tip: If you need to ensure code runs once and only once in any mode, use [global fixtures](#global-fixtures)._
 
 As with other hooks, `this` refers to to the current context object:
 
@@ -1745,7 +1720,7 @@ Multiple root hooks can be defined in a single plugin, for organizational purpos
 
 ### <a href="#root-hook-plugins-can-export-a-function" class="direct-link">#</a> Root Hook Plugins Can Export a Function
 
-If you need to perform some logic–such as choosing a root hook conditionally, based on the environment–`mochaHooks` can be a *function* which returns the expected object.
+If you need to perform some logic–such as choosing a root hook conditionally, based on the environment–`mochaHooks` can be a _function_ which returns the expected object.
 
     // test/hooks.mjs
 
@@ -1790,15 +1765,15 @@ If you need to perform an async operation, `mochaHooks` can be `Promise`-returni
 
 ### <a href="#multiple-root-hook-plugins" class="direct-link">#</a> Multiple Root Hook Plugins
 
-Multiple root hook plugins can be registered by using `--require` multiple times. For example, to register the root hooks in `hooks-a.js` and `hooks-b.js`, use `--require hooks-a.js --require hooks-b.js`. These will be registered (and run) *in order*.
+Multiple root hook plugins can be registered by using `--require` multiple times. For example, to register the root hooks in `hooks-a.js` and `hooks-b.js`, use `--require hooks-a.js --require hooks-b.js`. These will be registered (and run) _in order_.
 
 ### <a href="#migrating-tests-to-use-root-hook-plugins" class="direct-link">#</a> Migrating Tests to use Root Hook Plugins
 
 To migrate your tests using root hooks to a root hook plugin:
 
-1.  Find your root hooks (hooks defined *outside* of a suite–usually `describe()` callback).
+1.  Find your root hooks (hooks defined _outside_ of a suite–usually `describe()` callback).
 2.  Create a new file, e.g., `test/hooks.js`.
-3.  *Move* your root hooks into `test/hooks.js`.
+3.  _Move_ your root hooks into `test/hooks.js`.
 4.  In `test/hooks.js`, make your hooks a member of an exported `mochaHooks` property.
 5.  Use `--require test/hooks.js` (even better: use a [config file](#configuring-mocha-nodejs) with `{"require": "test/hooks.js"}`) when running your tests.
 
@@ -1833,7 +1808,7 @@ Your `test/hooks.js` (for this example, a CJS module) should contain:
       }
     };
 
-> *NOTE: Careful! `after` becomes `afterAll` and `before` becomes `beforeAll`.*
+> _NOTE: Careful! `after` becomes `afterAll` and `before` becomes `beforeAll`._
 
 Your original `test/test.spec.js` should now contain:
 
@@ -1851,18 +1826,17 @@ Running `mocha --require test/hooks.js test/test.spec.js` will run as before (an
 
 If you’re a library maintainer, and your library uses root hooks, you can migrate by refactoring your entry point:
 
--   Your library should *always* export a [`mochaHooks` object](#defining-a-root-hook-plugin).
--   To maintain backwards compatibility, run your root hooks *if and only if* `global.beforeEach` (or other relevant hook) exists.
--   Instruct your users to `--require <your-package>` when running `mocha`.
+- Your library should _always_ export a [`mochaHooks` object](#defining-a-root-hook-plugin).
+- To maintain backwards compatibility, run your root hooks _if and only if_ `global.beforeEach` (or other relevant hook) exists.
+- Instruct your users to `--require <your-package>` when running `mocha`.
 
-<a href="#global-fixtures" class="direct-link">#</a> Global Fixtures
---------------------------------------------------------------------
+## <a href="#global-fixtures" class="direct-link">#</a> Global Fixtures
 
-> *New in v8.2.0*
+> _New in v8.2.0_
 
-At first glance, *global fixtures* seem similar to [root hooks](#root-hook-plugins). However, unlike root hooks, global fixtures:
+At first glance, _global fixtures_ seem similar to [root hooks](#root-hook-plugins). However, unlike root hooks, global fixtures:
 
-1.  Are *guaranteed* to execute *once and only once*
+1.  Are _guaranteed_ to execute _once and only once_
 2.  Work identically parallel mode, watch mode, and serial mode
 3.  Do not share a context with tests, suites, or other hooks
 
@@ -1894,11 +1868,11 @@ To use it, load this file when running Mocha via `mocha --require fixtures.cjs` 
 
 > Remember: you can define “requires” in a [configuration file](#configuring-mocha-nodejs).
 
-Now, before Mocha loads and runs your tests, it will execute the above global setup fixture, starting a server for testing. This won’t shut *down* the server when Mocha is done, however! To do that, use a [*global teardown fixture*](#global-teardown-fixtures).
+Now, before Mocha loads and runs your tests, it will execute the above global setup fixture, starting a server for testing. This won’t shut _down_ the server when Mocha is done, however! To do that, use a [_global teardown fixture_](#global-teardown-fixtures).
 
 ### <a href="#global-teardown-fixtures" class="direct-link">#</a> Global Teardown Fixtures
 
-Just like a [global setup fixture](#global-setup-fixtures), a *global teardown fixture* can be created by exporting from a “required” script (we can put both types of fixtures in a single file):
+Just like a [global setup fixture](#global-setup-fixtures), a _global teardown fixture_ can be created by exporting from a “required” script (we can put both types of fixtures in a single file):
 
     // fixtures.cjs, cont'd
 
@@ -1918,9 +1892,9 @@ Just like a [global setup fixture](#global-setup-fixtures), a *global teardown f
       console.log('server stopped!');
     }
 
-You’ll note that we used `this` in the fixture examples. Global setup fixtures and global teardown fixtures *share a context*, which means we can add properties to the context object (`this`) in the setup fixture, and reference them later in the teardown fixture. This is more useful when the fixtures are in separate files, since you can just use JS’ variable scoping rules instead ([example below](#when-not-to-use-global-fixtures)).
+You’ll note that we used `this` in the fixture examples. Global setup fixtures and global teardown fixtures _share a context_, which means we can add properties to the context object (`this`) in the setup fixture, and reference them later in the teardown fixture. This is more useful when the fixtures are in separate files, since you can just use JS’ variable scoping rules instead ([example below](#when-not-to-use-global-fixtures)).
 
-As explained [above](#global-fixtures)–and [below](#when-not-to-use-global-fixtures)–test files *do not* have access to this context object.
+As explained [above](#global-fixtures)–and [below](#when-not-to-use-global-fixtures)–test files _do not_ have access to this context object.
 
 ### <a href="#when-to-use-global-fixtures" class="direct-link">#</a> When To Use Global Fixtures
 
@@ -1928,11 +1902,11 @@ Global fixtures are good for spinning up a server, opening a socket, or otherwis
 
 ### <a href="#when-not-to-use-global-fixtures" class="direct-link">#</a> When Not To Use Global Fixtures
 
-If you need to access an in-memory value (such as a file handle or database connection), *don’t* use global fixtures to do this, because your tests will not have access to the value.
+If you need to access an in-memory value (such as a file handle or database connection), _don’t_ use global fixtures to do this, because your tests will not have access to the value.
 
-> You could be clever and try to get around this restriction by assigning something to the `global` object, but this will *not* work in parallel mode. It’s probably best to play by the rules!
+> You could be clever and try to get around this restriction by assigning something to the `global` object, but this will _not_ work in parallel mode. It’s probably best to play by the rules!
 
-Instead, use the global fixture to *start* the database, and use [root hook plugins](#root-hook-plugins) or plain ol’ [hooks](#hooks) to create a connection.
+Instead, use the global fixture to _start_ the database, and use [root hook plugins](#root-hook-plugins) or plain ol’ [hooks](#hooks) to create a connection.
 
 Here’s an example of using global fixtures and “before all” hooks to get the job done. Note that we do not reference the `server` object anywhere in our tests!
 
@@ -1976,15 +1950,13 @@ Then, connect to the server in your tests:
 
 Finally, use this command to bring it together: `mocha --require fixtures.mjs test.spec.mjs`.
 
-<a href="#test-fixture-decision-tree-wizard-thing" class="direct-link">#</a> Test Fixture Decision-Tree Wizard Thing
---------------------------------------------------------------------------------------------------------------------
+## <a href="#test-fixture-decision-tree-wizard-thing" class="direct-link">#</a> Test Fixture Decision-Tree Wizard Thing
 
 This flowchart will help you decide which of [hooks](#hooks), [root hook plugins](#root-hook-plugins) or [global fixtures](#global-fixtures) you should use.
 
 My testsneed setup!Setup MUST runonce and only onceSetup MUST sharestate with testsYESUse Root Hooks andAvoid Parallel ModeUse Global FixturesShould setup affecttests across ALL files?Use Root HooksUse Plain HooksYESNONOYESNO
 
-<a href="#interfaces" class="direct-link">#</a> Interfaces
-----------------------------------------------------------
+## <a href="#interfaces" class="direct-link">#</a> Interfaces
 
 Mocha’s “interface” system allows developers to choose their style of DSL. Mocha has **BDD**, **TDD**, **Exports**, **QUnit** and **Require**-style interfaces.
 
@@ -2056,7 +2028,7 @@ The **Exports** interface is much like Mocha’s predecessor [expresso](https://
 
 ### <a href="#qunit" class="direct-link">#</a> QUnit
 
-The [QUnit](https://qunitjs.com/)-inspired interface matches the “flat” look of QUnit, where the test suite title is defined *before* the test-cases. Like TDD, it uses `suite()` and `test()`, but resembling BDD, it also contains `before()`, `after()`, `beforeEach()`, and `afterEach()`.
+The [QUnit](https://qunitjs.com/)-inspired interface matches the “flat” look of QUnit, where the test suite title is defined _before_ the test-cases. Like TDD, it uses `suite()` and `test()`, but resembling BDD, it also contains `before()`, `after()`, `beforeEach()`, and `afterEach()`.
 
     function ok(expr, msg) {
       if (!expr) throw new Error(msg);
@@ -2086,7 +2058,7 @@ The [QUnit](https://qunitjs.com/)-inspired interface matches the “flat” look
 
 The `require` interface allows you to require the `describe` and friend words directly using `require` and call them whatever you want. This interface is also useful if you want to avoid global variables in your tests.
 
-*Note*: The `require` interface cannot be run via the `node` executable, and must be run via `mocha`.
+_Note_: The `require` interface cannot be run via the `node` executable, and must be run via `mocha`.
 
     var testCase = require('mocha').describe;
     var pre = require('mocha').before;
@@ -2105,8 +2077,7 @@ The `require` interface allows you to require the `describe` and friend words di
       });
     });
 
-<a href="#reporters" class="direct-link">#</a> Reporters
---------------------------------------------------------
+## <a href="#reporters" class="direct-link">#</a> Reporters
 
 Mocha reporters adjust to the terminal window, and always disable ANSI-escape coloring when the stdio streams are not associated with a TTY.
 
@@ -2257,8 +2228,8 @@ Mocha allows you to define custom reporters. For more information see the [wiki]
 
 Examples:
 
--   the [TeamCity reporter](https://github.com/travisjeffery/mocha-teamcity-reporter)
--   our [working example](https://github.com/mochajs/mocha-examples/tree/master/packages/third-party-reporter)
+- the [TeamCity reporter](https://github.com/travisjeffery/mocha-teamcity-reporter)
+- our [working example](https://github.com/mochajs/mocha-examples/tree/master/packages/third-party-reporter)
 
 ### <a href="#html-reporter" class="direct-link">#</a> HTML Reporter
 
@@ -2266,10 +2237,9 @@ Alias: `HTML`, `html`
 
 **The HTML reporter is not intended for use on the command-line.**
 
-<a href="#nodejs-native-esm-support" class="direct-link">#</a> Node.JS native ESM support
------------------------------------------------------------------------------------------
+## <a href="#nodejs-native-esm-support" class="direct-link">#</a> Node.JS native ESM support
 
-> *New in v7.1.0*
+> _New in v7.1.0_
 
 Mocha supports writing your tests as ES modules, and not just using CommonJS. For example:
 
@@ -2285,13 +2255,12 @@ To enable this you don’t need to do anything special. Write your test file as 
 
 ### <a href="#current-limitations" class="direct-link">#</a> Current Limitations
 
--   [Watch mode](#-watch-w) does not support ES Module test files
--   [Custom reporters](#third-party-reporters) and [custom interfaces](#interfaces) can only be CommonJS files
--   [Configuration file](#configuring-mocha-nodejs) can only be a CommonJS file (`.mocharc.js` or `.mocharc.cjs`)
--   When using module-level mocks via libs like `proxyquire`, `rewiremock` or `rewire`, hold off on using ES modules for your test files. You can switch to using `testdouble`, which does support ESM.
+- [Watch mode](#-watch-w) does not support ES Module test files
+- [Custom reporters](#third-party-reporters) and [custom interfaces](#interfaces) can only be CommonJS files
+- [Configuration file](#configuring-mocha-nodejs) can only be a CommonJS file (`.mocharc.js` or `.mocharc.cjs`)
+- When using module-level mocks via libs like `proxyquire`, `rewiremock` or `rewire`, hold off on using ES modules for your test files. You can switch to using `testdouble`, which does support ESM.
 
-<a href="#running-mocha-in-the-browser" class="direct-link">#</a> Running Mocha in the Browser
-----------------------------------------------------------------------------------------------
+## <a href="#running-mocha-in-the-browser" class="direct-link">#</a> Running Mocha in the Browser
 
 Mocha runs in the browser. Every release of Mocha will have new builds of `./mocha.js` and `./mocha.css` for use in the browser.
 
@@ -2365,11 +2334,11 @@ Browser Mocha supports many, but not all [cli options](#command-line-usage). To 
 
 #### <a href="#options-that-differ-slightly-from-cli-options" class="direct-link">#</a> Options that differ slightly from [cli options](#command-line-usage):
 
-`reporter` *{string|constructor}* You can pass a reporter’s name or a custom reporter’s constructor. You can find **recommended** reporters for the browser [here](#reporting). It is possible to use [built-in reporters](#reporters) as well. Their employment in browsers is neither recommended nor supported, open the console to see the test results.
+`reporter` _{string|constructor}_ You can pass a reporter’s name or a custom reporter’s constructor. You can find **recommended** reporters for the browser [here](#reporting). It is possible to use [built-in reporters](#reporters) as well. Their employment in browsers is neither recommended nor supported, open the console to see the test results.
 
-#### <a href="#options-that-only-function-in-browser-context" class="direct-link">#</a> Options that *only* function in browser context:
+#### <a href="#options-that-only-function-in-browser-context" class="direct-link">#</a> Options that _only_ function in browser context:
 
-`noHighlighting` *{boolean}* If set to `true`, do not attempt to use syntax highlighting on output test code.
+`noHighlighting` _{boolean}_ If set to `true`, do not attempt to use syntax highlighting on output test code.
 
 ### <a href="#reporting" class="direct-link">#</a> Reporting
 
@@ -2379,8 +2348,7 @@ The HTML reporter is the default reporter when running Mocha in the browser. It 
 
 [Mochawesome](https://npm.im/mochawesome) is a great alternative to the default HTML reporter.
 
-<a href="#desktop-notification-support" class="direct-link">#</a> Desktop Notification Support
-----------------------------------------------------------------------------------------------
+## <a href="#desktop-notification-support" class="direct-link">#</a> Desktop Notification Support
 
 Desktop notifications allow asynchronous communication of events without forcing you to react to a notification immediately. Their appearance and specific functionality vary across platforms. They typically disappear automatically after a short delay, but their content is often stored in some manner that allows you to access past notifications.
 
@@ -2427,17 +2395,16 @@ Enable Mocha’s web notifications with a slight modification to your client-sid
       </body>
     </html>
 
-<a href="#configuring-mocha-nodejs" class="direct-link">#</a> Configuring Mocha (Node.js)
------------------------------------------------------------------------------------------
+## <a href="#configuring-mocha-nodejs" class="direct-link">#</a> Configuring Mocha (Node.js)
 
-> *New in v6.0.0*
+> _New in v6.0.0_
 
 Mocha supports configuration files, typical of modern command-line tools, in several formats:
 
--   **JavaScript**: Create a `.mocharc.js` (or `.mocharc.cjs` when using [`"type"="module"`](#nodejs-native-esm-support) in your `package.json`) in your project’s root directory, and export an object (`module.exports = {/* ... */}`) containing your configuration.
--   **YAML**: Create a `.mocharc.yaml` (or `.mocharc.yml`) in your project’s root directory.
--   **JSON**: Create a `.mocharc.json` (or `.mocharc.jsonc`) in your project’s root directory. Comments — while not valid JSON — are allowed in this file, and will be ignored by Mocha.
--   **package.json**: Create a `mocha` property in your project’s `package.json`.
+- **JavaScript**: Create a `.mocharc.js` (or `.mocharc.cjs` when using [`"type"="module"`](#nodejs-native-esm-support) in your `package.json`) in your project’s root directory, and export an object (`module.exports = {/* ... */}`) containing your configuration.
+- **YAML**: Create a `.mocharc.yaml` (or `.mocharc.yml`) in your project’s root directory.
+- **JSON**: Create a `.mocharc.json` (or `.mocharc.jsonc`) in your project’s root directory. Comments — while not valid JSON — are allowed in this file, and will be ignored by Mocha.
+- **package.json**: Create a `mocha` property in your project’s `package.json`.
 
 ### <a href="#custom-locations" class="direct-link">#</a> Custom Locations
 
@@ -2461,13 +2428,13 @@ If no custom path was given, and if there are multiple configuration files in th
 
 ### <a href="#merging" class="direct-link">#</a> Merging
 
-Mocha will also *merge* any options found in `package.json` into its run-time configuration. In case of conflict, the priority is:
+Mocha will also _merge_ any options found in `package.json` into its run-time configuration. In case of conflict, the priority is:
 
 1.  Arguments specified on command-line
 2.  Configuration file (`.mocharc.js`, `.mocharc.yml`, etc.)
 3.  `mocha` property of `package.json`
 
-Options which can safely be repeated (e.g., `--require`) will be *concatenated*, with higher-priorty configuration sources appearing earlier in the list. For example, a `.mocharc.json` containing `"require": "bar"`, coupled with execution of `mocha --require foo`, would cause Mocha to require `foo`, then `bar`, in that order.
+Options which can safely be repeated (e.g., `--require`) will be _concatenated_, with higher-priorty configuration sources appearing earlier in the list. For example, a `.mocharc.json` containing `"require": "bar"`, coupled with execution of `mocha --require foo`, would cause Mocha to require `foo`, then `bar`, in that order.
 
 ### <a href="#extending-configuration" class="direct-link">#</a> Extending Configuration
 
@@ -2475,17 +2442,16 @@ Configurations can inherit from other modules using the `extends` keyword. See [
 
 ### <a href="#configuration-format" class="direct-link">#</a> Configuration Format
 
--   Any “boolean” flag (which doesn’t require a parameter, such as `--bail`), can be specified using a boolean value, e.g.: `"bail": true`.
--   Any “array”-type option (see `mocha --help` for a list) can be a single string value.
--   For options containing a dash (`-`), the option name can be specified using camelCase.
--   Aliases are valid names, e.g., `R` instead of `reporter`.
--   Test files can be specified using `spec`, e.g., `"spec": "test/**/*.spec.js"`.
--   Flags to `node` are *also* supported in configuration files. Use caution, as these can vary between versions of Node.js!
+- Any “boolean” flag (which doesn’t require a parameter, such as `--bail`), can be specified using a boolean value, e.g.: `"bail": true`.
+- Any “array”-type option (see `mocha --help` for a list) can be a single string value.
+- For options containing a dash (`-`), the option name can be specified using camelCase.
+- Aliases are valid names, e.g., `R` instead of `reporter`.
+- Test files can be specified using `spec`, e.g., `"spec": "test/**/*.spec.js"`.
+- Flags to `node` are _also_ supported in configuration files. Use caution, as these can vary between versions of Node.js!
 
 **For more configuration examples, see the [`example/config`](https://github.com/mochajs/mocha/tree/master/example/config) directory on GitHub.**
 
-<a href="#the-test-directory" class="direct-link">#</a> The `test/` Directory
------------------------------------------------------------------------------
+## <a href="#the-test-directory" class="direct-link">#</a> The `test/` Directory
 
 By default, `mocha` looks for the glob `"./test/*.{js,cjs,mjs}"`, so you may want to put your tests in `test/` folder. If you want to include subdirectories, pass the `--recursive` option.
 
@@ -2497,23 +2463,21 @@ Some shells support recursive matching by using the globstar (`**`) wildcard. Ba
 
     $ mocha "./spec/**/*.js"
 
-[You should *always* quote your globs in npm scripts](https://medium.com/@jakubsynowiec/you-should-always-quote-your-globs-in-npm-scripts-621887a2a784). If you use double quotes, it’s the shell on UNIX that will expand the glob. On the other hand, if you use single quotes, the [`node-glob`](https://www.npmjs.com/package/glob) module will handle its expansion.
+[You should _always_ quote your globs in npm scripts](https://medium.com/@jakubsynowiec/you-should-always-quote-your-globs-in-npm-scripts-621887a2a784). If you use double quotes, it’s the shell on UNIX that will expand the glob. On the other hand, if you use single quotes, the [`node-glob`](https://www.npmjs.com/package/glob) module will handle its expansion.
 
 See this [tutorial](https://gist.github.com/reggi/475793ea1846affbcfe8) on using globs.
 
-*Note*: Double quotes around the glob are recommended for portability.
+_Note_: Double quotes around the glob are recommended for portability.
 
-<a href="#error-codes" class="direct-link">#</a> Error Codes
-------------------------------------------------------------
+## <a href="#error-codes" class="direct-link">#</a> Error Codes
 
-> *New in v6.0.0*
+> _New in v6.0.0_
 
 When Mocha itself throws exception, the associated `Error` will have a `code` property. Where applicable, consumers should check the `code` property instead of string-matching against the `message` property. The following table describes these error codes:
 
 <table><thead><tr class="header"><th>Code</th><th>Description</th></tr></thead><tbody><tr class="odd"><td><code>ERR_MOCHA_INVALID_ARG_TYPE</code></td><td>wrong type was passed for a given argument</td></tr><tr class="even"><td><code>ERR_MOCHA_INVALID_ARG_VALUE</code></td><td>invalid or unsupported value was passed for a given argument</td></tr><tr class="odd"><td><code>ERR_MOCHA_INVALID_EXCEPTION</code></td><td>a falsy or otherwise underspecified exception was thrown</td></tr><tr class="even"><td><code>ERR_MOCHA_INVALID_INTERFACE</code></td><td>interface specified in options not found</td></tr><tr class="odd"><td><code>ERR_MOCHA_INVALID_REPORTER</code></td><td>reporter specified in options not found</td></tr><tr class="even"><td><code>ERR_MOCHA_NO_FILES_MATCH_PATTERN</code></td><td>test file(s) could not be found</td></tr><tr class="odd"><td><code>ERR_MOCHA_UNSUPPORTED</code></td><td>requested behavior, option, or parameter is unsupported</td></tr></tbody></table>
 
-<a href="#editor-plugins" class="direct-link">#</a> Editor Plugins
-------------------------------------------------------------------
+## <a href="#editor-plugins" class="direct-link">#</a> Editor Plugins
 
 The following editor-related packages are available:
 
@@ -2547,27 +2511,25 @@ The plugin is titled **NodeJS**, and can be installed via **Preferences** &gt; *
 
 #### <a href="#features-2" class="direct-link">#</a> Features
 
--   see all tests in VS Code sidebar menu
--   run & debug tests for each level hierarchy from all tests to a single test (and each suite)
--   auto run tests on file save
--   see tests results directly in the code editor
+- see all tests in VS Code sidebar menu
+- run & debug tests for each level hierarchy from all tests to a single test (and each suite)
+- auto run tests on file save
+- see tests results directly in the code editor
 
 <img src="https://mochajs.org/static/mocha_side_bar.resize920,9999-withoutEnlargement-pngquant.8f90ce1d2b.png?ncolors=" alt="mocha side bar in Action" class="screenshot" />
 
-<a href="#examples" class="direct-link">#</a> Examples
-------------------------------------------------------
+## <a href="#examples" class="direct-link">#</a> Examples
 
 Real live example code:
 
--   [Mocha examples](https://github.com/mochajs/mocha-examples)
--   [Express](https://github.com/visionmedia/express/tree/master/test)
--   [Connect](https://github.com/senchalabs/connect/tree/master/test)
--   [SuperAgent](https://github.com/visionmedia/superagent/tree/master/test/node)
--   [WebSocket.io](https://github.com/LearnBoost/websocket.io/tree/master/test)
--   [Mocha tests](https://github.com/mochajs/mocha/tree/master/test)
+- [Mocha examples](https://github.com/mochajs/mocha-examples)
+- [Express](https://github.com/visionmedia/express/tree/master/test)
+- [Connect](https://github.com/senchalabs/connect/tree/master/test)
+- [SuperAgent](https://github.com/visionmedia/superagent/tree/master/test/node)
+- [WebSocket.io](https://github.com/LearnBoost/websocket.io/tree/master/test)
+- [Mocha tests](https://github.com/mochajs/mocha/tree/master/test)
 
-<a href="#testing-mocha" class="direct-link">#</a> Testing Mocha
-----------------------------------------------------------------
+## <a href="#testing-mocha" class="direct-link">#</a> Testing Mocha
 
 To run Mocha’s tests, you will need GNU Make or compatible; Cygwin should work.
 
@@ -2575,8 +2537,7 @@ To run Mocha’s tests, you will need GNU Make or compatible; Cygwin should work
     $ npm install
     $ npm test
 
-<a href="#more-information" class="direct-link">#</a> More Information
-----------------------------------------------------------------------
+## <a href="#more-information" class="direct-link">#</a> More Information
 
 In addition to chatting with us on [Gitter](https://gitter.im/mochajs/mocha), for additional information such as using spies, mocking, and shared behaviours be sure to check out the [Mocha Wiki](https://github.com/mochajs/mocha/wiki) on GitHub. For discussions join the [Google Group](https://groups.google.com/group/mochajs). For a running example of Mocha, view [example/tests.html](https://mochajs.org/example/tests.html). For the JavaScript API, view the [API documentation](https://mochajs.org/api/) or the [source](https://github.com/mochajs/mocha/blob/master/lib/mocha.js).
 
@@ -2588,13 +2549,13 @@ In addition to chatting with us on [Gitter](https://gitter.im/mochajs/mocha), fo
 
 Copyright [OpenJS Foundation](https://openjsf.org/) and Mocha contributors. All rights reserved. The [OpenJS Foundation](https://openjsf.org/) has registered trademarks and uses trademarks. For a list of trademarks of the [OpenJS Foundation](https://openjsf.org/), please see our [Trademark Policy](https://trademark-policy.openjsf.org/) and [Trademark List](https://trademark-list.openjsf.org/). Trademarks and logos not indicated on the [list of OpenJS Foundation trademarks](https://trademark-list.openjsf.org/) are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
--   [The OpenJS Foundation](https://openjsf.org/)
--   [Terms of Use](https://terms-of-use.openjsf.org/)
--   [Privacy Policy](https://privacy-policy.openjsf.org/)
--   [OpenJS Foundation Bylaws](https://bylaws.openjsf.org/)
--   [Trademark Policy](https://trademark-policy.openjsf.org/)
--   [Trademark List](https://trademark-list.openjsf.org/)
--   [Cookie Policy](https://www.linuxfoundation.org/cookies/)
+- [The OpenJS Foundation](https://openjsf.org/)
+- [Terms of Use](https://terms-of-use.openjsf.org/)
+- [Privacy Policy](https://privacy-policy.openjsf.org/)
+- [OpenJS Foundation Bylaws](https://bylaws.openjsf.org/)
+- [Trademark Policy](https://trademark-policy.openjsf.org/)
+- [Trademark List](https://trademark-list.openjsf.org/)
+- [Cookie Policy](https://www.linuxfoundation.org/cookies/)
 
 [![](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)](https://www.netlify.com/)
 

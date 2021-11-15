@@ -6,26 +6,24 @@ This app works best with JavaScript enabled.
 
 <span class="screen-reader-text">Open Menu</span><span class="icon-close" aria-hidden="true"></span>
 
--   [Home](https://project-portfolio42.netlify.app/)
--   [Portfolio](https://project-portfolio42.netlify.app/portfolio/)
--   [Contact](https://project-portfolio42.netlify.app/contact/)
--   <a href="https://bgoonz-blog.netlify.app/" class="button">MAIN BLOG</a>
+- [Home](https://project-portfolio42.netlify.app/)
+- [Portfolio](https://project-portfolio42.netlify.app/portfolio/)
+- [Contact](https://project-portfolio42.netlify.app/contact/)
+- <a href="https://bgoonz-blog.netlify.app/" class="button">MAIN BLOG</a>
 
-Bgoonz Project Navigation
-=========================
+# Bgoonz Project Navigation
 
 This section can contain a subtitle or tagline. The recommended length is one to three sentences, but can be changed as you prefer.
 
 <a href="https://project-portfolio42.netlify.app/contact" class="button">Contact</a>
 
-My Projects
------------
+## My Projects
 
 An optional subtitle of the section
 
 <a href="https://project-portfolio42.netlify.app/portfolio/project-2/" class="project-link"></a>
 
-![lambda resources website](https://project-portfolio42.netlify.app/images/53bd97097fd4a60cb9d6dce85fefabe8%20(5).png)
+![lambda resources website](<https://project-portfolio42.netlify.app/images/53bd97097fd4a60cb9d6dce85fefabe8%20(5).png>)
 
 ### Lambda Student Resources
 
@@ -37,13 +35,13 @@ An optional subtitle of the section
 
 <a href="https://project-portfolio42.netlify.app/portfolio/project-3/" class="project-link"></a>
 
-![A yellow retro telephone on a yellow background](https://project-portfolio42.netlify.app/images/5307d1df23eb389bb31a6cfe43def861%20(5).png)
+![A yellow retro telephone on a yellow background](<https://project-portfolio42.netlify.app/images/5307d1df23eb389bb31a6cfe43def861%20(5).png>)
 
 ### MihirBegBootstrap
 
 <a href="https://project-portfolio42.netlify.app/portfolio/project-4/" class="project-link"></a>
 
-![A table tennis racket on a pink background](https://project-portfolio42.netlify.app/images/e52475b93e4c589140a961f6ec6a8d7e%20(4).png)
+![A table tennis racket on a pink background](<https://project-portfolio42.netlify.app/images/e52475b93e4c589140a961f6ec6a8d7e%20(4).png>)
 
 ### Text Tools
 
@@ -59,8 +57,7 @@ An optional subtitle of the section
 
 <span class="view-all-button">View All</span>
 
-Latest
-------
+## Latest
 
 An optional subtitle of the section
 

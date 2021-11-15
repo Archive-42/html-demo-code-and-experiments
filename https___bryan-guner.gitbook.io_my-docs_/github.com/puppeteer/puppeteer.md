@@ -2,80 +2,83 @@
 
 <a href="https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&amp;source=header-repo" class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5">Sign up</a>
 
--   Why GitHub?
-    -   <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- Why GitHub?
 
--   <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
--   <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
--   Explore
-    -   <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Learn and contribute
-    -   <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   Connect with others
-    -   <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Features <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/mobile" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Mobile <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/actions" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Actions <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/codespaces" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Codespaces <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/packages" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Packages <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/security" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Security <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/code-review" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Code review <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/issues" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Issues <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/features/integrations" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Integrations <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/sponsors" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/customer-stories" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Customer stories <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
--   <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
--   Pricing
-    -   <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
-    -   <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+- <a href="https://github.com/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Team</a>
+- <a href="https://github.com/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Enterprise</a>
+- Explore
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+  - <a href="https://github.com/explore" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Learn and contribute
+  - <a href="https://github.com/topics" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Topics <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/collections" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Collections <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/trending" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Trending <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://lab.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Learning Lab <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://opensource.guide/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Open source guides <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - Connect with others
+  - <a href="https://github.com/readme" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/events" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Events <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.community/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Community forum <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://stars.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+- <a href="https://github.com/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block">Marketplace</a>
+- Pricing
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  - <a href="https://github.com/pricing" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold py-2">Plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/pricing#compare-features" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Compare plans <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://github.com/enterprise/contact" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--secondary py-2">Contact Sales <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
+  - <a href="https://education.github.com/" class="lh-condensed-ultra d-block no-underline Bump-link--hover Link--primary text-bold border-top pt-4 pb-2 mt-3">Education <span class="Bump-link-symbol float-right text-normal color-fg-muted pr-3">→</span></a>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <!-- -->
 
--   <span class="color-fg-muted">No suggested jump to results</span>
+- <span class="color-fg-muted">No suggested jump to results</span>
 
 <!-- -->
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this organization"> In this organization </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this organization"> In this organization </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
--   <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
+- <a href="#" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2"></a>
 
-    <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
+  <img src="#" class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" width="28" height="28" />
 
-    <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
+  <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"> In this repository </span> <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"> All GitHub </span> <span class="d-inline-block ml-1 v-align-middle" aria-hidden="true">↵</span>
 
-    Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
+  Jump to <span class="d-inline-block ml-1 v-align-middle">↵</span>
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpuppeteer%2Fpuppeteer" class="HeaderMenu-link flex-shrink-0 no-underline">Sign in</a>
 
@@ -83,14 +86,13 @@
 
 {{ message }}
 
-<span class="author flex-self-stretch" itemprop="author"> <a href="https://github.com/puppeteer" class="url fn">puppeteer</a> </span> <span class="mx-1 flex-self-stretch color-fg-muted">/</span> **[puppeteer](https://github.com/puppeteer/puppeteer)** <span class="Label Label--secondary v-align-middle mr-1">Public</span>
-=================================================================================================================================================================================================================================================================================================================================
+# <span class="author flex-self-stretch" itemprop="author"> <a href="https://github.com/puppeteer" class="url fn">puppeteer</a> </span> <span class="mx-1 flex-self-stretch color-fg-muted">/</span> **[puppeteer](https://github.com/puppeteer/puppeteer)** <span class="Label Label--secondary v-align-middle mr-1">Public</span>
 
--   Notifications
--   <span data-view-component="true"> Star </span> <a href="https://github.com/puppeteer/puppeteer/stargazers" class="social-count js-social-count">74.6k</a>
+- Notifications
+- <span data-view-component="true"> Star </span> <a href="https://github.com/puppeteer/puppeteer/stargazers" class="social-count js-social-count">74.6k</a>
 
--   Fork <a href="https://github.com/puppeteer/puppeteer/network/members" class="social-count">7.9k</a>
--   
+- Fork <a href="https://github.com/puppeteer/puppeteer/network/members" class="social-count">7.9k</a>
+-
 
 Headless Chrome Node.js API
 
@@ -106,21 +108,21 @@ Apache-2.0 License
 
 Notifications
 
--   <span data-content="Code">Code</span> <span id="code-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Issues">Issues</span> <span id="issues-repo-tab-count" class="Counter" data-pjax-replace="" title="1,715" data-view-component="true">1.7k</span>
--   <span data-content="Pull requests">Pull requests</span> <span id="pull-requests-repo-tab-count" class="Counter" data-pjax-replace="" title="20" data-view-component="true">20</span>
--   <span data-content="Actions">Actions</span> <span id="actions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
--   <span data-content="Security">Security</span>
--   <span data-content="Insights">Insights</span> <span id="insights-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Code">Code</span> <span id="code-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Issues">Issues</span> <span id="issues-repo-tab-count" class="Counter" data-pjax-replace="" title="1,715" data-view-component="true">1.7k</span>
+- <span data-content="Pull requests">Pull requests</span> <span id="pull-requests-repo-tab-count" class="Counter" data-pjax-replace="" title="20" data-view-component="true">20</span>
+- <span data-content="Actions">Actions</span> <span id="actions-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
+- <span data-content="Security">Security</span>
+- <span data-content="Insights">Insights</span> <span id="insights-repo-tab-count" class="Counter" data-pjax-replace="" title="Not available" data-view-component="true"></span>
 
 <span class="sr-only">More</span>
 
--   <a href="https://github.com/puppeteer/puppeteer" class="js-selected-navigation-item selected dropdown-item">Code</a>
--   <a href="https://github.com/puppeteer/puppeteer/issues" class="js-selected-navigation-item dropdown-item">Issues</a>
--   <a href="https://github.com/puppeteer/puppeteer/pulls" class="js-selected-navigation-item dropdown-item">Pull requests</a>
--   <a href="https://github.com/puppeteer/puppeteer/actions" class="js-selected-navigation-item dropdown-item">Actions</a>
--   <a href="https://github.com/puppeteer/puppeteer/security" class="js-selected-navigation-item dropdown-item">Security</a>
--   <a href="https://github.com/puppeteer/puppeteer/pulse" class="js-selected-navigation-item dropdown-item">Insights</a>
+- <a href="https://github.com/puppeteer/puppeteer" class="js-selected-navigation-item selected dropdown-item">Code</a>
+- <a href="https://github.com/puppeteer/puppeteer/issues" class="js-selected-navigation-item dropdown-item">Issues</a>
+- <a href="https://github.com/puppeteer/puppeteer/pulls" class="js-selected-navigation-item dropdown-item">Pull requests</a>
+- <a href="https://github.com/puppeteer/puppeteer/actions" class="js-selected-navigation-item dropdown-item">Actions</a>
+- <a href="https://github.com/puppeteer/puppeteer/security" class="js-selected-navigation-item dropdown-item">Security</a>
+- <a href="https://github.com/puppeteer/puppeteer/pulse" class="js-selected-navigation-item dropdown-item">Insights</a>
 
 <span class="css-truncate-target" data-menu-button="">main</span> <span class="dropdown-caret"></span>
 
@@ -160,8 +162,7 @@ Code<span class="dropdown-caret"></span>
 
 <span class="sr-only">Loading</span>
 
-Latest commit
--------------
+## Latest commit
 
 <a href="https://github.com/jackfranklin" class="avatar avatar-user"><img src="https://avatars.githubusercontent.com/u/193238?s=48&amp;v=4" alt="@jackfranklin" class="avatar-user" width="24" height="24" /></a>
 
@@ -196,13 +197,11 @@ issues and to not waste cycles on CI.">)</a> </span>
 
 `7c0a7b9`
 
-Git stats
----------
+## Git stats
 
--   <span class="d-none d-sm-inline"> **2,331** <span class="color-fg-muted d-none d-lg-inline" aria-label="Commits on main"> commits </span> </span>
+- <span class="d-none d-sm-inline"> **2,331** <span class="color-fg-muted d-none d-lg-inline" aria-label="Commits on main"> commits </span> </span>
 
-Files
------
+## Files
 
 <a href="https://github.com/puppeteer/puppeteer/tree/7c0a7b92cf98033425b78e1e7a96bb440a636123" class="d-none js-permalink-shortcut">Permalink</a>
 
@@ -513,9 +512,9 @@ Sep 29, 2021
 
 <span class="css-truncate css-truncate-target d-block width-fit markdown-title"> <a href="https://github.com/puppeteer/puppeteer/commit/41f23beb0da2433cf9103e5d8fc22a03b1820336" class="Link--secondary" title="docs: fix more tsdoc warnings
 
-* docs: fix most tsdoc warning messages
+- docs: fix most tsdoc warning messages
 
-* docs: i just added spaceline">docs: fix more tsdoc warnings</a> </span>
+- docs: i just added spaceline">docs: fix more tsdoc warnings</a> </span>
 
 Apr 12, 2021
 
@@ -591,25 +590,27 @@ Sep 14, 2021
 
 <span class="css-truncate css-truncate-target d-block width-fit"><a href="https://github.com/puppeteer/puppeteer/blob/main/.gitattributes" class="js-navigation-open Link--primary" title=".gitattributes">.gitattributes</a></span>
 
-<span class="css-truncate css-truncate-target d-block width-fit markdown-title"> <a href="https://github.com/puppeteer/puppeteer/commit/2d536519a4ba6b4103954d700fb18d023db4ce4e" class="Link--secondary" title="chore(git): Fix line endings in text  files (#4320)
+<span class="css-truncate css-truncate-target d-block width-fit markdown-title"> <a href="https://github.com/puppeteer/puppeteer/commit/2d536519a4ba6b4103954d700fb18d023db4ce4e" class="Link--secondary" title="chore(git): Fix line endings in text files (#4320)
 
 Although we said on #4315 to add just a comment in the CONTRIBUTING.md file. I think this solution will be better for the repository&#39;s health.
 
 We could also apply this for `*.js` but it&#39;s up to you.
 
 This is what I needed to run after I added this file:
+
 ```
 git rm --cached -r .
 git reset --hard
 ```
 
-Fixes #4315">chore(git): Fix line endings in text files (</a><a href="https://github.com/puppeteer/puppeteer/pull/4320" class="issue-link js-issue-link">#4320</a><a href="https://github.com/puppeteer/puppeteer/commit/2d536519a4ba6b4103954d700fb18d023db4ce4e" class="Link--secondary" title="chore(git): Fix line endings in text  files (#4320)
+Fixes #4315">chore(git): Fix line endings in text files (</a><a href="https://github.com/puppeteer/puppeteer/pull/4320" class="issue-link js-issue-link">#4320</a><a href="https://github.com/puppeteer/puppeteer/commit/2d536519a4ba6b4103954d700fb18d023db4ce4e" class="Link--secondary" title="chore(git): Fix line endings in text files (#4320)
 
 Although we said on #4315 to add just a comment in the CONTRIBUTING.md file. I think this solution will be better for the repository&#39;s health.
 
 We could also apply this for `*.js` but it&#39;s up to you.
 
 This is what I needed to run after I added this file:
+
 ```
 git rm --cached -r .
 git reset --hard
@@ -699,8 +700,8 @@ Aug 3, 2021
 
 The `Puppeteer` class had two concerns:
 
-* connect to an existing browser
-* launch a new browser
+- connect to an existing browser
+- launch a new browser
 
 The first of those concerns is needed in all environments, but the
 second is only needed in Node.
@@ -720,15 +721,15 @@ people any issues.
 We also now have new files that are effectively the entry points for
 Puppeteer:
 
-* `node.ts`: the main entry point for Puppeteer on Node.
-* `web.ts`: the main entry point for Puppeteer on the web.
-* `node-puppeteer-core.ts`: for those using puppeteer-core (which only
+- `node.ts`: the main entry point for Puppeteer on Node.
+- `web.ts`: the main entry point for Puppeteer on the web.
+- `node-puppeteer-core.ts`: for those using puppeteer-core (which only
   exists in Node, not on the web).">chore(agnostification): split up root Puppeteer class (</a><a href="https://github.com/puppeteer/puppeteer/pull/6504" class="issue-link js-issue-link">#6504</a><a href="https://github.com/puppeteer/puppeteer/commit/e655bb6ca22e559ae95f3342a5ad5e954ce4649f" class="Link--secondary" title="chore(agnostification): split up root Puppeteer class (#6504)
 
 The `Puppeteer` class had two concerns:
 
-* connect to an existing browser
-* launch a new browser
+- connect to an existing browser
+- launch a new browser
 
 The first of those concerns is needed in all environments, but the
 second is only needed in Node.
@@ -748,9 +749,9 @@ people any issues.
 We also now have new files that are effectively the entry points for
 Puppeteer:
 
-* `node.ts`: the main entry point for Puppeteer on Node.
-* `web.ts`: the main entry point for Puppeteer on the web.
-* `node-puppeteer-core.ts`: for those using puppeteer-core (which only
+- `node.ts`: the main entry point for Puppeteer on Node.
+- `web.ts`: the main entry point for Puppeteer on the web.
+- `node-puppeteer-core.ts`: for those using puppeteer-core (which only
   exists in Node, not on the web).">)</a> </span>
 
 Oct 13, 2020
@@ -761,8 +762,8 @@ Oct 13, 2020
 
 The `Puppeteer` class had two concerns:
 
-* connect to an existing browser
-* launch a new browser
+- connect to an existing browser
+- launch a new browser
 
 The first of those concerns is needed in all environments, but the
 second is only needed in Node.
@@ -782,15 +783,15 @@ people any issues.
 We also now have new files that are effectively the entry points for
 Puppeteer:
 
-* `node.ts`: the main entry point for Puppeteer on Node.
-* `web.ts`: the main entry point for Puppeteer on the web.
-* `node-puppeteer-core.ts`: for those using puppeteer-core (which only
+- `node.ts`: the main entry point for Puppeteer on Node.
+- `web.ts`: the main entry point for Puppeteer on the web.
+- `node-puppeteer-core.ts`: for those using puppeteer-core (which only
   exists in Node, not on the web).">chore(agnostification): split up root Puppeteer class (</a><a href="https://github.com/puppeteer/puppeteer/pull/6504" class="issue-link js-issue-link">#6504</a><a href="https://github.com/puppeteer/puppeteer/commit/e655bb6ca22e559ae95f3342a5ad5e954ce4649f" class="Link--secondary" title="chore(agnostification): split up root Puppeteer class (#6504)
 
 The `Puppeteer` class had two concerns:
 
-* connect to an existing browser
-* launch a new browser
+- connect to an existing browser
+- launch a new browser
 
 The first of those concerns is needed in all environments, but the
 second is only needed in Node.
@@ -810,9 +811,9 @@ people any issues.
 We also now have new files that are effectively the entry points for
 Puppeteer:
 
-* `node.ts`: the main entry point for Puppeteer on Node.
-* `web.ts`: the main entry point for Puppeteer on the web.
-* `node-puppeteer-core.ts`: for those using puppeteer-core (which only
+- `node.ts`: the main entry point for Puppeteer on Node.
+- `web.ts`: the main entry point for Puppeteer on the web.
+- `node-puppeteer-core.ts`: for those using puppeteer-core (which only
   exists in Node, not on the web).">)</a> </span>
 
 Oct 13, 2020
@@ -929,11 +930,9 @@ View code
 
 <a href="#puppeteer" class="filter-item SelectMenu-item py-1 text-emphasized">Puppeteer</a> <a href="#api--faq--contributing--troubleshooting" class="filter-item SelectMenu-item py-1">API | FAQ | Contributing | Troubleshooting</a> <a href="#what-can-i-do" class="filter-item SelectMenu-item py-1">What can I do?</a> <a href="#getting-started" class="filter-item SelectMenu-item py-1">Getting Started</a> <a href="#installation" class="filter-item SelectMenu-item py-1">Installation</a> <a href="#puppeteer-core" class="filter-item SelectMenu-item py-1">puppeteer-core</a> <a href="#usage" class="filter-item SelectMenu-item py-1">Usage</a> <a href="#default-runtime-settings" class="filter-item SelectMenu-item py-1">Default runtime settings</a> <a href="#resources" class="filter-item SelectMenu-item py-1">Resources</a> <a href="#debugging-tips" class="filter-item SelectMenu-item py-1">Debugging tips</a> <a href="#usage-with-typescript" class="filter-item SelectMenu-item py-1">Usage with TypeScript</a> <a href="#contributing-to-puppeteer" class="filter-item SelectMenu-item py-1">Contributing to Puppeteer</a> <a href="#faq" class="filter-item SelectMenu-item py-1 text-emphasized">FAQ</a> <a href="#q-who-maintains-puppeteer" class="filter-item SelectMenu-item py-1">Q: Who maintains Puppeteer?</a> <a href="#q-what-is-the-status-of-cross-browser-support" class="filter-item SelectMenu-item py-1">Q: What is the status of cross-browser support?</a> <a href="#q-what-are-puppeteers-goals-and-principles" class="filter-item SelectMenu-item py-1">Q: What are Puppeteer’s goals and principles?</a> <a href="#q-is-puppeteer-replacing-seleniumwebdriver" class="filter-item SelectMenu-item py-1">Q: Is Puppeteer replacing Selenium/WebDriver?</a> <a href="#q-why-doesnt-puppeteer-vxxx-work-with-chromium-vyyy" class="filter-item SelectMenu-item py-1">Q: Why doesn’t Puppeteer v.XXX work with Chromium v.YYY?</a> <a href="#q-which-chromium-version-does-puppeteer-use" class="filter-item SelectMenu-item py-1">Q: Which Chromium version does Puppeteer use?</a> <a href="#q-which-firefox-version-does-puppeteer-use" class="filter-item SelectMenu-item py-1">Q: Which Firefox version does Puppeteer use?</a> <a href="#q-whats-considered-a-navigation" class="filter-item SelectMenu-item py-1">Q: What’s considered a “Navigation”?</a> <a href="#q-whats-the-difference-between-a-trusted-and-untrusted-input-event" class="filter-item SelectMenu-item py-1">Q: What’s the difference between a “trusted" and "untrusted" input event?</a> <a href="#q-what-features-does-puppeteer-not-support" class="filter-item SelectMenu-item py-1">Q: What features does Puppeteer not support?</a> <a href="#q-i-am-having-trouble-installing--running-puppeteer-in-my-test-environment-where-should-i-look-for-help" class="filter-item SelectMenu-item py-1">Q: I am having trouble installing / running Puppeteer in my test environment. Where should I look for help?</a> <a href="#q-chromium-gets-downloaded-on-every-npm-ci-run-how-can-i-cache-the-download" class="filter-item SelectMenu-item py-1">Q: Chromium gets downloaded on every npm ci run. How can I cache the download?</a> <a href="#q-how-do-i-trytest-a-prerelease-version-of-puppeteer" class="filter-item SelectMenu-item py-1">Q: How do I try/test a prerelease version of Puppeteer?</a> <a href="#q-i-have-more-questions-where-do-i-ask" class="filter-item SelectMenu-item py-1">Q: I have more questions! Where do I ask?</a>
 
-<a href="#readme" class="Link--primary">README.md</a>
------------------------------------------------------
+## <a href="#readme" class="Link--primary">README.md</a>
 
-<a href="#puppeteer" id="user-content-puppeteer" class="anchor"></a>Puppeteer
-=============================================================================
+# <a href="#puppeteer" id="user-content-puppeteer" class="anchor"></a>Puppeteer
 
 [![Build status](https://github.com/puppeteer/puppeteer/workflows/run-checks/badge.svg)](https://github.com/puppeteer/puppeteer/actions?query=workflow%3Arun-checks) [![npm puppeteer package](https://camo.githubusercontent.com/694c83d2a0466dd57088bdcc42020299d7e15115792be2e44ae4f3e1354daccb/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075707065746565722e737667)](https://npmjs.org/package/puppeteer)
 
@@ -947,15 +946,14 @@ View code
 
 Most things that you can do manually in the browser can be done using Puppeteer! Here are a few examples to get you started:
 
--   Generate screenshots and PDFs of pages.
--   Crawl a SPA (Single-Page Application) and generate pre-rendered content (i.e. "SSR" (Server-Side Rendering)).
--   Automate form submission, UI testing, keyboard input, etc.
--   Create an up-to-date, automated testing environment. Run your tests directly in the latest version of Chrome using the latest JavaScript and browser features.
--   Capture a [timeline trace](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference) of your site to help diagnose performance issues.
--   Test Chrome Extensions.
+- Generate screenshots and PDFs of pages.
+- Crawl a SPA (Single-Page Application) and generate pre-rendered content (i.e. "SSR" (Server-Side Rendering)).
+- Automate form submission, UI testing, keyboard input, etc.
+- Create an up-to-date, automated testing environment. Run your tests directly in the latest version of Chrome using the latest JavaScript and browser features.
+- Capture a [timeline trace](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference) of your site to help diagnose performance issues.
+- Test Chrome Extensions.
 
-<a href="#getting-started" id="user-content-getting-started" class="anchor"></a>Getting Started
------------------------------------------------------------------------------------------------
+## <a href="#getting-started" id="user-content-getting-started" class="anchor"></a>Getting Started
 
 ### <a href="#installation" id="user-content-installation" class="anchor"></a>Installation
 
@@ -985,7 +983,7 @@ Note: Prior to v1.18.1, Puppeteer required at least Node v6.4.0. Versions from v
 
 Puppeteer will be familiar to people using other browser testing frameworks. You create an instance of `Browser`, open pages, and then manipulate them with [Puppeteer's API](https://github.com/puppeteer/puppeteer/blob/v11.0.0/docs/api.md#).
 
-**Example** - navigating to [https://example.com](https://example.com/) and saving a screenshot as *example.png*:
+**Example** - navigating to [https://example.com](https://example.com/) and saving a screenshot as _example.png_:
 
 Save file as **example.js**
 
@@ -1060,8 +1058,7 @@ Execute script on the command line
 
 See [`Page.evaluate()`](https://github.com/puppeteer/puppeteer/blob/v11.0.0/docs/api.md#pageevaluatepagefunction-args) for more information on `evaluate` and related methods like `evaluateOnNewDocument` and `exposeFunction`.
 
-<a href="#default-runtime-settings" id="user-content-default-runtime-settings" class="anchor"></a>Default runtime settings
---------------------------------------------------------------------------------------------------------------------------
+## <a href="#default-runtime-settings" id="user-content-default-runtime-settings" class="anchor"></a>Default runtime settings
 
 **1. Uses Headless mode**
 
@@ -1083,15 +1080,13 @@ See [`this article`](https://www.howtogeek.com/202825/what’s-the-difference-be
 
 Puppeteer creates its own browser user profile which it **cleans up on every run**.
 
-<a href="#resources" id="user-content-resources" class="anchor"></a>Resources
------------------------------------------------------------------------------
+## <a href="#resources" id="user-content-resources" class="anchor"></a>Resources
 
--   [API Documentation](https://github.com/puppeteer/puppeteer/blob/v11.0.0/docs/api.md)
--   [Examples](https://github.com/puppeteer/puppeteer/tree/main/examples/)
--   [Community list of Puppeteer resources](https://github.com/transitive-bullshit/awesome-puppeteer)
+- [API Documentation](https://github.com/puppeteer/puppeteer/blob/v11.0.0/docs/api.md)
+- [Examples](https://github.com/puppeteer/puppeteer/tree/main/examples/)
+- [Community list of Puppeteer resources](https://github.com/transitive-bullshit/awesome-puppeteer)
 
-<a href="#debugging-tips" id="user-content-debugging-tips" class="anchor"></a>Debugging tips
---------------------------------------------------------------------------------------------
+## <a href="#debugging-tips" id="user-content-debugging-tips" class="anchor"></a>Debugging tips
 
 1.  Turn off headless mode - sometimes it's useful to see what the browser is displaying. Instead of launching in headless mode, launch a full version of the browser using `headless: false`:
 
@@ -1114,25 +1109,25 @@ Puppeteer creates its own browser user profile which it **cleans up on every run
 
     There are two execution context: node.js that is running test code, and the browser running application code being tested. This lets you debug code in the application code browser; ie code inside `evaluate()`.
 
-    -   Use `{devtools: true}` when launching Puppeteer:
+    - Use `{devtools: true}` when launching Puppeteer:
 
-            const browser = await puppeteer.launch({ devtools: true });
+          const browser = await puppeteer.launch({ devtools: true });
 
-    -   Change default test timeout:
+    - Change default test timeout:
 
-        jest: `jest.setTimeout(100000);`
+      jest: `jest.setTimeout(100000);`
 
-        jasmine: `jasmine.DEFAULT_TIMEOUT_INTERVAL = 100000;`
+      jasmine: `jasmine.DEFAULT_TIMEOUT_INTERVAL = 100000;`
 
-        mocha: `this.timeout(100000);` (don't forget to change test to use [function and not '=&gt;'](https://stackoverflow.com/a/23492442))
+      mocha: `this.timeout(100000);` (don't forget to change test to use [function and not '=&gt;'](https://stackoverflow.com/a/23492442))
 
-    -   Add an evaluate statement with `debugger` inside / add `debugger` to an existing evaluate statement:
+    - Add an evaluate statement with `debugger` inside / add `debugger` to an existing evaluate statement:
 
-            await page.evaluate(() => {
-              debugger;
-            });
+          await page.evaluate(() => {
+            debugger;
+          });
 
-        The test will now stop executing in the above evaluate statement, and chromium will stop in debug mode.
+      The test will now stop executing in the above evaluate statement, and chromium will stop in debug mode.
 
 5.  Use debugger in node.js
 
@@ -1140,20 +1135,20 @@ Puppeteer creates its own browser user profile which it **cleans up on every run
 
     Note that you won't be able to run `await page.click()` in DevTools console due to this [Chromium bug](https://bugs.chromium.org/p/chromium/issues/detail?id=833928). So if you want to try something out, you have to add it to your test file.
 
-    -   Add `debugger;` to your test, eg:
+    - Add `debugger;` to your test, eg:
 
-            debugger;
-            await page.click('a[target=_blank]');
+          debugger;
+          await page.click('a[target=_blank]');
 
-    -   Set `headless` to `false`
+    - Set `headless` to `false`
 
-    -   Run `node --inspect-brk`, eg `node --inspect-brk node_modules/.bin/jest tests`
+    - Run `node --inspect-brk`, eg `node --inspect-brk node_modules/.bin/jest tests`
 
-    -   In Chrome open `chrome://inspect/#devices` and click `inspect`
+    - In Chrome open `chrome://inspect/#devices` and click `inspect`
 
-    -   In the newly opened test browser, type `F8` to resume test execution
+    - In the newly opened test browser, type `F8` to resume test execution
 
-    -   Now your `debugger` will be hit and you can debug in the test browser
+    - Now your `debugger` will be hit and you can debug in the test browser
 
 6.  Enable verbose logging - internal DevTools protocol traffic will be logged via the [`debug`](https://github.com/visionmedia/debug) module under the `puppeteer` namespace.
 
@@ -1165,18 +1160,17 @@ Puppeteer creates its own browser user profile which it **cleans up on every run
 
 7.  Debug your Puppeteer (node) code easily, using [ndb](https://github.com/GoogleChromeLabs/ndb)
 
--   `npm install -g ndb` (or even better, use [npx](https://github.com/zkat/npx)!)
+- `npm install -g ndb` (or even better, use [npx](https://github.com/zkat/npx)!)
 
--   add a `debugger` to your Puppeteer (node) code
+- add a `debugger` to your Puppeteer (node) code
 
--   add `ndb` (or `npx ndb`) before your test command. For example:
+- add `ndb` (or `npx ndb`) before your test command. For example:
 
-    `ndb jest` or `ndb mocha` (or `npx ndb jest` / `npx ndb mocha`)
+  `ndb jest` or `ndb mocha` (or `npx ndb jest` / `npx ndb mocha`)
 
--   debug your test inside chromium like a boss!
+- debug your test inside chromium like a boss!
 
-<a href="#usage-with-typescript" id="user-content-usage-with-typescript" class="anchor"></a>Usage with TypeScript
------------------------------------------------------------------------------------------------------------------
+## <a href="#usage-with-typescript" id="user-content-usage-with-typescript" class="anchor"></a>Usage with TypeScript
 
 We have recently completed a migration to move the Puppeteer source code from JavaScript to TypeScript and as of version 7.0.1 we ship our own built-in type definitions.
 
@@ -1186,13 +1180,11 @@ If you are on a version older than 7, we recommend installing the Puppeteer type
 
 The types that you'll see appearing in the Puppeteer source code are based off the great work of those who have contributed to the `@types/puppeteer` package. We really appreciate the hard work those people put in to providing high quality TypeScript definitions for Puppeteer's users.
 
-<a href="#contributing-to-puppeteer" id="user-content-contributing-to-puppeteer" class="anchor"></a>Contributing to Puppeteer
------------------------------------------------------------------------------------------------------------------------------
+## <a href="#contributing-to-puppeteer" id="user-content-contributing-to-puppeteer" class="anchor"></a>Contributing to Puppeteer
 
 Check out [contributing guide](https://github.com/puppeteer/puppeteer/blob/main/CONTRIBUTING.md) to get an overview of Puppeteer development.
 
-<a href="#faq" id="user-content-faq" class="anchor"></a>FAQ
-===========================================================
+# <a href="#faq" id="user-content-faq" class="anchor"></a>FAQ
 
 #### <a href="#q-who-maintains-puppeteer" id="user-content-q-who-maintains-puppeteer" class="anchor"></a>Q: Who maintains Puppeteer?
 
@@ -1210,32 +1202,32 @@ We will continue to collaborate with other browser vendors to bring Puppeteer su
 
 The goals of the project are:
 
--   Provide a slim, canonical library that highlights the capabilities of the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/).
--   Provide a reference implementation for similar testing libraries. Eventually, these other frameworks could adopt Puppeteer as their foundational layer.
--   Grow the adoption of headless/automated browser testing.
--   Help dogfood new DevTools Protocol features...and catch bugs!
--   Learn more about the pain points of automated browser testing and help fill those gaps.
+- Provide a slim, canonical library that highlights the capabilities of the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/).
+- Provide a reference implementation for similar testing libraries. Eventually, these other frameworks could adopt Puppeteer as their foundational layer.
+- Grow the adoption of headless/automated browser testing.
+- Help dogfood new DevTools Protocol features...and catch bugs!
+- Learn more about the pain points of automated browser testing and help fill those gaps.
 
 We adapt [Chromium principles](https://www.chromium.org/developers/core-principles) to help us drive product decisions:
 
--   **Speed**: Puppeteer has almost zero performance overhead over an automated page.
--   **Security**: Puppeteer operates off-process with respect to Chromium, making it safe to automate potentially malicious pages.
--   **Stability**: Puppeteer should not be flaky and should not leak memory.
--   **Simplicity**: Puppeteer provides a high-level API that’s easy to use, understand, and debug.
+- **Speed**: Puppeteer has almost zero performance overhead over an automated page.
+- **Security**: Puppeteer operates off-process with respect to Chromium, making it safe to automate potentially malicious pages.
+- **Stability**: Puppeteer should not be flaky and should not leak memory.
+- **Simplicity**: Puppeteer provides a high-level API that’s easy to use, understand, and debug.
 
 #### <a href="#q-is-puppeteer-replacing-seleniumwebdriver" id="user-content-q-is-puppeteer-replacing-seleniumwebdriver" class="anchor"></a>Q: Is Puppeteer replacing Selenium/WebDriver?
 
 **No**. Both projects are valuable for very different reasons:
 
--   Selenium/WebDriver focuses on cross-browser automation; its value proposition is a single standard API that works across all major browsers.
--   Puppeteer focuses on Chromium; its value proposition is richer functionality and higher reliability.
+- Selenium/WebDriver focuses on cross-browser automation; its value proposition is a single standard API that works across all major browsers.
+- Puppeteer focuses on Chromium; its value proposition is richer functionality and higher reliability.
 
 That said, you **can** use Puppeteer to run tests against Chromium, e.g. using the community-driven [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer). While this probably shouldn’t be your only testing solution, it does have a few good points compared to WebDriver:
 
--   Puppeteer requires zero setup and comes bundled with the Chromium version it works best with, making it [very easy to start with](https://github.com/puppeteer/puppeteer/#getting-started). At the end of the day, it’s better to have a few tests running chromium-only, than no tests at all.
--   Puppeteer has event-driven architecture, which removes a lot of potential flakiness. There’s no need for evil “sleep(1000)” calls in puppeteer scripts.
--   Puppeteer runs headless by default, which makes it fast to run. Puppeteer v1.5.0 also exposes browser contexts, making it possible to efficiently parallelize test execution.
--   Puppeteer shines when it comes to debugging: flip the “headless” bit to false, add “slowMo”, and you’ll see what the browser is doing. You can even open Chrome DevTools to inspect the test environment.
+- Puppeteer requires zero setup and comes bundled with the Chromium version it works best with, making it [very easy to start with](https://github.com/puppeteer/puppeteer/#getting-started). At the end of the day, it’s better to have a few tests running chromium-only, than no tests at all.
+- Puppeteer has event-driven architecture, which removes a lot of potential flakiness. There’s no need for evil “sleep(1000)” calls in puppeteer scripts.
+- Puppeteer runs headless by default, which makes it fast to run. Puppeteer v1.5.0 also exposes browser contexts, making it possible to efficiently parallelize test execution.
+- Puppeteer shines when it comes to debugging: flip the “headless” bit to false, add “slowMo”, and you’ll see what the browser is doing. You can even open Chrome DevTools to inspect the test environment.
 
 #### <a href="#q-why-doesnt-puppeteer-vxxx-work-with-chromium-vyyy" id="user-content-q-why-doesnt-puppeteer-vxxx-work-with-chromium-vyyy" class="anchor"></a>Q: Why doesn’t Puppeteer v.XXX work with Chromium v.YYY?
 
@@ -1243,9 +1235,9 @@ We see Puppeteer as an **indivisible entity** with Chromium. Each version of Pup
 
 This is not an artificial constraint: A lot of work on Puppeteer is actually taking place in the Chromium repository. Here’s a typical story:
 
--   A Puppeteer bug is reported: <https://github.com/puppeteer/puppeteer/issues/2709>
--   It turned out this is an issue with the DevTools protocol, so we’re fixing it in Chromium: <https://chromium-review.googlesource.com/c/chromium/src/+/1102154>
--   Once the upstream fix is landed, we roll updated Chromium into Puppeteer: <https://github.com/puppeteer/puppeteer/pull/2769>
+- A Puppeteer bug is reported: <https://github.com/puppeteer/puppeteer/issues/2709>
+- It turned out this is an issue with the DevTools protocol, so we’re fixing it in Chromium: <https://chromium-review.googlesource.com/c/chromium/src/+/1102154>
+- Once the upstream fix is landed, we roll updated Chromium into Puppeteer: <https://github.com/puppeteer/puppeteer/pull/2769>
 
 However, oftentimes it is desirable to use Puppeteer with the official Google Chrome rather than Chromium. For this to work, you should install a `puppeteer-core` version that corresponds to the Chrome version.
 
@@ -1276,13 +1268,13 @@ With this definition of “navigation,” **Puppeteer works seamlessly with sing
 
 In browsers, input events could be divided into two big groups: trusted vs. untrusted.
 
--   **Trusted events**: events generated by users interacting with the page, e.g. using a mouse or keyboard.
--   **Untrusted event**: events generated by Web APIs, e.g. `document.createEvent` or `element.click()` methods.
+- **Trusted events**: events generated by users interacting with the page, e.g. using a mouse or keyboard.
+- **Untrusted event**: events generated by Web APIs, e.g. `document.createEvent` or `element.click()` methods.
 
 Websites can distinguish between these two groups:
 
--   using an [`Event.isTrusted`](https://developer.mozilla.org/en-US/docs/Web/API/Event/isTrusted) event flag
--   sniffing for accompanying events. For example, every trusted `'click'` event is preceded by `'mousedown'` and `'mouseup'` events.
+- using an [`Event.isTrusted`](https://developer.mozilla.org/en-US/docs/Web/API/Event/isTrusted) event flag
+- sniffing for accompanying events. For example, every trusted `'click'` event is preceded by `'mousedown'` and `'mouseup'` events.
 
 For automation purposes it’s important to generate trusted events. **All input events generated with Puppeteer are trusted and fire proper accompanying events.** If, for some reason, one needs an untrusted event, it’s always possible to hop into a page context with `page.evaluate` and generate a fake event:
 
@@ -1294,8 +1286,8 @@ For automation purposes it’s important to generate trusted events. **All input
 
 You may find that Puppeteer does not behave as expected when controlling pages that incorporate audio and video. (For example, [video playback/screenshots is likely to fail](https://github.com/puppeteer/puppeteer/issues/291).) There are two reasons for this:
 
--   Puppeteer is bundled with Chromium — not Chrome — and so by default, it inherits all of [Chromium's media-related limitations](https://www.chromium.org/audio-video). This means that Puppeteer does not support licensed formats such as AAC or H.264. (However, it is possible to force Puppeteer to use a separately-installed version Chrome instead of Chromium via the [`executablePath` option to `puppeteer.launch`](https://github.com/puppeteer/puppeteer/blob/v11.0.0/docs/api.md#puppeteerlaunchoptions). You should only use this configuration if you need an official release of Chrome that supports these media formats.)
--   Since Puppeteer (in all configurations) controls a desktop version of Chromium/Chrome, features that are only supported by the mobile version of Chrome are not supported. This means that Puppeteer [does not support HTTP Live Streaming (HLS)](https://caniuse.com/#feat=http-live-streaming).
+- Puppeteer is bundled with Chromium — not Chrome — and so by default, it inherits all of [Chromium's media-related limitations](https://www.chromium.org/audio-video). This means that Puppeteer does not support licensed formats such as AAC or H.264. (However, it is possible to force Puppeteer to use a separately-installed version Chrome instead of Chromium via the [`executablePath` option to `puppeteer.launch`](https://github.com/puppeteer/puppeteer/blob/v11.0.0/docs/api.md#puppeteerlaunchoptions). You should only use this configuration if you need an official release of Chrome that supports these media formats.)
+- Since Puppeteer (in all configurations) controls a desktop version of Chromium/Chrome, features that are only supported by the mobile version of Chrome are not supported. This means that Puppeteer [does not support HTTP Live Streaming (HLS)](https://caniuse.com/#feat=http-live-streaming).
 
 #### <a href="#q-i-am-having-trouble-installing--running-puppeteer-in-my-test-environment-where-should-i-look-for-help" id="user-content-q-i-am-having-trouble-installing--running-puppeteer-in-my-test-environment-where-should-i-look-for-help" class="anchor"></a>Q: I am having trouble installing / running Puppeteer in my test environment. Where should I look for help?
 
@@ -1332,13 +1324,12 @@ Please note that prerelease may be unstable and contain bugs.
 
 There are many ways to get help on Puppeteer:
 
--   [bugtracker](https://github.com/puppeteer/puppeteer/issues)
--   [Stack Overflow](https://stackoverflow.com/questions/tagged/puppeteer)
+- [bugtracker](https://github.com/puppeteer/puppeteer/issues)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/puppeteer)
 
 Make sure to search these channels before posting your question.
 
-About
------
+## About
 
 Headless Chrome Node.js API
 
@@ -1356,8 +1347,7 @@ Readme
 
 Apache-2.0 License
 
-<a href="https://github.com/puppeteer/puppeteer/releases" class="Link--primary no-underline">Releases <span class="Counter" title="71" data-view-component="true">71</span></a>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/puppeteer/puppeteer/releases" class="Link--primary no-underline">Releases <span class="Counter" title="71" data-view-component="true">71</span></a>
 
 <span class="css-truncate css-truncate-target text-bold mr-2" style="max-width: none;">v11.0.0</span> <span class="Label Label--success flex-shrink-0" title="Label: Latest" data-view-component="true"> Latest </span>
 
@@ -1365,79 +1355,75 @@ Nov 3, 2021
 
 [+ 70 releases](https://github.com/puppeteer/puppeteer/releases)
 
-<a href="https://github.com/orgs/puppeteer/packages?repo_name=puppeteer" class="Link--primary no-underline">Packages <span class="Counter" title="0" hidden="hidden" data-view-component="true">0</span></a>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/orgs/puppeteer/packages?repo_name=puppeteer" class="Link--primary no-underline">Packages <span class="Counter" title="0" hidden="hidden" data-view-component="true">0</span></a>
 
-No packages published  
+No packages published
 
-<a href="https://github.com/puppeteer/puppeteer/network/dependents?package_id=UGFja2FnZS0xODEzMDc5NA%3D%3D" class="Link--primary no-underline">Used by <span class="Counter" title="163,226" data-view-component="true">163k</span></a>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/puppeteer/puppeteer/network/dependents?package_id=UGFja2FnZS0xODEzMDc5NA%3D%3D" class="Link--primary no-underline">Used by <span class="Counter" title="163,226" data-view-component="true">163k</span></a>
 
 <a href="https://github.com/puppeteer/puppeteer/network/dependents?package_id=UGFja2FnZS0xODEzMDc5NA%3D%3D" class="d-flex flex-items-center"></a>
 
--   <img src="https://avatars.githubusercontent.com/u/31513488?s=88&amp;v=4" alt="@Dwakof" class="avatar" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/29134029?s=88&amp;v=4" alt="@derocknc" class="avatar avatar-user" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/18603431?s=88&amp;u=295aeefcffb1141bba3e7c5985aef4c34f12a216&amp;v=4" alt="@dukeofwest" class="avatar avatar-user" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/26316287?s=88&amp;u=25a87533606f92b24df6b6f565f135a3b90e6b50&amp;v=4" alt="@sirArthurDayne" class="avatar avatar-user" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/94319459?s=88&amp;v=4" alt="@yangkainftguru" class="avatar avatar-user" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/16886433?s=88&amp;v=4" alt="@gkgkgkgk" class="avatar avatar-user" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/3358927?s=88&amp;v=4" alt="@10up" class="avatar" width="32" height="32" />
--   <img src="https://avatars.githubusercontent.com/u/49919287?s=88&amp;v=4" alt="@elomanovich" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/31513488?s=88&amp;v=4" alt="@Dwakof" class="avatar" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/29134029?s=88&amp;v=4" alt="@derocknc" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/18603431?s=88&amp;u=295aeefcffb1141bba3e7c5985aef4c34f12a216&amp;v=4" alt="@dukeofwest" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/26316287?s=88&amp;u=25a87533606f92b24df6b6f565f135a3b90e6b50&amp;v=4" alt="@sirArthurDayne" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/94319459?s=88&amp;v=4" alt="@yangkainftguru" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/16886433?s=88&amp;v=4" alt="@gkgkgkgk" class="avatar avatar-user" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/3358927?s=88&amp;v=4" alt="@10up" class="avatar" width="32" height="32" />
+- <img src="https://avatars.githubusercontent.com/u/49919287?s=88&amp;v=4" alt="@elomanovich" class="avatar avatar-user" width="32" height="32" />
 
 <span class="px-2 text-bold text-small no-wrap"> + 163,218 </span>
 
-<a href="https://github.com/puppeteer/puppeteer/graphs/contributors" class="Link--primary no-underline">Contributors <span class="Counter" title="388" data-view-component="true">388</span></a>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <a href="https://github.com/puppeteer/puppeteer/graphs/contributors" class="Link--primary no-underline">Contributors <span class="Counter" title="388" data-view-component="true">388</span></a>
 
--   
+-
 
--   
+-
 
--   
+-
 
--   
+-
 
--   
+-
 
--   
+-
 
--   
+-
 
--   
+-
 
--   
+-
 
--   
+-
 
--   
+-
 
 [+ 377 contributors](https://github.com/puppeteer/puppeteer/graphs/contributors)
 
-Languages
----------
+## Languages
 
 <span class="Progress" data-view-component="true"> <span class="Progress-item color-bg-success-inverse" style="background-color:#2b7489 !important;;width: 71.8%;" itemprop="keywords" aria-label="TypeScript 71.8" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#f1e05a !important;;width: 26.7%;" itemprop="keywords" aria-label="JavaScript 26.7" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#e34c26 !important;;width: 1.3%;" itemprop="keywords" aria-label="HTML 1.3" data-view-component="true"></span> <span class="Progress-item color-bg-success-inverse" style="background-color:#ededed !important;;width: 0.2%;" itemprop="keywords" aria-label="Other 0.2" data-view-component="true"></span> </span>
 
--   <span class="color-fg-default text-bold mr-1">TypeScript</span> 71.8%
--   <span class="color-fg-default text-bold mr-1">JavaScript</span> 26.7%
--   <span class="color-fg-default text-bold mr-1">HTML</span> 1.3%
--   <span class="color-fg-default text-bold mr-1">Other</span> 0.2%
+- <span class="color-fg-default text-bold mr-1">TypeScript</span> 71.8%
+- <span class="color-fg-default text-bold mr-1">JavaScript</span> 26.7%
+- <span class="color-fg-default text-bold mr-1">HTML</span> 1.3%
+- <span class="color-fg-default text-bold mr-1">Other</span> 0.2%
 
--   © 2021 GitHub, Inc.
--   [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
--   [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
--   [Security](https://github.com/security)
--   [Status](https://www.githubstatus.com/)
--   [Docs](https://docs.github.com/)
+- © 2021 GitHub, Inc.
+- [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
+- [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
+- [Security](https://github.com/security)
+- [Status](https://www.githubstatus.com/)
+- [Docs](https://docs.github.com/)
 
 <!-- -->
 
--   [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
--   [Pricing](https://github.com/pricing)
--   [API](https://docs.github.com/)
--   [Training](https://services.github.com/)
--   [Blog](https://github.blog/)
--   [About](https://github.com/about)
+- [Contact GitHub](https://support.github.com/?tags=dotcom-footer)
+- [Pricing](https://github.com/pricing)
+- [API](https://docs.github.com/)
+- [Training](https://services.github.com/)
+- [Blog](https://github.blog/)
+- [About](https://github.com/about)
 
 <span class="f6 color-fg-muted"></span>
 

@@ -242,7 +242,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -296,7 +296,7 @@ Netlify CMS
 
 Git Gateway
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -336,7 +336,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -374,7 +374,7 @@ Troubleshooting
 
 <span data-key="2feca54e35ab49998fbb40b1345ee37f"><span data-offset-key="2feca54e35ab49998fbb40b1345ee37f:0">NS1, the DNS provider backing Netlify DNS, has a great series of articles on </span></span><a href="https://ns1.com/articles/decoding-dig-output" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="38ab48132eee4caeb6f208e924af6335" data-rnw-int-class="nearest_260-7541_262-7542-240__"><span data-key="67d8fc70c60540489f5c6559fda79293"><span data-offset-key="67d8fc70c60540489f5c6559fda79293:0">using DIG</span></span></span></a><span data-key="4cb5513addd048a5accac874c45a0b24"><span data-offset-key="4cb5513addd048a5accac874c45a0b24:0"> to test and troubleshoot your DNS configuration.</span></span>
 
-### 
+###
 
 <span data-key="d482a3bbf8364a6e9d06da41f1ae7318"><span data-offset-key="d482a3bbf8364a6e9d06da41f1ae7318:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/domains-https/troubleshooting-tips/#inactive-netlify-dns-zone" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="22df857cf9944b2dad4b938a803c2591" data-rnw-int-class="nearest_260-7541_262-7542-240__"><span data-key="a832ad0302624d10af5b2ff7e29a7f9a"><span data-offset-key="a832ad0302624d10af5b2ff7e29a7f9a:0">#</span></span></span></a><span data-key="7f77202fe93e446f8d8a6a824e6ea3a9"><span data-offset-key="7f77202fe93e446f8d8a6a824e6ea3a9:0">Inactive Netlify DNS zone</span></span>
 
@@ -399,7 +399,7 @@ Troubleshooting
 5.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height: 24px">5.</span>
     <span data-key="69fea5cc0bd84cb383a70eae5338e27a"><span data-offset-key="69fea5cc0bd84cb383a70eae5338e27a:0">It is possible that we will get a certificate for one name (for example, </span>`petsofnetlify.com`<span data-offset-key="69fea5cc0bd84cb383a70eae5338e27a:2">) and not for another (for example, </span>`www.petsofnetlify.com`<span data-offset-key="69fea5cc0bd84cb383a70eae5338e27a:4"> or some domain alias). In this case selecting </span>**Renew certificate**<span data-offset-key="69fea5cc0bd84cb383a70eae5338e27a:6"> should resolve the issue. If it doesn‘t, please post in the </span></span><a href="https://answers.netlify.com/categories" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="80c5e465e03e4d8e853f01918ace360e" data-rnw-int-class="nearest_260-7541_262-7542-240__"><span data-key="e88b7636878f400da7860a4e6addf12d"><span data-offset-key="e88b7636878f400da7860a4e6addf12d:0">Netlify Support Forums</span></span></span></a><span data-key="df94a1af41674bf18ee1118195d3d5b2"><span data-offset-key="df94a1af41674bf18ee1118195d3d5b2:0"> so our support engineers can repair the certificate.</span></span>
 
-### 
+###
 
 <span data-key="6cb31550442e435086109f2aad11b5ae"><span data-offset-key="6cb31550442e435086109f2aad11b5ae:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://docs.netlify.com/domains-https/troubleshooting-tips/#https-error-messages" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6a0afe251fd046b885a4fb82e3790924" data-rnw-int-class="nearest_260-7541_262-7542-240__"><span data-key="e7c7b072003b4b76bbc27ad954de764c"><span data-offset-key="e7c7b072003b4b76bbc27ad954de764c:0">#</span></span></span></a><span data-key="14b45888ad45440e87fdba7d9deb6106"><span data-offset-key="14b45888ad45440e87fdba7d9deb6106:0">HTTPS error messages</span></span>
 
@@ -417,7 +417,7 @@ Copied!
 
 <span data-key="8d9a67672797420a95264b39c1c72be6"><span data-offset-key="8d9a67672797420a95264b39c1c72be6:0">In all cases, you’re looking for a line that says </span>`Server: Netlify`<span data-offset-key="8d9a67672797420a95264b39c1c72be6:2">. Don’t forget to do this for </span>**each**<span data-offset-key="8d9a67672797420a95264b39c1c72be6:4"> domain connected to your site. If your custom domain is the apex domain or </span>`www`<span data-offset-key="8d9a67672797420a95264b39c1c72be6:6"> subdomain (for example, </span>`petsofnetlify.com`<span data-offset-key="8d9a67672797420a95264b39c1c72be6:8"> or </span>`www.petsofnetlify.com`<span data-offset-key="8d9a67672797420a95264b39c1c72be6:10">), we automatically serve your site and provision a certificate for both domains, so be sure they both have records pointing to Netlify.</span></span>
 
-<span data-key="efc308fa0a264cd7ba2ab4b7a6261db8"><span data-offset-key="efc308fa0a264cd7ba2ab4b7a6261db8:0">If you </span>*do*<span data-offset-key="efc308fa0a264cd7ba2ab4b7a6261db8:2"> see </span>`Server: Netlify`<span data-offset-key="efc308fa0a264cd7ba2ab4b7a6261db8:4"> in all response headers, but still receive this error, it may be caused by incorrect A records. For information on setting a proper A record with Netlify, refer to our documentation on </span></span><a href="https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="609d6a3fc6574136ad45c0c59a1a5f91" data-rnw-int-class="nearest_260-7541_262-7542-240__"><span data-key="b6b9ee282c474a2a95faab92b14a117e"><span data-offset-key="b6b9ee282c474a2a95faab92b14a117e:0">external DNS configuration</span></span></span></a><span data-key="e6e424d3c4c84ea1922cfffc27db5b55"><span data-offset-key="e6e424d3c4c84ea1922cfffc27db5b55:0">.</span></span>
+<span data-key="efc308fa0a264cd7ba2ab4b7a6261db8"><span data-offset-key="efc308fa0a264cd7ba2ab4b7a6261db8:0">If you </span>_do_<span data-offset-key="efc308fa0a264cd7ba2ab4b7a6261db8:2"> see </span>`Server: Netlify`<span data-offset-key="efc308fa0a264cd7ba2ab4b7a6261db8:4"> in all response headers, but still receive this error, it may be caused by incorrect A records. For information on setting a proper A record with Netlify, refer to our documentation on </span></span><a href="https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="609d6a3fc6574136ad45c0c59a1a5f91" data-rnw-int-class="nearest_260-7541_262-7542-240__"><span data-key="b6b9ee282c474a2a95faab92b14a117e"><span data-offset-key="b6b9ee282c474a2a95faab92b14a117e:0">external DNS configuration</span></span></span></a><span data-key="e6e424d3c4c84ea1922cfffc27db5b55"><span data-offset-key="e6e424d3c4c84ea1922cfffc27db5b55:0">.</span></span>
 
 <span data-key="5cf6177ee46f410391c16e312c723cc1">**\#"petsofnetlify.com is not resolvable with a resolver that validates DNSSEC"**</span>
 

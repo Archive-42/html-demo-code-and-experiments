@@ -14,8 +14,7 @@
 
 <span class="css-q22fzy" aria-label="chevron-head"></span>
 
-Build faster. Build smarter.​​
-==============================
+# Build faster. Build smarter.​​
 
 <span class="css-ulkukj">Get your ideas to market faster with an application data platform built on the leading modern database. Support transactional, search, analytics, and mobile use cases while using a common query interface and the data model developers love.</span>
 
@@ -161,7 +160,7 @@ Atlas
 
 ##### Enterprise Advanced
 
-##### Enterprise software and support 
+##### Enterprise software and support
 
 <span class="css-m4yywp">The best way to run MongoDB yourself. Drive operational efficiency and security.</span>
 
@@ -171,8 +170,7 @@ Atlas
 
 <span class="css-1iyfgq0" aria-label="chevron-container"><span class="css-hchr4u" aria-label="chevron-body"><span class="css-hmw5i5" aria-label="chevron-head"></span></span></span>
 
-Built by developers, for developers
------------------------------------
+## Built by developers, for developers
 
 <span class="css-ulkukj">With a document data model that maps to how developers think and code and a powerful, unified query API, MongoDB powers faster, more flexible application development.</span>
 

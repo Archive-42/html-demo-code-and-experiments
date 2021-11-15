@@ -258,7 +258,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -276,7 +276,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -316,7 +316,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -348,29 +348,17 @@ Building with Components
 
 <span data-key="34119dc0c8994d12a4f4356cb5c8c2ba"><span data-offset-key="34119dc0c8994d12a4f4356cb5c8c2ba:0">TABLE OF CONTENTS</span></span>
 
--   
+- <span data-key="8d2d120231964adf8fc453394fed4592"><span data-offset-key="8d2d120231964adf8fc453394fed4592:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.gatsbyjs.com/docs/conceptual/building-with-components/#why-react-components" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e6489349c3dd466d8c4ebf85b59b6e3e" data-rnw-int-class="nearest_260-5282_262-5283-240__"><span data-key="824fbffab31e4aeda48b2148e3833bf1"><span data-offset-key="824fbffab31e4aeda48b2148e3833bf1:0">Why React components?</span></span></span></a><span data-key="2d28962ddd3d41dfa9c764b65e68c73e"><span data-offset-key="2d28962ddd3d41dfa9c764b65e68c73e:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="8d2d120231964adf8fc453394fed4592"><span data-offset-key="8d2d120231964adf8fc453394fed4592:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.gatsbyjs.com/docs/conceptual/building-with-components/#why-react-components" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e6489349c3dd466d8c4ebf85b59b6e3e" data-rnw-int-class="nearest_260-5282_262-5283-240__"><span data-key="824fbffab31e4aeda48b2148e3833bf1"><span data-offset-key="824fbffab31e4aeda48b2148e3833bf1:0">Why React components?</span></span></span></a><span data-key="2d28962ddd3d41dfa9c764b65e68c73e"><span data-offset-key="2d28962ddd3d41dfa9c764b65e68c73e:0"><span data-slate-zero-width="z">​</span></span></span>
+- <span data-key="14c7b8c7ab3d4cfcadbb05a86f1e4f4f"><span data-offset-key="14c7b8c7ab3d4cfcadbb05a86f1e4f4f:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.gatsbyjs.com/docs/conceptual/building-with-components/#how-does-gatsby-use-react-components" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="72ca31f0bd9d4dfebed76a6409512723" data-rnw-int-class="nearest_260-5282_262-5283-240__"><span data-key="0e155442cc254d909ba41a554ec75e01"><span data-offset-key="0e155442cc254d909ba41a554ec75e01:0">How does Gatsby use React Components?</span></span></span></a><span data-key="08f68cd672d34829b514be23275d5c5b"><span data-offset-key="08f68cd672d34829b514be23275d5c5b:0"><span data-slate-zero-width="z">​</span></span></span>
 
--   
+  - <span data-key="9b93a41bfdad4ee8881e9a06760a3ecb"><span data-offset-key="9b93a41bfdad4ee8881e9a06760a3ecb:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.gatsbyjs.com/docs/conceptual/building-with-components/#page-components" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="36df72e0d360484384b9ac3035698f74" data-rnw-int-class="nearest_260-5282_262-5283-240__"><span data-key="4a131063e5184ec1bce8d1193f22c4b4"><span data-offset-key="4a131063e5184ec1bce8d1193f22c4b4:0">Page components</span></span></span></a><span data-key="c8d2e3c4651244aaba0ef68c1f22212c"><span data-offset-key="c8d2e3c4651244aaba0ef68c1f22212c:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    <span data-key="14c7b8c7ab3d4cfcadbb05a86f1e4f4f"><span data-offset-key="14c7b8c7ab3d4cfcadbb05a86f1e4f4f:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.gatsbyjs.com/docs/conceptual/building-with-components/#how-does-gatsby-use-react-components" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="72ca31f0bd9d4dfebed76a6409512723" data-rnw-int-class="nearest_260-5282_262-5283-240__"><span data-key="0e155442cc254d909ba41a554ec75e01"><span data-offset-key="0e155442cc254d909ba41a554ec75e01:0">How does Gatsby use React Components?</span></span></span></a><span data-key="08f68cd672d34829b514be23275d5c5b"><span data-offset-key="08f68cd672d34829b514be23275d5c5b:0"><span data-slate-zero-width="z">​</span></span></span>
+  - <span data-key="66729b031563453aa89bcb37c8dbb777"><span data-offset-key="66729b031563453aa89bcb37c8dbb777:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.gatsbyjs.com/docs/conceptual/building-with-components/#page-template-components" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="af3ef0cd095c4196b0a85ac4dfa9d825" data-rnw-int-class="nearest_260-5282_262-5283-240__"><span data-key="efa39e96e8d54b2fac8d0d449c450731"><span data-offset-key="efa39e96e8d54b2fac8d0d449c450731:0">Page template components</span></span></span></a><span data-key="5691d0b7c2534cfb85478e6e5a4c4385"><span data-offset-key="5691d0b7c2534cfb85478e6e5a4c4385:0"><span data-slate-zero-width="z">​</span></span></span>
 
-    -   
+  - <span data-key="b6fc7aa38b67426bb2dae65a0076664b"><span data-offset-key="b6fc7aa38b67426bb2dae65a0076664b:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.gatsbyjs.com/docs/conceptual/building-with-components/#html-component" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3cbe65376f7741c4973a6ef940ee1ac3" data-rnw-int-class="nearest_260-5282_262-5283-240__"><span data-key="2adeffcb163945d6bf104f50015e1dcb"><span data-offset-key="2adeffcb163945d6bf104f50015e1dcb:0">HTML component</span></span></span></a><span data-key="87d6373d57e44146b3d94fedfa427485"><span data-offset-key="87d6373d57e44146b3d94fedfa427485:0"><span data-slate-zero-width="z">​</span></span></span>
 
-        <span data-key="9b93a41bfdad4ee8881e9a06760a3ecb"><span data-offset-key="9b93a41bfdad4ee8881e9a06760a3ecb:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.gatsbyjs.com/docs/conceptual/building-with-components/#page-components" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="36df72e0d360484384b9ac3035698f74" data-rnw-int-class="nearest_260-5282_262-5283-240__"><span data-key="4a131063e5184ec1bce8d1193f22c4b4"><span data-offset-key="4a131063e5184ec1bce8d1193f22c4b4:0">Page components</span></span></span></a><span data-key="c8d2e3c4651244aaba0ef68c1f22212c"><span data-offset-key="c8d2e3c4651244aaba0ef68c1f22212c:0"><span data-slate-zero-width="z">​</span></span></span>
-
-    -   
-
-        <span data-key="66729b031563453aa89bcb37c8dbb777"><span data-offset-key="66729b031563453aa89bcb37c8dbb777:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.gatsbyjs.com/docs/conceptual/building-with-components/#page-template-components" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="af3ef0cd095c4196b0a85ac4dfa9d825" data-rnw-int-class="nearest_260-5282_262-5283-240__"><span data-key="efa39e96e8d54b2fac8d0d449c450731"><span data-offset-key="efa39e96e8d54b2fac8d0d449c450731:0">Page template components</span></span></span></a><span data-key="5691d0b7c2534cfb85478e6e5a4c4385"><span data-offset-key="5691d0b7c2534cfb85478e6e5a4c4385:0"><span data-slate-zero-width="z">​</span></span></span>
-
-    -   
-
-        <span data-key="b6fc7aa38b67426bb2dae65a0076664b"><span data-offset-key="b6fc7aa38b67426bb2dae65a0076664b:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.gatsbyjs.com/docs/conceptual/building-with-components/#html-component" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3cbe65376f7741c4973a6ef940ee1ac3" data-rnw-int-class="nearest_260-5282_262-5283-240__"><span data-key="2adeffcb163945d6bf104f50015e1dcb"><span data-offset-key="2adeffcb163945d6bf104f50015e1dcb:0">HTML component</span></span></span></a><span data-key="87d6373d57e44146b3d94fedfa427485"><span data-offset-key="87d6373d57e44146b3d94fedfa427485:0"><span data-slate-zero-width="z">​</span></span></span>
-
-    -   
-
-        <span data-key="2748ef3e98244d05b4d81de642cbaf67"><span data-offset-key="2748ef3e98244d05b4d81de642cbaf67:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.gatsbyjs.com/docs/conceptual/building-with-components/#non-page-components" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1835ac1f2aa843c3812c2287bff1fd8e" data-rnw-int-class="nearest_260-5282_262-5283-240__"><span data-key="1cec28d112c448838f662e5723c07bd9"><span data-offset-key="1cec28d112c448838f662e5723c07bd9:0">Non-page components</span></span></span></a><span data-key="d6706ca843ed4ae89e536a21e6881bc3"><span data-offset-key="d6706ca843ed4ae89e536a21e6881bc3:0"><span data-slate-zero-width="z">​</span></span></span>
+  - <span data-key="2748ef3e98244d05b4d81de642cbaf67"><span data-offset-key="2748ef3e98244d05b4d81de642cbaf67:0"><span data-slate-zero-width="z">​</span></span></span><a href="https://www.gatsbyjs.com/docs/conceptual/building-with-components/#non-page-components" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1835ac1f2aa843c3812c2287bff1fd8e" data-rnw-int-class="nearest_260-5282_262-5283-240__"><span data-key="1cec28d112c448838f662e5723c07bd9"><span data-offset-key="1cec28d112c448838f662e5723c07bd9:0">Non-page components</span></span></span></a><span data-key="d6706ca843ed4ae89e536a21e6881bc3"><span data-offset-key="d6706ca843ed4ae89e536a21e6881bc3:0"><span data-slate-zero-width="z">​</span></span></span>
 
 <span data-key="c78c842812b34571849d23b99a9b9c90"><span data-offset-key="c78c842812b34571849d23b99a9b9c90:0">To use Gatsby, you will need a basic understanding of React components.</span></span>
 
@@ -426,7 +414,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="8530f150857d44fb94ec97bc4071c171"><span data-offset-key="8530f150857d44fb94ec97bc4071c171:0">Page components</span></span>
 
@@ -440,7 +428,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="71e4f1bd860b4001855dc6ff1f802f8b"><span data-offset-key="71e4f1bd860b4001855dc6ff1f802f8b:0">Page template components</span></span>
 
@@ -458,7 +446,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span data-key="f62a7fc86f384ad1b0881c466d6c7f32"><span data-offset-key="f62a7fc86f384ad1b0881c466d6c7f32:0">HTML component</span></span>
 
@@ -472,13 +460,13 @@ Copied!
 
 1
 
-<span data-key="a262c4e2c8e244be92103f86928f352e"><span data-offset-key="a262c4e2c8e244be92103f86928f352e:0">Copysrc/html.js: copy code to clipboardimport React from "react"import favicon from "./favicon.png"let inlinedStyles = ""if (process.env.NODE\_ENV === "production") { try { inlinedStyles = require("!raw-loader!../public/styles.css") } catch (e) { console.log(e) }}function HTML(props) { let css if (process.env.NODE\_ENV === "production") { css = ( &lt;style id="gatsby-inlined-css" dangerouslySetInnerHTML={{ \_\_html: inlinedStyles }} /&gt; ) } return ( &lt;html lang="en"&gt; &lt;head&gt; &lt;meta charSet="utf-8" /&gt; &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt; {props.headComponents} &lt;link rel="icon" href={favicon} /&gt; {css} &lt;/head&gt; &lt;body&gt; &lt;div id="\_\_\_gatsby" dangerouslySetInnerHTML={{ \_\_html: props.body }} /&gt; {props.postBodyComponents} &lt;/body&gt; &lt;/html&gt; )}</span></span>
+<span data-key="a262c4e2c8e244be92103f86928f352e"><span data-offset-key="a262c4e2c8e244be92103f86928f352e:0">Copysrc/html.js: copy code to clipboardimport React from "react"import favicon from "./favicon.png"let inlinedStyles = ""if (process.env.NODE_ENV === "production") { try { inlinedStyles = require("!raw-loader!../public/styles.css") } catch (e) { console.log(e) }}function HTML(props) { let css if (process.env.NODE_ENV === "production") { css = ( &lt;style id="gatsby-inlined-css" dangerouslySetInnerHTML={{ \_\_html: inlinedStyles }} /&gt; ) } return ( &lt;html lang="en"&gt; &lt;head&gt; &lt;meta charSet="utf-8" /&gt; &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt; {props.headComponents} &lt;link rel="icon" href={favicon} /&gt; {css} &lt;/head&gt; &lt;body&gt; &lt;div id="\_\_\_gatsby" dangerouslySetInnerHTML={{ \_\_html: props.body }} /&gt; {props.postBodyComponents} &lt;/body&gt; &lt;/html&gt; )}</span></span>
 
 Copied!
 
 <span data-key="6bace83eb92c4553939d87c734bc2a25"><span data-offset-key="6bace83eb92c4553939d87c734bc2a25:0">These are examples of the different ways React components are used in Gatsby sites. To see full working examples, check out the </span></span><a href="https://github.com/gatsbyjs/gatsby/tree/master/examples" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2f136534f8a4434591ab220f06bb8f21" data-rnw-int-class="nearest_260-5282_262-5283-240__"><span data-key="c96132ad190d4335a42e02ac5b09cbf4"><span data-offset-key="c96132ad190d4335a42e02ac5b09cbf4:0">examples directory</span></span></span></a><span data-key="43681323b6fd484dab38a4dcde645d69"><span data-offset-key="43681323b6fd484dab38a4dcde645d69:0"> in the Gatsby repo.</span></span>
 
-### 
+###
 
 <span data-key="d38fe9d37a704f16b61bc3fd0e12ca26"><span data-offset-key="d38fe9d37a704f16b61bc3fd0e12ca26:0">Non-page components</span></span>
 

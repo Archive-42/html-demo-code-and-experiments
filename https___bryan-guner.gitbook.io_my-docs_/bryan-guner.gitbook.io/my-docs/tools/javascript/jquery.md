@@ -266,7 +266,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -284,7 +284,7 @@ Postman
 
 Netlify
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="https://bryan-guner.gitbook.io/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -324,7 +324,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -360,7 +360,7 @@ jQuery
 
 <span data-key="f0c84e8708c245b3ba0842aacda58ccd"><span data-offset-key="f0c84e8708c245b3ba0842aacda58ccd:0">Downloading jQuery</span></span>
 
-<span data-key="b94ba0b067454fa5b3fbe46bf28bbb42"><span data-offset-key="b94ba0b067454fa5b3fbe46bf28bbb42:0">To get started, first download a copy of jQuery and include it in your document. There are two versions of jQuery available for downloading — </span>*compressed*<span data-offset-key="b94ba0b067454fa5b3fbe46bf28bbb42:2"> and </span>*uncompressed*<span data-offset-key="b94ba0b067454fa5b3fbe46bf28bbb42:4">.</span></span>
+<span data-key="b94ba0b067454fa5b3fbe46bf28bbb42"><span data-offset-key="b94ba0b067454fa5b3fbe46bf28bbb42:0">To get started, first download a copy of jQuery and include it in your document. There are two versions of jQuery available for downloading — </span>_compressed_<span data-offset-key="b94ba0b067454fa5b3fbe46bf28bbb42:2"> and </span>_uncompressed_<span data-offset-key="b94ba0b067454fa5b3fbe46bf28bbb42:4">.</span></span>
 
 <span data-key="55c83d1c61874255a526ac2d4fadeaf2"><span data-offset-key="55c83d1c61874255a526ac2d4fadeaf2:0">The uncompressed file is best suited for development or debugging; while, the minified and compressed file is recommended for production because it saves the precious bandwidth and improves the performance due to small file size.</span></span>
 
@@ -430,7 +430,7 @@ Copied!
 
 <span data-key="2e90a7bf7704417dba2e09bbdf4f2976"><span data-offset-key="2e90a7bf7704417dba2e09bbdf4f2976:0">This also offers an advantage that if the visitor to your webpage has already downloaded a copy of jQuery from the same CDN while visiting other sites, it won't have to be re-downloaded since it is already there in the browser's cache.</span></span>
 
-### 
+###
 
 <span data-key="1e50fb303af74a2d9d5e1f6271f4713d"><span data-offset-key="1e50fb303af74a2d9d5e1f6271f4713d:0">jQuery's CDN provided by StackPath</span></span>
 
@@ -556,13 +556,9 @@ Copied!
 
 <span data-key="75f7d7da49e84c1bb33c6e68df55cf45"><span data-offset-key="75f7d7da49e84c1bb33c6e68df55cf45:0">If you are completely new to the jQuery, you might think what that code was all about. OK, let's go through each of the parts of this script one by one.</span></span>
 
--   
+- <span data-key="a697ee789d4f41e8b790aca3c187162d"><span data-offset-key="a697ee789d4f41e8b790aca3c187162d:0">The </span>`<script>`<span data-offset-key="a697ee789d4f41e8b790aca3c187162d:2"> element — Since jQuery is just a JavaScript library, so the jQuery code can be placed inside the </span></span><a href="https://www.tutorialrepublic.com/html-reference/html-script-tag.php" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="245b8b38f2b847b689a637dadcd652bb" data-rnw-int-class="nearest_260-5391_262-5392-240__"><span data-key="0df18e242df547d48eb26a2e4305d1bf"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="0df18e242df547d48eb26a2e4305d1bf:0">&lt;script&gt;</code></span></span></a><span data-key="41360f3e9bf44f54aa2f278a9d0c8c2d"><span data-offset-key="41360f3e9bf44f54aa2f278a9d0c8c2d:0"> element. However, if you want to place it in an </span></span><a href="https://www.tutorialrepublic.com/html-tutorial/html-scripts.php" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fe0b5c7572084bc6b81e86700786bde4" data-rnw-int-class="nearest_260-5391_262-5392-240__"><span data-key="c46ad17a5cfa431d9b8de43d153b6394"><span data-offset-key="c46ad17a5cfa431d9b8de43d153b6394:0">external JavaScript file</span></span></span></a><span data-key="722b7f13e32a457580e1a4fd8ac53d55"><span data-offset-key="722b7f13e32a457580e1a4fd8ac53d55:0">, which is preferred, you just remove this part.</span></span>
 
-    <span data-key="a697ee789d4f41e8b790aca3c187162d"><span data-offset-key="a697ee789d4f41e8b790aca3c187162d:0">The </span>`<script>`<span data-offset-key="a697ee789d4f41e8b790aca3c187162d:2"> element — Since jQuery is just a JavaScript library, so the jQuery code can be placed inside the </span></span><a href="https://www.tutorialrepublic.com/html-reference/html-script-tag.php" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="245b8b38f2b847b689a637dadcd652bb" data-rnw-int-class="nearest_260-5391_262-5392-240__"><span data-key="0df18e242df547d48eb26a2e4305d1bf"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="0df18e242df547d48eb26a2e4305d1bf:0">&lt;script&gt;</code></span></span></a><span data-key="41360f3e9bf44f54aa2f278a9d0c8c2d"><span data-offset-key="41360f3e9bf44f54aa2f278a9d0c8c2d:0"> element. However, if you want to place it in an </span></span><a href="https://www.tutorialrepublic.com/html-tutorial/html-scripts.php" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fe0b5c7572084bc6b81e86700786bde4" data-rnw-int-class="nearest_260-5391_262-5392-240__"><span data-key="c46ad17a5cfa431d9b8de43d153b6394"><span data-offset-key="c46ad17a5cfa431d9b8de43d153b6394:0">external JavaScript file</span></span></span></a><span data-key="722b7f13e32a457580e1a4fd8ac53d55"><span data-offset-key="722b7f13e32a457580e1a4fd8ac53d55:0">, which is preferred, you just remove this part.</span></span>
-
--   
-
-    <span data-key="13d828e58c984864ac8eec124cdc66cc"><span data-offset-key="13d828e58c984864ac8eec124cdc66cc:0">The </span>`$(document).ready(handler);`<span data-offset-key="13d828e58c984864ac8eec124cdc66cc:2"> — This statement is typically known as ready event. Where the </span>*handler*<span data-offset-key="13d828e58c984864ac8eec124cdc66cc:4"> is basically a function that is passed to the </span>`ready()`<span data-offset-key="13d828e58c984864ac8eec124cdc66cc:6"> method to be executed safely as soon as the document is ready to be manipulated i.e. when the DOM hierarchy has been fully constructed.</span></span>
+- <span data-key="13d828e58c984864ac8eec124cdc66cc"><span data-offset-key="13d828e58c984864ac8eec124cdc66cc:0">The </span>`$(document).ready(handler);`<span data-offset-key="13d828e58c984864ac8eec124cdc66cc:2"> — This statement is typically known as ready event. Where the </span>_handler_<span data-offset-key="13d828e58c984864ac8eec124cdc66cc:4"> is basically a function that is passed to the </span>`ready()`<span data-offset-key="13d828e58c984864ac8eec124cdc66cc:6"> method to be executed safely as soon as the document is ready to be manipulated i.e. when the DOM hierarchy has been fully constructed.</span></span>
 
 <span data-key="d2a81cef557b4eff864478354f2b538e"><span data-offset-key="d2a81cef557b4eff864478354f2b538e:0">The jQuery </span>`ready()`<span data-offset-key="d2a81cef557b4eff864478354f2b538e:2"> method is typically used with an anonymous function. So, the above example can also be written in a shorthand notation like this:\\</span></span>
 

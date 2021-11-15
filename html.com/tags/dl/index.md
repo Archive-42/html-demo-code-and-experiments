@@ -1,15 +1,12 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-
-
 [](https://html.com/)
 
 Learn HTML Code, Tags & CSS
 
 [HTML](https://html.com/)  /  [Lists Bring Order To Web Pages: Here’s The HTML Code To Create Them](https://html.com/lists/) / &lt;dl&gt; HTML Tag
 
-`<dl> HTML Tag`
-===============
+# `<dl> HTML Tag`
 
 In <span class="post-meta-category">[HTML Tags](https://html.com/tags/)</span>
 
@@ -29,14 +26,13 @@ textual
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
--   [<span class="toc_number toc_depth_1">2</span> Description Lists](#Description_Lists)
--   [<span class="toc_number toc_depth_1">3</span> When not to use &lt;dl&gt;](#When_not_to_use_ltdlgt)
--   [<span class="toc_number toc_depth_1">4</span> Browser Support for dl](#Browser_Support_for_dl)
--   [<span class="toc_number toc_depth_1">5</span> Attributes of dl](#Attributes_of_dl)
+- [<span class="toc_number toc_depth_1">1</span> Code Example](#Code_Example)
+- [<span class="toc_number toc_depth_1">2</span> Description Lists](#Description_Lists)
+- [<span class="toc_number toc_depth_1">3</span> When not to use &lt;dl&gt;](#When_not_to_use_ltdlgt)
+- [<span class="toc_number toc_depth_1">4</span> Browser Support for dl](#Browser_Support_for_dl)
+- [<span class="toc_number toc_depth_1">5</span> Attributes of dl](#Attributes_of_dl)
 
-<span id="Code_Example">Code Example</span>
--------------------------------------------
+## <span id="Code_Example">Code Example</span>
 
     <dl>
      <dt>HTML</dt>
@@ -53,17 +49,16 @@ Hypertext Markup Language, the language for authoring web documents.
 CSS  
 Cascading Style Sheets, the language for defining the styles and presentation of an HTML document.
 
- JavaScript  
+JavaScript  
 A scripting language built-in to most browsers and designed to be used with web documents.
 
 <span class="underline"></span>
 
-<span id="Description_Lists">Description Lists</span>
------------------------------------------------------
+## <span id="Description_Lists">Description Lists</span>
 
 The description list allows you to create a list of terms and then provide one or more descriptions for each term. In HTML 4, the `<dl>` tag defined a “definition list.” But in [HTML5](https://html.com/html5/), this has been changed to “description list.” This change has little meaning, other than to indicate that the terms and descriptions don’t have to be definitions. For example, you could use the description list for presenting metadata on [a blog](https://blogging.com/) post:
 
-    <dl>  <dt>Author</dt>  <dd>Kate Smith</dd>  <dt>Published</dt>  <dd>13 November 2015</dd>  <dt>Tags</dt>  <dd>HTML, CSS, JS, monkeys</dd> </dl> 
+    <dl>  <dt>Author</dt>  <dd>Kate Smith</dd>  <dt>Published</dt>  <dd>13 November 2015</dd>  <dt>Tags</dt>  <dd>HTML, CSS, JS, monkeys</dd> </dl>
 
 Author  
 Kate Smith
@@ -76,12 +71,11 @@ HTML, CSS, JS, monkeys
 
 The `<dl>` element can be used for any type of one-to-many name-value pair lists.
 
-<span id="When_not_to_use_ltdlgt">When *not* to use `<dl>`</span>
------------------------------------------------------------------
+## <span id="When_not_to_use_ltdlgt">When _not_ to use `<dl>`</span>
 
 While, generally, the definition of the `<dl>` tag has expanded between HTML 4 and HTML5, there is one use case which was formerly suggested and which has now been deprecated: dialogue.
 
-    <!-- DEPRECATED -->  <dl> <dt>Rick</dt> <dd>What's that you're playing?</dd> <dt>Sam</dt> <dd>A little something on my own.</dd> <dt>Rick</dt> <dd>Stop it. You know what I want to hear.</dd> <dt>Sam</dt> <dd>No, I don't.</dd> <dt>Rick</dt> <dd>You played it for her, you can play it for me.</dd> <dt>Sam<dt> <dd>I don't think I can remember</dd> <dt>Rick</dt> <dd>If she can stand it, I can. Play it.</dd> <dt>Sam</dt> <dd>Yes, boss.</dd> </dl> 
+    <!-- DEPRECATED -->  <dl> <dt>Rick</dt> <dd>What's that you're playing?</dd> <dt>Sam</dt> <dd>A little something on my own.</dd> <dt>Rick</dt> <dd>Stop it. You know what I want to hear.</dd> <dt>Sam</dt> <dd>No, I don't.</dd> <dt>Rick</dt> <dd>You played it for her, you can play it for me.</dd> <dt>Sam<dt> <dd>I don't think I can remember</dd> <dt>Rick</dt> <dd>If she can stand it, I can. Play it.</dd> <dt>Sam</dt> <dd>Yes, boss.</dd> </dl>
 
 Rick
 
@@ -131,8 +125,7 @@ While this is deliberately against the HTML specification, it is hard to imagine
 
 <span id="tho-end-content" style="display: block; visibility: hidden;"></span>
 
-<span id="Browser_Support_for_dl">Browser Support for dl</span>
----------------------------------------------------------------
+## <span id="Browser_Support_for_dl">Browser Support for dl</span>
 
 <img src="http://html.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy lazy-hidden" />
 
@@ -170,14 +163,12 @@ While this is deliberately against the HTML specification, it is hard to imagine
 
 <span class="browser-supported">All</span>
 
-<span id="Attributes_of_dl">Attributes of dl</span>
----------------------------------------------------
+## <span id="Attributes_of_dl">Attributes of dl</span>
 
 <table><thead><tr class="header"><th>Attribute name</th><th>Values</th><th>Notes</th></tr></thead><tbody><tr class="odd"><td><a href="https://html.com/attributes/dl-compact/" class="linked-name deprecated">compact</a><br />
 </td><td></td><td>Was used to specify a compact display style for a description list. Deprecated. Use CSS instead.</td></tr></tbody></table>
 
-Post navigation
----------------
+## Post navigation
 
 [<span class="nav-link-label"><span class="genericon genericon-previous"></span></span>`The Student’s Guide To Citation Styles: Here’s When (And How) To Cite`](https://html.com/resources/citation-guide/)
 
@@ -189,11 +180,11 @@ Search HTML.com
 
 Most Popular
 
--   <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
--   <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/a-target/" class="popular_posts_bars_link">How To Use The &lt;a&gt; To Make Links &amp; Open Them Where You Want!</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/a-target/#comments" class="popular_posts_bars_comment_count">2,742 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/comment-tag/" class="popular_posts_bars_link">The HTML Comment Tag: Here’s How To Use It In Your Code</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/comment-tag/#comments" class="popular_posts_bars_comment_count">1,182 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/attributes/input-pattern/" class="popular_posts_bars_link">Input Pattern: Use It To Add Basic Data Validation In HTML5</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/attributes/input-pattern/#comments" class="popular_posts_bars_comment_count">905 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/iframe/" class="popular_posts_bars_link">Using The HTML Tag To Create Inline Frames: Here’s How</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/iframe/#comments" class="popular_posts_bars_comment_count">748 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
+- <a href="https://html.com/tags/img/" class="popular_posts_bars_link">HTML Tags Guide To Adding Images To Your Web Documents</a><span class="popular_posts_bars_comment_count_hold"><a href="https://html.com/tags/img/#comments" class="popular_posts_bars_comment_count">686 views</a><span class="popular_posts_bars_comment_count_triangle"></span></span>
 
 [HTML.com](https://html.com/) © 2015-2020 [Sitemap](https://html.com/sitemap/) | [Privacy](https://html.com/privacy/) | [Contact](https://html.com/contact/)
 
