@@ -1,6 +1,6 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-<img src="https://html.com/wp-content/uploads/html-com-logo.png" alt="HTML.com logo" class="custom-logo sp-no-webp" srcset="https://html.com/wp-content/uploads/html-com-logo.png" width="250" height="53" />
+
 
 [](https://html.com/)
 
@@ -17,31 +17,32 @@ Playing With HTML Paragraphs: Let’s Show You Different Formatting Examples
 
 Contents
 
--   [<span class="toc_number toc_depth_1">1</span> Lines and Paragraphs](#Lines_and_Paragraphs)
--   [<span class="toc_number toc_depth_1">2</span> The &lt;DIV&gt; Element](#The_ltDIVgt_Element)
-    -   [<span class="toc_number toc_depth_2">2.1</span> The ALIGN Attribute](#The_ALIGN_Attribute)
--   [<span class="toc_number toc_depth_1">3</span> The Paragraph Element](#The_Paragraph_Element)
-    -   [<span class="toc_number toc_depth_2">3.1</span> The ALIGN Attribute](#The_ALIGN_Attribute-2)
-    -   [<span class="toc_number toc_depth_2">3.2</span> The CLEAR Attribute](#The_CLEAR_Attribute)
-    -   [<span class="toc_number toc_depth_2">3.3</span> Is the P Endtag Required?](#Is_the_P_Endtag_Required)
--   [<span class="toc_number toc_depth_1">4</span> Text Alignment](#Text_Alignment)
--   [<span class="toc_number toc_depth_1">5</span> Justification](#Justification)
--   [<span class="toc_number toc_depth_1">6</span> Indenting](#Indenting)
-    -   [<span class="toc_number toc_depth_2">6.1</span> Indenting a Paragraph](#Indenting_a_Paragraph)
-    -   [<span class="toc_number toc_depth_2">6.2</span> Indenting a Section of a Page](#Indenting_a_Section_of_a_Page)
-    -   [<span class="toc_number toc_depth_2">6.3</span> Indenting the Whole Page](#Indenting_the_Whole_Page)
-    -   [<span class="toc_number toc_depth_2">6.4</span> Indenting the First Line of Each Paragraph](#Indenting_the_First_Line_of_Each_Paragraph)
--   [<span class="toc_number toc_depth_1">7</span> The &lt;BR&gt; Element](#The_ltBRgt_Element)
-    -   [<span class="toc_number toc_depth_2">7.1</span> The CLEAR Attribute](#The_CLEAR_Attribute-2)
--   [<span class="toc_number toc_depth_1">8</span> The CENTER Element](#The_CENTER_Element)
--   [<span class="toc_number toc_depth_1">9</span> The &lt;HR&gt; Element](#The_ltHRgt_Element)
-    -   [<span class="toc_number toc_depth_2">9.1</span> The NOSHADE Attribute](#The_NOSHADE_Attribute)
-    -   [<span class="toc_number toc_depth_2">9.2</span> The SIZE Attribute](#The_SIZE_Attribute)
-    -   [<span class="toc_number toc_depth_2">9.3</span> The WIDTH Attribute](#The_WIDTH_Attribute)
-    -   [<span class="toc_number toc_depth_2">9.4</span> The ALIGN Attribute](#The_ALIGN_Attribute-3)
--   [<span class="toc_number toc_depth_1">10</span> The &lt;PRE&gt; Element](#The_ltPREgt_Element)
--   [<span class="toc_number toc_depth_1">11</span> The “ Element](#The_8220_Element)
--   [<span class="toc_number toc_depth_1">12</span> The “ Element](#The_8220_Element-2)
+- [Playing With HTML Paragraphs: Let’s Show You Different Formatting Examples](#playing-with-html-paragraphs-lets-show-you-different-formatting-examples)
+  - [<span id="Lines_and_Paragraphs">Lines and Paragraphs</span>](#lines-and-paragraphs)
+  - [<span id="The_ltDIVgt_Element">The `<DIV>` Element</span>](#the-div-element)
+    - [<span id="The_ALIGN_Attribute">The `ALIGN` Attribute</span>](#the-align-attribute)
+  - [<span id="The_Paragraph_Element">The Paragraph Element</span>](#the-paragraph-element)
+    - [<span id="The_ALIGN_Attribute-2">The `ALIGN` Attribute</span>](#the-align-attribute-1)
+    - [<span id="The_CLEAR_Attribute">The `CLEAR` Attribute</span>](#the-clear-attribute)
+    - [<span id="Is_the_P_Endtag_Required">Is the P Endtag Required?</span>](#is-the-p-endtag-required)
+  - [<span id="Text_Alignment">Text Alignment</span>](#text-alignment)
+  - [<span id="Justification">Justification</span>](#justification)
+  - [<span id="Indenting">Indenting</span>](#indenting)
+    - [<span id="Indenting_a_Paragraph">Indenting a Paragraph</span>](#indenting-a-paragraph)
+    - [<span id="Indenting_a_Section_of_a_Page">Indenting a Section of a Page</span>](#indenting-a-section-of-a-page)
+    - [<span id="Indenting_the_Whole_Page">Indenting the Whole Page</span>](#indenting-the-whole-page)
+    - [<span id="Indenting_the_First_Line_of_Each_Paragraph">Indenting the First Line of Each Paragraph</span>](#indenting-the-first-line-of-each-paragraph)
+  - [<span id="The_ltBRgt_Element">The `<BR>` Element</span>](#the-br-element)
+    - [<span id="The_CLEAR_Attribute-2">The `CLEAR` Attribute</span>](#the-clear-attribute-1)
+  - [<span id="The_CENTER_Element">The `CENTER` Element</span>](#the-center-element)
+  - [<span id="The_ltHRgt_Element">The `<HR>` Element</span>](#the-hr-element)
+    - [<span id="The_NOSHADE_Attribute">The `NOSHADE` Attribute</span>](#the-noshade-attribute)
+    - [<span id="The_SIZE_Attribute">The `SIZE` Attribute</span>](#the-size-attribute)
+    - [<span id="The_WIDTH_Attribute">The `WIDTH` Attribute</span>](#the-width-attribute)
+    - [<span id="The_ALIGN_Attribute-3">The `ALIGN` Attribute</span>](#the-align-attribute-2)
+  - [<span id="The_ltPREgt_Element">The `<PRE>` Element</span>](#the-pre-element)
+  - [<span id="The_8220_Element">The “ Element</span>](#the--element)
+  - [<span id="The_8220_Element-2">The “ Element</span>](#the--element-1)
 
 <span id="Lines_and_Paragraphs">Lines and Paragraphs</span>
 -----------------------------------------------------------

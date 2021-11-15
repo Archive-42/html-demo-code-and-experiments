@@ -1,6 +1,6 @@
 <a href="#site-main" class="skip-link screen-reader-text">Skip to content</a>
 
-<img src="https://html.com/wp-content/uploads/html-com-logo.png" alt="HTML.com logo" class="custom-logo sp-no-webp" srcset="https://html.com/wp-content/uploads/html-com-logo.png" width="250" height="53" />
+
 
 [](https://html.com/)
 
