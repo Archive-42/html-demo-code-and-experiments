@@ -1,306 +1,328 @@
 <html>
-  <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
-    <style type="text/css">.FlexStyles-spring {
-display: flex;
-flex-direction: row;
-align-items: baseline;
-flex: 1.0 10.0 1px;
-min-width: 0;
-}
-.FlexStyles-gap {
-flex: 0.0 0.0 auto;
-}
-.FlexStyles-horizontal {
-display: flex;
-flex-direction: row;
-align-items: baseline;
-flex: 0.0 0.0 auto;
-}
-.FlexStyles-vertical {
-display: flex;
-flex-direction: column;
-flex: 0.0 0.0 auto;
-}
-* {
-box-sizing: border-box;
-}
-body {
-font-size: 14px;
-font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
-line-height: 20px;
-letter-spacing: -0.006px;
--webkit-text-size-adjust: 100%;
-text-size-adjust: 100%;
-margin: 0;
-padding: 0;
-color: #0c0c0d;
-background-color: #f6f6f6;
-}
-:link {
-color: #5579a7;
-text-decoration: none;
-}
-:link:hover {
-color: #167dff;
-}
-form {
-margin: 0;
-}
-.PageStyles-outer {
-display: flex;
-flex-direction: row;
-align-items: baseline;
-flex: 1.0 0.0 auto;
-width: 100%;
-min-height: 100vh;
-}
-.PageStyles-page {
-display: flex;
-flex-direction: row;
-align-items: baseline;
-flex: 1.0 0.0 auto;
-align-self: stretch;
-max-width: 100%;
-padding: 24px 16px;
-}
-.PageStyles-inner {
-display: flex;
-flex-direction: column;
-flex: 100.0 1.0 auto;
-align-items: stretch;
-align-self: center;
-max-width: 320px;
-padding: 24px;
-background-color: white;
-}
-.PageStyles-logoContainer {
-display: flex;
-flex-direction: row;
-align-items: center;
-flex: 0.0 0.0 auto;
-margin-bottom: 32px;
-}
-.PageStyles-logo {
-width: 16px;
-height: 16px;
-margin-right: 8px;
-background-size: 16px 16px;
-user-select: none;
-}
-.PageStyles-realmContainer {
-display: flex;
-flex-direction: row;
-align-items: center;
-flex: 0.0 0.0 auto;
-}
-.PageStyles-realmLogo {
-width: 48px;
-margin-right: 16px;
-object-fit: contain;
-}
-.PageStyles-realmName {
-font-size: 22px;
-font-weight: 500;
-line-height: 32px;
-}
-.FormStyles-label {
-padding-bottom: 8px;
-overflow: hidden;
-text-overflow: ellipsis;
-white-space: nowrap;
-}
-.FormStyles-input {
--webkit-appearance: none;
-height: 40px;
-padding-right: 8px;
-padding-left: 8px;
-font-size: 14px;
-background-color: white;
-outline: none;
-border: 1px solid rgba(12, 12, 13, 0.2);
-border-radius: 4px;
-transition: border 200ms ease 0s;
-}
-.FormStyles-consentText {
-color: #8f9499;
-}
-@media (hover: hover), (-moz-touch-enabled: 0), (-ms-high-contrast: none), (-ms-high-contrast: active) {
-.FormStyles-input:hover {
-border-color: rgba(12, 12, 13, 0.3);
-}
-.ButtonStyles-normal:hover {
-color: #0a64d6;
-border-color: #0a64d6;
-background-color: rgba(22, 125, 255, 0.1);
-cursor: pointer;
-}
-.ButtonStyles-primary:hover {
-color: white;
-border-color: transparent;
-background-color: #0a64d6;
-cursor: pointer;
-}
-}
-.FormStyles-input:focus {
-border-color: #167dff;
-}
-.FormStyles-input:disabled {
-border: none;
-background-color: rgba(12, 12, 13, 0.07);
-}
-.ButtonStyles-button {
-align-items: stretch;
--webkit-appearance: none;
-margin: 0;
-border-radius: 4px;
-text-align: center;
-user-select: none;
-font-weight: normal;
-height: 32px;
-line-height: calc(32px - 2px);
-padding: 0 16px;
-font-size: 14px;
-}
-.ButtonStyles-normal {
-border: 1px solid rgba(12, 12, 13, 0.1);
-color: #167dff;
-background-color: white;
-}
-.ButtonStyles-normal:active {
-color: white;
-border-color: transparent;
-background-color: #167dff;
-}
-.ButtonStyles-primary {
-border: none;
-color: white;
-background-color: #167dff;
-}
-.ButtonStyles-primary:active {
-color: white;
-border-color: transparent;
-background-color: #167dff;
-}
-.ButtonStyles-large {
-height: 40px;
-line-height: calc(40px - 2px);
-padding: 0 24px;
-font-size: 14px;
-}
-.CheckboxStyles-input {
-width: 16px;
-height: 16px;
-margin: 0;
-}
-.IslandStyles-island {
-display: flex;
-flex-direction: column;
-flex: 0.0 0.0 auto;
-}
-.IslandStyles-headerContainer {
-display: flex;
-flex-direction: row;
-align-items: center;
-flex: 0.0 0.0 auto;
-margin-top: 16px;
-}
-.IslandStyles-logo {
-width: 48px;
-margin-right: 16px;
-}
-.IslandStyles-island .IslandStyles-header {
-font-size: 28px;
-font-weight: 500;
-line-height: 38px;
-letter-spacing: -0.021px;
-flex: 1.0 1.0 auto;
-margin-bottom: 0;
-}
-@media only screen and (max-width: 600px) {
-.IslandStyles-island .IslandStyles-header {
-font-size: 22px;
-line-height: 30px;
-letter-spacing: -0.018px;
-}
-}
-.IslandStyles-island .IslandStyles-content {
-display: flex;
-flex-direction: column;
-flex: 0.0 0.0 auto;
-margin-top: 16px;
-margin-bottom: 16px;
-}
-.IslandStyles-errorMessage {
-display: flex;
-flex-direction: row;
-align-items: baseline;
-flex: 0.0 0.0 auto;
-margin-top: 16px;
-margin-bottom: 16px;
-color: #ef341e;
-}
-.InfoStyles-infoIcon {
-display: inline-block;
-vertical-align: middle;
-width: 16px;
-height: 16px;
-margin-left: calc(8px / 2);
-background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTMiIGhlaWdodD0iMTMiIHZpZXdCb3g9IjAgMCAxMyAxMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcgNVY5SDhWMTBINVY5SDZWNkg1VjVIN1oiIGZpbGw9IiMwQzBDMEQiLz4KPHBhdGggZD0iTTYuNSA0QzYuNzc2MTQgNCA3IDMuNzc2MTQgNyAzLjVDNyAzLjIyMzg2IDYuNzc2MTQgMyA2LjUgM0M2LjIyMzg2IDMgNiAzLjIyMzg2IDYgMy41QzYgMy43NzYxNCA2LjIyMzg2IDQgNi41IDRaIiBmaWxsPSIjMEMwQzBEIi8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNi41IDEzQzEwLjA4OTkgMTMgMTMgMTAuMDg5OSAxMyA2LjVDMTMgMi45MTAxNSAxMC4wODk5IDAgNi41IDBDMi45MTAxNSAwIDAgMi45MTAxNSAwIDYuNUMwIDEwLjA4OTkgMi45MTAxNSAxMyA2LjUgMTNaTTYuNSAxMkM5LjUzNzU3IDEyIDEyIDkuNTM3NTcgMTIgNi41QzEyIDMuNDYyNDMgOS41Mzc1NyAxIDYuNSAxQzMuNDYyNDMgMSAxIDMuNDYyNDMgMSA2LjVDMSA5LjUzNzU3IDMuNDYyNDMgMTIgNi41IDEyWiIgZmlsbD0iIzBDMEMwRCIvPgo8L3N2Zz4K');
-background-repeat: no-repeat;
-}
-.InfoStyles-tooltipContainer {
-position: relative;
-}
-.InfoStyles-tooltip {
-visibility: hidden;
-position: absolute;
-bottom: 16px;
-width: 320px;
-padding: 8px;
-border: 1px solid rgba(12, 12, 13, 0.1);
-box-shadow: 0 5px 12px 4px rgba(12, 12, 13, 0.1);
-color: #0c0c0d;
-background-color: #f6f6f6;
-font-size: 12px;
-line-height: 1.5;
-opacity: 0;
-z-index: 1;
-}
-.InfoStyles-infoContainer:hover .InfoStyles-tooltip {
-visibility: visible;
-opacity: 1;
-transition: opacity 0.2s ease 0s;
-}
-</style>
+  <!-- Added by HTTrack --><meta
+    http-equiv="content-type"
+    content="text/html;charset=utf-8"
+  /><!-- /Added by HTTrack -->
+  <head>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"
+    />
+    <style type="text/css">
+      .FlexStyles-spring {
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        flex: 1 10 1px;
+        min-width: 0;
+      }
+      .FlexStyles-gap {
+        flex: 0 0 auto;
+      }
+      .FlexStyles-horizontal {
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        flex: 0 0 auto;
+      }
+      .FlexStyles-vertical {
+        display: flex;
+        flex-direction: column;
+        flex: 0 0 auto;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        font-size: 14px;
+        font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial,
+          sans-serif;
+        line-height: 20px;
+        letter-spacing: -0.006px;
+        -webkit-text-size-adjust: 100%;
+        text-size-adjust: 100%;
+        margin: 0;
+        padding: 0;
+        color: #0c0c0d;
+        background-color: #f6f6f6;
+      }
+      :link {
+        color: #5579a7;
+        text-decoration: none;
+      }
+      :link:hover {
+        color: #167dff;
+      }
+      form {
+        margin: 0;
+      }
+      .PageStyles-outer {
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        flex: 1 0 auto;
+        width: 100%;
+        min-height: 100vh;
+      }
+      .PageStyles-page {
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        flex: 1 0 auto;
+        align-self: stretch;
+        max-width: 100%;
+        padding: 24px 16px;
+      }
+      .PageStyles-inner {
+        display: flex;
+        flex-direction: column;
+        flex: 100 1 auto;
+        align-items: stretch;
+        align-self: center;
+        max-width: 320px;
+        padding: 24px;
+        background-color: white;
+      }
+      .PageStyles-logoContainer {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        flex: 0 0 auto;
+        margin-bottom: 32px;
+      }
+      .PageStyles-logo {
+        width: 16px;
+        height: 16px;
+        margin-right: 8px;
+        background-size: 16px 16px;
+        user-select: none;
+      }
+      .PageStyles-realmContainer {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        flex: 0 0 auto;
+      }
+      .PageStyles-realmLogo {
+        width: 48px;
+        margin-right: 16px;
+        object-fit: contain;
+      }
+      .PageStyles-realmName {
+        font-size: 22px;
+        font-weight: 500;
+        line-height: 32px;
+      }
+      .FormStyles-label {
+        padding-bottom: 8px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      .FormStyles-input {
+        -webkit-appearance: none;
+        height: 40px;
+        padding-right: 8px;
+        padding-left: 8px;
+        font-size: 14px;
+        background-color: white;
+        outline: none;
+        border: 1px solid rgba(12, 12, 13, 0.2);
+        border-radius: 4px;
+        transition: border 200ms ease 0s;
+      }
+      .FormStyles-consentText {
+        color: #8f9499;
+      }
+      @media (hover: hover),
+        (-moz-touch-enabled: 0),
+        (-ms-high-contrast: none),
+        (-ms-high-contrast: active) {
+        .FormStyles-input:hover {
+          border-color: rgba(12, 12, 13, 0.3);
+        }
+        .ButtonStyles-normal:hover {
+          color: #0a64d6;
+          border-color: #0a64d6;
+          background-color: rgba(22, 125, 255, 0.1);
+          cursor: pointer;
+        }
+        .ButtonStyles-primary:hover {
+          color: white;
+          border-color: transparent;
+          background-color: #0a64d6;
+          cursor: pointer;
+        }
+      }
+      .FormStyles-input:focus {
+        border-color: #167dff;
+      }
+      .FormStyles-input:disabled {
+        border: none;
+        background-color: rgba(12, 12, 13, 0.07);
+      }
+      .ButtonStyles-button {
+        align-items: stretch;
+        -webkit-appearance: none;
+        margin: 0;
+        border-radius: 4px;
+        text-align: center;
+        user-select: none;
+        font-weight: normal;
+        height: 32px;
+        line-height: calc(32px - 2px);
+        padding: 0 16px;
+        font-size: 14px;
+      }
+      .ButtonStyles-normal {
+        border: 1px solid rgba(12, 12, 13, 0.1);
+        color: #167dff;
+        background-color: white;
+      }
+      .ButtonStyles-normal:active {
+        color: white;
+        border-color: transparent;
+        background-color: #167dff;
+      }
+      .ButtonStyles-primary {
+        border: none;
+        color: white;
+        background-color: #167dff;
+      }
+      .ButtonStyles-primary:active {
+        color: white;
+        border-color: transparent;
+        background-color: #167dff;
+      }
+      .ButtonStyles-large {
+        height: 40px;
+        line-height: calc(40px - 2px);
+        padding: 0 24px;
+        font-size: 14px;
+      }
+      .CheckboxStyles-input {
+        width: 16px;
+        height: 16px;
+        margin: 0;
+      }
+      .IslandStyles-island {
+        display: flex;
+        flex-direction: column;
+        flex: 0 0 auto;
+      }
+      .IslandStyles-headerContainer {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        flex: 0 0 auto;
+        margin-top: 16px;
+      }
+      .IslandStyles-logo {
+        width: 48px;
+        margin-right: 16px;
+      }
+      .IslandStyles-island .IslandStyles-header {
+        font-size: 28px;
+        font-weight: 500;
+        line-height: 38px;
+        letter-spacing: -0.021px;
+        flex: 1 1 auto;
+        margin-bottom: 0;
+      }
+      @media only screen and (max-width: 600px) {
+        .IslandStyles-island .IslandStyles-header {
+          font-size: 22px;
+          line-height: 30px;
+          letter-spacing: -0.018px;
+        }
+      }
+      .IslandStyles-island .IslandStyles-content {
+        display: flex;
+        flex-direction: column;
+        flex: 0 0 auto;
+        margin-top: 16px;
+        margin-bottom: 16px;
+      }
+      .IslandStyles-errorMessage {
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        flex: 0 0 auto;
+        margin-top: 16px;
+        margin-bottom: 16px;
+        color: #ef341e;
+      }
+      .InfoStyles-infoIcon {
+        display: inline-block;
+        vertical-align: middle;
+        width: 16px;
+        height: 16px;
+        margin-left: calc(8px / 2);
+        background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTMiIGhlaWdodD0iMTMiIHZpZXdCb3g9IjAgMCAxMyAxMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcgNVY5SDhWMTBINVY5SDZWNkg1VjVIN1oiIGZpbGw9IiMwQzBDMEQiLz4KPHBhdGggZD0iTTYuNSA0QzYuNzc2MTQgNCA3IDMuNzc2MTQgNyAzLjVDNyAzLjIyMzg2IDYuNzc2MTQgMyA2LjUgM0M2LjIyMzg2IDMgNiAzLjIyMzg2IDYgMy41QzYgMy43NzYxNCA2LjIyMzg2IDQgNi41IDRaIiBmaWxsPSIjMEMwQzBEIi8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNi41IDEzQzEwLjA4OTkgMTMgMTMgMTAuMDg5OSAxMyA2LjVDMTMgMi45MTAxNSAxMC4wODk5IDAgNi41IDBDMi45MTAxNSAwIDAgMi45MTAxNSAwIDYuNUMwIDEwLjA4OTkgMi45MTAxNSAxMyA2LjUgMTNaTTYuNSAxMkM5LjUzNzU3IDEyIDEyIDkuNTM3NTcgMTIgNi41QzEyIDMuNDYyNDMgOS41Mzc1NyAxIDYuNSAxQzMuNDYyNDMgMSAxIDMuNDYyNDMgMSA2LjVDMSA5LjUzNzU3IDMuNDYyNDMgMTIgNi41IDEyWiIgZmlsbD0iIzBDMEMwRCIvPgo8L3N2Zz4K");
+        background-repeat: no-repeat;
+      }
+      .InfoStyles-tooltipContainer {
+        position: relative;
+      }
+      .InfoStyles-tooltip {
+        visibility: hidden;
+        position: absolute;
+        bottom: 16px;
+        width: 320px;
+        padding: 8px;
+        border: 1px solid rgba(12, 12, 13, 0.1);
+        box-shadow: 0 5px 12px 4px rgba(12, 12, 13, 0.1);
+        color: #0c0c0d;
+        background-color: #f6f6f6;
+        font-size: 12px;
+        line-height: 1.5;
+        opacity: 0;
+        z-index: 1;
+      }
+      .InfoStyles-infoContainer:hover .InfoStyles-tooltip {
+        visibility: visible;
+        opacity: 1;
+        transition: opacity 0.2s ease 0s;
+      }
+    </style>
   </head>
   <body class="">
-    <script>const OPENED_MESSAGE = 'CIRCLET_AUTH_PAGE_OPENED';
+    <script>
+      const OPENED_MESSAGE = "CIRCLET_AUTH_PAGE_OPENED";
 
-function postMessage(data) {
-  const target = window.opener || window.parent;
-  if (!target || target === window) {
-    return;
-  }
+      function postMessage(data) {
+        const target = window.opener || window.parent;
+        if (!target || target === window) {
+          return;
+        }
 
-  try {
-    target.postMessage(data, '*');
-  } catch (err) {
-    console.error('Failed to inform parent window', err);
-  }
-}
+        try {
+          target.postMessage(data, "*");
+        } catch (err) {
+          console.error("Failed to inform parent window", err);
+        }
+      }
 
-postMessage(OPENED_MESSAGE);</script>
+      postMessage(OPENED_MESSAGE);
+    </script>
     <div class="PageStyles-outer">
       <div class="PageStyles-page">
         <div class="FlexStyles-spring" style=""></div>
         <div class="PageStyles-inner">
           <div class="PageStyles-logoContainer">
-            <div class="PageStyles-logo" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAB/klEQVR4AZXBC09TdwAH0HP7YKxEpxlE5GUg6EZUHsMNCUOQ0vbe/+/7f58FEGmlrewctxZFRFEUtWvn/rKm5YmGIiIiIiIiBo70/MQzERERxal3Dn3RiIjo21WZ6VBc47kTRcTQshs9f+qLiNquylQDse9OywdFxImOOz1HioiR1x7piljyoOdCROOFe20HiojP2iZsisaP3mhE8cqDjlMRtWVjjsSlxxYNRWwZt64Rse27C3Fsmo4rEe+M6+qL2PfNUOyYrnIuYs24ypmIA7dqsWaWyhdRLJl0LGIPinhpto6RGGiZ9FnEGyJ+Nc9viqjt2bFhxapte05EFCJ65tsRERERERERinhpvi0RQ42iaIz0nStiQCNWzXcm/jVpRcQqI7Ftno4itky6FhdwKY7M817UKuM+ingGx+LCbJVaHBi3LOKDW9tiZLYDUXQ9WFCLS9/0RCyYbknEgQdtA9H4xXcj8YfpLkSj5V7lShS/G/O3uDTNhogt9zq+ilg1YUVE14+eK+LMvSUjEZseqcW+SYtqMdJ1Z1MRxbIp3otG5UHbQDR6bnSdiRjqmaqtiLfuVb6K4gUqexoR/2ib6ZNotN1YMhDxWmVPI6L2ylwdjfiEdUXEoTNFRPFRy0/tijgVERERjY9anqgvIiKiOLeu8j8s6Iu4cmxD25P8B3arXzsv0fzgAAAAAElFTkSuQmCC);
-"></div>
-JetBrains Space</div>
-          <div class="PageStyles-realmContainer"><img src="https://webdevhub.jetbrains.space/content/logo" class="PageStyles-realmLogo">
+            <div
+              class="PageStyles-logo"
+              style="
+                background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAB/klEQVR4AZXBC09TdwAH0HP7YKxEpxlE5GUg6EZUHsMNCUOQ0vbe/+/7f58FEGmlrewctxZFRFEUtWvn/rKm5YmGIiIiIiIiBo70/MQzERERxal3Dn3RiIjo21WZ6VBc47kTRcTQshs9f+qLiNquylQDse9OywdFxImOOz1HioiR1x7piljyoOdCROOFe20HiojP2iZsisaP3mhE8cqDjlMRtWVjjsSlxxYNRWwZt64Rse27C3Fsmo4rEe+M6+qL2PfNUOyYrnIuYs24ypmIA7dqsWaWyhdRLJl0LGIPinhpto6RGGiZ9FnEGyJ+Nc9viqjt2bFhxapte05EFCJ65tsRERERERERinhpvi0RQ42iaIz0nStiQCNWzXcm/jVpRcQqI7Ftno4itky6FhdwKY7M817UKuM+ingGx+LCbJVaHBi3LOKDW9tiZLYDUXQ9WFCLS9/0RCyYbknEgQdtA9H4xXcj8YfpLkSj5V7lShS/G/O3uDTNhogt9zq+ilg1YUVE14+eK+LMvSUjEZseqcW+SYtqMdJ1Z1MRxbIp3otG5UHbQDR6bnSdiRjqmaqtiLfuVb6K4gUqexoR/2ib6ZNotN1YMhDxWmVPI6L2ylwdjfiEdUXEoTNFRPFRy0/tijgVERERjY9anqgvIiKiOLeu8j8s6Iu4cmxD25P8B3arXzsv0fzgAAAAAElFTkSuQmCC);
+              "
+            ></div>
+            JetBrains Space
+          </div>
+          <div class="PageStyles-realmContainer">
+            <img
+              src="https://webdevhub.jetbrains.space/content/logo"
+              class="PageStyles-realmLogo"
+            />
             <div>
               <div class="PageStyles-realmName">webdevhub</div>
               <div></div>
@@ -308,12 +330,17 @@ JetBrains Space</div>
           </div>
           <div class="IslandStyles-island" data-test-id="island">
             <div class="IslandStyles-headerContainer">
-              <div class="IslandStyles-header" data-test-id="island:header">Invitation Expired</div>
+              <div class="IslandStyles-header" data-test-id="island:header">
+                Invitation Expired
+              </div>
             </div>
-            <div class="IslandStyles-content" data-test-id="island:content"><body><p style="margin: 14px 0;
-margin-top: 0;
-margin-bottom: 0;
-">Your invitation to webdevhub was valid until 7/5/21, 3:24 PM.</p></body></div>
+            <div class="IslandStyles-content" data-test-id="island:content">
+              <body>
+                <p style="margin: 14px 0; margin-top: 0; margin-bottom: 0">
+                  Your invitation to webdevhub was valid until 7/5/21, 3:24 PM.
+                </p>
+              </body>
+            </div>
           </div>
         </div>
         <div class="FlexStyles-spring" style=""></div>

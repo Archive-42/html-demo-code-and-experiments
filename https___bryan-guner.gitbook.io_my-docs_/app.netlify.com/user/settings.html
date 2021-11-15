@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-  <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-<head>
+  <!-- Added by HTTrack --><meta
+    http-equiv="content-type"
+    content="text/html;charset=UTF-8"
+  /><!-- /Added by HTTrack -->
+  <head>
     <meta charset="utf-8" />
     <title>Netlify App</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -11,18 +14,86 @@
       sizes="180x180"
       href="https://www.netlify.com/img/global/favicon/apple-touch-icon.png"
     />
-    <link rel="icon" type="image/png" href="https://app.netlify.com/favicon-32x32.png" sizes="32x32" />
-    <link rel="icon" type="image/png" href="https://app.netlify.com/favicon-16x16.png" sizes="16x16" />
-    <link rel='stylesheet' href='https://d33wubrfki0l68.cloudfront.net/css/ed6ecadfbc197bab69b8cb1182896941463a5083/style/app.css'/>
-  <script type="text/javascript">
-  if (window.location.host === "app.netlify.com") { 
-    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
-    analytics.load("bHbADSxnRvrpFMYP6pMNP38JC4J7Av75");}}();
-  }
-</script></head>
+    <link
+      rel="icon"
+      type="image/png"
+      href="https://app.netlify.com/favicon-32x32.png"
+      sizes="32x32"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="https://app.netlify.com/favicon-16x16.png"
+      sizes="16x16"
+    />
+    <link
+      rel="stylesheet"
+      href="https://d33wubrfki0l68.cloudfront.net/css/ed6ecadfbc197bab69b8cb1182896941463a5083/style/app.css"
+    />
+    <script type="text/javascript">
+      if (window.location.host === "app.netlify.com") {
+        !(function () {
+          var analytics = (window.analytics = window.analytics || []);
+          if (!analytics.initialize)
+            if (analytics.invoked)
+              window.console &&
+                console.error &&
+                console.error("Segment snippet included twice.");
+            else {
+              analytics.invoked = !0;
+              analytics.methods = [
+                "trackSubmit",
+                "trackClick",
+                "trackLink",
+                "trackForm",
+                "pageview",
+                "identify",
+                "reset",
+                "group",
+                "track",
+                "ready",
+                "alias",
+                "page",
+                "once",
+                "off",
+                "on",
+              ];
+              analytics.factory = function (t) {
+                return function () {
+                  var e = Array.prototype.slice.call(arguments);
+                  e.unshift(t);
+                  analytics.push(e);
+                  return analytics;
+                };
+              };
+              for (var t = 0; t < analytics.methods.length; t++) {
+                var e = analytics.methods[t];
+                analytics[e] = analytics.factory(e);
+              }
+              analytics.load = function (t) {
+                var e = document.createElement("script");
+                e.type = "text/javascript";
+                e.async = !0;
+                e.src =
+                  ("https:" === document.location.protocol
+                    ? "https://"
+                    : "http://") +
+                  "cdn.segment.com/analytics.js/v1/" +
+                  t +
+                  "/analytics.min.js";
+                var n = document.getElementsByTagName("script")[0];
+                n.parentNode.insertBefore(e, n);
+              };
+              analytics.SNIPPET_VERSION = "3.1.0";
+              analytics.load("bHbADSxnRvrpFMYP6pMNP38JC4J7Av75");
+            }
+        })();
+      }
+    </script>
+  </head>
 
   <body>
-    <svg style=" bottom: 0; position: absolute; z-index: -1;" aria-hidden="true">
+    <svg style="bottom: 0; position: absolute; z-index: -1" aria-hidden="true">
       <defs>
         <radialGradient
           id="logo-gradient"
@@ -51,22 +122,109 @@
     <script src="https://app.netlify.com/app.bundle.js"></script>
 
     <!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET-->
-    <script type='text/javascript'>
-    (function(){var g=function(e,h,f,g){
-      this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
-      this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
-      this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
-      this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
-      this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
-      try{(new g(100,"r","QSI_S_ZN_2fUBCKrIaC7UPsi","https://zn2fubckriac7upsi-netlify.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_2fUBCKrIaC7UPsi")).start()}catch(i){}
-    })();
-    </script><div id='ZN_2fUBCKrIaC7UPsi'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+    <script type="text/javascript">
+      (function () {
+        var g = function (e, h, f, g) {
+          this.get = function (a) {
+            for (
+              var a = a + "=",
+                c = document.cookie.split(";"),
+                b = 0,
+                e = c.length;
+              b < e;
+              b++
+            ) {
+              for (var d = c[b]; " " == d.charAt(0); )
+                d = d.substring(1, d.length);
+              if (0 == d.indexOf(a)) return d.substring(a.length, d.length);
+            }
+            return null;
+          };
+          this.set = function (a, c) {
+            var b = "",
+              b = new Date();
+            b.setTime(b.getTime() + 6048e5);
+            b = "; expires=" + b.toGMTString();
+            document.cookie = a + "=" + c + b + "; path=/; ";
+          };
+          this.check = function () {
+            var a = this.get(f);
+            if (a) a = a.split(":");
+            else if (100 != e)
+              "v" == h && (e = Math.random() >= e / 100 ? 0 : 100),
+                (a = [h, e, 0]),
+                this.set(f, a.join(":"));
+            else return !0;
+            var c = a[1];
+            if (100 == c) return !0;
+            switch (a[0]) {
+              case "v":
+                return !1;
+              case "r":
+                return (
+                  (c = a[2] % Math.floor(100 / c)),
+                  a[2]++,
+                  this.set(f, a.join(":")),
+                  !c
+                );
+            }
+            return !0;
+          };
+          this.go = function () {
+            if (this.check()) {
+              var a = document.createElement("script");
+              a.type = "text/javascript";
+              a.src = g;
+              document.body && document.body.appendChild(a);
+            }
+          };
+          this.start = function () {
+            var t = this;
+            "complete" !== document.readyState
+              ? window.addEventListener
+                ? window.addEventListener(
+                    "load",
+                    function () {
+                      t.go();
+                    },
+                    !1
+                  )
+                : window.attachEvent &&
+                  window.attachEvent("onload", function () {
+                    t.go();
+                  })
+              : t.go();
+          };
+        };
+        try {
+          new g(
+            100,
+            "r",
+            "QSI_S_ZN_2fUBCKrIaC7UPsi",
+            "https://zn2fubckriac7upsi-netlify.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_2fUBCKrIaC7UPsi"
+          ).start();
+        } catch (i) {}
+      })();
+    </script>
+    <div id="ZN_2fUBCKrIaC7UPsi"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
     <!--END WEBSITE FEEDBACK SNIPPET-->
 
     <noscript>
       <div class="app">
         <div
-          class="tw-flex tw-z-overlay tw-inset-0 tw-fixed tw-items-center tw-justify-center tw-m-0 tw-text-center tw-w-full tw-min-h-screen tw-bg-white"
+          class="
+            tw-flex
+            tw-z-overlay
+            tw-inset-0
+            tw-fixed
+            tw-items-center
+            tw-justify-center
+            tw-m-0
+            tw-text-center
+            tw-w-full
+            tw-min-h-screen
+            tw-bg-white
+          "
         >
           <div class="container">
             <h1>The Netlify dashboard needs JavaScript :(</h1>

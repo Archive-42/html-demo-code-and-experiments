@@ -1,253 +1,303 @@
 <!DOCTYPE html>
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
-<meta charset="utf-8">
-<meta name="viewport" content="width=1040">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-<meta name="keywords" content="d3,d3.js,visualization,dom,javascript">
-<meta itemprop="description" name="description" content="D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.">
-<link rel="image_src" href="https://d3js.org/preview.png">
-<link rel="apple-touch-icon" href="https://d3js.org/favicon.png">
-<link rel="icon" type="image/png" href="https://d3js.org/favicon.png" sizes="400x400">
-<meta property="og:type" content="article"/>
-<meta property="og:title" content="D3.js - Data-Driven Documents"/>
-<meta property="og:description" content="D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.">
-<meta property="og:url" content="https://d3js.org/"/>
-<meta property="og:image" content="https://d3js.org/preview.png"/>
-<meta name="twitter:card" value="summary_large_image">
-<meta name="twitter:site" value="@mbostock">
-<meta name="twitter:creator" content="@mbostock">
-<meta name="twitter:title" content="D3.js - Data-Driven Documents">
-<meta name="twitter:description" content="D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.">
-<meta name="twitter:url" content="https://d3js.org/">
-<meta name="twitter:image" content="https://d3js.org/preview.png">
-<meta name="twitter:image:width" content="560">
-<meta name="twitter:image:height" content="295">
-<meta name="author" content="Mike Bostock">
-<link rel="canonical" href="https://d3js.org/">
+<!-- Added by HTTrack --><meta
+  http-equiv="content-type"
+  content="text/html;charset=utf-8"
+/><!-- /Added by HTTrack -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=1040" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="keywords" content="d3,d3.js,visualization,dom,javascript" />
+<meta
+  itemprop="description"
+  name="description"
+  content="D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS."
+/>
+<link rel="image_src" href="https://d3js.org/preview.png" />
+<link rel="apple-touch-icon" href="https://d3js.org/favicon.png" />
+<link
+  rel="icon"
+  type="image/png"
+  href="https://d3js.org/favicon.png"
+  sizes="400x400"
+/>
+<meta property="og:type" content="article" />
+<meta property="og:title" content="D3.js - Data-Driven Documents" />
+<meta
+  property="og:description"
+  content="D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS."
+/>
+<meta property="og:url" content="https://d3js.org/" />
+<meta property="og:image" content="https://d3js.org/preview.png" />
+<meta name="twitter:card" value="summary_large_image" />
+<meta name="twitter:site" value="@mbostock" />
+<meta name="twitter:creator" content="@mbostock" />
+<meta name="twitter:title" content="D3.js - Data-Driven Documents" />
+<meta
+  name="twitter:description"
+  content="D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS."
+/>
+<meta name="twitter:url" content="https://d3js.org/" />
+<meta name="twitter:image" content="https://d3js.org/preview.png" />
+<meta name="twitter:image:width" content="560" />
+<meta name="twitter:image:height" content="295" />
+<meta name="author" content="Mike Bostock" />
+<link rel="canonical" href="https://d3js.org/" />
 <title>D3.js - Data-Driven Documents</title>
 <style>
+  html {
+    font: 16px/1.5em "Helvetica Neue", Helvetica, sans-serif;
+    min-width: 1040px;
+    margin: 0;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+  }
 
-html {
-  font: 16px/1.5em "Helvetica Neue", Helvetica, sans-serif;
-  min-width: 1040px;
-  margin: 0;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-}
+  body {
+    margin: 1em 0 4em 0;
+  }
 
-body {
-  margin: 1em 0 4em 0;
-}
+  #examples {
+    background: #ddd;
+    height: 460px;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    border-top: solid 1px #fff;
+  }
 
-#examples {
-  background: #ddd;
-  height: 460px;
-  overflow: hidden;
-  padding: 0;
-  position: relative;
-  border-top: solid 1px #fff;
-}
+  #examples:after,
+  #examples:before {
+    content: "";
+    display: block;
+    width: 100%;
+    position: absolute;
+    background: white;
+    height: 16px;
+    z-index: 2;
+  }
 
-#examples:after,
-#examples:before {
-  content: "";
-  display: block;
-  width: 100%;
-  position: absolute;
-  background: white;
-  height: 16px;
-  z-index: 2;
-}
+  #examples:before {
+    bottom: -16px;
+    box-shadow: 0px -8px 16px rgba(0, 0, 0, 0.3);
+  }
 
-#examples:before {
-  bottom: -16px;
-  box-shadow: 0px -8px 16px rgba(0,0,0,.3);
-}
+  #examples:after {
+    top: -16px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.3);
+  }
 
-#examples:after {
-  top: -16px;
-  box-shadow: 0px 8px 16px rgba(0,0,0,.3);
-}
+  #examples-deep {
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
 
-#examples-deep {
-  -webkit-transform-style: preserve-3d;
-  -moz-transform-style: preserve-3d;
-  transform-style: preserve-3d;
-  -webkit-backface-visibility: hidden;
-  -moz-backface-visibility: hidden;
-  backface-visibility: hidden;
-}
+  #examples svg,
+  #examples canvas {
+    position: absolute;
+  }
 
-#examples svg,
-#examples canvas {
-  position: absolute;
-}
+  .example-mesh {
+    fill: none;
+    stroke: #fff;
+    stroke-width: 2px;
+  }
 
-.example-mesh {
-  fill: none;
-  stroke: #fff;
-  stroke-width: 2px;
-}
+  .example-anchor path {
+    fill: none;
+    pointer-events: all;
+    cursor: pointer;
+  }
 
-.example-anchor path {
-  fill: none;
-  pointer-events: all;
-  cursor: pointer;
-}
+  .example-anchor path:hover {
+    stroke: #000;
+    stroke-width: 2px;
+  }
 
-.example-anchor path:hover {
-  stroke: #000;
-  stroke-width: 2px;
-}
+  h1 {
+    color: #555;
+    font-size: 64px;
+    font-weight: 200;
+    letter-spacing: -2px;
+    white-space: nowrap;
+    margin-top: 20px;
+  }
 
-h1 {
-  color: #555;
-  font-size: 64px;
-  font-weight: 200;
-  letter-spacing: -2px;
-  white-space: nowrap;
-  margin-top: 20px;
-}
+  h1,
+  h2 {
+    text-rendering: optimizeLegibility;
+  }
 
-h1,
-h2 {
-  text-rendering: optimizeLegibility;
-}
+  h2 {
+    margin-top: 2em;
+  }
 
-h2 {
-  margin-top: 2em;
-}
+  h2 a {
+    color: #ccc;
+    left: -20px;
+    position: absolute;
+    width: 740px;
+  }
 
-h2 a {
-  color: #ccc;
-  left: -20px;
-  position: absolute;
-  width: 740px;
-}
+  footer {
+    font-size: small;
+    margin-top: 8em;
+  }
 
-footer {
-  font-size: small;
-  margin-top: 8em;
-}
+  header aside {
+    margin-top: 82px;
+  }
 
-header aside {
-  margin-top: 82px;
-}
+  header aside,
+  footer aside {
+    color: #636363;
+    text-align: right;
+  }
 
-header aside,
-footer aside {
-  color: #636363;
-  text-align: right;
-}
+  aside {
+    font-size: small;
+    left: 780px;
+    position: absolute;
+    width: 180px;
+  }
 
-aside {
-  font-size: small;
-  left: 780px;
-  position: absolute;
-  width: 180px;
-}
+  .column {
+    margin: auto;
+    width: 720px;
+    padding-right: 240px;
+    position: relative;
+  }
 
-.column {
-  margin: auto;
-  width: 720px;
-  padding-right: 240px;
-  position: relative;
-}
+  a {
+    color: steelblue;
+  }
 
-a {
-  color: steelblue;
-}
+  a:not(:hover) {
+    text-decoration: none;
+  }
 
-a:not(:hover) {
-  text-decoration: none;
-}
+  pre,
+  code {
+    font-family: "Menlo", monospace;
+    -webkit-text-size-adjust: 100%;
+  }
 
-pre,
-code {
-  font-family: "Menlo", monospace;
-  -webkit-text-size-adjust: 100%;
-}
+  code {
+    line-height: 1em;
+  }
 
-code {
-  line-height: 1em;
-}
+  pre {
+    border-left: solid 2px #ccc;
+    padding-left: 18px;
+    margin: 2em 0 2em -20px;
+  }
 
-pre {
-  border-left: solid 2px #ccc;
-  padding-left: 18px;
-  margin: 2em 0 2em -20px;
-}
+  aside ul {
+    padding-left: 0;
+    margin: 0;
+  }
 
-aside ul {
-  padding-left: 0;
-  margin: 0;
-}
+  .html .string,
+  .javascript .string,
+  .javascript .regexp {
+    color: #756bb1;
+  }
 
-.html .string,
-.javascript .string,
-.javascript .regexp {
-  color: #756bb1;
-}
+  .html .tag,
+  .css .tag,
+  .javascript .keyword {
+    color: #3182bd;
+  }
 
-.html .tag,
-.css .tag,
-.javascript .keyword {
-  color: #3182bd;
-}
+  .comment {
+    color: #636363;
+  }
 
-.comment {
-  color: #636363;
-}
+  .html .doctype,
+  .javascript .number {
+    color: #31a354;
+  }
 
-.html .doctype,
-.javascript .number {
-  color: #31a354;
-}
-
-.html .attr,
-.css .attr,
-.javascript .class,
-.javascript .special {
-  color: #e6550d;
-}
-
+  .html .attr,
+  .css .attr,
+  .javascript .class,
+  .javascript .special {
+    color: #e6550d;
+  }
 </style>
 
 <div class="column">
-<header>
-  <b><a href="https://d3js.org/">Overview</a></b>
-  <a style="margin-left:1em;" href="https://observablehq.com/@d3/gallery">Examples</a>
-  <a style="margin-left:1em;" href="https://github.com/d3/d3/wiki">Documentation</a>
-  <a style="margin-left:1em;" href="https://github.com/d3/d3/blob/main/API.md">API</a>
-  <a style="margin-left:1em;" href="https://github.com/d3/d3">Source</a>
-</header>
+  <header>
+    <b><a href="https://d3js.org/">Overview</a></b>
+    <a style="margin-left: 1em" href="https://observablehq.com/@d3/gallery"
+      >Examples</a
+    >
+    <a style="margin-left: 1em" href="https://github.com/d3/d3/wiki"
+      >Documentation</a
+    >
+    <a style="margin-left: 1em" href="https://github.com/d3/d3/blob/main/API.md"
+      >API</a
+    >
+    <a style="margin-left: 1em" href="https://github.com/d3/d3">Source</a>
+  </header>
 
-<h1>
-  <svg width="96" height="91" style="position:relative;top:22px;">
-    <clipPath id="clip">
-      <path d="M0,0h7.75a45.5,45.5 0 1 1 0,91h-7.75v-20h7.75a25.5,25.5 0 1 0 0,-51h-7.75zm36.2510,0h32a27.75,27.75 0 0 1 21.331,45.5a27.75,27.75 0 0 1 -21.331,45.5h-32a53.6895,53.6895 0 0 0 18.7464,-20h13.2526a7.75,7.75 0 1 0 0,-15.5h-7.75a53.6895,53.6895 0 0 0 0,-20h7.75a7.75,7.75 0 1 0 0,-15.5h-13.2526a53.6895,53.6895 0 0 0 -18.7464,-20z"/>
-    </clipPath>
-    <linearGradient id="gradient-1" gradientUnits="userSpaceOnUse" x1="7" y1="64" x2="50" y2="107">
-      <stop offset="0" stop-color="#f9a03c"/>
-      <stop offset="1" stop-color="#f7974e"/>
-    </linearGradient>
-    <linearGradient id="gradient-2" gradientUnits="userSpaceOnUse" x1="2" y1="-2" x2="87" y2="84">
-      <stop offset="0" stop-color="#f26d58"/>
-      <stop offset="1" stop-color="#f9a03c"/>
-    </linearGradient>
-    <linearGradient id="gradient-3" gradientUnits="userSpaceOnUse" x1="45" y1="-10" x2="108" y2="53">
-      <stop offset="0" stop-color="#b84e51"/>
-      <stop offset="1" stop-color="#f68e48"/>
-    </linearGradient>
-    <g clip-path="url(#clip)">
-      <path d="M-100,-102m-27,0v300h300z" fill="url(#gradient-1)"/>
-      <path d="M-100,-102m27,0h300v300z" fill="url(#gradient-3)"/>
-      <path d="M-100,-102l300,300" fill="none" stroke="url(#gradient-2)" stroke-width="40"/>
-    </g>
-  </svg>
-  Data-Driven Documents
-</h1>
+  <h1>
+    <svg width="96" height="91" style="position: relative; top: 22px">
+      <clipPath id="clip">
+        <path
+          d="M0,0h7.75a45.5,45.5 0 1 1 0,91h-7.75v-20h7.75a25.5,25.5 0 1 0 0,-51h-7.75zm36.2510,0h32a27.75,27.75 0 0 1 21.331,45.5a27.75,27.75 0 0 1 -21.331,45.5h-32a53.6895,53.6895 0 0 0 18.7464,-20h13.2526a7.75,7.75 0 1 0 0,-15.5h-7.75a53.6895,53.6895 0 0 0 0,-20h7.75a7.75,7.75 0 1 0 0,-15.5h-13.2526a53.6895,53.6895 0 0 0 -18.7464,-20z"
+        />
+      </clipPath>
+      <linearGradient
+        id="gradient-1"
+        gradientUnits="userSpaceOnUse"
+        x1="7"
+        y1="64"
+        x2="50"
+        y2="107"
+      >
+        <stop offset="0" stop-color="#f9a03c" />
+        <stop offset="1" stop-color="#f7974e" />
+      </linearGradient>
+      <linearGradient
+        id="gradient-2"
+        gradientUnits="userSpaceOnUse"
+        x1="2"
+        y1="-2"
+        x2="87"
+        y2="84"
+      >
+        <stop offset="0" stop-color="#f26d58" />
+        <stop offset="1" stop-color="#f9a03c" />
+      </linearGradient>
+      <linearGradient
+        id="gradient-3"
+        gradientUnits="userSpaceOnUse"
+        x1="45"
+        y1="-10"
+        x2="108"
+        y2="53"
+      >
+        <stop offset="0" stop-color="#b84e51" />
+        <stop offset="1" stop-color="#f68e48" />
+      </linearGradient>
+      <g clip-path="url(#clip)">
+        <path d="M-100,-102m-27,0v300h300z" fill="url(#gradient-1)" />
+        <path d="M-100,-102m27,0h300v300z" fill="url(#gradient-3)" />
+        <path
+          d="M-100,-102l300,300"
+          fill="none"
+          stroke="url(#gradient-2)"
+          stroke-width="40"
+        />
+      </g>
+    </svg>
+    Data-Driven Documents
+  </h1>
 </div>
 
 <div id="examples">
@@ -261,394 +311,874 @@ aside ul {
     margin-bottom: 2em;
     color: black;
     line-height: inherit;
-    background: linear-gradient(to bottom,#ffc,#ffa);
-    border-bottom: solid 1px rgba(0,0,0,0.1);
-">
-  <div class="column" style="
-      color: rgba(0,0,0,0.8);
-  ">
-    Like visualization and creative coding? Try interactive JavaScript notebooks in
-    <span style="font-weight: bold;">
-      Observable!
-    </span>
+    background: linear-gradient(to bottom, #ffc, #ffa);
+    border-bottom: solid 1px rgba(0, 0, 0, 0.1);
+  "
+>
+  <div class="column" style="color: rgba(0, 0, 0, 0.8)">
+    Like visualization and creative coding? Try interactive JavaScript notebooks
+    in
+    <span style="font-weight: bold"> Observable! </span>
   </div>
 </a>
 
-
 <script src="https://d3js.org/d3.v7.min.js" charset="utf-8"></script>
 <script>
+  /* https://github.com/d3/d3-plugins/tree/master/hexbin Copyright 2013 Michael Bostock. */
+  !(function () {
+    d3.hexbin = function () {
+      function u(n) {
+        var r = {};
+        return (
+          n.forEach(function (n, t) {
+            var a = s.call(u, n, t) / o,
+              e = Math.round(a),
+              c = h.call(u, n, t) / i - (1 & e ? 0.5 : 0),
+              f = Math.round(c),
+              l = a - e;
+            if (3 * Math.abs(l) > 1) {
+              var v = c - f,
+                g = f + (f > c ? -1 : 1) / 2,
+                m = e + (e > a ? -1 : 1),
+                M = c - g,
+                d = a - m;
+              v * v + l * l > M * M + d * d &&
+                ((f = g + (1 & e ? 1 : -1) / 2), (e = m));
+            }
+            var j = f + "-" + e,
+              p = r[j];
+            p
+              ? p.push(n)
+              : ((p = r[j] = [n]),
+                (p.i = f),
+                (p.j = e),
+                (p.x = (f + (1 & e ? 0.5 : 0)) * i),
+                (p.y = e * o));
+          }),
+          d3.values(r)
+        );
+      }
+      function a(r) {
+        var t = 0,
+          u = 0;
+        return n.map(function (n) {
+          var a = Math.sin(n) * r,
+            e = -Math.cos(n) * r,
+            i = a - t,
+            o = e - u;
+          return (t = a), (u = e), [i, o];
+        });
+      }
+      var e,
+        i,
+        o,
+        c = 1,
+        f = 1,
+        h = r,
+        s = t;
+      return (
+        (u.x = function (n) {
+          return arguments.length ? ((h = n), u) : h;
+        }),
+        (u.y = function (n) {
+          return arguments.length ? ((s = n), u) : s;
+        }),
+        (u.hexagon = function (n) {
+          return arguments.length < 1 && (n = e), "m" + a(n).join("l") + "z";
+        }),
+        (u.centers = function () {
+          for (var n = [], r = 0, t = !1, u = 0; f + e > r; r += o, t = !t, ++u)
+            for (var a = t ? i / 2 : 0, h = 0; c + i / 2 > a; a += i, ++h) {
+              var s = [a, r];
+              (s.i = h), (s.j = u), n.push(s);
+            }
+          return n;
+        }),
+        (u.mesh = function () {
+          var n = a(e).slice(0, 4).join("l");
+          return u
+            .centers()
+            .map(function (r) {
+              return "M" + r + "m" + n;
+            })
+            .join("");
+        }),
+        (u.size = function (n) {
+          return arguments.length ? ((c = +n[0]), (f = +n[1]), u) : [c, f];
+        }),
+        (u.radius = function (n) {
+          return arguments.length
+            ? ((e = +n), (i = 2 * e * Math.sin(Math.PI / 3)), (o = 1.5 * e), u)
+            : e;
+        }),
+        u.radius(1)
+      );
+    };
+    var n = d3.range(0, 2 * Math.PI, Math.PI / 3),
+      r = function (n) {
+        return n[0];
+      },
+      t = function (n) {
+        return n[1];
+      };
+  })();
 
-/* https://github.com/d3/d3-plugins/tree/master/hexbin Copyright 2013 Michael Bostock. */
-!function(){d3.hexbin=function(){function u(n){var r={};return n.forEach(function(n,t){var a=s.call(u,n,t)/o,e=Math.round(a),c=h.call(u,n,t)/i-(1&e?.5:0),f=Math.round(c),l=a-e;if(3*Math.abs(l)>1){var v=c-f,g=f+(f>c?-1:1)/2,m=e+(e>a?-1:1),M=c-g,d=a-m;v*v+l*l>M*M+d*d&&(f=g+(1&e?1:-1)/2,e=m)}var j=f+"-"+e,p=r[j];p?p.push(n):(p=r[j]=[n],p.i=f,p.j=e,p.x=(f+(1&e?.5:0))*i,p.y=e*o)}),d3.values(r)}function a(r){var t=0,u=0;return n.map(function(n){var a=Math.sin(n)*r,e=-Math.cos(n)*r,i=a-t,o=e-u;return t=a,u=e,[i,o]})}var e,i,o,c=1,f=1,h=r,s=t;return u.x=function(n){return arguments.length?(h=n,u):h},u.y=function(n){return arguments.length?(s=n,u):s},u.hexagon=function(n){return arguments.length<1&&(n=e),"m"+a(n).join("l")+"z"},u.centers=function(){for(var n=[],r=0,t=!1,u=0;f+e>r;r+=o,t=!t,++u)for(var a=t?i/2:0,h=0;c+i/2>a;a+=i,++h){var s=[a,r];s.i=h,s.j=u,n.push(s)}return n},u.mesh=function(){var n=a(e).slice(0,4).join("l");return u.centers().map(function(r){return"M"+r+"m"+n}).join("")},u.size=function(n){return arguments.length?(c=+n[0],f=+n[1],u):[c,f]},u.radius=function(n){return arguments.length?(e=+n,i=2*e*Math.sin(Math.PI/3),o=1.5*e,u):e},u.radius(1)};var n=d3.range(0,2*Math.PI,Math.PI/3),r=function(n){return n[0]},t=function(n){return n[1]}}();
+  var data = [
+    {
+      title: "Radial Tidy Tree",
+      url: "https://observablehq.com/@d3/radial-tidy-tree",
+    },
+    {
+      title: "Factorisation Diagrams",
+      url: "https://www.jasondavies.com/factorisation-diagrams/",
+    },
+    {
+      title: "Phylogenetic Tree of Life",
+      url: "https://observablehq.com/@mbostock/tree-of-life",
+    },
+    {
+      title: "Geographic Clipping",
+      url: "https://www.jasondavies.com/maps/clip/",
+    },
+    {
+      title: "Les Misérables Co-occurrence Matrix",
+      url: "https://bost.ocks.org/mike/miserables/",
+    },
+    {
+      title: "L*a*b* and HCL color spaces",
+      url: "https://bl.ocks.org/mbostock/3014589",
+    },
+    { title: "Treemap", url: "https://observablehq.com/@d3/treemap" },
+    {
+      title: "Map Projection Transitions",
+      url: "https://www.jasondavies.com/maps/transition/",
+    },
+    {
+      title: "Across U.S. Companies, Tax Rates Vary Greatly",
+      url: "http://www.nytimes.com/interactive/2013/05/25/sunday-review/corporate-taxes.html",
+    },
+    {
+      title: "Rotating Voronoi",
+      url: "https://observablehq.com/@mbostock/rotating-voronoi",
+    },
+    {
+      title: "Zoomable Geography",
+      url: "https://observablehq.com/@d3/zoom-to-bounding-box",
+    },
+    { title: "Fisheye Distortion", url: "https://bost.ocks.org/mike/fisheye/" },
+    {
+      title: "Geodesic Rainbow",
+      url: "https://observablehq.com/@mbostock/geodesic-rainbow",
+    },
+    {
+      title: "Hierarchical Bar Chart",
+      url: "https://observablehq.com/@d3/hierarchical-bar-chart",
+    },
+    {
+      title: "Exoplanets",
+      url: "https://observablehq.com/@mbostock/exoplanets",
+    },
+    { title: "Crossfilter", url: "http://square.github.io/crossfilter/" },
+    {
+      title: "Alaska’s villages on the frontline of climate change",
+      url: "http://www.guardian.co.uk/environment/interactive/2013/may/14/alaska-villages-frontline-global-warming",
+    },
+    {
+      title: "The federal health-care exchange’s abysmal success rate",
+      url: "http://www.washingtonpost.com/wp-srv/special/politics/state-vs-federal-exchanges/",
+    },
+    {
+      title: "Counties Blue and Red, Moving Right and Left",
+      url: "http://www.nytimes.com/interactive/2012/11/11/sunday-review/counties-moving.html",
+    },
+    {
+      title: "At the National Conventions, the Words They Used",
+      url: "http://www.nytimes.com/interactive/2012/09/06/us/politics/convention-word-counts.html",
+    },
+    {
+      title: "Reprojected Raster Tiles",
+      url: "https://www.jasondavies.com/maps/raster/",
+    },
+    { title: "Hive Plots", url: "https://bost.ocks.org/mike/hive/" },
+    { title: "Donut Transitions", url: "https://bl.ocks.org/mbostock/4341417" },
+    {
+      title: "Non-Contiguous Cartogram",
+      url: "https://observablehq.com/@d3/non-contiguous-cartogram",
+    },
+    { title: "Tadpoles", url: "https://observablehq.com/@mbostock/tadpoles" },
+    {
+      title: "Zoomable Circle Packing",
+      url: "https://observablehq.com/@d3/zoomable-circle-packing",
+    },
+    {
+      title: "Transform Transitions",
+      url: "https://bl.ocks.org/mbostock/1345853",
+    },
+    {
+      title: "Scatterplot Matrix",
+      url: "https://observablehq.com/@d3/scatterplot-matrix",
+    },
+    {
+      title: "Janet L. Yellen, on the Economy’s Twists and Turns",
+      url: "http://www.nytimes.com/interactive/2013/10/09/us/yellen-fed-chart.html",
+    },
+    {
+      title: "Front Row to Fashion Week",
+      url: "http://www.nytimes.com/newsgraphics/2013/09/13/fashion-week-editors-picks/index.html",
+    },
+    {
+      title: "Interrupted Sinu-Mollweide",
+      url: "https://observablehq.com/@d3/interrupted-sinu-mollweide",
+    },
+    {
+      title: "Streamgraph",
+      url: "https://observablehq.com/@mbostock/streamgraph-transitions",
+    },
+    {
+      title: "Force-Directed Graph",
+      url: "https://observablehq.com/@d3/force-directed-graph",
+    },
+    {
+      title: "Zoomable Icicle",
+      url: "https://observablehq.com/@d3/zoomable-icicle",
+    },
+    {
+      title: "Collision Detection",
+      url: "https://bl.ocks.org/mbostock/3231298",
+    },
+    {
+      title: "Waterman Butterfly",
+      url: "https://observablehq.com/@d3/watermans-butterfly",
+    },
+    {
+      title: "Airocean projection",
+      url: "https://observablehq.com/@fil/airocean-projection",
+    },
+    {
+      title: "Countries by Area",
+      url: "https://www.jasondavies.com/maps/countries-by-area/",
+    },
+    {
+      title: "Zoomable Sunburst",
+      url: "https://observablehq.com/@d3/zoomable-sunburst",
+    },
+    { title: "Map Zooming", url: "https://bl.ocks.org/mbostock/6242308" },
+    {
+      title: "Fisher–Yates Shuffle",
+      url: "https://bost.ocks.org/mike/shuffle/",
+    },
+    {
+      title: "Sphere Spirals",
+      url: "https://www.jasondavies.com/maps/sphere-spirals/",
+    },
+    {
+      title: "World Tour",
+      url: "https://observablehq.com/@mbostock/world-tour",
+    },
+    {
+      title: "Zoomable Treemaps",
+      url: "https://observablehq.com/@d3/zoomable-treemap",
+    },
+    {
+      title: "Clipped Map Tiles",
+      url: "https://observablehq.com/@d3/clipped-map-tiles",
+    },
+    {
+      title: "Horizon Chart",
+      url: "https://observablehq.com/@d3/horizon-chart",
+    },
+    {
+      title: "Voronoi Labels",
+      url: "https://observablehq.com/@mbostock/d3-voronoi-labels",
+    },
+    { title: "Hexbin Map", url: "https://observablehq.com/@d3/hexbin-map" },
+    { title: "OMG Particles!", url: "https://bl.ocks.org/mbostock/1062544" },
+    {
+      title: "Calendar View",
+      url: "https://observablehq.com/@d3/calendar-view",
+    },
+    {
+      title: "The Wealth & Health of Nations",
+      url: "https://observablehq.com/@mbostock/the-wealth-health-of-nations",
+    },
+    {
+      title: "Collapsible Tree",
+      url: "https://observablehq.com/@d3/collapsible-tree",
+    },
+    { title: "Hexagonal Binning", url: "https://observablehq.com/@d3/hexbin" },
+    {
+      title: "Over the Decades, How States Have Shifted",
+      url: "http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html",
+    },
+    {
+      title: "China Still Dominates, but Some Manufacturers Look Elsewhere",
+      url: "http://www.nytimes.com/interactive/2013/04/08/business/global/asia-map.html",
+    },
+    {
+      title: "Strikeouts on the Rise",
+      url: "http://www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html?ref=baseball",
+    },
+    {
+      title: "Epicyclic Gearing",
+      url: "https://observablehq.com/@mbostock/epicyclic-gearing",
+    },
+    {
+      title: "Voronoi Particles",
+      url: "https://observablehq.com/@mbostock/voronoi-particles",
+    },
+    {
+      title: "The state of our union is … dumber",
+      url: "http://www.guardian.co.uk/world/interactive/2013/feb/12/state-of-the-union-reading-level",
+    },
+    {
+      title: "Chord Dependency Diagram",
+      url: "https://observablehq.com/@d3/chord-dependency-diagram",
+    },
+    {
+      title: "Floating Landmasses",
+      url: "https://observablehq.com/@mbostock/floating-landmasses",
+    },
+    {
+      title: "Parallel Coordinates",
+      url: "https://observablehq.com/@d3/parallel-coordinates",
+    },
+    {
+      title: "Prime Number Patterns",
+      url: "https://www.jasondavies.com/primos/",
+    },
+    {
+      title: "Owls to the Max",
+      url: "https://observablehq.com/@mbostock/owls-to-the-max",
+    },
+    {
+      title: "Constellations of Directors and Their Stars",
+      url: "http://www.nytimes.com/newsgraphics/2013/09/07/director-star-chart/index.html",
+    },
+    {
+      title: "Drought and Deluge in the Lower 48",
+      url: "http://www.nytimes.com/interactive/2012/08/11/sunday-review/drought-history.html",
+    },
+    {
+      title: "Animated Bézier Curves",
+      url: "https://www.jasondavies.com/animated-bezier/",
+    },
+    { title: "Histogram", url: "https://observablehq.com/@d3/histogram" },
+    {
+      title: "Stacked-to-Grouped Bars",
+      url: "https://observablehq.com/@d3/stacked-to-grouped-bars",
+    },
+    {
+      title: "Force-Directed States of America",
+      url: "https://bl.ocks.org/mbostock/1073373",
+    },
+    { title: "Faux-3D Arcs", url: "http://bl.ocks.org/dwtkns/4973620" },
+    {
+      title: "512 Paths to the White House",
+      url: "http://www.nytimes.com/interactive/2012/11/02/us/politics/paths-to-the-white-house.html",
+    },
+    {
+      title: "Polar Clock",
+      url: "https://observablehq.com/@mbostock/polar-clock",
+    },
+    {
+      title: "Population Pyramid",
+      url: "https://observablehq.com/@mbostock/u-s-population-by-age-and-sex/3",
+    },
+    {
+      title: "The America’s Cup Finale: Oracle’s Path to Victory",
+      url: "http://www.nytimes.com/interactive/2013/09/25/sports/americas-cup-course.html",
+    },
+    {
+      title: "Rainbow Worm",
+      url: "https://observablehq.com/@mbostock/rainbow-worm",
+    },
+    {
+      title: "Four Ways to Slice Obama’s 2013 Budget Proposal",
+      url: "http://www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html",
+    },
+    { title: "Quadtree", url: "https://bl.ocks.org/mbostock/4343214" },
+    { title: "Bubble Chart", url: "https://observablehq.com/@d3/bubble-chart" },
+    {
+      title: "Women as Academic Authors, 1665-2010",
+      url: "http://chronicle.com/article/Woman-as-Academic-Authors/135192/",
+    },
+    { title: "Choropleth", url: "https://observablehq.com/@d3/choropleth" },
+    {
+      title: "Gilbert’s Two-World Perspective",
+      url: "https://www.jasondavies.com/maps/gilbert/",
+    },
+    {
+      title: "For Eli Manning, 150 Games and Counting",
+      url: "http://www.nytimes.com/newsgraphics/2013/09/28/eli-manning-milestone/index.html",
+    },
+    { title: "Word Tree", url: "https://www.jasondavies.com/wordtree/" },
+    {
+      title: "Mobile Patent Suits",
+      url: "https://observablehq.com/@mbostock/mobile-patent-suits",
+    },
+    {
+      title: "Mitchell’s Best-Candidate",
+      url: "https://observablehq.com/@mbostock/best-candidate-circles",
+    },
+    {
+      title: "Sankey Diagrams",
+      url: "https://observablehq.com/@d3/sankey-diagram",
+    },
+    {
+      title: "van Wijk Smooth Zooming",
+      url: "https://observablehq.com/@d3/smooth-zooming",
+    },
+    {
+      title: "Bryce Harper: A swing of beauty",
+      url: "http://www.washingtonpost.com/wp-srv/special/sports/bryce-harper-swing-of-beauty/",
+    },
+    {
+      title: "Dissecting a Trailer: The Parts of the Film That Make the Cut",
+      url: "http://www.nytimes.com/interactive/2013/02/19/movies/awardsseason/oscar-trailers.html",
+    },
+    {
+      title: "Bar Chart Race, Explained",
+      url: "https://observablehq.com/@d3/bar-chart-race-explained",
+    },
+    {
+      title: "Hierarchical Edge Bundling",
+      url: "https://observablehq.com/@d3/hierarchical-edge-bundling",
+    },
+    {
+      title: "Geographic Bounding Boxes",
+      url: "https://www.jasondavies.com/maps/bounds/",
+    },
+    {
+      title: "Mona Lisa Histogram",
+      url: "https://observablehq.com/@d3/mona-lisa-histogram",
+    },
+    {
+      title: "Zoomable Map Tiles",
+      url: "https://observablehq.com/@d3/zoomable-map-tiles",
+    },
+    { title: "D3 Show Reel", url: "https://bl.ocks.org/mbostock/1256572" },
+    {
+      title: "Building Hamiltonian Graphs from LCF Notation",
+      url: "http://christophermanning.org/projects/building-cubic-hamiltonian-graphs-from-lcf-notation",
+    },
+    {
+      title: "Sequences sunburst",
+      url: "https://observablehq.com/@kerryrodden/sequences-sunburst",
+    },
+    {
+      title: "Azimuth and Distance from London",
+      url: "https://www.jasondavies.com/maps/azimuth-distance/",
+    },
+    {
+      title: "Parallel Sets",
+      url: "https://www.jasondavies.com/parallel-sets/",
+    },
+  ];
 
-var data = [
-{title: "Radial Tidy Tree", url: "https://observablehq.com/@d3/radial-tidy-tree"},
-{title: "Factorisation Diagrams", url: "https://www.jasondavies.com/factorisation-diagrams/"},
-{title: "Phylogenetic Tree of Life", url: "https://observablehq.com/@mbostock/tree-of-life"},
-{title: "Geographic Clipping", url: "https://www.jasondavies.com/maps/clip/"},
-{title: "Les Misérables Co-occurrence Matrix", url: "https://bost.ocks.org/mike/miserables/"},
-{title: "L*a*b* and HCL color spaces", url: "https://bl.ocks.org/mbostock/3014589"},
-{title: "Treemap", url: "https://observablehq.com/@d3/treemap"},
-{title: "Map Projection Transitions", url: "https://www.jasondavies.com/maps/transition/"},
-{title: "Across U.S. Companies, Tax Rates Vary Greatly", url: "http://www.nytimes.com/interactive/2013/05/25/sunday-review/corporate-taxes.html"},
-{title: "Rotating Voronoi", url: "https://observablehq.com/@mbostock/rotating-voronoi"},
-{title: "Zoomable Geography", url: "https://observablehq.com/@d3/zoom-to-bounding-box"},
-{title: "Fisheye Distortion", url: "https://bost.ocks.org/mike/fisheye/"},
-{title: "Geodesic Rainbow", url: "https://observablehq.com/@mbostock/geodesic-rainbow"},
-{title: "Hierarchical Bar Chart", url: "https://observablehq.com/@d3/hierarchical-bar-chart"},
-{title: "Exoplanets", url: "https://observablehq.com/@mbostock/exoplanets"},
-{title: "Crossfilter", url: "http://square.github.io/crossfilter/"},
-{title: "Alaska’s villages on the frontline of climate change", url: "http://www.guardian.co.uk/environment/interactive/2013/may/14/alaska-villages-frontline-global-warming"},
-{title: "The federal health-care exchange’s abysmal success rate", url: "http://www.washingtonpost.com/wp-srv/special/politics/state-vs-federal-exchanges/"},
-{title: "Counties Blue and Red, Moving Right and Left", url: "http://www.nytimes.com/interactive/2012/11/11/sunday-review/counties-moving.html"},
-{title: "At the National Conventions, the Words They Used", url: "http://www.nytimes.com/interactive/2012/09/06/us/politics/convention-word-counts.html"},
-{title: "Reprojected Raster Tiles", url: "https://www.jasondavies.com/maps/raster/"},
-{title: "Hive Plots", url: "https://bost.ocks.org/mike/hive/"},
-{title: "Donut Transitions", url: "https://bl.ocks.org/mbostock/4341417"},
-{title: "Non-Contiguous Cartogram", url: "https://observablehq.com/@d3/non-contiguous-cartogram"},
-{title: "Tadpoles", url: "https://observablehq.com/@mbostock/tadpoles"},
-{title: "Zoomable Circle Packing", url: "https://observablehq.com/@d3/zoomable-circle-packing"},
-{title: "Transform Transitions", url: "https://bl.ocks.org/mbostock/1345853"},
-{title: "Scatterplot Matrix", url: "https://observablehq.com/@d3/scatterplot-matrix"},
-{title: "Janet L. Yellen, on the Economy’s Twists and Turns", url: "http://www.nytimes.com/interactive/2013/10/09/us/yellen-fed-chart.html"},
-{title: "Front Row to Fashion Week", url: "http://www.nytimes.com/newsgraphics/2013/09/13/fashion-week-editors-picks/index.html"},
-{title: "Interrupted Sinu-Mollweide", url: "https://observablehq.com/@d3/interrupted-sinu-mollweide"},
-{title: "Streamgraph", url: "https://observablehq.com/@mbostock/streamgraph-transitions"},
-{title: "Force-Directed Graph", url: "https://observablehq.com/@d3/force-directed-graph"},
-{title: "Zoomable Icicle", url: "https://observablehq.com/@d3/zoomable-icicle"},
-{title: "Collision Detection", url: "https://bl.ocks.org/mbostock/3231298"},
-{title: "Waterman Butterfly", url: "https://observablehq.com/@d3/watermans-butterfly"},
-{title: "Airocean projection", url: "https://observablehq.com/@fil/airocean-projection"},
-{title: "Countries by Area", url: "https://www.jasondavies.com/maps/countries-by-area/"},
-{title: "Zoomable Sunburst", url: "https://observablehq.com/@d3/zoomable-sunburst"},
-{title: "Map Zooming", url: "https://bl.ocks.org/mbostock/6242308"},
-{title: "Fisher–Yates Shuffle", url: "https://bost.ocks.org/mike/shuffle/"},
-{title: "Sphere Spirals", url: "https://www.jasondavies.com/maps/sphere-spirals/"},
-{title: "World Tour", url: "https://observablehq.com/@mbostock/world-tour"},
-{title: "Zoomable Treemaps", url: "https://observablehq.com/@d3/zoomable-treemap"},
-{title: "Clipped Map Tiles", url: "https://observablehq.com/@d3/clipped-map-tiles"},
-{title: "Horizon Chart", url: "https://observablehq.com/@d3/horizon-chart"},
-{title: "Voronoi Labels", url: "https://observablehq.com/@mbostock/d3-voronoi-labels"},
-{title: "Hexbin Map", url: "https://observablehq.com/@d3/hexbin-map"},
-{title: "OMG Particles!", url: "https://bl.ocks.org/mbostock/1062544"},
-{title: "Calendar View", url: "https://observablehq.com/@d3/calendar-view"},
-{title: "The Wealth & Health of Nations", url: "https://observablehq.com/@mbostock/the-wealth-health-of-nations"},
-{title: "Collapsible Tree", url: "https://observablehq.com/@d3/collapsible-tree"},
-{title: "Hexagonal Binning", url: "https://observablehq.com/@d3/hexbin"},
-{title: "Over the Decades, How States Have Shifted", url: "http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html"},
-{title: "China Still Dominates, but Some Manufacturers Look Elsewhere", url: "http://www.nytimes.com/interactive/2013/04/08/business/global/asia-map.html"},
-{title: "Strikeouts on the Rise", url: "http://www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html?ref=baseball"},
-{title: "Epicyclic Gearing", url: "https://observablehq.com/@mbostock/epicyclic-gearing"},
-{title: "Voronoi Particles", url: "https://observablehq.com/@mbostock/voronoi-particles"},
-{title: "The state of our union is … dumber", url: "http://www.guardian.co.uk/world/interactive/2013/feb/12/state-of-the-union-reading-level"},
-{title: "Chord Dependency Diagram", url: "https://observablehq.com/@d3/chord-dependency-diagram"},
-{title: "Floating Landmasses", url: "https://observablehq.com/@mbostock/floating-landmasses"},
-{title: "Parallel Coordinates", url: "https://observablehq.com/@d3/parallel-coordinates"},
-{title: "Prime Number Patterns", url: "https://www.jasondavies.com/primos/"},
-{title: "Owls to the Max", url: "https://observablehq.com/@mbostock/owls-to-the-max"},
-{title: "Constellations of Directors and Their Stars", url: "http://www.nytimes.com/newsgraphics/2013/09/07/director-star-chart/index.html"},
-{title: "Drought and Deluge in the Lower 48", url: "http://www.nytimes.com/interactive/2012/08/11/sunday-review/drought-history.html"},
-{title: "Animated Bézier Curves", url: "https://www.jasondavies.com/animated-bezier/"},
-{title: "Histogram", url: "https://observablehq.com/@d3/histogram"},
-{title: "Stacked-to-Grouped Bars", url: "https://observablehq.com/@d3/stacked-to-grouped-bars"},
-{title: "Force-Directed States of America", url: "https://bl.ocks.org/mbostock/1073373"},
-{title: "Faux-3D Arcs", url: "http://bl.ocks.org/dwtkns/4973620"},
-{title: "512 Paths to the White House", url: "http://www.nytimes.com/interactive/2012/11/02/us/politics/paths-to-the-white-house.html"},
-{title: "Polar Clock", url: "https://observablehq.com/@mbostock/polar-clock"},
-{title: "Population Pyramid", url: "https://observablehq.com/@mbostock/u-s-population-by-age-and-sex/3"},
-{title: "The America’s Cup Finale: Oracle’s Path to Victory", url: "http://www.nytimes.com/interactive/2013/09/25/sports/americas-cup-course.html"},
-{title: "Rainbow Worm", url: "https://observablehq.com/@mbostock/rainbow-worm"},
-{title: "Four Ways to Slice Obama’s 2013 Budget Proposal", url: "http://www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html"},
-{title: "Quadtree", url: "https://bl.ocks.org/mbostock/4343214"},
-{title: "Bubble Chart", url: "https://observablehq.com/@d3/bubble-chart"},
-{title: "Women as Academic Authors, 1665-2010", url: "http://chronicle.com/article/Woman-as-Academic-Authors/135192/"},
-{title: "Choropleth", url: "https://observablehq.com/@d3/choropleth"},
-{title: "Gilbert’s Two-World Perspective", url: "https://www.jasondavies.com/maps/gilbert/"},
-{title: "For Eli Manning, 150 Games and Counting", url: "http://www.nytimes.com/newsgraphics/2013/09/28/eli-manning-milestone/index.html"},
-{title: "Word Tree", url: "https://www.jasondavies.com/wordtree/"},
-{title: "Mobile Patent Suits", url: "https://observablehq.com/@mbostock/mobile-patent-suits"},
-{title: "Mitchell’s Best-Candidate", url: "https://observablehq.com/@mbostock/best-candidate-circles"},
-{title: "Sankey Diagrams", url: "https://observablehq.com/@d3/sankey-diagram"},
-{title: "van Wijk Smooth Zooming", url: "https://observablehq.com/@d3/smooth-zooming"},
-{title: "Bryce Harper: A swing of beauty", url: "http://www.washingtonpost.com/wp-srv/special/sports/bryce-harper-swing-of-beauty/"},
-{title: "Dissecting a Trailer: The Parts of the Film That Make the Cut", url: "http://www.nytimes.com/interactive/2013/02/19/movies/awardsseason/oscar-trailers.html"},
-{title: "Bar Chart Race, Explained", url: "https://observablehq.com/@d3/bar-chart-race-explained"},
-{title: "Hierarchical Edge Bundling", url: "https://observablehq.com/@d3/hierarchical-edge-bundling"},
-{title: "Geographic Bounding Boxes", url: "https://www.jasondavies.com/maps/bounds/"},
-{title: "Mona Lisa Histogram", url: "https://observablehq.com/@d3/mona-lisa-histogram"},
-{title: "Zoomable Map Tiles", url: "https://observablehq.com/@d3/zoomable-map-tiles"},
-{title: "D3 Show Reel", url: "https://bl.ocks.org/mbostock/1256572"},
-{title: "Building Hamiltonian Graphs from LCF Notation", url: "http://christophermanning.org/projects/building-cubic-hamiltonian-graphs-from-lcf-notation"},
-{title: "Sequences sunburst", url: "https://observablehq.com/@kerryrodden/sequences-sunburst"},
-{title: "Azimuth and Distance from London", url: "https://www.jasondavies.com/maps/azimuth-distance/"},
-{title: "Parallel Sets", url: "https://www.jasondavies.com/parallel-sets/"}
-];
+  data.forEach(function (d, i) {
+    d.i = i % 10;
+    d.j = (i / 10) | 0;
+  });
 
-data.forEach(function(d, i) {
-  d.i = i % 10;
-  d.j = i / 10 | 0;
-});
+  d3.shuffler(d3.randomLcg(d3.utcHour()))(data);
 
-d3.shuffler(d3.randomLcg(d3.utcHour()))(data);
-
-var height = 460,
+  var height = 460,
     imageWidth = 132,
     imageHeight = 152,
     radius = 75,
     depth = 4;
 
-var currentFocus = [innerWidth / 2, height / 2],
+  var currentFocus = [innerWidth / 2, height / 2],
     desiredFocus,
     idle = true;
 
-var style = document.body.style,
-    transform = ("webkitTransform" in style ? "-webkit-"
-        : "MozTransform" in style ? "-moz-"
-        : "msTransform" in style ? "-ms-"
-        : "OTransform" in style ? "-o-"
+  var style = document.body.style,
+    transform =
+      ("webkitTransform" in style
+        ? "-webkit-"
+        : "MozTransform" in style
+        ? "-moz-"
+        : "msTransform" in style
+        ? "-ms-"
+        : "OTransform" in style
+        ? "-o-"
         : "") + "transform";
 
-var hexbin = d3.hexbin()
-    .radius(radius);
+  var hexbin = d3.hexbin().radius(radius);
 
-if (!("ontouchstart" in document)) d3.select("#examples")
-    .on("mousemove", mousemoved);
+  if (!("ontouchstart" in document))
+    d3.select("#examples").on("mousemove", mousemoved);
 
-var deep = d3.select("#examples-deep");
+  var deep = d3.select("#examples-deep");
 
-var canvas = deep.append("canvas")
-    .attr("height", height);
+  var canvas = deep.append("canvas").attr("height", height);
 
-var context = canvas.node().getContext("2d");
+  var context = canvas.node().getContext("2d");
 
-var svg = deep.append("svg")
-    .attr("height", height);
+  var svg = deep.append("svg").attr("height", height);
 
-var mesh = svg.append("path")
-    .attr("class", "example-mesh");
+  var mesh = svg.append("path").attr("class", "example-mesh");
 
-var anchor = svg.append("g")
-    .attr("class", "example-anchor")
-  .selectAll("a");
+  var anchor = svg.append("g").attr("class", "example-anchor").selectAll("a");
 
-var graphic = deep.selectAll("svg,canvas");
+  var graphic = deep.selectAll("svg,canvas");
 
-var image = new Image;
-image.src = "https://d3js.org/ex.jpg?ddcbcae235e360c7d01311163440cb88";
-image.onload = resized;
+  var image = new Image();
+  image.src = "https://d3js.org/ex.jpg?ddcbcae235e360c7d01311163440cb88";
+  image.onload = resized;
 
-d3.select(window)
-    .on("resize", resized)
-    .each(resized);
+  d3.select(window).on("resize", resized).each(resized);
 
-function drawImage(d) {
-  context.save();
-  context.beginPath();
-  context.moveTo(0, -radius);
+  function drawImage(d) {
+    context.save();
+    context.beginPath();
+    context.moveTo(0, -radius);
 
-  for (var i = 1; i < 6; ++i) {
-    var angle = i * Math.PI / 3,
+    for (var i = 1; i < 6; ++i) {
+      var angle = (i * Math.PI) / 3,
         x = Math.sin(angle) * radius,
         y = -Math.cos(angle) * radius;
-    context.lineTo(x, y);
+      context.lineTo(x, y);
+    }
+
+    context.clip();
+    context.drawImage(
+      image,
+      imageWidth * d.i,
+      imageHeight * d.j,
+      imageWidth,
+      imageHeight,
+      -imageWidth / 2,
+      -imageHeight / 2,
+      imageWidth,
+      imageHeight
+    );
+    context.restore();
   }
 
-  context.clip();
-  context.drawImage(image,
-      imageWidth * d.i, imageHeight * d.j,
-      imageWidth, imageHeight,
-      -imageWidth / 2, -imageHeight / 2,
-      imageWidth, imageHeight);
-  context.restore();
-}
-
-function resized() {
-  var deepWidth = innerWidth * (depth + 1) / depth,
-      deepHeight = height * (depth + 1) / depth,
+  function resized() {
+    var deepWidth = (innerWidth * (depth + 1)) / depth,
+      deepHeight = (height * (depth + 1)) / depth,
       centers = hexbin.size([deepWidth, deepHeight]).centers();
 
-  desiredFocus = [innerWidth / 2, height / 2];
-  moved();
+    desiredFocus = [innerWidth / 2, height / 2];
+    moved();
 
-  graphic
+    graphic
       .style("left", Math.round((innerWidth - deepWidth) / 2) + "px")
       .style("top", Math.round((height - deepHeight) / 2) + "px")
       .attr("width", deepWidth)
       .attr("height", deepHeight);
 
-  centers.forEach(function(center, i) {
-    center.j = Math.round(center[1] / (radius * 1.5));
-    center.i = Math.round((center[0] - (center.j & 1) * radius * Math.sin(Math.PI / 3)) / (radius * 2 * Math.sin(Math.PI / 3)));
-    context.save();
-    context.translate(Math.round(center[0]), Math.round(center[1]));
-    drawImage(center.example = data[(center.i % 10) + ((center.j + (center.i / 10 & 1) * 5) % 10) * 10]);
-    context.restore();
-  });
+    centers.forEach(function (center, i) {
+      center.j = Math.round(center[1] / (radius * 1.5));
+      center.i = Math.round(
+        (center[0] - (center.j & 1) * radius * Math.sin(Math.PI / 3)) /
+          (radius * 2 * Math.sin(Math.PI / 3))
+      );
+      context.save();
+      context.translate(Math.round(center[0]), Math.round(center[1]));
+      drawImage(
+        (center.example =
+          data[
+            (center.i % 10) + ((center.j + ((center.i / 10) & 1) * 5) % 10) * 10
+          ])
+      );
+      context.restore();
+    });
 
-  mesh.attr("d", hexbin.mesh);
+    mesh.attr("d", hexbin.mesh);
 
-  anchor = anchor.data(centers, function(d) { return d.i + "," + d.j; });
+    anchor = anchor.data(centers, function (d) {
+      return d.i + "," + d.j;
+    });
 
-  anchor.exit().remove();
+    anchor.exit().remove();
 
-  var anchorEnter = anchor.enter().append("a")
-      .attr("xlink:href", function(d) { return d.example.url; })
-      .attr("xlink:title", function(d) { return d.example.title; });
+    var anchorEnter = anchor
+      .enter()
+      .append("a")
+      .attr("xlink:href", function (d) {
+        return d.example.url;
+      })
+      .attr("xlink:title", function (d) {
+        return d.example.title;
+      });
 
-  anchorEnter.append("path")
-      .attr("d", hexbin.hexagon());
+    anchorEnter.append("path").attr("d", hexbin.hexagon());
 
-  anchor = anchorEnter.merge(anchor)
-      .attr("transform", function(d) { return "translate(" + d + ")"; });
-}
+    anchor = anchorEnter.merge(anchor).attr("transform", function (d) {
+      return "translate(" + d + ")";
+    });
+  }
 
-function mousemoved(event) {
-  var m = d3.pointer(event);
+  function mousemoved(event) {
+    var m = d3.pointer(event);
 
-  desiredFocus = [
-    Math.round((m[0] - innerWidth / 2) / depth) * depth + innerWidth / 2,
-    Math.round((m[1] - height / 2) / depth) * depth + height / 2
-  ];
+    desiredFocus = [
+      Math.round((m[0] - innerWidth / 2) / depth) * depth + innerWidth / 2,
+      Math.round((m[1] - height / 2) / depth) * depth + height / 2,
+    ];
 
-  moved();
-}
+    moved();
+  }
 
-function moved() {
-  var t = d3.timer(function() {
-    if (Math.abs(desiredFocus[0] - currentFocus[0]) < .5 && Math.abs(desiredFocus[1] - currentFocus[1]) < .5) currentFocus = desiredFocus, t.stop();
-    else currentFocus[0] += (desiredFocus[0] - currentFocus[0]) * .14, currentFocus[1] += (desiredFocus[1] - currentFocus[1]) * .14;
-    deep.style(transform, "translate(" + (innerWidth / 2 - currentFocus[0]) / depth + "px," + (height / 2 - currentFocus[1]) / depth + "px)");
-  });
-}
-
+  function moved() {
+    var t = d3.timer(function () {
+      if (
+        Math.abs(desiredFocus[0] - currentFocus[0]) < 0.5 &&
+        Math.abs(desiredFocus[1] - currentFocus[1]) < 0.5
+      )
+        (currentFocus = desiredFocus), t.stop();
+      else
+        (currentFocus[0] += (desiredFocus[0] - currentFocus[0]) * 0.14),
+          (currentFocus[1] += (desiredFocus[1] - currentFocus[1]) * 0.14);
+      deep.style(
+        transform,
+        "translate(" +
+          (innerWidth / 2 - currentFocus[0]) / depth +
+          "px," +
+          (height / 2 - currentFocus[1]) / depth +
+          "px)"
+      );
+    });
+  }
 </script>
 
 <div class="column">
+  <aside>
+    <ul>
+      <li style="list-style-image: url('https://d3js.org/icon-observable.svg')">
+        <a href="https://observablehq.com/@d3/gallery" title="D3 Gallery">
+          See more examples
+        </a>
+      </li>
+      <li style="list-style-image: url('https://d3js.org/icon-slack.svg')">
+        <a href="https://d3-slackin.herokuapp.com/" title="D3 Slack">
+          Chat with the community
+        </a>
+      </li>
+      <li style="list-style-image: url('https://d3js.org/icon-twitter.svg')">
+        <a href="https://twitter.com/d3js_org" title="D3 Twitter">
+          Follow announcements
+        </a>
+      </li>
+      <li style="list-style-image: url('https://d3js.org/icon-github.svg')">
+        <a href="https://github.com/d3/d3" title="D3 GitHub"> Report a bug </a>
+      </li>
+      <li
+        style="list-style-image: url('https://d3js.org/icon-stackoverflow.svg')"
+      >
+        <a
+          href="https://stackoverflow.com/questions/tagged/d3.js"
+          title="D3 Stack Overflow"
+        >
+          Ask for help
+        </a>
+      </li>
+    </ul>
+  </aside>
 
-<aside>
+  <p>
+    <b>D3.js</b> is a JavaScript library for manipulating documents based on
+    data. <b>D3</b> helps you bring data to life using HTML, SVG, and CSS. D3’s
+    emphasis on web standards gives you the full capabilities of modern browsers
+    without tying yourself to a proprietary framework, combining powerful
+    visualization components and a data-driven approach to DOM manipulation.
+  </p>
+
+  <p>Download the latest version <span id="version"></span> here:</p>
+
   <ul>
-    <li style="list-style-image: url('https://d3js.org/icon-observable.svg');">
-      <a href="https://observablehq.com/@d3/gallery" title="D3 Gallery">
-        See more examples
-      </a>
-    </li>
-    <li style="list-style-image: url('https://d3js.org/icon-slack.svg');">
-      <a href="https://d3-slackin.herokuapp.com/" title="D3 Slack">
-        Chat with the community
-      </a>
-    </li>
-    <li style="list-style-image: url('https://d3js.org/icon-twitter.svg');">
-      <a href="https://twitter.com/d3js_org" title="D3 Twitter">
-        Follow announcements
-      </a>
-    </li>
-    <li style="list-style-image: url('https://d3js.org/icon-github.svg');">
-      <a href="https://github.com/d3/d3" title="D3 GitHub">
-        Report a bug
-      </a>
-    </li>
-    <li style="list-style-image: url('https://d3js.org/icon-stackoverflow.svg');">
-      <a href="https://stackoverflow.com/questions/tagged/d3.js" title="D3 Stack Overflow">
-        Ask for help
-      </a>
+    <li>
+      <a id="download" href="https://github.com/d3/d3/releases/latest"
+        >d3.tgz</a
+      >
     </li>
   </ul>
-</aside>
 
-<p><b>D3.js</b> is a JavaScript library for manipulating documents based on data. <b>D3</b> helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
+  <script>
+    d3.select("#download")
+      .attr("href", "https://registry.npmjs.org/d3/-/d3-" + d3.version + ".tgz")
+      .text("d3-" + d3.version + ".tgz");
+    d3.select("#version").text(" (" + d3.version + ")");
+  </script>
 
-<p>Download the latest version <span id="version"></span> here:
+  <p>To link directly to the latest release, copy this snippet:</p>
 
-<ul>
-  <li><a id="download" href="https://github.com/d3/d3/releases/latest">d3.tgz</a>
-</ul>
+  <pre><code class="html">&lt;script src="https://d3js.org/d3.v7.min.js">&lt;/script></code></pre>
 
-<script>
+  <p>
+    The <a href="https://github.com/d3/d3">full source and tests</a> are also
+    available
+    <a href="https://github.com/d3/d3/zipball/main">for download</a> on GitHub.
+  </p>
 
-d3.select("#download").attr("href", "https://registry.npmjs.org/d3/-/d3-" + d3.version + ".tgz").text("d3-" + d3.version + ".tgz");
-d3.select("#version").text(" (" + d3.version + ")");
+  <h2><a name="introduction" href="#introduction">#</a>Introduction</h2>
 
-</script>
+  <aside>
+    Read <a href="https://observablehq.com/@d3/learn-d3">more tutorials</a>.
+  </aside>
 
-<p>To link directly to the latest release, copy this snippet:
+  <p>
+    <b>D3</b> allows you to bind arbitrary data to a Document Object Model
+    (DOM), and then apply data-driven transformations to the document. For
+    example, you can use D3 to generate an HTML table from an array of numbers.
+    Or, use the same data to create an interactive SVG bar chart with smooth
+    transitions and interaction.
+  </p>
 
-<pre><code class="html">&lt;script src="https://d3js.org/d3.v7.min.js">&lt;/script></code></pre>
+  <p>
+    D3 is not a monolithic framework that seeks to provide every conceivable
+    feature. Instead, D3 solves the crux of the problem: efficient manipulation
+    of documents based on data. This avoids proprietary representation and
+    affords extraordinary flexibility, exposing the full capabilities of web
+    standards such as HTML, SVG, and CSS. With minimal overhead, D3 is extremely
+    fast, supporting large datasets and dynamic behaviors for interaction and
+    animation. D3’s functional style allows code reuse through a diverse
+    collection of
+    <a href="https://github.com/d3/d3/blob/main/API.md">official</a> and
+    <a href="https://www.npmjs.com/browse/keyword/d3-module"
+      >community-developed</a
+    >
+    modules.
+  </p>
 
-<p>The <a href="https://github.com/d3/d3">full source and tests</a> are also available <a href="https://github.com/d3/d3/zipball/main">for download</a> on GitHub.
+  <h2><a name="selections" href="#selections">#</a>Selections</h2>
 
-<h2><a name="introduction" href="#introduction">#</a>Introduction</h2>
+  <aside>
+    Read <a href="https://github.com/d3/d3-selection">more about selections</a>.
+  </aside>
 
-<aside>Read <a href="https://observablehq.com/@d3/learn-d3">more tutorials</a>.</aside>
+  <p>
+    Modifying documents using the
+    <a href="https://www.w3.org/DOM/DOMTR">W3C DOM API</a> is tedious: the
+    method names are verbose, and the imperative approach requires manual
+    iteration and bookkeeping of temporary state. For example, to change the
+    text color of paragraph elements:
+  </p>
 
-<p><b>D3</b> allows you to bind arbitrary data to a Document Object Model (DOM), and then apply data-driven transformations to the document. For example, you can use D3 to generate an HTML table from an array of numbers. Or, use the same data to create an interactive SVG bar chart with smooth transitions and interaction.
-
-<p>D3 is not a monolithic framework that seeks to provide every conceivable feature. Instead, D3 solves the crux of the problem: efficient manipulation of documents based on data. This avoids proprietary representation and affords extraordinary flexibility, exposing the full capabilities of web standards such as HTML, SVG, and CSS. With minimal overhead, D3 is extremely fast, supporting large datasets and dynamic behaviors for interaction and animation. D3’s functional style allows code reuse through a diverse collection of <a href="https://github.com/d3/d3/blob/main/API.md">official</a> and <a href="https://www.npmjs.com/browse/keyword/d3-module">community-developed</a> modules.
-
-<h2><a name="selections" href="#selections">#</a>Selections</h2>
-
-<aside>Read <a href="https://github.com/d3/d3-selection">more about selections</a>.</aside>
-
-<p>Modifying documents using the <a href="https://www.w3.org/DOM/DOMTR">W3C DOM API</a> is tedious: the method names are verbose, and the imperative approach requires manual iteration and bookkeeping of temporary state. For example, to change the text color of paragraph elements:
-
-<pre><code>var paragraphs = document.getElementsByTagName("p");
+  <pre><code>var paragraphs = document.getElementsByTagName("p");
 for (var i = 0; i &lt; paragraphs.length; i++) {
   var paragraph = paragraphs.item(i);
   paragraph.style.setProperty("color", "blue", null);
 }</code></pre>
 
-<p>D3 employs a declarative approach, operating on arbitrary sets of nodes called <i>selections</i>. For example, you can rewrite the above loop as:
+  <p>
+    D3 employs a declarative approach, operating on arbitrary sets of nodes
+    called <i>selections</i>. For example, you can rewrite the above loop as:
+  </p>
 
-<pre><code>d3.selectAll("p").style("color", "blue");</code></pre>
+  <pre><code>d3.selectAll("p").style("color", "blue");</code></pre>
 
-<p>Yet, you can still manipulate individual nodes as needed:
+  <p>Yet, you can still manipulate individual nodes as needed:</p>
 
-<pre><code>d3.select("body").style("background-color", "black");</code></pre>
+  <pre><code>d3.select("body").style("background-color", "black");</code></pre>
 
-<p>Selectors are defined by the <a href="https://www.w3.org/TR/selectors-api/">W3C Selectors API</a> and supported natively by modern browsers. The above examples select nodes by tag name (<code>"p"</code> and <code>"body"</code>, respectively). Elements may be selected using a variety of predicates, including containment, attribute values, class and ID.
+  <p>
+    Selectors are defined by the
+    <a href="https://www.w3.org/TR/selectors-api/">W3C Selectors API</a> and
+    supported natively by modern browsers. The above examples select nodes by
+    tag name (<code>"p"</code> and <code>"body"</code>, respectively). Elements
+    may be selected using a variety of predicates, including containment,
+    attribute values, class and ID.
+  </p>
 
-<p>D3 provides numerous methods for mutating nodes: setting attributes or styles; registering event listeners; adding, removing or sorting nodes; and changing HTML or text content. These suffice for the vast majority of needs. Direct access to the underlying DOM is also possible, as each D3 selection is simply an array of nodes.
+  <p>
+    D3 provides numerous methods for mutating nodes: setting attributes or
+    styles; registering event listeners; adding, removing or sorting nodes; and
+    changing HTML or text content. These suffice for the vast majority of needs.
+    Direct access to the underlying DOM is also possible, as each D3 selection
+    is simply an array of nodes.
+  </p>
 
-<h2><a name="properties" href="#properties">#</a>Dynamic Properties</h2>
+  <h2><a name="properties" href="#properties">#</a>Dynamic Properties</h2>
 
-<p>Readers familiar with other DOM frameworks such as <a href="https://jquery.com/">jQuery</a> should immediately recognize similarities with D3. Yet styles, attributes, and other properties can be specified as <i>functions of data</i> in D3, not just simple constants. Despite their apparent simplicity, these functions can be surprisingly powerful; the <a href="https://github.com/d3/d3-geo/blob/main/README.md#geoPath">d3.geoPath</a> function, for example, projects <a href="https://tools.ietf.org/html/rfc7946">geographic coordinates</a> into SVG <a href="https://www.w3.org/TR/SVG/paths.html#PathData">path data</a>. D3 provides many built-in reusable functions and function factories, such as <a href="https://github.com/d3/d3-shape">graphical primitives</a> for area, line and pie charts.
+  <p>
+    Readers familiar with other DOM frameworks such as
+    <a href="https://jquery.com/">jQuery</a> should immediately recognize
+    similarities with D3. Yet styles, attributes, and other properties can be
+    specified as <i>functions of data</i> in D3, not just simple constants.
+    Despite their apparent simplicity, these functions can be surprisingly
+    powerful; the
+    <a href="https://github.com/d3/d3-geo/blob/main/README.md#geoPath"
+      >d3.geoPath</a
+    >
+    function, for example, projects
+    <a href="https://tools.ietf.org/html/rfc7946">geographic coordinates</a>
+    into SVG
+    <a href="https://www.w3.org/TR/SVG/paths.html#PathData">path data</a>. D3
+    provides many built-in reusable functions and function factories, such as
+    <a href="https://github.com/d3/d3-shape">graphical primitives</a> for area,
+    line and pie charts.
+  </p>
 
-<p>For example, to randomly color paragraphs:
+  <p>For example, to randomly color paragraphs:</p>
 
-<pre><code>d3.selectAll("p").style("color", function() {
+  <pre><code>d3.selectAll("p").style("color", function() {
   return "hsl(" + Math.random() * 360 + ",100%,50%)";
 });</code></pre>
 
-<p>To alternate shades of gray for even and odd nodes:
+  <p>To alternate shades of gray for even and odd nodes:</p>
 
-<pre><code>d3.selectAll("p").style("color", function(d, i) {
+  <pre><code>d3.selectAll("p").style("color", function(d, i) {
   return i % 2 ? "#fff" : "#eee";
 });</code></pre>
 
-<p>Computed properties often refer to bound data. Data is specified as an array of values, and each value is passed as the first argument (<code>d</code>) to selection functions. With the default join-by-index, the first element in the data array is passed to the first node in the selection, the second element to the second node, and so on. For example, if you bind an array of numbers to paragraph elements, you can use these numbers to compute dynamic font sizes:
+  <p>
+    Computed properties often refer to bound data. Data is specified as an array
+    of values, and each value is passed as the first argument (<code>d</code>)
+    to selection functions. With the default join-by-index, the first element in
+    the data array is passed to the first node in the selection, the second
+    element to the second node, and so on. For example, if you bind an array of
+    numbers to paragraph elements, you can use these numbers to compute dynamic
+    font sizes:
+  </p>
 
-<pre><code>d3.selectAll("p")
+  <pre><code>d3.selectAll("p")
   .data([4, 8, 15, 16, 23, 42])
     .style("font-size", function(d) { return d + "px"; });</code></pre>
 
-<p>Once the data has been bound to the document, you can omit the <code>data</code> operator; D3 will retrieve the previously-bound data. This allows you to recompute properties without rebinding.
+  <p>
+    Once the data has been bound to the document, you can omit the
+    <code>data</code> operator; D3 will retrieve the previously-bound data. This
+    allows you to recompute properties without rebinding.
+  </p>
 
-<h2><a name="enter-exit" href="#enter-exit">#</a>Enter and Exit</h2>
+  <h2><a name="enter-exit" href="#enter-exit">#</a>Enter and Exit</h2>
 
-<aside>Read <a href="https://bost.ocks.org/mike/join/">more about data joins</a>.</aside>
+  <aside>
+    Read <a href="https://bost.ocks.org/mike/join/">more about data joins</a>.
+  </aside>
 
-<p>Using D3’s <i>enter</i> and <i>exit</i> selections, you can create new nodes for incoming data and remove outgoing nodes that are no longer needed.
+  <p>
+    Using D3’s <i>enter</i> and <i>exit</i> selections, you can create new nodes
+    for incoming data and remove outgoing nodes that are no longer needed.
+  </p>
 
-<p>When data is bound to a selection, each element in the data array is paired with the corresponding node in the selection. If there are fewer nodes than data, the extra data elements form the enter selection, which you can instantiate by appending to the <code>enter</code> selection. For example:
+  <p>
+    When data is bound to a selection, each element in the data array is paired
+    with the corresponding node in the selection. If there are fewer nodes than
+    data, the extra data elements form the enter selection, which you can
+    instantiate by appending to the <code>enter</code> selection. For example:
+  </p>
 
-<pre><code>d3.select("body")
+  <pre><code>d3.select("body")
   .selectAll("p")
   .data([4, 8, 15, 16, 23, 42])
   .enter().append("p")
     .text(function(d) { return "I’m number " + d + "!"; });</code></pre>
 
-<p>Updating nodes are the default selection—the result of the <code>data</code> operator. Thus, if you forget about the enter and exit selections, you will automatically select only the elements for which there exists corresponding data. A common pattern is to break the initial selection into three parts: the updating nodes to modify, the entering nodes to add, and the exiting nodes to remove.
+  <p>
+    Updating nodes are the default selection—the result of the
+    <code>data</code> operator. Thus, if you forget about the enter and exit
+    selections, you will automatically select only the elements for which there
+    exists corresponding data. A common pattern is to break the initial
+    selection into three parts: the updating nodes to modify, the entering nodes
+    to add, and the exiting nodes to remove.
+  </p>
 
-<pre><code>// Update…
+  <pre><code>// Update…
 var p = d3.select("body")
   .selectAll("p")
   .data([4, 8, 15, 16, 23, 42])
@@ -661,54 +1191,116 @@ p.enter().append("p")
 // Exit…
 p.exit().remove();</code></pre>
 
-<p>By handling these three cases separately, you specify precisely which operations run on which nodes. This improves performance and offers greater control over transitions. For example, with a bar chart you might initialize entering bars using the old scale, and then transition entering bars to the new scale along with the updating and exiting bars.
+  <p>
+    By handling these three cases separately, you specify precisely which
+    operations run on which nodes. This improves performance and offers greater
+    control over transitions. For example, with a bar chart you might initialize
+    entering bars using the old scale, and then transition entering bars to the
+    new scale along with the updating and exiting bars.
+  </p>
 
-<p>D3 lets you transform documents based on data; this includes both creating and destroying elements. D3 allows you to change an existing document in response to user interaction, animation over time, or even asynchronous notification from a third-party. A hybrid approach is even possible, where the document is initially rendered on the server, and updated on the client via D3.
+  <p>
+    D3 lets you transform documents based on data; this includes both creating
+    and destroying elements. D3 allows you to change an existing document in
+    response to user interaction, animation over time, or even asynchronous
+    notification from a third-party. A hybrid approach is even possible, where
+    the document is initially rendered on the server, and updated on the client
+    via D3.
+  </p>
 
-<h2><a name="transformation" href="#transformation">#</a>Transformation, not Representation</h2>
+  <h2>
+    <a name="transformation" href="#transformation">#</a>Transformation, not
+    Representation
+  </h2>
 
-<p>D3 does not introduce a new visual representation. Unlike <a href="https://processing.org/">Processing</a> or <a href="https://mbostock.github.io/protovis/">Protovis</a>, D3’s vocabulary of graphical marks comes directly from web standards: HTML, SVG, and CSS. For example, you can create SVG elements using D3 and style them with external stylesheets. You can use composite filter effects, dashed strokes and clipping. If browser vendors introduce new features tomorrow, you’ll be able to use them immediately—no toolkit update required. And, if you decide in the future to use a toolkit other than D3, you can take your knowledge of standards with you!
+  <p>
+    D3 does not introduce a new visual representation. Unlike
+    <a href="https://processing.org/">Processing</a> or
+    <a href="https://mbostock.github.io/protovis/">Protovis</a>, D3’s vocabulary
+    of graphical marks comes directly from web standards: HTML, SVG, and CSS.
+    For example, you can create SVG elements using D3 and style them with
+    external stylesheets. You can use composite filter effects, dashed strokes
+    and clipping. If browser vendors introduce new features tomorrow, you’ll be
+    able to use them immediately—no toolkit update required. And, if you decide
+    in the future to use a toolkit other than D3, you can take your knowledge of
+    standards with you!
+  </p>
 
-<p>Best of all, D3 is easy to debug using the browser’s built-in element inspector: the nodes that you manipulate with D3 are exactly those that the browser understands natively.
+  <p>
+    Best of all, D3 is easy to debug using the browser’s built-in element
+    inspector: the nodes that you manipulate with D3 are exactly those that the
+    browser understands natively.
+  </p>
 
-<h2><a name="transitions" href="#transitions">#</a>Transitions</h2>
+  <h2><a name="transitions" href="#transitions">#</a>Transitions</h2>
 
-<p>D3’s focus on transformation extends naturally to animated transitions. Transitions gradually interpolate styles and attributes over time. Tweening can be controlled via easing functions such as “elastic”, “cubic-in-out” and “linear”. D3’s interpolators support both primitives, such as numbers and numbers embedded within strings (font sizes, path data, <i>etc.</i>), and compound values. You can even extend D3’s interpolator registry to support complex properties and data structures.
+  <p>
+    D3’s focus on transformation extends naturally to animated transitions.
+    Transitions gradually interpolate styles and attributes over time. Tweening
+    can be controlled via easing functions such as “elastic”, “cubic-in-out” and
+    “linear”. D3’s interpolators support both primitives, such as numbers and
+    numbers embedded within strings (font sizes, path data, <i>etc.</i>), and
+    compound values. You can even extend D3’s interpolator registry to support
+    complex properties and data structures.
+  </p>
 
-<p>For example, to fade the background of the page to black:
+  <p>For example, to fade the background of the page to black:</p>
 
-<pre><code>d3.select("body").transition()
+  <pre><code>d3.select("body").transition()
     .style("background-color", "black");</code></pre>
 
-<p>Or, to resize circles in a symbol map with a staggered delay:
+  <p>Or, to resize circles in a symbol map with a staggered delay:</p>
 
-<pre><code>d3.selectAll("circle").transition()
+  <pre><code>d3.selectAll("circle").transition()
     .duration(750)
     .delay(function(d, i) { return i * 10; })
     .attr("r", function(d) { return Math.sqrt(d * scale); });</code></pre>
 
-<p>By modifying only the attributes that actually change, D3 reduces overhead and allows greater graphical complexity at high frame rates. D3 also allows sequencing of complex transitions via events. And, you can still use CSS3 transitions; D3 does not replace the browser’s toolbox, but exposes it in a way that is easier to use.
+  <p>
+    By modifying only the attributes that actually change, D3 reduces overhead
+    and allows greater graphical complexity at high frame rates. D3 also allows
+    sequencing of complex transitions via events. And, you can still use CSS3
+    transitions; D3 does not replace the browser’s toolbox, but exposes it in a
+    way that is easier to use.
+  </p>
 
-<p>Want to learn more? Read <a href="https://observablehq.com/@d3/learn-d3">these tutorials</a>.
+  <p>
+    Want to learn more? Read
+    <a href="https://observablehq.com/@d3/learn-d3">these tutorials</a>.
+  </p>
 
-<footer>
-  Library released under <a href="https://opensource.org/licenses/BSD-3-Clause">BSD license</a>. Copyright 2021 <a href="https://bost.ocks.org/mike/" rel="author">Mike Bostock</a>.
-</footer>
-
+  <footer>
+    Library released under
+    <a href="https://opensource.org/licenses/BSD-3-Clause">BSD license</a>.
+    Copyright 2021
+    <a href="https://bost.ocks.org/mike/" rel="author">Mike Bostock</a>.
+  </footer>
 </div>
 
-<a href="https://github.com/d3/d3"><img style="position:fixed;top:0;right:0;border:0;z-index:2;" width="149" height="149" src="https://d3js.org/forkme.png" alt="Fork me on GitHub"></a>
+<a href="https://github.com/d3/d3"
+  ><img
+    style="position: fixed; top: 0; right: 0; border: 0; z-index: 2"
+    width="149"
+    height="149"
+    src="https://d3js.org/forkme.png"
+    alt="Fork me on GitHub"
+/></a>
 
 <script src="https://d3js.org/highlight.v9.min.js"></script>
 <script>
+  (GoogleAnalyticsObject = "ga"),
+    (ga = function () {
+      ga.q.push(arguments);
+    }),
+    (ga.q = []),
+    (ga.l = +new Date());
+  ga("create", "UA-48272912-2", "d3js.org");
+  ga("send", "pageview");
 
-GoogleAnalyticsObject = "ga", ga = function() { ga.q.push(arguments); }, ga.q = [], ga.l = +new Date;
-ga("create", "UA-48272912-2", "d3js.org");
-ga("send", "pageview");
-
-hljs.configure({classPrefix: ""});
-d3.selectAll("code:not([class])").classed("javascript", 1);
-d3.selectAll("code").each(function() { hljs.highlightBlock(this); });
-
+  hljs.configure({ classPrefix: "" });
+  d3.selectAll("code:not([class])").classed("javascript", 1);
+  d3.selectAll("code").each(function () {
+    hljs.highlightBlock(this);
+  });
 </script>
 <script async src="http://www.google-analytics.com/analytics.js"></script>

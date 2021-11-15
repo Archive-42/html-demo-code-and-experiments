@@ -1,19 +1,1556 @@
-
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="https://static.npmjs.com/styles.e7d37a77ac852ff3f3e7.css" />
-      <title data-react-helmet="true">npm</title>
-      <meta data-react-helmet="true" http-equiv="cleartype" content="on"/><meta data-react-helmet="true" name="apple-mobile-web-app-capable" content="yes"/><meta data-react-helmet="true" name="viewport" content="width=device-width,minimum-scale=1.0,initial-scale=1,user-scalable=yes"/><meta data-react-helmet="true" property="og:image" content="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png"/><meta data-react-helmet="true" name="msapplication-TileColor" content="#cb3837"/><meta data-react-helmet="true" name="msapplication-TileImage" content="https://static.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png"/><meta data-react-helmet="true" name="msapplication-config" content="https://static.npmjs.com/668aac888e52ae13cac9cfd71fabd31f.xml"/><meta data-react-helmet="true" name="theme-color" content="#cb3837"/>
-      <link data-react-helmet="true" href="https://static.npmjs.com/osd.xml" rel="search" title="npm package search" type="application/opensearchdescription+xml"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="120x120" href="https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="144x144" href="https://static.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="152x152" href="https://static.npmjs.com/34110fd7686e2c90a487ca98e7336e99.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="180x180" href="https://static.npmjs.com/3dc95981de4241b35cd55fe126ab6b2c.png"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png" sizes="32x32"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png" sizes="230x230"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/f1786e9b7cba9753ca7b9c40e8b98f67.png" sizes="96x96"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/5f6e93af5bf0f5dcdd1eecdac99f51ee.png" sizes="192x192"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/c426a1116301d1fd178c51522484127a.png" sizes="228x228"/><link data-react-helmet="true" rel="icon" type="image/png" href="https://static.npmjs.com/da3ab40fb0861d15c83854c29f5f2962.png" sizes="16x16"/>
-      
-      
-    
+    <meta charset="utf-8" />
+    <link
+      rel="stylesheet"
+      href="https://static.npmjs.com/styles.e7d37a77ac852ff3f3e7.css"
+    />
+    <title data-react-helmet="true">npm</title>
+    <meta data-react-helmet="true" http-equiv="cleartype" content="on" />
+    <meta
+      data-react-helmet="true"
+      name="apple-mobile-web-app-capable"
+      content="yes"
+    />
+    <meta
+      data-react-helmet="true"
+      name="viewport"
+      content="width=device-width,minimum-scale=1.0,initial-scale=1,user-scalable=yes"
+    />
+    <meta
+      data-react-helmet="true"
+      property="og:image"
+      content="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png"
+    />
+    <meta
+      data-react-helmet="true"
+      name="msapplication-TileColor"
+      content="#cb3837"
+    />
+    <meta
+      data-react-helmet="true"
+      name="msapplication-TileImage"
+      content="https://static.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png"
+    />
+    <meta
+      data-react-helmet="true"
+      name="msapplication-config"
+      content="https://static.npmjs.com/668aac888e52ae13cac9cfd71fabd31f.xml"
+    />
+    <meta data-react-helmet="true" name="theme-color" content="#cb3837" />
+    <link
+      data-react-helmet="true"
+      href="https://static.npmjs.com/osd.xml"
+      rel="search"
+      title="npm package search"
+      type="application/opensearchdescription+xml"
+    />
+    <link
+      data-react-helmet="true"
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+    />
+    <link
+      data-react-helmet="true"
+      rel="apple-touch-icon"
+      sizes="144x144"
+      href="https://static.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png"
+    />
+    <link
+      data-react-helmet="true"
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="https://static.npmjs.com/34110fd7686e2c90a487ca98e7336e99.png"
+    />
+    <link
+      data-react-helmet="true"
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="https://static.npmjs.com/3dc95981de4241b35cd55fe126ab6b2c.png"
+    />
+    <link
+      data-react-helmet="true"
+      rel="icon"
+      type="image/png"
+      href="https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png"
+      sizes="32x32"
+    />
+    <link
+      data-react-helmet="true"
+      rel="icon"
+      type="image/png"
+      href="https://static.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png"
+      sizes="230x230"
+    />
+    <link
+      data-react-helmet="true"
+      rel="icon"
+      type="image/png"
+      href="https://static.npmjs.com/f1786e9b7cba9753ca7b9c40e8b98f67.png"
+      sizes="96x96"
+    />
+    <link
+      data-react-helmet="true"
+      rel="icon"
+      type="image/png"
+      href="https://static.npmjs.com/5f6e93af5bf0f5dcdd1eecdac99f51ee.png"
+      sizes="192x192"
+    />
+    <link
+      data-react-helmet="true"
+      rel="icon"
+      type="image/png"
+      href="https://static.npmjs.com/c426a1116301d1fd178c51522484127a.png"
+      sizes="228x228"
+    />
+    <link
+      data-react-helmet="true"
+      rel="icon"
+      type="image/png"
+      href="https://static.npmjs.com/da3ab40fb0861d15c83854c29f5f2962.png"
+      sizes="16x16"
+    />
   </head>
   <body>
-    <div id="app"><div class="_452c3ec4 d68c66a8"><div><ul class="cf325dbd list ma0 pa0 tr z-999" aria-live="polite"></ul></div><div class="flex flex-column vh-100"><header class="_755f5b0f bg-white z-2 bb b--black-20"><div id="header" class="bbefbfcc"><a href="#search">skip to package search</a><span> or </span><a href="#signin">skip to sign in</a></div><div></div><div class="e7070742 pv3-ns ph1-ns bg-white"><div class="ef7c6e62 center mw9 border-box ph4-ns ph3 flex"><span class="_0edb515f pr3 dn dib-ns link lh-title dim b--white-30">❤</span><span class="_99e3854f f6 fw4 link dn dib-ns tl dim mr4 nowrap">next() Packaged Middleware</span><nav class="_4a5f2a79 db w-100 w-auto-ns tr truncate"><ul class="list pl0"><li class="dib"><a class="c6c55db4 no-underline f6-ns f7 fw5 pr2 pl2" id="nav-products-link" href="https://www.npmjs.com/products"><span class="dim">Products</span></a><ul class="_3f98ab29 mt2 pa0 bg-white br2 shadow-1 tl"><li><a id="nav-pro-link" class="b8f9b0bd no-underline f6-ns f7 fw5 db ph3 pv2 nowrap dim" aria-label="npm professional" href="https://www.npmjs.com/products/pro">Pro</a></li><li><a id="nav-teams-link" class="b8f9b0bd no-underline f6-ns f7 fw5 db ph3 pv2 nowrap dim" aria-label="npm teams" href="https://www.npmjs.com/products/teams">Teams</a></li></ul></li><li class="dib"><a class="c6c55db4 no-underline f6-ns f7 fw5 dim pr2 pl2" id="nav-pricing-link" href="https://www.npmjs.com/products">Pricing</a></li><li class="dib"><a class="c6c55db4 no-underline f6-ns f7 fw5 dim pr2 pl2" id="nav-docs-link" href="https://docs.npmjs.com/">Documentation</a></li><li class="dib"><a class="c6c55db4 no-underline f6-ns f7 fw5 dim pr2 pl2" id="nav-resources-link" href="https://npm.community/">Community</a></li></ul></nav></div></div><div class="_4ea0e50d bt b--black-10"><div class="c5b9953b center mw9 flex flex-wrap ph4-ns border-box"><h1 class="_657f443d">npm</h1><div class="af43375d mt3 db mr4-ns pb3 pb0-ns flex-auto 2-ns ph3 ph0-ns"><a href="https://www.npmjs.com/" aria-label="Homepage"><svg viewBox="0 0 780 250"><path fill="#231F20" d="M240,250h100v-50h100V0H240V250z M340,50h50v100h-50V50z M480,0v200h100V50h50v150h50V50h50v150h50V0H480z M0,200h100V50h50v150h50V0H0V200z"></path></svg></a></div><div class="_581ebd89 relative flex-auto w-100 w-50-ns pv2-ns order-1-ns order-2"><form id="search" method="GET" action="https://www.npmjs.com/search" class="_13c93d41 relative flex bg-transparent ph3 ph2 pv2 ph0-ns pv0-ns bt b--black-10 bn-ns"><div class="e82b10fd relative dde91b96"><div class="_2f299eeb nowrap flex"><span class="_705cdf4f db fl pl3 pr1"><svg width="15px" height="15px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" aria-hidden="true"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g stroke="#777777" stroke-width="1.3"><g><path d="M13.4044,7.0274 C13.4044,10.5494 10.5494,13.4044 7.0274,13.4044 C3.5054,13.4044 0.6504,10.5494 0.6504,7.0274 C0.6504,3.5054 3.5054,0.6504 7.0274,0.6504 C10.5494,0.6504 13.4044,3.5054 13.4044,7.0274 Z"></path><path d="M11.4913,11.4913 L17.8683,17.8683"></path></g></g></g></svg></span><input type="search" name="q" hotkeys="[object Object]" placeholder="Search packages" autoComplete="off" aria-label="Search packages" inputref="[object Object]" class="_390acbc5 f5 fw3 black relative" value="" element="input"/></div></div><button type="submit" class="_0da775bb bn pv2 ph4 f6 white pointer" title="Submit">Search</button><input type="hidden" name="csrftoken" value="rF4z4qsybb7tQGlGtL96xpQme009YpH7Blr_EZGVBWQ"/></form></div><div class="_6f31c82b ml3 mt2 mt0-ns pv2-ns flex-auto tr nowrap relative pointer fw6 order-1 order-2-ns"><div class="_1066d9e7 flex items-center self-center pl3"><a href="https://www.npmjs.com/signup" id="signup" class="_9752c8b3 pa2 lh-copy br2 f6 no-underline fw5 black dim ph3 mr3">Sign Up</a><a id="signin" class="_352269a0 pa1 lh-copy br2 f6 no-underline fw5 black dim" href="https://www.npmjs.com/login">Sign In</a></div></div></div></div></header><main id="main" aria-live="polite"><div class="_102d5b24 flex flex-column flex-row-l w-100 mw7 mv4 mt5-l ph3-l mw9-l center ph2"><div class="_73a8e6f0 w-100 w-auto-l pv4 pv0-l"><div><a href="http://en.gravatar.com/emails/"><img src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci84YTU0YmI2MjM1M2RkNzNiZGRiMmExNGZiNjAwMjk3MT9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.QFdkD6Se4IA0ouE4KWffsc-R5rYRmaKm3LCdfpvHM3E" style="width:200px;height:200px;min-width:200px;border-radius:4%"/></a></div><div><h2 class="b219ea1a black tracked-tight fw6 mv1">bgoonz11</h2><hr class="fc85958f bb mv3 b--black-10"/></div></div><div class="d2f60d44 w-100 w-auto-l flex-auto ph3 ph0-l pb3-l"><ul class="cfb2a888 flex flex-column flex-row-l w-100 ma0 pa0 mr2 mr0-l list" role="tablist" aria-owns="package-tab-packages package-tab-orgs"><li class="_8055e658 f5 fw5 tc pointer _7cec0316 ac5f7ef8 f4 fw6 black-50"><a class="_38ce9a85 link db ph4 fw6" href="https://www.npmjs.com/~bgoonz11?activeTab=packages" aria-selected="true" role="tab" aria-controls="tabpanel-packages" id="package-tab-packages"><span><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="cubes" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M488.6 250.2L392 214V105.5c0-15-9.3-28.4-23.4-33.7l-100-37.5c-8.1-3.1-17.1-3.1-25.3 0l-100 37.5c-14.1 5.3-23.4 18.7-23.4 33.7V214l-96.6 36.2C9.3 255.5 0 268.9 0 283.9V394c0 13.6 7.7 26.1 19.9 32.2l100 50c10.1 5.1 22.1 5.1 32.2 0l103.9-52 103.9 52c10.1 5.1 22.1 5.1 32.2 0l100-50c12.2-6.1 19.9-18.6 19.9-32.2V283.9c0-15-9.3-28.4-23.4-33.7zM358 214.8l-85 31.9v-68.2l85-37v73.3zM154 104.1l102-38.2 102 38.2v.6l-102 41.4-102-41.4v-.6zm84 291.1l-85 42.5v-79.1l85-38.8v75.4zm0-112l-102 41.4-102-41.4v-.6l102-38.2 102 38.2v.6zm240 112l-85 42.5v-79.1l85-38.8v75.4zm0-112l-102 41.4-102-41.4v-.6l102-38.2 102 38.2v.6z"></path></svg><span class="c3fc8940">5</span> Packages</span></a></li><li class="_8055e658 f5 fw5 tc pointer _2a0881eb"><a class="_38ce9a85 link db ph4 fw6" href="https://www.npmjs.com/~bgoonz11?activeTab=orgs" aria-selected="false" role="tab" aria-controls="tabpanel-orgs" id="package-tab-orgs"><span><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="users" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M96 224c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm448 0c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm32 32h-64c-17.6 0-33.5 7.1-45.1 18.6 40.3 22.1 68.9 62 75.1 109.4h66c17.7 0 32-14.3 32-32v-32c0-35.3-28.7-64-64-64zm-256 0c61.9 0 112-50.1 112-112S381.9 32 320 32 208 82.1 208 144s50.1 112 112 112zm76.8 32h-8.3c-20.8 10-43.9 16-68.5 16s-47.6-6-68.5-16h-8.3C179.6 288 128 339.6 128 403.2V432c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48v-28.8c0-63.6-51.6-115.2-115.2-115.2zm-223.7-13.4C161.5 263.1 145.6 256 128 256H64c-35.3 0-64 28.7-64 64v32c0 17.7 14.3 32 32 32h65.9c6.3-47.4 34.9-87.3 75.2-109.4z"></path></svg><span class="c3fc8940">0</span> Organizations</span></a></li></ul><div><h2 class="f3f8c3f4 flex flex-row"><a id="packages" href="https://www.npmjs.com/~bgoonz11?activeTab=packages" class="_5240e347 flex-none no-underline black fw3 lh-copy"><span class="_57e26c3d black-90 tracked-tight fw6 mr2">Packages </span><span class="c5c8a11c ph1 br2 ba b--black-20 f5 fw6 black">5</span></a><div class="flex-auto"></div></h2><div class="_0897331b mt0"><ul class="_0897331b mt0"><li class="_2309b204"><section class="ef4d7c63 flex-l pl1-ns pt3 pb2 ph1 bb b--black-10 "><div class="_0d2164ff"><div class="bea55649 flex flex-row flex-wrap items-end pr3"><a target="_self" href="https://www.npmjs.com/package/ds-algo-study"><img src="https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg" title="public package" class="c9d94a14 dn"/><h3 class="db7ee1ac fw6 f4 black-90 dib lh-solid ma0 no-underline hover-black">ds-algo-study</h3></a></div><p class="_8fbbd57d f5 black-60 mt1 mb0 pv1 no-underline lh-copy">Just experimenting with publishing a package</p><div class="_0be7a12f f6 black-80 mt1 mb1 flex-ns db flex-row lh-copy"><div class="_045facde flex flex-row pl1 br3"><a target="_self" href="https://www.npmjs.com/~bgoonz11" class="e98ba1cc pl2 pr2 black-70 fw6 db hover-black no-underline">bgoonz11</a></div><span title="Tue Mar 09 2021 01:53:00 GMT+0000 (Coordinated Universal Time) and Latest Version" aria-hidden="true" class="_66c2abad black-50 flex-grow-1">published <!-- -->1.0.0<!-- --> • <!-- -->8 months ago</span><span class="_657f443d">published 1.0.0 8 months ago</span></div></div><div class="_5c95be4e pl2 items-start flex flex-row items-center overflow-x-hidden flex-shrink-0"></div></section></li><li class="_2309b204"><section class="ef4d7c63 flex-l pl1-ns pt3 pb2 ph1 bb b--black-10 "><div class="_0d2164ff"><div class="bea55649 flex flex-row flex-wrap items-end pr3"><a target="_self" href="https://www.npmjs.com/package/loadashes6"><img src="https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg" title="public package" class="c9d94a14 dn"/><h3 class="db7ee1ac fw6 f4 black-90 dib lh-solid ma0 no-underline hover-black">loadashes6</h3></a></div><p class="_8fbbd57d f5 black-60 mt1 mb0 pv1 no-underline lh-copy">loadash but implemented with es6 syntax</p><div class="_0be7a12f f6 black-80 mt1 mb1 flex-ns db flex-row lh-copy"><div class="_045facde flex flex-row pl1 br3"><a target="_self" href="https://www.npmjs.com/~bgoonz11" class="e98ba1cc pl2 pr2 black-70 fw6 db hover-black no-underline">bgoonz11</a></div><span title="Fri Mar 19 2021 00:37:44 GMT+0000 (Coordinated Universal Time) and Latest Version" aria-hidden="true" class="_66c2abad black-50 flex-grow-1">published <!-- -->1.0.0<!-- --> • <!-- -->8 months ago</span><span class="_657f443d">published 1.0.0 8 months ago</span></div></div><div class="_5c95be4e pl2 items-start flex flex-row items-center overflow-x-hidden flex-shrink-0"></div></section></li><li class="_2309b204"><section class="ef4d7c63 flex-l pl1-ns pt3 pb2 ph1 bb b--black-10 "><div class="_0d2164ff"><div class="bea55649 flex flex-row flex-wrap items-end pr3"><a target="_self" href="https://www.npmjs.com/package/web-dev-utils"><img src="https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg" title="public package" class="c9d94a14 dn"/><h3 class="db7ee1ac fw6 f4 black-90 dib lh-solid ma0 no-underline hover-black">web-dev-utils</h3></a></div><p class="_8fbbd57d f5 black-60 mt1 mb0 pv1 no-underline lh-copy">I am creating this for personal use... it does not constitute my own original source code (or at least not exclusivly), it is just a collection of tools and files that I use all the time and wish to have as a package. Feel free to use it at your own risk</p><div class="_0be7a12f f6 black-80 mt1 mb1 flex-ns db flex-row lh-copy"><div class="_045facde flex flex-row pl1 br3"><a target="_self" href="https://www.npmjs.com/~bgoonz11" class="e98ba1cc pl2 pr2 black-70 fw6 db hover-black no-underline">bgoonz11</a></div><span title="Mon Mar 29 2021 15:00:22 GMT+0000 (Coordinated Universal Time) and Latest Version" aria-hidden="true" class="_66c2abad black-50 flex-grow-1">published <!-- -->1.0.4<!-- --> • <!-- -->8 months ago</span><span class="_657f443d">published 1.0.4 8 months ago</span></div></div><div class="_5c95be4e pl2 items-start flex flex-row items-center overflow-x-hidden flex-shrink-0"></div></section></li><li class="_2309b204"><section class="ef4d7c63 flex-l pl1-ns pt3 pb2 ph1 bb b--black-10 "><div class="_0d2164ff"><div class="bea55649 flex flex-row flex-wrap items-end pr3"><a target="_self" href="https://www.npmjs.com/package/@bgoonz11/repoutils"><img src="https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg" title="public package" class="c9d94a14 dn"/><h3 class="db7ee1ac fw6 f4 black-90 dib lh-solid ma0 no-underline hover-black">@bgoonz11/repoutils</h3></a></div><p class="_8fbbd57d f5 black-60 mt1 mb0 pv1 no-underline lh-copy">---</p><div class="_0be7a12f f6 black-80 mt1 mb1 flex-ns db flex-row lh-copy"><div class="_045facde flex flex-row pl1 br3"><a target="_self" href="https://www.npmjs.com/~bgoonz11" class="e98ba1cc pl2 pr2 black-70 fw6 db hover-black no-underline">bgoonz11</a></div><span title="Tue Jun 08 2021 19:26:08 GMT+0000 (Coordinated Universal Time) and Latest Version" aria-hidden="true" class="_66c2abad black-50 flex-grow-1">published <!-- -->1.0.5<!-- --> • <!-- -->5 months ago</span><span class="_657f443d">published 1.0.5 5 months ago</span></div></div><div class="_5c95be4e pl2 items-start flex flex-row items-center overflow-x-hidden flex-shrink-0"></div></section></li></ul></div></div></div></div></main><footer class="cd2827bb bt b--black-10 mt4"><div id="footer" class="center mw9 pa3 flex flex-column flex-wrap-m flex-row-ns"><div class="flex-auto pa4-ns pa3 w-100 w-10-l"><div class="_802b5507 pt3"><a target="_blank" title="npm repository" rel="noopener noreferrer nofollow" href="https://github.com/npm"><svg viewBox="0 0 27.23 27.23"><rect fill="#333333" width="27.23" height="27.23" rx="2"></rect><polygon fill="#fff" points="5.8 21.75 13.66 21.75 13.67 9.98 17.59 9.98 17.58 21.76 21.51 21.76 21.52 6.06 5.82 6.04 5.8 21.75"></polygon></svg></a></div><div class="_802b5507 pt3"><a target="_blank" title="GitHub" rel="noopener noreferrer nofollow" href="https://github.com/"><svg aria-hidden="true" role="img" class="" viewBox="0 0 16 16" width="50" height="50" fill="black" style="display:inline-block;user-select:none;vertical-align:top"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg></a></div></div><div class="flex-auto pa4-ns pa3 w-30-ns w-50-m"><a class="_3f7d964f" href="#header">Return to top of page</a><h3 class="_1b8c0a9f">Support</h3><ul class="list pl0"><li class="pv1"><a class="link" href="https://docs.npmjs.com/">Help</a></li><li class="pv1"><a class="link" href="https://npm.community/">Community</a></li><li class="pv1"><a class="link" href="https://www.npmjs.com/advisories">Advisories</a></li><li class="pv1"><a class="link" href="http://status.npmjs.org/">Status</a></li><li class="pv1"><a class="link" href="https://www.npmjs.com/support">Contact npm</a></li></ul></div><div class="flex-auto pa4-ns pa3 w-30-ns w-50-m"><h3 class="_1b8c0a9f">Company</h3><ul class="list pl0"><li class="pv1"><a class="link" href="https://www.npmjs.com/about">About</a></li><li class="pv1"><a class="link" href="https://blog.npmjs.org/">Blog</a></li><li class="pv1"><a class="link" href="https://www.npmjs.com/press">Press</a></li></ul></div><div class="flex-auto pa4-ns pa3 w-30-ns w-50-m"><h3 class="_1b8c0a9f">Terms &amp; Policies</h3><ul class="list pl0"><li class="pv1"><a class="link" href="https://www.npmjs.com/policies/">Policies</a></li><li class="pv1"><a class="link" href="https://www.npmjs.com/policies/terms">Terms of Use</a></li><li class="pv1"><a class="link" href="https://www.npmjs.com/policies/conduct">Code of Conduct</a></li><li class="pv1"><a class="link" href="https://www.npmjs.com/policies/privacy">Privacy</a></li></ul></div></div></footer></div><div class="_8a62ca63 fixed top-0 left-0 z-999" style="opacity:0;transform:scaleX(1);-webkit-transform:scaleX(1);-moz-transform:scaleX(1)"></div></div></div><script integrity="sha512-yTG5F9zk/SLhGgf83mwwxjqj1Fs+hks+x2M5Z6xSsekFj7yJ2ZTHaZGnqpn8/11g3IQhQ0SwmFU3rLXwC0lOSQ==">window.__context__ = {"context":{"scope":{"type":"user","parent":{"tfa":null,"name":"bgoonz11","isStaff":false,"deactivated":null,"avatars":{"small":"/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci84YTU0YmI2MjM1M2RkNzNiZGRiMmExNGZiNjAwMjk3MT9zaXplPTUwJmRlZmF1bHQ9cmV0cm8ifQ.kwsKejT20ELQmLE620HM83K51Y7Ar7ROkmI-RhxNX_c","medium":"/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci84YTU0YmI2MjM1M2RkNzNiZGRiMmExNGZiNjAwMjk3MT9zaXplPTEwMCZkZWZhdWx0PXJldHJvIn0.sDWmW29fEdgXvelDBXZYpd6Hxvez40Gsma2vyvYDNGk","large":"/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci84YTU0YmI2MjM1M2RkNzNiZGRiMmExNGZiNjAwMjk3MT9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.QFdkD6Se4IA0ouE4KWffsc-R5rYRmaKm3LCdfpvHM3E"},"resource":{},"is_delegated":false,"email_verified":true,"created":{"ts":1613009492445,"rel":"9 months ago"},"updated":"2021-02-11T02:11:32.442Z"},"created":"2021-02-11T02:11:32.449Z","updated":"2021-02-11T02:11:32.449Z","urls":{"detail":"/v2/scopes/scope/bgoonz11","refresh":"/v2/scopes/scope/bgoonz11/refresh","teams":"/v2/scopes/scope/bgoonz11/teams/","packages":"/v2/scopes/scope/bgoonz11/packages/","addPackage":null},"account":null,"resource":{"github":null,"twitter":null}},"orgs":{"total":0,"objects":[]},"packages":{"total":5,"objects":[{"name":"ds-algo-study","private":false,"settings":null,"created":{"ts":1615254776556,"rel":"8 months ago"},"updated":{"ts":1615254785977,"rel":"8 months ago"},"description":"Just experimenting with publishing a package","maintainers":["bgoonz11"],"dist-tags":{"latest":"1.0.0"},"lastPublish":{"maintainer":"bgoonz11","time":"2021-03-09T01:53:00.975Z","formattedTime":"8 months ago"},"types":{},"publisher":{"name":"bgoonz11","avatars":{},"created":{"ts":null,"rel":"Invalid date"}},"date":{"ts":1615254780975,"rel":"8 months ago"},"version":"1.0.0"},{"name":"loadashes6","private":false,"settings":null,"created":{"ts":1616114263079,"rel":"8 months ago"},"updated":{"ts":1616114267154,"rel":"8 months ago"},"description":"loadash but implemented with es6 syntax","maintainers":["bgoonz11"],"dist-tags":{"latest":"1.0.0"},"lastPublish":{"maintainer":"bgoonz11","time":"2021-03-19T00:37:44.141Z","formattedTime":"8 months ago"},"types":{},"publisher":{"name":"bgoonz11","avatars":{},"created":{"ts":null,"rel":"Invalid date"}},"date":{"ts":1616114264141,"rel":"8 months ago"},"version":"1.0.0"},{"name":"web-dev-utils","private":false,"settings":null,"created":{"ts":1616892431161,"rel":"8 months ago"},"updated":{"ts":1616892435409,"rel":"8 months ago"},"description":"I am creating this for personal use... it does not constitute my own original source code (or at least not exclusivly), it is just a collection of tools and files that I use all the time and wish to have as a package. Feel free to use it at your own risk","maintainers":["bgoonz11"],"dist-tags":{"latest":"1.0.4"},"lastPublish":{"maintainer":"bgoonz11","time":"2021-03-29T15:00:22.386Z","formattedTime":"8 months ago"},"types":{},"publisher":{"name":"bgoonz11","avatars":{},"created":{"ts":null,"rel":"Invalid date"}},"date":{"ts":1617030022386,"rel":"8 months ago"},"version":"1.0.4"},{"name":"webdevutilities-site","private":false,"settings":null,"created":{"ts":1617693814743,"rel":"7 months ago"},"updated":{"ts":1617693814743,"rel":"7 months ago"},"lastPublish":{"formattedTime":"never"},"publisher":{"avatars":{},"created":{"ts":null,"rel":"Invalid date"}},"date":{"ts":null,"rel":"Invalid date"}},{"name":"@bgoonz11/repoutils","private":false,"settings":null,"created":{"ts":1623177233747,"rel":"5 months ago"},"updated":{"ts":1623372478442,"rel":"5 months ago"},"description":"---","maintainers":["bgoonz11"],"dist-tags":{"latest":"1.0.5"},"lastPublish":{"maintainer":"bgoonz11","time":"2021-06-08T19:26:08.634Z","formattedTime":"5 months ago"},"types":{},"publisher":{"name":"bgoonz11","avatars":{},"created":{"ts":null,"rel":"Invalid date"}},"date":{"ts":1623180368634,"rel":"5 months ago"},"version":"1.0.5"}],"urls":{}},"pagination":{"perPage":25,"page":0},"user":null,"csrftoken":"rF4z4qsybb7tQGlGtL96xpQme009YpH7Blr_EZGVBWQ","notifications":[],"npmExpansions":["Neanderthal Pudding Mix","Neato Polyester Material","Norse Power Metal","Nickelback Plays Music","Next Phenomenal Microbrewery","Now Particularly Misnamed","Nodes Per Minute","Nano Pico Micro","Nacho Pace Maker","next() Packaged Middleware"]},"chunks":{"commons":["commons.4728aa87616511b1aba3.js","commons.4728aa87616511b1aba3.js.map"],"styles":["styles.e7d37a77ac852ff3f3e7.css","https://www.npmjs.com/minicssextractbug.7bd8c6948d37bc9b949b.js","styles.e7d37a77ac852ff3f3e7.css.map","minicssextractbug.7bd8c6948d37bc9b949b.js.map"],"auth/cli":["auth/cli.6d641ef4a99c577190d4.js","auth/cli.6d641ef4a99c577190d4.js.map"],"auth/common-passwords":["auth/common-passwords.01b07b61ae7f75915c84.js","auth/common-passwords.01b07b61ae7f75915c84.js.map"],"auth/escalate":["auth/escalate.6eac16d352122014904a.js","auth/escalate.6eac16d352122014904a.js.map"],"auth/forgot":["auth/forgot.b6cc2e57bacb8800b711.js","auth/forgot.b6cc2e57bacb8800b711.js.map"],"auth/forgot-sent":["auth/forgot-sent.8f9f27e45ae9e9501a0c.js","auth/forgot-sent.8f9f27e45ae9e9501a0c.js.map"],"auth/forgot-sent-anonymized":["auth/forgot-sent-anonymized.164ba325d2b9387e9352.js","auth/forgot-sent-anonymized.164ba325d2b9387e9352.js.map"],"auth/invite-signup":["auth/invite-signup.0db82f7424f412448719.js","auth/invite-signup.0db82f7424f412448719.js.map"],"auth/login":["auth/login.653c2b1de29405168061.js","auth/login.653c2b1de29405168061.js.map"],"auth/otp":["auth/otp.9ec51dd4ee1c910992be.js","auth/otp.9ec51dd4ee1c910992be.js.map"],"auth/reset-password":["auth/reset-password.7122645bfd18464c7bc6.js","auth/reset-password.7122645bfd18464c7bc6.js.map"],"auth/signup":["auth/signup.9bf6bb852410709bf889.js","auth/signup.9bf6bb852410709bf889.js.map"],"billing/delete-org":["billing/delete-org.cd4a9f8cb430d4ad29fd.js","billing/delete-org.cd4a9f8cb430d4ad29fd.js.map"],"billing/detail":["billing/detail.81452aaf7a33e73b5023.js","billing/detail.81452aaf7a33e73b5023.js.map"],"billing/downgrade":["billing/downgrade.7b1cfc02092c5a2fae3d.js","billing/downgrade.7b1cfc02092c5a2fae3d.js.map"],"billing/upgrade":["billing/upgrade.b9d1f5985606c9269892.js","billing/upgrade.b9d1f5985606c9269892.js.map"],"contact/contact":["contact/contact.ef0cc462132cf683dbbe.js","contact/contact.ef0cc462132cf683dbbe.js.map"],"contact/sidebar":["contact/sidebar.e131c3894ecf3c43cc65.js","contact/sidebar.e131c3894ecf3c43cc65.js.map"],"debug/badstatus":["debug/badstatus.c33c8a9a627488efe868.js","debug/badstatus.c33c8a9a627488efe868.js.map"],"debug/detail":["debug/detail.1080c1868bc881b603ed.js","debug/detail.1080c1868bc881b603ed.js.map"],"debug/failcomponent":["debug/failcomponent.f16770936bd62ebdc070.js","debug/failcomponent.f16770936bd62ebdc070.js.map"],"egg/egg":["egg/egg.3ed1371e1a711ef28154.js","egg/egg.3ed1371e1a711ef28154.js.map"],"errors/not-found":["errors/not-found.4c9813894625406fd4a4.js","errors/not-found.4c9813894625406fd4a4.js.map"],"errors/server":["errors/server.f4e20d75c60179cf35fe.js","errors/server.f4e20d75c60179cf35fe.js.map"],"errors/tea-pot":["errors/tea-pot.410c85f9e9b7fe50c0c7.js","errors/tea-pot.410c85f9e9b7fe50c0c7.js.map"],"errors/template":["errors/template.e3d99cd79910a32ba5b7.js","errors/template.e3d99cd79910a32ba5b7.js.map"],"flatpage/flatpage":["flatpage/flatpage.9089763b3c243bda44da.js","flatpage/flatpage.9089763b3c243bda44da.js.map"],"homepage/homepage":["homepage/homepage.3ee9ec123897a2a2998c.js","homepage/homepage.3ee9ec123897a2a2998c.js.map"],"homepage/homepage-logged-in":["homepage/homepage-logged-in.04aab6da266bcee5a5c0.js","homepage/homepage-logged-in.04aab6da266bcee5a5c0.js.map"],"orgs/create":["orgs/create.9a259014c85ac28cae0e.js","orgs/create.9a259014c85ac28cae0e.js.map"],"orgs/detail":["orgs/detail.2aa90c1996b4ec810f24.js","orgs/detail.2aa90c1996b4ec810f24.js.map"],"orgs/invite":["orgs/invite.5e8a5b8191877bcf7d4e.js","orgs/invite.5e8a5b8191877bcf7d4e.js.map"],"orgs/upgrade":["orgs/upgrade.a851ae618df304c96c14.js","orgs/upgrade.a851ae618df304c96c14.js.map"],"package-list/package-list":["package-list/package-list.213edaebd612487c4322.js","package-list/package-list.213edaebd612487c4322.js.map"],"package/delete-package":["package/delete-package.1f98052704667198aeaf.js","package/delete-package.1f98052704667198aeaf.js.map"],"package/deprecate-package":["package/deprecate-package.5dae5f63f07958d0c61b.js","package/deprecate-package.5dae5f63f07958d0c61b.js.map"],"package/error-message-package":["package/error-message-package.7b11859886b6f6ed8eba.js","package/error-message-package.7b11859886b6f6ed8eba.js.map"],"package/package":["package/package.df4ae1d768f87cca578e.js","package/package.df4ae1d768f87cca578e.js.map"],"profile/profile":["profile/profile.bb2d064fa5ab6b251328.js","profile/profile.bb2d064fa5ab6b251328.js.map"],"search/search":["search/search.48e3c4f1683f743154e4.js","search/search.48e3c4f1683f743154e4.js.map"],"settings/change-password":["settings/change-password.4319c7dc0c4f15eff8ce.js","settings/change-password.4319c7dc0c4f15eff8ce.js.map"],"settings/delete-account":["settings/delete-account.3b30563b2d8a8a03ac3f.js","settings/delete-account.3b30563b2d8a8a03ac3f.js.map"],"settings/email":["settings/email.a679ebf392147d089b08.js","settings/email.a679ebf392147d089b08.js.map"],"settings/memberships":["settings/memberships.bc3500a05133e684502e.js","settings/memberships.bc3500a05133e684502e.js.map"],"settings/packages":["settings/packages.3edeb3fc7215aa599599.js","settings/packages.3edeb3fc7215aa599599.js.map"],"settings/profile":["settings/profile.f3ff29959b6a00f6bf90.js","settings/profile.f3ff29959b6a00f6bf90.js.map"],"teams/create":["teams/create.030eb19415d7a11f27c8.js","teams/create.030eb19415d7a11f27c8.js.map"],"teams/detail":["teams/detail.3f932bfccce3251a71db.js","teams/detail.3f932bfccce3251a71db.js.map"],"teams/list":["teams/list.9ef686f60fa1bd56ae7d.js","teams/list.9ef686f60fa1bd56ae7d.js.map"],"teams/packages":["teams/packages.780151c0cf1bee894a4f.js","teams/packages.780151c0cf1bee894a4f.js.map"],"teams/users":["teams/users.b34b93c0101ce91c2be3.js","teams/users.b34b93c0101ce91c2be3.js.map"],"tfa/enable":["tfa/enable.04b574f1b304b17a3e91.js","tfa/enable.04b574f1b304b17a3e91.js.map"],"tfa/showTFAQRCode":["tfa/showTFAQRCode.54a8e051c60fbd69c841.js","tfa/showTFAQRCode.54a8e051c60fbd69c841.js.map"],"tfa/showTFASuccess":["tfa/showTFASuccess.b5df96f34e197d6984c1.js","tfa/showTFASuccess.b5df96f34e197d6984c1.js.map"],"tfa/tfa-mode-selection":["tfa/tfa-mode-selection.d1659f5ffe81e637f9e5.js","tfa/tfa-mode-selection.d1659f5ffe81e637f9e5.js.map"],"tfa/tfa-password-entry":["tfa/tfa-password-entry.448d337a12bb239a114a.js","tfa/tfa-password-entry.448d337a12bb239a114a.js.map"],"tokens/create":["tokens/create.2e6b50db4e2766fa5502.js","tokens/create.2e6b50db4e2766fa5502.js.map"],"tokens/list":["tokens/list.d0c22aab7f8c307cd2d8.js","tokens/list.d0c22aab7f8c307cd2d8.js.map"],"vouchers/view":["vouchers/view.9d0d920f9af056095ffb.js","vouchers/view.9d0d920f9af056095ffb.js.map"]},"hash":"4728aa87616511b1aba3","name":"profile/profile","containerId":"app","headerName":"x-spiferack","publicPath":"https://static.npmjs.com/"}</script><script crossorigin="anonymous" src="https://static.npmjs.com/commons.4728aa87616511b1aba3.js"></script>
-<script crossorigin="anonymous" src="https://static.npmjs.com/minicssextractbug.7bd8c6948d37bc9b949b.js"></script>
-<script crossorigin="anonymous" src="https://static.npmjs.com/profile/profile.bb2d064fa5ab6b251328.js"></script>
+    <div id="app">
+      <div class="_452c3ec4 d68c66a8">
+        <div>
+          <ul class="cf325dbd list ma0 pa0 tr z-999" aria-live="polite"></ul>
+        </div>
+        <div class="flex flex-column vh-100">
+          <header class="_755f5b0f bg-white z-2 bb b--black-20">
+            <div id="header" class="bbefbfcc">
+              <a href="#search">skip to package search</a><span> or </span
+              ><a href="#signin">skip to sign in</a>
+            </div>
+            <div></div>
+            <div class="e7070742 pv3-ns ph1-ns bg-white">
+              <div class="ef7c6e62 center mw9 border-box ph4-ns ph3 flex">
+                <span
+                  class="_0edb515f pr3 dn dib-ns link lh-title dim b--white-30"
+                  >❤</span
+                ><span class="_99e3854f f6 fw4 link dn dib-ns tl dim mr4 nowrap"
+                  >next() Packaged Middleware</span
+                >
+                <nav class="_4a5f2a79 db w-100 w-auto-ns tr truncate">
+                  <ul class="list pl0">
+                    <li class="dib">
+                      <a
+                        class="c6c55db4 no-underline f6-ns f7 fw5 pr2 pl2"
+                        id="nav-products-link"
+                        href="https://www.npmjs.com/products"
+                        ><span class="dim">Products</span></a
+                      >
+                      <ul class="_3f98ab29 mt2 pa0 bg-white br2 shadow-1 tl">
+                        <li>
+                          <a
+                            id="nav-pro-link"
+                            class="
+                              b8f9b0bd
+                              no-underline
+                              f6-ns
+                              f7
+                              fw5
+                              db
+                              ph3
+                              pv2
+                              nowrap
+                              dim
+                            "
+                            aria-label="npm professional"
+                            href="https://www.npmjs.com/products/pro"
+                            >Pro</a
+                          >
+                        </li>
+                        <li>
+                          <a
+                            id="nav-teams-link"
+                            class="
+                              b8f9b0bd
+                              no-underline
+                              f6-ns
+                              f7
+                              fw5
+                              db
+                              ph3
+                              pv2
+                              nowrap
+                              dim
+                            "
+                            aria-label="npm teams"
+                            href="https://www.npmjs.com/products/teams"
+                            >Teams</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="dib">
+                      <a
+                        class="c6c55db4 no-underline f6-ns f7 fw5 dim pr2 pl2"
+                        id="nav-pricing-link"
+                        href="https://www.npmjs.com/products"
+                        >Pricing</a
+                      >
+                    </li>
+                    <li class="dib">
+                      <a
+                        class="c6c55db4 no-underline f6-ns f7 fw5 dim pr2 pl2"
+                        id="nav-docs-link"
+                        href="https://docs.npmjs.com/"
+                        >Documentation</a
+                      >
+                    </li>
+                    <li class="dib">
+                      <a
+                        class="c6c55db4 no-underline f6-ns f7 fw5 dim pr2 pl2"
+                        id="nav-resources-link"
+                        href="https://npm.community/"
+                        >Community</a
+                      >
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+            <div class="_4ea0e50d bt b--black-10">
+              <div class="c5b9953b center mw9 flex flex-wrap ph4-ns border-box">
+                <h1 class="_657f443d">npm</h1>
+                <div
+                  class="
+                    af43375d
+                    mt3
+                    db
+                    mr4-ns
+                    pb3
+                    pb0-ns
+                    flex-auto
+                    2-ns
+                    ph3
+                    ph0-ns
+                  "
+                >
+                  <a href="https://www.npmjs.com/" aria-label="Homepage"
+                    ><svg viewBox="0 0 780 250">
+                      <path
+                        fill="#231F20"
+                        d="M240,250h100v-50h100V0H240V250z M340,50h50v100h-50V50z M480,0v200h100V50h50v150h50V50h50v150h50V0H480z M0,200h100V50h50v150h50V0H0V200z"
+                      ></path></svg
+                  ></a>
+                </div>
+                <div
+                  class="
+                    _581ebd89
+                    relative
+                    flex-auto
+                    w-100 w-50-ns
+                    pv2-ns
+                    order-1-ns order-2
+                  "
+                >
+                  <form
+                    id="search"
+                    method="GET"
+                    action="https://www.npmjs.com/search"
+                    class="
+                      _13c93d41
+                      relative
+                      flex
+                      bg-transparent
+                      ph3
+                      ph2
+                      pv2
+                      ph0-ns
+                      pv0-ns
+                      bt
+                      b--black-10
+                      bn-ns
+                    "
+                  >
+                    <div class="e82b10fd relative dde91b96">
+                      <div class="_2f299eeb nowrap flex">
+                        <span class="_705cdf4f db fl pl3 pr1"
+                          ><svg
+                            width="15px"
+                            height="15px"
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 18 18"
+                            aria-hidden="true"
+                          >
+                            <g
+                              stroke="none"
+                              stroke-width="1"
+                              fill="none"
+                              fill-rule="evenodd"
+                            >
+                              <g stroke="#777777" stroke-width="1.3">
+                                <g>
+                                  <path
+                                    d="M13.4044,7.0274 C13.4044,10.5494 10.5494,13.4044 7.0274,13.4044 C3.5054,13.4044 0.6504,10.5494 0.6504,7.0274 C0.6504,3.5054 3.5054,0.6504 7.0274,0.6504 C10.5494,0.6504 13.4044,3.5054 13.4044,7.0274 Z"
+                                  ></path>
+                                  <path
+                                    d="M11.4913,11.4913 L17.8683,17.8683"
+                                  ></path>
+                                </g>
+                              </g>
+                            </g></svg></span
+                        ><input
+                          type="search"
+                          name="q"
+                          hotkeys="[object Object]"
+                          placeholder="Search packages"
+                          autocomplete="off"
+                          aria-label="Search packages"
+                          inputref="[object Object]"
+                          class="_390acbc5 f5 fw3 black relative"
+                          value=""
+                          element="input"
+                        />
+                      </div>
+                    </div>
+                    <button
+                      type="submit"
+                      class="_0da775bb bn pv2 ph4 f6 white pointer"
+                      title="Submit"
+                    >
+                      Search</button
+                    ><input
+                      type="hidden"
+                      name="csrftoken"
+                      value="rF4z4qsybb7tQGlGtL96xpQme009YpH7Blr_EZGVBWQ"
+                    />
+                  </form>
+                </div>
+                <div
+                  class="
+                    _6f31c82b
+                    ml3
+                    mt2
+                    mt0-ns
+                    pv2-ns
+                    flex-auto
+                    tr
+                    nowrap
+                    relative
+                    pointer
+                    fw6
+                    order-1 order-2-ns
+                  "
+                >
+                  <div class="_1066d9e7 flex items-center self-center pl3">
+                    <a
+                      href="https://www.npmjs.com/signup"
+                      id="signup"
+                      class="
+                        _9752c8b3
+                        pa2
+                        lh-copy
+                        br2
+                        f6
+                        no-underline
+                        fw5
+                        black
+                        dim
+                        ph3
+                        mr3
+                      "
+                      >Sign Up</a
+                    ><a
+                      id="signin"
+                      class="
+                        _352269a0
+                        pa1
+                        lh-copy
+                        br2
+                        f6
+                        no-underline
+                        fw5
+                        black
+                        dim
+                      "
+                      href="https://www.npmjs.com/login"
+                      >Sign In</a
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+          </header>
+          <main id="main" aria-live="polite">
+            <div
+              class="
+                _102d5b24
+                flex flex-column flex-row-l
+                w-100
+                mw7
+                mv4
+                mt5-l
+                ph3-l
+                mw9-l
+                center
+                ph2
+              "
+            >
+              <div class="_73a8e6f0 w-100 w-auto-l pv4 pv0-l">
+                <div>
+                  <a href="http://en.gravatar.com/emails/"
+                    ><img
+                      src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci84YTU0YmI2MjM1M2RkNzNiZGRiMmExNGZiNjAwMjk3MT9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.QFdkD6Se4IA0ouE4KWffsc-R5rYRmaKm3LCdfpvHM3E"
+                      style="
+                        width: 200px;
+                        height: 200px;
+                        min-width: 200px;
+                        border-radius: 4%;
+                      "
+                  /></a>
+                </div>
+                <div>
+                  <h2 class="b219ea1a black tracked-tight fw6 mv1">bgoonz11</h2>
+                  <hr class="fc85958f bb mv3 b--black-10" />
+                </div>
+              </div>
+              <div class="d2f60d44 w-100 w-auto-l flex-auto ph3 ph0-l pb3-l">
+                <ul
+                  class="
+                    cfb2a888
+                    flex flex-column flex-row-l
+                    w-100
+                    ma0
+                    pa0
+                    mr2
+                    mr0-l
+                    list
+                  "
+                  role="tablist"
+                  aria-owns="package-tab-packages package-tab-orgs"
+                >
+                  <li
+                    class="
+                      _8055e658
+                      f5
+                      fw5
+                      tc
+                      pointer
+                      _7cec0316
+                      ac5f7ef8
+                      f4
+                      fw6
+                      black-50
+                    "
+                  >
+                    <a
+                      class="_38ce9a85 link db ph4 fw6"
+                      href="https://www.npmjs.com/~bgoonz11?activeTab=packages"
+                      aria-selected="true"
+                      role="tab"
+                      aria-controls="tabpanel-packages"
+                      id="package-tab-packages"
+                      ><span
+                        ><svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="cubes"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                        >
+                          <path
+                            fill="currentColor"
+                            d="M488.6 250.2L392 214V105.5c0-15-9.3-28.4-23.4-33.7l-100-37.5c-8.1-3.1-17.1-3.1-25.3 0l-100 37.5c-14.1 5.3-23.4 18.7-23.4 33.7V214l-96.6 36.2C9.3 255.5 0 268.9 0 283.9V394c0 13.6 7.7 26.1 19.9 32.2l100 50c10.1 5.1 22.1 5.1 32.2 0l103.9-52 103.9 52c10.1 5.1 22.1 5.1 32.2 0l100-50c12.2-6.1 19.9-18.6 19.9-32.2V283.9c0-15-9.3-28.4-23.4-33.7zM358 214.8l-85 31.9v-68.2l85-37v73.3zM154 104.1l102-38.2 102 38.2v.6l-102 41.4-102-41.4v-.6zm84 291.1l-85 42.5v-79.1l85-38.8v75.4zm0-112l-102 41.4-102-41.4v-.6l102-38.2 102 38.2v.6zm240 112l-85 42.5v-79.1l85-38.8v75.4zm0-112l-102 41.4-102-41.4v-.6l102-38.2 102 38.2v.6z"
+                          ></path></svg
+                        ><span class="c3fc8940">5</span> Packages</span
+                      ></a
+                    >
+                  </li>
+                  <li class="_8055e658 f5 fw5 tc pointer _2a0881eb">
+                    <a
+                      class="_38ce9a85 link db ph4 fw6"
+                      href="https://www.npmjs.com/~bgoonz11?activeTab=orgs"
+                      aria-selected="false"
+                      role="tab"
+                      aria-controls="tabpanel-orgs"
+                      id="package-tab-orgs"
+                      ><span
+                        ><svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="users"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 640 512"
+                        >
+                          <path
+                            fill="currentColor"
+                            d="M96 224c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm448 0c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm32 32h-64c-17.6 0-33.5 7.1-45.1 18.6 40.3 22.1 68.9 62 75.1 109.4h66c17.7 0 32-14.3 32-32v-32c0-35.3-28.7-64-64-64zm-256 0c61.9 0 112-50.1 112-112S381.9 32 320 32 208 82.1 208 144s50.1 112 112 112zm76.8 32h-8.3c-20.8 10-43.9 16-68.5 16s-47.6-6-68.5-16h-8.3C179.6 288 128 339.6 128 403.2V432c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48v-28.8c0-63.6-51.6-115.2-115.2-115.2zm-223.7-13.4C161.5 263.1 145.6 256 128 256H64c-35.3 0-64 28.7-64 64v32c0 17.7 14.3 32 32 32h65.9c6.3-47.4 34.9-87.3 75.2-109.4z"
+                          ></path></svg
+                        ><span class="c3fc8940">0</span> Organizations</span
+                      ></a
+                    >
+                  </li>
+                </ul>
+                <div>
+                  <h2 class="f3f8c3f4 flex flex-row">
+                    <a
+                      id="packages"
+                      href="https://www.npmjs.com/~bgoonz11?activeTab=packages"
+                      class="_5240e347 flex-none no-underline black fw3 lh-copy"
+                      ><span class="_57e26c3d black-90 tracked-tight fw6 mr2"
+                        >Packages </span
+                      ><span
+                        class="c5c8a11c ph1 br2 ba b--black-20 f5 fw6 black"
+                        >5</span
+                      ></a
+                    >
+                    <div class="flex-auto"></div>
+                  </h2>
+                  <div class="_0897331b mt0">
+                    <ul class="_0897331b mt0">
+                      <li class="_2309b204">
+                        <section
+                          class="
+                            ef4d7c63
+                            flex-l
+                            pl1-ns
+                            pt3
+                            pb2
+                            ph1
+                            bb
+                            b--black-10
+                          "
+                        >
+                          <div class="_0d2164ff">
+                            <div
+                              class="
+                                bea55649
+                                flex flex-row flex-wrap
+                                items-end
+                                pr3
+                              "
+                            >
+                              <a
+                                target="_self"
+                                href="https://www.npmjs.com/package/ds-algo-study"
+                                ><img
+                                  src="https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg"
+                                  title="public package"
+                                  class="c9d94a14 dn"
+                                />
+                                <h3
+                                  class="
+                                    db7ee1ac
+                                    fw6
+                                    f4
+                                    black-90
+                                    dib
+                                    lh-solid
+                                    ma0
+                                    no-underline
+                                    hover-black
+                                  "
+                                >
+                                  ds-algo-study
+                                </h3></a
+                              >
+                            </div>
+                            <p
+                              class="
+                                _8fbbd57d
+                                f5
+                                black-60
+                                mt1
+                                mb0
+                                pv1
+                                no-underline
+                                lh-copy
+                              "
+                            >
+                              Just experimenting with publishing a package
+                            </p>
+                            <div
+                              class="
+                                _0be7a12f
+                                f6
+                                black-80
+                                mt1
+                                mb1
+                                flex-ns
+                                db
+                                flex-row
+                                lh-copy
+                              "
+                            >
+                              <div class="_045facde flex flex-row pl1 br3">
+                                <a
+                                  target="_self"
+                                  href="https://www.npmjs.com/~bgoonz11"
+                                  class="
+                                    e98ba1cc
+                                    pl2
+                                    pr2
+                                    black-70
+                                    fw6
+                                    db
+                                    hover-black
+                                    no-underline
+                                  "
+                                  >bgoonz11</a
+                                >
+                              </div>
+                              <span
+                                title="Tue Mar 09 2021 01:53:00 GMT+0000 (Coordinated Universal Time) and Latest Version"
+                                aria-hidden="true"
+                                class="_66c2abad black-50 flex-grow-1"
+                                >published
+                                <!-- -->1.0.0<!-- -->
+                                •
+                                <!-- -->8 months ago</span
+                              ><span class="_657f443d"
+                                >published 1.0.0 8 months ago</span
+                              >
+                            </div>
+                          </div>
+                          <div
+                            class="
+                              _5c95be4e
+                              pl2
+                              items-start
+                              flex flex-row
+                              items-center
+                              overflow-x-hidden
+                              flex-shrink-0
+                            "
+                          ></div>
+                        </section>
+                      </li>
+                      <li class="_2309b204">
+                        <section
+                          class="
+                            ef4d7c63
+                            flex-l
+                            pl1-ns
+                            pt3
+                            pb2
+                            ph1
+                            bb
+                            b--black-10
+                          "
+                        >
+                          <div class="_0d2164ff">
+                            <div
+                              class="
+                                bea55649
+                                flex flex-row flex-wrap
+                                items-end
+                                pr3
+                              "
+                            >
+                              <a
+                                target="_self"
+                                href="https://www.npmjs.com/package/loadashes6"
+                                ><img
+                                  src="https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg"
+                                  title="public package"
+                                  class="c9d94a14 dn"
+                                />
+                                <h3
+                                  class="
+                                    db7ee1ac
+                                    fw6
+                                    f4
+                                    black-90
+                                    dib
+                                    lh-solid
+                                    ma0
+                                    no-underline
+                                    hover-black
+                                  "
+                                >
+                                  loadashes6
+                                </h3></a
+                              >
+                            </div>
+                            <p
+                              class="
+                                _8fbbd57d
+                                f5
+                                black-60
+                                mt1
+                                mb0
+                                pv1
+                                no-underline
+                                lh-copy
+                              "
+                            >
+                              loadash but implemented with es6 syntax
+                            </p>
+                            <div
+                              class="
+                                _0be7a12f
+                                f6
+                                black-80
+                                mt1
+                                mb1
+                                flex-ns
+                                db
+                                flex-row
+                                lh-copy
+                              "
+                            >
+                              <div class="_045facde flex flex-row pl1 br3">
+                                <a
+                                  target="_self"
+                                  href="https://www.npmjs.com/~bgoonz11"
+                                  class="
+                                    e98ba1cc
+                                    pl2
+                                    pr2
+                                    black-70
+                                    fw6
+                                    db
+                                    hover-black
+                                    no-underline
+                                  "
+                                  >bgoonz11</a
+                                >
+                              </div>
+                              <span
+                                title="Fri Mar 19 2021 00:37:44 GMT+0000 (Coordinated Universal Time) and Latest Version"
+                                aria-hidden="true"
+                                class="_66c2abad black-50 flex-grow-1"
+                                >published
+                                <!-- -->1.0.0<!-- -->
+                                •
+                                <!-- -->8 months ago</span
+                              ><span class="_657f443d"
+                                >published 1.0.0 8 months ago</span
+                              >
+                            </div>
+                          </div>
+                          <div
+                            class="
+                              _5c95be4e
+                              pl2
+                              items-start
+                              flex flex-row
+                              items-center
+                              overflow-x-hidden
+                              flex-shrink-0
+                            "
+                          ></div>
+                        </section>
+                      </li>
+                      <li class="_2309b204">
+                        <section
+                          class="
+                            ef4d7c63
+                            flex-l
+                            pl1-ns
+                            pt3
+                            pb2
+                            ph1
+                            bb
+                            b--black-10
+                          "
+                        >
+                          <div class="_0d2164ff">
+                            <div
+                              class="
+                                bea55649
+                                flex flex-row flex-wrap
+                                items-end
+                                pr3
+                              "
+                            >
+                              <a
+                                target="_self"
+                                href="https://www.npmjs.com/package/web-dev-utils"
+                                ><img
+                                  src="https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg"
+                                  title="public package"
+                                  class="c9d94a14 dn"
+                                />
+                                <h3
+                                  class="
+                                    db7ee1ac
+                                    fw6
+                                    f4
+                                    black-90
+                                    dib
+                                    lh-solid
+                                    ma0
+                                    no-underline
+                                    hover-black
+                                  "
+                                >
+                                  web-dev-utils
+                                </h3></a
+                              >
+                            </div>
+                            <p
+                              class="
+                                _8fbbd57d
+                                f5
+                                black-60
+                                mt1
+                                mb0
+                                pv1
+                                no-underline
+                                lh-copy
+                              "
+                            >
+                              I am creating this for personal use... it does not
+                              constitute my own original source code (or at
+                              least not exclusivly), it is just a collection of
+                              tools and files that I use all the time and wish
+                              to have as a package. Feel free to use it at your
+                              own risk
+                            </p>
+                            <div
+                              class="
+                                _0be7a12f
+                                f6
+                                black-80
+                                mt1
+                                mb1
+                                flex-ns
+                                db
+                                flex-row
+                                lh-copy
+                              "
+                            >
+                              <div class="_045facde flex flex-row pl1 br3">
+                                <a
+                                  target="_self"
+                                  href="https://www.npmjs.com/~bgoonz11"
+                                  class="
+                                    e98ba1cc
+                                    pl2
+                                    pr2
+                                    black-70
+                                    fw6
+                                    db
+                                    hover-black
+                                    no-underline
+                                  "
+                                  >bgoonz11</a
+                                >
+                              </div>
+                              <span
+                                title="Mon Mar 29 2021 15:00:22 GMT+0000 (Coordinated Universal Time) and Latest Version"
+                                aria-hidden="true"
+                                class="_66c2abad black-50 flex-grow-1"
+                                >published
+                                <!-- -->1.0.4<!-- -->
+                                •
+                                <!-- -->8 months ago</span
+                              ><span class="_657f443d"
+                                >published 1.0.4 8 months ago</span
+                              >
+                            </div>
+                          </div>
+                          <div
+                            class="
+                              _5c95be4e
+                              pl2
+                              items-start
+                              flex flex-row
+                              items-center
+                              overflow-x-hidden
+                              flex-shrink-0
+                            "
+                          ></div>
+                        </section>
+                      </li>
+                      <li class="_2309b204">
+                        <section
+                          class="
+                            ef4d7c63
+                            flex-l
+                            pl1-ns
+                            pt3
+                            pb2
+                            ph1
+                            bb
+                            b--black-10
+                          "
+                        >
+                          <div class="_0d2164ff">
+                            <div
+                              class="
+                                bea55649
+                                flex flex-row flex-wrap
+                                items-end
+                                pr3
+                              "
+                            >
+                              <a
+                                target="_self"
+                                href="https://www.npmjs.com/package/@bgoonz11/repoutils"
+                                ><img
+                                  src="https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg"
+                                  title="public package"
+                                  class="c9d94a14 dn"
+                                />
+                                <h3
+                                  class="
+                                    db7ee1ac
+                                    fw6
+                                    f4
+                                    black-90
+                                    dib
+                                    lh-solid
+                                    ma0
+                                    no-underline
+                                    hover-black
+                                  "
+                                >
+                                  @bgoonz11/repoutils
+                                </h3></a
+                              >
+                            </div>
+                            <p
+                              class="
+                                _8fbbd57d
+                                f5
+                                black-60
+                                mt1
+                                mb0
+                                pv1
+                                no-underline
+                                lh-copy
+                              "
+                            >
+                              ---
+                            </p>
+                            <div
+                              class="
+                                _0be7a12f
+                                f6
+                                black-80
+                                mt1
+                                mb1
+                                flex-ns
+                                db
+                                flex-row
+                                lh-copy
+                              "
+                            >
+                              <div class="_045facde flex flex-row pl1 br3">
+                                <a
+                                  target="_self"
+                                  href="https://www.npmjs.com/~bgoonz11"
+                                  class="
+                                    e98ba1cc
+                                    pl2
+                                    pr2
+                                    black-70
+                                    fw6
+                                    db
+                                    hover-black
+                                    no-underline
+                                  "
+                                  >bgoonz11</a
+                                >
+                              </div>
+                              <span
+                                title="Tue Jun 08 2021 19:26:08 GMT+0000 (Coordinated Universal Time) and Latest Version"
+                                aria-hidden="true"
+                                class="_66c2abad black-50 flex-grow-1"
+                                >published
+                                <!-- -->1.0.5<!-- -->
+                                •
+                                <!-- -->5 months ago</span
+                              ><span class="_657f443d"
+                                >published 1.0.5 5 months ago</span
+                              >
+                            </div>
+                          </div>
+                          <div
+                            class="
+                              _5c95be4e
+                              pl2
+                              items-start
+                              flex flex-row
+                              items-center
+                              overflow-x-hidden
+                              flex-shrink-0
+                            "
+                          ></div>
+                        </section>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </main>
+          <footer class="cd2827bb bt b--black-10 mt4">
+            <div
+              id="footer"
+              class="center mw9 pa3 flex flex-column flex-wrap-m flex-row-ns"
+            >
+              <div class="flex-auto pa4-ns pa3 w-100 w-10-l">
+                <div class="_802b5507 pt3">
+                  <a
+                    target="_blank"
+                    title="npm repository"
+                    rel="noopener noreferrer nofollow"
+                    href="https://github.com/npm"
+                    ><svg viewBox="0 0 27.23 27.23">
+                      <rect
+                        fill="#333333"
+                        width="27.23"
+                        height="27.23"
+                        rx="2"
+                      ></rect>
+                      <polygon
+                        fill="#fff"
+                        points="5.8 21.75 13.66 21.75 13.67 9.98 17.59 9.98 17.58 21.76 21.51 21.76 21.52 6.06 5.82 6.04 5.8 21.75"
+                      ></polygon></svg
+                  ></a>
+                </div>
+                <div class="_802b5507 pt3">
+                  <a
+                    target="_blank"
+                    title="GitHub"
+                    rel="noopener noreferrer nofollow"
+                    href="https://github.com/"
+                    ><svg
+                      aria-hidden="true"
+                      role="img"
+                      class=""
+                      viewBox="0 0 16 16"
+                      width="50"
+                      height="50"
+                      fill="black"
+                      style="
+                        display: inline-block;
+                        user-select: none;
+                        vertical-align: top;
+                      "
+                    >
+                      <path
+                        fill-rule="evenodd"
+                        d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"
+                      ></path></svg
+                  ></a>
+                </div>
+              </div>
+              <div class="flex-auto pa4-ns pa3 w-30-ns w-50-m">
+                <a class="_3f7d964f" href="#header">Return to top of page</a>
+                <h3 class="_1b8c0a9f">Support</h3>
+                <ul class="list pl0">
+                  <li class="pv1">
+                    <a class="link" href="https://docs.npmjs.com/">Help</a>
+                  </li>
+                  <li class="pv1">
+                    <a class="link" href="https://npm.community/">Community</a>
+                  </li>
+                  <li class="pv1">
+                    <a class="link" href="https://www.npmjs.com/advisories"
+                      >Advisories</a
+                    >
+                  </li>
+                  <li class="pv1">
+                    <a class="link" href="http://status.npmjs.org/">Status</a>
+                  </li>
+                  <li class="pv1">
+                    <a class="link" href="https://www.npmjs.com/support"
+                      >Contact npm</a
+                    >
+                  </li>
+                </ul>
+              </div>
+              <div class="flex-auto pa4-ns pa3 w-30-ns w-50-m">
+                <h3 class="_1b8c0a9f">Company</h3>
+                <ul class="list pl0">
+                  <li class="pv1">
+                    <a class="link" href="https://www.npmjs.com/about">About</a>
+                  </li>
+                  <li class="pv1">
+                    <a class="link" href="https://blog.npmjs.org/">Blog</a>
+                  </li>
+                  <li class="pv1">
+                    <a class="link" href="https://www.npmjs.com/press">Press</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="flex-auto pa4-ns pa3 w-30-ns w-50-m">
+                <h3 class="_1b8c0a9f">Terms &amp; Policies</h3>
+                <ul class="list pl0">
+                  <li class="pv1">
+                    <a class="link" href="https://www.npmjs.com/policies/"
+                      >Policies</a
+                    >
+                  </li>
+                  <li class="pv1">
+                    <a class="link" href="https://www.npmjs.com/policies/terms"
+                      >Terms of Use</a
+                    >
+                  </li>
+                  <li class="pv1">
+                    <a
+                      class="link"
+                      href="https://www.npmjs.com/policies/conduct"
+                      >Code of Conduct</a
+                    >
+                  </li>
+                  <li class="pv1">
+                    <a
+                      class="link"
+                      href="https://www.npmjs.com/policies/privacy"
+                      >Privacy</a
+                    >
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </footer>
+        </div>
+        <div
+          class="_8a62ca63 fixed top-0 left-0 z-999"
+          style="
+            opacity: 0;
+            transform: scaleX(1);
+            -webkit-transform: scaleX(1);
+            -moz-transform: scaleX(1);
+          "
+        ></div>
+      </div>
+    </div>
+    <script
+      integrity="sha512-yTG5F9zk/SLhGgf83mwwxjqj1Fs+hks+x2M5Z6xSsekFj7yJ2ZTHaZGnqpn8/11g3IQhQ0SwmFU3rLXwC0lOSQ=="
+    >
+      window.__context__ = {
+        context: {
+          scope: {
+            type: "user",
+            parent: {
+              tfa: null,
+              name: "bgoonz11",
+              isStaff: false,
+              deactivated: null,
+              avatars: {
+                small:
+                  "/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci84YTU0YmI2MjM1M2RkNzNiZGRiMmExNGZiNjAwMjk3MT9zaXplPTUwJmRlZmF1bHQ9cmV0cm8ifQ.kwsKejT20ELQmLE620HM83K51Y7Ar7ROkmI-RhxNX_c",
+                medium:
+                  "/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci84YTU0YmI2MjM1M2RkNzNiZGRiMmExNGZiNjAwMjk3MT9zaXplPTEwMCZkZWZhdWx0PXJldHJvIn0.sDWmW29fEdgXvelDBXZYpd6Hxvez40Gsma2vyvYDNGk",
+                large:
+                  "/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci84YTU0YmI2MjM1M2RkNzNiZGRiMmExNGZiNjAwMjk3MT9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.QFdkD6Se4IA0ouE4KWffsc-R5rYRmaKm3LCdfpvHM3E",
+              },
+              resource: {},
+              is_delegated: false,
+              email_verified: true,
+              created: { ts: 1613009492445, rel: "9 months ago" },
+              updated: "2021-02-11T02:11:32.442Z",
+            },
+            created: "2021-02-11T02:11:32.449Z",
+            updated: "2021-02-11T02:11:32.449Z",
+            urls: {
+              detail: "/v2/scopes/scope/bgoonz11",
+              refresh: "/v2/scopes/scope/bgoonz11/refresh",
+              teams: "/v2/scopes/scope/bgoonz11/teams/",
+              packages: "/v2/scopes/scope/bgoonz11/packages/",
+              addPackage: null,
+            },
+            account: null,
+            resource: { github: null, twitter: null },
+          },
+          orgs: { total: 0, objects: [] },
+          packages: {
+            total: 5,
+            objects: [
+              {
+                name: "ds-algo-study",
+                private: false,
+                settings: null,
+                created: { ts: 1615254776556, rel: "8 months ago" },
+                updated: { ts: 1615254785977, rel: "8 months ago" },
+                description: "Just experimenting with publishing a package",
+                maintainers: ["bgoonz11"],
+                "dist-tags": { latest: "1.0.0" },
+                lastPublish: {
+                  maintainer: "bgoonz11",
+                  time: "2021-03-09T01:53:00.975Z",
+                  formattedTime: "8 months ago",
+                },
+                types: {},
+                publisher: {
+                  name: "bgoonz11",
+                  avatars: {},
+                  created: { ts: null, rel: "Invalid date" },
+                },
+                date: { ts: 1615254780975, rel: "8 months ago" },
+                version: "1.0.0",
+              },
+              {
+                name: "loadashes6",
+                private: false,
+                settings: null,
+                created: { ts: 1616114263079, rel: "8 months ago" },
+                updated: { ts: 1616114267154, rel: "8 months ago" },
+                description: "loadash but implemented with es6 syntax",
+                maintainers: ["bgoonz11"],
+                "dist-tags": { latest: "1.0.0" },
+                lastPublish: {
+                  maintainer: "bgoonz11",
+                  time: "2021-03-19T00:37:44.141Z",
+                  formattedTime: "8 months ago",
+                },
+                types: {},
+                publisher: {
+                  name: "bgoonz11",
+                  avatars: {},
+                  created: { ts: null, rel: "Invalid date" },
+                },
+                date: { ts: 1616114264141, rel: "8 months ago" },
+                version: "1.0.0",
+              },
+              {
+                name: "web-dev-utils",
+                private: false,
+                settings: null,
+                created: { ts: 1616892431161, rel: "8 months ago" },
+                updated: { ts: 1616892435409, rel: "8 months ago" },
+                description:
+                  "I am creating this for personal use... it does not constitute my own original source code (or at least not exclusivly), it is just a collection of tools and files that I use all the time and wish to have as a package. Feel free to use it at your own risk",
+                maintainers: ["bgoonz11"],
+                "dist-tags": { latest: "1.0.4" },
+                lastPublish: {
+                  maintainer: "bgoonz11",
+                  time: "2021-03-29T15:00:22.386Z",
+                  formattedTime: "8 months ago",
+                },
+                types: {},
+                publisher: {
+                  name: "bgoonz11",
+                  avatars: {},
+                  created: { ts: null, rel: "Invalid date" },
+                },
+                date: { ts: 1617030022386, rel: "8 months ago" },
+                version: "1.0.4",
+              },
+              {
+                name: "webdevutilities-site",
+                private: false,
+                settings: null,
+                created: { ts: 1617693814743, rel: "7 months ago" },
+                updated: { ts: 1617693814743, rel: "7 months ago" },
+                lastPublish: { formattedTime: "never" },
+                publisher: {
+                  avatars: {},
+                  created: { ts: null, rel: "Invalid date" },
+                },
+                date: { ts: null, rel: "Invalid date" },
+              },
+              {
+                name: "@bgoonz11/repoutils",
+                private: false,
+                settings: null,
+                created: { ts: 1623177233747, rel: "5 months ago" },
+                updated: { ts: 1623372478442, rel: "5 months ago" },
+                description: "---",
+                maintainers: ["bgoonz11"],
+                "dist-tags": { latest: "1.0.5" },
+                lastPublish: {
+                  maintainer: "bgoonz11",
+                  time: "2021-06-08T19:26:08.634Z",
+                  formattedTime: "5 months ago",
+                },
+                types: {},
+                publisher: {
+                  name: "bgoonz11",
+                  avatars: {},
+                  created: { ts: null, rel: "Invalid date" },
+                },
+                date: { ts: 1623180368634, rel: "5 months ago" },
+                version: "1.0.5",
+              },
+            ],
+            urls: {},
+          },
+          pagination: { perPage: 25, page: 0 },
+          user: null,
+          csrftoken: "rF4z4qsybb7tQGlGtL96xpQme009YpH7Blr_EZGVBWQ",
+          notifications: [],
+          npmExpansions: [
+            "Neanderthal Pudding Mix",
+            "Neato Polyester Material",
+            "Norse Power Metal",
+            "Nickelback Plays Music",
+            "Next Phenomenal Microbrewery",
+            "Now Particularly Misnamed",
+            "Nodes Per Minute",
+            "Nano Pico Micro",
+            "Nacho Pace Maker",
+            "next() Packaged Middleware",
+          ],
+        },
+        chunks: {
+          commons: [
+            "commons.4728aa87616511b1aba3.js",
+            "commons.4728aa87616511b1aba3.js.map",
+          ],
+          styles: [
+            "styles.e7d37a77ac852ff3f3e7.css",
+            "https://www.npmjs.com/minicssextractbug.7bd8c6948d37bc9b949b.js",
+            "styles.e7d37a77ac852ff3f3e7.css.map",
+            "minicssextractbug.7bd8c6948d37bc9b949b.js.map",
+          ],
+          "auth/cli": [
+            "auth/cli.6d641ef4a99c577190d4.js",
+            "auth/cli.6d641ef4a99c577190d4.js.map",
+          ],
+          "auth/common-passwords": [
+            "auth/common-passwords.01b07b61ae7f75915c84.js",
+            "auth/common-passwords.01b07b61ae7f75915c84.js.map",
+          ],
+          "auth/escalate": [
+            "auth/escalate.6eac16d352122014904a.js",
+            "auth/escalate.6eac16d352122014904a.js.map",
+          ],
+          "auth/forgot": [
+            "auth/forgot.b6cc2e57bacb8800b711.js",
+            "auth/forgot.b6cc2e57bacb8800b711.js.map",
+          ],
+          "auth/forgot-sent": [
+            "auth/forgot-sent.8f9f27e45ae9e9501a0c.js",
+            "auth/forgot-sent.8f9f27e45ae9e9501a0c.js.map",
+          ],
+          "auth/forgot-sent-anonymized": [
+            "auth/forgot-sent-anonymized.164ba325d2b9387e9352.js",
+            "auth/forgot-sent-anonymized.164ba325d2b9387e9352.js.map",
+          ],
+          "auth/invite-signup": [
+            "auth/invite-signup.0db82f7424f412448719.js",
+            "auth/invite-signup.0db82f7424f412448719.js.map",
+          ],
+          "auth/login": [
+            "auth/login.653c2b1de29405168061.js",
+            "auth/login.653c2b1de29405168061.js.map",
+          ],
+          "auth/otp": [
+            "auth/otp.9ec51dd4ee1c910992be.js",
+            "auth/otp.9ec51dd4ee1c910992be.js.map",
+          ],
+          "auth/reset-password": [
+            "auth/reset-password.7122645bfd18464c7bc6.js",
+            "auth/reset-password.7122645bfd18464c7bc6.js.map",
+          ],
+          "auth/signup": [
+            "auth/signup.9bf6bb852410709bf889.js",
+            "auth/signup.9bf6bb852410709bf889.js.map",
+          ],
+          "billing/delete-org": [
+            "billing/delete-org.cd4a9f8cb430d4ad29fd.js",
+            "billing/delete-org.cd4a9f8cb430d4ad29fd.js.map",
+          ],
+          "billing/detail": [
+            "billing/detail.81452aaf7a33e73b5023.js",
+            "billing/detail.81452aaf7a33e73b5023.js.map",
+          ],
+          "billing/downgrade": [
+            "billing/downgrade.7b1cfc02092c5a2fae3d.js",
+            "billing/downgrade.7b1cfc02092c5a2fae3d.js.map",
+          ],
+          "billing/upgrade": [
+            "billing/upgrade.b9d1f5985606c9269892.js",
+            "billing/upgrade.b9d1f5985606c9269892.js.map",
+          ],
+          "contact/contact": [
+            "contact/contact.ef0cc462132cf683dbbe.js",
+            "contact/contact.ef0cc462132cf683dbbe.js.map",
+          ],
+          "contact/sidebar": [
+            "contact/sidebar.e131c3894ecf3c43cc65.js",
+            "contact/sidebar.e131c3894ecf3c43cc65.js.map",
+          ],
+          "debug/badstatus": [
+            "debug/badstatus.c33c8a9a627488efe868.js",
+            "debug/badstatus.c33c8a9a627488efe868.js.map",
+          ],
+          "debug/detail": [
+            "debug/detail.1080c1868bc881b603ed.js",
+            "debug/detail.1080c1868bc881b603ed.js.map",
+          ],
+          "debug/failcomponent": [
+            "debug/failcomponent.f16770936bd62ebdc070.js",
+            "debug/failcomponent.f16770936bd62ebdc070.js.map",
+          ],
+          "egg/egg": [
+            "egg/egg.3ed1371e1a711ef28154.js",
+            "egg/egg.3ed1371e1a711ef28154.js.map",
+          ],
+          "errors/not-found": [
+            "errors/not-found.4c9813894625406fd4a4.js",
+            "errors/not-found.4c9813894625406fd4a4.js.map",
+          ],
+          "errors/server": [
+            "errors/server.f4e20d75c60179cf35fe.js",
+            "errors/server.f4e20d75c60179cf35fe.js.map",
+          ],
+          "errors/tea-pot": [
+            "errors/tea-pot.410c85f9e9b7fe50c0c7.js",
+            "errors/tea-pot.410c85f9e9b7fe50c0c7.js.map",
+          ],
+          "errors/template": [
+            "errors/template.e3d99cd79910a32ba5b7.js",
+            "errors/template.e3d99cd79910a32ba5b7.js.map",
+          ],
+          "flatpage/flatpage": [
+            "flatpage/flatpage.9089763b3c243bda44da.js",
+            "flatpage/flatpage.9089763b3c243bda44da.js.map",
+          ],
+          "homepage/homepage": [
+            "homepage/homepage.3ee9ec123897a2a2998c.js",
+            "homepage/homepage.3ee9ec123897a2a2998c.js.map",
+          ],
+          "homepage/homepage-logged-in": [
+            "homepage/homepage-logged-in.04aab6da266bcee5a5c0.js",
+            "homepage/homepage-logged-in.04aab6da266bcee5a5c0.js.map",
+          ],
+          "orgs/create": [
+            "orgs/create.9a259014c85ac28cae0e.js",
+            "orgs/create.9a259014c85ac28cae0e.js.map",
+          ],
+          "orgs/detail": [
+            "orgs/detail.2aa90c1996b4ec810f24.js",
+            "orgs/detail.2aa90c1996b4ec810f24.js.map",
+          ],
+          "orgs/invite": [
+            "orgs/invite.5e8a5b8191877bcf7d4e.js",
+            "orgs/invite.5e8a5b8191877bcf7d4e.js.map",
+          ],
+          "orgs/upgrade": [
+            "orgs/upgrade.a851ae618df304c96c14.js",
+            "orgs/upgrade.a851ae618df304c96c14.js.map",
+          ],
+          "package-list/package-list": [
+            "package-list/package-list.213edaebd612487c4322.js",
+            "package-list/package-list.213edaebd612487c4322.js.map",
+          ],
+          "package/delete-package": [
+            "package/delete-package.1f98052704667198aeaf.js",
+            "package/delete-package.1f98052704667198aeaf.js.map",
+          ],
+          "package/deprecate-package": [
+            "package/deprecate-package.5dae5f63f07958d0c61b.js",
+            "package/deprecate-package.5dae5f63f07958d0c61b.js.map",
+          ],
+          "package/error-message-package": [
+            "package/error-message-package.7b11859886b6f6ed8eba.js",
+            "package/error-message-package.7b11859886b6f6ed8eba.js.map",
+          ],
+          "package/package": [
+            "package/package.df4ae1d768f87cca578e.js",
+            "package/package.df4ae1d768f87cca578e.js.map",
+          ],
+          "profile/profile": [
+            "profile/profile.bb2d064fa5ab6b251328.js",
+            "profile/profile.bb2d064fa5ab6b251328.js.map",
+          ],
+          "search/search": [
+            "search/search.48e3c4f1683f743154e4.js",
+            "search/search.48e3c4f1683f743154e4.js.map",
+          ],
+          "settings/change-password": [
+            "settings/change-password.4319c7dc0c4f15eff8ce.js",
+            "settings/change-password.4319c7dc0c4f15eff8ce.js.map",
+          ],
+          "settings/delete-account": [
+            "settings/delete-account.3b30563b2d8a8a03ac3f.js",
+            "settings/delete-account.3b30563b2d8a8a03ac3f.js.map",
+          ],
+          "settings/email": [
+            "settings/email.a679ebf392147d089b08.js",
+            "settings/email.a679ebf392147d089b08.js.map",
+          ],
+          "settings/memberships": [
+            "settings/memberships.bc3500a05133e684502e.js",
+            "settings/memberships.bc3500a05133e684502e.js.map",
+          ],
+          "settings/packages": [
+            "settings/packages.3edeb3fc7215aa599599.js",
+            "settings/packages.3edeb3fc7215aa599599.js.map",
+          ],
+          "settings/profile": [
+            "settings/profile.f3ff29959b6a00f6bf90.js",
+            "settings/profile.f3ff29959b6a00f6bf90.js.map",
+          ],
+          "teams/create": [
+            "teams/create.030eb19415d7a11f27c8.js",
+            "teams/create.030eb19415d7a11f27c8.js.map",
+          ],
+          "teams/detail": [
+            "teams/detail.3f932bfccce3251a71db.js",
+            "teams/detail.3f932bfccce3251a71db.js.map",
+          ],
+          "teams/list": [
+            "teams/list.9ef686f60fa1bd56ae7d.js",
+            "teams/list.9ef686f60fa1bd56ae7d.js.map",
+          ],
+          "teams/packages": [
+            "teams/packages.780151c0cf1bee894a4f.js",
+            "teams/packages.780151c0cf1bee894a4f.js.map",
+          ],
+          "teams/users": [
+            "teams/users.b34b93c0101ce91c2be3.js",
+            "teams/users.b34b93c0101ce91c2be3.js.map",
+          ],
+          "tfa/enable": [
+            "tfa/enable.04b574f1b304b17a3e91.js",
+            "tfa/enable.04b574f1b304b17a3e91.js.map",
+          ],
+          "tfa/showTFAQRCode": [
+            "tfa/showTFAQRCode.54a8e051c60fbd69c841.js",
+            "tfa/showTFAQRCode.54a8e051c60fbd69c841.js.map",
+          ],
+          "tfa/showTFASuccess": [
+            "tfa/showTFASuccess.b5df96f34e197d6984c1.js",
+            "tfa/showTFASuccess.b5df96f34e197d6984c1.js.map",
+          ],
+          "tfa/tfa-mode-selection": [
+            "tfa/tfa-mode-selection.d1659f5ffe81e637f9e5.js",
+            "tfa/tfa-mode-selection.d1659f5ffe81e637f9e5.js.map",
+          ],
+          "tfa/tfa-password-entry": [
+            "tfa/tfa-password-entry.448d337a12bb239a114a.js",
+            "tfa/tfa-password-entry.448d337a12bb239a114a.js.map",
+          ],
+          "tokens/create": [
+            "tokens/create.2e6b50db4e2766fa5502.js",
+            "tokens/create.2e6b50db4e2766fa5502.js.map",
+          ],
+          "tokens/list": [
+            "tokens/list.d0c22aab7f8c307cd2d8.js",
+            "tokens/list.d0c22aab7f8c307cd2d8.js.map",
+          ],
+          "vouchers/view": [
+            "vouchers/view.9d0d920f9af056095ffb.js",
+            "vouchers/view.9d0d920f9af056095ffb.js.map",
+          ],
+        },
+        hash: "4728aa87616511b1aba3",
+        name: "profile/profile",
+        containerId: "app",
+        headerName: "x-spiferack",
+        publicPath: "https://static.npmjs.com/",
+      };
+    </script>
+    <script
+      crossorigin="anonymous"
+      src="https://static.npmjs.com/commons.4728aa87616511b1aba3.js"
+    ></script>
+    <script
+      crossorigin="anonymous"
+      src="https://static.npmjs.com/minicssextractbug.7bd8c6948d37bc9b949b.js"
+    ></script>
+    <script
+      crossorigin="anonymous"
+      src="https://static.npmjs.com/profile/profile.bb2d064fa5ab6b251328.js"
+    ></script>
   </body>
 </html>

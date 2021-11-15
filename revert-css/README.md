@@ -9,4 +9,3 @@ revert.css (repository) also includes the default CSS styles from:
 3. Chrome (webkit)
 4. Opera
 5. Internet Explorer 6-9+
-

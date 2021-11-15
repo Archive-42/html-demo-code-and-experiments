@@ -4366,24 +4366,22 @@ try {
           var speed = plugin.isMobileView()
             ? plugin.settings.effect_speed_mobile
             : plugin.settings.effect_speed;
-          anchor
-            .siblings(".mega-sub-menu")
-            .animate(
-              {
-                height: "hide",
-                paddingTop: "hide",
-                paddingBottom: "hide",
-                minHeight: "hide",
-              },
-              speed,
-              function () {
-                anchor.siblings(".mega-sub-menu").css("display", "");
-                anchor
-                  .parent()
-                  .removeClass("mega-toggle-on")
-                  .triggerHandler("close_panel");
-              }
-            );
+          anchor.siblings(".mega-sub-menu").animate(
+            {
+              height: "hide",
+              paddingTop: "hide",
+              paddingBottom: "hide",
+              minHeight: "hide",
+            },
+            speed,
+            function () {
+              anchor.siblings(".mega-sub-menu").css("display", "");
+              anchor
+                .parent()
+                .removeClass("mega-toggle-on")
+                .triggerHandler("close_panel");
+            }
+          );
           return;
         }
         if (immediate) {
@@ -4417,12 +4415,10 @@ try {
           if (plugin.isDesktopView()) {
             var submenu_offset = $menu.offset();
             var target_offset = $(plugin.settings.panel_width).offset();
-            anchor
-              .siblings(".mega-sub-menu")
-              .css({
-                width: $(plugin.settings.panel_width).outerWidth(),
-                left: target_offset.left - submenu_offset.left + "px",
-              });
+            anchor.siblings(".mega-sub-menu").css({
+              width: $(plugin.settings.panel_width).outerWidth(),
+              left: target_offset.left - submenu_offset.left + "px",
+            });
           } else {
             anchor.siblings(".mega-sub-menu").css({ width: "", left: "" });
           }
@@ -4451,12 +4447,10 @@ try {
             target_width > 0 &&
             target_width < submenu_width
           ) {
-            anchor
-              .siblings(".mega-sub-menu")
-              .css({
-                paddingLeft: (submenu_width - target_width) / 2 + "px",
-                paddingRight: (submenu_width - target_width) / 2 + "px",
-              });
+            anchor.siblings(".mega-sub-menu").css({
+              paddingLeft: (submenu_width - target_width) / 2 + "px",
+              paddingRight: (submenu_width - target_width) / 2 + "px",
+            });
           } else {
             anchor
               .siblings(".mega-sub-menu")
