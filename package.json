@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "directory-tree": "^3.0.0"
+    "directory-tree": "3.0.0"
   }
 }
