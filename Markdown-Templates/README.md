@@ -764,7 +764,7 @@ Property tables is most commonly used for technical summaries such as [the table
               data-flaw="link6"
               >Flow content</a
             >, phrasing content, embedded content. If it has a
-            <a href="/en-US/docs/Web/HTML/Element/video#attr-controls"
+            <a href="./en-US/docs/Web/HTML/Element/video#attr-controls"
               ><code>controls</code></a
             >
             attribute: interactive content and palpable content.
