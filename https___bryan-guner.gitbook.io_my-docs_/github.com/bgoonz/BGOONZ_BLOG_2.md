@@ -2407,7 +2407,7 @@ Click to expand!
                                 aria-hidden="true"
                                 width={80}
                                 height={80}
-                                viewBox="0 0 250 250"
+                                viewBox="0 0 150 150"
                                 style={{
                                     zIndex: 100000,
                                     fill: '#194ccdaf',
@@ -8157,7 +8157,7 @@ Click to expand!
                                 aria-hidden="true"
                                 width={80}
                                 height={80}
-                                viewBox="0 0 250 250"
+                                viewBox="0 0 150 150"
                                 style={{
                                     zIndex: 100000,
                                     fill: '#194ccdaf',

@@ -4,7 +4,7 @@
                     https://html.com/wp-content/uploads/html-com-logo.png
                   " width="250" height="53" />
 
-[](index.html)
+[](OFFICIALindex.html)
 
 Learn HTML Code, Tags & CSS
 
@@ -811,6 +811,6 @@ Most Popular
   
   
 
-[HTML.com](index.html) © 2015-2020 [Sitemap](sitemap/index.html) | [Privacy](privacy/index.html) | [Contact](contact/index.html)
+[HTML.com](OFFICIALindex.html) © 2015-2020 [Sitemap](sitemap/index.html) | [Privacy](privacy/index.html) | [Contact](contact/index.html)
 
 <span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" class="cn-set-cookie cn-button bootstrap button">Ok</a></span><a href="javascript:void(0);" id="cn-close-notice" class="cn-close-icon"></a>

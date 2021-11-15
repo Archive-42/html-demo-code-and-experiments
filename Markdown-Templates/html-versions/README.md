@@ -15,20 +15,18 @@ Markdown tip: Add two spaces at the end of a line to create a line break.
 
 \#\#Try the Demo! [\[Live Website\]]()
 
-------------------------------------------------------------------------
+---
 
 [![—————————————————–](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
 
 \#\# About
 
 [● See Website ●]()  
-*(Inspired by [app name]())*
+_(Inspired by [app name]())_
 
 <img src="" alt="Animated gif example of app in action, or interesting detail, etc." style="width:50.0%" />
 
 Describe overview of app, themes and philosophy, inspiration, audience, or whatever… 1-2 paragraphs
-
-  
 
 ![]()
 
@@ -48,18 +46,18 @@ Describe overview of app, themes and philosophy, inspiration, audience, or whate
 
 \#\# Features
 
--   **Key action word** a feature here.
--   **Emphasize action** for this feature.
--   Feature 3 **highlights this benefit**.
+- **Key action word** a feature here.
+- **Emphasize action** for this feature.
+- Feature 3 **highlights this benefit**.
 
 \#\#For the Future
 
-An optional *brief* note describing scheduling or other planning details.
+An optional _brief_ note describing scheduling or other planning details.
 
--   **Major** *(high priority)* A major feature
--   **Major** A major feature
--   **Minor** *(low priority)* A minor feature
--   **Maybe** Undecided ideas or brainstorming
+- **Major** _(high priority)_ A major feature
+- **Major** A major feature
+- **Minor** _(low priority)_ A minor feature
+- **Maybe** Undecided ideas or brainstorming
 
 [![—————————————————–](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
 
@@ -73,12 +71,10 @@ An optional *brief* note describing scheduling or other planning details.
 
 <img src="" alt="Screenshot, animated gif, diagram, etc illustrating this step" style="width:50.0%" />
 
--   To **do a thing**, follow this step.
--   ***TIP** This is a helpful tip.*
--   ***NOTE** This is note about something.*
--   ***WARNING!** This is a warning!*
-
-  
+- To **do a thing**, follow this step.
+- **\*TIP** This is a helpful tip.\*
+- **\*NOTE** This is note about something.\*
+- **\*WARNING!** This is a warning!\*
 
 > **Optional Special Section!**  
 > For any additional asides. Maybe illustrating a specific example, a table of information, a code snippet, or ‘fun facts’ or quotes!
@@ -89,7 +85,7 @@ An optional *brief* note describing scheduling or other planning details.
 >
 > <table><thead><tr class="header"><th>Header A</th><th>Header B</th></tr></thead><tbody><tr class="odd"><td>A</td><td>B</td></tr></tbody></table>
 >
-<img src="" alt="Optional extra image(s)" style="width:100.0%" />
+> <img src="" alt="Optional extra image(s)" style="width:100.0%" />
 
 \#\#How to Use Feature ABC Repeat the pattern.
 
@@ -103,9 +99,9 @@ An optional *brief* note describing scheduling or other planning details.
 4.  Seed the migration with `npx sequelize-cli db:seed:all`.
 5.  Run locally with `npm start`.
 
-\#\#Get started on Heroku - Account, Database, Config Vars 1. Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), if you haven’t done so already. 2. Create a [free Heroku account](https://signup.heroku.com/dc). 3. Login and [create a new Heroku app](https://dashboard.heroku.com/new-app). 4. Navigate to the *Resources* tab an set up a ‘Heroku Postgres’ database for the app. 5. Select the ‘Hobby Dev - Free’ plan. 6. Navigate to the *Settings* tab. Click ‘Reveal Config Vars’. Set the environment variables needed to run the app. - **NOTE** NEVER check in `.env` files or any private keys. Environment variables set in an `.env` file won’t work in Heroku anyway. - **NOTE** See the `DATABASE_URL` is already set. This is done when the Heroku Postgres database was set up. Therefore, `DB_USERNAME`, `DB_PASSWORD`, and `DB_DATABASE` arent’ required.
+\#\#Get started on Heroku - Account, Database, Config Vars 1. Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), if you haven’t done so already. 2. Create a [free Heroku account](https://signup.heroku.com/dc). 3. Login and [create a new Heroku app](https://dashboard.heroku.com/new-app). 4. Navigate to the _Resources_ tab an set up a ‘Heroku Postgres’ database for the app. 5. Select the ‘Hobby Dev - Free’ plan. 6. Navigate to the _Settings_ tab. Click ‘Reveal Config Vars’. Set the environment variables needed to run the app. - **NOTE** NEVER check in `.env` files or any private keys. Environment variables set in an `.env` file won’t work in Heroku anyway. - **NOTE** See the `DATABASE_URL` is already set. This is done when the Heroku Postgres database was set up. Therefore, `DB_USERNAME`, `DB_PASSWORD`, and `DB_DATABASE` arent’ required.
 
-\#\#Configure the app to use the Heroku Postgres database There are two ways to configure the `production` environment: 1. With *dotenv* and a `.sequelizerc` file that points to a `config/database.js` file. 2. The Sequelize CLI’s auto-generated `config.json` file.
+\#\#Configure the app to use the Heroku Postgres database There are two ways to configure the `production` environment: 1. With _dotenv_ and a `.sequelizerc` file that points to a `config/database.js` file. 2. The Sequelize CLI’s auto-generated `config.json` file.
 
 **With .sequelizerc and dotenv** Update the `config/database.js` file with a `production` key like so.
 
@@ -131,18 +127,16 @@ An optional *brief* note describing scheduling or other planning details.
       "use_env_variable": "DATABASE_URL"
     }
 
-➤ Push to Heroku
-----------------
+## ➤ Push to Heroku
 
 1.  In the root of the app’s repo directory, log into Heroku with `heroku login`.
 2.  Add a new remote to GitHub configuration with `heroku git:remote -a <<app-name-here>>`.
 3.  Add all changes with `git add .`.
-4.  Commit changes with `git commit -m "<<Add message here>>"`. (Optionally, `git           commit -am` Adds and commits in one command.)
+4.  Commit changes with `git commit -m "<<Add message here>>"`. (Optionally, `git commit -am` Adds and commits in one command.)
 5.  Push changes to Heroku with `git push Heroku`.
 6.  You should see a successful build image.
 
 [![—————————————————–](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
-
 
     remote: -----> Launching...
     remote:        Released v5
@@ -152,8 +146,7 @@ An optional *brief* note describing scheduling or other planning details.
     To
       https://git.heroku.com/«app-name-here».git
 
-➤ Run migrations on Heroku
---------------------------
+## ➤ Run migrations on Heroku
 
 1.  To migrate your Heroku Postgres database, run the migration command prefaced with `heroku run` inside the repo.
 
@@ -184,22 +177,19 @@ A few sample snapshots are below from the development process.
 
 <img src="" alt="Snapshot 1" height="250" /> <img src="" alt="Snapshot 2" height="250" /> <img src="" alt="Snapshot 3" height="250" />
 
-------------------------------------------------------------------------
+---
 
 [![—————————————————–](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
 
-➤Contact
---------
+## ➤Contact
 
 Thank you very much for your interest in this project.  
 Feel free to reach out to provide feedback, bug reports, or anything else :) .
 
 <img src="%5Bdocs/images/portrait.png%5D(https://avatars.githubusercontent.com/u/66654881?s=460&amp;u=fa9d2cc45bc228dd9b7d3dee6d4653f940fab35a&amp;v=4)" alt="Bryan Gimer" height="100" />
 
-\#\#Bryan Guner *(Full-stack software developer)*
+\#\#Bryan Guner _(Full-stack software developer)_
 
 [![Portfolio](https://img.shields.io/badge/-❤_Portfolio-f58?style=flat-square&logo=a&logoColor=white&link=https://bgoonz.github.io/)](https://bgoonz.github.io) [![Resume PDF](https://img.shields.io/badge/-Resume-f00?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/bgoonz/resume-cv-portfolio-samples/blob/master/2021-resume/bryan-guner-resume-2021.pdf) [](mailto:bryan.guner@gmail.com) [![Blog](https://img.shields.io/badge/-Blog-21759b?style=flat-square&logo=WordPress&logoColor=white&link=https://web-dev-hub.com/)](https://web-dev-hub.com/) [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-guner-046199128/)](https://www.linkedin.com/in/bryan-guner-046199128/) [![AngelList](https://img.shields.io/badge/-AngelList-black?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/u/bryan-guner)](https://angel.co/u/bryan-guner) [![GitHub bgoonz](https://img.shields.io/github/followers/bgoonz?label=follow&style=social)](https://github.com/bgoonz)
 
-  
-
-------------------------------------------------------------------------
+---

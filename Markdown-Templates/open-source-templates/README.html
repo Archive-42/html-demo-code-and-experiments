@@ -1,73 +1,143 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
-<head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>README</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
-  </style>
-</head>
-<body>
-<h1 id="auth0-open-source-template">Auth0 Open Source Template</h1>
-<p>This repo contains sample files to be used in Auth0 open source software repositories. These files are guidelines that can be used in an Auth0 or any open source project to ensure that the project is described properly, the contribution process is clear, and additional tools like CI, coverage monitors, and quality checkers are configured properly.</p>
-<h2 id="table-of-contents">Table of Contents</h2>
-<ul>
-<li><a href="#getting-started">Getting Started</a></li>
-<li><a href="#contribution">Contribution</a></li>
-<li><a href="#thank-you">Thank You</a></li>
-<li><a href="#license">License</a></li>
-</ul>
-<h2 id="getting-started">Getting Started</h2>
-<p>This repo can be cloned, modified, then re-purposed for new open source projects. It can also be used piecemeal to improve existing repos.</p>
-<h3 id="copy-readme-sample.md-to-readme.md">Copy README-sample.md to README.md</h3>
-<p>The core of open source repo quality is the <code>README.md</code> file that’s displayed on the repo’s homepage in Github. The <code>README-sample.md</code> included here was collaboratively created by Auth0’s SDK engineering team and community engineering team based on samples of high-quality README files around the web.</p>
-<p>Most sections within this file should be considered required, even if that section contains a link to a more relevant page. Certain sections will contain repo-specific information and should be modified as needed:</p>
-<ul>
-<li>Description (below the title)</li>
-<li>Badges</li>
-<li>Documentation</li>
-<li>Installation</li>
-<li>Getting Started</li>
-<li>Thank you</li>
-<li>License</li>
-</ul>
-<p>Other sections should be used as-is with minimal changes:</p>
-<ul>
-<li>Table of Contents</li>
-<li>Contribution</li>
-<li>Support + Feedback</li>
-<li>Vulnerability Reporting</li>
-<li>What is Auth0?</li>
-</ul>
-<h3 id="modify-templates-in-.github">Modify templates in <code>.github</code></h3>
-<p>The issue and PR templates contained in this repo are general guidelines for what to include. What is being asked for is entirely up to the repo maintainer but a template of some kind should be included.</p>
-<h3 id="update-license">Update LICENSE</h3>
-<p>See <code>README-sample.md</code> for guidelines.</p>
-<h3 id="modify-.gitignore">Modify .gitignore</h3>
-<p>This file contains files that will be excluded from git. Modify as needed based on the technology being used.</p>
-<h3 id="modifyremove-platform-specific-files">Modify/remove platform-specific files</h3>
-<p>Additional template files have been included here for the specific technology that we work with. These should be considered as guidelines and not enforced in any way.</p>
-<h2 id="contribution">Contribution</h2>
-<p>We appreciate feedback and contribution to this template! Before you get started, please see the following:</p>
-<ul>
-<li><a href="GENERAL-CONTRIBUTING.md">Auth0’s general contribution guidelines</a></li>
-<li><a href="CODE-OF-CONDUCT.md">Auth0’s code of conduct guidelines</a></li>
-</ul>
-<h2 id="thank-you">Thank You!</h2>
-<p>A big thank you to all of our sources of inspiration!</p>
-<ul>
-<li><span class="citation" data-cites="Roshanjossey">[First Contributions by @Roshanjossey]</span>(https://github.com/Roshanjossey/first-contributions)</li>
-<li><a href="https://www.firsttimersonly.com/">First Timers Only</a></li>
-<li><a href="https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63">Sane Github Labels</a></li>
-<li><span class="citation" data-cites="matiassingers">[Awesome README by @matiassingers]</span>(https://github.com/matiassingers/awesome-readme)</li>
-</ul>
-<p>… and many more!</p>
-<h2 id="license">License</h2>
-<p>This repo is covered under <a href="LICENSE">The MIT License</a>.</p>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=yes"
+    />
+    <title>README</title>
+    <style type="text/css">
+      code {
+        white-space: pre-wrap;
+      }
+      span.smallcaps {
+        font-variant: small-caps;
+      }
+      span.underline {
+        text-decoration: underline;
+      }
+      div.column {
+        display: inline-block;
+        vertical-align: top;
+        width: 50%;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="auth0-open-source-template">Auth0 Open Source Template</h1>
+    <p>
+      This repo contains sample files to be used in Auth0 open source software
+      repositories. These files are guidelines that can be used in an Auth0 or
+      any open source project to ensure that the project is described properly,
+      the contribution process is clear, and additional tools like CI, coverage
+      monitors, and quality checkers are configured properly.
+    </p>
+    <h2 id="table-of-contents">Table of Contents</h2>
+    <ul>
+      <li><a href="#getting-started">Getting Started</a></li>
+      <li><a href="#contribution">Contribution</a></li>
+      <li><a href="#thank-you">Thank You</a></li>
+      <li><a href="#license">License</a></li>
+    </ul>
+    <h2 id="getting-started">Getting Started</h2>
+    <p>
+      This repo can be cloned, modified, then re-purposed for new open source
+      projects. It can also be used piecemeal to improve existing repos.
+    </p>
+    <h3 id="copy-readme-sample.md-to-readme.md">
+      Copy README-sample.md to README.md
+    </h3>
+    <p>
+      The core of open source repo quality is the <code>README.md</code> file
+      that’s displayed on the repo’s homepage in Github. The
+      <code>README-sample.md</code> included here was collaboratively created by
+      Auth0’s SDK engineering team and community engineering team based on
+      samples of high-quality README files around the web.
+    </p>
+    <p>
+      Most sections within this file should be considered required, even if that
+      section contains a link to a more relevant page. Certain sections will
+      contain repo-specific information and should be modified as needed:
+    </p>
+    <ul>
+      <li>Description (below the title)</li>
+      <li>Badges</li>
+      <li>Documentation</li>
+      <li>Installation</li>
+      <li>Getting Started</li>
+      <li>Thank you</li>
+      <li>License</li>
+    </ul>
+    <p>Other sections should be used as-is with minimal changes:</p>
+    <ul>
+      <li>Table of Contents</li>
+      <li>Contribution</li>
+      <li>Support + Feedback</li>
+      <li>Vulnerability Reporting</li>
+      <li>What is Auth0?</li>
+    </ul>
+    <h3 id="modify-templates-in-.github">
+      Modify templates in <code>.github</code>
+    </h3>
+    <p>
+      The issue and PR templates contained in this repo are general guidelines
+      for what to include. What is being asked for is entirely up to the repo
+      maintainer but a template of some kind should be included.
+    </p>
+    <h3 id="update-license">Update LICENSE</h3>
+    <p>See <code>README-sample.md</code> for guidelines.</p>
+    <h3 id="modify-.gitignore">Modify .gitignore</h3>
+    <p>
+      This file contains files that will be excluded from git. Modify as needed
+      based on the technology being used.
+    </p>
+    <h3 id="modifyremove-platform-specific-files">
+      Modify/remove platform-specific files
+    </h3>
+    <p>
+      Additional template files have been included here for the specific
+      technology that we work with. These should be considered as guidelines and
+      not enforced in any way.
+    </p>
+    <h2 id="contribution">Contribution</h2>
+    <p>
+      We appreciate feedback and contribution to this template! Before you get
+      started, please see the following:
+    </p>
+    <ul>
+      <li>
+        <a href="GENERAL-CONTRIBUTING.md"
+          >Auth0’s general contribution guidelines</a
+        >
+      </li>
+      <li>
+        <a href="CODE-OF-CONDUCT.md">Auth0’s code of conduct guidelines</a>
+      </li>
+    </ul>
+    <h2 id="thank-you">Thank You!</h2>
+    <p>A big thank you to all of our sources of inspiration!</p>
+    <ul>
+      <li>
+        <span class="citation" data-cites="Roshanjossey"
+          >[First Contributions by @Roshanjossey]</span
+        >(https://github.com/Roshanjossey/first-contributions)
+      </li>
+      <li><a href="https://www.firsttimersonly.com/">First Timers Only</a></li>
+      <li>
+        <a href="https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63"
+          >Sane Github Labels</a
+        >
+      </li>
+      <li>
+        <span class="citation" data-cites="matiassingers"
+          >[Awesome README by @matiassingers]</span
+        >(https://github.com/matiassingers/awesome-readme)
+      </li>
+    </ul>
+    <p>… and many more!</p>
+    <h2 id="license">License</h2>
+    <p>This repo is covered under <a href="LICENSE">The MIT License</a>.</p>
+  </body>
 </html>

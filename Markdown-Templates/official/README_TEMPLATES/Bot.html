@@ -1,105 +1,223 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
-<head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Bot</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
-  </style>
-</head>
-<body>
-<p align="center">
-<a href="" rel="noopener"> <img width=200px height=200px src="https://i.imgur.com/FxL5qM0.jpg" alt="Bot logo"></a>
-</p>
-<h3 align="center">
-Bot Name
-</h3>
-<div data-align="center">
-<p><a href=""><img src="https://img.shields.io/badge/status-active-success.svg" alt="Status" /></a> <a href="https://www.reddit.com/user/Wordbook_Bot"><img src="https://img.shields.io/badge/platform-reddit-orange.svg" alt="Platform" /></a> <a href="https://github.com/kylelobo/The-Documentation-Compendium/issues"><img src="https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg" alt="GitHub Issues" /></a> <a href="https://github.com/kylelobo/The-Documentation-Compendium/pulls"><img src="https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg" alt="GitHub Pull Requests" /></a> <a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" /></a></p>
-</div>
-<hr />
-<p align="center">
-🤖 Few lines describing what your bot does. <br>
-</p>
-<h2 id="table-of-contents">📝 Table of Contents</h2>
-<ul>
-<li><a href="#about">About</a></li>
-<li><a href="#demo">Demo / Working</a></li>
-<li><a href="#working">How it works</a></li>
-<li><a href="#usage">Usage</a></li>
-<li><a href="#getting_started">Getting Started</a></li>
-<li><a href="#deployment">Deploying your own bot</a></li>
-<li><a href="#built_using">Built Using</a></li>
-<li><a href="../TODO.md">TODO</a></li>
-<li><a href="../CONTRIBUTING.md">Contributing</a></li>
-<li><a href="#authors">Authors</a></li>
-<li><a href="#acknowledgement">Acknowledgments</a></li>
-</ul>
-<h2 id="about">🧐 About <a name = "about"></a></h2>
-<p>Write about 1-2 paragraphs describing the purpose of your bot.</p>
-<h2 id="demo-working">🎥 Demo / Working <a name = "demo"></a></h2>
-<figure>
-<img src="https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif" alt="Working" /><figcaption>Working</figcaption>
-</figure>
-<h2 id="how-it-works">💭 How it works <a name = "working"></a></h2>
-<p>The bot first extracts the word from the comment and then fetches word definitions, part of speech, example and source from the Oxford Dictionary API.</p>
-<p>If the word does not exist in the Oxford Dictionary, the Oxford API then returns a 404 response upon which the bot then tries to fetch results form the Urban Dictionary API.</p>
-<p>The bot uses the Pushshift API to fetch comments, PRAW module to reply to comments and Heroku as a server.</p>
-<p>The entire bot is written in Python 3.6</p>
-<h2 id="usage">🎈 Usage <a name = "usage"></a></h2>
-<p>To use the bot, type:</p>
-<pre><code>!dict word</code></pre>
-<p>The first part, i.e. “!dict” <strong>is not</strong> case sensitive.</p>
-<p>The bot will then give you the Oxford Dictionary (or Urban Dictionary; if the word does not exist in the Oxford Dictionary) definition of the word as a comment reply.</p>
-<h3 id="example">Example:</h3>
-<blockquote>
-<p>!dict what is love</p>
-</blockquote>
-<p><strong>Definition:</strong></p>
-<p>Baby, dont hurt me~ Dont hurt me~ no more.</p>
-<p><strong>Example:</strong></p>
-<p>Dude1: Bruh, what is love? Dude2: Baby, dont hurt me, dont hurt me- no more! Dude1: dafuq?</p>
-<p><strong>Source:</strong> https://www.urbandictionary.com/define.php?term=what%20is%20love</p>
-<hr />
-<p><sup>Beep boop. I am a bot. If there are any issues, contact my <a href="https://www.reddit.com/message/compose/?to=PositivePlayer1&amp;subject=/u/Wordbook_Bot">Master</a></sup></p>
-<p><sup>Want to make a similar reddit bot? Check out: <a href="https://github.com/kylelobo/Reddit-Bot">GitHub</a></sup></p>
-<h2 id="getting-started">🏁 Getting Started <a name = "getting_started"></a></h2>
-<p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See <a href="#deployment">deployment</a> for notes on how to deploy the project on a live system.</p>
-<h3 id="prerequisites">Prerequisites</h3>
-<p>What things you need to install the software and how to install them.</p>
-<pre><code>Give examples</code></pre>
-<h3 id="installing">Installing</h3>
-<p>A step by step series of examples that tell you how to get a development env running.</p>
-<p>Say what the step will be</p>
-<pre><code>Give the example</code></pre>
-<p>And repeat</p>
-<pre><code>until finished</code></pre>
-<p>End with an example of getting some data out of the system or using it for a little demo.</p>
-<h2 id="deploying-your-own-bot">🚀 Deploying your own bot <a name = "deployment"></a></h2>
-<p>To see an example project on how to deploy your bot, please see my own configuration:</p>
-<ul>
-<li><strong>Heroku</strong>: https://github.com/kylelobo/Reddit-Bot#deploying_the_bot</li>
-</ul>
-<h2 id="built-using">⛏️ Built Using <a name = "built_using"></a></h2>
-<ul>
-<li><a href="https://praw.readthedocs.io/en/latest/">PRAW</a> - Python Reddit API Wrapper</li>
-<li><a href="https://www.heroku.com/">Heroku</a> - SaaS hosting platform</li>
-</ul>
-<h2 id="authors">✍️ Authors <a name = "authors"></a></h2>
-<ul>
-<li><span class="citation" data-cites="kylelobo">[@kylelobo]</span>(https://github.com/kylelobo) - Idea &amp; Initial work</li>
-</ul>
-<p>See also the list of <a href="https://github.com/kylelobo/The-Documentation-Compendium/contributors">contributors</a> who participated in this project.</p>
-<h2 id="acknowledgements">🎉 Acknowledgements <a name = "acknowledgement"></a></h2>
-<ul>
-<li>Hat tip to anyone whose code was used</li>
-<li>Inspiration</li>
-<li>References</li>
-</ul>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=yes"
+    />
+    <title>Bot</title>
+    <style type="text/css">
+      code {
+        white-space: pre-wrap;
+      }
+      span.smallcaps {
+        font-variant: small-caps;
+      }
+      span.underline {
+        text-decoration: underline;
+      }
+      div.column {
+        display: inline-block;
+        vertical-align: top;
+        width: 50%;
+      }
+    </style>
+  </head>
+  <body>
+    <p align="center">
+      <a href="" rel="noopener">
+        <img
+          width="200px"
+          height="200px"
+          src="https://i.imgur.com/FxL5qM0.jpg"
+          alt="Bot logo"
+      /></a>
+    </p>
+    <h3 align="center">Bot Name</h3>
+    <div data-align="center">
+      <p>
+        <a href=""
+          ><img
+            src="https://img.shields.io/badge/status-active-success.svg"
+            alt="Status"
+        /></a>
+        <a href="https://www.reddit.com/user/Wordbook_Bot"
+          ><img
+            src="https://img.shields.io/badge/platform-reddit-orange.svg"
+            alt="Platform"
+        /></a>
+        <a
+          href="https://github.com/kylelobo/The-Documentation-Compendium/issues"
+          ><img
+            src="https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg"
+            alt="GitHub Issues"
+        /></a>
+        <a href="https://github.com/kylelobo/The-Documentation-Compendium/pulls"
+          ><img
+            src="https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg"
+            alt="GitHub Pull Requests"
+        /></a>
+        <a href="/LICENSE"
+          ><img
+            src="https://img.shields.io/badge/license-MIT-blue.svg"
+            alt="License"
+        /></a>
+      </p>
+    </div>
+    <hr />
+    <p align="center">🤖 Few lines describing what your bot does. <br /></p>
+    <h2 id="table-of-contents">📝 Table of Contents</h2>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#demo">Demo / Working</a></li>
+      <li><a href="#working">How it works</a></li>
+      <li><a href="#usage">Usage</a></li>
+      <li><a href="#getting_started">Getting Started</a></li>
+      <li><a href="#deployment">Deploying your own bot</a></li>
+      <li><a href="#built_using">Built Using</a></li>
+      <li><a href="../TODO.md">TODO</a></li>
+      <li><a href="../CONTRIBUTING.md">Contributing</a></li>
+      <li><a href="#authors">Authors</a></li>
+      <li><a href="#acknowledgement">Acknowledgments</a></li>
+    </ul>
+    <h2 id="about">🧐 About <a name="about"></a></h2>
+    <p>Write about 1-2 paragraphs describing the purpose of your bot.</p>
+    <h2 id="demo-working">🎥 Demo / Working <a name="demo"></a></h2>
+    <figure>
+      <img
+        src="https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif"
+        alt="Working"
+      />
+      <figcaption>Working</figcaption>
+    </figure>
+    <h2 id="how-it-works">💭 How it works <a name="working"></a></h2>
+    <p>
+      The bot first extracts the word from the comment and then fetches word
+      definitions, part of speech, example and source from the Oxford Dictionary
+      API.
+    </p>
+    <p>
+      If the word does not exist in the Oxford Dictionary, the Oxford API then
+      returns a 404 response upon which the bot then tries to fetch results form
+      the Urban Dictionary API.
+    </p>
+    <p>
+      The bot uses the Pushshift API to fetch comments, PRAW module to reply to
+      comments and Heroku as a server.
+    </p>
+    <p>The entire bot is written in Python 3.6</p>
+    <h2 id="usage">🎈 Usage <a name="usage"></a></h2>
+    <p>To use the bot, type:</p>
+    <pre><code>!dict word</code></pre>
+    <p>The first part, i.e. “!dict” <strong>is not</strong> case sensitive.</p>
+    <p>
+      The bot will then give you the Oxford Dictionary (or Urban Dictionary; if
+      the word does not exist in the Oxford Dictionary) definition of the word
+      as a comment reply.
+    </p>
+    <h3 id="example">Example:</h3>
+    <blockquote>
+      <p>!dict what is love</p>
+    </blockquote>
+    <p><strong>Definition:</strong></p>
+    <p>Baby, dont hurt me~ Dont hurt me~ no more.</p>
+    <p><strong>Example:</strong></p>
+    <p>
+      Dude1: Bruh, what is love? Dude2: Baby, dont hurt me, dont hurt me- no
+      more! Dude1: dafuq?
+    </p>
+    <p>
+      <strong>Source:</strong>
+      https://www.urbandictionary.com/define.php?term=what%20is%20love
+    </p>
+    <hr />
+    <p>
+      <sup
+        >Beep boop. I am a bot. If there are any issues, contact my
+        <a
+          href="https://www.reddit.com/message/compose/?to=PositivePlayer1&amp;subject=/u/Wordbook_Bot"
+          >Master</a
+        ></sup
+      >
+    </p>
+    <p>
+      <sup
+        >Want to make a similar reddit bot? Check out:
+        <a href="https://github.com/kylelobo/Reddit-Bot">GitHub</a></sup
+      >
+    </p>
+    <h2 id="getting-started">
+      🏁 Getting Started <a name="getting_started"></a>
+    </h2>
+    <p>
+      These instructions will get you a copy of the project up and running on
+      your local machine for development and testing purposes. See
+      <a href="#deployment">deployment</a> for notes on how to deploy the
+      project on a live system.
+    </p>
+    <h3 id="prerequisites">Prerequisites</h3>
+    <p>What things you need to install the software and how to install them.</p>
+    <pre><code>Give examples</code></pre>
+    <h3 id="installing">Installing</h3>
+    <p>
+      A step by step series of examples that tell you how to get a development
+      env running.
+    </p>
+    <p>Say what the step will be</p>
+    <pre><code>Give the example</code></pre>
+    <p>And repeat</p>
+    <pre><code>until finished</code></pre>
+    <p>
+      End with an example of getting some data out of the system or using it for
+      a little demo.
+    </p>
+    <h2 id="deploying-your-own-bot">
+      🚀 Deploying your own bot <a name="deployment"></a>
+    </h2>
+    <p>
+      To see an example project on how to deploy your bot, please see my own
+      configuration:
+    </p>
+    <ul>
+      <li>
+        <strong>Heroku</strong>:
+        https://github.com/kylelobo/Reddit-Bot#deploying_the_bot
+      </li>
+    </ul>
+    <h2 id="built-using">⛏️ Built Using <a name="built_using"></a></h2>
+    <ul>
+      <li>
+        <a href="https://praw.readthedocs.io/en/latest/">PRAW</a> - Python
+        Reddit API Wrapper
+      </li>
+      <li>
+        <a href="https://www.heroku.com/">Heroku</a> - SaaS hosting platform
+      </li>
+    </ul>
+    <h2 id="authors">✍️ Authors <a name="authors"></a></h2>
+    <ul>
+      <li>
+        <span class="citation" data-cites="kylelobo">[@kylelobo]</span
+        >(https://github.com/kylelobo) - Idea &amp; Initial work
+      </li>
+    </ul>
+    <p>
+      See also the list of
+      <a
+        href="https://github.com/kylelobo/The-Documentation-Compendium/contributors"
+        >contributors</a
+      >
+      who participated in this project.
+    </p>
+    <h2 id="acknowledgements">
+      🎉 Acknowledgements <a name="acknowledgement"></a>
+    </h2>
+    <ul>
+      <li>Hat tip to anyone whose code was used</li>
+      <li>Inspiration</li>
+      <li>References</li>
+    </ul>
+  </body>
 </html>

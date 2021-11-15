@@ -1,115 +1,293 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
-<head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>README2</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
-  </style>
-</head>
-<body>
-<p><img src="project-logo.png" align="left" width="192px" height="192px"/> <img align="left" width="0" height="192px" hspace="10"/></p>
-<blockquote>
-<p>Template files for writing maintanable GitHub projects. Make your repo pretty!</p>
-</blockquote>
-<p><a href="https://github.com/cezaraugusto/github-template-guidelines"><img src="https://img.shields.io/badge/under-development-orange.svg" alt="Under Development" /></a> <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/public-domain-lightgrey.svg" alt="Public Domain" /></a> <a href="http://github.com/cezaraugusto/github-template-guidelines"><img src="https://img.shields.io/travis/cezaraugusto/github-template-guidelines.svg" alt="Travis" /></a></p>
-<p>So you had an idea and developed the next world’s industry-changing application. You decided to open-source it because you’re way cool. Now you need to educate people about your project and need some docs to get started. You got it. :alien:</p>
-<br>
-<p align="center">
-<strong>Templates included:</strong> <a href="/.github/README.md">README</a> • <a href="/.github/CONTRIBUTING.md">CONTRIBUTING </a> • <a href="/.github/PULL_REQUEST_TEMPLATE.md">PULL REQUEST</a> • <a href="/.github/ISSUE_TEMPLATE.md">ISSUE TEMPLATE</a> • <a href="/.github/CONTRIBUTORS.md">CONTRIBUTORS</a>
-</p>
-<p><br></p>
-<h2 id="installing">Installing</h2>
-<p>Clone this project and name it accordingly:</p>
-<p><code>git clone git@github.com:cezaraugusto/github-template-guidelines.git MY-PROJECT-NAME &amp;&amp; cd MY-PROJECT-NAME</code></p>
-<h1 id="getting-started">Getting Started</h1>
-<p>This project is a collection of <a href="http://whatis.techtarget.com/definition/boilerplate">boilerplate</a> (template) files with resumed guidelines for <code>README</code>, <code>CONTRIBUTING</code> and <code>CONTRIBUTORS</code> documentation. It also includes a basic <code>ISSUE_TEMPLATE</code> and <code>PULL_REQUEST_TEMPLATE</code> which are now <a href="https://github.com/blog/2111-issue-and-pull-request-templates">allowed by GitHub</a>. All templates are filled under <code>.github/</code> folder. This <code>README</code> itself is a fork of the <code>README</code> <a href=".github/README.md">template</a>.</p>
-<h2 id="usage">Usage</h2>
-<ol type="1">
-<li>After installing, remove this file <code>rm README.md</code>.</li>
-<li>Move the <code>README</code> template file located under <code>.github/</code> to the main directory <code>mv .github/README.md .</code> :cool:</li>
-<li>Follow the basic usage guidelines in each file or make it your way. <em>The world is yours</em>.</li>
-</ol>
-<h2 id="useful-resources-thumbsup">Useful Resources :thumbsup:</h2>
-<blockquote>
-<p>References for starting a Project</p>
-</blockquote>
-<ul>
-<li><a href="https://help.github.com/articles/helping-people-contribute-to-your-project/">Helping people contribute to your Project</a></li>
-<li><a href="https://gist.github.com/PurpleBooth/6f1ba788bf70fb501439#file-am-i-ready-to-open-source-this-md">Am I Ready to Open Source it?</a></li>
-</ul>
-<blockquote>
-<p><code>README</code> References</p>
-</blockquote>
-<ul>
-<li><a href="http://jfhbrook.github.io/2011/11/09/readmes.html">How To Write A Readme</a></li>
-<li><a href="https://robots.thoughtbot.com/how-to-write-a-great-readme">How to Write a Great Readme</a></li>
-<li><a href="http://stackoverflow.com/a/2304870">Eugene Yokota - StackOverflow Answer</a></li>
-</ul>
-<blockquote>
-<p><code>CONTRIBUTING</code> References</p>
-</blockquote>
-<ul>
-<li><a href="https://help.github.com/articles/setting-guidelines-for-repository-contributors/">Setting Guidelines for Repository Contributors</a></li>
-<li><a href="http://contributor-covenant.org/">Contributor Covenant</a></li>
-</ul>
-<blockquote>
-<p><code>CHANGELOG</code> References</p>
-</blockquote>
-<blockquote>
-<p>This boilerplate intentionally did not provide any <code>CHANGELOG</code> file as example, since <a href="https://github.com/skywinder/github-changelog-generator">this tool</a> could make it automatically, fulfilling the file’s objective. If you still want to keep it handwritten, to keep you (and your project) sane, I’d recommend you to follow the references below:</p>
-</blockquote>
-<ul>
-<li><a href="http://semver.org/">Semantic Versioning 2.0.0</a></li>
-<li><a href="http://keepachangelog.com/">Keep a Changelog</a></li>
-</ul>
-<blockquote>
-<p><code>ISSUE_TEMPLATE</code> and <code>PULL_REQUEST_TEMPLATE</code> References</p>
-</blockquote>
-<ul>
-<li><a href="https://help.github.com/articles/creating-an-issue-template-for-your-repository/">Creating an Issue Template for your repository</a></li>
-<li><a href="https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/">Creating a Pull Request Template for your repository</a></li>
-<li><a href="https://github.com/devspace/awesome-github-templates">Awesome GitHub Templates</a></li>
-</ul>
-<blockquote>
-<p><code>CONTRIBUTORS</code> References</p>
-</blockquote>
-<ul>
-<li><a href="https://github.com/kentcdodds/all-contributors/">All Contributors</a></li>
-<li><a href="https://github.com/jfmengels/all-contributors-cli">All Contributors (CLI)</a></li>
-</ul>
-<h2 id="contributors">Contributors</h2>
-<!-- Contributors START
+  <head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=yes"
+    />
+    <title>README2</title>
+    <style type="text/css">
+      code {
+        white-space: pre-wrap;
+      }
+      span.smallcaps {
+        font-variant: small-caps;
+      }
+      span.underline {
+        text-decoration: underline;
+      }
+      div.column {
+        display: inline-block;
+        vertical-align: top;
+        width: 50%;
+      }
+    </style>
+  </head>
+  <body>
+    <p>
+      <img src="project-logo.png" align="left" width="192px" height="192px" />
+      <img align="left" width="0" height="192px" hspace="10" />
+    </p>
+    <blockquote>
+      <p>
+        Template files for writing maintanable GitHub projects. Make your repo
+        pretty!
+      </p>
+    </blockquote>
+    <p>
+      <a href="https://github.com/cezaraugusto/github-template-guidelines"
+        ><img
+          src="https://img.shields.io/badge/under-development-orange.svg"
+          alt="Under Development"
+      /></a>
+      <a href="https://creativecommons.org/publicdomain/zero/1.0/"
+        ><img
+          src="https://img.shields.io/badge/public-domain-lightgrey.svg"
+          alt="Public Domain"
+      /></a>
+      <a href="http://github.com/cezaraugusto/github-template-guidelines"
+        ><img
+          src="https://img.shields.io/travis/cezaraugusto/github-template-guidelines.svg"
+          alt="Travis"
+      /></a>
+    </p>
+    <p>
+      So you had an idea and developed the next world’s industry-changing
+      application. You decided to open-source it because you’re way cool. Now
+      you need to educate people about your project and need some docs to get
+      started. You got it. :alien:
+    </p>
+    <br />
+    <p align="center">
+      <strong>Templates included:</strong>
+      <a href="/.github/README.md">README</a> •
+      <a href="/.github/CONTRIBUTING.md">CONTRIBUTING </a> •
+      <a href="/.github/PULL_REQUEST_TEMPLATE.md">PULL REQUEST</a> •
+      <a href="/.github/ISSUE_TEMPLATE.md">ISSUE TEMPLATE</a> •
+      <a href="/.github/CONTRIBUTORS.md">CONTRIBUTORS</a>
+    </p>
+    <p><br /></p>
+    <h2 id="installing">Installing</h2>
+    <p>Clone this project and name it accordingly:</p>
+    <p>
+      <code
+        >git clone git@github.com:cezaraugusto/github-template-guidelines.git
+        MY-PROJECT-NAME &amp;&amp; cd MY-PROJECT-NAME</code
+      >
+    </p>
+    <h1 id="getting-started">Getting Started</h1>
+    <p>
+      This project is a collection of
+      <a href="http://whatis.techtarget.com/definition/boilerplate"
+        >boilerplate</a
+      >
+      (template) files with resumed guidelines for <code>README</code>,
+      <code>CONTRIBUTING</code> and <code>CONTRIBUTORS</code> documentation. It
+      also includes a basic <code>ISSUE_TEMPLATE</code> and
+      <code>PULL_REQUEST_TEMPLATE</code> which are now
+      <a href="https://github.com/blog/2111-issue-and-pull-request-templates"
+        >allowed by GitHub</a
+      >. All templates are filled under <code>.github/</code> folder. This
+      <code>README</code> itself is a fork of the <code>README</code>
+      <a href=".github/README.md">template</a>.
+    </p>
+    <h2 id="usage">Usage</h2>
+    <ol type="1">
+      <li>After installing, remove this file <code>rm README.md</code>.</li>
+      <li>
+        Move the <code>README</code> template file located under
+        <code>.github/</code> to the main directory
+        <code>mv .github/README.md .</code> :cool:
+      </li>
+      <li>
+        Follow the basic usage guidelines in each file or make it your way.
+        <em>The world is yours</em>.
+      </li>
+    </ol>
+    <h2 id="useful-resources-thumbsup">Useful Resources :thumbsup:</h2>
+    <blockquote>
+      <p>References for starting a Project</p>
+    </blockquote>
+    <ul>
+      <li>
+        <a
+          href="https://help.github.com/articles/helping-people-contribute-to-your-project/"
+          >Helping people contribute to your Project</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://gist.github.com/PurpleBooth/6f1ba788bf70fb501439#file-am-i-ready-to-open-source-this-md"
+          >Am I Ready to Open Source it?</a
+        >
+      </li>
+    </ul>
+    <blockquote>
+      <p><code>README</code> References</p>
+    </blockquote>
+    <ul>
+      <li>
+        <a href="http://jfhbrook.github.io/2011/11/09/readmes.html"
+          >How To Write A Readme</a
+        >
+      </li>
+      <li>
+        <a href="https://robots.thoughtbot.com/how-to-write-a-great-readme"
+          >How to Write a Great Readme</a
+        >
+      </li>
+      <li>
+        <a href="http://stackoverflow.com/a/2304870"
+          >Eugene Yokota - StackOverflow Answer</a
+        >
+      </li>
+    </ul>
+    <blockquote>
+      <p><code>CONTRIBUTING</code> References</p>
+    </blockquote>
+    <ul>
+      <li>
+        <a
+          href="https://help.github.com/articles/setting-guidelines-for-repository-contributors/"
+          >Setting Guidelines for Repository Contributors</a
+        >
+      </li>
+      <li>
+        <a href="http://contributor-covenant.org/">Contributor Covenant</a>
+      </li>
+    </ul>
+    <blockquote>
+      <p><code>CHANGELOG</code> References</p>
+    </blockquote>
+    <blockquote>
+      <p>
+        This boilerplate intentionally did not provide any
+        <code>CHANGELOG</code> file as example, since
+        <a href="https://github.com/skywinder/github-changelog-generator"
+          >this tool</a
+        >
+        could make it automatically, fulfilling the file’s objective. If you
+        still want to keep it handwritten, to keep you (and your project) sane,
+        I’d recommend you to follow the references below:
+      </p>
+    </blockquote>
+    <ul>
+      <li><a href="http://semver.org/">Semantic Versioning 2.0.0</a></li>
+      <li><a href="http://keepachangelog.com/">Keep a Changelog</a></li>
+    </ul>
+    <blockquote>
+      <p>
+        <code>ISSUE_TEMPLATE</code> and
+        <code>PULL_REQUEST_TEMPLATE</code> References
+      </p>
+    </blockquote>
+    <ul>
+      <li>
+        <a
+          href="https://help.github.com/articles/creating-an-issue-template-for-your-repository/"
+          >Creating an Issue Template for your repository</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/"
+          >Creating a Pull Request Template for your repository</a
+        >
+      </li>
+      <li>
+        <a href="https://github.com/devspace/awesome-github-templates"
+          >Awesome GitHub Templates</a
+        >
+      </li>
+    </ul>
+    <blockquote>
+      <p><code>CONTRIBUTORS</code> References</p>
+    </blockquote>
+    <ul>
+      <li>
+        <a href="https://github.com/kentcdodds/all-contributors/"
+          >All Contributors</a
+        >
+      </li>
+      <li>
+        <a href="https://github.com/jfmengels/all-contributors-cli"
+          >All Contributors (CLI)</a
+        >
+      </li>
+    </ul>
+    <h2 id="contributors">Contributors</h2>
+    <!-- Contributors START
 Cezar_Augusto cezaraugusto http://cezaraugusto.net doc example prReview
 Nathalia_Bruno nathaliabruno http://nathaliabruno.com doc prReview
 Billie_Thompson PurpleBooth http://purplebooth.co.uk example
 Contributors END -->
-<!-- Contributors table START -->
-<table>
-<colgroup>
-<col style="width: 37%" />
-<col style="width: 37%" />
-<col style="width: 24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;"><a href="http://cezaraugusto.net"><img src="https://avatars.githubusercontent.com/cezaraugusto?s=100" alt="Cezar Augusto" /><br /><sub>Cezar Augusto</sub></a><br /><a href="git@github.com:cezaraugusto/You-Dont-Know-JS/commits?author=cezaraugusto">📖</a> 💡 👀</th>
-<th style="text-align: center;"><a href="http://nathaliabruno.com"><img src="https://avatars.githubusercontent.com/nathaliabruno?s=100" alt="Nathalia Bruno" /><br /><sub>Nathalia Bruno</sub></a><br /><a href="git@github.com:cezaraugusto/You-Dont-Know-JS/commits?author=nathaliabruno">📖</a> 👀</th>
-<th style="text-align: center;"><a href="http://purplebooth.co.uk"><img src="https://avatars.githubusercontent.com/PurpleBooth?s=100" alt="Billie Thompson" /><br /><sub>Billie Thompson</sub></a><br />💡</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<!-- Contributors table END -->
-<p>This project follows the <a href="https://github.com/kentcdodds/all-contributors">all-contributors</a> specification. Contributions of any kind welcome!</p>
-<h2 id="license">License</h2>
-<p><a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" alt="CC0" /></a></p>
-<p>To the extent possible under law, <a href="http://cezaraugusto.net">Cezar Augusto</a> has waived all copyright and related or neighboring rights to this work.</p>
-</body>
+    <!-- Contributors table START -->
+    <table>
+      <colgroup>
+        <col style="width: 37%" />
+        <col style="width: 37%" />
+        <col style="width: 24%" />
+      </colgroup>
+      <thead>
+        <tr class="header">
+          <th style="text-align: center">
+            <a href="http://cezaraugusto.net"
+              ><img
+                src="https://avatars.githubusercontent.com/cezaraugusto?s=100"
+                alt="Cezar Augusto"
+              /><br /><sub>Cezar Augusto</sub></a
+            ><br /><a
+              href="git@github.com:cezaraugusto/You-Dont-Know-JS/commits?author=cezaraugusto"
+              >📖</a
+            >
+            💡 👀
+          </th>
+          <th style="text-align: center">
+            <a href="http://nathaliabruno.com"
+              ><img
+                src="https://avatars.githubusercontent.com/nathaliabruno?s=100"
+                alt="Nathalia Bruno"
+              /><br /><sub>Nathalia Bruno</sub></a
+            ><br /><a
+              href="git@github.com:cezaraugusto/You-Dont-Know-JS/commits?author=nathaliabruno"
+              >📖</a
+            >
+            👀
+          </th>
+          <th style="text-align: center">
+            <a href="http://purplebooth.co.uk"
+              ><img
+                src="https://avatars.githubusercontent.com/PurpleBooth?s=100"
+                alt="Billie Thompson"
+              /><br /><sub>Billie Thompson</sub></a
+            ><br />💡
+          </th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <!-- Contributors table END -->
+    <p>
+      This project follows the
+      <a href="https://github.com/kentcdodds/all-contributors"
+        >all-contributors</a
+      >
+      specification. Contributions of any kind welcome!
+    </p>
+    <h2 id="license">License</h2>
+    <p>
+      <a href="https://creativecommons.org/publicdomain/zero/1.0/"
+        ><img
+          src="https://i.creativecommons.org/p/zero/1.0/88x31.png"
+          alt="CC0"
+      /></a>
+    </p>
+    <p>
+      To the extent possible under law,
+      <a href="http://cezaraugusto.net">Cezar Augusto</a> has waived all
+      copyright and related or neighboring rights to this work.
+    </p>
+  </body>
 </html>

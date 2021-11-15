@@ -1,40 +1,77 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
-<head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>CODING_GUIDELINES</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
-  </style>
-</head>
-<body>
-<h1 id="coding-guidelines">Coding Guidelines</h1>
-<ul>
-<li>You can validate that your code complies with these guidelines by running <code>stuff/php-format.py validate</code></li>
-<li>Tabs, no spaces</li>
-<li>End of line should should be Unix style (<code>\n</code>), not Windows style (<code>\r\n</code>)</li>
-<li>Opening brackets goes in the same line as the last statement</li>
-</ul>
-<pre><code>    if (condition) {
+  <head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=yes"
+    />
+    <title>CODING_GUIDELINES</title>
+    <style type="text/css">
+      code {
+        white-space: pre-wrap;
+      }
+      span.smallcaps {
+        font-variant: small-caps;
+      }
+      span.underline {
+        text-decoration: underline;
+      }
+      div.column {
+        display: inline-block;
+        vertical-align: top;
+        width: 50%;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="coding-guidelines">Coding Guidelines</h1>
+    <ul>
+      <li>
+        You can validate that your code complies with these guidelines by
+        running <code>stuff/php-format.py validate</code>
+      </li>
+      <li>Tabs, no spaces</li>
+      <li>
+        End of line should should be Unix style (<code>\n</code>), not Windows
+        style (<code>\r\n</code>)
+      </li>
+      <li>Opening brackets goes in the same line as the last statement</li>
+    </ul>
+    <pre><code>    if (condition) {
         stuff;
     }</code></pre>
-<ul>
-<li>A space between keywords and parenthesis for: <code>if</code>, <code>else</code>, <code>while</code>, <code>switch</code>, <code>catch</code>, <code>function</code></li>
-<li>Function calls have no space before the parentheses</li>
-<li>No spaces are left inside the parentheses</li>
-<li>A space after each comma, but without space before</li>
-<li>All binary operators must have one space before and one after</li>
-<li>There should not be more than one contiguous blank line</li>
-<li>There should be no empty comments</li>
-<li>You should not use block comments <code>/ * ... * /</code>, only line <code>// ...</code></li>
-<li>Changes in functionality must be accompanied by their respective new / modified tests</li>
-<li>Exceptions must be used to report erroneous states. The use of functions that return true / false is allowed when they are expected values</li>
-<li>Use [RAII] (http://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization) when appropriate, mainly in the administration of resources (files, etc …)</li>
-</ul>
-</body>
+    <ul>
+      <li>
+        A space between keywords and parenthesis for: <code>if</code>,
+        <code>else</code>, <code>while</code>, <code>switch</code>,
+        <code>catch</code>, <code>function</code>
+      </li>
+      <li>Function calls have no space before the parentheses</li>
+      <li>No spaces are left inside the parentheses</li>
+      <li>A space after each comma, but without space before</li>
+      <li>All binary operators must have one space before and one after</li>
+      <li>There should not be more than one contiguous blank line</li>
+      <li>There should be no empty comments</li>
+      <li>
+        You should not use block comments <code>/ * ... * /</code>, only line
+        <code>// ...</code>
+      </li>
+      <li>
+        Changes in functionality must be accompanied by their respective new /
+        modified tests
+      </li>
+      <li>
+        Exceptions must be used to report erroneous states. The use of functions
+        that return true / false is allowed when they are expected values
+      </li>
+      <li>
+        Use [RAII]
+        (http://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization)
+        when appropriate, mainly in the administration of resources (files, etc
+        …)
+      </li>
+    </ul>
+  </body>
 </html>

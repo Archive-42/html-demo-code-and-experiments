@@ -1,47 +1,116 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
-<head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>CODEBASE_STRUCTURE</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
-  </style>
-</head>
-<body>
-<p>These are the directories that we are actively using in the development:</p>
-<ul>
-<li><a href="https://github.com/kylelobo/The-Documentation-Compendium/tree/master/frontend/server/controllers">frontend/server/controllers</a>: The controllers do the business logic and expose the server API.</li>
-<li><a href="https://github.com/The-Documentation-Compendium/tree/master/frontend/server/libs">frontend/server/libs</a>: Libraries and utilities.</li>
-<li><a href="https://github.com/The-Documentation-Compendium/tree/master/frontend/server/libs/dao">frontend/server/libs/dao</a>: Data Access Objects [DAO] and Value Objects [VO]. Classes used to represent database schemes and facilitate their use by the controllers.</li>
-<li><a href="https://github.com/The-Documentation-Compendium/tree/master/frontend/templates">frontend/templates</a>: Smarty templates used to generate the HTML that is displayed to users.</li>
-<li><a href="https://github.com/The-Documentation-Compendium/tree/master/frontend/www">frontend/www</a>: The complete contents of the Internet page.</li>
-</ul>
-<h3 id="frontend-www">frontend / www</h3>
-<p>Content:</p>
-<ul>
-<li>js /</li>
-<li>css /</li>
-</ul>
-<h4 id="js">js</h4>
-<p>As the name implies, here is where all the javascript fonts and javascript frameworks reside. When you want to make changes, please minify the javascript and then upload.</p>
-<h4 id="css">css</h4>
-<p>Similar to js, here are the minified css files.</p>
-<h3 id="frontend-server">frontend / server</h3>
-<p>Content:</p>
-<ul>
-<li>dao /</li>
-<li>controllers /</li>
-</ul>
-<p>None of these modules should be accessible to the outside world. The only one that can call them is the user interface. That’s why they’re under the www folder.</p>
-<h4 id="dao-vo">DAO / VO</h4>
-<p>The <em>dao</em> folder contains the classes for the data access layer. It has 2 things to know: <em>data access objects</em> and <em>value objects</em>. The <em>value objects</em> (VO) are nothing much but classes that are mapped directly to each of the tables in the database. Therefore, there is a class in there called Users, since there is a table with the same name. This class has its setters and getters for each of the fields in the database. The <em>data access objects</em> (dao) are static classes for each of the tables, and they serve to obtain and make the objects persistent <em>vo</em>.</p>
-<p><a href="http://www.ibm.com/developerworks/java/library/j-dao/">Here is more info about this model</a></p>
-<h4 id="controllers">Controllers</h4>
-<p>The controllers are where the decisions are made. The controller uses the dao’s and vo’s to make decisions, and never call the database directly. This way, we avoid having separate controllers for each module of the project.</p>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=yes"
+    />
+    <title>CODEBASE_STRUCTURE</title>
+    <style type="text/css">
+      code {
+        white-space: pre-wrap;
+      }
+      span.smallcaps {
+        font-variant: small-caps;
+      }
+      span.underline {
+        text-decoration: underline;
+      }
+      div.column {
+        display: inline-block;
+        vertical-align: top;
+        width: 50%;
+      }
+    </style>
+  </head>
+  <body>
+    <p>
+      These are the directories that we are actively using in the development:
+    </p>
+    <ul>
+      <li>
+        <a
+          href="https://github.com/kylelobo/The-Documentation-Compendium/tree/master/frontend/server/controllers"
+          >frontend/server/controllers</a
+        >: The controllers do the business logic and expose the server API.
+      </li>
+      <li>
+        <a
+          href="https://github.com/The-Documentation-Compendium/tree/master/frontend/server/libs"
+          >frontend/server/libs</a
+        >: Libraries and utilities.
+      </li>
+      <li>
+        <a
+          href="https://github.com/The-Documentation-Compendium/tree/master/frontend/server/libs/dao"
+          >frontend/server/libs/dao</a
+        >: Data Access Objects [DAO] and Value Objects [VO]. Classes used to
+        represent database schemes and facilitate their use by the controllers.
+      </li>
+      <li>
+        <a
+          href="https://github.com/The-Documentation-Compendium/tree/master/frontend/templates"
+          >frontend/templates</a
+        >: Smarty templates used to generate the HTML that is displayed to
+        users.
+      </li>
+      <li>
+        <a
+          href="https://github.com/The-Documentation-Compendium/tree/master/frontend/www"
+          >frontend/www</a
+        >: The complete contents of the Internet page.
+      </li>
+    </ul>
+    <h3 id="frontend-www">frontend / www</h3>
+    <p>Content:</p>
+    <ul>
+      <li>js /</li>
+      <li>css /</li>
+    </ul>
+    <h4 id="js">js</h4>
+    <p>
+      As the name implies, here is where all the javascript fonts and javascript
+      frameworks reside. When you want to make changes, please minify the
+      javascript and then upload.
+    </p>
+    <h4 id="css">css</h4>
+    <p>Similar to js, here are the minified css files.</p>
+    <h3 id="frontend-server">frontend / server</h3>
+    <p>Content:</p>
+    <ul>
+      <li>dao /</li>
+      <li>controllers /</li>
+    </ul>
+    <p>
+      None of these modules should be accessible to the outside world. The only
+      one that can call them is the user interface. That’s why they’re under the
+      www folder.
+    </p>
+    <h4 id="dao-vo">DAO / VO</h4>
+    <p>
+      The <em>dao</em> folder contains the classes for the data access layer. It
+      has 2 things to know: <em>data access objects</em> and
+      <em>value objects</em>. The <em>value objects</em> (VO) are nothing much
+      but classes that are mapped directly to each of the tables in the
+      database. Therefore, there is a class in there called Users, since there
+      is a table with the same name. This class has its setters and getters for
+      each of the fields in the database. The <em>data access objects</em> (dao)
+      are static classes for each of the tables, and they serve to obtain and
+      make the objects persistent <em>vo</em>.
+    </p>
+    <p>
+      <a href="http://www.ibm.com/developerworks/java/library/j-dao/"
+        >Here is more info about this model</a
+      >
+    </p>
+    <h4 id="controllers">Controllers</h4>
+    <p>
+      The controllers are where the decisions are made. The controller uses the
+      dao’s and vo’s to make decisions, and never call the database directly.
+      This way, we avoid having separate controllers for each module of the
+      project.
+    </p>
+  </body>
 </html>
