@@ -201,8 +201,8 @@ let promise = new Promise(resolve => {
   setTimeout(() => resolve("done!"), 1000);
 });
 
-_promise.then(alert); // shows "done!" after 1 second_`
-
+_promise.then(alert); // shows "done!" after 1 second
+```
 ### [catch](https://javascript.info/promise-basics#catch)
 
 If we’re interested only in errors, then we can use `null` as the first argument: `.then(null, errorHandlingFunction)`. Or we can use `.catch(errorHandlingFunction)`, which is exactly the same:
@@ -583,7 +583,10 @@ let promise = new Promise(resolve => {
   setTimeout(() => resolve("done!"), 1000);
 });
 
-_promise.then(alert); // shows "done!" after 1 second_`
+_promise.then(alert); // shows "done!" after 1 second
+
+```
+
 
 ### [catch](https://javascript.info/promise-basics#catch)
 
@@ -597,8 +600,11 @@ let promise = new Promise((resolve, reject) => {
   setTimeout(() => reject(new Error("Whoops!")), 1000);
 });
 
-_// .catch(f) is the same as promise.then(null, f)
-promise.catch(alert); // shows "Error: Whoops!" after 1 second_`
+// .catch(f) is the same as promise.then(null, f)
+promise.catch(alert); // shows "Error: Whoops!" after 1 second
+
+```
+
 
 The call `.catch(f)` is a complete analog of `.then(null, f)`, it’s just a shorthand.
 
@@ -719,7 +725,7 @@ function loadScript(src) {
   });
 }
 
-```js
+```
 
 
 
