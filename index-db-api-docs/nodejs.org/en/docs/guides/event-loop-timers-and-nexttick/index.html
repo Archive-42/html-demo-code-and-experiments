@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>The Node.js Event Loop, Timers, and process.nextTick() | Node.js</title>
+
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+  <link rel="dns-prefetch" href="https://api.github.com">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600&display=fallback">
+  <link rel="stylesheet" href="/static/css/styles.css">
+
+  <meta name="author" content="Node.js">
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.">
+
+  <link rel="apple-touch-icon" href="/static/images/favicons/apple-touch-icon.png" sizes="180x180">
+  <link rel="icon" href="/static/images/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="/static/images/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+  <link rel="manifest" href="/static/images/favicons/manifest.json">
+  <link rel="mask-icon" href="/static/images/favicons/safari-pinned-tab.svg" color="#43853d">
+  <link rel="shortcut icon" href="/static/images/favicons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#333333">
+  <meta name="msapplication-config" content="/static/images/favicons/browserconfig.xml">
+  <meta name="theme-color" content="#333333">
+
+  <meta property="og:site_name" content="Node.js">
+  <meta property="og:title" content="The Node.js Event Loop, Timers, and process.nextTick() | Node.js">
+  <meta property="og:image" content="https://nodejs.org/static/images/logo-hexagon-card.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="224">
+  <meta property="og:image:height" content="256">
+  <meta property="og:description" content="Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@nodejs">
+  <meta name="twitter:title" content="The Node.js Event Loop, Timers, and process.nextTick() | Node.js">
+  <meta name="twitter:image" content="https://nodejs.org/static/images/logo-hexagon-card.png">
+  <meta name="twitter:image:alt" content="The Node.js Hexagon Logo">
+
+  <link rel="canonical" href="https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/">
+  <link rel="alternate" href="/en/feed/blog.xml" title="Node.js Blog" type="application/rss+xml">
+  <link rel="alternate" href="/en/feed/releases.xml" title="Node.js Blog: Releases" type="application/rss+xml">
+  <link rel="alternate" href="/en/feed/vulnerability.xml" title="Node.js Blog: Vulnerability Reports" type="application/rss+xml">
+
+  <script src="/static/js/themeSwitcher.js"></script>
+</head>
+
+<body>
+  <header>
+    <div class="container">
+  
+      <a href="/en/" id="logo">
+        <img src="/static/images/logo.svg" alt="Node.js" width="122" height="75">
+      </a>
+  
+      <nav aria-label="primary">
+        <ul class="list-divider-pipe">
+          <li >
+            <a href="/en/">Home</a>
+          </li>
+  
+            <li >
+                <a href="/en/about/">About</a>
+            </li>
+            <li >
+                <a href="/en/download/">Downloads</a>
+            </li>
+            <li class="active">
+                <a href="/en/docs/">Docs</a>
+            </li>
+            <li >
+                <a href="/en/get-involved/">Get Involved</a>
+            </li>
+            <li >
+                <a href="/en/security/">Security</a>
+            </li>
+            <li >
+                <a href="https://openjsf.org/certification">Certification</a>
+            </li>
+            <li >
+                <a href="/en/blog/">News</a>
+            </li>
+        </ul>
+      </nav>
+  
+      <button class="dark-theme-switcher" type="button" title="Toggle dark/light mode" aria-label="Toggle dark/light mode"></button>
+  
+      <button class="lang-picker-toggler" type="button" aria-controls="lang-picker" aria-expanded="false">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="25" height="25" aria-hidden="true" focusable="false" fill="currentColor">
+          <path d="M217.982 201.586h-64.499c-5.537 0-10.026 4.489-10.026 10.026s4.489 10.026 10.026 10.026h53.547c-4.72 25.263-26.935 44.446-53.547 44.446-30.037 0-54.473-24.436-54.473-54.473s24.436-54.473 54.473-54.473c14.55 0 28.229 5.667 38.518 15.955 3.916 3.916 10.264 3.916 14.178 0 3.916-3.916 3.916-10.264 0-14.178-14.077-14.077-32.791-21.829-52.697-21.829-41.094 0-74.525 33.431-74.525 74.525 0 41.094 33.431 74.525 74.525 74.525s74.525-33.431 74.525-74.525c.001-5.536-4.488-10.025-10.025-10.025z"/>
+          <path d="M470.331 92.24H269.728l-26.935-81.355a10.025 10.025 0 00-9.518-6.875H41.669C18.693 4.01 0 22.703 0 45.679v332.412c0 22.976 18.693 41.669 41.669 41.669h203.145l27.073 81.369a10.026 10.026 0 009.513 6.861h188.932c22.976 0 41.669-18.693 41.669-41.669V133.909c-.001-22.976-18.694-41.669-41.67-41.669zM41.669 399.708c-11.919 0-21.616-9.697-21.616-21.616V45.679c0-11.919 9.697-21.616 21.616-21.616h184.364l70.691 213.516a.366.366 0 00.015.043l53.664 162.086H41.669zm295.78-116.433c.805 1.11 10.824 14.877 26.355 34.066-4.377 5.756-9.015 11.474-13.91 17.036l-29.712-89.74h87.441c-6.196 13.031-16.938 33.813-31.692 55.736-13.553-16.921-22.069-28.622-22.249-28.87-3.251-4.482-9.519-5.481-14.002-2.23-4.482 3.25-5.48 9.518-2.231 14.002zM265.946 419.76h75.162l-55.503 59.084-19.659-59.084zm226.002 46.561c0 11.919-9.697 21.616-21.616 21.616H304.575l67.015-71.339-.004-.003c.293-.312.571-.64.823-.991a10.025 10.025 0 001.39-9.022l-16.688-50.402c7.073-7.406 13.68-15.143 19.805-22.965 13.299 15.772 29.037 33.446 45.778 50.187 1.957 1.957 4.524 2.937 7.089 2.937s5.132-.979 7.089-2.937c3.916-3.916 3.916-10.264 0-14.178-17.461-17.461-34.013-36.244-47.687-52.632 21.251-30.503 35.033-59.504 40.535-71.954h21.454c5.537 0 10.026-4.489 10.026-10.026s-4.489-10.026-10.026-10.026h-66.173v-18.047c0-5.537-4.489-10.026-10.026-10.026s-10.026 4.489-10.026 10.026v18.046h-51.406l-37.178-112.292H470.33c11.919 0 21.616 9.697 21.616 21.616v332.412z"/>
+        </svg>
+        <span class="sr-only">Toggle Language</span>
+      </button>
+  
+      <ul id="lang-picker" class="lang-picker hidden">
+          <li>
+            <button data-lang="ar" title="Arabic">العربية</button>
+          </li>
+          <li>
+            <button data-lang="ca" title="Catalan">Catalan</button>
+          </li>
+          <li>
+            <button data-lang="de" title="German">Deutsch</button>
+          </li>
+          <li>
+            <button data-lang="en" title="English">English</button>
+          </li>
+          <li>
+            <button data-lang="es" title="Spanish">Español</button>
+          </li>
+          <li>
+            <button data-lang="fa" title="Persian">زبان فارسی</button>
+          </li>
+          <li>
+            <button data-lang="fr" title="French">Français</button>
+          </li>
+          <li>
+            <button data-lang="gl" title="Galician">Galego</button>
+          </li>
+          <li>
+            <button data-lang="it" title="Italian">Italiano</button>
+          </li>
+          <li>
+            <button data-lang="ja" title="Japanese">日本語</button>
+          </li>
+          <li>
+            <button data-lang="ko" title="Korean">한국어</button>
+          </li>
+          <li>
+            <button data-lang="pt-br" title="Portuguese, Brazilian">Português do Brasil</button>
+          </li>
+          <li>
+            <button data-lang="ro" title="Romanian">limba română</button>
+          </li>
+          <li>
+            <button data-lang="ru" title="Russian">Русский</button>
+          </li>
+          <li>
+            <button data-lang="tr" title="Turkish">Türkçe</button>
+          </li>
+          <li>
+            <button data-lang="uk" title="Ukrainian">Українська</button>
+          </li>
+          <li>
+            <button data-lang="zh-cn" title="Simplified Chinese">简体中文</button>
+          </li>
+          <li>
+            <button data-lang="zh-tw" title="Traditional Chinese">繁體中文</button>
+          </li>
+      </ul>
+  
+    </div>
+  </header>
+
+  <main id="main">
+    <div class="container has-side-nav">
+
+      <nav aria-label="secondary">
+        <ul>
+                <li >
+                      <a href="/en/docs/">Docs</a>
+                </li>
+                <li >
+                      <a href="/en/docs/es6/">ES6 and beyond</a>
+                </li>
+                <li >
+                      <a href="https://nodejs.org/dist/latest-v16.x/docs/api/">v16.13.0 API <span class="small color-lightgray">LTS</span></a>
+                </li>
+                <li >
+                      <a href="https://nodejs.org/dist/latest-v17.x/docs/api/">v17.1.0 API</a>
+                </li>
+                <li >
+                      <a href="/en/docs/guides/">Guides</a>
+                </li>
+                <li >
+                      <a href="/en/docs/meta/topics/dependencies/">Dependencies</a>
+                </li>
+        </ul>
+      </nav>
+
+      <article>
+        <h1 id="header-the-node-js-event-loop-timers-and-process-nexttick">The Node.js Event Loop, Timers, and <code>process.nextTick()</code><a id="the-node-js-event-loop-timers-and-process-nexttick" class="anchor" href="#the-node-js-event-loop-timers-and-process-nexttick" aria-labelledby="header-the-node-js-event-loop-timers-and-process-nexttick"></a></h1><h2 id="header-what-is-the-event-loop">What is the Event Loop?<a id="what-is-the-event-loop" class="anchor" href="#what-is-the-event-loop" aria-labelledby="header-what-is-the-event-loop"></a></h2><p>The event loop is what allows Node.js to perform non-blocking I/O
+operations &#x2014; despite the fact that JavaScript is single-threaded &#x2014; by
+offloading operations to the system kernel whenever possible.</p>
+<p>Since most modern kernels are multi-threaded, they can handle multiple
+operations executing in the background. When one of these operations
+completes, the kernel tells Node.js so that the appropriate callback
+may be added to the <strong>poll</strong> queue to eventually be executed. We&apos;ll explain
+this in further detail later in this topic.</p>
+<h2 id="header-event-loop-explained">Event Loop Explained<a id="event-loop-explained" class="anchor" href="#event-loop-explained" aria-labelledby="header-event-loop-explained"></a></h2><p>When Node.js starts, it initializes the event loop, processes the
+provided input script (or drops into the <a href="https://nodejs.org/api/repl.html#repl_repl">REPL</a>, which is not covered in
+this document) which may make async API calls, schedule timers, or call
+<code>process.nextTick()</code>, then begins processing the event loop.</p>
+<p>The following diagram shows a simplified overview of the event loop&apos;s
+order of operations.</p>
+<pre><code>   &#x250C;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2510;
+&#x250C;&#x2500;&gt;&#x2502;           timers          &#x2502;
+&#x2502;  &#x2514;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x252C;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2518;
+&#x2502;  &#x250C;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2534;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2510;
+&#x2502;  &#x2502;     pending callbacks     &#x2502;
+&#x2502;  &#x2514;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x252C;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2518;
+&#x2502;  &#x250C;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2534;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2510;
+&#x2502;  &#x2502;       idle, prepare       &#x2502;
+&#x2502;  &#x2514;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x252C;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2518;      &#x250C;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2510;
+&#x2502;  &#x250C;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2534;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2510;      &#x2502;   incoming:   &#x2502;
+&#x2502;  &#x2502;           poll            &#x2502;&lt;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2524;  connections, &#x2502;
+&#x2502;  &#x2514;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x252C;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2518;      &#x2502;   data, etc.  &#x2502;
+&#x2502;  &#x250C;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2534;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2510;      &#x2514;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2518;
+&#x2502;  &#x2502;           check           &#x2502;
+&#x2502;  &#x2514;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x252C;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2518;
+&#x2502;  &#x250C;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2534;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2510;
+&#x2514;&#x2500;&#x2500;&#x2524;      close callbacks      &#x2502;
+   &#x2514;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2518;
+</code></pre>
+<blockquote>
+<p>Each box will be referred to as a &quot;phase&quot; of the event loop.</p>
+</blockquote>
+<p>Each phase has a FIFO queue of callbacks to execute. While each phase is
+special in its own way, generally, when the event loop enters a given
+phase, it will perform any operations specific to that phase, then
+execute callbacks in that phase&apos;s queue until the queue has been
+exhausted or the maximum number of callbacks has executed. When the
+queue has been exhausted or the callback limit is reached, the event
+loop will move to the next phase, and so on.</p>
+<p>Since any of these operations may schedule <em>more</em> operations and new
+events processed in the <strong>poll</strong> phase are queued by the kernel, poll
+events can be queued while polling events are being processed. As a
+result, long running callbacks can allow the poll phase to run much
+longer than a timer&apos;s threshold. See the <a href="#timers"><strong>timers</strong></a> and
+<a href="#poll"><strong>poll</strong></a> sections for more details.</p>
+<blockquote>
+<p>There is a slight discrepancy between the Windows and the
+Unix/Linux implementation, but that&apos;s not important for this
+demonstration. The most important parts are here. There are actually
+seven or eight steps, but the ones we care about &#x2014; ones that Node.js
+actually uses - are those above.</p>
+</blockquote>
+<h2 id="header-phases-overview">Phases Overview<a id="phases-overview" class="anchor" href="#phases-overview" aria-labelledby="header-phases-overview"></a></h2><ul>
+<li><strong>timers</strong>: this phase executes callbacks scheduled by <code>setTimeout()</code>
+and <code>setInterval()</code>.</li>
+<li><strong>pending callbacks</strong>: executes I/O callbacks deferred to the next loop
+iteration.</li>
+<li><strong>idle, prepare</strong>: only used internally.</li>
+<li><strong>poll</strong>: retrieve new I/O events; execute I/O related callbacks (almost
+all with the exception of close callbacks, the ones scheduled by timers,
+and <code>setImmediate()</code>); node will block here when appropriate.</li>
+<li><strong>check</strong>: <code>setImmediate()</code> callbacks are invoked here.</li>
+<li><strong>close callbacks</strong>: some close callbacks, e.g. <code>socket.on(&apos;close&apos;, ...)</code>.</li>
+</ul>
+<p>Between each run of the event loop, Node.js checks if it is waiting for
+any asynchronous I/O or timers and shuts down cleanly if there are not
+any.</p>
+<h2 id="header-phases-in-detail">Phases in Detail<a id="phases-in-detail" class="anchor" href="#phases-in-detail" aria-labelledby="header-phases-in-detail"></a></h2><h3 id="header-timers">timers<a id="timers" class="anchor" href="#timers" aria-labelledby="header-timers"></a></h3><p>A timer specifies the <strong>threshold</strong> <em>after which</em> a provided callback
+<em>may be executed</em> rather than the <strong>exact</strong> time a person <em>wants it to
+be executed</em>. Timers callbacks will run as early as they can be
+scheduled after the specified amount of time has passed; however,
+Operating System scheduling or the running of other callbacks may delay
+them.</p>
+<blockquote>
+<p>Technically, the <a href="#poll"><strong>poll</strong> phase</a> controls when timers are executed.</p>
+</blockquote>
+<p>For example, say you schedule a timeout to execute after a 100 ms
+threshold, then your script starts asynchronously reading a file which
+takes 95 ms:</p>
+<pre class="language-js"><code class="language-js"><span class="token keyword">const</span> fs <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">&apos;fs&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token keyword">function</span> <span class="token function">someAsyncOperation</span><span class="token punctuation">(</span><span class="token parameter">callback</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  <span class="token comment">// Assume this takes 95ms to complete</span>
+  fs<span class="token punctuation">.</span><span class="token function">readFile</span><span class="token punctuation">(</span><span class="token string">&apos;/path/to/file&apos;</span><span class="token punctuation">,</span> callback<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">const</span> timeoutScheduled <span class="token operator">=</span> Date<span class="token punctuation">.</span><span class="token function">now</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token function">setTimeout</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+  <span class="token keyword">const</span> delay <span class="token operator">=</span> Date<span class="token punctuation">.</span><span class="token function">now</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-</span> timeoutScheduled<span class="token punctuation">;</span>
+
+  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>delay<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">ms have passed since I was scheduled</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span><span class="token punctuation">,</span> <span class="token number">100</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token comment">// do someAsyncOperation which takes 95 ms to complete</span>
+<span class="token function">someAsyncOperation</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+  <span class="token keyword">const</span> startCallback <span class="token operator">=</span> Date<span class="token punctuation">.</span><span class="token function">now</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+  <span class="token comment">// do something that will take 10ms...</span>
+  <span class="token keyword">while</span> <span class="token punctuation">(</span>Date<span class="token punctuation">.</span><span class="token function">now</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-</span> startCallback <span class="token operator">&lt;</span> <span class="token number">10</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token comment">// do nothing</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>
+<p>When the event loop enters the <strong>poll</strong> phase, it has an empty queue
+(<code>fs.readFile()</code> has not completed), so it will wait for the number of ms
+remaining until the soonest timer&apos;s threshold is reached. While it is
+waiting 95 ms pass, <code>fs.readFile()</code> finishes reading the file and its
+callback which takes 10 ms to complete is added to the <strong>poll</strong> queue and
+executed. When the callback finishes, there are no more callbacks in the
+queue, so the event loop will see that the threshold of the soonest
+timer has been reached then wrap back to the <strong>timers</strong> phase to execute
+the timer&apos;s callback. In this example, you will see that the total delay
+between the timer being scheduled and its callback being executed will
+be 105ms.</p>
+<blockquote>
+<p>To prevent the <strong>poll</strong> phase from starving the event loop, <a href="https://libuv.org/">libuv</a>
+(the C library that implements the Node.js
+event loop and all of the asynchronous behaviors of the platform)
+also has a hard maximum (system dependent) before it stops polling for
+more events.</p>
+</blockquote>
+<h3 id="header-pending-callbacks">pending callbacks<a id="pending-callbacks" class="anchor" href="#pending-callbacks" aria-labelledby="header-pending-callbacks"></a></h3><p>This phase executes callbacks for some system operations such as types
+of TCP errors. For example if a TCP socket receives <code>ECONNREFUSED</code> when
+attempting to connect, some *nix systems want to wait to report the
+error. This will be queued to execute in the <strong>pending callbacks</strong> phase.</p>
+<h3 id="header-poll">poll<a id="poll" class="anchor" href="#poll" aria-labelledby="header-poll"></a></h3><p>The <strong>poll</strong> phase has two main functions:</p>
+<ol>
+<li>Calculating how long it should block and poll for I/O, then</li>
+<li>Processing events in the <strong>poll</strong> queue.</li>
+</ol>
+<p>When the event loop enters the <strong>poll</strong> phase <em>and there are no timers
+scheduled</em>, one of two things will happen:</p>
+<ul>
+<li><p><em>If the <strong>poll</strong> queue <strong>is not empty</strong></em>, the event loop will iterate
+through its queue of callbacks executing them synchronously until
+either the queue has been exhausted, or the system-dependent hard limit
+is reached.</p>
+</li>
+<li><p><em>If the <strong>poll</strong> queue <strong>is empty</strong></em>, one of two more things will
+happen:</p>
+<ul>
+<li><p>If scripts have been scheduled by <code>setImmediate()</code>, the event loop
+will end the <strong>poll</strong> phase and continue to the <strong>check</strong> phase to
+execute those scheduled scripts.</p>
+</li>
+<li><p>If scripts <strong>have not</strong> been scheduled by <code>setImmediate()</code>, the
+event loop will wait for callbacks to be added to the queue, then
+execute them immediately.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>Once the <strong>poll</strong> queue is empty the event loop will check for timers
+<em>whose time thresholds have been reached</em>. If one or more timers are
+ready, the event loop will wrap back to the <strong>timers</strong> phase to execute
+those timers&apos; callbacks.</p>
+<h3 id="header-check">check<a id="check" class="anchor" href="#check" aria-labelledby="header-check"></a></h3><p>This phase allows a person to execute callbacks immediately after the
+<strong>poll</strong> phase has completed. If the <strong>poll</strong> phase becomes idle and
+scripts have been queued with <code>setImmediate()</code>, the event loop may
+continue to the <strong>check</strong> phase rather than waiting.</p>
+<p><code>setImmediate()</code> is actually a special timer that runs in a separate
+phase of the event loop. It uses a libuv API that schedules callbacks to
+execute after the <strong>poll</strong> phase has completed.</p>
+<p>Generally, as the code is executed, the event loop will eventually hit
+the <strong>poll</strong> phase where it will wait for an incoming connection, request,
+etc. However, if a callback has been scheduled with <code>setImmediate()</code>
+and the <strong>poll</strong> phase becomes idle, it will end and continue to the
+<strong>check</strong> phase rather than waiting for <strong>poll</strong> events.</p>
+<h3 id="header-close-callbacks">close callbacks<a id="close-callbacks" class="anchor" href="#close-callbacks" aria-labelledby="header-close-callbacks"></a></h3><p>If a socket or handle is closed abruptly (e.g. <code>socket.destroy()</code>), the
+<code>&apos;close&apos;</code> event will be emitted in this phase. Otherwise it will be
+emitted via <code>process.nextTick()</code>.</p>
+<h2 id="header-setimmediate-vs-settimeout"><code>setImmediate()</code> vs <code>setTimeout()</code><a id="setimmediate-vs-settimeout" class="anchor" href="#setimmediate-vs-settimeout" aria-labelledby="header-setimmediate-vs-settimeout"></a></h2><p><code>setImmediate()</code> and <code>setTimeout()</code> are similar, but behave in different
+ways depending on when they are called.</p>
+<ul>
+<li><code>setImmediate()</code> is designed to execute a script once the
+current <strong>poll</strong> phase completes.</li>
+<li><code>setTimeout()</code> schedules a script to be run after a minimum threshold
+in ms has elapsed.</li>
+</ul>
+<p>The order in which the timers are executed will vary depending on the
+context in which they are called. If both are called from within the
+main module, then timing will be bound by the performance of the process
+(which can be impacted by other applications running on the machine).</p>
+<p>For example, if we run the following script which is not within an I/O
+cycle (i.e. the main module), the order in which the two timers are
+executed is non-deterministic, as it is bound by the performance of the
+process:</p>
+<pre class="language-js"><code class="language-js"><span class="token comment">// timeout_vs_immediate.js</span>
+<span class="token function">setTimeout</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">&apos;timeout&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token function">setImmediate</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">&apos;immediate&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>
+<pre><code>$ node timeout_vs_immediate.js
+timeout
+immediate
+
+$ node timeout_vs_immediate.js
+immediate
+timeout
+</code></pre>
+<p>However, if you move the two calls within an I/O cycle, the immediate
+callback is always executed first:</p>
+<pre class="language-js"><code class="language-js"><span class="token comment">// timeout_vs_immediate.js</span>
+<span class="token keyword">const</span> fs <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">&apos;fs&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+fs<span class="token punctuation">.</span><span class="token function">readFile</span><span class="token punctuation">(</span>__filename<span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+  <span class="token function">setTimeout</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">&apos;timeout&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token function">setImmediate</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">&apos;immediate&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>
+<pre><code>$ node timeout_vs_immediate.js
+immediate
+timeout
+
+$ node timeout_vs_immediate.js
+immediate
+timeout
+</code></pre>
+<p>The main advantage to using <code>setImmediate()</code> over <code>setTimeout()</code> is
+<code>setImmediate()</code> will always be executed before any timers if scheduled
+within an I/O cycle, independently of how many timers are present.</p>
+<h2 id="header-process-nexttick"><code>process.nextTick()</code><a id="process-nexttick" class="anchor" href="#process-nexttick" aria-labelledby="header-process-nexttick"></a></h2><h3 id="header-understanding-process-nexttick">Understanding <code>process.nextTick()</code><a id="understanding-process-nexttick" class="anchor" href="#understanding-process-nexttick" aria-labelledby="header-understanding-process-nexttick"></a></h3><p>You may have noticed that <code>process.nextTick()</code> was not displayed in the
+diagram, even though it&apos;s a part of the asynchronous API. This is because
+<code>process.nextTick()</code> is not technically part of the event loop. Instead,
+the <code>nextTickQueue</code> will be processed after the current operation is
+completed, regardless of the current phase of the event loop. Here,
+an <em>operation</em> is defined as a transition from the
+underlying C/C++ handler, and handling the JavaScript that needs to be
+executed.</p>
+<p>Looking back at our diagram, any time you call <code>process.nextTick()</code> in a
+given phase, all callbacks passed to <code>process.nextTick()</code> will be
+resolved before the event loop continues. This can create some bad
+situations because <strong>it allows you to &quot;starve&quot; your I/O by making
+recursive <code>process.nextTick()</code> calls</strong>, which prevents the event loop
+from reaching the <strong>poll</strong> phase.</p>
+<h3 id="header-why-would-that-be-allowed">Why would that be allowed?<a id="why-would-that-be-allowed" class="anchor" href="#why-would-that-be-allowed" aria-labelledby="header-why-would-that-be-allowed"></a></h3><p>Why would something like this be included in Node.js? Part of it is a
+design philosophy where an API should always be asynchronous even where
+it doesn&apos;t have to be. Take this code snippet for example:</p>
+<pre class="language-js"><code class="language-js"><span class="token keyword">function</span> <span class="token function">apiCall</span><span class="token punctuation">(</span><span class="token parameter">arg<span class="token punctuation">,</span> callback</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  <span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token keyword">typeof</span> arg <span class="token operator">!==</span> <span class="token string">&apos;string&apos;</span><span class="token punctuation">)</span>
+    <span class="token keyword">return</span> process<span class="token punctuation">.</span><span class="token function">nextTick</span><span class="token punctuation">(</span>callback<span class="token punctuation">,</span>
+                            <span class="token keyword">new</span> <span class="token class-name">TypeError</span><span class="token punctuation">(</span><span class="token string">&apos;argument should be string&apos;</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre>
+<p>The snippet does an argument check and if it&apos;s not correct, it will pass
+the error to the callback. The API updated fairly recently to allow
+passing arguments to <code>process.nextTick()</code> allowing it to take any
+arguments passed after the callback to be propagated as the arguments to
+the callback so you don&apos;t have to nest functions.</p>
+<p>What we&apos;re doing is passing an error back to the user but only <em>after</em>
+we have allowed the rest of the user&apos;s code to execute. By using
+<code>process.nextTick()</code> we guarantee that <code>apiCall()</code> always runs its
+callback <em>after</em> the rest of the user&apos;s code and <em>before</em> the event loop
+is allowed to proceed. To achieve this, the JS call stack is allowed to
+unwind then immediately execute the provided callback which allows a
+person to make recursive calls to <code>process.nextTick()</code> without reaching a
+<code>RangeError: Maximum call stack size exceeded from v8</code>.</p>
+<p>This philosophy can lead to some potentially problematic situations.
+Take this snippet for example:</p>
+<pre class="language-js"><code class="language-js"><span class="token keyword">let</span> bar<span class="token punctuation">;</span>
+
+<span class="token comment">// this has an asynchronous signature, but calls callback synchronously</span>
+<span class="token keyword">function</span> <span class="token function">someAsyncApiCall</span><span class="token punctuation">(</span><span class="token parameter">callback</span><span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token function">callback</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token punctuation">}</span>
+
+<span class="token comment">// the callback is called before `someAsyncApiCall` completes.</span>
+<span class="token function">someAsyncApiCall</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+  <span class="token comment">// since someAsyncApiCall hasn&apos;t completed, bar hasn&apos;t been assigned any value</span>
+  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">&apos;bar&apos;</span><span class="token punctuation">,</span> bar<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// undefined</span>
+<span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+bar <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+</code></pre>
+<p>The user defines <code>someAsyncApiCall()</code> to have an asynchronous signature,
+but it actually operates synchronously. When it is called, the callback
+provided to <code>someAsyncApiCall()</code> is called in the same phase of the
+event loop because <code>someAsyncApiCall()</code> doesn&apos;t actually do anything
+asynchronously. As a result, the callback tries to reference <code>bar</code> even
+though it may not have that variable in scope yet, because the script has not
+been able to run to completion.</p>
+<p>By placing the callback in a <code>process.nextTick()</code>, the script still has the
+ability to run to completion, allowing all the variables, functions,
+etc., to be initialized prior to the callback being called. It also has
+the advantage of not allowing the event loop to continue. It may be
+useful for the user to be alerted to an error before the event loop is
+allowed to continue. Here is the previous example using <code>process.nextTick()</code>:</p>
+<pre class="language-js"><code class="language-js"><span class="token keyword">let</span> bar<span class="token punctuation">;</span>
+
+<span class="token keyword">function</span> <span class="token function">someAsyncApiCall</span><span class="token punctuation">(</span><span class="token parameter">callback</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  process<span class="token punctuation">.</span><span class="token function">nextTick</span><span class="token punctuation">(</span>callback<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token function">someAsyncApiCall</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">&apos;bar&apos;</span><span class="token punctuation">,</span> bar<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 1</span>
+<span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+bar <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+</code></pre>
+<p>Here&apos;s another real world example:</p>
+<pre class="language-js"><code class="language-js"><span class="token keyword">const</span> server <span class="token operator">=</span> net<span class="token punctuation">.</span><span class="token function">createServer</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">listen</span><span class="token punctuation">(</span><span class="token number">8080</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+server<span class="token punctuation">.</span><span class="token function">on</span><span class="token punctuation">(</span><span class="token string">&apos;listening&apos;</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>
+<p>When only a port is passed, the port is bound immediately. So, the
+<code>&apos;listening&apos;</code> callback could be called immediately. The problem is that the
+<code>.on(&apos;listening&apos;)</code> callback will not have been set by that time.</p>
+<p>To get around this, the <code>&apos;listening&apos;</code> event is queued in a <code>nextTick()</code>
+to allow the script to run to completion. This allows the user to set
+any event handlers they want.</p>
+<h2 id="header-process-nexttick-vs-setimmediate"><code>process.nextTick()</code> vs <code>setImmediate()</code><a id="process-nexttick-vs-setimmediate" class="anchor" href="#process-nexttick-vs-setimmediate" aria-labelledby="header-process-nexttick-vs-setimmediate"></a></h2><p>We have two calls that are similar as far as users are concerned, but
+their names are confusing.</p>
+<ul>
+<li><code>process.nextTick()</code> fires immediately on the same phase</li>
+<li><code>setImmediate()</code> fires on the following iteration or &apos;tick&apos; of the
+event loop</li>
+</ul>
+<p>In essence, the names should be swapped. <code>process.nextTick()</code> fires more
+immediately than <code>setImmediate()</code>, but this is an artifact of the past
+which is unlikely to change. Making this switch would break a large
+percentage of the packages on npm. Every day more new modules are being
+added, which means every day we wait, more potential breakages occur.
+While they are confusing, the names themselves won&apos;t change.</p>
+<blockquote>
+<p>We recommend developers use <code>setImmediate()</code> in all cases because it&apos;s
+easier to reason about.</p>
+</blockquote>
+<h2 id="header-why-use-process-nexttick">Why use <code>process.nextTick()</code>?<a id="why-use-process-nexttick" class="anchor" href="#why-use-process-nexttick" aria-labelledby="header-why-use-process-nexttick"></a></h2><p>There are two main reasons:</p>
+<ol>
+<li><p>Allow users to handle errors, cleanup any then unneeded resources, or
+perhaps try the request again before the event loop continues.</p>
+</li>
+<li><p>At times it&apos;s necessary to allow a callback to run after the call
+stack has unwound but before the event loop continues.</p>
+</li>
+</ol>
+<p>One example is to match the user&apos;s expectations. Simple example:</p>
+<pre class="language-js"><code class="language-js"><span class="token keyword">const</span> server <span class="token operator">=</span> net<span class="token punctuation">.</span><span class="token function">createServer</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+server<span class="token punctuation">.</span><span class="token function">on</span><span class="token punctuation">(</span><span class="token string">&apos;connection&apos;</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token parameter">conn</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+server<span class="token punctuation">.</span><span class="token function">listen</span><span class="token punctuation">(</span><span class="token number">8080</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+server<span class="token punctuation">.</span><span class="token function">on</span><span class="token punctuation">(</span><span class="token string">&apos;listening&apos;</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>
+<p>Say that <code>listen()</code> is run at the beginning of the event loop, but the
+listening callback is placed in a <code>setImmediate()</code>. Unless a
+hostname is passed, binding to the port will happen immediately. For
+the event loop to proceed, it must hit the <strong>poll</strong> phase, which means
+there is a non-zero chance that a connection could have been received
+allowing the connection event to be fired before the listening event.</p>
+<p>Another example is running a function constructor that was to, say,
+inherit from <code>EventEmitter</code> and it wanted to call an event within the
+constructor:</p>
+<pre class="language-js"><code class="language-js"><span class="token keyword">const</span> EventEmitter <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">&apos;events&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">const</span> util <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">&apos;util&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token keyword">function</span> <span class="token function">MyEmitter</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  <span class="token function">EventEmitter</span><span class="token punctuation">.</span><span class="token function">call</span><span class="token punctuation">(</span><span class="token keyword">this</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">emit</span><span class="token punctuation">(</span><span class="token string">&apos;event&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+util<span class="token punctuation">.</span><span class="token function">inherits</span><span class="token punctuation">(</span>MyEmitter<span class="token punctuation">,</span> EventEmitter<span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token keyword">const</span> myEmitter <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">MyEmitter</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+myEmitter<span class="token punctuation">.</span><span class="token function">on</span><span class="token punctuation">(</span><span class="token string">&apos;event&apos;</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">&apos;an event occurred!&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>
+<p>You can&apos;t emit an event from the constructor immediately
+because the script will not have processed to the point where the user
+assigns a callback to that event. So, within the constructor itself,
+you can use <code>process.nextTick()</code> to set a callback to emit the event
+after the constructor has finished, which provides the expected results:</p>
+<pre class="language-js"><code class="language-js"><span class="token keyword">const</span> EventEmitter <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">&apos;events&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">const</span> util <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">&apos;util&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token keyword">function</span> <span class="token function">MyEmitter</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  <span class="token function">EventEmitter</span><span class="token punctuation">.</span><span class="token function">call</span><span class="token punctuation">(</span><span class="token keyword">this</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+  <span class="token comment">// use nextTick to emit the event once a handler is assigned</span>
+  process<span class="token punctuation">.</span><span class="token function">nextTick</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+    <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">emit</span><span class="token punctuation">(</span><span class="token string">&apos;event&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+util<span class="token punctuation">.</span><span class="token function">inherits</span><span class="token punctuation">(</span>MyEmitter<span class="token punctuation">,</span> EventEmitter<span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token keyword">const</span> myEmitter <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">MyEmitter</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+myEmitter<span class="token punctuation">.</span><span class="token function">on</span><span class="token punctuation">(</span><span class="token string">&apos;event&apos;</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">&apos;an event occurred!&apos;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>
+ <input type="hidden" id="editOnGitHubUrl" value="https://github.com/nodejs/nodejs.org/edit/main/locale/en/docs/guides/event-loop-timers-and-nexttick.md"> 
+
+      </article>
+
+    </div>
+  </main>
+
+  <a href="#" id="scroll-to-top">&uarr; <span>Scroll to top</span></a>
+  
+  <footer >
+  
+    <div class="container">
+      <div class="openjsfoundation-footer">
+        <div class="issue-link-container">
+          <a class="openjsfoundation-logo" href="https://openjsf.org/">
+            <img src="/static/images/openjs_foundation-logo.svg" alt="OpenJS Foundation" width="120" height="38">
+          </a>
+        </div>
+      <p>© OpenJS Foundation. All Rights Reserved. Portions of this site originally © Joyent.</p>
+      <p>Node.js is a trademark of Joyent, Inc. and is used with its permission. Please review the <a
+          href="https://trademark-list.openjsf.org">Trademark List</a> and <a
+          href="https://trademark-policy.openjsf.org">Trademark Guidelines</a> of the <a href="https://openjsf.org">OpenJS
+          Foundation</a>.</p>
+      <p>
+        <a href="https://raw.githubusercontent.com/nodejs/node/master/LICENSE">Node.js Project Licensing
+          Information</a>.
+      </p>
+      </div>
+  
+      <div class="help">
+        <ul>
+          <li><a id="editOnGitHubLink" href="#">Edit On GitHub</a></li>
+          <li><a href="https://github.com/nodejs/node/issues">Report Node.js issue</a></li>
+          <li><a href="https://github.com/nodejs/nodejs.org/issues">Report website issue</a></li>
+          <li><a href="https://github.com/nodejs/help/issues">Get Help</a></li>
+          <li>
+            <a href="https://github.com/nodejs/nodejs.org/blob/master/CONTRIBUTING.md">Contributing For Nodejs.org</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  
+  </footer>
+  
+  <script src="/static/js/main.js" async defer></script>
+</body>
+</html>
