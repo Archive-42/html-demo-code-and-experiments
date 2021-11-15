@@ -60,17 +60,59 @@ bdo[dir] {
  * formatting obtained by explicitly adding a dir attribute (assigned the
  * inherited value) to the transformed element." */
 
-address, blockquote, body, caption, center, col, colgroup, dd, dir, div, dl, dt,
-fieldset, form, h1, h2, h3, h4, h5, h6, hr, html, isindex, li, listing, map, 
-marquee, menu, noframes, ol, p, plaintext, pre, table, tbody, td, tfoot, th, 
-thead, tr, ul, xmp {
+address,
+blockquote,
+body,
+caption,
+center,
+col,
+colgroup,
+dd,
+dir,
+div,
+dl,
+dt,
+fieldset,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+html,
+isindex,
+li,
+listing,
+map,
+marquee,
+menu,
+noframes,
+ol,
+p,
+plaintext,
+pre,
+table,
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr,
+ul,
+xmp {
   unicode-bidi: embed;
 }
 
-
 /* blocks */
 
-html, div, map, dt, isindex, form {
+html,
+div,
+map,
+dt,
+isindex,
+form {
   display: block;
 }
 
@@ -79,7 +121,9 @@ body {
   margin: 8px;
 }
 
-p, dl, multicol {
+p,
+dl,
+multicol {
   display: block;
   margin: 1em 0;
 }
@@ -104,7 +148,7 @@ center {
   text-align: -moz-center;
 }
 
-blockquote[type=cite] {
+blockquote[type="cite"] {
   display: block;
   margin: 1em 0px;
   -moz-padding-start: 1em;
@@ -113,11 +157,11 @@ blockquote[type=cite] {
   border-width: thin;
 }
 
-span[_moz_quote=true] {
+span[_moz_quote="true"] {
   color: blue;
 }
 
-pre[_moz_quote=true] {
+pre[_moz_quote="true"] {
   color: blue;
 }
 
@@ -125,14 +169,14 @@ h1 {
   display: block;
   font-size: 2em;
   font-weight: bold;
-  margin: .67em 0;
+  margin: 0.67em 0;
 }
 
 h2 {
   display: block;
   font-size: 1.5em;
   font-weight: bold;
-  margin: .83em 0;
+  margin: 0.83em 0;
 }
 
 h3 {
@@ -170,7 +214,9 @@ listing {
   margin: 1em 0;
 }
 
-xmp, pre, plaintext {
+xmp,
+pre,
+plaintext {
   display: block;
   font-family: -moz-fixed;
   white-space: pre;
@@ -202,8 +248,8 @@ table[align="right"] {
 table[rules]:not([rules="none"]) {
   border-collapse: collapse;
 }
-   
-/* caption inherits from table not table-outer */  
+
+/* caption inherits from table not table-outer */
 caption {
   display: table-caption;
   text-align: center;
@@ -256,10 +302,10 @@ table > tr {
   vertical-align: middle;
 }
 
-td { 
+td {
   display: table-cell;
   vertical-align: inherit;
-  text-align: inherit; 
+  text-align: inherit;
   padding: 1px;
 }
 
@@ -270,8 +316,10 @@ th {
   padding: 1px;
 }
 
-tr > form:-moz-is-html, tbody > form:-moz-is-html,
-thead > form:-moz-is-html, tfoot > form:-moz-is-html,
+tr > form:-moz-is-html,
+tbody > form:-moz-is-html,
+thead > form:-moz-is-html,
+tfoot > form:-moz-is-html,
 table > form:-moz-is-html {
   /* Important: don't show these forms in HTML */
   display: none !important;
@@ -287,23 +335,34 @@ q:after {
   content: close-quote;
 }
 
-b, strong {
+b,
+strong {
   font-weight: bolder;
 }
 
-i, cite, em, var, dfn {
+i,
+cite,
+em,
+var,
+dfn {
   font-style: italic;
 }
 
-tt, code, kbd, samp {
+tt,
+code,
+kbd,
+samp {
   font-family: -moz-fixed;
 }
 
-u, ins {
+u,
+ins {
   text-decoration: underline;
 }
 
-s, strike, del {
+s,
+strike,
+del {
   text-decoration: line-through;
 }
 
@@ -336,13 +395,16 @@ nobr {
 }
 
 /* titles */
-abbr[title], acronym[title] {
+abbr[title],
+acronym[title] {
   border-bottom: dotted 1px;
 }
 
 /* lists */
 
-ul, menu, dir {
+ul,
+menu,
+dir {
   display: block;
   list-style-type: disc;
   margin: 1em 0;
@@ -361,38 +423,102 @@ li {
 }
 
 /* nested lists have no top/bottom margins */
-ul ul,   ul ol,   ul dir,   ul menu,   ul dl,
-ol ul,   ol ol,   ol dir,   ol menu,   ol dl,
-dir ul,  dir ol,  dir dir,  dir menu,  dir dl,
-menu ul, menu ol, menu dir, menu menu, menu dl,
-dl ul,   dl ol,   dl dir,   dl menu,   dl dl {
+ul ul,
+ul ol,
+ul dir,
+ul menu,
+ul dl,
+ol ul,
+ol ol,
+ol dir,
+ol menu,
+ol dl,
+dir ul,
+dir ol,
+dir dir,
+dir menu,
+dir dl,
+menu ul,
+menu ol,
+menu dir,
+menu menu,
+menu dl,
+dl ul,
+dl ol,
+dl dir,
+dl menu,
+dl dl {
   margin-top: 0;
   margin-bottom: 0;
 }
 
 /* 2 deep unordered lists use a circle */
-ol ul,   ul ul,   menu ul,   dir ul,
-ol menu, ul menu, menu menu, dir menu,
-ol dir,  ul dir,  menu dir,  dir dir {
+ol ul,
+ul ul,
+menu ul,
+dir ul,
+ol menu,
+ul menu,
+menu menu,
+dir menu,
+ol dir,
+ul dir,
+menu dir,
+dir dir {
   list-style-type: circle;
 }
 
 /* 3 deep (or more) unordered lists use a square */
-ol ol ul,     ol ul ul,     ol menu ul,     ol dir ul,
-ol ol menu,   ol ul menu,   ol menu menu,   ol dir menu,
-ol ol dir,    ol ul dir,    ol menu dir,    ol dir dir,
-ul ol ul,     ul ul ul,     ul menu ul,     ul dir ul,
-ul ol menu,   ul ul menu,   ul menu menu,   ul dir menu,
-ul ol dir,    ul ul dir,    ul menu dir,    ul dir dir,
-menu ol ul,   menu ul ul,   menu menu ul,   menu dir ul,
-menu ol menu, menu ul menu, menu menu menu, menu dir menu,
-menu ol dir,  menu ul dir,  menu menu dir,  menu dir dir,
-dir ol ul,    dir ul ul,    dir menu ul,    dir dir ul,
-dir ol menu,  dir ul menu,  dir menu menu,  dir dir menu,
-dir ol dir,   dir ul dir,   dir menu dir,   dir dir dir {
+ol ol ul,
+ol ul ul,
+ol menu ul,
+ol dir ul,
+ol ol menu,
+ol ul menu,
+ol menu menu,
+ol dir menu,
+ol ol dir,
+ol ul dir,
+ol menu dir,
+ol dir dir,
+ul ol ul,
+ul ul ul,
+ul menu ul,
+ul dir ul,
+ul ol menu,
+ul ul menu,
+ul menu menu,
+ul dir menu,
+ul ol dir,
+ul ul dir,
+ul menu dir,
+ul dir dir,
+menu ol ul,
+menu ul ul,
+menu menu ul,
+menu dir ul,
+menu ol menu,
+menu ul menu,
+menu menu menu,
+menu dir menu,
+menu ol dir,
+menu ul dir,
+menu menu dir,
+menu dir dir,
+dir ol ul,
+dir ul ul,
+dir menu ul,
+dir dir ul,
+dir ol menu,
+dir ul menu,
+dir menu menu,
+dir dir menu,
+dir ol dir,
+dir ul dir,
+dir menu dir,
+dir dir dir {
   list-style-type: square;
 }
-
 
 /* leafs */
 
@@ -413,21 +539,27 @@ hr[size="1"] {
   border-style: solid none none none;
 }
 
-*|*:-moz-any-link img, img[usemap], object[usemap] {
+*|*:-moz-any-link img,
+img[usemap],
+object[usemap] {
   border: 2px solid;
 }
 
-img:-moz-broken::before, input:-moz-broken::before,
-img:-moz-user-disabled::before, input:-moz-user-disabled::before,
-img:-moz-loading::before, input:-moz-loading::before,
+img:-moz-broken::before,
+input:-moz-broken::before,
+img:-moz-user-disabled::before,
+input:-moz-user-disabled::before,
+img:-moz-loading::before,
+input:-moz-loading::before,
 applet:-moz-empty-except-children-with-localname(param):-moz-broken::before,
 applet:-moz-empty-except-children-with-localname(param):-moz-user-disabled::before {
   content: -moz-alt-content !important;
   unicode-bidi: embed;
 }
 
-object:-moz-broken > *|*, applet:-moz-broken > *|*
-object:-moz-user-disabled > *|*, applet:-moz-user-disabled > *|* {
+object:-moz-broken > *|*,
+applet:-moz-broken > *|* object:-moz-user-disabled > *|*,
+applet:-moz-user-disabled > *|* {
   /*
     Inherit in the object's alignment so that if we aren't aligned explicitly
     we'll end up in the right place vertically.  See bug 36997.  Note that this
@@ -436,8 +568,11 @@ object:-moz-user-disabled > *|*, applet:-moz-user-disabled > *|* {
   vertical-align: inherit;
 }
 
-img:-moz-suppressed, input:-moz-suppressed, object:-moz-suppressed,
-embed:-moz-suppressed, applet:-moz-suppressed {
+img:-moz-suppressed,
+input:-moz-suppressed,
+object:-moz-suppressed,
+embed:-moz-suppressed,
+applet:-moz-suppressed {
   /*
     Set visibility too in case the page changes display.  Note that we _may_
     want to just set visibility and not display, in general, if we find that
@@ -449,20 +584,21 @@ embed:-moz-suppressed, applet:-moz-suppressed {
   visibility: hidden !important;
 }
 
-img[usemap], object[usemap] {
+img[usemap],
+object[usemap] {
   color: blue;
 }
 
 frameset {
-  display: block ! important;
+  display: block !important;
   overflow: -moz-hidden-unscrollable;
-  position: static ! important;
-  float: none ! important;
-  border: none ! important;
+  position: static !important;
+  float: none !important;
+  border: none !important;
 }
 
 frame {
-  border: none ! important;
+  border: none !important;
 }
 
 iframe {
@@ -474,8 +610,8 @@ noframes {
 }
 
 spacer {
-  position: static ! important;
-  float: none ! important;
+  position: static !important;
+  float: none !important;
 }
 
 canvas {
@@ -483,29 +619,92 @@ canvas {
 }
 
 /* focusable content: anything w/ tabindex >=0 is focusable */
-abbr:focus, acronym:focus, address:focus, b:focus,
-base:focus, big:focus, blockquote:focus, br:focus, canvas:focus, caption:focus,
-center:focus, cite:focus, code:focus, col:focus, colgroup:focus, dd:focus,
-del:focus, dfn:focus, dir:focus, div:focus, dl:focus, dt:focus, em:focus,
-fieldset:focus, font:focus, form:focus, h1:focus, h2:focus, h3:focus, h4:focus,
-h5:focus, h6:focus, hr:focus, i:focus, img:focus, ins:focus, 
-kbd:focus, label:focus, legend:focus, li:focus, link:focus, menu:focus, 
-ol:focus, p:focus, pre:focus, q:focus, s:focus, samp:focus, 
-small:focus, span:focus, strike:focus, strong:focus, sub:focus, sup:focus, 
-table:focus, tbody:focus, td:focus, tfoot:focus, th:focus, thead:focus, 
-tr:focus, tt:focus, u:focus, ul:focus, var:focus {
+abbr:focus,
+acronym:focus,
+address:focus,
+b:focus,
+base:focus,
+big:focus,
+blockquote:focus,
+br:focus,
+canvas:focus,
+caption:focus,
+center:focus,
+cite:focus,
+code:focus,
+col:focus,
+colgroup:focus,
+dd:focus,
+del:focus,
+dfn:focus,
+dir:focus,
+div:focus,
+dl:focus,
+dt:focus,
+em:focus,
+fieldset:focus,
+font:focus,
+form:focus,
+h1:focus,
+h2:focus,
+h3:focus,
+h4:focus,
+h5:focus,
+h6:focus,
+hr:focus,
+i:focus,
+img:focus,
+ins:focus,
+kbd:focus,
+label:focus,
+legend:focus,
+li:focus,
+link:focus,
+menu:focus,
+ol:focus,
+p:focus,
+pre:focus,
+q:focus,
+s:focus,
+samp:focus,
+small:focus,
+span:focus,
+strike:focus,
+strong:focus,
+sub:focus,
+sup:focus,
+table:focus,
+tbody:focus,
+td:focus,
+tfoot:focus,
+th:focus,
+thead:focus,
+tr:focus,
+tt:focus,
+u:focus,
+ul:focus,
+var:focus {
   /* Don't specify the outline-color, we should always use initial value. */
-   outline: 1px dotted;
+  outline: 1px dotted;
 }
 
 /* hidden elements */
-area, base, basefont, head, meta, script, style, title,
-noembed, param {
-   display: none;
+area,
+base,
+basefont,
+head,
+meta,
+script,
+style,
+title,
+noembed,
+param {
+  display: none;
 }
 
 /* media elements */
-video > xul|videocontrols, audio > xul|videocontrols {
+video > xul|videocontrols,
+audio > xul|videocontrols {
   display: -moz-box;
   -moz-box-orient: vertical;
   -moz-binding: url("chrome://global/content/bindings/videocontrols.xml#videoControls");
@@ -526,17 +725,18 @@ marquee {
   display: inline-block;
   vertical-align: text-bottom;
   text-align: start;
-  -moz-binding: url('chrome://xbl-marquee/content/xbl-marquee.xml#marquee-horizontal');
+  -moz-binding: url("chrome://xbl-marquee/content/xbl-marquee.xml#marquee-horizontal");
 }
 
-marquee[direction="up"], marquee[direction="down"] {
-  -moz-binding: url('chrome://xbl-marquee/content/xbl-marquee.xml#marquee-vertical');
+marquee[direction="up"],
+marquee[direction="down"] {
+  -moz-binding: url("chrome://xbl-marquee/content/xbl-marquee.xml#marquee-vertical");
   height: 200px;
 }
 
 /* PRINT ONLY rules follow */
 @media print {
-
-  marquee { -moz-binding: none; }
-
+  marquee {
+    -moz-binding: none;
+  }
 }

@@ -1,5 +1,4 @@
-revert.css
-===
+# revert.css
 
 Restore Browser/Spec default CSS styles
 
