@@ -1,0 +1,851 @@
+<!doctype html>
+<html class="no-js " lang="en">
+  <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=IE9" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"/>
+    <meta charset="utf-8">
+    <title>bgoonz/community - Gitter</title>
+    <style>
+
+      @-webkit-keyframes pulsey {
+        0% { opacity: 0.6; }
+        50% { opacity: 1; }
+        100% { opacity: 0.6; }
+      }
+
+      html.loading .trpContentPanel { background: url("http://cdn01.gitter.im/_s/07c505b13/images/logo-mark-grey-64.png") center no-repeat; height: 90%; -webkit-animation: pulsey 2s ease-out; -webkit-animation-iteration-count: infinite;  }
+      html.loading .trpContentPanel > * { visibility: hidden; }
+    </style>
+    <base target="_parent">
+
+
+
+      <style>
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: normal;
+      font-weight: bold;
+      src: local("SourceSansPro-Bold");
+    }
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: italic;
+      font-weight: bold;
+      src: local("SourceSansPro-BoldIt");
+    }
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: normal;
+      font-weight: 200;
+      src: local("SourceSansPro-ExtraLight");
+    }
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: italic;
+      font-weight: normal;
+      src: local("SourceSansPro-It");
+    }
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: normal;
+      font-weight: 300;
+      src: local("SourceSansPro-Light");
+    }
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: normal;
+      font-weight: normal;
+      src: local("SourceSansPro-Regular");
+    }
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: normal;
+      font-weight: 600;
+      src: local("SourceSansPro-Semibold");
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+        src: url("http://cdn02.gitter.im/_s/07c505b13/fonts/sourcesans/SourceSansPro-Regular.otf.woff") format('woff');
+      font-weight: normal;
+      font-style: normal
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+        src: url("http://cdn01.gitter.im/_s/07c505b13/fonts/sourcesans/SourceSansPro-It.otf.woff") format('woff');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+        src: url("http://cdn03.gitter.im/_s/07c505b13/fonts/sourcesans/SourceSansPro-Bold.otf.woff") format('woff');
+      font-weight: bold;
+      font-style: normal
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+        src: url("http://cdn02.gitter.im/_s/07c505b13/fonts/sourcesans/SourceSansPro-Semibold.otf.woff") format('woff');
+      font-weight: 600;
+      font-style: normal
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+        src: url("http://cdn01.gitter.im/_s/07c505b13/fonts/sourcesans/SourceSansPro-BoldIt.otf.woff") format('woff');
+      font-weight: bold;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+        src: url("http://cdn02.gitter.im/_s/07c505b13/fonts/sourcesans/SourceSansPro-Light.otf.woff") format('woff');
+      font-weight: 300;
+      font-style: normal
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+        src: url("http://cdn02.gitter.im/_s/07c505b13/fonts/sourcesans/SourceSansPro-ExtraLight.otf.woff") format('woff');
+      font-weight: 200;
+      font-style: normal
+    }
+    @font-face {
+      font-family: "KaTeX_AMS";
+        src: url("http://cdn02.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_AMS-Regular.woff") format('woff');
+        src: url("http://cdn02.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_AMS-Regular.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Caligraphic";
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Caligraphic-Bold.woff") format('woff');
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Caligraphic-Bold.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Caligraphic";
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Caligraphic-Regular.woff") format('woff');
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Caligraphic-Regular.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Fraktur";
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Fraktur-Bold.woff") format('woff');
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Fraktur-Bold.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Fraktur";
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Fraktur-Regular.woff") format('woff');
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Fraktur-Regular.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Main";
+        src: url("http://cdn02.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Main-Bold.woff") format('woff');
+        src: url("http://cdn02.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Main-Bold.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Main";
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Main-BoldItalic.woff") format('woff');
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Main-BoldItalic.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Main";
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Main-Italic.woff") format('woff');
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Main-Italic.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Main";
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Main-Regular.woff") format('woff');
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Main-Regular.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Math";
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Math-BoldItalic.woff") format('woff');
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Math-BoldItalic.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Math";
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Math-Italic.woff") format('woff');
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Math-Italic.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_SansSerif";
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_SansSerif-Bold.woff") format('woff');
+        src: url("http://cdn01.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_SansSerif-Bold.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_SansSerif";
+        src: url("http://cdn02.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_SansSerif-Italic.woff") format('woff');
+        src: url("http://cdn02.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_SansSerif-Italic.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_SansSerif";
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_SansSerif-Regular.woff") format('woff');
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_SansSerif-Regular.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Script";
+        src: url("http://cdn02.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Script-Regular.woff") format('woff');
+        src: url("http://cdn02.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Script-Regular.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Size1";
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Size1-Regular.woff") format('woff');
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Size1-Regular.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Size2";
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Size2-Regular.woff") format('woff');
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Size2-Regular.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Size3";
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Size3-Regular.woff") format('woff');
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Size3-Regular.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Size4";
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Size4-Regular.woff") format('woff');
+        src: url("http://cdn03.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Size4-Regular.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "KaTeX_Typewriter";
+        src: url("http://cdn02.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Typewriter-Regular.woff") format('woff');
+        src: url("http://cdn02.gitter.im/_s/07c505b13/repo/katex/fonts-0.10.0/KaTeX_Typewriter-Regular.woff2") format('woff2');
+      font-weight: normal;
+      font-style: italic
+    }
+  </style>
+
+    <link rel="stylesheet" href='http://cdn01.gitter.im/_s/07c505b13/sprites/services.css'>
+      <link rel="stylesheet" href='http://cdn01.gitter.im/_s/07c505b13/styles/router-nli-chat.css'>
+
+
+    <link id="favicon" rel="shortcut icon" href='http://cdn03.gitter.im/_s/07c505b13/images/favicon-normal.ico'><!-- Le fav and touch icons -->
+
+    <link rel="manifest" href="https://gitter.im/manifest.webmanifest">
+
+    <meta property="og:title" content="bgoonz/community"/>
+    <meta property="og:description" content="Where developers come to talk."/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:image" content="https://avatars-02.gitter.im/group/iv/4/601c7ade6da0373984612018"/>
+    <meta property="fb:app_id" content=""/>
+    <meta property="twitter:card" content="summary"/>
+    <meta property="twitter:site" content="@gitchat"/>
+    <meta property="twitter:title" content="bgoonz/community"/>
+    <meta property="twitter:description" content="Where developers come to talk."/>
+    <meta property="twitter:image" content="https://avatars-02.gitter.im/group/iv/4/601c7ade6da0373984612018"/>
+  </head>
+  <body class=" iframe logged-out">
+    <div class="layout-app">
+        <script>window.__INITIAL_STATE__={"search":{"repo":{"loading":false,"error":null,"results":[]},"room":{"loading":false,"error":null,"results":[]},"people":{"loading":false,"error":null,"results":[]},"message":{"loading":false,"error":null,"results":[]},"searchInputValue":"","current":{"results":[]}},"joinRoomRequest":{"loading":false,"error":null,"results":[]},"isMobile":false,"isLoggedIn":false,"darkTheme":false,"groupMap":{},"roomMap":{"601c7ade6da037398461201a":{"id":"601c7ade6da037398461201a","name":"bgoonz\u002Fcommunity","topic":"","avatarUrl":"https:\u002F\u002Favatars-02.gitter.im\u002Fgroup\u002Fiv\u002F4\u002F601c7ade6da0373984612018","uri":"bgoonz\u002Fcommunity","userCount":2,"url":"\u002Fbgoonz\u002Fcommunity","githubType":"REPO_CHANNEL","security":"PUBLIC","groupId":"601c7ade6da0373984612018","public":true,"matrixRoomLink":"https:\u002F\u002Fmatrix.to\u002F#\u002F#bgoonz_community:gitter.im?utm_source=gitter"}},"messageMap":{},"displayedRoomId":"601c7ade6da037398461201a","hightLightedMessageId":null,"leftMenuState":"all","leftMenuPinnedState":true,"leftMenuExpandedState":false,"favouriteDraggingInProgress":false,"threadMessageFeed":{"isVisible":false,"draftMessage":"","messageEditState":{"id":null,"text":null},"atTop":false,"atBottom":false,"parentId":null,"childMessagesRequest":{"loading":false,"error":null,"results":[]}},"createCommunity":{"currentStep":"step-main","communityName":"","communityNameError":null,"communitySlug":"","slugAvailabilityStatus":null,"communitySlugError":null,"selectedBackingEntity":null,"allowBadger":true,"orgs":[],"repos":[],"entityTypeTabState":"tab-orgs","orgsRequest":{"loading":false,"error":null,"results":[]},"reposRequest":{"loading":false,"error":null,"results":[]},"communitySubmitRequest":{"loading":false,"error":null,"results":[]}},"createRoom":{"adminGroupMap":{},"groupFilterText":"","selectedGroupId":null,"groupError":null,"roomName":"","roomNameError":null,"roomNameAvailabilityStatus":null,"adminRepoMap":{},"repoFilterText":"","selectedRepoId":null,"roomSecurity":"PUBLIC","onlyGithubUsers":false,"allowGroupAdmins":false,"allowBadger":true,"repos":[],"groupsRequest":{"loading":false,"error":null,"results":[]},"reposRequest":{"loading":false,"error":null,"results":[]},"roomSubmitRequest":{"loading":false,"error":null,"results":[]}}}</script><style data-vue-ssr-id="2795a402:0">.root[data-v-44ebcb1a] {
+  box-sizing: border-box;
+  z-index: 201;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  will-change: transform;
+  transition: transform 0.05s ease;
+}
+.root[data-v-44ebcb1a] *,
+.root[data-v-44ebcb1a] *:before,
+.root[data-v-44ebcb1a] *:after {
+  box-sizing: inherit;
+}
+@media (max-width: 900px) {
+.root[data-v-44ebcb1a] {
+    position: absolute;
+    transform: translateX(-100%);
+}
+.root.expanded[data-v-44ebcb1a] {
+    transform: translateX(0%);
+}
+}
+.layout-minibar[data-v-44ebcb1a] {
+  z-index: 1;
+  width: 7.5rem;
+}
+.layout-main-menu[data-v-44ebcb1a] {
+  width: 26.5rem;
+  transition: transform 0.1s ease;
+}
+@media not all and (max-width: 900px) {
+.root:not(.pinned).logged-in .layout-main-menu[data-v-44ebcb1a] {
+    position: absolute;
+    left: 7.5rem;
+    transform: translateX(-100%);
+}
+.root.expanded:not(.pinned).logged-in .layout-main-menu[data-v-44ebcb1a] {
+    transform: translateX(0%);
+}
+}
+.header[data-v-44ebcb1a] {
+  position: relative;
+  display: flex;
+  flex-shrink: 0;
+  height: 65px;
+  color: #ffffff;
+}
+.header-minibar[data-v-44ebcb1a] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: #753a88;
+}
+.dark-theme .header-minibar[data-v-44ebcb1a] {
+  background-color: #2d2c2c;
+}
+.header-main-menu[data-v-44ebcb1a] {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  background-color: #753a88;
+}
+.dark-theme .header-main-menu[data-v-44ebcb1a] {
+  background-color: #2d2c2c;
+}
+.left-menu-toggle[data-v-44ebcb1a] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  background-color: transparent;
+  border: 0;
+  transition: background-color 0.2s ease;
+}
+.left-menu-toggle:hover .hamburger-icon[data-v-44ebcb1a] {
+  left: -9px;
+}
+.left-menu-toggle[data-v-44ebcb1a]:focus {
+  background-color: #f68d42;
+  outline: none;
+}
+.hamburger-icon[data-v-44ebcb1a] {
+  position: absolute;
+  left: -13px;
+  width: 26px;
+  stroke-width: 2px;
+  vector-effect: non-scaling-stroke;
+  color: rgba(255, 255, 255, 0.7);
+  stroke: rgba(255, 255, 255, 0.7);
+  transition: left 0.2s ease;
+}
+.logo-gitter-sign[data-v-44ebcb1a] {
+  display: block;
+  width: 18px;
+  fill: #ffffff;
+}
+.logo-text[data-v-44ebcb1a] {
+  display: block;
+  width: 7rem;
+}
+.logo-text[data-v-44ebcb1a] > svg {
+  fill: #ffffff;
+}
+.body[data-v-44ebcb1a] {
+  position: relative;
+  flex: 1;
+  display: flex;
+  min-height: 0;
+}
+.body-main-menu[data-v-44ebcb1a] {
+  overflow-x: hidden;
+  overflow-y: auto;
+  touch-action: pan-y;
+  height: 100%;
+  background-color: #fdfdfd;
+  border-right: 1px solid #f1f1f1;
+}
+.dark-theme .body-main-menu[data-v-44ebcb1a] {
+  background-color: #383736;
+  border-right-color: #2d2c2c;
+}
+.room-list-title[data-v-44ebcb1a] {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  max-width: 90%;
+  margin: 0;
+  overflow: hidden;
+  font-weight: 400;
+  font-size: 1.5rem;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  padding: 0 0 0 2.6rem;
+  line-height: 65px;
+  color: #a2a3a3;
+}
+.mobile .room-list-title[data-v-44ebcb1a] {
+  padding: 0 0 0 0.5rem;
+  line-height: 50px;
+}
+.room-list[data-v-44ebcb1a] {
+  margin-left: 0;
+  list-style: none;
+}
+.nli-body[data-v-44ebcb1a] {
+  flex: 1;
+  display: block;
+  width: 34rem;
+  height: 100%;
+  padding: 20px;
+  background-color: #753a88;
+  color: #ffffff;
+}
+.nli-body a[data-v-44ebcb1a] {
+  color: #ffffff;
+}
+.nli-primary-heading[data-v-44ebcb1a] {
+  font-family: 'source-sans-pro';
+  font-weight: 200;
+  font-size: 47px;
+  line-height: 43px;
+}
+.nli-info-block[data-v-44ebcb1a] {
+  padding: 1vh 15px;
+  margin: 10px 0px;
+  list-style: none;
+  background-color: rgba(255, 255, 255, 0.1);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.nli-info-block-item[data-v-44ebcb1a] {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+</style><div data-server-rendered="true" class="root js-left-menu-root pinned" style="transform:;transition:;" data-v-44ebcb1a><header class="header" data-v-44ebcb1a><section class="header-minibar layout-minibar" data-v-44ebcb1a><button label="Unpin and collapse the left-menu" class="left-menu-toggle" data-v-44ebcb1a><svg viewBox="0 0 26 22" class="hamburger-icon" data-v-44ebcb1a><path d="M0,2 l26,0" data-v-44ebcb1a></path> <path d="M0,11 l26,0" data-v-44ebcb1a></path> <path d="M0,20 l26,0" data-v-44ebcb1a></path></svg> <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18 25" class="logo-gitter-sign" data-v-44ebcb1a><rect x="15" y="5" width="2" height="10"></rect> <rect x="10" y="5" width="2" height="20"></rect> <rect x="5" y="5" width="2" height="20"></rect> <rect width="2" height="15"></rect></svg></button></section> <section class="header-main-menu layout-main-menu" data-v-44ebcb1a><a href="https://gitter.im/?utm_source=left-menu-logo" class="logo-text" data-v-44ebcb1a><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 98.7 16.3" data-v-44ebcb1a><g><path d="M20.9,0.3h2.6v15.8h-2.6V0.3z"></path> <path d="M34.8,2.9h-4V0.3h11.8v2.6h-5.2v13.2h-2.6V2.9z"></path> <path d="M51.9,2.9h-4V0.3h11.8v2.6h-5.2v13.2h-2.6V2.9z"></path> <path d="M66.4,0.3h11.8v2.6H69v3.9h7.9v2.6H69v4h9.2v2.6H66.4V0.3z"></path> <path d="M98.7,16.1l-4.2-5.9c1.7-0.9,2.8-2.5,2.8-4.6c0-3.1-2.5-5.3-5.7-5.3l-6.2,0v15.8h2.6l0-5.3
+    c0,0,3.6,0,3.6,0l3.8,5.3H98.7z M88.1,8.2l0-5.3l3.5,0c1.7,0,3,1,3,2.6c0,1.7-1.4,2.6-3,2.6L88.1,8.2z"></path> <path d="M7.9,7.1v2.6l3.9,0c0,0,0,1.4,0,2.3c-0.1,0.2-0.4,1.8-3.8,1.8c-0.2,0-0.3,0-0.5,0
+    c-0.1,0-0.2,0-0.2,0c-0.1,0-0.2,0-0.2,0c-0.1,0-0.2-0.1-0.3-0.1c-0.1,0-0.1,0-0.2-0.1c0,0-0.1,0-0.1,0c-2.1-0.7-3.5-2.8-3.5-5.3
+    l0,0v0v0c0-0.3,0-0.5,0.1-0.8C3.3,4.7,5.4,2.5,8,2.5c0.9,0,2.5,0.3,3.6,1.5l1.5-2.2c0,0-1.3-1.9-5-1.9C3.7,0,0.4,3.3,0,7.3
+    c0,0.3,0,0.6,0,0.8l0,0l0,0c0,4.3,3.2,7.9,7.7,8.1c0.2,0,0.3,0,0.5,0c0,0,0.1,0,0.1,0c0.3,0,0.5,0,0.7,0c0.1,0,0.2,0,0.3,0
+    c0.2,0,0.3,0,0.5-0.1c2.7-0.1,4.7-2.3,4.7-3.4c0-5,0-5.7,0-5.7H7.9z"></path></g></svg></a></section></header> <section class="body nli-body" data-v-44ebcb1a><h2 class="nli-primary-heading" data-v-44ebcb1a>Where communities thrive</h2> <br data-v-44ebcb1a> <ul class="nli-info-block" data-v-44ebcb1a><li class="nli-info-block-item" data-v-44ebcb1a>
+        Join over
+        <strong data-v-44ebcb1a>1.5M+ people</strong></li> <li class="nli-info-block-item" data-v-44ebcb1a>
+        Join over
+        <strong data-v-44ebcb1a>100K+ communities</strong></li> <li class="nli-info-block-item" data-v-44ebcb1a>
+        Free
+        <strong data-v-44ebcb1a>without limits</strong></li> <li class="nli-info-block-item" data-v-44ebcb1a>
+        Create
+        <strong data-v-44ebcb1a>your own community</strong></li></ul> <ul class="nli-info-block" data-v-44ebcb1a><li class="nli-info-block-item" data-v-44ebcb1a><a href="https://gitter.im/explore" data-v-44ebcb1a>Explore more communities</a></li></ul></section></div>
+
+      <div class="layout-app-body">
+        <div class="trpAlertWrapper" id="alert-panel">
+  <div class="trpAlertContainer">
+    <div class="trpAlertContent" id="alert-content">
+    </div>
+  </div>
+</div>
+<div class="chat-header-wrapper">
+  <header class="chat-header" id="header-wrapper">
+  <div id="header" class="chat-header-inner">
+    <div class="chat-header__main-grouping chat-header__left-menu-toggle-grouping">
+  <button class="chat-header__left-menu-toggle js-header-view-left-menu-toggle">
+    <svg class="chat-header__action-icon" viewBox="0 0 26 22">
+      <path d="M0,2 l26,0" />
+      <path d="M0,11 l26,0" />
+      <path d="M0,20 l26,0" />
+    </svg>
+  </button>
+</div>
+
+<div class="chat-header__main-grouping chat-header__avatar-grouping">
+  <form
+    class="chat-header__avatar  js-chat-header-group-avatar-upload-form"
+    action="#"
+    enctype="multipart/form-data"
+    method="POST">
+    <input type="hidden" class="js-chat-header-group-avatar-upload-signature" name="signature" value="">
+    <input type="hidden" class="js-chat-header-group-avatar-upload-params" name="params" value="">
+    <input
+      id="chat-header-group-avatar-upload-input"
+      class="chat-header__group-avatar-upload-input js-chat-header-group-avatar-upload-input"
+      name="file"
+      type="file"
+      accept="image/*"
+      disabled />
+    <label
+      class="chat-header__group-avatar-upload-label js-chat-header-group-avatar-upload-label"
+      for="chat-header-group-avatar-upload-input"
+      >
+      <img class="js-chat-header-avatar-image"  height='48' width='48' src='https://avatars-02.gitter.im/group/iv/4/601c7ade6da0373984612018?s=48' srcset='https://avatars-02.gitter.im/group/iv/4/601c7ade6da0373984612018?s=96 2x' >
+      <div class="chat-header__group-avatar-upload-progress hidden js-chat-header-group-avatar-upload-progress"></div>
+    </label>
+  </form>
+</div>
+
+<div class="chat-header__main-grouping chat-header__info-grouping">
+  <div class="chat-header__heading-sub-group">
+    <h1 class="js-chat-name chat-header__heading">
+      <a href="https://github.com/bgoonz" class="chat-header__title" target="_blank">bgoonz/community</a>
+    </h1>
+  </div>
+  <div class="chat-header__topic-sub-group js-room-topic-edit-activator" tabindex="0">
+    <div class="chat-header__topic-wrapper js-room-topic-wrapper  "><p class="js-room-topic chat-header__topic  "></p></div>
+  </div>
+</div>
+
+
+<div class="chat-header__main-grouping chat-header__action-grouping">
+    <a href="https://matrix.to/#/#bgoonz_community:gitter.im?utm_source=gitter" class="chat-header__org-page org-page-link" title="See this room on Matrix" target="_blank" rel="nofollow noopener noreferrer">
+     <img class="chat-header__action-icon chat-header__action-matrix-icon" src='http://cdn01.gitter.im/_s/07c505b13/images/svg/matrix-favicon-logo-white.svg' aria-hidden="true">
+    </a>
+
+    <a href="https://gitter.im/orgs/bgoonz/rooms" class="chat-header__org-page org-page-link js-chat-header-org-page-action" title="More bgoonz rooms">
+      <i class="chat-header__action-icon icon-globe"></i>
+    </a>
+
+</div>
+
+  </div>
+</header>
+  <div class="chat-and-toolbar-wrapper">
+    <div class="right-toolbar-region" id="right-toolbar-layout">
+  <div class="right-toolbar right-toolbar--collapsible ">
+
+    <div id="toolbar-top-content" class="right-toolbar__body">
+      <div id="people-list">
+        <div class="trpToolbarHeader" id="top-header">
+          <h5 class="trpToolbarHeaderItem selected" id="people-header">
+            People
+          </h5>
+          <h5 class="trpToolbarHeaderItem hidden" id="info-header">
+              Repo info
+          </h5>
+        </div>
+        <div class="trpToolbarList">
+          <div class="trpToolbarListContent" id="people-roster">
+            <div>
+              <span class="frame-people">
+  <span id="roster-region">
+    <ul id="roster-view" class="roster">
+      <li class="js-model-id-601c7ac66da0373984612012">
+        <div
+  class="trpDisplayPicture avatar-601c7ac66da0373984612012 avatar-s offline admin ">
+  <img src="https://avatars0.githubusercontent.com/bgoonz?v=4&amp;s=30" srcset="https://avatars0.githubusercontent.com/bgoonz?v=4&amp;s=60 2x" height="30" width="30" class="avatar__image" alt="">
+  <div class="trpStatus" id="status"> </div>
+</div>
+
+      </li>
+      <li class="js-model-id-582b9dcad73408ce4f362626">
+        <div
+  class="trpDisplayPicture avatar-582b9dcad73408ce4f362626 avatar-s offline  ">
+  <img src="https://avatars0.githubusercontent.com/shiftaET?v=4&amp;s=30" srcset="https://avatars0.githubusercontent.com/shiftaET?v=4&amp;s=60 2x" height="30" width="30" class="avatar__image" alt="">
+  <div class="trpStatus" id="status"> </div>
+</div>
+
+      </li>
+    </ul>
+  </span>
+<div id="remaining-region" class="remaining-region"></div>
+</span>
+
+            </div>
+          </div>
+          <div class="trpToolbarListContent" id="repo-info" style="display: none"></div>
+        </div>
+      </div>
+
+      <div id="activity-region" class="right-toolbar-activity-area">
+        <div  class="right-toolbar-activity-area-inner" >
+<div class="trpToolbarHeader">
+  <h5 class="trpToolbarHeaderItem selected" id="activity-header">Activity</h5>
+</div>
+
+<ul class="right-toolbar-activity-list u-font-smaller" id="activity-list"></ul>
+</div>
+      </div>
+    </div>
+
+    <div id="right-toolbar-footer-region" class="right-toolbar-region__footer">
+      <svg
+           class="menu-toggle-icon js-menu-toggle-icon"
+           width="30px"
+           height="34px"
+           viewBox="0 0 30 34"
+       >
+        <path d="M0,6 l15,0 l15,0" />
+        <path d="M0,17 l15,0 l15,0" />
+        <path d="M0,28 l15,0 l15,0" />
+      </svg>
+    </div>
+
+  </div>
+</div>
+    <script>window.__INITIAL_STATE__={"search":{"repo":{"loading":false,"error":null,"results":[]},"room":{"loading":false,"error":null,"results":[]},"people":{"loading":false,"error":null,"results":[]},"message":{"loading":false,"error":null,"results":[]},"searchInputValue":"","current":{"results":[]}},"joinRoomRequest":{"loading":false,"error":null,"results":[]},"isMobile":false,"isLoggedIn":false,"darkTheme":false,"groupMap":{},"roomMap":{"601c7ade6da037398461201a":{"id":"601c7ade6da037398461201a","name":"bgoonz\u002Fcommunity","topic":"","avatarUrl":"https:\u002F\u002Favatars-02.gitter.im\u002Fgroup\u002Fiv\u002F4\u002F601c7ade6da0373984612018","uri":"bgoonz\u002Fcommunity","userCount":2,"url":"\u002Fbgoonz\u002Fcommunity","githubType":"REPO_CHANNEL","security":"PUBLIC","groupId":"601c7ade6da0373984612018","public":true,"matrixRoomLink":"https:\u002F\u002Fmatrix.to\u002F#\u002F#bgoonz_community:gitter.im?utm_source=gitter"}},"messageMap":{},"displayedRoomId":"601c7ade6da037398461201a","hightLightedMessageId":null,"leftMenuState":"all","leftMenuPinnedState":true,"leftMenuExpandedState":false,"favouriteDraggingInProgress":false,"threadMessageFeed":{"isVisible":false,"draftMessage":"","messageEditState":{"id":null,"text":null},"atTop":false,"atBottom":false,"parentId":null,"childMessagesRequest":{"loading":false,"error":null,"results":[]}},"createCommunity":{"currentStep":"step-main","communityName":"","communityNameError":null,"communitySlug":"","slugAvailabilityStatus":null,"communitySlugError":null,"selectedBackingEntity":null,"allowBadger":true,"orgs":[],"repos":[],"entityTypeTabState":"tab-orgs","orgsRequest":{"loading":false,"error":null,"results":[]},"reposRequest":{"loading":false,"error":null,"results":[]},"communitySubmitRequest":{"loading":false,"error":null,"results":[]}},"createRoom":{"adminGroupMap":{},"groupFilterText":"","selectedGroupId":null,"groupError":null,"roomName":"","roomNameError":null,"roomNameAvailabilityStatus":null,"adminRepoMap":{},"repoFilterText":"","selectedRepoId":null,"roomSecurity":"PUBLIC","onlyGithubUsers":false,"allowGroupAdmins":false,"allowBadger":true,"repos":[],"groupsRequest":{"loading":false,"error":null,"results":[]},"reposRequest":{"loading":false,"error":null,"results":[]},"roomSubmitRequest":{"loading":false,"error":null,"results":[]}}}</script><style data-vue-ssr-id="7c73d085:0">.root[data-v-3b2f1a78] {
+  position: relative;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  order: 2;
+  display: none;
+  /*
+  The TMF width changes between 300px and 600px boundaries.
+  Within this boundary it tries to be 40% of the space taken by
+  both panels (MMF - 60%, TMF - 40%)
+  */
+  min-width: 300px;
+  max-width: 600px;
+  width: 40%;
+  color: #333;
+  text-align: left;
+  box-sizing: border-box;
+}
+.root.opened[data-v-3b2f1a78] {
+  display: flex;
+}
+.mobile .root.opened[data-v-3b2f1a78] {
+  position: absolute;
+  z-index: 1001;
+  width: 100%;
+}
+.root[data-v-3b2f1a78] *,
+.root[data-v-3b2f1a78] *:before,
+.root[data-v-3b2f1a78] *:after {
+  box-sizing: inherit;
+}
+.body[data-v-3b2f1a78] {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #fdfdfd;
+  border-left: 1px solid #f1f1f1;
+}
+.dark-theme .body[data-v-3b2f1a78] {
+  background-color: #383736;
+  border-left-color: #2d2c2c;
+}
+.content[data-v-3b2f1a78] {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.error-box[data-v-3b2f1a78] {
+  margin: 10px;
+}
+.chat-messages .error-box[data-v-3b2f1a78] {
+  margin-left: 50px;
+}
+.loading-message[data-v-3b2f1a78] {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 30px;
+  width: 100%;
+  text-align: center;
+}
+.chat-messages[data-v-3b2f1a78] {
+  width: 100%;
+  display: inline-block;
+  overflow: auto;
+  flex-grow: 1;
+}
+</style><div data-server-rendered="true" class="js-thread-message-feed-root root" data-v-3b2f1a78><!----></div>
+    <div class="chat-app">
+      <div class="collaborators-container" id="collaborators-container"></div>
+      <div class="trpContentPanel" id="content-wrapper">
+  <div>
+    <div class="trpChatPanel">
+
+      <div id="unread-banner" style="display:none"></div>
+      <div id="bottom-unread-banner" style="display:none"></div>
+
+      <div id="content-frame" class="trpChatContainer primary-scroll chat-container" role="log" aria-live="polite" aria-atomic="false" aria-relevant="additions text">
+        <div id="chat-container" role="list">
+            <div>
+                <div class="chat-item model-id-601c7bbb24cd6b60d81c1111 burstStart read  " role="listitem"><div class='chat-item__container'>
+  <div class='chat-item__aside'>
+    <div class="chat-item__avatar">
+      <div
+  class="trpDisplayPicture avatar-601c7ac66da0373984612012 avatar-s offline  ">
+  <img src="https://avatars0.githubusercontent.com/u/66654881?v=4&amp;s=30" srcset="https://avatars0.githubusercontent.com/u/66654881?v=4&amp;s=60 2x" height="30" width="30" class="avatar__image" alt="">
+  
+</div>
+
+    </div>
+  </div>
+    <div class="chat-item__actions js-chat-item-actions">
+      <i class="chat-item__icon icon-check chat-item__icon--read js-chat-item-readby"></i>
+      <i class="chat-item__icon icon-ellipsis"></i>
+    </div>
+  <div class='chat-item__content'>
+    <div class='chat-item__details'>
+      <div class='chat-item__from js-chat-item-from'>Bryan C Guner</div>
+      <div class='chat-item__username js-chat-item-from'>@bgoonz</div>
+      <a class='chat-item__time js-chat-time'  href='https://gitter.im/bgoonz/community?at=601c7bbb24cd6b60d81c1111' title=""></a>
+    </div>
+    <div class='chat-item__text js-chat-item-text'>
+      <p>&lt;center&gt;<br><br># Hi, I am Bryan!<br><br>&lt;/center&gt;<br>&lt;center&gt;<br>&lt;div style=&quot; border: 1px solid black&quot;&gt;<br>&lt;img align=&quot;center&quot; src=&quot;https://github.com/bgoonz/bgoonz/blob/master/bryan-profile-pic.jpg?raw=true&quot; &gt;&lt;/img&gt;<br>&lt;/div&gt;<br><br>&lt;hr&gt;<br><br> &lt;center&gt;<br>&lt;div style=&quot; border: 1px solid black&quot;&gt;<br>&lt;img src=&quot;https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif&quot; alt=&quot;hr-line&quot; width=&quot;100%&quot; height=&quot;22&quot;&gt;<br>&lt;/div&gt;<br><br>&lt;hr&gt;<br>&lt;/center&gt;
+
+</p><p>&lt;p class=&quot;text spotlight&quot;&gt;Documentation&lt;/p&gt;<br>&lt;/center&gt;</p><p>&lt;hr&gt;
+
+
+</p><p><a href="http://#hi-im-bryan" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip">Hi I&#39;m Bryan!</a></p><ul>
+<li>[ ] ✅ <a href="http://#portfolio" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip">Portfolio:</a></li>
+<li>[ ] ✅- <a href="http://#or" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip">OR:</a></li>
+<li>[ ] ✅ <a href="http://#github-pages" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip">Github-Pages</a></li>
+<li>[ ] ✅ <a href="http://#github-gists" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip">Github Gists</a></li>
+<li>[ ] ✅ <a href="http://#web-dev-resource-hub" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip">Web Dev Resource Hub</a></li>
+<li>[ ] ✅ <a href="http://#mihir_begcom" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip">Mihir_Beg.com</a></li>
+<li>[ ] ✅ <a href="http://#interview-prep-static-site" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip">Interview Prep Static Site</a></li>
+<li>[ ] ✅ <a href="http://#data-structures-repository" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip">Data Structures Repository</a></li>
+<li>[ ] ✅ <a href="http://#learning-react-blog" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip">Learning React Blog</a></li>
+<li>[ ] ✅ <a href="http://#react-repo" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip">React Repo:</a></li>
+<li>[ ] ✅ <a href="http://#react-repo-1" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip">React Repo</a></li>
+<li>[ ] ✅ <a href="http://#email" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip"><em>Email</em></a></li>
+<li>[ ] ✅ <a href="http://#phone" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip"><em>Phone</em></a></li>
+<li>[ ] ✅ <a href="http://#social" rel="nofollow noopener noreferrer" target="_blank" class="link link-tooltip">Social</a></li>
+</ul>
+<hr>
+<p><a href="https://github.com/Naereen/StrapDown.js/releases/" rel="nofollow noopener noreferrer" target="_blank" class="link "><img src="https://user-content.gitter-static.net/11add82738f65da97c8c28b091ee9f9cd1b5eb21/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f4e61657265656e2f5374726170446f776e2e6a732f746f74616c2e737667" alt="Github all releases" rel="nofollow"></a></p><h2><a href="https://gitter.im/bgoonz/community?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge" rel="nofollow noopener noreferrer" target="_blank" class="link "><img src="https://user-content.gitter-static.net/022672ef3f7cdf3eaafc7da3f6f109e07ce0733a/68747470733a2f2f6261646765732e6769747465722e696d2f62676f6f6e7a2f636f6d6d756e6974792e737667" alt="Gitter" rel="nofollow"></a>    </h2>
+<h2><a href="https://github.com/ellerbrock/open-source-badges/" rel="nofollow noopener noreferrer" target="_blank" class="link "><img src="https://user-content.gitter-static.net/83461cc8fcc8227864bd718513c097e01ce4507f/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e706e673f763d313033" alt="Open Source Love" rel="nofollow"></a> <a href="https://github.com/ellerbrock/open-source-badges/" rel="nofollow noopener noreferrer" target="_blank" class="link "><img src="https://user-content.gitter-static.net/bb9df5faa0d102c724b0406044650654196fc901/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f626173682f76312f626173682e706e673f763d313033" alt="Bash Shell" rel="nofollow"></a></h2>
+<h2><a href="https://github.com/bgoonz/github-readme-stats&amp;count_private=true" rel="nofollow noopener noreferrer" target="_blank" class="link "><img src="https://user-content.gitter-static.net/011b44d9a2cb0a7941aa88dedd043263ce443ce1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d62676f6f6e7a" alt="Bryan&#39;s GitHub stats" rel="nofollow"></a></h2>
+<p><a href="http://shields.io/" rel="nofollow noopener noreferrer" target="_blank" class="link "><img src="https://user-content.gitter-static.net/07f9ee3f3152697cd084af5485160485f04d5c35/68747470733a2f2f696d672e736869656c64732e696f2f776562736974652d75702d646f776e2d677265656e2d7265642f687474702f736869656c64732e696f2e737667" alt="Website shields.io" rel="nofollow"></a><br><a href="https://github.com/Naereen/ama" rel="nofollow noopener noreferrer" target="_blank" class="link "><img src="https://user-content.gitter-static.net/e0dde0d5de4c3e0dbe06e6b2f4bc1e6a317e7446/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41736b2532306d652d616e797468696e672d3161626339632e737667" alt="Ask Me Anything !" rel="nofollow"></a><br><a href="https://colab.research.google.com/github/Naereen/badges" rel="nofollow noopener noreferrer" target="_blank" class="link "><img src="https://user-content.gitter-static.net/32fb0218e1a50bbc283d88d2a6e5d3b2fdec80c8/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Collab" rel="nofollow"></a></p><h2><a href="https://pypi.python.org/pypi/ansicolortags/" rel="nofollow noopener noreferrer" target="_blank" class="link "><img src="https://user-content.gitter-static.net/b46935a95b5a808f9abd603d5cbb0e73026a6d5b/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f616e7369636f6c6f72746167732e737667" alt="PyPI license" rel="nofollow"></a></h2>
+<p> <img src="https://user-content.gitter-static.net/2b284e77d54c6f460522c95c585f97c53ea37b4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c617426616d703b6c6f676f3d6a617661736372697074" alt="JavaScript" rel="nofollow"></p><p><img src="https://user-content.gitter-static.net/3c470d1f2408a7cb18b1981ac1c6ed2423ef6599/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c617426616d703b6c6f676f3d7265616374" alt="React" rel="nofollow"> <img src="https://user-content.gitter-static.net/11a14c2afc5bf7a0393ec2a6917dd6640a847742/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d6c69676874626c75653f7374796c653d666c617426616d703b6c6f676f3d7265647578" alt="Redux" rel="nofollow"></p><p> <img src="https://user-content.gitter-static.net/bd89f2a4e52877477f940a08f71bea6b79b8b721/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c617426616d703b6c6f676f3d68746d6c3526616d703b6c6f676f436f6c6f723d7768697465" alt="HTML5" rel="nofollow"> <img src="https://user-content.gitter-static.net/d89b659b6a7c434d0fcf9c4a91c87a9c40a9c415/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c617426616d703b6c6f676f3d63737333" alt="CSS3" rel="nofollow"> <img src="https://user-content.gitter-static.net/a8d5b2760a54544c3e60c2aad289424c43c3fe58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536173732d626c61636b3f7374796c653d666c617426616d703b6c6f676f3d73617373" alt="Sass" rel="nofollow"></p><p><img src="https://user-content.gitter-static.net/b9a7d431e4c03ec254fe9da5fcc8f1556f64c7c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573732d626c75653f7374796c653d666c617426616d703b6c6f676f3d65787072657373" alt="Express" rel="nofollow"> <img src="https://user-content.gitter-static.net/a084033ccfdffb38067530960e352b72f09b8c95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d677265656e3f7374796c653d666c617426616d703b6c6f676f3d4e6f64652e6a73" alt="Nodejs" rel="nofollow"><img src="https://user-content.gitter-static.net/e9da84c3fa3efb92cf09f0c75b424d1f550154da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d6c6967687479656c6c6f773f7374796c653d666c617426616d703b6c6f676f3d707974686f6e26616d703b6c6f676f436f6c6f723d626c7565" alt="Python" rel="nofollow">     <img src="https://user-content.gitter-static.net/95b9c59e30447995f8e6ea4ad8ae5bfc236dd261/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3739353242333f7374796c653d666c617426616d703b6c6f676f3d626f6f74737472617026616d703b6c6f676f436f6c6f723d7768697465" alt="Bootstrap" rel="nofollow"> </p><p> <img src="https://user-content.gitter-static.net/381292b68dc835c5b7f5eeae65d641f5ebbebc68/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c617426616d703b6c6f676f3d646f636b6572" alt="Docker" rel="nofollow">                                 <img src="https://user-content.gitter-static.net/1cb72b0d9f1f84bcd3bc2f2babdb7a2e48a24590/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c617426616d703b6c6f676f3d6d7973716c" alt="MySQL" rel="nofollow"> <img src="https://user-content.gitter-static.net/84e3c0db7aa129ccaa9f05f826f7f07f2ae9321a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d626c75653f7374796c653d666c617426616d703b6c6f676f3d706f737467726573716c" alt="PostgresQL" rel="nofollow"> <img src="https://user-content.gitter-static.net/a2b0c4a5648d0a5f5a194ae067bf7f7c7a61cfd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c617426616d703b6c6f676f3d676974" alt="Git" rel="nofollow">      <img src="https://user-content.gitter-static.net/b313e227627d0980c3e933fcc8e3d4c6abd6b5e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d527562792d6461726b7265643f7374796c653d666c617426616d703b6c6f676f3d72756279" alt="Ruby" rel="nofollow">             <img src="https://user-content.gitter-static.net/96c5d903e537e4d84c96a6b57a2dc3741fda0051/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6174657269616c55492d3030383143423f7374796c653d666c617426616d703b6c6f676f3d4d6174657269616c2d554926616d703b6c6f676f436f6c6f723d7768697465" alt="Material-UI" rel="nofollow">                     </p><hr>
+<p><a href="https://github.com/Naereen/StrapDown.js/stargazers/" rel="nofollow noopener noreferrer" target="_blank" class="link "><img src="https://user-content.gitter-static.net/501e660e862d3112d68c84314e6a980fd07d7cff/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f4e61657265656e2f5374726170446f776e2e6a732e7376673f7374796c653d736f6369616c26616d703b6c6162656c3d5374617226616d703b6d61784167653d32353932303030" alt="GitHub stars" rel="nofollow"></a></p><ul>
+<li><a href="https://github.com/bgoonz" rel="nofollow noopener noreferrer" target="_blank" class="link "><strong>GitHub</strong></a></li>
+<li><a href="https://www.instagram.com/bgoonz/" rel="nofollow noopener noreferrer" target="_blank" class="link "><strong>Instagram</strong></a></li>
+<li><a href="https://www.linkedin.com/in/bryan-guner-046199128/" rel="nofollow noopener noreferrer" target="_blank" class="link "><strong>LinkedIn</strong></a></li>
+</ul>
+<p> &lt;center</p>
+    </div>
+  </div>
+</div>
+</div>
+                <div class="chat-item model-id-60d3c3eb9cf3171730ef08c0 burstStart read  " role="listitem"><div class='chat-item__container'>
+  <div class='chat-item__aside'>
+    <div class="chat-item__avatar">
+      <div
+  class="trpDisplayPicture avatar-582b9dcad73408ce4f362626 avatar-s offline  ">
+  <img src="https://avatars0.githubusercontent.com/u/22999156?v=4&amp;s=30" srcset="https://avatars0.githubusercontent.com/u/22999156?v=4&amp;s=60 2x" height="30" width="30" class="avatar__image" alt="">
+  
+</div>
+
+    </div>
+  </div>
+    <div class="chat-item__actions js-chat-item-actions">
+      <i class="chat-item__icon icon-check chat-item__icon--read js-chat-item-readby"></i>
+      <i class="chat-item__icon icon-ellipsis"></i>
+    </div>
+  <div class='chat-item__content'>
+    <div class='chat-item__details'>
+      <div class='chat-item__from js-chat-item-from'>shiftaET</div>
+      <div class='chat-item__username js-chat-item-from'>@shiftaET</div>
+      <a class='chat-item__time js-chat-time'  href='https://gitter.im/bgoonz/community?at=60d3c3eb9cf3171730ef08c0' title=""></a>
+    </div>
+    <div class='chat-item__text js-chat-item-text'>
+      hi
+    </div>
+  </div>
+</div>
+</div>
+                <div class="chat-item model-id-60d3c3fabcb3e8060edece3b burstContinued read  " role="listitem"><div class='chat-item__container'>
+    <div class="chat-item__actions js-chat-item-actions">
+      <i class="chat-item__icon icon-check chat-item__icon--read js-chat-item-readby"></i>
+      <i class="chat-item__icon icon-ellipsis"></i>
+    </div>
+  <div class='chat-item__content'>
+    <div class='chat-item__text js-chat-item-text'>
+      are you available
+    </div>
+  </div>
+</div>
+</div>
+                <div class="chat-item model-id-60d3c4638a40b11728255f00 burstContinued read  " role="listitem"><div class='chat-item__container'>
+    <div class="chat-item__actions js-chat-item-actions">
+      <i class="chat-item__icon icon-check chat-item__icon--read js-chat-item-readby"></i>
+      <i class="chat-item__icon icon-ellipsis"></i>
+    </div>
+  <div class='chat-item__content'>
+    <div class='chat-item__text js-chat-item-text'>
+      to discuss the web audio api and your daw
+    </div>
+  </div>
+</div>
+</div>
+            </div>
+        </div>
+          <div id='initial' style="height:1px;width:1px;overflow:hidden;opacity:0"><a name="initial"/>_</a></div>
+      </div>
+    </div>
+    <div class="chat-connectivity-indicator-wrapper"></div>
+  </div>
+</div>
+      <footer class="chat-input chat-input-nli" id="chat-input-wrapper">
+  <a href="https://gitter.im/login?action=login" target="_top" class="chat-input__btn">
+  Sign in to start talking
+  </a>
+    <a href="https://matrix.to/#/#bgoonz_community:gitter.im?utm_source=gitter" class="chat-input__btn chat-input__btn--matrix" target="_blank" rel="nofollow noopener noreferrer">
+    <img src='http://cdn01.gitter.im/_s/07c505b13/images/svg/matrix-favicon-logo-white.svg' aria-hidden="true">
+    Chat via Matrix
+    </a>
+</footer>
+    </div>
+  </div>
+</div>
+<div class="trpBlankPage"></div>
+<script type="text/javascript">
+    var s = document.querySelector('#initial');
+    if(s) setTimeout(function() {
+      s.scrollIntoView();
+    }, 16) ;
+</script>
+
+      </div>
+    </div>
+
+    
+    <div class="js-drag-overlay drag-frame hide">
+      <span class="octicon octicon-arrow-down"></span>
+    </div>
+
+
+    <script type="text/javascript">window.gitterClientEnv = {"lang":"en","domain":"gitter.im","baseServer":"gitter.im","basePath":"https://gitter.im","apiBasePath":"https://gitter.im/api","homeUrl":"/","badgeBaseUrl":"https://badges.gitter.im","googleTrackingId":"UA-45918290-1","googleTrackingDomain":"gitter.im","env":"prod","cdns":["cdn01.gitter.im","cdn02.gitter.im","cdn03.gitter.im"],"version":"07c505","assetTag":"07c505b13","exportEnabled":true,"logging":false,"ravenUrl":"https://be4e47abe6ae4ed58bd8a5326124638e@sentry.matrix.org/25","websockets":{"fayeUrl":"https://ws.gitter.im/bayeux","options":{"timeout":120,"retry":2}},"avatarsUrl":"https://avatars.gitter.im","avatarCdns":["https://avatars-01.gitter.im","https://avatars-02.gitter.im/","https://avatars-03.gitter.im/","https://avatars-04.gitter.im/","https://avatars-05.gitter.im"],"vapidAppServerKey":"BMhrlZd_I5OFJSJQTbg2mZ5PTHarzenwsKfsRd8C0-HRBygpDj9O3M4VTJIQfB9VPDjAoO_w2eg7Sj_cMXzuLwI","headlineNumbers":{"gitterUsers":"800K+","gitterRooms":"300K+","gitterGroups":"90K+","gitterCountries":"100+"},"inviteEmailAbuseThresholdPerDay":10};window.troupeContext = {"accessToken":"$uV3CMOOgs9gGIA8O5ondWNiF5/eVMWKb4N2UnGEogWc=","isNativeDesktopApp":false,"locale":{"%d unread message":{"one":"%d unread message","other":"%d unread messages"},"Unread messages in %%s, %%s and one other":{"one":"Unread messages in %%s, %%s and one other","other":"Unread messages in %%s, %%s and %d others"},"Unread messages in %s":"Unread messages in %s","Unread messages in %s and %s":"Unread messages in %s and %s","Unread messages from %s":"Unread messages from %s","Unread messages from %s and %s":"Unread messages from %s and %s","Unread messages from %%s, %%s and one other":{"one":"Unread messages from %%s, %%s and one other","other":"Unread messages from %%s, %%s and %d others"},"Gitter is available in all modern browsers as well as apps for desktops.":"Gitter is available in all modern browsers as well as apps for desktops.","Mac":"Mac","Windows":"Windows","Linux 32":"Linux 32","Linux 64":"Linux 64","The above Mac installer is a signed version of 1.177 (backed by Safari). For an unsigned 5.0.1 installer (backed by <a %s>NW.js<\/a>), <a %s>click here to download<\/a>.":"The above Mac installer is a signed version of 1.177 (backed by Safari). For an unsigned 5.0.1 installer (backed by <a %s>NW.js<\/a>), <a %s>click here to download<\/a>.","Mac users on 10.9 or lower, <a %s>download here<\/a>.":"Mac users on 10.9 or lower, <a %s>download here<\/a>.","We also have a sweet little <a %s>IRC bridge<\/a>.":"We also have a sweet little <a %s>IRC bridge<\/a>.","The dedicated Android/iOS apps are no longer recommended and may be officially <a href='%s'>deprecated in the future<\/a>. For mobile, we recommend using the mobile web version in your browser.":"The dedicated Android/iOS apps are no longer recommended and may be officially <a href='%s'>deprecated in the future<\/a>. For mobile, we recommend using the mobile web version in your browser.","Our efforts are focused on the <a %s>webapp<\/a> which is the backbone of the mobile/desktop apps but mainly focused on the web experience. There are a number of bugs in these desktop/mobile clients and they spread the Gitter team too thin for us to give them proper attention. The apps are open-source if you want to tackle something particularly annoying to you.":"Our efforts are focused on the <a %s>webapp<\/a> which is the backbone of the mobile/desktop apps but mainly focused on the web experience. There are a number of bugs in these desktop/mobile clients and they spread the Gitter team too thin for us to give them proper attention. The apps are open-source if you want to tackle something particularly annoying to you.","desktop":"desktop","iOS":"iOS","Android":"Android","Support":"Support","API":"API","Blog":"Blog","Twitter":"Twitter","The dedicated Gitter Android/iOS apps are no longer recommended and are officially <a href='%s' target='_blank'>deprecated<\/a>. For Android/iOS, we bridge all public rooms over to Matrix, so you can use any <a href='%s' target='_blank'>Matrix client<\/a> like <a href='%s' target='_blank'>Element (Android)<\/a> or <a href='%s' target='_blank'>Element (iOS)<\/a> to access those rooms.":"The dedicated Gitter Android/iOS apps are no longer recommended and are officially <a href='%s' target='_blank'>deprecated<\/a>. For Android/iOS, we bridge all public rooms over to Matrix, so you can use any <a href='%s' target='_blank'>Matrix client<\/a> like <a href='%s' target='_blank'>Element (Android)<\/a> or <a href='%s' target='_blank'>Element (iOS)<\/a> to access those rooms.","The above Mac installer is a signed version of 1.177 (backed by Safari). For an unsigned 5.0.1 installer (backed by <a %s>NW.js<\/a>), <a %s>click here to download<\/a>. Mac users on 10.9 or lower, <a %s>download here<\/a>.":"The above Mac installer is a signed version of 1.177 (backed by Safari). For an unsigned 5.0.1 installer (backed by <a %s>NW.js<\/a>), <a %s>click here to download<\/a>. Mac users on 10.9 or lower, <a %s>download here<\/a>.","Gitter &mdash; Where developers come to talk.":"Gitter &mdash; Where developers come to talk.","Documentation":"Documentation"},"features":[],"roomMember":false,"user":null,"troupe":{"id":"601c7ade6da037398461201a","name":"bgoonz/community","topic":"","avatarUrl":"https://avatars-02.gitter.im/group/iv/4/601c7ade6da0373984612018","uri":"bgoonz/community","userCount":2,"url":"/bgoonz/community","githubType":"REPO_CHANNEL","associatedRepo":false,"security":"PUBLIC","groupId":"601c7ade6da0373984612018","group":{"id":"601c7ade6da0373984612018","name":"bgoonz","uri":"bgoonz","homeUri":"bgoonz/home","backedBy":{"type":"GH_USER","linkPath":"bgoonz"},"avatarUrl":"https://avatars-02.gitter.im/group/iv/4/601c7ade6da0373984612018"},"backend":{"type":"GROUP"},"public":true,"matrixRoomLink":"https://matrix.to/#/#bgoonz_community:gitter.im?utm_source=gitter"},"roomHasWelcomeMessage":false,"snapshots":{"rightToolbar":{},"allRooms":[],"groups":[]}};</script>
+    
+    <script type="text/javascript">window.webpackPublicPath = 'http://cdn02.gitter.im/_s/07c505b13/js/';</script>
+    <script type="text/javascript" src="http://cdn01.gitter.im/_s/07c505b13/js/runtime.bundle.js"></script>
+<script type="text/javascript" src="http://cdn03.gitter.im/_s/07c505b13/js/vendor.chunk.js"></script>
+<script type="text/javascript" src="http://cdn02.gitter.im/_s/07c505b13/js/default.chunk.js"></script>
+<script type="text/javascript" src="http://cdn02.gitter.im/_s/07c505b13/js/router-nli-chat.chunk.js"></script>
+<script type="text/javascript" src="http://cdn01.gitter.im/_s/07c505b13/js/router-app.chunk.js"></script>
+  
+  </body>
+</html>

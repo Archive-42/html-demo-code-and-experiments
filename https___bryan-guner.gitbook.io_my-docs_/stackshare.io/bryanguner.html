@@ -1,0 +1,1588 @@
+<!DOCTYPE html>
+<html lang='en'>
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"NRJS-7d14d1acf3e5752ad1b","applicationID":"392132819","transactionName":"IgkNQEpbCQoHE0pCRAQUEBtLXAoR","queueTime":0,"applicationTime":1313,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:["bam.nr-data.net"]},distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:"1067510592",accountID:"2543429",trustKey:"2543429",licenseKey:"NRJS-7d14d1acf3e5752ad1b",applicationID:"392132819"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?p("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&p("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(f&&f<r.startTime)return;p("lcp",[r])}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||p("cls",[t])})}function a(t){if(t instanceof g&&!y){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),y=!0,p("timing",["fi",e,n])}}function c(t){"hidden"===t&&(f=l.now(),p("pageHide",[f]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d,p=t("handle"),l=t("loader"),v=t(9),m=t(3),g=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){u=new PerformanceObserver(r);try{u.observe({entryTypes:["paint"]})}catch(h){}s=new PerformanceObserver(i);try{s.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}d=new PerformanceObserver(o);try{d.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var y=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(t){document.addEventListener(t,a,m(!1))})}v(c)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){y[t]=m(t).concat(e)}function v(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:h,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!T++){var t=P.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+P.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https:///")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+P.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,h="addEventListener",y="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1212.min.js"},M=w&&b&&b[h]&&!/CriOS/.test(navigator.userAgent),P=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:M,userAgent:s,disabled:E};if(!E){t(1),t(7),g[h]?(g[h]("DOMContentLoaded",o,l(!1)),m[h]("load",r,l(!1))):(g[y]("onreadystatechange",i),m[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var T=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<title>bryanguner | StackShare</title>
+<meta name="description" content="Check out bryanguner and their stack on StackShare">
+<meta name="robots" content="noindex">
+<link rel="canonical" href="https://stackshare.io/bryanguner">
+<meta property="og:image" content="https://img.stackshare.io/user/937634/default_064eb8c4f0849c9e5964c401ae408c82c6284437.jpg">
+<meta property="og:title" content="bryanguner">
+<meta property="og:site_name" content="StackShare">
+<meta property="og:url" content="https://stackshare.io/bryanguner">
+<meta property="og:description" content="Check out bryanguner and their stack on StackShare">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@stackshareio">
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<style type="text/css">
+/* latin */
+@font-face {
+  font-family: 'Droid Sans Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Sans Mono Regular'), local('DroidSansMono-Regular'), url(https://fonts.gstatic.com/s/droidsansmono/v9/6NUO8FuJNQ2MbkrZ5-J8lKFrp7pRef2rUGIW9g.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Open Sans Light Italic'), local('OpenSans-LightItalic'), url(https://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWyV9hrIqOxjaPX.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(https://fonts.gstatic.com/s/opensans/v15/mem6YaGs126MiZpBA-UFUK0Zdc1GAK6b.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Open Sans SemiBold Italic'), local('OpenSans-SemiBoldItalic'), url(https://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKXGUdhrIqOxjaPX.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUuhpKKSTjw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0bf8pkAg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhpKKSTjw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhpKKSTjw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhpKKSTjw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(https://fonts.gstatic.com/s/robotoslab/v7/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style>
+<script>
+  window.renderComponent = function(e,o,s,n,t){
+    var r=arguments.length>5&&void 0!==arguments[5]?arguments[5]:"{}";
+    r=JSON.parse(r);
+    window.__COMPONENT_RENDER_LIST__===void 0&&(window.__COMPONENT_RENDER_LIST__=[]);
+    window.__COMPONENT_RENDER_LIST__.push({name:e,domId:o,stateId:s,styleId:n,provider:t,props:r});
+  };
+</script>
+
+<link rel="stylesheet" media="all" href="https://stackshare.io/assets/application-527dda213c3967af5cf0efd94b5a7f71fccffc1f04cc0e2d69236643a4c5b309.css" />
+<link href='http://stackshare.io/featured-posts.atom' rel='alternate' title='StackShare RSS Feed' type='application/rss+xml'>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ndzgz7DyV53k/gCdbz+fLMLllxACw9w2kITfqoab9D3qlLIDN7U653d+W6Lx8Tdjr4DooM7Tt2Zo03J5/OK/9Q==" />
+<meta name='content-group' value='Users'>
+<script>
+//<![CDATA[
+UPLOADCARE_PUBLIC_KEY = "ef6555c1024d5e49c403";
+UPLOADCARE_LIVE = false;
+
+//]]>
+</script>
+<script>
+  (function(c,l,a,r,i,t,y){
+    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", "5e5d6cci2s");
+  
+  var contentGroupPage = "Users";
+  
+  clarity('set', 'contentGroupPage', contentGroupPage);
+</script>
+
+
+</head>
+<body>
+<div data-testid='body' id='wrap'>
+
+        <script type="application/json" id="HeaderNotice-apollo-state-427cda79-2d44-48fa-9e4a-f05cc4e7e7d3">{}</script>
+        
+  <!-- glamorIds: 8 -->
+  <script type="application/json" id="HeaderNotice-glamor-427cda79-2d44-48fa-9e4a-f05cc4e7e7d3">["1htug8r","1yodi52","iepywa","x5hg3h","u0iaox","9ilv8v","i2jp0v","gwph6j"]</script>
+  <style>@-webkit-keyframes animation_1htug8r{to{transform:rotate(360deg);-webkit-transform:rotate(360deg);}}@-moz-keyframes animation_1htug8r{to{transform:rotate(360deg);-webkit-transform:rotate(360deg);}}@-o-keyframes animation_1htug8r{to{transform:rotate(360deg);-webkit-transform:rotate(360deg);}}@keyframes animation_1htug8r{to{transform:rotate(360deg);-webkit-transform:rotate(360deg);}}@-webkit-keyframes animation_1yodi52{0%{background-position:0 0;}100%{background-position:100em 0;}}@-moz-keyframes animation_1yodi52{0%{background-position:0 0;}100%{background-position:100em 0;}}@-o-keyframes animation_1yodi52{0%{background-position:0 0;}100%{background-position:100em 0;}}@keyframes animation_1yodi52{0%{background-position:0 0;}100%{background-position:100em 0;}}@-webkit-keyframes animation_iepywa{0%, 100%{opacity:0;}50%{opacity:1;}}@-moz-keyframes animation_iepywa{0%, 100%{opacity:0;}50%{opacity:1;}}@-o-keyframes animation_iepywa{0%, 100%{opacity:0;}50%{opacity:1;}}@keyframes animation_iepywa{0%, 100%{opacity:0;}50%{opacity:1;}}@-webkit-keyframes animation_x5hg3h{100%{stroke-dashoffset:0;}}@-moz-keyframes animation_x5hg3h{100%{stroke-dashoffset:0;}}@-o-keyframes animation_x5hg3h{100%{stroke-dashoffset:0;}}@keyframes animation_x5hg3h{100%{stroke-dashoffset:0;}}@-webkit-keyframes animation_u0iaox{0%, 100%{transform:none;-webkit-transform:none;}50%{transform:scale3d(1.1, 1.1, 1);-webkit-transform:scale3d(1.1, 1.1, 1);}}@-moz-keyframes animation_u0iaox{0%, 100%{transform:none;-webkit-transform:none;}50%{transform:scale3d(1.1, 1.1, 1);-webkit-transform:scale3d(1.1, 1.1, 1);}}@-o-keyframes animation_u0iaox{0%, 100%{transform:none;-webkit-transform:none;}50%{transform:scale3d(1.1, 1.1, 1);-webkit-transform:scale3d(1.1, 1.1, 1);}}@keyframes animation_u0iaox{0%, 100%{transform:none;-webkit-transform:none;}50%{transform:scale3d(1.1, 1.1, 1);-webkit-transform:scale3d(1.1, 1.1, 1);}}@-webkit-keyframes animation_9ilv8v{100%{box-shadow:inset 0px 0px 0px 30px #068dfe;}}@-moz-keyframes animation_9ilv8v{100%{box-shadow:inset 0px 0px 0px 30px #068dfe;}}@-o-keyframes animation_9ilv8v{100%{box-shadow:inset 0px 0px 0px 30px #068dfe;}}@keyframes animation_9ilv8v{100%{box-shadow:inset 0px 0px 0px 30px #068dfe;}}@-webkit-keyframes animation_i2jp0v{0%{opacity:0;transform:rotate(45deg) translate(-5px, -5px);-webkit-transform:rotate(45deg) translate(-5px, -5px);}50%{opacity:1;}100%{opacity:0;transform:rotate(45deg) translate(5px, 5px);-webkit-transform:rotate(45deg) translate(5px, 5px);}}@-moz-keyframes animation_i2jp0v{0%{opacity:0;transform:rotate(45deg) translate(-5px, -5px);-webkit-transform:rotate(45deg) translate(-5px, -5px);}50%{opacity:1;}100%{opacity:0;transform:rotate(45deg) translate(5px, 5px);-webkit-transform:rotate(45deg) translate(5px, 5px);}}@-o-keyframes animation_i2jp0v{0%{opacity:0;transform:rotate(45deg) translate(-5px, -5px);-webkit-transform:rotate(45deg) translate(-5px, -5px);}50%{opacity:1;}100%{opacity:0;transform:rotate(45deg) translate(5px, 5px);-webkit-transform:rotate(45deg) translate(5px, 5px);}}@keyframes animation_i2jp0v{0%{opacity:0;transform:rotate(45deg) translate(-5px, -5px);-webkit-transform:rotate(45deg) translate(-5px, -5px);}50%{opacity:1;}100%{opacity:0;transform:rotate(45deg) translate(5px, 5px);-webkit-transform:rotate(45deg) translate(5px, 5px);}}.css-gwph6j,[data-css-gwph6j]{border-radius:2px;background-size:200% 100%;width:auto;height:auto;animation:20s animation_1yodi52 0s linear infinite;background:-webkit-linear-gradient(to right, #f1f1f1 0%, #fbfbfb 50%, #f1f1f1 100%); background: -moz-linear-gradient(to right, #f1f1f1 0%, #fbfbfb 50%, #f1f1f1 100%); background: linear-gradient(to right, #f1f1f1 0%, #fbfbfb 50%, #f1f1f1 100%);-webkit-animation:20s animation_1yodi52 0s linear infinite;}</style>
+  <div id="HeaderNotice-react-component-427cda79-2d44-48fa-9e4a-f05cc4e7e7d3" data-ssr="true" ><div style="z-index:1000" class="css-gwph6j"></div></div>
+  <script>
+    renderComponent('HeaderNotice','HeaderNotice-react-component-427cda79-2d44-48fa-9e4a-f05cc4e7e7d3','HeaderNotice-apollo-state-427cda79-2d44-48fa-9e4a-f05cc4e7e7d3','HeaderNotice-glamor-427cda79-2d44-48fa-9e4a-f05cc4e7e7d3', 'apollo','{"mobile":false}');
+  </script>
+  
+      
+<header id='navbar_wrap'>
+<div class='no-select' id='navbar'>
+<a class='navbar__logo' data-track-props='{&quot;origin&quot;:&quot;https://stackshare.io/bryanguner&quot;,&quot;target&quot;:&quot;logo&quot;}' data-track='nav.clicked' href='https://stackshare.io/'>
+<svg role="img" aria-label="StackShare" width="203px" height="31px" viewBox="0 0 812 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"><title>StackShare</title><g><path d="M221.086,85.794c0,7.342 -2.55,12.933 -7.651,16.775c-5.101,3.842 -12.731,5.762 -22.889,5.762c-5.208,0 -9.647,-0.352 -13.318,-1.056c-3.671,-0.704 -7.107,-1.739 -10.308,-3.105l0,-16.135c3.628,1.707 7.715,3.137 12.261,4.29c4.546,1.152 8.547,1.728 12.005,1.728c7.085,0 10.628,-2.048 10.628,-6.146c0,-1.537 -0.469,-2.785 -1.408,-3.746c-0.939,-0.96 -2.561,-2.048 -4.866,-3.265c-2.305,-1.216 -5.379,-2.636 -9.22,-4.258c-5.506,-2.305 -9.551,-4.439 -12.133,-6.402c-2.583,-1.964 -4.461,-4.215 -5.635,-6.755c-1.173,-2.54 -1.76,-5.666 -1.76,-9.38c0,-6.36 2.465,-11.279 7.395,-14.758c4.93,-3.479 11.919,-5.218 20.968,-5.218c8.623,0 17.01,1.878 25.163,5.634l-5.891,14.086c-3.585,-1.537 -6.936,-2.796 -10.052,-3.778c-3.116,-0.981 -6.296,-1.472 -9.54,-1.472c-5.762,0 -8.643,1.558 -8.643,4.674c0,1.75 0.928,3.265 2.785,4.546c1.857,1.28 5.922,3.18 12.197,5.698c5.591,2.262 9.689,4.375 12.293,6.339c2.604,1.963 4.524,4.225 5.762,6.786c1.238,2.561 1.857,5.613 1.857,9.156Z" style="fill-rule:nonzero;"/><path d="M259.924,92.773c3.415,0 7.513,-0.747 12.293,-2.241l0,14.534c-4.866,2.177 -10.841,3.265 -17.927,3.265c-7.811,0 -13.499,-1.974 -17.063,-5.922c-3.564,-3.948 -5.346,-9.871 -5.346,-17.767l0,-34.511l-9.348,0l0,-8.259l10.756,-6.531l5.635,-15.11l12.485,0l0,15.238l20.04,0l0,14.662l-20.04,0l0,34.511c0,2.774 0.779,4.823 2.337,6.146c1.558,1.323 3.617,1.985 6.178,1.985Z" style="fill-rule:nonzero;"/><path d="M325.59,107.051l-3.778,-9.732l-0.512,0c-3.287,4.14 -6.669,7.011 -10.148,8.611c-3.479,1.601 -8.014,2.401 -13.606,2.401c-6.872,0 -12.282,-1.963 -16.23,-5.89c-3.949,-3.927 -5.923,-9.519 -5.923,-16.775c0,-7.598 2.657,-13.2 7.971,-16.807c5.315,-3.607 13.329,-5.602 24.042,-5.986l12.421,-0.384l0,-3.138c0,-7.256 -3.713,-10.884 -11.14,-10.884c-5.72,0 -12.443,1.728 -20.168,5.186l-6.467,-13.19c8.238,-4.311 17.372,-6.466 27.403,-6.466c9.604,0 16.967,2.091 22.089,6.274c5.122,4.183 7.683,10.543 7.683,19.08l0,47.7l-13.637,0Zm-5.763,-33.166l-7.555,0.256c-5.677,0.171 -9.902,1.195 -12.677,3.074c-2.774,1.878 -4.162,4.738 -4.162,8.579c0,5.506 3.159,8.259 9.476,8.259c4.525,0 8.142,-1.301 10.853,-3.905c2.71,-2.604 4.065,-6.061 4.065,-10.372l0,-5.891Z" style="fill-rule:nonzero;"/><path d="M381.843,108.331c-22.281,0 -33.421,-12.229 -33.421,-36.687c0,-12.165 3.03,-21.459 9.091,-27.883c6.061,-6.424 14.748,-9.636 26.059,-9.636c8.281,0 15.708,1.622 22.281,4.866l-5.762,15.11c-3.074,-1.238 -5.933,-2.251 -8.58,-3.041c-2.646,-0.79 -5.293,-1.185 -7.939,-1.185c-10.159,0 -15.238,7.214 -15.238,21.641c0,14.001 5.079,21.001 15.238,21.001c3.756,0 7.235,-0.502 10.436,-1.505c3.202,-1.003 6.403,-2.571 9.604,-4.706l0,16.711c-3.158,2.006 -6.349,3.394 -9.572,4.162c-3.222,0.768 -7.288,1.152 -12.197,1.152Z" style="fill-rule:nonzero;"/><path d="M432.398,68.123l8.516,-10.885l20.04,-21.769l22.025,0l-28.428,31.053l30.157,40.529l-22.537,0l-20.617,-29.004l-8.387,6.723l0,22.281l-19.528,0l0,-99.625l19.528,0l0,44.434l-1.025,16.263l0.256,0Z" style="fill-rule:nonzero;"/><path d="M538.336,85.794c0,7.342 -2.55,12.933 -7.651,16.775c-5.101,3.842 -12.73,5.762 -22.889,5.762c-5.208,0 -9.647,-0.352 -13.318,-1.056c-3.671,-0.704 -7.107,-1.739 -10.308,-3.105l0,-16.135c3.628,1.707 7.715,3.137 12.261,4.29c4.546,1.152 8.548,1.728 12.005,1.728c7.086,0 10.628,-2.048 10.628,-6.146c0,-1.537 -0.469,-2.785 -1.408,-3.746c-0.939,-0.96 -2.561,-2.048 -4.866,-3.265c-2.305,-1.216 -5.378,-2.636 -9.22,-4.258c-5.506,-2.305 -9.551,-4.439 -12.133,-6.402c-2.582,-1.964 -4.46,-4.215 -5.634,-6.755c-1.174,-2.54 -1.761,-5.666 -1.761,-9.38c0,-6.36 2.465,-11.279 7.395,-14.758c4.93,-3.479 11.92,-5.218 20.969,-5.218c8.622,0 17.009,1.878 25.162,5.634l-5.89,14.086c-3.586,-1.537 -6.937,-2.796 -10.053,-3.778c-3.116,-0.981 -6.296,-1.472 -9.54,-1.472c-5.762,0 -8.643,1.558 -8.643,4.674c0,1.75 0.928,3.265 2.785,4.546c1.857,1.28 5.923,3.18 12.197,5.698c5.592,2.262 9.689,4.375 12.293,6.339c2.604,1.963 4.525,4.225 5.763,6.786c1.237,2.561 1.856,5.613 1.856,9.156Z" style="fill-rule:nonzero;"/><path d="M613.093,107.051l-19.528,0l0,-41.809c0,-10.33 -3.841,-15.495 -11.524,-15.495c-5.464,0 -9.412,1.857 -11.845,5.571c-2.433,3.713 -3.65,9.732 -3.65,18.055l0,33.678l-19.528,0l0,-99.625l19.528,0l0,20.296c0,1.58 -0.149,5.293 -0.448,11.141l-0.448,5.762l1.024,0c4.354,-7 11.269,-10.5 20.745,-10.5c8.409,0 14.79,2.262 19.144,6.787c4.353,4.524 6.53,11.012 6.53,19.464l0,46.675Z" style="fill-rule:nonzero;"/><path d="M672.1,107.051l-3.778,-9.732l-0.512,0c-3.286,4.14 -6.669,7.011 -10.148,8.611c-3.479,1.601 -8.014,2.401 -13.606,2.401c-6.872,0 -12.282,-1.963 -16.23,-5.89c-3.948,-3.927 -5.923,-9.519 -5.923,-16.775c0,-7.598 2.657,-13.2 7.972,-16.807c5.314,-3.607 13.328,-5.602 24.042,-5.986l12.421,-0.384l0,-3.138c0,-7.256 -3.714,-10.884 -11.141,-10.884c-5.72,0 -12.442,1.728 -20.168,5.186l-6.467,-13.19c8.238,-4.311 17.373,-6.466 27.403,-6.466c9.604,0 16.967,2.091 22.089,6.274c5.123,4.183 7.684,10.543 7.684,19.08l0,47.7l-13.638,0Zm-5.762,-33.166l-7.555,0.256c-5.677,0.171 -9.903,1.195 -12.678,3.074c-2.774,1.878 -4.161,4.738 -4.161,8.579c0,5.506 3.158,8.259 9.475,8.259c4.525,0 8.142,-1.301 10.853,-3.905c2.71,-2.604 4.066,-6.061 4.066,-10.372l0,-5.891Z" style="fill-rule:nonzero;"/><path d="M739.238,34.125c2.646,0 4.845,0.192 6.595,0.576l-1.473,18.312c-1.579,-0.427 -3.5,-0.641 -5.762,-0.641c-6.232,0 -11.088,1.601 -14.566,4.802c-3.479,3.202 -5.218,7.684 -5.218,13.446l0,36.431l-19.528,0l0,-71.582l14.79,0l2.881,12.037l0.96,0c2.22,-4.012 5.218,-7.245 8.996,-9.7c3.777,-2.454 7.886,-3.681 12.325,-3.681Z" style="fill-rule:nonzero;"/><path d="M779.293,48.019c-4.141,0 -7.385,1.312 -9.732,3.937c-2.348,2.625 -3.692,6.349 -4.034,11.173l27.403,0c-0.085,-4.824 -1.344,-8.548 -3.777,-11.173c-2.433,-2.625 -5.72,-3.937 -9.86,-3.937Zm2.753,60.312c-11.525,0 -20.531,-3.18 -27.019,-9.54c-6.488,-6.36 -9.732,-15.366 -9.732,-27.019c0,-11.994 2.998,-21.267 8.996,-27.819c5.997,-6.552 14.288,-9.828 24.874,-9.828c10.116,0 17.991,2.881 23.625,8.643c5.635,5.763 8.452,13.723 8.452,23.882l0,9.476l-46.163,0c0.213,5.549 1.857,9.882 4.93,12.997c3.073,3.116 7.384,4.674 12.933,4.674c4.311,0 8.388,-0.448 12.229,-1.344c3.842,-0.897 7.854,-2.326 12.037,-4.29l0,15.11c-3.414,1.708 -7.064,2.978 -10.948,3.81c-3.885,0.832 -8.622,1.248 -14.214,1.248Z" style="fill-rule:nonzero;"/></g><g><path d="M101.98,83c-3.9,0 -7.157,2.792 -7.886,6.482c-0.212,1.564 0,3.123 0,3.123c0.73,3.687 3.986,6.477 7.885,6.477c4.434,0 8.042,-3.605 8.042,-8.04c0,-4.434 -3.608,-8.042 -8.042,-8.042m-69.938,-29c-4.434,0 -8.041,3.606 -8.041,8.041c0,4.433 3.607,8.041 8.041,8.041c4.435,0 8.042,-3.608 8.042,-8.041c0,-4.435 -3.607,-8.041 -8.042,-8.041m69.924,-12.918c4.435,0 8.042,-3.608 8.042,-8.041c0,-4.435 -3.607,-8.041 -8.042,-8.041c-3.898,0 -7.155,2.791 -7.885,6.48l0,0.049c0,0 -0.18,1.654 0,3.073c0.73,3.689 3.987,6.48 7.885,6.48" style="fill:#008ff9;"/><path d="M101.965,105.961c-6.965,0 -12.841,-4.655 -14.692,-11.022l-13.897,0l-0.076,0.043l-16.575,-28.517l-10.133,0c-1.852,6.367 -7.727,11.023 -14.694,11.023c-8.451,0 -15.303,-6.852 -15.303,-15.303c0,-8.452 6.852,-15.305 15.303,-15.305c6.967,0 12.842,4.656 14.694,11.025l9.905,0l0.128,-0.217l16.675,-28.689l0.141,0.083l13.768,0c1.852,-6.369 7.727,-11.025 14.692,-11.025c8.453,0 15.305,6.853 15.305,15.305c0,8.451 -6.852,15.304 -15.305,15.304c-6.965,0 -12.84,-4.656 -14.692,-11.025l-9.03,0l-14.14,24.326l-0.006,0.023l0.005,0.022l14.162,24.366l9.073,0c1.851,-6.369 7.727,-11.026 14.692,-11.026c8.453,0 15.305,6.853 15.305,15.305c0,8.452 -6.852,15.304 -15.305,15.304Zm23.031,-105.961l-116.992,0c-4.42,0 -8.004,3.561 -8.004,7.953l0,108.094c0,4.393 3.584,7.953 8.004,7.953l116.992,0c4.421,0 8.004,-3.56 8.004,-7.953l0,-108.094c0,-4.392 -3.583,-7.953 -8.004,-7.953Z" style="fill:#008ff9;"/></g></svg>
+</a>
+<ul id='nav_menu'>
+<li class='hide-4'>
+<a class='api' data-testid='api' data-track-props='{&quot;origin&quot;:&quot;https://stackshare.io/bryanguner&quot;,&quot;target&quot;:&quot;private&quot;}' data-track='nav.clicked' href='https://stackshare.io/private'>Private StackShare <div class="pill">NEW</div></a>
+</li>
+<li class='hide-7'>
+<a data-testid='feed' data-track-props='{&quot;origin&quot;:&quot;https://stackshare.io/bryanguner&quot;,&quot;target&quot;:&quot;feed&quot;}' data-track='nav.clicked' href='https://stackshare.io/feed'>
+Feed
+</a>
+<li class='hide-6'>
+<a data-testid='browseStacks' data-track-props='{&quot;origin&quot;:&quot;https://stackshare.io/bryanguner&quot;,&quot;target&quot;:&quot;stacks&quot;}' data-track='nav.clicked' href='https://stackshare.io/stacks'>Browse Stacks</a>
+</li>
+<li class='hide-5'>
+<a data-testid='exploreTools' data-track-props='{&quot;origin&quot;:&quot;https://stackshare.io/bryanguner&quot;,&quot;target&quot;:&quot;trending&quot;}' data-track='nav.clicked' href='https://stackshare.io/tools/trending'>Explore Tools</a>
+</li>
+<li class='hide-4'>
+<a class='api' data-testid='api' data-track-props='{&quot;origin&quot;:&quot;https://stackshare.io/bryanguner&quot;,&quot;target&quot;:&quot;api&quot;}' data-track='nav.clicked' href='https://stackshare.io/api'>API</a>
+</li>
+<li class='hide-1'>
+<a class='jobs' data-testid='jobs' data-track-props='{&quot;origin&quot;:&quot;https://stackshare.io/bryanguner&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;rel&quot;:&quot;noopener noreferrer&quot;}' data-track='nav.clicked' href='https://stackshare.io/jobs'>Jobs</a>
+</li>
+<li class='hide show-4' data-click-toggle-class='show'>
+<svg height='5' viewBox='0 0 19 5' width='19' xmlns='http://www.w3.org/2000/svg'>
+<title>More</title>
+<g fill-rule='evenodd' fill='#D8D8D8'>
+<circle cx='2.5' cy='2.5' r='2.5'></circle>
+<circle cx='9.5' cy='2.5' r='2.5'></circle>
+<circle cx='16.5' cy='2.5' r='2.5'></circle>
+</g>
+</svg>
+<div class='navmenu'>
+<a class='hide show-7' data-track-props='{&quot;origin&quot;:&quot;https://stackshare.io/bryanguner&quot;,&quot;target&quot;:&quot;feed&quot;}' data-track='nav.clicked' href='https://stackshare.io/feed'>
+Feed
+</a>
+<a class='hide show-1' data-track-props='{&quot;origin&quot;:&quot;https://stackshare.io/bryanguner&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;rel&quot;:&quot;noopener noreferrer&quot;}' data-track='nav.clicked' href='https://stackshare.io/private'>Private StackShare <div class="pill">NEW</div></a>
+<a class='hide show-6' data-track-props='{&quot;origin&quot;:&quot;https://stackshare.io/bryanguner&quot;,&quot;target&quot;:&quot;stacks&quot;}' data-track='nav.clicked' href='https://stackshare.io/stacks'>Browse Stacks</a>
+<a class='hide show-5' data-track-props='{&quot;origin&quot;:&quot;https://stackshare.io/bryanguner&quot;,&quot;target&quot;:&quot;trending&quot;}' data-track='nav.clicked' href='https://stackshare.io/tools/trending'>Explore Tools</a>
+<a class='hide show-4 api' data-track-props='{&quot;origin&quot;:&quot;https://stackshare.io/bryanguner&quot;,&quot;target&quot;:&quot;api&quot;}' data-track='nav.clicked' href='https://stackshare.io/api'>API</a>
+<a class='hide show-1 jobs' data-track-props='{&quot;origin&quot;:&quot;https://stackshare.io/bryanguner&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;rel&quot;:&quot;noopener noreferrer&quot;}' data-track='nav.clicked' href='https://stackshare.io/jobs'>Jobs</a>
+</div>
+</li>
+</li>
+
+</ul>
+<div class='navbar__main'>
+<div class='search-navbar'>
+<script>
+  function navbar_search() {
+    var input = document.getElementById('header-search')
+    var q = input.value
+    if (q)
+      window.location = '/search/q=' + encodeURIComponent(q)
+    return false
+  }
+</script>
+<div class='search-navbar'>
+<form class='search' id='header-search-container' onsubmit='return navbar_search()'>
+<label for='header-search' style='position: absolute; left: -99999px;'>Search StackShare</label>
+<input autocomplete='off' data-testid='search' id='header-search' name='header-search' placeholder='Search'>
+</form>
+<div class='search-container search-arrow hidden'>
+<a class='search-page' href='https://stackshare.io/search'>
+<span class='octicon octicon-search dropdown-active-search'></span>
+<span class='query'>type your search</span>
+</a>
+<div class='group-container'>
+<div class='group group-services hidden'>
+<div class='header'>
+<span>Tools</span>
+<a href='#'>More</a>
+</div>
+</div>
+<div class='group group-stacks hidden'>
+<div class='header'>
+<span>Stacks</span>
+<a href='#'>More</a>
+</div>
+</div>
+<div class='group group-companies hidden'>
+<div class='header'>
+<span>Companies</span>
+<a href='#'>More</a>
+</div>
+</div>
+<div class='group group-functions hidden'>
+<div class='header'>
+<span>Groups</span>
+<a href='#'>More</a>
+</div>
+</div>
+<div class='group group-categories hidden'>
+<div class='header'>
+<span>Categories</span>
+<a href='#'>More</a>
+</div>
+</div>
+<div class='group group-users hidden'>
+<div class='header'>
+<span>Users</span>
+<a href='#'>More</a>
+</div>
+</div>
+<div class='group group-stackups hidden'>
+<div class='header'>
+<span>Stackups</span>
+<a href='#'>More</a>
+</div>
+</div>
+<div class='group group-posts hidden'>
+<div class='header'>
+<span>Posts</span>
+<a href='#'>More</a>
+</div>
+</div>
+<div class='group group-packages hidden'>
+<div class='header'>
+<span>Packages</span>
+<a href='#'>More</a>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class='login-wrapper'>
+<a class='' data-target='#signinModal' data-testid='signUp' data-toggle='modal' data-track='signup.clicked_signup' href='#' id='login-nav'>
+<span style='font-size: 14px;font-family: &#39;Open Sans&#39;,&#39;Helvetica Neue&#39;,Helvetica,Arial,sans !important;font-weight:normal'>Sign up | Login</span>
+</a>
+</div>
+</div>
+</div>
+</header>
+
+<style>
+  #reviews-container li {border-left: 5px solid #EAEAEA;border-bottom:0}
+  #review {padding: 0px;margin-bottom:60px}
+</style>
+<div class='user-container' style='margin-bottom:100px'>
+<div class='container'>
+<div class='row profile-header'>
+<div class='col-md-3 col-md-offset-0 col-sm-offset-0 col-sm-3 col-xs-12 profile-tablet'>
+<div class='landing-display-name' style='padding:10px 0 0 0;margin-top:5px;text-align:left'>
+<div id='review-author' style='margin-top:10px;margin-bottom:35px;line-height: 10px;padding:0'>
+<div class='row' id='uimg' style='display:inline-block'>
+<div>
+<img class="review-author-img user-show-img" src="https://img.stackshare.io/user/937634/default_064eb8c4f0849c9e5964c401ae408c82c6284437.jpg" />
+</div>
+<div class='landing-stack-name profile-name' style='margin: 0 10px 20px 10px;font-size:23px;line-height: 25px;'>
+Bryan
+Guner
+</div>
+<div class='landing-stack-name profile-name' style='margin: 0 10px;font-weight:normal;line-height: 25px;'>bryanguner</div>
+<div class='profile-title'>
+<span class='company-info'>student</span>
+<span style='font-size:16px;color:grey'>|</span>
+<span class='company-info'>Lambda</span>
+</div>
+</div>
+</div>
+<div class='row' id='uimg'>
+<div class='total-score'>
+15
+points
+</div>
+</div>
+<hr>
+
+</div>
+</div>
+<div class='col-md-9 col-md-offset-0 col-sm-offset-0 col-sm-9 col-xs-offset-0 col-xs-12 tools-tablet'>
+<div class='row' style='padding-top: 45px;'>
+<div>
+<div class='row'>
+<div class='col-md-8 col-sm-8 col-xs-8'>
+<div id="UsersBanner-react-component-8e1ba66e-94f1-4d1b-a1fd-57fadfb3f713"></div>
+</div>
+</div>
+<div class='row section-title-row'>
+<span class='section-title'>
+Following
+</span>
+</div>
+</div>
+<div class='following-wrapper'>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="Babel" data-align="left" href="https://stackshare.io/babel"><img src="https://img.stackshare.io/service/2739/-1wfGjNw.png" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="Debian" data-align="left" href="https://stackshare.io/debian"><img src="https://img.stackshare.io/service/1656/vd4gAekh.png" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="WebStorm" data-align="left" href="https://stackshare.io/webstorm"><img src="https://img.stackshare.io/service/1455/icon_WebStorm.png" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="Grunt" data-align="left" href="https://stackshare.io/grunt"><img src="https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="Bower" data-align="left" href="https://stackshare.io/bower"><img src="https://img.stackshare.io/service/847/66db62603f426a8fc6664081811be6d4.png" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="Handlebars.js" data-align="left" href="https://stackshare.io/handlebars"><img src="https://img.stackshare.io/service/1143/Handlebars.png" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="Markdown" data-align="left" href="https://stackshare.io/markdown"><img src="https://img.stackshare.io/service/1147/markdown.png" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="Notepad++" data-align="left" href="https://stackshare.io/notepad-plus-plus"><img src="https://img.stackshare.io/service/646/default_abe7c8d88f6928ce412eff1e576c52119f8c03af.png" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="DigitalOcean" data-align="left" href="https://stackshare.io/digitalocean"><img src="https://img.stackshare.io/service/295/Onjxs6Lw_400x400.jpg" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="GitHub Pages" data-align="left" href="https://stackshare.io/github-pages"><img src="https://img.stackshare.io/service/683/default_5eeb660db1239eeb3f1c1f6187f2abf0f3a0500d.png" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="Skype" data-align="left" href="https://stackshare.io/skype"><img src="https://img.stackshare.io/service/340/skype.png" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="PayPal" data-align="left" href="https://stackshare.io/paypal"><img src="https://img.stackshare.io/service/236/yy3lVE1y.jpeg" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="Google AdSense" data-align="left" href="https://stackshare.io/google-adsense"><img src="https://img.stackshare.io/service/5137/xvWejEyc_400x400.jpg" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="Stripe" data-align="left" href="https://stackshare.io/stripe"><img src="https://img.stackshare.io/service/97/eW6tXeq3.png" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="Microsoft Azure" data-align="left" href="https://stackshare.io/microsoft-azure"><img src="https://img.stackshare.io/service/213/default_88defae415fcb9cd0ac5d36c1ed27e74133c6287.jpg" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="Confluence" data-align="left" href="https://stackshare.io/confluence"><img src="https://img.stackshare.io/service/769/5_z16TbH_400x400.jpg" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="PyCharm" data-align="left" href="https://stackshare.io/pycharm"><img src="https://img.stackshare.io/service/1644/logo.png" /></a>
+</div>
+</div>
+<div class='col-lg-1 col-md-2 col-sm-2 col-xs-3'>
+<div class='stack-detail-service'>
+<a class="service-logo hint hint--top" data-hint="ExpressJS" data-align="left" href="https://stackshare.io/expressjs"><img src="https://img.stackshare.io/service/1163/hashtag.png" /></a>
+</div>
+</div>
+</div>
+</div>
+<hr style='margin-bottom:0'>
+<div class='trending' id='user-pills-nav'>
+<div class='container'>
+<ul class='nav nav-pills user-profile-tabs' id='user-tab-fix' role='tablist'>
+<li class='active'>
+<a data-href='/bryanguner/stacks/ajax' data-target='#ajax-content' data-toggle='tabajax' href='https://stackshare.io/bryanguner/stacks' id='tab-link-user' role='tab' style='font-size: 13px'>
+<div class='score-breakdown' id='user-count'>5</div>
+Stacks
+</a>
+</li>
+<li class='hidden-sm'>
+<a data-href='/bryanguner/favorites/ajax' data-target='#ajax-content' data-toggle='tabajax' href='https://stackshare.io/bryanguner/favorites' id='tab-link-user' role='tab' style='font-size: 13px'>
+<div class='score-breakdown' id='user-count'>0</div>
+Favorites
+</a>
+</li>
+<li class='hidden-sm'>
+<a href='https://stackshare.io/bryanguner/following' id='tab-link-user' style='font-size: 13px'>
+<div class='score-breakdown' id='user-count'>68</div>
+Follows
+</a>
+</li>
+<li class='hidden-xs'>
+<a data-href='/bryanguner/one-liners/ajax' data-target='#ajax-content' data-toggle='tabajax' href='https://stackshare.io/bryanguner/one-liners' id='tab-link-user' role='tab' style='font-size: 13px'>
+<div class='score-breakdown' id='user-count'>0</div>
+One-Liners
+</a>
+</li>
+<li>
+<a data-href='/bryanguner/votes/ajax' data-target='#ajax-content' data-toggle='tabajax' href='https://stackshare.io/bryanguner/votes' id='tab-link-user' role='tab' style='font-size: 13px'>
+<div class='score-breakdown' id='user-count'>0</div>
+Votes
+</a>
+</li>
+<li class='hidden-xs hidden-sm'>
+<a data-href='/bryanguner/reviews/ajax' data-target='#ajax-content' data-toggle='tabajax' href='https://stackshare.io/bryanguner/reviews' id='tab-link-user' role='tab' style='font-size: 13px'>
+<div class='score-breakdown' id='user-count'>0</div>
+Reviews
+</a>
+</li>
+<li class='hidden-xs hidden-sm'>
+<a data-href='/bryanguner/comments/ajax' data-target='#ajax-content' data-toggle='tabajax' href='https://stackshare.io/bryanguner/comments' id='tab-link-user' role='tab' style='font-size: 13px'>
+<div class='score-breakdown' id='user-count'>0</div>
+Comments
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='tab-content' id='user-tab-content' style='margin: 30px 0 170px 0;'>
+<div class='tab-pane in active' id='ajax-content'>
+<div class='tab-content container upfs' style='margin-top: 15px;'>
+<div class='tab-pane fade in row active' id='list'>
+<div class='col-md-8 col-sm-12'>
+<div class='section-title div-center' style='padding: 20px 0 0 0;'>
+personal stacks
+</div>
+<div class='div-center'>
+<div class='col-md-8 col-sm-12 col-xs-12' id='card-list'>
+<div class='list-container' style='margin-bottom:10px;background-color:#fff'>
+<div class='row personal-stacks-mobile'>
+<a class='stack' href='https://stackshare.io/bryanguner/my-stack'>
+<div class='col-md-2 col-sm-2 col-xs-3'>
+<div class='tool-logo tool-logo-mobile' style='padding:12px 0'><img style="width:46px;height:46px;margin: auto;" src="https://img.stackshare.io/user/937634/064eb8c4f0849c9e5964c401ae408c82c6284437.jpg" /></div>
+</div>
+<div class='col-md-9 col-sm-9 col-xs-9' id='new-col-fix'>
+<div class='row'>
+<div id='service-card-link'>
+<span id='service-name-card'>My Stack</span>
+<span class='octicon octicon-eye' style='font-size: 17px;color:#C5C5C5;margin-left:3px;font-weight:100;'></span>
+<span class='favorite-count' style='font-size: 14px;color:#C5C5C5;font-weight: 600;'>1</span>
+</div>
+</div>
+<div class='row' style='height: 30px;overflow: hidden;'>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Microsoft Excel
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Babel
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Debian
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+WebStorm
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Grunt
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Bower
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Handlebars.js
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Markdown
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Notepad++
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+DigitalOcean
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+GitHub Pages
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Skype
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+PayPal
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Google AdSense
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Stripe
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Microsoft Azure
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Confluence
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+PyCharm
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+ExpressJS
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Dropbox
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Vim
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Redux
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Heroku
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+VirtualBox
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Webpack
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Sublime Text
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Firebase
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Google Maps
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Jira
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+GitLab
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Amazon S3
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Kubernetes
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Trello
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Font Awesome
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Bitbucket
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Visual Studio
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+CSS 3
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Sass
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+IntelliJ IDEA
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Gmail
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+npm
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+WordPress
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+MongoDB
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+PostgreSQL
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Postman
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Google Drive
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Google Fonts
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+ES6
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+TypeScript
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Stack Overflow
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Slack
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Java
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Google Analytics
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Visual Studio Code
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+HTML5
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+React
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Docker
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+jQuery
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Git
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Python
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+JavaScript
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+GitHub
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Node.js
++
+</div>
+</div>
+</div>
+<div class='col-md-1 col-sm-1 col-xs-1' style='position: absolute;right: 0;top: 0px;'>
+<span class='toggle-favorite-service score-card-trending count' style='display: inline-flex;min-width: none;min-width: 100% !important;'>
+<i class='octicon octicon-star trending-star' id='fav'></i>
+</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class='col-md-8 col-sm-12 col-xs-12' id='card-list'>
+<div class='list-container' style='margin-bottom:10px;background-color:#fff'>
+<div class='row personal-stacks-mobile'>
+<a class='stack' href='https://stackshare.io/bryanguner/basic'>
+<div class='col-md-2 col-sm-2 col-xs-3'>
+<div class='tool-logo tool-logo-mobile' style='padding:12px 0'><img style="width:46px;height:46px;margin: auto;" src="https://img.stackshare.io/user/937634/064eb8c4f0849c9e5964c401ae408c82c6284437.jpg" /></div>
+</div>
+<div class='col-md-9 col-sm-9 col-xs-9' id='new-col-fix'>
+<div class='row'>
+<div id='service-card-link'>
+<span id='service-name-card'>basic</span>
+<span class='octicon octicon-eye' style='font-size: 17px;color:#C5C5C5;margin-left:3px;font-weight:100;'></span>
+<span class='favorite-count' style='font-size: 14px;color:#C5C5C5;font-weight: 600;'>2</span>
+</div>
+</div>
+<div class='row' style='height: 30px;overflow: hidden;'>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+jQuery
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+jquery
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+jQuery
++
+</div>
+</div>
+</div>
+<div class='col-md-1 col-sm-1 col-xs-1' style='position: absolute;right: 0;top: 0px;'>
+<span class='toggle-favorite-service score-card-trending count' style='display: inline-flex;min-width: none;min-width: 100% !important;'>
+<i class='octicon octicon-star trending-star' id='fav'></i>
+</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class='col-md-8 col-sm-12 col-xs-12' id='card-list'>
+<div class='list-container' style='margin-bottom:10px;background-color:#fff'>
+<div class='row personal-stacks-mobile'>
+<a class='stack' href='https://stackshare.io/bryanguner/webdevhub'>
+<div class='col-md-2 col-sm-2 col-xs-3'>
+<div class='tool-logo tool-logo-mobile' style='padding:12px 0'><img style="width:46px;height:46px;margin: auto;" src="https://img.stackshare.io/user/937634/064eb8c4f0849c9e5964c401ae408c82c6284437.jpg" /></div>
+</div>
+<div class='col-md-9 col-sm-9 col-xs-9' id='new-col-fix'>
+<div class='row'>
+<div id='service-card-link'>
+<span id='service-name-card'>webdevhub</span>
+<span class='octicon octicon-eye' style='font-size: 17px;color:#C5C5C5;margin-left:3px;font-weight:100;'></span>
+<span class='favorite-count' style='font-size: 14px;color:#C5C5C5;font-weight: 600;'>13</span>
+</div>
+</div>
+<div class='row' style='height: 30px;overflow: hidden;'>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+spec
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+home
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+table
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+github
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+promise
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+test
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+description
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+serve
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+scripts
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+shell
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+plugin
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+auth
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+table
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+repository
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+html
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+resource
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+github
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+http
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+repos
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+lint
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+version
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Stan
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Omise
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+api/v1
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Mako
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+server
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+promise
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+sass
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+https
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+ejs
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+http
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+node
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+promise
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+test
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+coffeescript
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+read
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+status
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+search
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+main
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Descript
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+C3.js
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Lerna
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+EJS
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+typescript
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+eslint-plugin-promise
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Pug
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+CoffeeScript
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Smarty
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+ejs
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+pug
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+version
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+serve
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+thor
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+lerna
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+http
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+algoliasearch
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+eslint
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+node
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+sass
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Elixir
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+echo
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Handlebars.js
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+C++
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+PowerShell
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Echo
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+PHP
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Sass
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+ESLint
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Algolia
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Python
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+GitHub
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+C#
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Netlify
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+TypeScript
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+JavaScript
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Ruby
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Java
++
+</div>
+</div>
+</div>
+<div class='col-md-1 col-sm-1 col-xs-1' style='position: absolute;right: 0;top: 0px;'>
+<span class='toggle-favorite-service score-card-trending count' style='display: inline-flex;min-width: none;min-width: 100% !important;'>
+<i class='octicon octicon-star trending-star' id='fav'></i>
+</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class='col-md-8 col-sm-12 col-xs-12' id='card-list'>
+<div class='list-container' style='margin-bottom:10px;background-color:#fff'>
+<div class='row personal-stacks-mobile'>
+<a class='stack' href='https://stackshare.io/bryanguner/utils'>
+<div class='col-md-2 col-sm-2 col-xs-3'>
+<div class='tool-logo tool-logo-mobile' style='padding:12px 0'><img style="width:46px;height:46px;margin: auto;" src="https://img.stackshare.io/user/937634/064eb8c4f0849c9e5964c401ae408c82c6284437.jpg" /></div>
+</div>
+<div class='col-md-9 col-sm-9 col-xs-9' id='new-col-fix'>
+<div class='row'>
+<div id='service-card-link'>
+<span id='service-name-card'>utils</span>
+<span class='octicon octicon-eye' style='font-size: 17px;color:#C5C5C5;margin-left:3px;font-weight:100;'></span>
+<span class='favorite-count' style='font-size: 14px;color:#C5C5C5;font-weight: 600;'>11</span>
+</div>
+</div>
+<div class='row' style='height: 30px;overflow: hidden;'>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+util
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+home
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+origin
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+font
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+query
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+github
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+load
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+description
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+time
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+test
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+scripts
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+repos
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+auth
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+file
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+html
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+dash
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+github
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+http
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+repository
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+version
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Open PostgreSQL Monitoring
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Just
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+code
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+bootstrap
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+https
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+http
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+test
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+bootstrap
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+read
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+main
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+util
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Descript
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+tools
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+jQuery
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+jquery
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+version
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+bootstrap
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+mout
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+thor
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+http
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+utils
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+jQuery
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+GitHub
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Dash
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Bootstrap
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+JavaScript
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Java
++
+</div>
+</div>
+</div>
+<div class='col-md-1 col-sm-1 col-xs-1' style='position: absolute;right: 0;top: 0px;'>
+<span class='toggle-favorite-service score-card-trending count' style='display: inline-flex;min-width: none;min-width: 100% !important;'>
+<i class='octicon octicon-star trending-star' id='fav'></i>
+</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class='col-md-8 col-sm-12 col-xs-12' id='card-list'>
+<div class='list-container' style='margin-bottom:10px;background-color:#fff'>
+<div class='row personal-stacks-mobile'>
+<a class='stack' href='https://stackshare.io/bryanguner/lambda'>
+<div class='col-md-2 col-sm-2 col-xs-3'>
+<div class='tool-logo tool-logo-mobile' style='padding:12px 0'><img style="width:46px;height:46px;margin: auto;" src="https://img.stackshare.io/user/937634/064eb8c4f0849c9e5964c401ae408c82c6284437.jpg" /></div>
+</div>
+<div class='col-md-9 col-sm-9 col-xs-9' id='new-col-fix'>
+<div class='row'>
+<div id='service-card-link'>
+<span id='service-name-card'>Lambda</span>
+<span class='octicon octicon-eye' style='font-size: 17px;color:#C5C5C5;margin-left:3px;font-weight:100;'></span>
+<span class='favorite-count' style='font-size: 14px;color:#C5C5C5;font-weight: 600;'>2</span>
+</div>
+</div>
+<div class='row' style='height: 30px;overflow: hidden;'>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+shell
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+html
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+ejs
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Mako
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Pug
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+EJS
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+pug
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+ejs
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Python
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+JavaScript
++
+</div>
+<div class='stack-logo' style='color:grey;line-height: 25px;'>
+Ruby
++
+</div>
+</div>
+</div>
+<div class='col-md-1 col-sm-1 col-xs-1' style='position: absolute;right: 0;top: 0px;'>
+<span class='toggle-favorite-service score-card-trending count' style='display: inline-flex;min-width: none;min-width: 100% !important;'>
+<i class='octicon octicon-star trending-star' id='fav'></i>
+</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+        <script type="application/json" id="Footer-apollo-state-951a7518-d42e-4d32-bbae-3f110d8d20d8">{}</script>
+        
+  <!-- glamorIds: 20 -->
+  <script type="application/json" id="Footer-glamor-951a7518-d42e-4d32-bbae-3f110d8d20d8">["1htug8r","1yodi52","iepywa","x5hg3h","u0iaox","9ilv8v","i2jp0v","ts0y2j","cs546h","1fco1ts","11a2nsi","1npm75a","1gn11bn","nms7k7","1y302zr","11gxadc","1iqd2ec","13bbxli","de1dx1","zr18wh"]</script>
+  <style>@-webkit-keyframes animation_1htug8r{to{transform:rotate(360deg);-webkit-transform:rotate(360deg);}}@-moz-keyframes animation_1htug8r{to{transform:rotate(360deg);-webkit-transform:rotate(360deg);}}@-o-keyframes animation_1htug8r{to{transform:rotate(360deg);-webkit-transform:rotate(360deg);}}@keyframes animation_1htug8r{to{transform:rotate(360deg);-webkit-transform:rotate(360deg);}}@-webkit-keyframes animation_1yodi52{0%{background-position:0 0;}100%{background-position:100em 0;}}@-moz-keyframes animation_1yodi52{0%{background-position:0 0;}100%{background-position:100em 0;}}@-o-keyframes animation_1yodi52{0%{background-position:0 0;}100%{background-position:100em 0;}}@keyframes animation_1yodi52{0%{background-position:0 0;}100%{background-position:100em 0;}}@-webkit-keyframes animation_iepywa{0%, 100%{opacity:0;}50%{opacity:1;}}@-moz-keyframes animation_iepywa{0%, 100%{opacity:0;}50%{opacity:1;}}@-o-keyframes animation_iepywa{0%, 100%{opacity:0;}50%{opacity:1;}}@keyframes animation_iepywa{0%, 100%{opacity:0;}50%{opacity:1;}}@-webkit-keyframes animation_x5hg3h{100%{stroke-dashoffset:0;}}@-moz-keyframes animation_x5hg3h{100%{stroke-dashoffset:0;}}@-o-keyframes animation_x5hg3h{100%{stroke-dashoffset:0;}}@keyframes animation_x5hg3h{100%{stroke-dashoffset:0;}}@-webkit-keyframes animation_u0iaox{0%, 100%{transform:none;-webkit-transform:none;}50%{transform:scale3d(1.1, 1.1, 1);-webkit-transform:scale3d(1.1, 1.1, 1);}}@-moz-keyframes animation_u0iaox{0%, 100%{transform:none;-webkit-transform:none;}50%{transform:scale3d(1.1, 1.1, 1);-webkit-transform:scale3d(1.1, 1.1, 1);}}@-o-keyframes animation_u0iaox{0%, 100%{transform:none;-webkit-transform:none;}50%{transform:scale3d(1.1, 1.1, 1);-webkit-transform:scale3d(1.1, 1.1, 1);}}@keyframes animation_u0iaox{0%, 100%{transform:none;-webkit-transform:none;}50%{transform:scale3d(1.1, 1.1, 1);-webkit-transform:scale3d(1.1, 1.1, 1);}}@-webkit-keyframes animation_9ilv8v{100%{box-shadow:inset 0px 0px 0px 30px #068dfe;}}@-moz-keyframes animation_9ilv8v{100%{box-shadow:inset 0px 0px 0px 30px #068dfe;}}@-o-keyframes animation_9ilv8v{100%{box-shadow:inset 0px 0px 0px 30px #068dfe;}}@keyframes animation_9ilv8v{100%{box-shadow:inset 0px 0px 0px 30px #068dfe;}}@-webkit-keyframes animation_i2jp0v{0%{opacity:0;transform:rotate(45deg) translate(-5px, -5px);-webkit-transform:rotate(45deg) translate(-5px, -5px);}50%{opacity:1;}100%{opacity:0;transform:rotate(45deg) translate(5px, 5px);-webkit-transform:rotate(45deg) translate(5px, 5px);}}@-moz-keyframes animation_i2jp0v{0%{opacity:0;transform:rotate(45deg) translate(-5px, -5px);-webkit-transform:rotate(45deg) translate(-5px, -5px);}50%{opacity:1;}100%{opacity:0;transform:rotate(45deg) translate(5px, 5px);-webkit-transform:rotate(45deg) translate(5px, 5px);}}@-o-keyframes animation_i2jp0v{0%{opacity:0;transform:rotate(45deg) translate(-5px, -5px);-webkit-transform:rotate(45deg) translate(-5px, -5px);}50%{opacity:1;}100%{opacity:0;transform:rotate(45deg) translate(5px, 5px);-webkit-transform:rotate(45deg) translate(5px, 5px);}}@keyframes animation_i2jp0v{0%{opacity:0;transform:rotate(45deg) translate(-5px, -5px);-webkit-transform:rotate(45deg) translate(-5px, -5px);}50%{opacity:1;}100%{opacity:0;transform:rotate(45deg) translate(5px, 5px);-webkit-transform:rotate(45deg) translate(5px, 5px);}}.css-ts0y2j,[data-css-ts0y2j]{font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans;font-weight:400;font-size:13px;line-height:1.4;letter-spacing:normal;-webkit-font-smoothing:antialiased;background:#333;display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;justify-content:center;align-items:center;padding:50px 0 80px;-webkit-box-pack:center;-webkit-justify-content:center;-webkit-box-align:center;-webkit-align-items:center;}@media only screen and (max-width: 768px){.css-ts0y2j,[data-css-ts0y2j]{padding:0 0 40px;}}.css-cs546h,[data-css-cs546h]{max-width:1220px;}@media only screen and (max-width: 992px){.css-cs546h,[data-css-cs546h]{width:700px;}}@media only screen and (min-width: 993px){.css-cs546h,[data-css-cs546h]{width:955px;}}@media only screen and (min-width: 1200px){.css-cs546h,[data-css-cs546h]{width:1220px;}}.css-1fco1ts,[data-css-1fco1ts]{display:grid;grid-template-columns:repeat(4, 1fr);justify-items:center;column-gap:3%;-ms-grid-template-columns:repeat(4, 1fr);-webkit-column-gap:3%;-moz-column-gap:3%;}@media only screen and (max-width: 768px){.css-1fco1ts,[data-css-1fco1ts]{grid-template-columns:1fr;text-align:center;-ms-grid-template-columns:1fr;}}.css-11a2nsi,[data-css-11a2nsi]{display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;flex-direction:column;align-items:center;text-align:left;width:100%;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-webkit-box-align:center;-webkit-align-items:center;}.css-1npm75a,[data-css-1npm75a]{display:-webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;flex-direction:column;color:#fff;font-size:14px;line-height:1.7;letter-spacing:0.3px;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;}.css-1npm75a a,[data-css-1npm75a] a{color:#fff;text-decoration:none;}.css-1npm75a a:visited,[data-css-1npm75a] a:visited{color:#fff;}.css-1npm75a a:hover,[data-css-1npm75a] a:hover{color:#068dfe;}.css-1npm75a a:hover span,[data-css-1npm75a] a:hover span{color:#fff;}.css-1npm75a a:active span,[data-css-1npm75a] a:active span{color:#fff;}@media only screen and (max-width: 768px){.css-1npm75a,[data-css-1npm75a]{align-items:center;width:95%;font-size:16px;line-height:2;-webkit-box-align:center;-webkit-align-items:center;}}.css-1gn11bn,[data-css-1gn11bn]{color:#fff;font-weight:600;font-size:20px;letter-spacing:0.38px;}@media only screen and (max-width: 768px){.css-1gn11bn,[data-css-1gn11bn]{margin-top:36px;margin-bottom:24px;}}.css-nms7k7,[data-css-nms7k7]{color:#fff;background:#ffa90a;font-size:12px;font-weight:bold;padding:3px 5px;border-radius:6px;margin-left:5px;}.css-1y302zr,[data-css-1y302zr]{position:relative;}@media only screen and (min-width: 769px){.css-1y302zr,[data-css-1y302zr]{margin-right:auto;}}.css-11gxadc,[data-css-11gxadc]{padding:0;margin:8px 0;}.css-11gxadc li,[data-css-11gxadc] li{display:inline-block;margin:0 5px;}@media only screen and (min-width: 769px){.css-11gxadc li:first-child,[data-css-11gxadc] li:first-child{margin-left:0;}}@media only screen and (max-width: 768px){.css-11gxadc,[data-css-11gxadc]{margin:0 0 80px;}}.css-1iqd2ec svg:hover path,[data-css-1iqd2ec] svg:hover path{fill:#939393;}.css-13bbxli,[data-css-13bbxli]{line-height:100%;}.css-13bbxli svg,[data-css-13bbxli] svg{max-width:135px;}.css-13bbxli svg g,[data-css-13bbxli] svg g{fill:#fff;}.css-de1dx1,[data-css-de1dx1]{color:#fff;}.css-de1dx1 a,[data-css-de1dx1] a, .css-de1dx1 span, [data-css-de1dx1] span{display:inline-block;margin-right:8px;font-size:13px;letter-spacing:0.24px;}.css-de1dx1 a:last-child,[data-css-de1dx1] a:last-child{margin-right:0;}@media only screen and (max-width: 768px){.css-de1dx1,[data-css-de1dx1]{line-height:1.5;margin-top:14px;margin-bottom:11px;}}.css-zr18wh,[data-css-zr18wh]{color:#c2c2c2;font-size:10px;margin-top:5px;}.css-zr18wh div,[data-css-zr18wh] div{white-space:nowrap;}@media only screen and (max-width: 768px){.css-zr18wh,[data-css-zr18wh]{font-size:13px;line-height:1.5;text-align:center;}}</style>
+  <div id="Footer-react-component-951a7518-d42e-4d32-bbae-3f110d8d20d8" data-ssr="true" ><footer class="css-ts0y2j"><div class="css-cs546h"><div class="css-1fco1ts"><div class="css-11a2nsi"><div class="css-1npm75a"><h3 class="css-1gn11bn">Tools &amp; Services</h3><a href="https://stackshare.io/stackups/trending" title="Compare Tools">Compare Tools</a><a href="https://stackshare.io/search" title="Search Tools &amp; Services">Search</a><a href="https://stackshare.io/alternatives" title="Browse Tools &amp; Services">Browse Tool Alternatives</a><a href="https://stackshare.io/categories" title="Technology Tools &amp; Services">Browse Tool Categories</a><a href="https://stackshare.io/submit" title="Submit a Tool">Submit A Tool</a><a href="https://stackshare.io/admin/approval-tool" title="Approve Tools">Approve Tools</a><a href="https://stackshare.io/featured-posts" title="Featured Posts">Stories &amp; Blog</a></div></div><div class="css-11a2nsi"><div class="css-1npm75a"><h3 class="css-1gn11bn">Company</h3><a href="https://stackshare.io/private" title="Private StackShare">🔒 Private StackShare<span class="css-nms7k7">NEW</span></a><a href="https://stackshare.io/api" title="API">API</a><a href="https://stackshare.io/careers" title="Careers at StackShare" class="css-1y302zr">Careers</a><a href="https://stackshare.io/stackshare" title="Our Stack">Our Stack</a><a href="https://stackshare.io/vendors" title="Advertise With Us">Advertise With Us</a><a href="mailto:team@stackshare.io" title="Contact Us">Contact Us</a></div></div><div class="css-11a2nsi"><div class="css-1npm75a"><h3 class="css-1gn11bn">Follow Us</h3><ul class="css-11gxadc"><li><a href="https://twitter.com/stackshareio" target="_blank" rel="noreferrer noopener nofollow" class="css-1iqd2ec"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#FFF" fill-rule="evenodd" d="M3.6 0h16.8A3.6 3.6 0 0 1 24 3.6v16.8a3.6 3.6 0 0 1-3.6 3.6H3.6A3.6 3.6 0 0 1 0 20.4V3.6A3.6 3.6 0 0 1 3.6 0zm14.29 9.964c.548-.389 1.005-.891 1.393-1.44a6.285 6.285 0 0 1-1.621.435c.594-.343 1.005-.891 1.21-1.553a5.867 5.867 0 0 1-1.758.685A2.759 2.759 0 0 0 15.08 7.2a2.788 2.788 0 0 0-2.787 2.81c0 .205.023.433.069.639A7.976 7.976 0 0 1 6.56 7.702a3.037 3.037 0 0 0-.365 1.417c0 .982.48 1.827 1.233 2.33-.456 0-.89-.138-1.256-.343v.022c0 1.37.96 2.49 2.238 2.764-.228.069-.48.092-.73.092-.183 0-.366-.023-.526-.046.343 1.119 1.394 1.873 2.604 1.896-.96.753-2.147 1.279-3.472 1.279a6 6 0 0 1-.662-.046c1.233.8 2.718 1.233 4.294 1.233 5.162 0 7.971-4.27 7.971-7.97v-.366z"></path></svg></a></li><li><a href="https://facebook.com/stackshareio" target="_blank" rel="noreferrer noopener nofollow" class="css-1iqd2ec"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#FFF" fill-rule="evenodd" d="M16.478 24v-8h2.896l.201-3.069h-3.097v-2.237c0-.86.172-1.405 1.262-1.405h1.692l.143-2.925s-.86-.172-2.351-.172c-3.04 0-4.36 1.835-4.36 3.9v2.81H10.8V16h2.065v8H3.6A3.6 3.6 0 0 1 0 20.4V3.6A3.6 3.6 0 0 1 3.6 0h16.8A3.6 3.6 0 0 1 24 3.6v16.8a3.6 3.6 0 0 1-3.6 3.6h-3.922z"></path></svg></a></li><li><a href="https://www.linkedin.com/company/stackshare" target="_blank" rel="noreferrer noopener nofollow" class="css-1iqd2ec"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#FFF" fill-rule="evenodd" d="M3.6 0h16.8A3.6 3.6 0 0 1 24 3.6v16.8a3.6 3.6 0 0 1-3.6 3.6H3.6A3.6 3.6 0 0 1 0 20.4V3.6A3.6 3.6 0 0 1 3.6 0zm5.521 17.16V9.378H6.374v7.782h2.747zM7.748 8.43c1.119 0 1.83-.807 1.83-1.815C9.554 5.578 8.868 4.8 7.749 4.8c-1.094 0-1.831.778-1.831 1.815 0 1.008.712 1.815 1.805 1.815h.026zm11.444 8.73v-4.12c0-2.518-1.246-4.12-3.205-4.12-1.119 0-1.932.661-2.288 1.653l-.102-1.195h-2.721c.025.305.076 1.83.076 1.83v5.952h2.747v-4.12c0-1.12.508-1.831 1.347-1.831.84 0 1.4.432 1.4 1.83v4.12h2.746z"></path></svg></a></li><li><a href="https://angel.co/stackshare" target="_blank" rel="noreferrer noopener nofollow" class="css-1iqd2ec"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#FFF" fill-rule="evenodd" d="M3.6 0h16.8A3.6 3.6 0 0 1 24 3.6v16.8a3.6 3.6 0 0 1-3.6 3.6H3.6A3.6 3.6 0 0 1 0 20.4V3.6A3.6 3.6 0 0 1 3.6 0zm4.684 14.42c.365.493.708.877 1.029 1.153.322.276.579.413.769.413.14 0 .268-.064.385-.194a.624.624 0 0 0 .173-.42c0-.16-.114-.528-.341-1.11-.227-.58-.512-1.15-.849-1.71-.249-.418-.492-.733-.732-.947-.24-.214-.466-.319-.68-.319-.174 0-.366.111-.577.33-.212.223-.317.43-.317.622 0 .2.102.501.309.903.207.4.484.827.83 1.28zm6.062-4.06a89.757 89.757 0 0 0 1.296-3.767c.31-.99.465-1.598.465-1.824 0-.242-.053-.43-.155-.563h-.001a.51.51 0 0 0-.429-.2c-.23 0-.468.194-.707.582-.24.389-.505 1.014-.793 1.875l-1.238 3.622 1.562.275zm-4.45-.445a.982.982 0 0 1 .371-.058c.05 0 .149.005.298.013.147.01.392.03.73.063L9.958 6.022c-.347-.993-.615-1.644-.806-1.949-.19-.303-.397-.456-.619-.456a.513.513 0 0 0-.422.2c-.107.133-.16.313-.16.54 0 .384.144 1.052.433 2.004.29.953.724 2.202 1.303 3.749a.41.41 0 0 1 .21-.195zm6.22 2.129a1.006 1.006 0 0 0-.245-.293c-.338-.285-.998-.54-1.979-.765a13.608 13.608 0 0 0-3.068-.338c-.296 0-.508.05-.632.15-.124.1-.186.272-.186.516 0 .567.314.98.943 1.233.627.255 1.643.382 3.049.382h.508c.116 0 .21.044.279.133.07.088.118.219.142.394-.14.134-.43.287-.866.456-.438.172-.774.341-1.005.508a4.53 4.53 0 0 0-1.196 1.31 3.99 3.99 0 0 0-.198.374c-.04.09-.07.176-.102.263-.012.034-.029.067-.04.1-.018.063-.03.125-.044.188-.013.056-.032.11-.04.166-.006.039-.006.076-.01.114-.008.076-.019.154-.019.228v.001c0 .277.063.609.192.997.128.388.192.629.192.72v.086l-.025.112c-.364-.023-.65-.239-.863-.644-.21-.406-.315-.947-.315-1.622v-.112a.719.719 0 0 1-.192.125.553.553 0 0 1-.205.037c-.074 0-.144-.006-.212-.019a2.132 2.132 0 0 1-.222-.058v.001c.024.094.043.182.056.27a1.05 1.05 0 0 1-.34 1.003 1.22 1.22 0 0 1-.856.331c-.52 0-1.05-.256-1.587-.77-.537-.515-.806-1.017-.806-1.51 0-.091.01-.172.032-.243a.406.406 0 0 1 .104-.182c.115.142.278.35.483.627.545.76 1.05 1.14 1.512 1.14.157 0 .297-.05.422-.149.123-.1.185-.206.185-.313v-.001c0-.127-.083-.334-.248-.629a8.366 8.366 0 0 0-.681-.99c-.33-.425-.606-.736-.826-.933-.217-.196-.394-.295-.525-.295-.29 0-.557.157-.8.47a1.756 1.756 0 0 0-.366 1.11c0 .344.086.725.254 1.147.168.422.416.846.738 1.271a4.937 4.937 0 0 0 1.816 1.524c.723.355 1.522.532 2.4.532 1.611 0 2.96-.607 4.046-1.823 1.088-1.216 1.632-2.739 1.632-4.568 0-.56-.04-1.005-.124-1.337a1.67 1.67 0 0 0-.162-.425zm-4.733 2.915a6.14 6.14 0 0 1 .626-.682c.218-.206.449-.386.689-.545a8.167 8.167 0 0 1-1.01-.113 5.067 5.067 0 0 1-.912-.252c.133.268.25.535.354.802.103.268.188.532.253.79z"></path></svg></a></li></ul></div></div><div class="css-11a2nsi"><div class="css-1npm75a"><a href="https://stackshare.io/" class="css-13bbxli"><svg width="203" height="31" viewBox="0 0 812 124" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><g id="Layer1" fill-rule="nonzero"><path d="M221.086 85.794c0 7.342-2.55 12.933-7.651 16.775-5.101 3.842-12.731 5.762-22.889 5.762-5.208 0-9.647-.352-13.318-1.056-3.671-.704-7.107-1.739-10.308-3.105V88.035c3.628 1.707 7.715 3.137 12.261 4.29 4.546 1.152 8.547 1.728 12.005 1.728 7.085 0 10.628-2.048 10.628-6.146 0-1.537-.469-2.785-1.408-3.746-.939-.96-2.561-2.048-4.866-3.265-2.305-1.216-5.379-2.636-9.22-4.258-5.506-2.305-9.551-4.439-12.133-6.402-2.583-1.964-4.461-4.215-5.635-6.755-1.173-2.54-1.76-5.666-1.76-9.38 0-6.36 2.465-11.279 7.395-14.758 4.93-3.479 11.919-5.218 20.968-5.218 8.623 0 17.01 1.878 25.163 5.634l-5.891 14.086c-3.585-1.537-6.936-2.796-10.052-3.778a31.589 31.589 0 0 0-9.54-1.472c-5.762 0-8.643 1.558-8.643 4.674 0 1.75.928 3.265 2.785 4.546 1.857 1.28 5.922 3.18 12.197 5.698 5.591 2.262 9.689 4.375 12.293 6.339 2.604 1.963 4.524 4.225 5.762 6.786 1.238 2.561 1.857 5.613 1.857 9.156zM259.924 92.773c3.415 0 7.513-.747 12.293-2.241v14.534c-4.866 2.177-10.841 3.265-17.927 3.265-7.811 0-13.499-1.974-17.063-5.922-3.564-3.948-5.346-9.871-5.346-17.767V50.131h-9.348v-8.259l10.756-6.531 5.635-15.11h12.485v15.238h20.04v14.662h-20.04v34.511c0 2.774.779 4.823 2.337 6.146 1.558 1.323 3.617 1.985 6.178 1.985zM325.59 107.051l-3.778-9.732h-.512c-3.287 4.14-6.669 7.011-10.148 8.611-3.479 1.601-8.014 2.401-13.606 2.401-6.872 0-12.282-1.963-16.23-5.89-3.949-3.927-5.923-9.519-5.923-16.775 0-7.598 2.657-13.2 7.971-16.807 5.315-3.607 13.329-5.602 24.042-5.986l12.421-.384v-3.138c0-7.256-3.713-10.884-11.14-10.884-5.72 0-12.443 1.728-20.168 5.186l-6.467-13.19c8.238-4.311 17.372-6.466 27.403-6.466 9.604 0 16.967 2.091 22.089 6.274s7.683 10.543 7.683 19.08v47.7H325.59zm-5.763-33.166l-7.555.256c-5.677.171-9.902 1.195-12.677 3.074-2.774 1.878-4.162 4.738-4.162 8.579 0 5.506 3.159 8.259 9.476 8.259 4.525 0 8.142-1.301 10.853-3.905 2.71-2.604 4.065-6.061 4.065-10.372v-5.891zM381.843 108.331c-22.281 0-33.421-12.229-33.421-36.687 0-12.165 3.03-21.459 9.091-27.883 6.061-6.424 14.748-9.636 26.059-9.636 8.281 0 15.708 1.622 22.281 4.866l-5.762 15.11c-3.074-1.238-5.933-2.251-8.58-3.041-2.646-.79-5.293-1.185-7.939-1.185-10.159 0-15.238 7.214-15.238 21.641 0 14.001 5.079 21.001 15.238 21.001 3.756 0 7.235-.502 10.436-1.505 3.202-1.003 6.403-2.571 9.604-4.706v16.711c-3.158 2.006-6.349 3.394-9.572 4.162-3.222.768-7.288 1.152-12.197 1.152zM432.398 68.123l8.516-10.885 20.04-21.769h22.025l-28.428 31.053 30.157 40.529h-22.537l-20.617-29.004-8.387 6.723v22.281h-19.528V7.426h19.528V51.86l-1.025 16.263h.256z"></path><path d="M538.336 85.794c0 7.342-2.55 12.933-7.651 16.775-5.101 3.842-12.73 5.762-22.889 5.762-5.208 0-9.647-.352-13.318-1.056-3.671-.704-7.107-1.739-10.308-3.105V88.035c3.628 1.707 7.715 3.137 12.261 4.29 4.546 1.152 8.548 1.728 12.005 1.728 7.086 0 10.628-2.048 10.628-6.146 0-1.537-.469-2.785-1.408-3.746-.939-.96-2.561-2.048-4.866-3.265-2.305-1.216-5.378-2.636-9.22-4.258-5.506-2.305-9.551-4.439-12.133-6.402-2.582-1.964-4.46-4.215-5.634-6.755-1.174-2.54-1.761-5.666-1.761-9.38 0-6.36 2.465-11.279 7.395-14.758 4.93-3.479 11.92-5.218 20.969-5.218 8.622 0 17.009 1.878 25.162 5.634l-5.89 14.086c-3.586-1.537-6.937-2.796-10.053-3.778a31.589 31.589 0 0 0-9.54-1.472c-5.762 0-8.643 1.558-8.643 4.674 0 1.75.928 3.265 2.785 4.546 1.857 1.28 5.923 3.18 12.197 5.698 5.592 2.262 9.689 4.375 12.293 6.339 2.604 1.963 4.525 4.225 5.763 6.786 1.237 2.561 1.856 5.613 1.856 9.156zM613.093 107.051h-19.528V65.242c0-10.33-3.841-15.495-11.524-15.495-5.464 0-9.412 1.857-11.845 5.571-2.433 3.713-3.65 9.732-3.65 18.055v33.678h-19.528V7.426h19.528v20.296c0 1.58-.149 5.293-.448 11.141l-.448 5.762h1.024c4.354-7 11.269-10.5 20.745-10.5 8.409 0 14.79 2.262 19.144 6.787 4.353 4.524 6.53 11.012 6.53 19.464v46.675zM672.1 107.051l-3.778-9.732h-.512c-3.286 4.14-6.669 7.011-10.148 8.611-3.479 1.601-8.014 2.401-13.606 2.401-6.872 0-12.282-1.963-16.23-5.89-3.948-3.927-5.923-9.519-5.923-16.775 0-7.598 2.657-13.2 7.972-16.807 5.314-3.607 13.328-5.602 24.042-5.986l12.421-.384v-3.138c0-7.256-3.714-10.884-11.141-10.884-5.72 0-12.442 1.728-20.168 5.186l-6.467-13.19c8.238-4.311 17.373-6.466 27.403-6.466 9.604 0 16.967 2.091 22.089 6.274 5.123 4.183 7.684 10.543 7.684 19.08v47.7H672.1zm-5.762-33.166l-7.555.256c-5.677.171-9.903 1.195-12.678 3.074-2.774 1.878-4.161 4.738-4.161 8.579 0 5.506 3.158 8.259 9.475 8.259 4.525 0 8.142-1.301 10.853-3.905 2.71-2.604 4.066-6.061 4.066-10.372v-5.891zM739.238 34.125c2.646 0 4.845.192 6.595.576l-1.473 18.312c-1.579-.427-3.5-.641-5.762-.641-6.232 0-11.088 1.601-14.566 4.802-3.479 3.202-5.218 7.684-5.218 13.446v36.431h-19.528V35.469h14.79l2.881 12.037h.96c2.22-4.012 5.218-7.245 8.996-9.7 3.777-2.454 7.886-3.681 12.325-3.681zM779.293 48.019c-4.141 0-7.385 1.312-9.732 3.937-2.348 2.625-3.692 6.349-4.034 11.173h27.403c-.085-4.824-1.344-8.548-3.777-11.173s-5.72-3.937-9.86-3.937zm2.753 60.312c-11.525 0-20.531-3.18-27.019-9.54-6.488-6.36-9.732-15.366-9.732-27.019 0-11.994 2.998-21.267 8.996-27.819 5.997-6.552 14.288-9.828 24.874-9.828 10.116 0 17.991 2.881 23.625 8.643 5.635 5.763 8.452 13.723 8.452 23.882v9.476h-46.163c.213 5.549 1.857 9.882 4.93 12.997 3.073 3.116 7.384 4.674 12.933 4.674 4.311 0 8.388-.448 12.229-1.344 3.842-.897 7.854-2.326 12.037-4.29v15.11c-3.414 1.708-7.064 2.978-10.948 3.81-3.885.832-8.622 1.248-14.214 1.248z"></path></g><g fill="#008ff9"><path d="M101.98 83c-3.9 0-7.157 2.792-7.886 6.482-.212 1.564 0 3.123 0 3.123.73 3.687 3.986 6.477 7.885 6.477 4.434 0 8.042-3.605 8.042-8.04 0-4.434-3.608-8.042-8.042-8.042M32.041 54C27.607 54 24 57.606 24 62.041c0 4.433 3.607 8.041 8.041 8.041 4.435 0 8.042-3.608 8.042-8.041 0-4.435-3.607-8.041-8.042-8.041m69.924-12.918c4.435 0 8.042-3.608 8.042-8.041 0-4.435-3.607-8.041-8.042-8.041-3.898 0-7.155 2.791-7.885 6.48v.049s-.18 1.654 0 3.073c.73 3.689 3.987 6.48 7.885 6.48"></path><path d="M101.965 105.961c-6.965 0-12.841-4.655-14.692-11.022H73.376l-.076.043-16.575-28.517H46.592c-1.852 6.367-7.727 11.023-14.694 11.023-8.451 0-15.303-6.852-15.303-15.303 0-8.452 6.852-15.305 15.303-15.305 6.967 0 12.842 4.656 14.694 11.025h9.905l.128-.217L73.3 28.999l.141.083h13.768c1.852-6.369 7.727-11.025 14.692-11.025 8.453 0 15.305 6.853 15.305 15.305 0 8.451-6.852 15.304-15.305 15.304-6.965 0-12.84-4.656-14.692-11.025h-9.03l-14.14 24.326-.006.023.005.022L78.2 86.378h9.073c1.851-6.369 7.727-11.026 14.692-11.026 8.453 0 15.305 6.853 15.305 15.305s-6.852 15.304-15.305 15.304zM124.996 0H8.004C3.584 0 0 3.561 0 7.953v108.094C0 120.44 3.584 124 8.004 124h116.992c4.421 0 8.004-3.56 8.004-7.953V7.953C133 3.561 129.417 0 124.996 0z"></path></g></svg></a><div class="css-de1dx1"><a href="https://stackshare.io/terms">Terms</a><span>·</span><a href="https://stackshare.io/privacy">Privacy</a></div><div class="css-zr18wh"><div>Copyright © <!-- -->2021<!-- --> StackShare, Inc. </div><div>All rights reserved.</div></div><div class="css-de1dx1"><a href="https://stackshare.io/html-sitemaps/stackups/main.html">Sitemap</a></div></div></div></div></div></footer></div>
+  <script>
+    renderComponent('Footer','Footer-react-component-951a7518-d42e-4d32-bbae-3f110d8d20d8','Footer-apollo-state-951a7518-d42e-4d32-bbae-3f110d8d20d8','Footer-glamor-951a7518-d42e-4d32-bbae-3f110d8d20d8', 'apollo','{"isAdmin":null}');
+  </script>
+  
+      
+
+<div id="Cta_stackbot-react-component-a381dfd5-2d72-4b98-b381-c59b6f7625d2"></div>
+
+<!-- / This component installs a global object `SigninModal` with a single method `show()` -->
+<!-- / that can be used repeadtedly to show the signin modal. Please test for existence of -->
+<!-- / this global object prior to accessing the `show()` method. -->
+<!-- / The modal is always initially hidden. -->
+<div id="SigninGlobalModal-react-component-f53eec5a-270b-4b7a-9116-bdd21223e6ea"></div>
+
+<script>
+  window.env = {
+    API_DASHBOARD_URL: "https://api.stackshare.io/graphql",
+    GITHUB_APP_INSTALL_URL: "https://github.com/apps/private-stackshare",
+    ALGOLIA_CLIENT_SEARCH_API_KEY: "YzFhZWIwOGRhOWMyMjdhZTI5Yzc2OWM4OWFkNzc3ZTVjZGFkNDdmMThkZThiNDEzN2Y1NmI3MTQxYjM4MDI3MmZpbHRlcnM9cHJpdmF0ZSUzRDA=",
+    ALGOLIA_CLIENT_API_DASHBOARD_API_KEY: "ecab4bcb216d64bc2b45779b46733a93",
+    ALGOLIA_ID: "KM8652F2EG",
+    ALGOLIA_JOB_INDEX: "Match_jobs_production",
+    ALGOLIA_NEW_JOB_INDEX: "Jobs_production",
+    ALGOLIA_SEARCH_INDEX: "Search_production",
+    ALGOLIA_SERVICES_INDEX: "Services_production",
+    ALGOLIA_TOPIC_INDEX: "Topic_production",
+    ALGOLIA_API_COMPANIES_INDEX: "API_dashboard_companies_production",
+    ALGOLIA_API_TOOLS_INDEX: "API_dashboard_tools_production",
+    DUMMY_AUTH_ENABLED: "",
+    GRAPHQL_URL: "https://graphql.stackshare.io/graphql",
+    JOB_SEARCH_ALGOLIA_GEO_PRECISION: "20000",
+    NODE_ENV: "production",
+    RAILS_ENV: "production",
+    SEGMENT_KEY: "vqhofm6fd1",
+    SENTRY_ENVIRONMENT: "production",
+    STREAM_ANALYTICS_TOKEN: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6ImFuYWx5dGljcyIsImFjdGlvbiI6IioiLCJ1c2VyX2lkIjoiKiJ9.shQfsZCs-UjntAIyzrEuUU67f1Nf6JA4iHfxdP86mpI",
+    STREAM_API_KEY: "84534czdb4ds",
+    STRIPE_CLIENT_KEY: "pk_live_teRg6vujvzxDeYVj4FknLWLY",
+    SIGNUP_EXPERIMENT_3: "control",
+    ONBOARDING_EXPERIMENT_1: "true",
+    WEBPACK_PUBLIC_PATH: "https://cdn4.stackshare.io/"
+  };
+  window._ALGOLIA_API_KEY = "YzFhZWIwOGRhOWMyMjdhZTI5Yzc2OWM4OWFkNzc3ZTVjZGFkNDdmMThkZThiNDEzN2Y1NmI3MTQxYjM4MDI3MmZpbHRlcnM9cHJpdmF0ZSUzRDA="
+  window._ALGOLIA_CLIENT_SEARCH_API_KEY = "YzFhZWIwOGRhOWMyMjdhZTI5Yzc2OWM4OWFkNzc3ZTVjZGFkNDdmMThkZThiNDEzN2Y1NmI3MTQxYjM4MDI3MmZpbHRlcnM9cHJpdmF0ZSUzRDA="
+  window._ALGOLIA_ID = "KM8652F2EG"
+  window._MATCH_COMPANIES_INDEX = "Match_companies_production"
+  window._MATCH_JOBS_INDEX = "Match_jobs_production"
+  window._SERVICES_INDEX = "Services_production"
+  window.app_data = {current_user: {}}
+  window.umbrellaApplication = "https://articles.stackshare.io/"
+</script>
+<script>
+  window._PAGE = { 'name': "users.show",
+                   'properties': JSON.parse("{\"label\":\"bryanguner\",\"contentGroupPage\":\"Users\",\"contentGroupAuthenticationStatus\":\"logged_in: false\"}") }
+</script>
+
+<script src="http://www.google.com/recaptcha/api.js?render=6LcCG8sUAAAAAExmZ_kvtmfhvorRco8dy3ntT5uR"></script>
+<script>
+  grecaptcha.ready(function() {
+    grecaptcha
+      .execute("6LcCG8sUAAAAAExmZ_kvtmfhvorRco8dy3ntT5uR", { action: "users/show" });
+  });
+</script>
+
+<script src="https://cdn4.stackshare.io/sentry.44b68382d65a886d4b72-5.js"></script>
+<script src="https://cdn4.stackshare.io/analytics.faa040fc2bed5e9333b7-5.js"></script>
+<script src="http://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<script src="https://ucarecdn.com/libs/widget/3.x/uploadcare.min.js"></script>
+<script src="http://cdn.jsdelivr.net/selectize/0.12.3/js/standalone/selectize.min.js"></script>
+<script src="http://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+<script src="http://js.stripe.com/v3"></script>
+<script src="https://stackshare.io/assets/application-d0e25547c1ccf6826edb86f27ffdfd1fb6a1ae9824d9c43206101b9d99a5c32f.js"></script>
+<script src="https://stackshare.io/assets/users-04024382391bb910584145d8113cf35ef376b55d125bb4516cebeb14ce788597.js"></script>
+<script src="https://cdn4.stackshare.io/runtime.b6ec0677bf3e58eb193e-5.js"></script>
+<script src="https://cdn4.stackshare.io/npm-core-js.614497d3ee4a31cd3323-5.js"></script>
+<script src="https://cdn4.stackshare.io/npm-create-react-context.a51cecae8487e1b5c76d-5.js"></script>
+<script src="https://cdn4.stackshare.io/npm-loadable.142cfec6cf7f72848474-5.js"></script>
+<script src="https://cdn4.stackshare.io/npm-object-is.062940fd4c2c60e00aaf-5.js"></script>
+<script src="https://cdn4.stackshare.io/npm-object-keys.24e4c9b3584b7a3704b2-5.js"></script>
+<script src="https://cdn4.stackshare.io/npm-react-cookie.8b97fd477718403bb9ff-5.js"></script>
+<script src="https://cdn4.stackshare.io/npm-react-csv.f3e592907c95dd91c72b-5.js"></script>
+<script src="https://cdn4.stackshare.io/npm-react-stripe-elements.184215b0c5055f6cce6a-5.js"></script>
+<script src="https://cdn4.stackshare.io/npm-regexp.prototype.flags.68d1f7d29b77ea0e3e4e-5.js"></script>
+
+<script src="https://cdn4.stackshare.io/maharo.bc25a9b762aaa0ba6f3e-5.js"></script>
+<script src="https://cdn4.stackshare.io/common.fa2d09e0eb42ef71e721-5.js"></script>
+<script src="https://cdn4.stackshare.io/legacy.0f79f75334913d5f061a-5.js"></script>
+<script src="https://cdn4.stackshare.io/site.89a49e2ef90f35416891-5.js"></script>
+<script>      renderComponent('UsersBanner','UsersBanner-react-component-8e1ba66e-94f1-4d1b-a1fd-57fadfb3f713',null,null,'apollo',`{"userId":null,"username":null,"profileId":937634,"mobile":false}`);
+</script><script>      renderComponent('Cta_stackbot','Cta_stackbot-react-component-a381dfd5-2d72-4b98-b381-c59b6f7625d2',null,null,'apollo',`{"isAdmin":null,"mobile":false}`);
+</script><script>      renderComponent('SigninGlobalModal','SigninGlobalModal-react-component-f53eec5a-270b-4b7a-9116-bdd21223e6ea',null,null,'apollo',`{"currentUser":null,"showEngagementSigninModal":false,"coolDown":0,"dummyAuthEnabled":false}`);
+</script>
+<script>
+  window._SPONSORED_LINK_BLACKLIST = '["https://lightstep.com/","https://github.com/blevesearch/segment","https://launchdarkly.com/index.html","http://www.pagerduty.com/","https://www.snowflake.net/","https://circleci.com/"]'
+</script>
+
+
+<script>
+   var trackOutboundLink = function(alink, cat, sitename) {
+      var newpage = alink.target == "_blank";
+      ga('send', 'event', cat, 'click', alink.href, {'hitCallback':
+        function () {
+            if(!newpage){
+                document.location = alink.href;
+            }
+        }
+      });
+  
+      return newpage;
+   }
+</script>
+<script>
+  document.addEventListener('DOMContentLoaded',function(){
+    UserVoice=window.UserVoice||[];
+  
+    (function(){
+      var uv=document.createElement('script');
+      if(uv) {
+        uv.type='text/javascript';
+        uv.async=true;
+        uv.src='http://widget.uservoice.com/S7sNG8fZBUbqOKwFKHdXQ.js';
+        var s=document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(uv,s)
+      }
+    })();
+  
+    UserVoice.push(['set', {
+      accent_color: '#448dd6',
+      trigger_color: 'white',
+      trigger_background_color: '#D2D2D2'
+    }]);
+  
+    UserVoice.push(['addTrigger', { mode: 'contact', trigger_position: 'bottom-right' }]);
+  
+    UserVoice.push(['autoprompt', {}]);
+  },false);
+</script>
+</body>
+</html>
