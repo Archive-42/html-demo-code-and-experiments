@@ -1,11 +1,11 @@
 **Reasons for making this change:**
 
-_TODO_
+*TODO*
 
 **Links to documentation supporting these rule changes:**
 
-_TODO_
+*TODO*
 
 If this is a new template:
 
-- **Link to application or project’s homepage**: _TODO_
+-   **Link to application or project’s homepage**: *TODO*

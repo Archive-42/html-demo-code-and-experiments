@@ -1,295 +1,89 @@
 <!DOCTYPE html>
-<html class="notion-html">
-  <head lang="en">
-    <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover"
-    />
-    <title>
-      Notion – The all-in-one workspace for your notes, tasks, wikis, and
-      databases.
-    </title>
-    <meta
-      name="description"
-      content="A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team"
-    />
-    <script>
-      (window.__webStartTime = Date.now()),
-        (window.__webStartTimePerformance = performance.now());
-    </script>
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@NotionHQ" />
-    <meta
-      name="twitter:title"
-      content="Notion – The all-in-one workspace for your notes, tasks, wikis, and databases."
-    />
-    <meta
-      name="twitter:description"
-      content="A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team"
-    />
-    <meta name="twitter:url" content="https://www.notion.so" />
-    <meta
-      name="twitter:image"
-      content="https://www.notion.so/images/meta/default.png"
-    />
-    <meta property="og:site_name" content="Notion" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.notion.so" />
-    <meta
-      property="og:title"
-      content="Notion – The all-in-one workspace for your notes, tasks, wikis, and databases."
-    />
-    <meta
-      property="og:description"
-      content="A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team"
-    />
-    <meta
-      property="og:image"
-      content="https://www.notion.so/images/meta/default.png"
-    />
-    <meta property="og:locale" content="en_US" />
-    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />
-    <link rel="apple-touch-icon" href="/images/logo-ios.png" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-itunes-app" content="app-id=1232780281" />
-    <meta name="format-detection" content="telephone=no" />
-    <meta name="msapplication-tap-highlight" content="no" />
-    <link href="/print.b31f28aa.css" rel="stylesheet" media="print" />
-    <script defer="defer" src="/731-9df70d7d23c51be71fa7.js"></script>
-    <script defer="defer" src="/app-6b20bb48e32f2a975503.js"></script>
-    <link href="/app-cb47d6968eff3997d2de.css" rel="stylesheet" />
-  </head>
-  <body class="notion-body">
-    <script>
-      var parsed,
-        theme = "light",
-        localThemeKey = "theme",
-        themeRecord = localStorage.getItem("theme");
-      !themeRecord ||
-        ((parsed = JSON.parse(themeRecord)) &&
-          parsed.mode &&
-          (theme = parsed.mode)),
-        "dark" === theme && document.body.classList.add("dark");
-    </script>
-    <style>
-      body {
-        background: #fff;
-      }
-      body.dark {
-        background: #2f3437;
-      }
-      .initial-loading-spinner {
-        -webkit-animation: rotate 1s linear infinite;
-        animation: rotate 1s linear infinite;
-        -webkit-transform-origin: center center;
-        transform-origin: center center;
-        width: 1em;
-        height: 1em;
-        opacity: 0.5;
-        display: block;
-        pointer-events: none;
-      }
-      @-webkit-keyframes rotate {
-        0% {
-          -webkit-transform: rotate(0) translateZ(0);
-          transform: rotate(0) translateZ(0);
-        }
-        100% {
-          -webkit-transform: rotate(360deg) translateZ(0);
-          transform: rotate(360deg) translateZ(0);
-        }
-      }
-      @keyframes rotate {
-        0% {
-          -webkit-transform: rotate(0) translateZ(0);
-          transform: rotate(0) translateZ(0);
-        }
-        100% {
-          -webkit-transform: rotate(360deg) translateZ(0);
-          transform: rotate(360deg) translateZ(0);
-        }
-      }
-    </style>
-    <div
-      id="initial-loading-spinner"
-      style="
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        opacity: 0;
-      "
-    >
-      <div class="initial-loading-spinner" style="width: 24px; height: 24px">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          xmlns:xlink="http://www.w3.org/1999/xlink"
-          xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
-          width="100%"
-          height="100%"
-          viewBox="0 0 24 24"
-          version="1.1"
-          data-ember-extension="1"
-        >
-          <defs>
-            <linearGradient
-              x1="28.1542969%"
-              y1="63.7402344%"
-              x2="74.6289062%"
-              y2="17.7832031%"
-              id="linearGradient-1"
-            >
-              <stop stop-color="rgba(164, 164, 164, 1)" offset="0%" />
-              <stop
-                stop-color="rgba(164, 164, 164, 0)"
-                stop-opacity="0"
-                offset="100%"
-              />
-            </linearGradient>
-          </defs>
-          <g id="Page-1" stroke="none" stroke-width="1" fill="none">
-            <g transform="translate(-236.000000, -286.000000)">
-              <g transform="translate(238.000000, 286.000000)">
-                <circle
-                  id="Oval-2"
-                  stroke="url(#linearGradient-1)"
-                  stroke-width="4"
-                  cx="10"
-                  cy="12"
-                  r="10"
-                />
-                <path
-                  d="M10,2 C4.4771525,2 0,6.4771525 0,12"
-                  id="Oval-2"
-                  stroke="rgba(164, 164, 164, 1)"
-                  stroke-width="4"
-                />
-                <rect
-                  id="Rectangle-1"
-                  fill="rgba(164, 164, 164, 1)"
-                  x="8"
-                  y="0"
-                  width="4"
-                  height="4"
-                  rx="8"
-                />
-              </g>
-            </g>
-          </g>
-        </svg>
-      </div>
-    </div>
-    <script>
-      var spinner,
-        isElectron = "undefined" != typeof global || window.__isElectron,
-        isReactNative = /ReactNative/.test(navigator.userAgent),
-        showSpinner = isElectron || isReactNative;
-      !showSpinner ||
-        ((spinner = document.getElementById("initial-loading-spinner")) &&
-          (spinner.style.opacity = 1));
-    </script>
-    <style id="scroll-properties"></style>
-    <div id="notion-app"></div>
-    <script>
-      window.CONFIG = {
-        env: "production",
-        isAdminMode: !1,
-        isLocalhost: !1,
-        offline: !0,
-        version: "23.10.13.14",
-        domainBaseUrl: "https://www.notion.so",
-        adminUrl: "https://admin.notion.so",
-        publicDomainName: "notion.site",
-        protocol: "notion",
-        staticS3: {
-          url: "https://prod-notion-assets.s3-us-west-2.amazonaws.com",
-          bucket: "prod-notion-assets",
-        },
-        lastUpdatedTime: 1636485498866,
-        api: { http: "/api/v3" },
-        googleOAuth: {
-          clientId:
-            "905154081809-858sm3f0qnalqd9d44d9gecjtrdji9tf.apps.googleusercontent.com",
-        },
-        messageStore: { url: "https://msgstore.www.notion.so", api: "/api/v1" },
-        stripe: { key: "pk_live_vuNO27XGTCbXjVwneiECILjT" },
-        revenueCat: {
-          apiResponseMaxAge: 6048e5,
-          entitlementIDs: { personal: "notion.id.personal_pro" },
-          productIDs: {
-            personal: {
-              monthly: "notion.id.personal_pro_monthly",
-              yearly: "notion.id.personal_pro_yearly",
-            },
-          },
-        },
-        intercom: { appId: "gpfdrxfd", adminId: "3483686" },
-        mutiny: { personalKey: "1149e901f65fc47c" },
-        segment: { writeKey: "g1mMn2qquRcv7exBIVDivoKl9cOrdxLA" },
-        amplitude: { apiKey: "64ac42fd5a4a1db6ac5cf007fe57a3d5" },
-        pricing: {
-          invoiceDaysUntilDue: 30,
-          team_free: { spaceBlockLimit: 1e3, fileUploadMaxBytes: 5e6 },
-          personal_free: { fileUploadMaxBytes: 5e6 },
-          student: { productId: "prod_FhChFoDp7gS1Ba" },
-          personal: {
-            productId: "prod_CpavZFCbxF2YGx",
-            monthlyPrice: 500,
-            yearlyPrice: 4800,
-          },
-          team: {
-            productId: "prod_CpawK4ih14xs4t",
-            monthlyPricePerMember: 1e3,
-            yearlyPricePerMember: 9600,
-          },
-          enterprise: {
-            productId: "prod_Cpb8M1AFEFhdy1",
-            monthlyPricePerMember: 2500,
-            yearlyPricePerMember: 24e3,
-          },
-        },
-        desktopS3: {
-          url: "https://s3-us-west-2.amazonaws.com/desktop-release.notion-static.com",
-        },
-        publicFileS3: {
-          url: "https://s3-us-west-2.amazonaws.com/public.notion-static.com",
-          bucket: "public.notion-static.com",
-        },
-        temporaryFileS3: {
-          url: "https://s3-us-west-2.amazonaws.com/temporary.notion-static.com",
-          bucket: "temporary.notion-static.com",
-        },
-        secureFileS3: {
-          url: "https://s3-us-west-2.amazonaws.com/secure.notion-static.com",
-          bucket: "secure.notion-static.com",
-        },
-        loggly: { token: "edcca201-4028-4ef1-bbb1-c78b430dd74e" },
-        datadog: {
-          applicationId: "3a3add4b-112a-483d-8b3d-b4f61bc7bf39",
-          clientToken: "f6d456ce-3a61-4e69-9880-54d0ba3d76d7",
-        },
-        embedly: { key: "421626497c5d4fc2ae6b075189d602a2" },
-        aif: { url: "https://aif.notion.so/aif-production.html" },
-        contentful: {
-          spaceId: "spoqsaf9291f",
-          contentDeliveryToken: "AGqteRpWD8aE_kxy_s7_hSFAlKCh5qf-RctSU6vV6u0",
-          contentPreviewToken: "uR2ZVAs-9TMKDq0YKYVtczFplx6P9p06huCibZDJZKA",
-        },
-        statuspage: {
-          pageId: "kgl53swp0yg1",
-          apiToken: "46f89699-847b-4887-ab99-8f4a820d2eff",
-        },
-        iOSAppId: 1232780281,
-        facebook: { pixelId: "499229960464487" },
-        statsig: {
-          apiKey: "client-Tgza5wNFa8dVt9BdeUfG6Vkm29bHxX10MhoztTMzLBB",
-        },
-      };
-    </script>
-  </body>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>embeds</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+</head>
+<body>
+<h1 id="embeds">Embeds</h1>
+<p><a href="https://iframe-showcase.vercel.app/">https://iframe-showcase.vercel.app/</a></p>
+<p><a href="https://next-js-blog-with-comments-vert-phi.vercel.app/">https://next-js-blog-with-comments-vert-phi.vercel.app/</a></p>
+<p><a href="https://commerce-gules-three-48.vercel.app/">https://commerce-gules-three-48.vercel.app/</a></p>
+<p><a href="https://documentation-site-react2.vercel.app/">https://documentation-site-react2.vercel.app/</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/docs/faq/contact">https://bgoonz-blog.netlify.app/docs/faq/contact</a></p>
+<p><a href="https://project-portfolio42.netlify.app/">https://project-portfolio42.netlify.app/</a></p>
+<p><a href="https://bgoonz.github.io/random-picker/">https://bgoonz.github.io/random-picker/</a></p>
+<p><a href="https://adventofcode.com/2020/day/1">https://adventofcode.com/2020/day/1</a></p>
+<p><a href="https://ds-unit-5-lambda.netlify.app/">https://ds-unit-5-lambda.netlify.app/</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/docs/react/react-docs/">https://bgoonz-blog.netlify.app/docs/react/react-docs/</a></p>
+<p><a href="https://ds-algo-official.netlify.app/">https://ds-algo-official.netlify.app/</a></p>
+<p><a href="https://sanity-signup.netlify.app/privacy-policy">https://sanity-signup.netlify.app/privacy-policy</a></p>
+<p><a href="https://bgoonz.github.io/fb-and-twitter-api-embeds/">https://bgoonz.github.io/fb-and-twitter-api-embeds/</a></p>
+<p><a href="https://thealgorithms.netlify.app/">https://thealgorithms.netlify.app/</a></p>
+<p><a href="https://bryan-guner.gitbook.io/my-docs/">Home</a></p>
+<p><a href="https://zumzi-chat-messenger.vercel.app/web/login.html">https://zumzi-chat-messenger.vercel.app/web/login.html</a></p>
+<p><a href="https://bgoonz.github.io/Leetcode-JS-PY-MD/">https://bgoonz.github.io/Leetcode-JS-PY-MD/</a></p>
+<p><a href="https://bgoonz-bookmarks.netlify.app/">https://bgoonz-bookmarks.netlify.app/</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/blog/">https://bgoonz-blog.netlify.app/blog/</a></p>
+<p><a href="https://docs42.netlify.app/">https://docs42.netlify.app/</a></p>
+<p><a href="https://learning-redux42.netlify.app/">https://learning-redux42.netlify.app/</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/docs/interact/clock/">https://bgoonz-blog.netlify.app/docs/interact/clock/</a></p>
+<p><a href="https://archive.org/advancedsearch.php"></a></p>
+<p><a href="https://friendly-amaranth-51833.netlify.app/">https://friendly-amaranth-51833.netlify.app/</a></p>
+<p><a href="http://blog-w-comments.vercel.app/">http://blog-w-comments.vercel.app/</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/docs/docs/git-reference/">https://bgoonz-blog.netlify.app/docs/docs/git-reference/</a></p>
+<p><a href="https://github.com/bgoonz/Links-Shortcut-Site">GitHub - bgoonz/Links-Shortcut-Site: https://links4242.netlify.app/</a></p>
+<p><a href="https://bgoonz.github.io/random-picker/">https://bgoonz.github.io/random-picker/</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/docs/interact/video-chat/">https://bgoonz-blog.netlify.app/docs/interact/video-chat/</a></p>
+<p><a href="https://links4242.netlify.app/">https://links4242.netlify.app/</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/docs/interact/other-sites/">https://bgoonz-blog.netlify.app/docs/interact/other-sites/</a></p>
+<p><a href=""></a></p>
+<p><a href="https://bgoonz-blog.netlify.app/">https://bgoonz-blog.netlify.app/</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/docs/interact/callstack-visual/">https://bgoonz-blog.netlify.app/docs/interact/callstack-visual/</a></p>
+<p><a href="https://bgoonz-cv.netlify.app/">https://bgoonz-cv.netlify.app/</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/docs/interact/clock/">https://bgoonz-blog.netlify.app/docs/interact/clock/</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/docs/tools/">https://bgoonz-blog.netlify.app/docs/tools/</a></p>
+<p><a href="https://bgoonz-blog-v3-0.netlify.app/">https://bgoonz-blog-v3-0.netlify.app/</a></p>
+<p><a href=""></a></p>
+<p><a href="https://random-static-html-deploys.netlify.app/sitemap.html">https://random-static-html-deploys.netlify.app/sitemap.html</a></p>
+<p><a href="https://bgoonz-games.netlify.app/">https://bgoonz-games.netlify.app/</a></p>
+<p>.</p>
+<p><a href=""></a></p>
+<p><a href="https://project-portfolio42.netlify.app/">https://project-portfolio42.netlify.app/</a></p>
+<p><a href="https://bgoonz.github.io/github-stats-website/">https://bgoonz.github.io/github-stats-website/</a></p>
+<p><a href="https://githtmlpreview.netlify.app/">https://githtmlpreview.netlify.app/</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/docs/interact/">https://bgoonz-blog.netlify.app/docs/interact/</a></p>
+<ul>
+<li>[ ]</li>
+</ul>
+<p><a href="https://docs42.netlify.app/">https://docs42.netlify.app/</a></p>
+<p><a href="https://devtools42.netlify.app/">https://devtools42.netlify.app/</a></p>
+<p><a href=""></a></p>
+<p><a href="https://determined-dijkstra-ee7390.netlify.app/">https://determined-dijkstra-ee7390.netlify.app/</a></p>
+<p><a href="https://potluck-landing.netlify.app/">https://potluck-landing.netlify.app/</a></p>
+<p><a href="https://web-dev-interview-prep-quiz-website.netlify.app/">https://web-dev-interview-prep-quiz-website.netlify.app/</a></p>
+<p><a href="https://meditate42app.netlify.app/">https://meditate42app.netlify.app/</a></p>
+<p><a href="https://search-awesome.vercel.app/">https://search-awesome.vercel.app/</a></p>
+<p><a href="https://random-list-of-embedable-content.vercel.app/#gsc.tab=0">https://random-list-of-embedable-content.vercel.app/#gsc.tab=0</a></p>
+<p><a href="https://friendly-amaranth-51833.netlify.app/">https://friendly-amaranth-51833.netlify.app/</a></p>
+<p><a href="https://dev-journal42.netlify.app/">https://dev-journal42.netlify.app/</a></p>
+<p><a href="https://bgoonz-blog-v3-0.netlify.app/">https://bgoonz-blog-v3-0.netlify.app/</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/docs/faq/contact">https://bgoonz-blog.netlify.app/docs/faq/contact</a></p>
+<p><a href="https://bgoonz-cv.netlify.app/">https://bgoonz-cv.netlify.app/</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/docs/content/trouble-shooting/">https://bgoonz-blog.netlify.app/docs/content/trouble-shooting/</a></p>
+<p><a href="https://search-awesome.vercel.app/">https://search-awesome.vercel.app/</a></p>
+<p><a href="https://archive.org/advancedsearch.php">https://archive.org/advancedsearch.php</a></p>
+<p><a href="https://bgoonz-blog.netlify.app/docs/audio/dynamic-time-warping/">https://bgoonz-blog.netlify.app/docs/audio/dynamic-time-warping/</a></p>
+<p><a href="https://bgoonz.github.io/fb-and-twitter-api-embeds/">https://bgoonz.github.io/fb-and-twitter-api-embeds/</a></p>
+<p><a href="https://bgoonzconnekt4.netlify.app/">https://bgoonzconnekt4.netlify.app/</a></p>
+<p><a href="https://bryan-guner.gitbook.io/my-docs/">Home</a></p>
+</body>
 </html>

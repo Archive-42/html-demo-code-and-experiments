@@ -1,42 +1,33 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
+[<img src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo" width="200" height="200" />]()
 
-<h3 align="center">Project Title</h3>
+### Project Title
 
-<div align="center">
+[![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+------------------------------------------------------------------------
 
-</div>
+Few lines describing your project.  
 
----
+📝 Table of Contents
+-------------------
 
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
+-   [About](#about)
+-   [Getting Started](#getting_started)
+-   [Deployment](#deployment)
+-   [Usage](#usage)
+-   [Built Using](#built_using)
+-   [TODO](../TODO.md)
+-   [Contributing](../CONTRIBUTING.md)
+-   [Authors](#authors)
+-   [Acknowledgments](#acknowledgement)
 
-## 📝 Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
-
-## 🧐 About <a name = "about"></a>
+🧐 About <span id="about"></span>
+--------------------------------
 
 Write about 1-2 paragraphs describing the purpose of your project.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+🏁 Getting Started <span id="getting_started"></span>
+----------------------------------------------------
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
@@ -44,9 +35,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them.
 
-```
-Give examples
-```
+    Give examples
 
 ### Installing
 
@@ -54,19 +43,16 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be
 
-```
-Give the example
-```
+    Give the example
 
 And repeat
 
-```
-until finished
-```
+    until finished
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-## 🔧 Running the tests <a name = "tests"></a>
+🔧 Running the tests <span id="tests"></span>
+--------------------------------------------
 
 Explain how to run the automated tests for this system.
 
@@ -74,41 +60,42 @@ Explain how to run the automated tests for this system.
 
 Explain what these tests test and why
 
-```
-Give an example
-```
+    Give an example
 
 ### And coding style tests
 
 Explain what these tests test and why
 
-```
-Give an example
-```
+    Give an example
 
-## 🎈 Usage <a name="usage"></a>
+🎈 Usage <span id="usage"></span>
+--------------------------------
 
 Add notes about how to use the system.
 
-## 🚀 Deployment <a name = "deployment"></a>
+🚀 Deployment <span id="deployment"></span>
+------------------------------------------
 
 Add additional notes about how to deploy this on a live system.
 
-## ⛏️ Built Using <a name = "built_using"></a>
+⛏️ Built Using <span id="built_using"></span>
+---------------------------------------------
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+-   [MongoDB](https://www.mongodb.com/) - Database
+-   [Express](https://expressjs.com/) - Server Framework
+-   [VueJs](https://vuejs.org/) - Web Framework
+-   [NodeJs](https://nodejs.org/en/) - Server Environment
 
-## ✍️ Authors <a name = "authors"></a>
+✍️ Authors <span id="authors"></span>
+-------------------------------------
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+-   <span class="citation" data-cites="kylelobo">\[@kylelobo\]</span>(https://github.com/kylelobo) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+🎉 Acknowledgements <span id="acknowledgement"></span>
+-----------------------------------------------------
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+-   Hat tip to anyone whose code was used
+-   Inspiration
+-   References

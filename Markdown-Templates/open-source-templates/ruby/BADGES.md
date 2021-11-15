@@ -1,4 +1,5 @@
-# Ruby and Rails Badges
+Ruby and Rails Badges
+=====================
 
 [![Gem Version](https://badge.fury.io/rb/auth0-open-source-template.svg)](http://badge.fury.io/rb/auth0-open-source-template)
 

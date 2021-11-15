@@ -94,7 +94,7 @@
 
 [https://bgoonz-blog.netlify.app/docs/interact/](https://bgoonz-blog.netlify.app/docs/interact/)
 
-- [ ]  
+- [ ]
 
 [https://docs42.netlify.app/](https://docs42.netlify.app/)
 
@@ -137,4 +137,3 @@
 [https://bgoonzconnekt4.netlify.app/](https://bgoonzconnekt4.netlify.app/)
 
 [Home](https://bryan-guner.gitbook.io/my-docs/)
-

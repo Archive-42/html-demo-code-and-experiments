@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>CONTRIBUTING</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+</head>
+<body>
+<h1 id="contributing-guide">Contributing Guide</h1>
+<ul>
+<li>Contributing to The Documentation Compendium is fairly easy. This document shows you how to get started</li>
+</ul>
+<h2 id="general">General</h2>
+<ul>
+<li>The <a href="./CODEBASE_STRUCTURE.md">Codebase Structure</a> has detailed information about how the various files in this project are structured</li>
+<li>Please ensure that any changes you make are in accordance with the <a href="./CODING_GUIDELINES.md">Coding Guidelines</a> of this repo</li>
+</ul>
+<h2 id="submitting-changes">Submitting changes</h2>
+<ul>
+<li>Fork the repo
+<ul>
+<li><a href="https://github.com/kylelobo/The-Documentation-Compendium/fork" class="uri">https://github.com/kylelobo/The-Documentation-Compendium/fork</a></li>
+</ul></li>
+<li>Check out a new branch based and name it to what you intend to do:
+<ul>
+<li><p>Example:</p>
+<pre><code>$ git checkout -b BRANCH_NAME</code></pre>
+<p>If you get an error, you may need to fetch fooBar first by using</p>
+<pre><code>$ git remote update &amp;&amp; git fetch</code></pre></li>
+<li>Use one branch per fix / feature</li>
+</ul></li>
+<li>Commit your changes
+<ul>
+<li>Please provide a git message that explains what you’ve done</li>
+<li>Please make sure your commits follow the <a href="https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53#file-commit-message-guidelines-md">conventions</a></li>
+<li>Commit to the forked repository</li>
+<li><p>Example:</p>
+<pre><code>$ git commit -am &#39;Add some fooBar&#39;</code></pre></li>
+</ul></li>
+<li>Push to the branch
+<ul>
+<li><p>Example:</p>
+<pre><code>$ git push origin BRANCH_NAME</code></pre></li>
+</ul></li>
+<li>Make a pull request
+<ul>
+<li>Make sure you send the PR to the <code>fooBar</code> branch</li>
+<li>Travis CI is watching you!</li>
+</ul></li>
+</ul>
+<p>If you follow these instructions, your PR will land pretty safely in the main repo!</p>
+</body>
+</html>
