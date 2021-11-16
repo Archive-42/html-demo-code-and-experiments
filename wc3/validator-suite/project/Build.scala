@@ -11,7 +11,7 @@ object ApplicationBuild extends Build {
   val appName = "validator-suite"
   val appVersion = "0.2"
 
-  val akkaVersion = "2.2.3"
+  val akkaVersion = "2.6.17"
   val scalazVersion = "7.0.5"
   val scalatestVersion = "2.0"
   val metricsVersion = "3.0.0"
