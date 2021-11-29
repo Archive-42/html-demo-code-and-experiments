@@ -17,12 +17,12 @@
   "author": "Brian Birtles, Shane Stephens, Douglas Stockwell",
   "license": "W3C",
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-express": "^1.4.1",
-    "grunt-open": "^0.2.3",
-    "grunt-shell": "^1.1.1",
-    "grunt-text-replace": "^0.4.0"
+    "grunt": "0.4.5",
+    "grunt-contrib-watch": "0.6.1",
+    "grunt-express": "1.4.1",
+    "grunt-open": "0.2.4",
+    "grunt-shell": "1.3.1",
+    "grunt-text-replace": "0.4.0"
   },
   "dependencies": {
     "grunt": "^0.4.5",
